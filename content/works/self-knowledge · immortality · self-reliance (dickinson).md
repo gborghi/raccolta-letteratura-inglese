@@ -35,3 +35,8 @@ tags:
   - motif/dust
 ---
 
+
+## Testo / Text
+
+- [To Mr. C. H. Clark](/testi/dickinson/atomized/self-knowledge-immortality-self-reliance#l0538_mr_c_h_clark)
+

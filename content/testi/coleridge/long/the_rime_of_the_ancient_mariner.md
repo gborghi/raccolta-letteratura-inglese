@@ -1074,6 +1074,1067 @@ L. B. 1798.
 1798.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+IN SETTE PARTI
+Facile credo, plures esse Naturas invisibiles quam visibiles in
+rerum universitate. Sed horum omnium familiam quis nobis
+enarrabit? et gradus et cognationes et discrimina et
+singulorum munera? Quid agunt? quae loca habitant? Harum rerum
+notitiam semper ambivit ingenium humanum, nunquam attigit.
+Juvat, interea, non diffiteor, quandoque in animo, tanquam in
+tabulâ, majoris et melioris mundi imaginem contemplari: ne
+mens assuefacta hodiernae vitae minutiis se contrahat nimis,
+et tota subsidat in pusillas cogitationes. Sed veritati
+interea invigilandum est, modusque servandus, ut certa ab
+incertis, diem a nocte, distinguamus. — T. BURNET, Archaeol.
+Phil. p. 68.
+
+ARGOMENTO
+Come una [[Ship|Nave]], passata la Linea, fu sospinta dalle tempeste al
+freddo Paese verso il Polo Australe; e come di là fece rotta verso la
+tropicale Latitudine del Grande Oceano Pacifico; e delle strane cose
+che accaddero; e in qual modo l'Antico Marinaro tornò al suo Paese.
+[L. B. 1798.]
+PARTE I  
+[Nota a margine: Un [[Ancient Mariner|vecchio Marinaio]] incontra tre Galanti invitati a un  
+banchetto di nozze, e ne trattiene uno.]  
+È un [[Ancient Mariner|vecchio Marinaio]],  
+e ne ferma uno di tre.  
+«Per la tua lunga barba grigia e l'occhio scintillante,  
+perché mai tu mi fermi?  
+Le porte dello Sposo sono spalancate,   5  
+e io sono il parente più stretto;  
+gli ospiti son giunti, la festa è imbandita:  
+puoi udirne il lieto frastuono».  
+Egli lo trattiene con la sua mano scarna,  
+«C'era una [[Ship|nave]]», diss'egli.   10  
+«Lasciami! giù le mani, vecchio pazzo barbagrigia!»  
+E tosto quegli lasciò la presa.  
+[Nota a margine: L'Invitato alle nozze è ammaliato dall'occhio del vecchio  
+uomo di mare, e costretto ad ascoltarne il racconto.]  
+Lo trattiene col suo occhio scintillante —  
+l'Invitato alle nozze restò immoto,  
+e ascolta come un [[Child|bimbo]] di tre anni:   15  
+il Marinaio ha ciò che vuole.  
+L'Invitato alle nozze sedette su una pietra:  
+non può fare altro che udire;  
+e così proseguì quel vecchio uomo,  
+il Marinaio dall'occhio lucente.   20  
+«La [[Ship|nave]] fu salutata, il porto sgombrato,  
+allegramente scendemmo  
+sotto la chiesa, sotto la [[Hill|collina]],  
+sotto la cima del faro.  
+[Nota a margine: Il Marinaio racconta come la [[Ship|nave]] navigò verso sud con  
+buon [[Wind|vento]] e bel tempo, finché raggiunse la linea.]  
+Il Sole si levò alla sinistra,   25  
+fuori dal mare egli venne!  
+E splendette lucente, e alla destra  
+discese giù nel mare.  
+Più alto e più alto ogni giorno,  
+finché sopra l'albero a [[Noon|mezzogiorno]]—»   30  
+Qui l'Invitato alle nozze si batté il petto,  
+ché udì il fagotto sonoro.  
+[Nota a margine: L'Invitato alle nozze ode la musica nuziale; ma il Marinaio  
+prosegue il suo racconto.]  
+La sposa è entrata a passo lento nella sala,  
+rossa come una [[Rose|rosa]] è lei;  
+chinando il capo dinanzi a lei vanno    35  
+i lieti menestrelli.  
+L'Invitato alle nozze si batté il petto,  
+pure non può fare altro che udire;  
+e così proseguì quel vecchio uomo,  
+il Marinaio dall'occhio lucente.   40  
+[Nota a margine: La [[Ship|nave]] sospinta da una [[Storm|tempesta]] verso il polo australe.]  
+«Ed ecco venne la RAFFICA di [[Storm|TEMPESTA]], ed essa  
+era tirannica e forte:  
+colpì con le sue ali che ci raggiungevano,  
+e ci incalzò verso mezzogiorno.  
+Con alberi inclinati e prora immersa,   45  
+come chi, inseguito fra urla e percosse,  
+calpesta ancora l'[[Shadow|ombra]] del suo nemico,  
+e piega il capo in avanti,  
+la [[Ship|nave]] correva rapida, forte urlava la raffica,  
+e sempre a sud fuggivamo.    50  
+Ed ecco vennero insieme nebbia e [[Snow|neve]],  
+e si fece un freddo prodigioso:  
+e ghiaccio, alto come l'albero, veniva a galla,  
+verde come smeraldo.  
+[Nota a margine: La terra del ghiaccio, e di suoni paurosi, dove non si vedeva  
+alcun essere vivente.]  
+E fra i cumuli le rupi nevose   55  
+mandavano un tetro barbaglio:  
+né forme d'uomini né di bestie scorgemmo —  
+il ghiaccio era in mezzo a tutto.  
+Il ghiaccio era qui, il ghiaccio era là,  
+il ghiaccio era tutt'intorno:   60  
+scricchiolava e ringhiava, ruggiva e ululava,  
+come rumori dentro uno svenimento!  
+[Nota a margine: Finché un grande uccello di mare, chiamato Albatro, venne  
+attraverso la nebbia di [[Snow|neve]], e fu accolto con gran gioia e ospitalità.]  
+Alfine [[Cross|traversò]] la bruma un Albatro,  
+di là dalla foschia esso venne;  
+come fosse stato un'[[Soul|anima]] cristiana,    65  
+lo salutammo nel nome di Dio.  
+Mangiò il cibo che mai aveva mangiato,  
+e volò in tondo e in tondo.  
+Il ghiaccio si spaccò con un colpo di tuono;  
+il timoniere ci guidò oltre!   70  
+[Nota a margine: Ed ecco! l'Albatro si rivela uccello di buon augurio, e  
+segue la [[Ship|nave]] mentre tornava a settentrione fra nebbia e ghiaccio  
+galleggiante.]  
+E un buon [[Wind|vento]] di sud si levò da poppa;  
+l'Albatro seguiva,  
+e ogni giorno, per cibo o per gioco,  
+veniva al richiamo dei marinai!  
+Tra bruma o nube, su albero o su sartia,   75  
+per nove vespri si posò;  
+mentre tutta la [[Night|notte]], nel bianco fumo di nebbia,  
+luccicava il bianco chiaro di [[Moon|Luna]]».  
+[Nota a margine: Il [[Ancient Mariner|vecchio Marinaio]] uccide inospitalmente il pio uccello  
+di buon augurio.]  
+«Dio ti salvi, [[Ancient Mariner|vecchio Marinaio]]!  
+Dai demòni che così ti tormentano! — 80  
+Perché guardi in quel modo?» — Con la mia [[Cross|balestra]]  
+io trafissi l'ALBATRO.  
+PARTE II  
+Il Sole ora [[Rose|sorse]] alla destra:  
+fuori dal mare egli venne,  
+ancora celato nella bruma, e alla sinistra   85  
+discese giù nel mare.  
+E il buon [[Wind|vento]] di sud soffiava ancora da poppa,  
+ma nessun dolce uccello seguiva,  
+né alcun giorno, per cibo o per gioco,  
+veniva al richiamo dei marinai!   90  
+[Nota a margine: I compagni di bordo inveiscono contro il [[Ancient Mariner|vecchio Marinaio]],  
+per aver ucciso l'uccello di buona sorte.]  
+E io avevo fatto una cosa infernale,  
+e sciagura avrebbe portato loro:  
+ché tutti affermarono ch'io avevo ucciso l'uccello  
+che faceva spirare la brezza.  
+Ah sciagurato! dissero, uccidere l'uccello   95  
+che faceva spirare la brezza!  
+[Nota a margine: Ma quando la nebbia si diradò, essi giustificano l'atto, e così  
+si fanno complici del delitto.]  
+Né fosco né rosso, ma come il capo stesso di Dio,  
+il Sole glorioso si levò:  
+allora tutti affermarono ch'io avevo ucciso l'uccello  
+che portava la nebbia e la bruma.   100  
+Fu giusto, dissero, uccidere tali [[Birds|uccelli]],  
+che portano la nebbia e la bruma.  
+[Nota a margine: La brezza propizia continua; la [[Ship|nave]] entra nell'Oceano Pacifico,  
+e naviga verso nord, fino a raggiungere la Linea.]  
+Soffiava la brezza propizia, volava la bianca spuma,  
+libero seguiva il solco;  
+fummo i primi che mai irrompessero   105  
+in quel mare silenzioso.  
+[Nota a margine: La [[Ship|nave]] è stata d'improvviso colta dalla bonaccia.]  
+Cadde la brezza, caddero le vele,  
+fu triste quanto più triste non si può;  
+e parlavamo solo per rompere  
+il [[Silence|silenzio]] del mare!   110  
+Tutto in un cielo caldo e di rame,  
+il Sole sanguigno a [[Noon|mezzogiorno]],  
+ritto sopra l'albero stava,  
+non più grande della [[Moon|Luna]].  
+Giorno dopo giorno, giorno dopo giorno,   115  
+restammo fermi, né fiato né moto;  
+inerti come una [[Ship|nave]] dipinta  
+sopra un oceano dipinto.  
+[Nota a margine: E l'Albatro comincia a essere vendicato.]  
+[[Water|Acqua]], [[Water|acqua]], dappertutto,  
+e tutte le tavole si ritiravano;   120  
+[[Water|acqua]], [[Water|acqua]], dappertutto,  
+né una goccia da bere.  
+Il fondo stesso imputridiva: o [[Christ|Cristo]]!  
+che mai ciò dovesse accadere!  
+Sì, cose viscide strisciavano con zampe   125  
+sopra il mare viscido.  
+Intorno, intorno, in turbine e tumulto  
+i fuochi della [[Death|morte]] danzavano di [[Night|notte]];  
+l'[[Water|acqua]], come gli unguenti d'una [[Witch|strega]],  
+ardeva verde, e azzurra e bianca.   130  
+[Nota a margine: Uno Spirito li aveva seguiti; uno degli invisibili abitatori  
+di questo pianeta, né anime dei defunti né angeli; sui quali si può consultare  
+il dotto Ebreo, Giuseppe Flavio, e il Platonico di Costantinopoli, [[Michael|Michele]]  
+Psello. Sono numerosissimi, e non v'è  
+clima o elemento che non ne abbia uno o più.]  
+E alcuni in [[Dreams|sogno]] ebbero certezza  
+dello Spirito che così ci tormentava;  
+nove tese sott'acqua ci aveva seguiti  
+dalla terra della bruma e della [[Snow|neve]].  
+E ogni lingua, per l'arsura estrema,   135  
+era inaridita alla radice;  
+non potevamo parlare, non più che se  
+fossimo stati soffocati dalla fuliggine.  
+[Nota a margine: I compagni di bordo, nella loro grave angoscia, vorrebbero gettare  
+tutta la [[Guilt|colpa]] sul [[Ancient Mariner|vecchio Marinaio]]: in segno di ciò gli appendono al collo  
+l'uccello di mare morto.]  
+Ah! [[Well|ahimè]], giorno funesto! che sguardi maligni  
+ebbi da vecchi e da giovani!    140  
+Invece della [[Cross|croce]], l'Albatro  
+mi fu appeso al collo.  
+PARTE III  
+[Nota a margine: Il [[Ancient Mariner|vecchio Marinaio]] scorge un segno lontano  
+nell'elemento.]  
+Passò un [[Time|tempo]] penoso. Ogni gola  
+era riarsa, e vitreo ogni occhio.  
+Un [[Time|tempo]] penoso! un [[Time|tempo]] penoso!   145  
+Com'era vitreo ogni occhio stanco,  
+quando, guardando a ponente, scorsi  
+un non so che nel cielo.  
+Dapprima parve un piccolo puntino,  
+e poi parve una bruma;   150  
+si mosse e si mosse, e prese infine  
+una forma precisa, mi parve.  
+Un punto, una bruma, una forma, mi parve!  
+E sempre s'appressava e s'appressava:  
+come schivasse uno spirito dell'[[Water|acqua]],   155  
+s'immergeva e bordeggiava e virava.  
+[Nota a margine: Al suo più vicino approssimarsi, gli sembra una [[Ship|nave]]; e a caro  
+prezzo libera la parola dai lacci della sete.]  
+Con gole non dissetate, con labbra nere e riarse,  
+non potevamo né ridere né gemere;  
+per l'arsura estrema stemmo tutti muti!  
+Mi morsi il braccio, ne succhiai il [[Blood|sangue]],   160  
+e gridai: una vela! una vela!  
+Con gole non dissetate, con labbra nere e riarse,  
+a bocca aperta udirono il mio grido:  
+[Nota a margine: Un lampo di gioia;]  
+Gran mercé! ghignarono di gioia,  
+e tutti a un tratto trassero il fiato,   165  
+come se tutti stessero bevendo.  
+[Nota a margine: E segue l'orrore. Ché può essere una [[Ship|nave]] quella che avanza  
+senza [[Wind|vento]] né marea?]  
+Guardate! guardate! (gridai) non bordeggia più!  
+Qua viene a recarci salvezza;  
+senza una brezza, senza una marea,  
+avanza salda con la chiglia diritta!   170  
+L'onda occidentale era tutta una fiamma.  
+Il giorno era [[Well|quasi]] finito!  
+Quasi sopra l'onda occidentale  
+posava il Sole ampio e lucente;  
+quando quella strana forma s'interpose d'un tratto   175  
+fra noi e il Sole.  
+[Nota a margine: Gli sembra soltanto lo [[skeleton|scheletro]] d'una [[Ship|nave]].]  
+E subito il Sole fu screziato di sbarre,  
+(la Madre del Cielo ci conceda grazia!)  
+come se attraverso l'inferriata d'un carcere occhieggiasse  
+col volto largo e ardente.   180  
+[Nota a margine: E le sue costole si vedono come sbarre sul volto del Sole  
+che tramonta.]  
+Ahimè! (pensai, e il cuore mi batteva forte)  
+come s'appressa rapida e s'appressa!  
+Son quelle le sue vele che brillano al Sole,  
+come ragnatele inquiete?  
+[Nota a margine: La Donna-Spettro e il suo compagno [[Death|Morte]], e nessun altro a bordo  
+della [[Ship|nave]]-[[skeleton|scheletro]].]  
+Son quelle le sue costole attraverso cui il Sole   185  
+occhieggiava, come attraverso una grata?  
+Ed è quella Donna tutto il suo equipaggio?  
+È quella la [[Death|MORTE]]? e sono due?  
+È la [[Death|MORTE]] il compagno di quella donna?  
+[Nota a margine: Quale la nave, tale l'equipaggio!]  
+[Nota a margine: [[Death|Morte]] e Vita-in-[[Death|Morte]] hanno giocato ai dadi l'equipaggio della [[Ship|nave]], ed  
+essa (la seconda) si aggiudica il [[Ancient Mariner|vecchio Marinaio]].]  
+Le sue labbra eran rosse, gli sguardi liberi,   190  
+le sue chiome eran gialle come oro:  
+la sua pelle era bianca come lebbra,  
+l'Incubo della [[Night|Notte]], VITA-IN-[[Death|MORTE]], era lei,  
+che agghiaccia di freddo il [[Blood|sangue]] dell'uomo.  
+Lo scafo nudo giunse al fianco,   195  
+e i due gettavano i dadi;  
+«La partita è finita! Ho vinto! Ho vinto!»  
+disse lei, e fischia tre volte.  
+[Nota a margine: Nessun crepuscolo nelle corti del Sole.]  
+L'orlo del Sole s'immerge: le [[Stars|stelle]] balzano fuori:  
+d'un solo passo viene il buio;   200  
+con un sussurro udito di lontano, sopra il mare  
+via schizzò la barca spettrale.  
+[Nota a margine: Al sorgere della [[Moon|Luna]].]  
+Ascoltammo e guardammo in alto di traverso!  
+La [[Fear|paura]] al mio cuore, come a una coppa,  
+il mio [[Blood|sangue]] vitale pareva sorbire!   205  
+Le [[Stars|stelle]] eran fioche, e fitta la [[Night|notte]],  
+il volto del timoniere alla sua lampada biancheggiava;  
+dalle vele stillava la rugiada —  
+finché salì sopra la sbarra d'oriente  
+la [[Moon|Luna]] cornuta, con una stella lucente   210  
+dentro la punta inferiore.  
+[Nota a margine: Uno dopo l'altro,]  
+Uno dopo uno, sotto la [[Moon|Luna]] inseguita dalla stella,  
+troppo in fretta per un gemito o un sospiro,  
+ciascuno volse il viso con uno spasimo orrendo,  
+e mi maledisse con l'occhio.   215  
+[Nota a margine: I suoi compagni di bordo cadono morti.]  
+Quattro volte cinquanta uomini vivi,  
+(e non udii né sospiro né gemito)  
+con un tonfo pesante, massa senza vita,  
+caddero giù a uno a uno.  
+[Nota a margine: Ma Vita-in-[[Death|Morte]] comincia la sua opera sul [[Ancient Mariner|vecchio Marinaio]].]  
+Le anime volarono via dai loro corpi, — 220  
+fuggirono alla beatitudine o al dolore!  
+E ogni [[Soul|anima]] mi passò accanto,  
+come il sibilo della mia [[Cross|balestra]]!  
+PARTE IV  
+[Nota a margine: L'Invitato alle nozze teme che gli parli uno Spirito;]  
+«Ti [[Fear|temo]], [[Ancient Mariner|vecchio Marinaio]]!  
+[[Fear|Temo]] la tua mano scarna!   225  
+E tu sei lungo, e magro, e bruno,  
+come la sabbia rigata del mare.  
+[Nota a margine: Ma il [[Ancient Mariner|vecchio Marinaio]] lo rassicura sulla sua vita corporea, e  
+procede a narrare la sua orribile penitenza.]  
+Ti [[Fear|temo]], e temo il tuo occhio scintillante,  
+e la tua mano scarna, così bruna». —  
+Non [[Fear|temere]], non [[Fear|temere]], Invitato alle nozze!   230  
+Questo [[Body|corpo]] non cadde giù.  
+[[Alone|Solo]], [[Alone|solo]], tutto, tutto [[Alone|solo]],  
+[[Alone|solo]] su un mare vasto vasto!  
+E mai un santo ebbe pietà  
+dell'[[Soul|anima]] mia in agonia.   235  
+[Nota a margine: Disprezza le creature della bonaccia,]  
+I molti uomini, così belli!  
+E tutti giacevano morti:  
+e mille e mille cose viscide  
+vivevano ancora; e così io.  
+[Nota a margine: E invidia che esse vivano, e tanti giacciano morti.]  
+Guardai il mare che imputridiva,   240  
+e distolsi gli occhi;  
+guardai il ponte che imputridiva,  
+e là giacevano i morti.  
+Guardai al cielo, e tentai di pregare;  
+ma prima che una [[Prayer|preghiera]] sgorgasse,   245  
+venne un sussurro maligno, e rese  
+il mio cuore arido come [[Dust|polvere]].  
+Chiusi le palpebre, e le tenni chiuse,  
+e i globi battevano come polsi;  
+ché il cielo e il mare, e il mare e il cielo   250  
+gravavano come un peso sul mio occhio stanco,  
+e i morti erano ai miei piedi.  
+[Nota a margine: Ma la maledizione vive per lui nell'occhio dei morti.]  
+Il sudore freddo si sciolse dalle loro membra,  
+né imputridivano né putivano:  
+lo sguardo con cui mi guardarono   255  
+non era mai svanito.  
+La maledizione d'un [[Orphan|orfano]] trascinerebbe all'inferno  
+uno spirito dall'alto;  
+ma oh! più orribile di quella  
+è la maledizione nell'occhio d'un morto!   260  
+Sette giorni, sette notti, vidi quella maledizione,  
+e pure non potevo morire.  
+[Nota a margine: Nella sua [[Loneliness|solitudine]] e immobilità egli anela alla [[Moon|Luna]]  
+che viaggia, e alle [[Stars|stelle]] che pur sostano, e pure sempre avanzano;  
+e dovunque il cielo azzurro appartiene loro, ed è il loro riposo  
+assegnato, e la loro patria e le loro naturali dimore,  
+in cui entrano senza annuncio, come signori che sono certamente attesi e  
+pure v'è una gioia silenziosa al loro arrivo.]  
+La [[Moon|Luna]] in cammino saliva per il cielo,  
+e in nessun luogo si fermava:  
+dolcemente saliva,   265  
+e una stella o due accanto —  
+i suoi raggi schernivano il mare afoso,  
+come [[Frost|brina]] d'aprile distesa;  
+ma dove giaceva l'enorme [[Shadow|ombra]] della [[Ship|nave]],  
+l'[[Water|acqua]] stregata ardeva sempre   270  
+d'un rosso immoto e tremendo.  
+[Nota a margine: Alla luce della [[Moon|Luna]] egli scorge le creature di Dio della  
+grande bonaccia.]  
+Oltre l'[[Shadow|ombra]] della [[Ship|nave]],  
+osservavo i serpenti d'[[Water|acqua]]:  
+si movevano in scie d'un bianco lucente,  
+e quando s'inarcavano, la luce fatata  
+275  
+cadeva in fiocchi canuti.  
+Dentro l'[[Shadow|ombra]] della [[Ship|nave]]  
+osservavo la loro ricca veste:  
+azzurri, verdi lucidi, e neri di velluto,  
+si attorcevano e nuotavano; e ogni scia   280  
+era un lampo di [[Fire|fuoco]] d'oro.  
+[Nota a margine: La loro [[Beauty|bellezza]] e la loro felicità.]  
+[Nota a margine: Egli li benedice nel suo cuore.]  
+O felici creature viventi! nessuna lingua  
+potrebbe dire la loro [[Beauty|bellezza]]:  
+una [[spring|sorgente]] d'[[Love|amore]] sgorgò dal mio cuore,  
+e li benedissi senza saperlo:   285  
+certo il mio buon santo ebbe pietà di me,  
+e li benedissi senza saperlo.  
+[Nota a margine: L'incantesimo comincia a spezzarsi.]  
+In quello [[Self|stesso]] momento potei pregare;  
+e dal mio collo, libero,  
+l'Albatro cadde, e affondò   290  
+come piombo nel mare.  
+PARTE V  
+Oh [[Sleep|sonno]]! è cosa gentile,  
+amata da polo a polo!  
+A Maria [[Queen|Regina]] sia data lode!  
+Ella mandò dal Cielo il dolce [[Sleep|sonno]],   295  
+che scivolò nell'[[Soul|anima]] mia.  
+[Nota a margine: Per grazia della santa Madre, il [[Ancient Mariner|vecchio Marinaio]] è ristorato  
+dalla pioggia.]  
+I poveri secchi sul ponte,  
+rimasti là tanto a lungo,  
+sognai che fossero colmi di rugiada;  
+e quando mi destai, pioveva.   300  
+Le mie labbra eran bagnate, fredda la gola,  
+le mie vesti tutte umide;  
+certo avevo bevuto nei miei [[Dreams|sogni]],  
+e ancora il mio [[Body|corpo]] beveva.  
+Mi mossi, e non sentivo le membra:   305  
+ero così leggero — quasi  
+pensai d'esser morto nel [[Sleep|sonno]],  
+e d'essere un [[Ghost|fantasma]] beato.  
+[Nota a margine: Ode suoni e vede strane visioni e commozioni  
+nel cielo e nell'elemento.]  
+E presto udii un [[Wind|vento]] ruggente:  
+non veniva vicino;   310  
+ma col suo suono scosse le vele,  
+che eran così sottili e secche.  
+L'aria superiore proruppe in vita!  
+E cento vessilli di [[Fire|fuoco]] lucenti,  
+qua e là erano sospinti in fretta!   315  
+E qua e là, e dentro e fuori,  
+le pallide [[Stars|stelle]] danzavano in mezzo.  
+E il [[Wind|vento]] che veniva ruggiva più forte,  
+e le vele sospiravano come giunchi;  
+e la pioggia scrosciava da una nube nera;   320  
+la [[Moon|Luna]] era al suo margine.  
+La fitta nube nera fu squarciata, e ancora  
+la [[Moon|Luna]] le stava al fianco:  
+come acque scagliate da un'alta rupe,  
+il [[Lightning|fulmine]] cadeva senza una frastagliatura,   325  
+un [[River|fiume]] ripido e largo.  
+[Nota a margine: I corpi dell'equipaggio della [[Ship|nave]] sono ispirati [animati, S.  
+L.] e la [[Ship|nave]] avanza;]  
+Il [[Wind|vento]] sonoro non giunse mai alla [[Ship|nave]],  
+eppure ora la [[Ship|nave]] avanzava!  
+Sotto il [[Lightning|fulmine]] e la [[Moon|Luna]]  
+i morti mandarono un gemito.   330  
+Gemettero, si mossero, tutti si levarono,  
+né parlarono, né mossero gli occhi;  
+sarebbe stato strano, anche in [[A Dream|un sogno]],  
+veder levarsi quei morti.  
+Il timoniere guidava, la [[Ship|nave]] avanzava;   335  
+eppure mai una brezza spirò;  
+i marinai tutti presero a manovrare le corde,  
+dove eran soliti fare;  
+levavano le membra come arnesi senza vita —  
+eravamo una ciurma spettrale.   340  
+Il [[Body|corpo]] del figlio di mio fratello  
+mi stava accanto, ginocchio a ginocchio:  
+il [[Body|corpo]] e io tiravamo la stessa fune,  
+ma egli non mi disse nulla.  
+[Nota a margine: Ma non dalle anime degli uomini, né da demoni della terra o  
+dell'aria mediana, bensì da una schiera beata di spiriti angelici, mandati giù  
+dall'invocazione del santo custode.]  
+«Ti [[Fear|temo]], [[Ancient Mariner|vecchio Marinaio]]!»   345  
+Sta' calmo, Invitato alle nozze!  
+Non furono quelle anime fuggite nel [[Pain|dolore]],  
+che tornarono ai loro cadaveri,  
+ma una schiera di spiriti beati:  
+ché quando albeggiò — lasciarono cadere le braccia,  
+e si strinsero attorno all'albero;   351  
+dolci suoni [[Rose|salirono]] lenti dalle loro bocche,  
+e uscirono dai loro corpi.  
+Intorno, intorno, volò ogni dolce suono,  
+poi si slanciò verso il Sole;   355  
+lenti i suoni tornarono indietro,  
+ora mescolati, ora a uno a uno.  
+Talvolta, cadendo giù dal cielo,  
+udivo l'allodola cantare;  
+talvolta tutti i piccoli [[Birds|uccelli]] che sono,   360  
+come parevano riempire il mare e l'aria  
+col loro dolce cinguettio!  
+E ora era come tutti gli strumenti,  
+ora come un flauto solitario;  
+e ora è il [[Song|canto]] d'un angelo,   365  
+che fa ammutolire i cieli.  
+Cessò; eppure le vele continuarono  
+un suono gradevole fino a [[Noon|mezzogiorno]],  
+un suono come d'un ruscello nascosto  
+nel frondoso mese di giugno,   370  
+che ai boschi dormienti tutta la [[Night|notte]]  
+canta una quieta melodia.  
+Fino a [[Noon|mezzogiorno]] navigammo quieti,  
+eppure mai una brezza spirò:  
+lenta e liscia andava la [[Ship|nave]],    375  
+mossa innanzi dal di sotto.  
+[Nota a margine: Lo Spirito solitario del polo australe porta la [[Ship|nave]]  
+fino alla Linea, in obbedienza alla schiera angelica, ma esige  
+ancora vendetta.]  
+Sotto la chiglia, a nove tese di fondo,  
+dalla terra della bruma e della [[Snow|neve]],  
+lo spirito scivolava: ed era lui  
+che faceva andare la [[Ship|nave]].    380  
+Le vele a [[Noon|mezzogiorno]] lasciarono la loro melodia,  
+e anche la [[Ship|nave]] si fermò.  
+Il Sole, ritto sopra l'albero,  
+l'aveva fissata all'oceano:  
+ma in un minuto ella prese a muoversi,   385  
+con un moto breve e inquieto —  
+avanti e indietro per metà della sua lunghezza  
+con un moto breve e inquieto.  
+Poi come un [[Horse|cavallo]] scalpitante lasciato libero,  
+diede un balzo improvviso:   390  
+mi scagliò il [[Blood|sangue]] alla testa,  
+e caddi giù svenuto.  
+[Nota a margine: I demoni compagni dello Spirito Polare, gli invisibili abitatori  
+dell'elemento, prendono parte al suo torto; e due di loro narrano, l'uno  
+all'altro, che una penitenza lunga e grave per il [[Ancient Mariner|vecchio Marinaio]] è stata  
+accordata allo Spirito Polare, che ritorna verso sud.]  
+Quanto giacqui in quello stesso deliquio,  
+non ho da dire;  
+ma prima che la mia vita viva tornasse,   395  
+udii e nell'[[Soul|anima]] mia distinsi  
+due voci nell'aria.  
+«È lui?» disse l'una, «È questo l'uomo?  
+Per colui che morì in [[Cross|croce]],  
+col suo arco crudele abbatté   400  
+l'innocuo Albatro.  
+Lo spirito che dimora solitario  
+nella terra della bruma e della [[Snow|neve]],  
+egli amava l'uccello che amava l'uomo  
+che lo colpì col suo arco».   405  
+L'altra era una voce più soave,  
+soave come rugiada di miele:  
+disse: «L'uomo ha fatto penitenza,  
+e altra penitenza farà».  
+PARTE VI  
+PRIMA VOCE  
+«Ma dimmi, dimmi! parla ancora,   410  
+rinnovando la tua dolce risposta —  
+che cosa fa correre così veloce quella [[Ship|nave]]?  
+che cosa fa l'oceano?»  
+SECONDA VOCE  
+«Immoto come uno schiavo davanti al suo signore,  
+l'oceano non ha raffica;   415  
+il suo grande occhio lucente silenziosissimo  
+è volto in alto verso la [[Moon|Luna]] —  
+per sapere quale via prendere;  
+ché ella lo guida placida o torva.  
+Guarda, fratello, guarda! con quanta grazia   420  
+ella lo guarda dall'alto».  
+[Nota a margine: Il Marinaio è stato gettato in un'estasi; ché la potenza  
+angelica fa correre il vascello verso nord più veloce di quanto la vita umana  
+potrebbe sopportare.]  
+PRIMA VOCE  
+«Ma perché corre così veloce quella [[Ship|nave]],  
+senza onda né [[Wind|vento]]?»  
+SECONDA VOCE  
+«L'aria è tagliata davanti,  
+e si richiude di dietro.   425  
+Vola, fratello, vola! più in alto, più in alto!  
+o faremo tardi:  
+ché lenta e lenta andrà quella [[Ship|nave]],  
+quando l'estasi del Marinaio sarà cessata».  
+[Nota a margine: Il moto [[Supernatural|soprannaturale]] è rallentato; il Marinaio si desta, e  
+la sua penitenza ricomincia.]  
+Mi destai, e navigavamo   430  
+come in un tempo mite:  
+era [[Night|notte]], calma [[Night|notte]], la [[Moon|luna]] era alta;  
+i morti stavano insieme.  
+Tutti stavano insieme sul ponte,  
+più adatti a un ossario-prigione:   435  
+tutti fissavano su di me i loro occhi di pietra,  
+che nella [[Moon|Luna]] scintillavano.  
+Lo spasimo, la maledizione con cui morirono,  
+non erano mai svaniti:  
+non potevo staccare i miei occhi dai loro,   440  
+né alzarli a pregare.  
+[Nota a margine: La maledizione è finalmente espiata.]  
+E ora quest'incantesimo fu spezzato: ancora una volta  
+vidi l'oceano verde,  
+e guardai lontano innanzi, eppure poco vidi  
+di ciò che altrimenti si sarebbe visto — 445  
+come uno che su una [[Road|strada]] solitaria  
+cammina in [[Fear|paura]] e sgomento,  
+e volgendosi una volta indietro prosegue,  
+e non volge più il capo;  
+perché sa che un demone spaventoso   450  
+gli cammina alle spalle da presso.  
+Ma presto spirò su di me un [[Wind|vento]],  
+che non faceva suono né moto:  
+la sua via non era sul mare,  
+in increspatura né in ombra.   455  
+Mi sollevò i capelli, mi ventilò la guancia  
+come una brezza di prato a [[spring|primavera]] —  
+si mescolò stranamente ai miei timori,  
+eppure parve un benvenuto.  
+Rapida, rapida volava la [[Ship|nave]],   460  
+eppure navigava anche dolcemente:  
+dolce, dolce soffiava la brezza —  
+su me [[Alone|solo]] soffiava.  
+[Nota a margine: E il [[Ancient Mariner|vecchio Marinaio]] scorge il suo paese natio.]  
+Oh! sogno di gioia! è dunque questa  
+la cima del [[house|faro]] che vedo?   465  
+È questa la [[Hill|collina]]? è questa la chiesa?  
+È questo il mio proprio paese?  
+Passammo sopra la barra del porto,  
+e io pregavo tra i singhiozzi —  
+oh, fammi essere sveglio, mio Dio!   470  
+o fammi [[Sleep|dormire]] per sempre.  
+La baia del porto era chiara come vetro,  
+così liscia era distesa!  
+E sulla baia giaceva il chiaro di luna,  
+e l'[[Shadow|ombra]] della [[Moon|Luna]].   475  
+La roccia splendeva lucente, e non meno la chiesa,  
+che sta sopra la roccia:  
+il chiaro di luna immergeva nel silenzio  
+la ferma banderuola.  
+[Nota a margine: Gli spiriti angelici lasciano i corpi morti,]  
+E la baia era bianca di luce silenziosa,   480  
+finché, levandosi da essa,  
+molte forme, che erano ombre,  
+vennero in colori cremisi.  
+[Nota a margine: E appaiono nelle loro proprie forme di luce.]  
+A poca distanza dalla prora  
+stavano quelle ombre cremisi:   485  
+volsi gli occhi verso il ponte —  
+oh, [[Christ|Cristo]]! che vidi là!  
+Ogni cadavere giaceva disteso, senza vita e disteso,  
+e, per la santa croce!  
+un uomo tutto luce, un uomo-serafino,   490  
+stava ritto su ogni cadavere.  
+Questa schiera di serafini, ciascuno agitò la mano:  
+era una vista celeste!  
+Stavano come segnali verso terra,  
+ciascuno una luce amorosa;   495  
+questa schiera di serafini, ciascuno agitò la mano,  
+nessuna voce essi mandavano —  
+nessuna voce; ma oh! il [[Silence|silenzio]] scese  
+come musica sul mio cuore.  
+Ma presto udii il tonfo dei remi,    500  
+udii il grido del Pilota;  
+il mio capo fu volto per forza altrove,  
+e vidi apparire una barca.  
+Il Pilota e il figlio del Pilota,  
+li udii venire in fretta:    505  
+caro Signore in Cielo! era una gioia  
+che i morti non potevano appassire.  
+Ne vidi un terzo — udii la sua voce:  
+è il buon Eremita!  
+Canta forte i suoi inni devoti   510  
+che compone nel bosco.  
+Egli assolverà l'[[Soul|anima]] mia, laverà via  
+il [[Blood|sangue]] dell'Albatro.  
+PARTE VII  
+[Nota a margine: L'Eremita del Bosco,]  
+Questo buon Eremita vive in quel bosco  
+che digrada verso il mare.   515  
+Come alza forte la sua dolce voce!  
+Ama parlare coi marinai  
+che vengono da un paese lontano.  
+S'inginocchia al mattino, a [[Noon|mezzogiorno]] e a sera —  
+ha un cuscino ben soffice:   520  
+è il musco che tutto nasconde  
+il vecchio ceppo marcito di quercia.  
+Il palischermo s'accostò: li udii parlare,  
+«Ma questo è strano, mi pare!  
+Dove sono quelle luci tante e belle,   525  
+che facevan segnale poc'anzi?»  
+[Nota a margine: S'accosta alla [[Ship|nave]] con [[Wonder|meraviglia]].]  
+«Strano, in [[Faith|fede]] mia!» disse l'Eremita —  
+«E non risposero al nostro grido!  
+Le tavole parevan contorte! e guarda quelle vele,  
+come son sottili e secche!   530  
+Non vidi mai nulla di simile a loro,  
+se non forse fossero  
+bruni scheletri di [[Leaves|foglie]] che indugiano  
+lungo il mio ruscello di foresta;  
+quando il cespo d'edera è greve di [[Snow|neve]],   535  
+e il gufetto grida al lupo di sotto,  
+che divora i piccoli della lupa».  
+«Caro Signore! ha un aspetto diabolico —  
+(rispose il Pilota)  
+ho paura» — «Avanti, avanti!»   540  
+disse l'Eremita allegramente.  
+La barca s'accostò di più alla [[Ship|nave]],  
+ma io non parlai né mi mossi;  
+la barca venne proprio sotto la [[Ship|nave]],  
+e subito s'udì un suono.   545  
+[Nota a margine: La [[Ship|nave]] improvvisamente affonda.]  
+Sotto l'[[Water|acqua]] rombava,  
+sempre più forte e più tremendo:  
+raggiunse la [[Ship|nave]], squarciò la baia;  
+la [[Ship|nave]] andò giù come piombo.  
+[Nota a margine: Il [[Ancient Mariner|vecchio Marinaio]] è salvato nella barca del Pilota.]  
+Stordito da quel suono forte e terribile,   550  
+che percosse il cielo e l'oceano,  
+come uno che sia stato annegato sette giorni  
+il mio [[Body|corpo]] galleggiava;  
+ma rapido come i [[Dreams|sogni]], mi ritrovai  
+dentro la barca del Pilota.   555  
+Sul vortice, dove affondò la [[Ship|nave]],  
+la barca girò in tondo e in tondo;  
+e tutto era immoto, salvo che la [[Hill|collina]]  
+ripeteva quel suono.  
+Mossi le labbra — il Pilota gridò   560  
+e cadde giù in convulsione;  
+il santo Eremita alzò gli occhi,  
+e pregò là dove sedeva.  
+Presi i remi: il figlio del Pilota,  
+che ora va pazzo,   565  
+rise forte e a lungo, e per tutto quel tempo  
+i suoi occhi andavano qua e là.  
+«Ah! ah!» disse, «lo vedo chiaramente.  
+Il Diavolo sa remare».  
+E ora, tutto nel mio paese,   570  
+stavo sulla terra ferma!  
+L'Eremita scese dalla barca,  
+e a stento poteva reggersi.  
+[Nota a margine: Il [[Ancient Mariner|vecchio Marinaio]] supplica ardentemente l'Eremita di  
+assolverlo; e la penitenza della vita cade su di lui.]  
+«Oh assolvimi, assolvimi, sant'uomo!»  
+L'Eremita si segnò la fronte.   575  
+«Di' presto,» disse, «ti comando di dire —  
+che sorta d'uomo sei tu?»  
+Sull'istante questa mia persona fu torta  
+da una dolorosa agonia,  
+che mi costrinse a cominciare il mio racconto;   580  
+e poi mi lasciò libero.  
+[Nota a margine: E di quando in quando, per tutta la sua vita futura, un'agonia  
+lo costringe a viaggiare di terra in terra;]  
+Da allora, a un'ora incerta,  
+quell'agonia ritorna:  
+e finché il mio racconto spettrale non è detto,  
+questo cuore mi arde dentro.   585  
+Passo, come la [[Night|notte]], di terra in terra;  
+ho uno strano potere di parola;  
+nell'istante in cui vedo il suo volto,  
+conosco l'uomo che deve ascoltarmi:  
+a lui insegno il mio racconto.   590  
+Che gran chiasso prorompe da quella porta!  
+Gli invitati alle nozze son là:  
+ma nella pergola del [[Garden|giardino]] la sposa  
+e le damigelle stanno cantando:  
+e odi la piccola campana del vespro,   595  
+che mi chiama alla [[Prayer|preghiera]]!  
+O Invitato alle nozze! quest'[[Soul|anima]] è stata  
+[[Alone|sola]] su un mare vasto vasto:  
+così sola, che Dio stesso  
+a stento pareva esservi.   600  
+Oh più dolce del banchetto di [[Marriage|nozze]],  
+assai più dolce è per me  
+andare insieme alla chiesa  
+con una buona compagnia! —  
+andare insieme alla chiesa,   605  
+e tutti insieme pregare,  
+mentre ciascuno al suo gran Padre si china,  
+vecchi, e bimbi, e amici affettuosi  
+e giovani e fanciulle liete!  
+[Nota a margine: E a insegnare, col proprio esempio, [[Love|amore]] e riverenza a tutte  
+le cose che Dio fece e ama.]  
+Addio, addio! ma questo io dico   610  
+a te, Invitato alle nozze!  
+Prega [[Well|bene]] chi ama [[Well|bene]]  
+e l'uomo e l'uccello e la bestia.  
+Prega meglio chi ama meglio  
+tutte le cose, e grandi e piccole;   615  
+ché il caro Dio che ci ama,  
+egli fece e ama tutto.  
+Il Marinaio, il cui occhio è lucente,  
+la cui barba è canuta per gli anni,  
+se n'è andato: e ora l'Invitato alle nozze    620  
+si volse dalla porta dello sposo.  
+Se ne andò come uno che sia stato stordito,  
+e sia privo dei sensi:  
+più triste e più saggio,  
+si [[Rose|levò]] la mattina dopo.   625  
+1797-1798.  
+Wordsworth. Fu  
+durante  
+una  
+deliziosa  
+passeggiata  
+da  
+Nether Stowey  
+a Dulverton,  
+con lui e sua sorella, nell'[[Autumn|Autunno]] del 1797, che questo Poema fu  
+ideato, e in parte composto. [Nota di S. T. C., stampata per la prima volta in  
+Sibylline [[Leaves]].]  
+Titolo]  
+THE RIME OF THE ANCYENT MARINERE.  
+In Seven Parts L. B. 1798: The  
+[[Ancient Mariner]]. A Poet's Reverie L. B. 1800, 1802, 1805.  
+[Nota. — L'«Argomento» fu omesso in L. B. 1802, 1805, Sibylline  
+[[Leaves]], 1817, e nel 1828, 1829 e 1834.]  
+
+THE RIME OF THE [[Ancient Mariner|ANCIENT MARINER]] PART I I L. B. 1798, 1800.  
+THE RIME  
+OF  
+THE [[Ancient Mariner|ANCIENT MARINER]]. IN SEVEN PARTS. S. L., 1828, 1829.  
+E MARINER: «MARINERE» DAPPERTUTTO L. B. 1798.  
+[Tra 8 e 13]  
+Ma ancora egli trattiene l'invitato alle nozze —  
+C'era una [[Ship|Nave]], diss'egli —  
+«No, se hai un racconto da ridere,  
+Marinaro, [Marinaio! 1800] vieni con me».  
+Lo trattiene con la sua mano scarna —  
+Diss'egli, c'era una [[Ship|Nave]] —  
+Or vattene via, vecchio pazzo barbagrigia!  
+o il mio Bastone ti farà saltare.  
+L. B. 1798, 1800.  
+[Tra 40 e 55]  
+Ascolta, Straniero! [[Storm|Tempesta]] e [[Wind|Vento]],  
+un [[Wind|Vento]] e una Burrasca gagliarda!  
+Per giorni e settimane ci fece i suoi capricci —  
+come pula fummo sospinti.  
+Ascolta, Straniero! Bruma e [[Snow|Neve]],  
+e si fece un freddo prodigioso;  
+e Ghiaccio alto come l'albero veniva a galla  
+verde come Smeraldo.  
+L. B. 1798.  
+[Tra 40 e 51]  
+Ma ora il Vento del Nord venne più fiero,  
+venne una Burrasca gagliarda!  
+E sempre verso Sud per giorni e settimane  
+come Pula fummo sospinti.  
+L. B. 1800.  
+I versi 41-50 del testo furono aggiunti in Sibylline [[Leaves]], 1817. [Nota.  
+L'emendazione nella glossa marginale, «driven» per «drawn», appare per la prima volta  
+nel 1893.]  
+gli Errata.]  
+B. 1800.  
+
+THE RIME OF THE [[Ancient Mariner|ANCIENT MARINER]] PART II II L. B. 1798, 1800  
+THE RIME  
+OF  
+THE [[Ancient Mariner|ANCIENT MARINER]], PART  
+THE  
+SECOND, S. L. 1828, 1829.  
+MARINER'S L. B. 1800.  
+1800.  
+Nelle edizioni precedenti il verso era,  
+The furrow follow'd free:  
+Ma non ero stato a lungo a bordo d'una [[Ship|nave]], prima d'accorgermi  
+che questa era l'immagine quale la vede uno spettatore dalla riva,  
+o da un altro vascello. Dalla [[Ship|nave]] stessa, la Scia  
+appare come un ruscello che defluisce da poppa. Nota a S.  
+L. 1817.  
+[Tra 143 e 149]  
+Vidi un non so che nel cielo  
+non più grande del mio pugno;  
+Dapprima parve, ecc.  
+L. B. 1798.  
+[Tra 143 e 147]  
+Così passò un [[Time|tempo]] penoso, ogni gola  
+era riarsa e vitreo ogni occhio,  
+quando, guardando a ponente, ecc.  
+L. B. 1800.  
+[I versi 143-8 del testo nella loro forma attuale furono aggiunti in Sibylline  
+[[Leaves]], 1817.]  
+
+THE RIME OF THE [[Ancient Mariner|ANCIENT MARINER]] PART III III L. B. 1798, 1800  
+THE RIME OF THE [[Ancient Mariner|ANCIENT MARINER]], PART  
+THE THIRD, S. L. 1828, 1829.  
+L. 1817.  
+Con gola non dissetata, con labbra nere e riarse  
+né potevamo ridere, né gemere;  
+poi, mentre per l'arsura tutti muti stavano,  
+mi morsi il braccio, e ne succhiai il [[Blood|sangue]]  
+L. B. 1798.  
+Ella non bordeggia da un lato all'altro —  
+qua per recarci salvezza.  
+Senza [[Wind|vento]], senza marea  
+avanza salda con la chiglia diritta.  
+L. B. 1798.  
+[Tra 184-90]  
+Son quelle le sue costole nude, che screziavano  
+il sole che dietro esse occhieggiava?  
+E son quei due tutto, tutto l'equipaggio,  
+quella donna e il suo Compagno scarnito?  
+Le sue ossa eran nere di molte crepe,  
+tutte nere e spoglie, io credo;  
+nere come giaietto e spoglie, salvo dove con la ruggine  
+di umidori muffiti e di crosta d'ossario  
+son chiazzate di porpora e di verde.  
+L. B. 1798.  
+Son quelle le sue costole che screziavano il Sole  
+come le sbarre d'un'inferriata di carcere?  
+E son quei due tutto, tutto l'equipaggio,  
+quella donna e il suo compagno?  
+Correzione ms. di S. T. C. in L. B. 1798.  
+Son quelle le sue Costole, attraverso cui il Sole  
+occhieggiava come attraverso una grata?  
+E son quei due tutto, tutto il suo equipaggio,  
+quella Donna, e il suo Compagno?  
+Le sue ossa eran nere di molte crepe  
+*       *       *       *       *  
+Erano chiazzate di porpora e di verde.  
+L. B. 1800.  
+Questa [[Ship|Nave]] era una cosa senza tavole,  
+— una nuda Anatomia!  
+uno spettro senza tavole — e si moveva  
+come un Essere del Mare!  
+La donna e un uomo scarnito  
+vi sedevano allegramente.  
+Le sue ossa eran nere, ecc. (come nel 1800).  
+Questa strofa fu trovata aggiunta di mano del Poeta nel margine  
+d'una copia dell'Edizione di Bristol delle Lyrical Ballads. È qui  
+stampata per la prima [[Time|volta]]. Nota P. e D. W., 1877-80, ii. 36.  
+those] these Errata, L. B. 1798.  
+Le sue labbra son rosse, i suoi sguardi liberi,  
+le sue chiome son gialle come oro:  
+la sua pelle è bianca come lebbra,  
+ed ella somiglia assai più alla [[Death|Morte]] che non lui;  
+la sua carne fa freddo l'aria immota.  
+L. B. 1798.  
+Le sue labbra eran rosse, i suoi sguardi liberi,  
+le sue chiome eran gialle come oro:  
+la sua pelle era bianca come lebbra,  
+ed ella somigliava assai più alla [[Death|Morte]] che non lui;  
+la sua carne faceva freddo l'aria immota.  
+L. B. 1800.  
+1844. Il ripristino del testo del 1798 e del 1800 data dal 1852.  
+[Tra 198-218]  
+Una raffica di [[Wind|vento]] balzò su di dietro  
+e fischiò attraverso le sue ossa;  
+Attraverso i { fori dei suoi occhi e il foro della sua bocca  
+{ foro L. B. 1802,    1805  
+mezzi fischi e mezzi gemiti.  
+Senza mai un sussurro nel Mare  
+via si slancia la [[Ship|nave]]-Spettro;  
+mentre saliva sopra la sbarra d'Oriente  
+la [[Moon|Luna]] cornuta con una Stella lucente  
+quasi fra le punte.  
+[Quasi fra le punte. L. B. 1800.]  
+Uno dopo uno, sotto la [[Moon|Luna]] cornuta  
+(Ascolta me, o Straniero!)  
+ciascuno volse il viso con uno spasimo orrendo  
+e mi maledisse col suo occhio.  
+Quattro volte cinquanta uomini vivi,  
+senza mai un sospiro o un gemito,  
+L. B. 1798, 1800.  
+[Tra 198-9] Una raffica di [[Wind|vento]] . . . mezzi gemiti. S. L. (A pagina 15 cancellare  
+la seconda strofa. Errata, S. L., p. [xi].)  
+[Tra 201-12]  
+Senza mai un sussurro sul mare  
+via schizzò la [[Ship|nave]] spettrale;  
+e parole soffocate e gemiti di [[Pain|dolore]]  
+si mescolarono su ogni labbro mormorante}  
+tremante}  
+E ci guardammo intorno, e guardammo in alto,  
+e la [[Fear|paura]] ai nostri cuori, come a una coppa,  
+il [[Blood|sangue]] della Vita pareva sorbire —  
+il cielo era fosco, e scura la [[Night|notte]],  
+il volto del timoniere alla sua lampada splendeva lucente,  
+dalle vele stillavano le rugiade —  
+finché salì sopra la Sbarra d'Oriente,  
+la [[Moon|Luna]] cornuta, con una stella lucente  
+dentro la sua punta inferiore.  
+Correzione ms. non datata di S. T. C. (pubblicata per la prima volta nel 1893).  
+
+THE RIME OF THE [[Ancient Mariner|ANCIENT MARINER]] PART IV IV. L. B. 1798, 1800  
+THE RIME  
+OF  
+THE [[Ancient Mariner|ANCIENT MARINER]], PART  
+THE  
+FOURTH S. L. 1828, 1829.  
+[[Alone|SOLO]] SUL MARE VASTO VASTO;  
+E [[Christ|CRISTO]] NON VOLLE AVER PIETÀ DI  
+L. B. 1798, 1800.  
+XI).  
+
+THE RIME OF THE [[Ancient Mariner|ANCIENT MARINER]] PART V V. L. B. 1798, 1800  
+THE RIME  
+OF  
+THE [[Ancient Mariner|ANCIENT MARINER]], PART  
+THE  
+FIFTH S. L. 1828, 1829.  
+Il [[Wind|vento]] che viene ruggisce più forte;  
+le vele sospirano, come giunchi:  
+la pioggia scroscia da una nube nera  
+e la [[Moon|Luna]] è al suo margine.  
+Odi! odi! la fitta nube nera è squarciata,  
+e la [[Moon|Luna]] le sta al fianco  
+L. B. 1798.  
+Il [[Wind|vento]] forte raggiunse la [[Ship|nave]]: ruggì  
+e cadde giù come una pietra!  
+L. B. 1798.  
+[Tra 344-5]  
+E tremai al pensiero della mia propria voce,  
+quanto spaventosa sarebbe stata!  
+L. B. 1798.  
+[Tra 372-3]  
+Ascolta, oh ascolta, tu Invitato alle nozze!  
+«Marinaro! tu hai ciò che vuoi:  
+ché quel che esce dal tuo occhio fa  
+che il mio [[Body|corpo]] e la mia [[Soul|anima]] stiano immoti».  
+Mai racconto più triste fu narrato  
+a uomo nato di donna:  
+più triste e più saggio, tu, invitato alle nozze!  
+ti leverai domattina.  
+Mai racconto più triste fu udito  
+da uomo nato di donna:  
+i Marinari tutti tornarono al lavoro  
+silenziosi come prima.  
+I Marinari tutti presero a tirare le corde,  
+ma non volevano guardarmi;  
+pensai: sono sottile come l'aria —  
+non possono vedermi.  
+L. B. 1798.  
+
+THE RIME OF THE [[Ancient Mariner|ANCIENT MARINER]] PART VI VI. L. B. 1798, 1800  
+THE RIME  
+OF  
+THE [[Ancient Mariner|ANCIENT MARINER]]. PART  
+THE  
+SIXTH S. L. 1828, 1829.  
+E a suo [[Time|tempo]] l'incantesimo fu spezzato,  
+e potei muovere gli occhi:  
+guardai lontano innanzi, ma poco vidi  
+di ciò che altrimenti si sarebbe visto.  
+L. B. 1798.  
+[Tra 475-80]  
+La baia illuminata dalla luna era tutta bianca,  
+finché, levandosi da essa,  
+molte forme, che erano ombre,  
+vennero come di torce.  
+A poca distanza dalla prora  
+stavano quelle ombre rosso cupo;  
+ma presto vidi che la mia stessa carne  
+era rossa come in un bagliore.  
+Volsi il capo in [[Fear|paura]] e sgomento,  
+e, per la santa croce,  
+i corpi erano avanzati, e ora  
+stavano davanti all'albero.  
+Levarono le loro rigide braccia destre,  
+le tenevano diritte e tese;  
+e ogni braccio destro ardeva come una torcia,  
+una torcia portata ritta.  
+I loro globi oculari di pietra scintillavano  
+nella luce rossa e fumosa.  
+Pregai e volsi il capo altrove,  
+guardando innanzi come prima.  
+Non c'era brezza sulla baia,  
+non un'onda contro la riva.  
+L. B. 1798.  
+[Tra 503-4]  
+Poi svanirono tutte le luci amorose;  
+i corpi si [[Rose|levarono]] di nuovo:  
+con passo silenzioso, ciascuno al suo posto,  
+tornò la ciurma spettrale,  
+il [[Wind|vento]], che non faceva ombra né moto,  
+su me [[Alone|solo]] soffiava.  
+L. B. 1798.  
+Poi svanirono tutte le luci amorose,  
+gli spiriti dell'aria,  
+non erano anime di uomini mortali,  
+ma spiriti lucenti e belli.  
+Correzione ms. di S. T. C. in una copia di L. B. 1798.  
+
+RIME OF THE [[Ancient Mariner|ANCIENT MARINER]] PART VII VII. L. B. 1798, 1800  
+THE RIME  
+OF  
+THE [[Ancient Mariner|ANCIENT MARINER]], PART  
+THE SEVENTH S. L. 1829: THE [[Ancient Mariner|ANCIENT MARINER]]. PART THE SEVENTH 1828.  
+ERRATA, S. L. 1817, P. (XI).  
+Da allora, a un'ora incerta,  
+ora più spesso e ora meno,  
+quell'angoscia viene e mi fa narrare  
+la mia spettrale avventura.  
+L. B. 1798.  
+1798.
+
 
 
 <span class="atom-split" data-atom="section_00_argument" data-title="The Rime of the Ancient Mariner — Argument" data-chapter="argument" data-kind="section" data-tags="motif/ship,setting/ship,character/ancient_mariner"></span>
@@ -1100,6 +2161,29 @@ to the tropical Latitude of the Great Pacific Ocean; and of the strange
 things that befell; and in what manner the Ancyent Marinere came back to
 his own Country. [L. B. 1798.]
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+IN SETTE PARTI
+Facile credo, plures esse Naturas invisibiles quam visibiles in
+rerum universitate. Sed horum omnium familiam quis nobis
+enarrabit? et gradus et cognationes et discrimina et
+singulorum munera? Quid agunt? quae loca habitant? Harum rerum
+notitiam semper ambivit ingenium humanum, nunquam attigit.
+Juvat, interea, non diffiteor, quandoque in animo, tanquam in
+tabulâ, majoris et melioris mundi imaginem contemplari: ne
+mens assuefacta hodiernae vitae minutiis se contrahat nimis,
+et tota subsidat in pusillas cogitationes. Sed veritati
+interea invigilandum est, modusque servandus, ut certa ab
+incertis, diem a nocte, distinguamus. — T. BURNET, Archaeol.
+Phil. p. 68.
+
+ARGOMENTO
+Come una [[Ship|Nave]], passata la Linea, fu sospinta dalle tempeste al
+freddo Paese verso il Polo Australe; e come di là fece rotta verso la
+tropicale Latitudine del Grande Oceano Pacifico; e delle strane cose
+che accaddero; e in qual modo l'Antico Marinaro tornò al suo Paese.
+[L. B. 1798.]
 
 
 
@@ -1209,6 +2293,110 @@ Why look’st thou so?’ — With my [[Cross|cross]]-bow
 I shot the ALBATROSS.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+PARTE I  
+[Nota a margine: Un [[Ancient Mariner|vecchio Marinaio]] incontra tre Galanti invitati a un  
+banchetto di nozze, e ne trattiene uno.]  
+È un [[Ancient Mariner|vecchio Marinaio]],  
+e ne ferma uno di tre.  
+«Per la tua lunga barba grigia e l'occhio scintillante,  
+perché mai tu mi fermi?  
+Le porte dello Sposo sono spalancate,   5  
+e io sono il parente più stretto;  
+gli ospiti son giunti, la festa è imbandita:  
+puoi udirne il lieto frastuono».  
+Egli lo trattiene con la sua mano scarna,  
+«C'era una [[Ship|nave]]», diss'egli.   10  
+«Lasciami! giù le mani, vecchio pazzo barbagrigia!»  
+E tosto quegli lasciò la presa.  
+[Nota a margine: L'Invitato alle nozze è ammaliato dall'occhio del vecchio  
+uomo di mare, e costretto ad ascoltarne il racconto.]  
+Lo trattiene col suo occhio scintillante —  
+l'Invitato alle nozze restò immoto,  
+e ascolta come un [[Child|bimbo]] di tre anni:   15  
+il Marinaio ha ciò che vuole.  
+L'Invitato alle nozze sedette su una pietra:  
+non può fare altro che udire;  
+e così proseguì quel vecchio uomo,  
+il Marinaio dall'occhio lucente.   20  
+«La [[Ship|nave]] fu salutata, il porto sgombrato,  
+allegramente scendemmo  
+sotto la chiesa, sotto la [[Hill|collina]],  
+sotto la cima del faro.  
+[Nota a margine: Il Marinaio racconta come la [[Ship|nave]] navigò verso sud con  
+buon [[Wind|vento]] e bel tempo, finché raggiunse la linea.]  
+Il Sole si levò alla sinistra,   25  
+fuori dal mare egli venne!  
+E splendette lucente, e alla destra  
+discese giù nel mare.  
+Più alto e più alto ogni giorno,  
+finché sopra l'albero a [[Noon|mezzogiorno]]—»   30  
+Qui l'Invitato alle nozze si batté il petto,  
+ché udì il fagotto sonoro.  
+[Nota a margine: L'Invitato alle nozze ode la musica nuziale; ma il Marinaio  
+prosegue il suo racconto.]  
+La sposa è entrata a passo lento nella sala,  
+rossa come una [[Rose|rosa]] è lei;  
+chinando il capo dinanzi a lei vanno    35  
+i lieti menestrelli.  
+L'Invitato alle nozze si batté il petto,  
+pure non può fare altro che udire;  
+e così proseguì quel vecchio uomo,  
+il Marinaio dall'occhio lucente.   40  
+[Nota a margine: La [[Ship|nave]] sospinta da una [[Storm|tempesta]] verso il polo australe.]  
+«Ed ecco venne la RAFFICA di [[Storm|TEMPESTA]], ed essa  
+era tirannica e forte:  
+colpì con le sue ali che ci raggiungevano,  
+e ci incalzò verso mezzogiorno.  
+Con alberi inclinati e prora immersa,   45  
+come chi, inseguito fra urla e percosse,  
+calpesta ancora l'[[Shadow|ombra]] del suo nemico,  
+e piega il capo in avanti,  
+la [[Ship|nave]] correva rapida, forte urlava la raffica,  
+e sempre a sud fuggivamo.    50  
+Ed ecco vennero insieme nebbia e [[Snow|neve]],  
+e si fece un freddo prodigioso:  
+e ghiaccio, alto come l'albero, veniva a galla,  
+verde come smeraldo.  
+[Nota a margine: La terra del ghiaccio, e di suoni paurosi, dove non si vedeva  
+alcun essere vivente.]  
+E fra i cumuli le rupi nevose   55  
+mandavano un tetro barbaglio:  
+né forme d'uomini né di bestie scorgemmo —  
+il ghiaccio era in mezzo a tutto.  
+Il ghiaccio era qui, il ghiaccio era là,  
+il ghiaccio era tutt'intorno:   60  
+scricchiolava e ringhiava, ruggiva e ululava,  
+come rumori dentro uno svenimento!  
+[Nota a margine: Finché un grande uccello di mare, chiamato Albatro, venne  
+attraverso la nebbia di [[Snow|neve]], e fu accolto con gran gioia e ospitalità.]  
+Alfine [[Cross|traversò]] la bruma un Albatro,  
+di là dalla foschia esso venne;  
+come fosse stato un'[[Soul|anima]] cristiana,    65  
+lo salutammo nel nome di Dio.  
+Mangiò il cibo che mai aveva mangiato,  
+e volò in tondo e in tondo.  
+Il ghiaccio si spaccò con un colpo di tuono;  
+il timoniere ci guidò oltre!   70  
+[Nota a margine: Ed ecco! l'Albatro si rivela uccello di buon augurio, e  
+segue la [[Ship|nave]] mentre tornava a settentrione fra nebbia e ghiaccio  
+galleggiante.]  
+E un buon [[Wind|vento]] di sud si levò da poppa;  
+l'Albatro seguiva,  
+e ogni giorno, per cibo o per gioco,  
+veniva al richiamo dei marinai!  
+Tra bruma o nube, su albero o su sartia,   75  
+per nove vespri si posò;  
+mentre tutta la [[Night|notte]], nel bianco fumo di nebbia,  
+luccicava il bianco chiaro di [[Moon|Luna]]».  
+[Nota a margine: Il [[Ancient Mariner|vecchio Marinaio]] uccide inospitalmente il pio uccello  
+di buon augurio.]  
+«Dio ti salvi, [[Ancient Mariner|vecchio Marinaio]]!  
+Dai demòni che così ti tormentano! — 80  
+Perché guardi in quel modo?» — Con la mia [[Cross|balestra]]  
+io trafissi l'ALBATRO.
+
 
 
 <span class="atom-split" data-atom="section_02_part_ii" data-title="The Rime of the Ancient Mariner — Part II" data-chapter="part II" data-kind="section" data-tags="motif/birds,motif/cross,motif/death,motif/dreams,motif/moon,motif/night,motif/noon,motif/rose,motif/ship,motif/silence,motif/snow,motif/water,motif/well,motif/wind,concept/guilt,setting/ship,character/ancient_mariner,character/christ,character/michael,character/witch"></span>
@@ -1292,6 +2480,86 @@ Had I from old and young!    140
 Instead of the [[Cross|cross]], the Albatross  
 About my neck was hung.  
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+PARTE II  
+Il Sole ora [[Rose|sorse]] alla destra:  
+fuori dal mare egli venne,  
+ancora celato nella bruma, e alla sinistra   85  
+discese giù nel mare.  
+E il buon [[Wind|vento]] di sud soffiava ancora da poppa,  
+ma nessun dolce uccello seguiva,  
+né alcun giorno, per cibo o per gioco,  
+veniva al richiamo dei marinai!   90  
+[Nota a margine: I compagni di bordo inveiscono contro il [[Ancient Mariner|vecchio Marinaio]],  
+per aver ucciso l'uccello di buona sorte.]  
+E io avevo fatto una cosa infernale,  
+e sciagura avrebbe portato loro:  
+ché tutti affermarono ch'io avevo ucciso l'uccello  
+che faceva spirare la brezza.  
+Ah sciagurato! dissero, uccidere l'uccello   95  
+che faceva spirare la brezza!  
+[Nota a margine: Ma quando la nebbia si diradò, essi giustificano l'atto, e così  
+si fanno complici del delitto.]  
+Né fosco né rosso, ma come il capo stesso di Dio,  
+il Sole glorioso si levò:  
+allora tutti affermarono ch'io avevo ucciso l'uccello  
+che portava la nebbia e la bruma.   100  
+Fu giusto, dissero, uccidere tali [[Birds|uccelli]],  
+che portano la nebbia e la bruma.  
+[Nota a margine: La brezza propizia continua; la [[Ship|nave]] entra nell'Oceano Pacifico,  
+e naviga verso nord, fino a raggiungere la Linea.]  
+Soffiava la brezza propizia, volava la bianca spuma,  
+libero seguiva il solco;  
+fummo i primi che mai irrompessero   105  
+in quel mare silenzioso.  
+[Nota a margine: La [[Ship|nave]] è stata d'improvviso colta dalla bonaccia.]  
+Cadde la brezza, caddero le vele,  
+fu triste quanto più triste non si può;  
+e parlavamo solo per rompere  
+il [[Silence|silenzio]] del mare!   110  
+Tutto in un cielo caldo e di rame,  
+il Sole sanguigno a [[Noon|mezzogiorno]],  
+ritto sopra l'albero stava,  
+non più grande della [[Moon|Luna]].  
+Giorno dopo giorno, giorno dopo giorno,   115  
+restammo fermi, né fiato né moto;  
+inerti come una [[Ship|nave]] dipinta  
+sopra un oceano dipinto.  
+[Nota a margine: E l'Albatro comincia a essere vendicato.]  
+[[Water|Acqua]], [[Water|acqua]], dappertutto,  
+e tutte le tavole si ritiravano;   120  
+[[Water|acqua]], [[Water|acqua]], dappertutto,  
+né una goccia da bere.  
+Il fondo stesso imputridiva: o [[Christ|Cristo]]!  
+che mai ciò dovesse accadere!  
+Sì, cose viscide strisciavano con zampe   125  
+sopra il mare viscido.  
+Intorno, intorno, in turbine e tumulto  
+i fuochi della [[Death|morte]] danzavano di [[Night|notte]];  
+l'[[Water|acqua]], come gli unguenti d'una [[Witch|strega]],  
+ardeva verde, e azzurra e bianca.   130  
+[Nota a margine: Uno Spirito li aveva seguiti; uno degli invisibili abitatori  
+di questo pianeta, né anime dei defunti né angeli; sui quali si può consultare  
+il dotto Ebreo, Giuseppe Flavio, e il Platonico di Costantinopoli, [[Michael|Michele]]  
+Psello. Sono numerosissimi, e non v'è  
+clima o elemento che non ne abbia uno o più.]  
+E alcuni in [[Dreams|sogno]] ebbero certezza  
+dello Spirito che così ci tormentava;  
+nove tese sott'acqua ci aveva seguiti  
+dalla terra della bruma e della [[Snow|neve]].  
+E ogni lingua, per l'arsura estrema,   135  
+era inaridita alla radice;  
+non potevamo parlare, non più che se  
+fossimo stati soffocati dalla fuliggine.  
+[Nota a margine: I compagni di bordo, nella loro grave angoscia, vorrebbero gettare  
+tutta la [[Guilt|colpa]] sul [[Ancient Mariner|vecchio Marinaio]]: in segno di ciò gli appendono al collo  
+l'uccello di mare morto.]  
+Ah! [[Well|ahimè]], giorno funesto! che sguardi maligni  
+ebbi da vecchi e da giovani!    140  
+Invece della [[Cross|croce]], l'Albatro  
+mi fu appeso al collo.
 
 
 
@@ -1402,6 +2670,111 @@ And every [[Soul|soul]], it passed me by,
 Like the whizz of my [[Cross|cross]]-bow!  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+PARTE III  
+[Nota a margine: Il [[Ancient Mariner|vecchio Marinaio]] scorge un segno lontano  
+nell'elemento.]  
+Passò un [[Time|tempo]] penoso. Ogni gola  
+era riarsa, e vitreo ogni occhio.  
+Un [[Time|tempo]] penoso! un [[Time|tempo]] penoso!   145  
+Com'era vitreo ogni occhio stanco,  
+quando, guardando a ponente, scorsi  
+un non so che nel cielo.  
+Dapprima parve un piccolo puntino,  
+e poi parve una bruma;   150  
+si mosse e si mosse, e prese infine  
+una forma precisa, mi parve.  
+Un punto, una bruma, una forma, mi parve!  
+E sempre s'appressava e s'appressava:  
+come schivasse uno spirito dell'[[Water|acqua]],   155  
+s'immergeva e bordeggiava e virava.  
+[Nota a margine: Al suo più vicino approssimarsi, gli sembra una [[Ship|nave]]; e a caro  
+prezzo libera la parola dai lacci della sete.]  
+Con gole non dissetate, con labbra nere e riarse,  
+non potevamo né ridere né gemere;  
+per l'arsura estrema stemmo tutti muti!  
+Mi morsi il braccio, ne succhiai il [[Blood|sangue]],   160  
+e gridai: una vela! una vela!  
+Con gole non dissetate, con labbra nere e riarse,  
+a bocca aperta udirono il mio grido:  
+[Nota a margine: Un lampo di gioia;]  
+Gran mercé! ghignarono di gioia,  
+e tutti a un tratto trassero il fiato,   165  
+come se tutti stessero bevendo.  
+[Nota a margine: E segue l'orrore. Ché può essere una [[Ship|nave]] quella che avanza  
+senza [[Wind|vento]] né marea?]  
+Guardate! guardate! (gridai) non bordeggia più!  
+Qua viene a recarci salvezza;  
+senza una brezza, senza una marea,  
+avanza salda con la chiglia diritta!   170  
+L'onda occidentale era tutta una fiamma.  
+Il giorno era [[Well|quasi]] finito!  
+Quasi sopra l'onda occidentale  
+posava il Sole ampio e lucente;  
+quando quella strana forma s'interpose d'un tratto   175  
+fra noi e il Sole.  
+[Nota a margine: Gli sembra soltanto lo [[skeleton|scheletro]] d'una [[Ship|nave]].]  
+E subito il Sole fu screziato di sbarre,  
+(la Madre del Cielo ci conceda grazia!)  
+come se attraverso l'inferriata d'un carcere occhieggiasse  
+col volto largo e ardente.   180  
+[Nota a margine: E le sue costole si vedono come sbarre sul volto del Sole  
+che tramonta.]  
+Ahimè! (pensai, e il cuore mi batteva forte)  
+come s'appressa rapida e s'appressa!  
+Son quelle le sue vele che brillano al Sole,  
+come ragnatele inquiete?  
+[Nota a margine: La Donna-Spettro e il suo compagno [[Death|Morte]], e nessun altro a bordo  
+della [[Ship|nave]]-[[skeleton|scheletro]].]  
+Son quelle le sue costole attraverso cui il Sole   185  
+occhieggiava, come attraverso una grata?  
+Ed è quella Donna tutto il suo equipaggio?  
+È quella la [[Death|MORTE]]? e sono due?  
+È la [[Death|MORTE]] il compagno di quella donna?  
+[Nota a margine: Quale la nave, tale l'equipaggio!]  
+[Nota a margine: [[Death|Morte]] e Vita-in-[[Death|Morte]] hanno giocato ai dadi l'equipaggio della [[Ship|nave]], ed  
+essa (la seconda) si aggiudica il [[Ancient Mariner|vecchio Marinaio]].]  
+Le sue labbra eran rosse, gli sguardi liberi,   190  
+le sue chiome eran gialle come oro:  
+la sua pelle era bianca come lebbra,  
+l'Incubo della [[Night|Notte]], VITA-IN-[[Death|MORTE]], era lei,  
+che agghiaccia di freddo il [[Blood|sangue]] dell'uomo.  
+Lo scafo nudo giunse al fianco,   195  
+e i due gettavano i dadi;  
+«La partita è finita! Ho vinto! Ho vinto!»  
+disse lei, e fischia tre volte.  
+[Nota a margine: Nessun crepuscolo nelle corti del Sole.]  
+L'orlo del Sole s'immerge: le [[Stars|stelle]] balzano fuori:  
+d'un solo passo viene il buio;   200  
+con un sussurro udito di lontano, sopra il mare  
+via schizzò la barca spettrale.  
+[Nota a margine: Al sorgere della [[Moon|Luna]].]  
+Ascoltammo e guardammo in alto di traverso!  
+La [[Fear|paura]] al mio cuore, come a una coppa,  
+il mio [[Blood|sangue]] vitale pareva sorbire!   205  
+Le [[Stars|stelle]] eran fioche, e fitta la [[Night|notte]],  
+il volto del timoniere alla sua lampada biancheggiava;  
+dalle vele stillava la rugiada —  
+finché salì sopra la sbarra d'oriente  
+la [[Moon|Luna]] cornuta, con una stella lucente   210  
+dentro la punta inferiore.  
+[Nota a margine: Uno dopo l'altro,]  
+Uno dopo uno, sotto la [[Moon|Luna]] inseguita dalla stella,  
+troppo in fretta per un gemito o un sospiro,  
+ciascuno volse il viso con uno spasimo orrendo,  
+e mi maledisse con l'occhio.   215  
+[Nota a margine: I suoi compagni di bordo cadono morti.]  
+Quattro volte cinquanta uomini vivi,  
+(e non udii né sospiro né gemito)  
+con un tonfo pesante, massa senza vita,  
+caddero giù a uno a uno.  
+[Nota a margine: Ma Vita-in-[[Death|Morte]] comincia la sua opera sul [[Ancient Mariner|vecchio Marinaio]].]  
+Le anime volarono via dai loro corpi, — 220  
+fuggirono alla beatitudine o al dolore!  
+E ogni [[Soul|anima]] mi passò accanto,  
+come il sibilo della mia [[Cross|balestra]]!
+
 
 
 <span class="atom-split" data-atom="section_04_part_iv" data-title="The Rime of the Ancient Mariner — Part IV" data-chapter="part IV" data-kind="section" data-tags="archetype/orphan,archetype/shadow,motif/dust,motif/fire,motif/frost,motif/love,motif/moon,motif/prayer,motif/ship,motif/soul,motif/spring,motif/stars,motif/water,concept/beauty,concept/body,concept/fear,concept/loneliness,concept/self,setting/ship,character/ancient_mariner"></span>
@@ -1495,6 +2868,96 @@ And from my neck so free
 The Albatross fell off, and sank   290  
 Like lead into the sea.  
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+PARTE IV  
+[Nota a margine: L'Invitato alle nozze teme che gli parli uno Spirito;]  
+«Ti [[Fear|temo]], [[Ancient Mariner|vecchio Marinaio]]!  
+[[Fear|Temo]] la tua mano scarna!   225  
+E tu sei lungo, e magro, e bruno,  
+come la sabbia rigata del mare.  
+[Nota a margine: Ma il [[Ancient Mariner|vecchio Marinaio]] lo rassicura sulla sua vita corporea, e  
+procede a narrare la sua orribile penitenza.]  
+Ti [[Fear|temo]], e temo il tuo occhio scintillante,  
+e la tua mano scarna, così bruna». —  
+Non [[Fear|temere]], non [[Fear|temere]], Invitato alle nozze!   230  
+Questo [[Body|corpo]] non cadde giù.  
+[[Alone|Solo]], [[Alone|solo]], tutto, tutto [[Alone|solo]],  
+[[Alone|solo]] su un mare vasto vasto!  
+E mai un santo ebbe pietà  
+dell'[[Soul|anima]] mia in agonia.   235  
+[Nota a margine: Disprezza le creature della bonaccia,]  
+I molti uomini, così belli!  
+E tutti giacevano morti:  
+e mille e mille cose viscide  
+vivevano ancora; e così io.  
+[Nota a margine: E invidia che esse vivano, e tanti giacciano morti.]  
+Guardai il mare che imputridiva,   240  
+e distolsi gli occhi;  
+guardai il ponte che imputridiva,  
+e là giacevano i morti.  
+Guardai al cielo, e tentai di pregare;  
+ma prima che una [[Prayer|preghiera]] sgorgasse,   245  
+venne un sussurro maligno, e rese  
+il mio cuore arido come [[Dust|polvere]].  
+Chiusi le palpebre, e le tenni chiuse,  
+e i globi battevano come polsi;  
+ché il cielo e il mare, e il mare e il cielo   250  
+gravavano come un peso sul mio occhio stanco,  
+e i morti erano ai miei piedi.  
+[Nota a margine: Ma la maledizione vive per lui nell'occhio dei morti.]  
+Il sudore freddo si sciolse dalle loro membra,  
+né imputridivano né putivano:  
+lo sguardo con cui mi guardarono   255  
+non era mai svanito.  
+La maledizione d'un [[Orphan|orfano]] trascinerebbe all'inferno  
+uno spirito dall'alto;  
+ma oh! più orribile di quella  
+è la maledizione nell'occhio d'un morto!   260  
+Sette giorni, sette notti, vidi quella maledizione,  
+e pure non potevo morire.  
+[Nota a margine: Nella sua [[Loneliness|solitudine]] e immobilità egli anela alla [[Moon|Luna]]  
+che viaggia, e alle [[Stars|stelle]] che pur sostano, e pure sempre avanzano;  
+e dovunque il cielo azzurro appartiene loro, ed è il loro riposo  
+assegnato, e la loro patria e le loro naturali dimore,  
+in cui entrano senza annuncio, come signori che sono certamente attesi e  
+pure v'è una gioia silenziosa al loro arrivo.]  
+La [[Moon|Luna]] in cammino saliva per il cielo,  
+e in nessun luogo si fermava:  
+dolcemente saliva,   265  
+e una stella o due accanto —  
+i suoi raggi schernivano il mare afoso,  
+come [[Frost|brina]] d'aprile distesa;  
+ma dove giaceva l'enorme [[Shadow|ombra]] della [[Ship|nave]],  
+l'[[Water|acqua]] stregata ardeva sempre   270  
+d'un rosso immoto e tremendo.  
+[Nota a margine: Alla luce della [[Moon|Luna]] egli scorge le creature di Dio della  
+grande bonaccia.]  
+Oltre l'[[Shadow|ombra]] della [[Ship|nave]],  
+osservavo i serpenti d'[[Water|acqua]]:  
+si movevano in scie d'un bianco lucente,  
+e quando s'inarcavano, la luce fatata  
+275  
+cadeva in fiocchi canuti.  
+Dentro l'[[Shadow|ombra]] della [[Ship|nave]]  
+osservavo la loro ricca veste:  
+azzurri, verdi lucidi, e neri di velluto,  
+si attorcevano e nuotavano; e ogni scia   280  
+era un lampo di [[Fire|fuoco]] d'oro.  
+[Nota a margine: La loro [[Beauty|bellezza]] e la loro felicità.]  
+[Nota a margine: Egli li benedice nel suo cuore.]  
+O felici creature viventi! nessuna lingua  
+potrebbe dire la loro [[Beauty|bellezza]]:  
+una [[spring|sorgente]] d'[[Love|amore]] sgorgò dal mio cuore,  
+e li benedissi senza saperlo:   285  
+certo il mio buon santo ebbe pietà di me,  
+e li benedissi senza saperlo.  
+[Nota a margine: L'incantesimo comincia a spezzarsi.]  
+In quello [[Self|stesso]] momento potei pregare;  
+e dal mio collo, libero,  
+l'Albatro cadde, e affondò   290  
+come piombo nel mare.
 
 
 
@@ -1638,6 +3101,144 @@ Quoth he, ‘The man hath penance done,
 And penance more will do.’  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+PARTE V  
+Oh [[Sleep|sonno]]! è cosa gentile,  
+amata da polo a polo!  
+A Maria [[Queen|Regina]] sia data lode!  
+Ella mandò dal Cielo il dolce [[Sleep|sonno]],   295  
+che scivolò nell'[[Soul|anima]] mia.  
+[Nota a margine: Per grazia della santa Madre, il [[Ancient Mariner|vecchio Marinaio]] è ristorato  
+dalla pioggia.]  
+I poveri secchi sul ponte,  
+rimasti là tanto a lungo,  
+sognai che fossero colmi di rugiada;  
+e quando mi destai, pioveva.   300  
+Le mie labbra eran bagnate, fredda la gola,  
+le mie vesti tutte umide;  
+certo avevo bevuto nei miei [[Dreams|sogni]],  
+e ancora il mio [[Body|corpo]] beveva.  
+Mi mossi, e non sentivo le membra:   305  
+ero così leggero — quasi  
+pensai d'esser morto nel [[Sleep|sonno]],  
+e d'essere un [[Ghost|fantasma]] beato.  
+[Nota a margine: Ode suoni e vede strane visioni e commozioni  
+nel cielo e nell'elemento.]  
+E presto udii un [[Wind|vento]] ruggente:  
+non veniva vicino;   310  
+ma col suo suono scosse le vele,  
+che eran così sottili e secche.  
+L'aria superiore proruppe in vita!  
+E cento vessilli di [[Fire|fuoco]] lucenti,  
+qua e là erano sospinti in fretta!   315  
+E qua e là, e dentro e fuori,  
+le pallide [[Stars|stelle]] danzavano in mezzo.  
+E il [[Wind|vento]] che veniva ruggiva più forte,  
+e le vele sospiravano come giunchi;  
+e la pioggia scrosciava da una nube nera;   320  
+la [[Moon|Luna]] era al suo margine.  
+La fitta nube nera fu squarciata, e ancora  
+la [[Moon|Luna]] le stava al fianco:  
+come acque scagliate da un'alta rupe,  
+il [[Lightning|fulmine]] cadeva senza una frastagliatura,   325  
+un [[River|fiume]] ripido e largo.  
+[Nota a margine: I corpi dell'equipaggio della [[Ship|nave]] sono ispirati [animati, S.  
+L.] e la [[Ship|nave]] avanza;]  
+Il [[Wind|vento]] sonoro non giunse mai alla [[Ship|nave]],  
+eppure ora la [[Ship|nave]] avanzava!  
+Sotto il [[Lightning|fulmine]] e la [[Moon|Luna]]  
+i morti mandarono un gemito.   330  
+Gemettero, si mossero, tutti si levarono,  
+né parlarono, né mossero gli occhi;  
+sarebbe stato strano, anche in [[A Dream|un sogno]],  
+veder levarsi quei morti.  
+Il timoniere guidava, la [[Ship|nave]] avanzava;   335  
+eppure mai una brezza spirò;  
+i marinai tutti presero a manovrare le corde,  
+dove eran soliti fare;  
+levavano le membra come arnesi senza vita —  
+eravamo una ciurma spettrale.   340  
+Il [[Body|corpo]] del figlio di mio fratello  
+mi stava accanto, ginocchio a ginocchio:  
+il [[Body|corpo]] e io tiravamo la stessa fune,  
+ma egli non mi disse nulla.  
+[Nota a margine: Ma non dalle anime degli uomini, né da demoni della terra o  
+dell'aria mediana, bensì da una schiera beata di spiriti angelici, mandati giù  
+dall'invocazione del santo custode.]  
+«Ti [[Fear|temo]], [[Ancient Mariner|vecchio Marinaio]]!»   345  
+Sta' calmo, Invitato alle nozze!  
+Non furono quelle anime fuggite nel [[Pain|dolore]],  
+che tornarono ai loro cadaveri,  
+ma una schiera di spiriti beati:  
+ché quando albeggiò — lasciarono cadere le braccia,  
+e si strinsero attorno all'albero;   351  
+dolci suoni [[Rose|salirono]] lenti dalle loro bocche,  
+e uscirono dai loro corpi.  
+Intorno, intorno, volò ogni dolce suono,  
+poi si slanciò verso il Sole;   355  
+lenti i suoni tornarono indietro,  
+ora mescolati, ora a uno a uno.  
+Talvolta, cadendo giù dal cielo,  
+udivo l'allodola cantare;  
+talvolta tutti i piccoli [[Birds|uccelli]] che sono,   360  
+come parevano riempire il mare e l'aria  
+col loro dolce cinguettio!  
+E ora era come tutti gli strumenti,  
+ora come un flauto solitario;  
+e ora è il [[Song|canto]] d'un angelo,   365  
+che fa ammutolire i cieli.  
+Cessò; eppure le vele continuarono  
+un suono gradevole fino a [[Noon|mezzogiorno]],  
+un suono come d'un ruscello nascosto  
+nel frondoso mese di giugno,   370  
+che ai boschi dormienti tutta la [[Night|notte]]  
+canta una quieta melodia.  
+Fino a [[Noon|mezzogiorno]] navigammo quieti,  
+eppure mai una brezza spirò:  
+lenta e liscia andava la [[Ship|nave]],    375  
+mossa innanzi dal di sotto.  
+[Nota a margine: Lo Spirito solitario del polo australe porta la [[Ship|nave]]  
+fino alla Linea, in obbedienza alla schiera angelica, ma esige  
+ancora vendetta.]  
+Sotto la chiglia, a nove tese di fondo,  
+dalla terra della bruma e della [[Snow|neve]],  
+lo spirito scivolava: ed era lui  
+che faceva andare la [[Ship|nave]].    380  
+Le vele a [[Noon|mezzogiorno]] lasciarono la loro melodia,  
+e anche la [[Ship|nave]] si fermò.  
+Il Sole, ritto sopra l'albero,  
+l'aveva fissata all'oceano:  
+ma in un minuto ella prese a muoversi,   385  
+con un moto breve e inquieto —  
+avanti e indietro per metà della sua lunghezza  
+con un moto breve e inquieto.  
+Poi come un [[Horse|cavallo]] scalpitante lasciato libero,  
+diede un balzo improvviso:   390  
+mi scagliò il [[Blood|sangue]] alla testa,  
+e caddi giù svenuto.  
+[Nota a margine: I demoni compagni dello Spirito Polare, gli invisibili abitatori  
+dell'elemento, prendono parte al suo torto; e due di loro narrano, l'uno  
+all'altro, che una penitenza lunga e grave per il [[Ancient Mariner|vecchio Marinaio]] è stata  
+accordata allo Spirito Polare, che ritorna verso sud.]  
+Quanto giacqui in quello stesso deliquio,  
+non ho da dire;  
+ma prima che la mia vita viva tornasse,   395  
+udii e nell'[[Soul|anima]] mia distinsi  
+due voci nell'aria.  
+«È lui?» disse l'una, «È questo l'uomo?  
+Per colui che morì in [[Cross|croce]],  
+col suo arco crudele abbatté   400  
+l'innocuo Albatro.  
+Lo spirito che dimora solitario  
+nella terra della bruma e della [[Snow|neve]],  
+egli amava l'uccello che amava l'uomo  
+che lo colpì col suo arco».   405  
+L'altra era una voce più soave,  
+soave come rugiada di miele:  
+disse: «L'uomo ha fatto penitenza,  
+e altra penitenza farà».
+
 
 
 <span class="atom-split" data-atom="section_06_part_vi" data-title="The Rime of the Ancient Mariner — Part VI" data-chapter="part VI" data-kind="section" data-tags="archetype/shadow,motif/blood,motif/hill,motif/moon,motif/night,motif/road,motif/ship,motif/silence,motif/sleep,motif/soul,motif/spring,motif/supernatural,motif/wind,concept/fear,setting/ship,character/ancient_mariner,character/christ"></span>
@@ -1762,6 +3363,127 @@ That he makes in the wood.
 He’ll shrieve my [[Soul|soul]], he’ll wash away  
 The Albatross’s [[Blood|blood]].  
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+PARTE VI  
+PRIMA VOCE  
+«Ma dimmi, dimmi! parla ancora,   410  
+rinnovando la tua dolce risposta —  
+che cosa fa correre così veloce quella [[Ship|nave]]?  
+che cosa fa l'oceano?»  
+SECONDA VOCE  
+«Immoto come uno schiavo davanti al suo signore,  
+l'oceano non ha raffica;   415  
+il suo grande occhio lucente silenziosissimo  
+è volto in alto verso la [[Moon|Luna]] —  
+per sapere quale via prendere;  
+ché ella lo guida placida o torva.  
+Guarda, fratello, guarda! con quanta grazia   420  
+ella lo guarda dall'alto».  
+[Nota a margine: Il Marinaio è stato gettato in un'estasi; ché la potenza  
+angelica fa correre il vascello verso nord più veloce di quanto la vita umana  
+potrebbe sopportare.]  
+PRIMA VOCE  
+«Ma perché corre così veloce quella [[Ship|nave]],  
+senza onda né [[Wind|vento]]?»  
+SECONDA VOCE  
+«L'aria è tagliata davanti,  
+e si richiude di dietro.   425  
+Vola, fratello, vola! più in alto, più in alto!  
+o faremo tardi:  
+ché lenta e lenta andrà quella [[Ship|nave]],  
+quando l'estasi del Marinaio sarà cessata».  
+[Nota a margine: Il moto [[Supernatural|soprannaturale]] è rallentato; il Marinaio si desta, e  
+la sua penitenza ricomincia.]  
+Mi destai, e navigavamo   430  
+come in un tempo mite:  
+era [[Night|notte]], calma [[Night|notte]], la [[Moon|luna]] era alta;  
+i morti stavano insieme.  
+Tutti stavano insieme sul ponte,  
+più adatti a un ossario-prigione:   435  
+tutti fissavano su di me i loro occhi di pietra,  
+che nella [[Moon|Luna]] scintillavano.  
+Lo spasimo, la maledizione con cui morirono,  
+non erano mai svaniti:  
+non potevo staccare i miei occhi dai loro,   440  
+né alzarli a pregare.  
+[Nota a margine: La maledizione è finalmente espiata.]  
+E ora quest'incantesimo fu spezzato: ancora una volta  
+vidi l'oceano verde,  
+e guardai lontano innanzi, eppure poco vidi  
+di ciò che altrimenti si sarebbe visto — 445  
+come uno che su una [[Road|strada]] solitaria  
+cammina in [[Fear|paura]] e sgomento,  
+e volgendosi una volta indietro prosegue,  
+e non volge più il capo;  
+perché sa che un demone spaventoso   450  
+gli cammina alle spalle da presso.  
+Ma presto spirò su di me un [[Wind|vento]],  
+che non faceva suono né moto:  
+la sua via non era sul mare,  
+in increspatura né in ombra.   455  
+Mi sollevò i capelli, mi ventilò la guancia  
+come una brezza di prato a [[spring|primavera]] —  
+si mescolò stranamente ai miei timori,  
+eppure parve un benvenuto.  
+Rapida, rapida volava la [[Ship|nave]],   460  
+eppure navigava anche dolcemente:  
+dolce, dolce soffiava la brezza —  
+su me [[Alone|solo]] soffiava.  
+[Nota a margine: E il [[Ancient Mariner|vecchio Marinaio]] scorge il suo paese natio.]  
+Oh! sogno di gioia! è dunque questa  
+la cima del [[house|faro]] che vedo?   465  
+È questa la [[Hill|collina]]? è questa la chiesa?  
+È questo il mio proprio paese?  
+Passammo sopra la barra del porto,  
+e io pregavo tra i singhiozzi —  
+oh, fammi essere sveglio, mio Dio!   470  
+o fammi [[Sleep|dormire]] per sempre.  
+La baia del porto era chiara come vetro,  
+così liscia era distesa!  
+E sulla baia giaceva il chiaro di luna,  
+e l'[[Shadow|ombra]] della [[Moon|Luna]].   475  
+La roccia splendeva lucente, e non meno la chiesa,  
+che sta sopra la roccia:  
+il chiaro di luna immergeva nel silenzio  
+la ferma banderuola.  
+[Nota a margine: Gli spiriti angelici lasciano i corpi morti,]  
+E la baia era bianca di luce silenziosa,   480  
+finché, levandosi da essa,  
+molte forme, che erano ombre,  
+vennero in colori cremisi.  
+[Nota a margine: E appaiono nelle loro proprie forme di luce.]  
+A poca distanza dalla prora  
+stavano quelle ombre cremisi:   485  
+volsi gli occhi verso il ponte —  
+oh, [[Christ|Cristo]]! che vidi là!  
+Ogni cadavere giaceva disteso, senza vita e disteso,  
+e, per la santa croce!  
+un uomo tutto luce, un uomo-serafino,   490  
+stava ritto su ogni cadavere.  
+Questa schiera di serafini, ciascuno agitò la mano:  
+era una vista celeste!  
+Stavano come segnali verso terra,  
+ciascuno una luce amorosa;   495  
+questa schiera di serafini, ciascuno agitò la mano,  
+nessuna voce essi mandavano —  
+nessuna voce; ma oh! il [[Silence|silenzio]] scese  
+come musica sul mio cuore.  
+Ma presto udii il tonfo dei remi,    500  
+udii il grido del Pilota;  
+il mio capo fu volto per forza altrove,  
+e vidi apparire una barca.  
+Il Pilota e il figlio del Pilota,  
+li udii venire in fretta:    505  
+caro Signore in Cielo! era una gioia  
+che i morti non potevano appassire.  
+Ne vidi un terzo — udii la sua voce:  
+è il buon Eremita!  
+Canta forte i suoi inni devoti   510  
+che compone nel bosco.  
+Egli assolverà l'[[Soul|anima]] mia, laverà via  
+il [[Blood|sangue]] dell'Albatro.
 
 
 
@@ -2186,3 +3908,425 @@ That anguish comes and makes me tell
 My ghastly aventure.  
 L. B. 1798.  
 1798.  
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+PARTE VII  
+[Nota a margine: L'Eremita del Bosco,]  
+Questo buon Eremita vive in quel bosco  
+che digrada verso il mare.   515  
+Come alza forte la sua dolce voce!  
+Ama parlare coi marinai  
+che vengono da un paese lontano.  
+S'inginocchia al mattino, a [[Noon|mezzogiorno]] e a sera —  
+ha un cuscino ben soffice:   520  
+è il musco che tutto nasconde  
+il vecchio ceppo marcito di quercia.  
+Il palischermo s'accostò: li udii parlare,  
+«Ma questo è strano, mi pare!  
+Dove sono quelle luci tante e belle,   525  
+che facevan segnale poc'anzi?»  
+[Nota a margine: S'accosta alla [[Ship|nave]] con [[Wonder|meraviglia]].]  
+«Strano, in [[Faith|fede]] mia!» disse l'Eremita —  
+«E non risposero al nostro grido!  
+Le tavole parevan contorte! e guarda quelle vele,  
+come son sottili e secche!   530  
+Non vidi mai nulla di simile a loro,  
+se non forse fossero  
+bruni scheletri di [[Leaves|foglie]] che indugiano  
+lungo il mio ruscello di foresta;  
+quando il cespo d'edera è greve di [[Snow|neve]],   535  
+e il gufetto grida al lupo di sotto,  
+che divora i piccoli della lupa».  
+«Caro Signore! ha un aspetto diabolico —  
+(rispose il Pilota)  
+ho paura» — «Avanti, avanti!»   540  
+disse l'Eremita allegramente.  
+La barca s'accostò di più alla [[Ship|nave]],  
+ma io non parlai né mi mossi;  
+la barca venne proprio sotto la [[Ship|nave]],  
+e subito s'udì un suono.   545  
+[Nota a margine: La [[Ship|nave]] improvvisamente affonda.]  
+Sotto l'[[Water|acqua]] rombava,  
+sempre più forte e più tremendo:  
+raggiunse la [[Ship|nave]], squarciò la baia;  
+la [[Ship|nave]] andò giù come piombo.  
+[Nota a margine: Il [[Ancient Mariner|vecchio Marinaio]] è salvato nella barca del Pilota.]  
+Stordito da quel suono forte e terribile,   550  
+che percosse il cielo e l'oceano,  
+come uno che sia stato annegato sette giorni  
+il mio [[Body|corpo]] galleggiava;  
+ma rapido come i [[Dreams|sogni]], mi ritrovai  
+dentro la barca del Pilota.   555  
+Sul vortice, dove affondò la [[Ship|nave]],  
+la barca girò in tondo e in tondo;  
+e tutto era immoto, salvo che la [[Hill|collina]]  
+ripeteva quel suono.  
+Mossi le labbra — il Pilota gridò   560  
+e cadde giù in convulsione;  
+il santo Eremita alzò gli occhi,  
+e pregò là dove sedeva.  
+Presi i remi: il figlio del Pilota,  
+che ora va pazzo,   565  
+rise forte e a lungo, e per tutto quel tempo  
+i suoi occhi andavano qua e là.  
+«Ah! ah!» disse, «lo vedo chiaramente.  
+Il Diavolo sa remare».  
+E ora, tutto nel mio paese,   570  
+stavo sulla terra ferma!  
+L'Eremita scese dalla barca,  
+e a stento poteva reggersi.  
+[Nota a margine: Il [[Ancient Mariner|vecchio Marinaio]] supplica ardentemente l'Eremita di  
+assolverlo; e la penitenza della vita cade su di lui.]  
+«Oh assolvimi, assolvimi, sant'uomo!»  
+L'Eremita si segnò la fronte.   575  
+«Di' presto,» disse, «ti comando di dire —  
+che sorta d'uomo sei tu?»  
+Sull'istante questa mia persona fu torta  
+da una dolorosa agonia,  
+che mi costrinse a cominciare il mio racconto;   580  
+e poi mi lasciò libero.  
+[Nota a margine: E di quando in quando, per tutta la sua vita futura, un'agonia  
+lo costringe a viaggiare di terra in terra;]  
+Da allora, a un'ora incerta,  
+quell'agonia ritorna:  
+e finché il mio racconto spettrale non è detto,  
+questo cuore mi arde dentro.   585  
+Passo, come la [[Night|notte]], di terra in terra;  
+ho uno strano potere di parola;  
+nell'istante in cui vedo il suo volto,  
+conosco l'uomo che deve ascoltarmi:  
+a lui insegno il mio racconto.   590  
+Che gran chiasso prorompe da quella porta!  
+Gli invitati alle nozze son là:  
+ma nella pergola del [[Garden|giardino]] la sposa  
+e le damigelle stanno cantando:  
+e odi la piccola campana del vespro,   595  
+che mi chiama alla [[Prayer|preghiera]]!  
+O Invitato alle nozze! quest'[[Soul|anima]] è stata  
+[[Alone|sola]] su un mare vasto vasto:  
+così sola, che Dio stesso  
+a stento pareva esservi.   600  
+Oh più dolce del banchetto di [[Marriage|nozze]],  
+assai più dolce è per me  
+andare insieme alla chiesa  
+con una buona compagnia! —  
+andare insieme alla chiesa,   605  
+e tutti insieme pregare,  
+mentre ciascuno al suo gran Padre si china,  
+vecchi, e bimbi, e amici affettuosi  
+e giovani e fanciulle liete!  
+[Nota a margine: E a insegnare, col proprio esempio, [[Love|amore]] e riverenza a tutte  
+le cose che Dio fece e ama.]  
+Addio, addio! ma questo io dico   610  
+a te, Invitato alle nozze!  
+Prega [[Well|bene]] chi ama [[Well|bene]]  
+e l'uomo e l'uccello e la bestia.  
+Prega meglio chi ama meglio  
+tutte le cose, e grandi e piccole;   615  
+ché il caro Dio che ci ama,  
+egli fece e ama tutto.  
+Il Marinaio, il cui occhio è lucente,  
+la cui barba è canuta per gli anni,  
+se n'è andato: e ora l'Invitato alle nozze    620  
+si volse dalla porta dello sposo.  
+Se ne andò come uno che sia stato stordito,  
+e sia privo dei sensi:  
+più triste e più saggio,  
+si [[Rose|levò]] la mattina dopo.   625  
+1797-1798.  
+Wordsworth. Fu  
+durante  
+una  
+deliziosa  
+passeggiata  
+da  
+Nether Stowey  
+a Dulverton,  
+con lui e sua sorella, nell'[[Autumn|Autunno]] del 1797, che questo Poema fu  
+ideato, e in parte composto. [Nota di S. T. C., stampata per la prima volta in  
+Sibylline [[Leaves]].]  
+Titolo]  
+THE RIME OF THE ANCYENT MARINERE.  
+In Seven Parts L. B. 1798: The  
+[[Ancient Mariner]]. A Poet's Reverie L. B. 1800, 1802, 1805.  
+[Nota. — L'«Argomento» fu omesso in L. B. 1802, 1805, Sibylline  
+[[Leaves]], 1817, e nel 1828, 1829 e 1834.]  
+
+THE RIME OF THE [[Ancient Mariner|ANCIENT MARINER]] PART I I L. B. 1798, 1800.  
+THE RIME  
+OF  
+THE [[Ancient Mariner|ANCIENT MARINER]]. IN SEVEN PARTS. S. L., 1828, 1829.  
+E MARINER: «MARINERE» DAPPERTUTTO L. B. 1798.  
+[Tra 8 e 13]  
+Ma ancora egli trattiene l'invitato alle nozze —  
+C'era una [[Ship|Nave]], diss'egli —  
+«No, se hai un racconto da ridere,  
+Marinaro, [Marinaio! 1800] vieni con me».  
+Lo trattiene con la sua mano scarna —  
+Diss'egli, c'era una [[Ship|Nave]] —  
+Or vattene via, vecchio pazzo barbagrigia!  
+o il mio Bastone ti farà saltare.  
+L. B. 1798, 1800.  
+[Tra 40 e 55]  
+Ascolta, Straniero! [[Storm|Tempesta]] e [[Wind|Vento]],  
+un [[Wind|Vento]] e una Burrasca gagliarda!  
+Per giorni e settimane ci fece i suoi capricci —  
+come pula fummo sospinti.  
+Ascolta, Straniero! Bruma e [[Snow|Neve]],  
+e si fece un freddo prodigioso;  
+e Ghiaccio alto come l'albero veniva a galla  
+verde come Smeraldo.  
+L. B. 1798.  
+[Tra 40 e 51]  
+Ma ora il Vento del Nord venne più fiero,  
+venne una Burrasca gagliarda!  
+E sempre verso Sud per giorni e settimane  
+come Pula fummo sospinti.  
+L. B. 1800.  
+I versi 41-50 del testo furono aggiunti in Sibylline [[Leaves]], 1817. [Nota.  
+L'emendazione nella glossa marginale, «driven» per «drawn», appare per la prima volta  
+nel 1893.]  
+gli Errata.]  
+B. 1800.  
+
+THE RIME OF THE [[Ancient Mariner|ANCIENT MARINER]] PART II II L. B. 1798, 1800  
+THE RIME  
+OF  
+THE [[Ancient Mariner|ANCIENT MARINER]], PART  
+THE  
+SECOND, S. L. 1828, 1829.  
+MARINER'S L. B. 1800.  
+1800.  
+Nelle edizioni precedenti il verso era,  
+The furrow follow'd free:  
+Ma non ero stato a lungo a bordo d'una [[Ship|nave]], prima d'accorgermi  
+che questa era l'immagine quale la vede uno spettatore dalla riva,  
+o da un altro vascello. Dalla [[Ship|nave]] stessa, la Scia  
+appare come un ruscello che defluisce da poppa. Nota a S.  
+L. 1817.  
+[Tra 143 e 149]  
+Vidi un non so che nel cielo  
+non più grande del mio pugno;  
+Dapprima parve, ecc.  
+L. B. 1798.  
+[Tra 143 e 147]  
+Così passò un [[Time|tempo]] penoso, ogni gola  
+era riarsa e vitreo ogni occhio,  
+quando, guardando a ponente, ecc.  
+L. B. 1800.  
+[I versi 143-8 del testo nella loro forma attuale furono aggiunti in Sibylline  
+[[Leaves]], 1817.]  
+
+THE RIME OF THE [[Ancient Mariner|ANCIENT MARINER]] PART III III L. B. 1798, 1800  
+THE RIME OF THE [[Ancient Mariner|ANCIENT MARINER]], PART  
+THE THIRD, S. L. 1828, 1829.  
+L. 1817.  
+Con gola non dissetata, con labbra nere e riarse  
+né potevamo ridere, né gemere;  
+poi, mentre per l'arsura tutti muti stavano,  
+mi morsi il braccio, e ne succhiai il [[Blood|sangue]]  
+L. B. 1798.  
+Ella non bordeggia da un lato all'altro —  
+qua per recarci salvezza.  
+Senza [[Wind|vento]], senza marea  
+avanza salda con la chiglia diritta.  
+L. B. 1798.  
+[Tra 184-90]  
+Son quelle le sue costole nude, che screziavano  
+il sole che dietro esse occhieggiava?  
+E son quei due tutto, tutto l'equipaggio,  
+quella donna e il suo Compagno scarnito?  
+Le sue ossa eran nere di molte crepe,  
+tutte nere e spoglie, io credo;  
+nere come giaietto e spoglie, salvo dove con la ruggine  
+di umidori muffiti e di crosta d'ossario  
+son chiazzate di porpora e di verde.  
+L. B. 1798.  
+Son quelle le sue costole che screziavano il Sole  
+come le sbarre d'un'inferriata di carcere?  
+E son quei due tutto, tutto l'equipaggio,  
+quella donna e il suo compagno?  
+Correzione ms. di S. T. C. in L. B. 1798.  
+Son quelle le sue Costole, attraverso cui il Sole  
+occhieggiava come attraverso una grata?  
+E son quei due tutto, tutto il suo equipaggio,  
+quella Donna, e il suo Compagno?  
+Le sue ossa eran nere di molte crepe  
+*       *       *       *       *  
+Erano chiazzate di porpora e di verde.  
+L. B. 1800.  
+Questa [[Ship|Nave]] era una cosa senza tavole,  
+— una nuda Anatomia!  
+uno spettro senza tavole — e si moveva  
+come un Essere del Mare!  
+La donna e un uomo scarnito  
+vi sedevano allegramente.  
+Le sue ossa eran nere, ecc. (come nel 1800).  
+Questa strofa fu trovata aggiunta di mano del Poeta nel margine  
+d'una copia dell'Edizione di Bristol delle Lyrical Ballads. È qui  
+stampata per la prima [[Time|volta]]. Nota P. e D. W., 1877-80, ii. 36.  
+those] these Errata, L. B. 1798.  
+Le sue labbra son rosse, i suoi sguardi liberi,  
+le sue chiome son gialle come oro:  
+la sua pelle è bianca come lebbra,  
+ed ella somiglia assai più alla [[Death|Morte]] che non lui;  
+la sua carne fa freddo l'aria immota.  
+L. B. 1798.  
+Le sue labbra eran rosse, i suoi sguardi liberi,  
+le sue chiome eran gialle come oro:  
+la sua pelle era bianca come lebbra,  
+ed ella somigliava assai più alla [[Death|Morte]] che non lui;  
+la sua carne faceva freddo l'aria immota.  
+L. B. 1800.  
+1844. Il ripristino del testo del 1798 e del 1800 data dal 1852.  
+[Tra 198-218]  
+Una raffica di [[Wind|vento]] balzò su di dietro  
+e fischiò attraverso le sue ossa;  
+Attraverso i { fori dei suoi occhi e il foro della sua bocca  
+{ foro L. B. 1802,    1805  
+mezzi fischi e mezzi gemiti.  
+Senza mai un sussurro nel Mare  
+via si slancia la [[Ship|nave]]-Spettro;  
+mentre saliva sopra la sbarra d'Oriente  
+la [[Moon|Luna]] cornuta con una Stella lucente  
+quasi fra le punte.  
+[Quasi fra le punte. L. B. 1800.]  
+Uno dopo uno, sotto la [[Moon|Luna]] cornuta  
+(Ascolta me, o Straniero!)  
+ciascuno volse il viso con uno spasimo orrendo  
+e mi maledisse col suo occhio.  
+Quattro volte cinquanta uomini vivi,  
+senza mai un sospiro o un gemito,  
+L. B. 1798, 1800.  
+[Tra 198-9] Una raffica di [[Wind|vento]] . . . mezzi gemiti. S. L. (A pagina 15 cancellare  
+la seconda strofa. Errata, S. L., p. [xi].)  
+[Tra 201-12]  
+Senza mai un sussurro sul mare  
+via schizzò la [[Ship|nave]] spettrale;  
+e parole soffocate e gemiti di [[Pain|dolore]]  
+si mescolarono su ogni labbro mormorante}  
+tremante}  
+E ci guardammo intorno, e guardammo in alto,  
+e la [[Fear|paura]] ai nostri cuori, come a una coppa,  
+il [[Blood|sangue]] della Vita pareva sorbire —  
+il cielo era fosco, e scura la [[Night|notte]],  
+il volto del timoniere alla sua lampada splendeva lucente,  
+dalle vele stillavano le rugiade —  
+finché salì sopra la Sbarra d'Oriente,  
+la [[Moon|Luna]] cornuta, con una stella lucente  
+dentro la sua punta inferiore.  
+Correzione ms. non datata di S. T. C. (pubblicata per la prima volta nel 1893).  
+
+THE RIME OF THE [[Ancient Mariner|ANCIENT MARINER]] PART IV IV. L. B. 1798, 1800  
+THE RIME  
+OF  
+THE [[Ancient Mariner|ANCIENT MARINER]], PART  
+THE  
+FOURTH S. L. 1828, 1829.  
+[[Alone|SOLO]] SUL MARE VASTO VASTO;  
+E [[Christ|CRISTO]] NON VOLLE AVER PIETÀ DI  
+L. B. 1798, 1800.  
+XI).  
+
+THE RIME OF THE [[Ancient Mariner|ANCIENT MARINER]] PART V V. L. B. 1798, 1800  
+THE RIME  
+OF  
+THE [[Ancient Mariner|ANCIENT MARINER]], PART  
+THE  
+FIFTH S. L. 1828, 1829.  
+Il [[Wind|vento]] che viene ruggisce più forte;  
+le vele sospirano, come giunchi:  
+la pioggia scroscia da una nube nera  
+e la [[Moon|Luna]] è al suo margine.  
+Odi! odi! la fitta nube nera è squarciata,  
+e la [[Moon|Luna]] le sta al fianco  
+L. B. 1798.  
+Il [[Wind|vento]] forte raggiunse la [[Ship|nave]]: ruggì  
+e cadde giù come una pietra!  
+L. B. 1798.  
+[Tra 344-5]  
+E tremai al pensiero della mia propria voce,  
+quanto spaventosa sarebbe stata!  
+L. B. 1798.  
+[Tra 372-3]  
+Ascolta, oh ascolta, tu Invitato alle nozze!  
+«Marinaro! tu hai ciò che vuoi:  
+ché quel che esce dal tuo occhio fa  
+che il mio [[Body|corpo]] e la mia [[Soul|anima]] stiano immoti».  
+Mai racconto più triste fu narrato  
+a uomo nato di donna:  
+più triste e più saggio, tu, invitato alle nozze!  
+ti leverai domattina.  
+Mai racconto più triste fu udito  
+da uomo nato di donna:  
+i Marinari tutti tornarono al lavoro  
+silenziosi come prima.  
+I Marinari tutti presero a tirare le corde,  
+ma non volevano guardarmi;  
+pensai: sono sottile come l'aria —  
+non possono vedermi.  
+L. B. 1798.  
+
+THE RIME OF THE [[Ancient Mariner|ANCIENT MARINER]] PART VI VI. L. B. 1798, 1800  
+THE RIME  
+OF  
+THE [[Ancient Mariner|ANCIENT MARINER]]. PART  
+THE  
+SIXTH S. L. 1828, 1829.  
+E a suo [[Time|tempo]] l'incantesimo fu spezzato,  
+e potei muovere gli occhi:  
+guardai lontano innanzi, ma poco vidi  
+di ciò che altrimenti si sarebbe visto.  
+L. B. 1798.  
+[Tra 475-80]  
+La baia illuminata dalla luna era tutta bianca,  
+finché, levandosi da essa,  
+molte forme, che erano ombre,  
+vennero come di torce.  
+A poca distanza dalla prora  
+stavano quelle ombre rosso cupo;  
+ma presto vidi che la mia stessa carne  
+era rossa come in un bagliore.  
+Volsi il capo in [[Fear|paura]] e sgomento,  
+e, per la santa croce,  
+i corpi erano avanzati, e ora  
+stavano davanti all'albero.  
+Levarono le loro rigide braccia destre,  
+le tenevano diritte e tese;  
+e ogni braccio destro ardeva come una torcia,  
+una torcia portata ritta.  
+I loro globi oculari di pietra scintillavano  
+nella luce rossa e fumosa.  
+Pregai e volsi il capo altrove,  
+guardando innanzi come prima.  
+Non c'era brezza sulla baia,  
+non un'onda contro la riva.  
+L. B. 1798.  
+[Tra 503-4]  
+Poi svanirono tutte le luci amorose;  
+i corpi si [[Rose|levarono]] di nuovo:  
+con passo silenzioso, ciascuno al suo posto,  
+tornò la ciurma spettrale,  
+il [[Wind|vento]], che non faceva ombra né moto,  
+su me [[Alone|solo]] soffiava.  
+L. B. 1798.  
+Poi svanirono tutte le luci amorose,  
+gli spiriti dell'aria,  
+non erano anime di uomini mortali,  
+ma spiriti lucenti e belli.  
+Correzione ms. di S. T. C. in una copia di L. B. 1798.  
+
+RIME OF THE [[Ancient Mariner|ANCIENT MARINER]] PART VII VII. L. B. 1798, 1800  
+THE RIME  
+OF  
+THE [[Ancient Mariner|ANCIENT MARINER]], PART  
+THE SEVENTH S. L. 1829: THE [[Ancient Mariner|ANCIENT MARINER]]. PART THE SEVENTH 1828.  
+ERRATA, S. L. 1817, P. (XI).  
+Da allora, a un'ora incerta,  
+ora più spesso e ora meno,  
+quell'angoscia viene e mi fa narrare  
+la mia spettrale avventura.  
+L. B. 1798.  
+1798.

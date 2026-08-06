@@ -1,0 +1,111 @@
+---
+title: Satire of Society · Epigram · Satire
+author: Coleridge
+type: work
+cluster: Satire of Society · Epigram · Satire
+source: Authors/Coleridge/Atomized/satire-of-society-epigram-satire
+tags:
+  - graph/work
+  - author/Coleridge
+  - concept/satire_of_society
+  - form/epigram
+  - form/satire
+  - concept/the_artist_and_society
+  - form/parody
+  - concept/power_and_corruption
+  - motif/money_gold
+  - concept/deception
+  - motif/wine_and_drink
+  - concept/the_grotesque
+  - motif/animals
+  - concept/poverty
+  - motif/the_grave
+  - form/sonnet
+  - concept/literary_criticism
+  - concept/marriage_and_fidelity
+  - motif/death
+  - concept/friendship
+  - concept/economics
+  - concept/appearance_vs_reality
+  - motif/clothing
+  - concept/truth
+  - concept/melancholy
+  - motif/letters_writing
+  - concept/reform
+  - motif/the_city
+---
+
+Raccolta tematica di 67 componimenti di Samuel Taylor Coleridge.
+
+- [[A CHARACTER (Coleridge)|A CHARACTER]]
+- [[A DIALOGUE BETWEEN AN AUTHOR AND HIS FRIEND (Coleridge)|A DIALOGUE BETWEEN AN AUTHOR AND HIS FRIEND]]
+- [[A LIAR BY PROFESSION (Coleridge)|A LIAR BY PROFESSION]]
+- [[ADDRESSED TO A YOUNG MAN OF FORTUNE (Coleridge)|ADDRESSED TO A YOUNG MAN OF FORTUNE]]
+- [[ALWAYS AUDIBLE (Coleridge)|ALWAYS AUDIBLE]]
+- [[AN APOLOGY FOR SPENCERS (Coleridge)|AN APOLOGY FOR SPENCERS]]
+- [[AUTHORS AND PUBLISHERS (Coleridge)|AUTHORS AND PUBLISHERS]]
+- [[CHOLERA CURED BEFORE-HAND (Coleridge)|CHOLERA CURED BEFORE-HAND]]
+- [[CHRIST’S HOSPITAL (Coleridge)|CHRIST’S HOSPITAL]]
+- [[COLOGNE (Coleridge)|COLOGNE]]
+- [[COMPARATIVE BREVITY OF GREEK AND ENGLISH (Coleridge)|COMPARATIVE BREVITY OF GREEK AND ENGLISH]]
+- [[DEAR BROTHER JEM (Coleridge)|DEAR BROTHER JEM]]
+- [[ELISA (Coleridge)|ELISA]]
+- [[EPIGRAM ON THE SECRECY OF A CERTAIN LADY (Coleridge)|EPIGRAM ON THE SECRECY OF A CERTAIN LADY]]
+- [[EPITAPH ON A MERCENARY MISER (Coleridge)|EPITAPH ON A MERCENARY MISER]]
+- [[FOR A HOUSE-DOG’S COLLAR (Coleridge)|FOR A HOUSE-DOG’S COLLAR]]
+- [[FROM AN OLD GERMAN POET (Coleridge)|FROM AN OLD GERMAN POET]]
+- [[HONOUR (Coleridge)|HONOUR]]
+- [[IMITATED FROM ARISTOPHANES (Coleridge)|IMITATED FROM ARISTOPHANES]]
+- [[INSIDE THE COACH (Coleridge)|INSIDE THE COACH]]
+- [[LESSING (Coleridge)|LESSING]]
+- [[LINES IN A GERMAN STUDENT’S ALBUM (Coleridge)|LINES IN A GERMAN STUDENT’S ALBUM]]
+- [[L’ENFANT PRODIGUE (Coleridge)|L’ENFANT PRODIGUE]]
+- [[MODERN CRITICS (Coleridge)|MODERN CRITICS]]
+- [[MONODY ON A TEA-KETTLE (Coleridge)|MONODY ON A TEA-KETTLE]]
+- [[MUSIC (Coleridge)|MUSIC]]
+- [[NINETY-EIGHT (Coleridge)|NINETY-EIGHT]]
+- [[NONSENSE SAPPHICS (Coleridge)|NONSENSE SAPPHICS]]
+- [[OCCASIONED BY THE FORMER (Coleridge)|OCCASIONED BY THE FORMER]]
+- [[OCCASIONED BY THE LAST (Coleridge)|OCCASIONED BY THE LAST]]
+- [[ON A LATE MARRIAGE BETWEEN AN OLD MAID AND FRENCH PETIT MAÎTRE (Coleridge)|ON A LATE MARRIAGE BETWEEN AN OLD MAID AND FRENCH PETIT MAÎTRE]]
+- [[ON A READER OF HIS OWN VERSES (Coleridge)|ON A READER OF HIS OWN VERSES]]
+- [[ON A REPORT OF A MINISTER’S DEATH (Coleridge)|ON A REPORT OF A MINISTER’S DEATH]]
+- [[ON A RUINED HOUSE IN A ROMANTIC COUNTRY (Coleridge)|ON A RUINED HOUSE IN A ROMANTIC COUNTRY]]
+- [[ON A SLANDERER (Coleridge)|ON A SLANDERER]]
+- [[ON AN AMOROUS DOCTOR (Coleridge)|ON AN AMOROUS DOCTOR]]
+- [[ON DEPUTY —— (Coleridge)|ON DEPUTY ——]]
+- [[ON IMITATION (Coleridge)|ON IMITATION]]
+- [[ON MR. ROSS, USUALLY COGNOMINATED NOSY (Coleridge)|ON MR. ROSS, USUALLY COGNOMINATED NOSY]]
+- [[ON MY JOYFUL DEPARTURE FROM THE SAME CITY (Coleridge)|ON MY JOYFUL DEPARTURE FROM THE SAME CITY]]
+- [[ON PITT AND FOX (Coleridge)|ON PITT AND FOX]]
+- [[ON SIR RUBICUND NASO (Coleridge)|ON SIR RUBICUND NASO]]
+- [[ON THE SICKNESS OF A GREAT MINISTER (Coleridge)|ON THE SICKNESS OF A GREAT MINISTER]]
+- [[PARLIAMENTARY OSCILLATORS (Coleridge)|PARLIAMENTARY OSCILLATORS]]
+- [[PERSPIRATION. A TRAVELLING ECLOGUE (Coleridge)|PERSPIRATION. A TRAVELLING ECLOGUE]]
+- [[RUFA (Coleridge)|RUFA]]
+- [[SONNETS ATTEMPTED IN THE MANNER OF CONTEMPORARY WRITERS (Coleridge)|SONNETS ATTEMPTED IN THE MANNER OF CONTEMPORARY WRITERS]]
+- [[TALLEYRAND TO LORD GRENVILLE (Coleridge)|TALLEYRAND TO LORD GRENVILLE]]
+- [[THE COMPLIMENT QUALIFIED (Coleridge)|THE COMPLIMENT QUALIFIED]]
+- [[THE GOOD, GREAT MAN (Coleridge)|THE GOOD, GREAT MAN]]
+- [[THE SECOND BIRTH (Coleridge)|THE SECOND BIRTH]]
+- [[THE TASTE OF THE TIMES (Coleridge)|THE TASTE OF THE TIMES]]
+- [[THE TWO ROUND SPACES ON THE TOMBSTONE (Coleridge)|THE TWO ROUND SPACES ON THE TOMBSTONE]]
+- [[TO A CRITIC (Coleridge)|TO A CRITIC]]
+- [[TO A PROUD PARENT (Coleridge)|TO A PROUD PARENT]]
+- [[TO A VAIN YOUNG LADY (Coleridge)|TO A VAIN YOUNG LADY]]
+- [[TO A VIRTUOUS OECONOMIST WERNICKE (Coleridge)|TO A VIRTUOUS OECONOMIST: WERNICKE]]
+- [[TO A WELL-KNOWN MUSICAL CRITIC, REMARKABLE FOR HIS EARS STICKING THROUGH HIS HAIR (Coleridge)|TO A WELL-KNOWN MUSICAL CRITIC, REMARKABLE FOR HIS EARS STICKING THROUGH HIS HAIR]]
+- [[TO FORTUNE (Coleridge)|TO FORTUNE]]
+- [[TO MR. PYE (Coleridge)|TO MR. PYE]]
+- [[TO MY CANDLE (Coleridge)|TO MY CANDLE]]
+- [[TO SIMPLICITY (Coleridge)|TO SIMPLICITY]]
+- [[TO SUSAN STEELE ON RECEIVING THE PURSE (Coleridge)|TO SUSAN STEELE ON RECEIVING THE PURSE]]
+- [[TO WILLIAM GODWIN (Coleridge)|TO WILLIAM GODWIN]]
+- [[VERSES TRIVOCULAR (Coleridge)|VERSES TRIVOCULAR]]
+- [[WRITTEN AFTER A WALK BEFORE SUPPER (Coleridge)|WRITTEN AFTER A WALK BEFORE SUPPER]]
+- [[WRITTEN IN AN ALBUM (Coleridge)|WRITTEN IN AN ALBUM]]
+
+## Testo / Text
+
+- [LESSING](/testi/coleridge/atomized/satire-of-society-epigram-satire#443_lessing)
+

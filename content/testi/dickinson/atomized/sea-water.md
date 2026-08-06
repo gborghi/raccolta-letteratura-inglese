@@ -2,13 +2,13 @@
 title: "To Mrs. Edward Tuckerman, August, 1878"
 author: "Dickinson"
 unitType: work
-parentWork: "works/sea-·-water-(keats)"
+parentWork: "works/sea-·-water-(dickinson)"
 tags:
   - graph/excerpt
   - author/Dickinson
 ---
 
-<div class="atom-reader" data-work="testi/dickinson/atomized/sea-water" data-author="Dickinson" data-workhref="works/sea-·-water-(keats)"></div>
+<div class="atom-reader" data-work="testi/dickinson/atomized/sea-water" data-author="Dickinson" data-workhref="works/sea-·-water-(dickinson)"></div>
 
 
 <span class="atom-split" data-atom="0004_on_this_wondrous_sea" data-title="4. On this wondrous sea" data-chapter="" data-kind="intro" data-tags="topos/night_journey,motif/the_sea,motif/a_ship,motif/storm,concept/immortality,concept/faith,form/lyric,setting/the_sea,cluster/sea,cluster/water"></span>

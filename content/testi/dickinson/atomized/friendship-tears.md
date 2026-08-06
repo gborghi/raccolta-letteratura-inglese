@@ -2,13 +2,13 @@
 title: "To Mrs. Todd, March 21, 1885"
 author: "Dickinson"
 unitType: work
-parentWork: "works/friendship-·-tears-(keats)"
+parentWork: "works/friendship-·-tears-(dickinson)"
 tags:
   - graph/excerpt
   - author/Dickinson
 ---
 
-<div class="atom-reader" data-work="testi/dickinson/atomized/friendship-tears" data-author="Dickinson" data-workhref="works/friendship-·-tears-(keats)"></div>
+<div class="atom-reader" data-work="testi/dickinson/atomized/friendship-tears" data-author="Dickinson" data-workhref="works/friendship-·-tears-(dickinson)"></div>
 
 
 <span class="atom-split" data-atom="0014_one_sister_have_i_in_our_house" data-title="14. One Sister have I in our house," data-chapter="" data-kind="intro" data-tags="motif/birds,motif/stars,concept/friendship,concept/love_romantic,concept/memory_and_time,concept/childhood_and_growth,form/lyric,cluster/friendship,cluster/tears"></span>

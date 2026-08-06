@@ -48,8 +48,8 @@ tags:
 ## Capitoli / Chapters
 
 - [Chapter 5](/testi/bronte/atomized/villette#chapter_05)
-- [Book 26: some illustrated work of natural history. Often had I seen her](/testi/bronte/atomized/villette#chapter_26_some_illustrated_work_of_natur)
-- [Volume 31: never hazarded a second. With all this, I had never yet been](/testi/bronte/atomized/villette#chapter_31_never_hazarded_a_second_with_a)
+- [Chapter 25 (continued)](/testi/bronte/atomized/villette#chapter_26_some_illustrated_work_of_natur)
+- [Chapter 29 (continued)](/testi/bronte/atomized/villette#chapter_31_never_hazarded_a_second_with_a)
 - [Chapter 42](/testi/bronte/atomized/villette#chapter_44)
 
 

@@ -45,19 +45,33 @@ def is_leaf_atom(root, f):
         return False
     stem = f[:-3]
     if stem == os.path.basename(root):
-        return False
+        # Work/Work.md is the whole-work aggregate only when the work dir also
+        # holds the splits. When it is the sole file there, the work was never
+        # split and that file IS the leaf -- the old name-based rule made those
+        # invisible to the queue (19 Wilde stories/essays, 3 Conan Doyle pieces:
+        # never translated, never rejected, never reported).
+        for e in os.listdir(root):
+            if e == f or e.endswith(".it.md") or CONFLICTED_RE.search(e):
+                continue
+            if e.endswith(".md") or os.path.isdir(os.path.join(root, e)):
+                return False
     if os.path.isdir(os.path.join(root, stem)):
         return False
     return True
 
 
 def gather_author(author):
+    """Env HY_SKIP is a regex on the atom path: verse inside a prose author's
+    folder (Wilde's The Sphinx) must stay out of HY and go to Opus instead."""
     base = os.path.join(dt.VAULT_ROOT, "Authors", author, "Atomized")
+    skip = re.compile(os.environ["HY_SKIP"]) if os.environ.get("HY_SKIP") else None
     out = []
     for root, _dirs, files in os.walk(base):
         for f in files:
             if is_leaf_atom(root, f):
                 en = os.path.join(root, f)
+                if skip and skip.search(en):
+                    continue
                 if not os.path.exists(en[:-3] + ".it.md"):
                     out.append(en)
     return sorted(out)

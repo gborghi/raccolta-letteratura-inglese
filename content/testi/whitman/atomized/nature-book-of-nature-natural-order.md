@@ -1,0 +1,818 @@
+---
+title: "Unseen Buds"
+author: "Whitman"
+unitType: work
+parentWork: "works/nature-·-book-of-nature-·-natural-order-(whitman)"
+tags:
+  - graph/excerpt
+  - author/Whitman
+---
+
+<div class="atom-reader" data-work="testi/whitman/atomized/nature-book-of-nature-natural-order" data-author="Whitman" data-workhref="works/nature-·-book-of-nature-·-natural-order-(whitman)"></div>
+
+
+<span class="atom-split" data-atom="063_the_prairie_grass_dividing" data-title="The Prairie-Grass Dividing" data-chapter="" data-kind="intro" data-tags="motif/grass,motif/nature,concept/comradeship,concept/the_common_man,concept/democracy,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
+
+
+_Cluster: CALAMUS_
+
+
+The prairie-grass dividing, its special odor breathing,
+I demand of it the spiritual corresponding,
+Demand the most copious and close companionship of men,
+Demand the blades to rise of words, acts, beings,
+Those of the open atmosphere, coarse, sunlit, fresh, nutritious,
+Those that go their own gait, erect, stepping with [[Freedom|freedom]] and
+command, leading not following,
+Those with a never-quell’d audacity, those with sweet and lusty
+flesh clear of taint,
+Those that look carelessly in the faces of Presidents and governors,
+as to say Who are you?
+Those of earth-born passion, simple, never constrain’d, never obedient,
+Those of inland [[America]].
+
+
+
+
+
+
+
+
+<span class="atom-split" data-atom="117_germs" data-title="Germs" data-chapter="" data-kind="intro" data-tags="motif/stars,motif/nature,concept/the_sublime,concept/immortality,form/free_verse,form/epigram,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
+
+
+_Cluster: BY THE ROADSIDE_  
+
+
+Forms, qualities, lives, humanity, language, thoughts,  
+The ones known, and the ones unknown, the ones on the [[Stars|stars]],  
+The [[Stars|stars]] themselves, some shaped, others unshaped,  
+Wonders as of those countries, the soil, trees, cities, inhabitants,  
+whatever they may be,  
+Splendid suns, the moons and rings, the countless combinations and effects,  
+Such-like, and as good as such-like, visible here or anywhere, stand  
+provided for a handful of space, which I extend my arm and  
+half enclose with my hand,  
+That containing the start of each and all, the virtue, the germs of all.  
+
+
+
+
+
+
+
+
+<span class="atom-split" data-atom="127_a_farm_picture" data-title="A Farm Picture" data-chapter="" data-kind="intro" data-tags="cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
+
+
+_Cluster: BY THE ROADSIDE_
+
+
+Through the ample open door of the peaceful country barn,
+A sunlit pasture field with cattle and horses feeding,
+And haze and vista, and the far horizon fading away.
+
+
+
+
+
+
+
+
+<span class="atom-split" data-atom="184_to_the_leaven_d_soil_they_trod" data-title="To the Leaven’d Soil They Trod" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/nature,motif/sun,concept/nationalism_and_patriotism,concept/war_and_its_cost,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
+
+
+_Cluster: DRUM-TAPS_
+
+
+To the leaven’d soil they trod calling I sing for the last,
+(Forth from my tent emerging for good, loosing, untying the tent-ropes,)
+In the freshness the forenoon air, in the far-stretching circuits
+and vistas again to peace restored,
+To the fiery fields emanative and the endless vistas beyond, to the
+South and the North,
+To the leaven’d soil of the general Western world to attest my [[songs]],
+To the Alleghanian hills and the tireless Mississippi,
+To the rocks I calling sing, and all the trees in the woods,
+To the plains of the [[Poems|poems]] of heroes, to the prairies spreading wide,
+To the far-off sea and the unseen winds, and the sane impalpable air;
+And responding they answer all, (but not in words,)
+The average earth, the witness of war and peace, acknowledges mutely,
+The prairie draws me close, as the father to bosom broad the son,
+The Northern ice and rain that began me nourish me to the end,
+But the hot sun of the South is to fully ripen my [[songs]].
+
+
+
+
+
+
+
+
+<span class="atom-split" data-atom="192_the_return_of_the_heroes" data-title="The Return of the Heroes" data-chapter="" data-kind="intro" data-tags="archetype/great_mother,motif/autumn,motif/nature,concept/heroism,concept/war_and_its_cost,concept/wonder_and_gratitude,histref/american_civil_war,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
+
+
+_Cluster: [[Autumn|AUTUMN]] RIVULETS_
+
+
+1
+For the lands and for these passionate days and for myself,
+Now I awhile retire to thee O soil of [[Autumn|autumn]] fields,
+Reclining on thy breast, giving myself to thee,
+Answering the pulses of thy sane and equable heart,
+Turning a verse for thee.
+
+O earth that hast no voice, confide to me a voice,
+O harvest of my lands--O boundless [[Summer|summer]] growths,
+O lavish brown parturient earth--O infinite teeming womb,
+A [[Song|song]] to narrate thee.
+
+2
+Ever upon this stage,
+Is acted God’s calm annual drama,
+Gorgeous processions, [[songs]] of [[Birds|birds]],
+Sunrise that fullest feeds and freshens most the [[Soul|soul]],
+The heaving sea, the waves upon the shore, the musical, strong waves,
+The woods, the stalwart trees, the slender, tapering trees,
+The liliput countless armies of the grass,
+The heat, the showers, the measureless pasturages,
+The scenery of the snows, the winds’ free orchestra,
+The stretching light-hung roof of clouds, the clear cerulean and the
+silvery fringes,
+The high-dilating [[Stars|stars]], the placid beckoning [[Stars|stars]],
+The moving flocks and herds, the plains and emerald meadows,
+The shows of all the varied lands and all the growths and products.
+
+3
+Fecund [[America]]--today,
+Thou art all over set in births and joys!
+Thou groan’st with riches, thy wealth clothes thee as a swathing-garment,
+Thou laughest loud with ache of great possessions,
+A myriad-twining life like interlacing vines binds all thy vast demesne,
+As some huge [[Ship|ship]] freighted to [[Water|water]]’s edge thou ridest into port,
+As rain falls from the heaven and vapors rise from earth, so have
+the precious values fallen upon thee and risen out of thee;
+Thou envy of the globe! thou miracle!
+Thou, bathed, choked, swimming in plenty,
+Thou lucky Mistress of the tranquil barns,
+Thou Prairie Dame that sittest in the middle and lookest out upon
+thy world, and lookest East and lookest West,
+Dispensatress, that by a word givest a thousand miles, a million
+farms, and missest nothing,
+Thou all-acceptress--thou hospitable, (thou only art hospitable as
+God is hospitable.)
+
+4
+When late I sang sad was my voice,
+Sad were the shows around me with deafening noises of hatred and
+smoke of war;
+In the midst of the conflict, the heroes, I stood,
+Or pass’d with slow step through the wounded and dying.
+
+But now I sing not war,
+Nor the measur’d march of soldiers, nor the tents of camps,
+Nor the regiments hastily coming up deploying in line of battle;
+No more the sad, unnatural shows of war.
+
+Ask’d room those flush’d immortal ranks, the first forth-stepping armies?
+Ask room alas the ghastly ranks, the armies dread that follow’d.
+
+(Pass, pass, ye proud brigades, with your tramping sinewy legs,
+With your shoulders young and strong, with your knapsacks and your muskets;
+How elate I stood and watch’d you, where starting off you march’d.
+
+Pass--then rattle drums again,
+For an army heaves in sight, O another gathering army,
+Swarming, trailing on the rear, O you dread accruing army,
+O you regiments so piteous, with your mortal diarrhoea, with your fever,
+O my land’s maim’d darlings, with the plenteous bloody bandage and
+the crutch,
+Lo, your pallid army follows.)
+
+5
+But on these days of brightness,
+On the far-stretching beauteous landscape, the roads and lanes the
+high-piled farm-wagons, and the fruits and barns,
+Should the dead intrude?
+
+Ah the dead to me mar not, they fit [[Well|well]] in [[Nature]],
+They fit very [[Well|well]] in the landscape under the trees and grass,
+And along the edge of the sky in the horizon’s far margin.
+
+Nor do I forget you Departed,
+Nor in [[Winter|winter]] or [[Summer|summer]] my lost ones,
+But most in the open air as now when my [[Soul|soul]] is rapt and at peace,
+like pleasing phantoms,
+Your memories rising glide silently by me.
+
+6
+I saw the day the return of the heroes,
+(Yet the heroes never surpass’d shall never return,
+Them that day I saw not.)
+
+I saw the interminable corps, I saw the processions of armies,
+I saw them approaching, defiling by with divisions,
+Streaming northward, their work done, camping awhile in clusters of
+mighty camps.
+
+No holiday soldiers--youthful, yet veterans,
+Worn, swart, handsome, strong, of the stock of homestead and workshop,
+Harden’d of many a long campaign and sweaty march,
+Inured on many a hard-fought bloody field.
+
+A pause--the armies wait,
+A million flush’d embattled conquerors wait,
+The world too waits, then soft as breaking [[Night|night]] and sure as [[Dawn|dawn]],
+They melt, they disappear.
+
+Exult O lands! victorious lands!
+Not there your victory on those red shuddering fields,
+But here and hence your victory.
+
+Melt, melt away ye armies--disperse ye blue-clad soldiers,
+Resolve ye back again, give up for good your deadly arms,
+Other the arms the fields henceforth for you, or South or North,
+With saner wars, sweet wars, life-giving wars.
+
+7
+Loud O my throat, and clear O [[Soul|soul]]!
+The season of thanks and the voice of full-yielding,
+The chant of joy and power for boundless fertility.
+
+All till’d and untill’d fields expand before me,
+I see the true arenas of my race, or first or last,
+Man’s [[Innocent|innocent]] and strong arenas.
+
+I see the heroes at other toils,
+I see [[Well|well]]-wielded in their hands the better weapons.
+
+I see where the Mother of All,
+With full-spanning eye gazes forth, dwells long,
+And counts the varied gathering of the products.
+
+Busy the far, the sunlit panorama,
+Prairie, orchard, and yellow grain of the North,
+Cotton and rice of the South and Louisianian cane,
+Open unseeded fallows, rich fields of clover and timothy,
+Kine and horses feeding, and droves of sheep and swine,
+And many a stately [[River|river]] flowing and many a jocund brook,
+And healthy uplands with herby-perfumed breezes,
+And the good green grass, that delicate miracle the ever-recurring grass.
+
+8
+Toil on heroes! harvest the products!
+Not [[Alone|alone]] on those warlike fields the Mother of All,
+With dilated form and lambent eyes watch’d you.
+
+Toil on heroes! toil [[Well|well]]! handle the weapons [[Well|well]]!
+The Mother of All, yet here as ever she watches you.
+
+[[Well]]-pleased [[America]] thou beholdest,
+Over the fields of the West those crawling monsters,
+The human-divine inventions, the labor-saving implements;
+Beholdest moving in every direction imbued as with life the
+revolving hay-rakes,
+The steam-power reaping-machines and the [[Horse|horse]]-power machines
+The engines, thrashers of grain and cleaners of grain, [[Well|well]]
+separating the straw, the nimble work of the patent pitchfork,
+Beholdest the newer saw-mill, the southern cotton-gin, and the
+rice-cleanser.
+
+Beneath thy look O Maternal,
+With these and else and with their own strong hands the heroes harvest.
+
+All gather and all harvest,
+Yet but for thee O Powerful, not a scythe might swing as now in security,
+Not a maize-stalk dangle as now its silken tassels in peace.
+
+Under thee only they harvest, even but a wisp of hay under thy great
+face only,
+Harvest the wheat of Ohio, Illinois, Wisconsin, every barbed spear
+under thee,
+Harvest the maize of Missouri, Kentucky, Tennessee, each ear in its
+light-green sheath,
+Gather the hay to its myriad mows in the odorous tranquil barns,
+Oats to their bins, the white potato, the buckwheat of Michigan, to theirs;
+Gather the cotton in Mississippi or Alabama, dig and hoard the
+golden the sweet potato of Georgia and the Carolinas,
+Clip the wool of California or Pennsylvania,
+Cut the flax in the Middle States, or hemp or tobacco in the Borders,
+Pick the pea and the bean, or pull apples from the trees or bunches
+of grapes from the vines,
+Or aught that ripens in all these States or North or South,
+Under the beaming sun and under thee.
+
+
+
+
+
+
+
+
+<span class="atom-split" data-atom="201_warble_for_lilac_time" data-title="Warble for Lilac-Time" data-chapter="" data-kind="intro" data-tags="motif/spring,motif/flowers,motif/birds,motif/nature,motif/seasons,concept/joy,concept/nostalgia,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
+
+
+_Cluster: [[Autumn|AUTUMN]] RIVULETS_
+
+
+Warble me now for joy of lilac-[[Time|time]], (returning in reminiscence,)
+Sort me O tongue and lips for [[Nature]]’s sake, souvenirs of earliest [[Summer|summer]],
+Gather the welcome signs, (as children with pebbles or stringing shells,)
+Put in April and May, the hylas croaking in the ponds, the elastic air,
+[[Bees]], butterflies, the sparrow with its simple notes,
+Blue-bird and darting [[Swallow|swallow]], nor forget the high-hole flashing his
+golden wings,
+The tranquil sunny haze, the clinging smoke, the vapor,
+Shimmer of waters with fish in them, the cerulean above,
+All that is jocund and sparkling, the brooks running,
+The maple woods, the crisp February days and the sugar-making,
+The robin where he hops, bright-eyed, brown-breasted,
+With musical clear call at sunrise, and again at sunset,
+Or flitting among the trees of the apple-orchard, building the nest
+of his mate,
+The melted [[Snow|snow]] of March, the willow sending forth its yellow-green sprouts,
+For [[spring]]-[[Time|time]] is here! the [[Summer|summer]] is here! and what is this in it
+and from it?
+Thou, [[Soul|soul]], unloosen’d--the restlessness after I know not what;
+Come, let us lag here no longer, let us be up and away!
+O if one could but fly like a bird!
+O to escape, to sail forth as in a [[Ship|ship]]!
+To glide with thee O [[Soul|soul]], o’er all, in all, as a [[Ship|ship]] o’er the waters;
+Gathering these hints, the preludes, the blue sky, the grass, the
+morning drops of dew,
+The lilac-scent, the bushes with dark green heart-shaped [[Leaves|leaves]],
+Wood-violets, the little delicate pale blossoms called [[innocence]],
+Samples and sorts not for themselves [[Alone|alone]], but for their atmosphere,
+To grace the bush I [[Love|love]]--to sing with the [[Birds|birds]],
+A warble for joy of returning in reminiscence.
+
+
+
+
+
+
+
+
+<span class="atom-split" data-atom="261_all_is_truth" data-title="All Is Truth" data-chapter="" data-kind="intro" data-tags="concept/truth,concept/self_and_cosmos,concept/identity,concept/the_natural_order,form/free_verse,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
+
+
+_Cluster: FROM [[Noon|NOON]] TO STARRY NIGHT_  
+
+
+O me, man of slack [[Faith|faith]] so long,  
+Standing aloof, denying portions so long,  
+Only aware to-day of compact all-diffused [[Truth|truth]],  
+Discovering to-day there is no lie or form of lie, and can be none,  
+but grows as inevitably upon itself as the [[Truth|truth]] does upon itself,  
+Or as any law of the earth or any natural production of the earth does.  
+
+(This is curious and may not be realized immediately, but it must be  
+realized,  
+I feel in myself that I represent falsehoods equally with the rest,  
+And that the universe does.)  
+
+Where has fail’d a perfect return indifferent of lies or the [[Truth|truth]]?  
+Is it upon the ground, or in [[Water|water]] or [[Fire|fire]]? or in the spirit of man?  
+or in the meat and [[Blood|blood]]?  
+
+Meditating among liars and retreating sternly into myself, I see  
+that there are really no liars or lies after all,  
+And that nothing fails its perfect return, and that what are called  
+lies are perfect returns,  
+And that each thing exactly represents itself and what has preceded it,  
+And that the [[Truth|truth]] includes all, and is compact just as much as  
+space is compact,  
+And that there is no flaw or vacuum in the amount of the [[Truth|truth]]--but  
+that all is [[Truth|truth]] without exception;  
+And henceforth I will go celebrate any thing I see or am,  
+And sing and laugh and deny nothing.  
+
+
+
+
+
+
+
+
+<span class="atom-split" data-atom="269_by_broad_potomac_s_shore" data-title="By Broad Potomac’s Shore" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/nature,motif/spring,motif/rose,motif/grass,motif/river,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
+
+
+_Cluster: FROM [[Noon|NOON]] TO STARRY NIGHT_
+
+
+By broad Potomac’s shore, again old tongue,
+(Still uttering, still ejaculating, canst never cease this babble?)
+Again old heart so gay, again to you, your sense, the full flush
+[[spring]] returning,
+Again the freshness and the odors, again Virginia’s [[Summer|summer]] sky,
+pellucid blue and silver,
+Again the forenoon purple of the hills,
+Again the deathless grass, so noiseless soft and green,
+Again the [[Blood|blood]]-red roses blooming.
+
+Perfume this book of mine O [[Blood|blood]]-red roses!
+Lave subtly with your waters every line Potomac!
+Give me of you O [[spring]], before I close, to put between its pages!
+O forenoon purple of the hills, before I close, of you!
+O deathless grass, of you!
+
+
+
+
+
+
+
+
+<span class="atom-split" data-atom="274_spirit_that_form_d_this_scene" data-title="Spirit That Form’d This Scene" data-chapter="" data-kind="intro" data-tags="motif/nature,concept/nature_vs_civilization,concept/the_artist_and_society,concept/the_sublime,setting/the_american_west,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
+
+
+_Cluster: FROM [[Noon|NOON]] TO STARRY NIGHT_
+
+[Written in Platte Canyon, Colorado]
+
+Spirit that form’d this scene,
+These tumbled rock-piles grim and red,
+These reckless heaven-ambitious peaks,
+These gorges, turbulent-clear streams, this naked freshness,
+These formless wild arrays, for reasons of their own,
+I know thee, savage spirit--we have communed together,
+Mine too such wild arrays, for reasons of their own;
+Wast charged against my chants they had forgotten art?
+To fuse within themselves its rules precise and delicatesse?
+The lyrist’s measur’d beat, the wrought-out temple’s grace--column
+and polish’d arch forgot?
+But thou that revelest here--spirit that form’d this scene,
+They have remember’d thee.
+
+
+
+
+
+
+
+
+<span class="atom-split" data-atom="305_the_first_dandelion" data-title="The First Dandelion" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,motif/spring,motif/nature,motif/flowers,motif/seasons,motif/dawn,motif/grass,concept/innocence_and_experience,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
+
+
+_Cluster: SANDS AT SEVENTY_  
+
+
+Simple and fresh and fair from [[Winter|winter]]’s close emerging,  
+As if no artifice of fashion, business, politics, had ever been,  
+Forth from its sunny nook of shelter’d grass--[[Innocent|innocent]], golden, calm  
+as the [[Dawn|dawn]],  
+The [[spring]]’s first dandelion shows its trustful face.  
+
+
+
+
+
+
+
+
+<span class="atom-split" data-atom="311_out_of_may_s_shows_selected" data-title="Out of May’s Shows Selected" data-chapter="" data-kind="intro" data-tags="motif/spring,motif/nature,motif/flowers,motif/seasons,motif/sun,concept/beauty,form/lyric,setting/pastoral_countryside,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
+
+
+_Cluster: SANDS AT SEVENTY_  
+
+
+Apple orchards, the trees all cover’d with blossoms;  
+Wheat fields carpeted far and near in vital emerald green;  
+The eternal, exhaustless freshness of each early morning;  
+The yellow, golden, transparent haze of the warm afternoon sun;  
+The aspiring lilac bushes with profuse purple or white [[Flowers|flowers]].  
+
+
+
+
+
+
+
+
+<span class="atom-split" data-atom="312_halcyon_days" data-title="Halcyon Days" data-chapter="" data-kind="intro" data-tags="topos/beatus_ille,motif/seasons,motif/nature,motif/autumn,concept/joy,concept/wonder_and_gratitude,concept/self_and_soul,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
+
+
+_Cluster: SANDS AT SEVENTY_  
+
+
+Not from successful [[Love|love]] [[Alone|alone]],  
+Nor wealth, nor honor’d middle age, nor victories of politics or war;  
+But as life wanes, and all the turbulent passions calm,  
+As gorgeous, vapory, silent hues cover the evening sky,  
+As softness, fulness, rest, suffuse the frame, like freshier, balmier air,  
+As the days take on a mellower light, and the apple at last hangs  
+really finish’d and indolent-ripe on the tree,  
+Then for the teeming quietest, happiest days of all!  
+The brooding and blissful halcyon days!  
+
+
+
+
+
+
+
+<span class="atom-split" data-atom="315_with_husky_haughty_lips_o_sea" data-title="With Husky-Haughty Lips, O Sea!" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/storm,motif/serpent_snake,concept/the_sublime,concept/self_and_cosmos,concept/melancholy,form/ode,form/free_verse,setting/the_sea,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
+
+
+_Cluster: SANDS AT SEVENTY_  
+
+
+With husky-haughty lips, O sea!  
+Where day and [[Night|night]] I wend thy surf-beat shore,  
+Imaging to my sense thy varied strange suggestions,  
+(I see and plainly list thy talk and conference here,)  
+Thy troops of white-maned racers racing to the goal,  
+Thy ample, smiling face, dash’d with the sparkling dimples of the sun,  
+Thy brooding scowl and murk--thy unloos’d hurricanes,  
+Thy unsubduedness, caprices, wilfulness;  
+Great as thou art above the rest, thy many [[Tears|tears]]--a lack from all  
+[[Eternity|eternity]] in thy content,  
+(Naught but the greatest struggles, wrongs, defeats, could make thee  
+greatest--no less could make thee,)  
+Thy lonely state--something thou ever seek’st and seek’st, yet  
+never gain’st,  
+Surely some right withheld--some voice, in huge monotonous rage, of  
+[[Freedom|freedom]]-[[Lover|lover]] pent,  
+Some vast heart, like a planet’s, chain’d and chafing in those breakers,  
+By lengthen’d swell, and spasm, and panting breath,  
+And rhythmic rasping of thy sands and waves,  
+And serpent hiss, and savage peals of laughter,  
+And undertones of distant [[Lion|lion]] roar,  
+(Sounding, appealing to the sky’s deaf ear--but now, rapport for once,  
+A [[Phantom|phantom]] in the [[Night|night]] thy confidant for once,)  
+The first and last confession of the globe,  
+Outsurging, muttering from thy [[Soul|soul]]’s abysms,  
+The tale of cosmic elemental passion,  
+Thou tellest to a kindred [[Soul|soul]].  
+
+
+
+
+
+
+
+
+<span class="atom-split" data-atom="324_continuities" data-title="Continuities" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,motif/seasons,motif/spring,motif/sun,motif/grass,concept/immortality,concept/the_natural_order,concept/identity,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
+
+
+_Cluster: SANDS AT SEVENTY_  
+
+
+Nothing is ever really lost, or can be lost,  
+No birth, [[Identity|identity]], form--no object of the world.  
+Nor life, nor force, nor any visible thing;  
+Appearance must not foil, nor shifted sphere confuse thy brain.  
+Ample are [[Time|time]] and space--ample the fields of [[Nature]].  
+The [[Body|body]], sluggish, aged, cold--the embers left from earlier fires,  
+The light in the eye grown dim, shall duly flame again;  
+The sun now low in the west rises for mornings and for noons continual;  
+To frozen clods ever the [[spring]]’s invisible law returns,  
+With grass and [[Flowers|flowers]] and [[Summer|summer]] fruits and corn.  
+
+
+
+
+
+
+
+
+<span class="atom-split" data-atom="330_the_calming_thought_of_all" data-title="The Calming Thought of All" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,concept/the_natural_order,concept/faith_and_doubt,concept/transience,concept/self_and_cosmos,form/fragment,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
+
+
+_Cluster: SANDS AT SEVENTY_  
+
+
+That coursing on, whate’er men’s speculations,  
+Amid the changing schools, theologies, philosophies,  
+Amid the bawling presentations new and old,  
+The round earth’s silent vital laws, facts, modes continue.  
+
+
+
+
+
+
+
+
+<span class="atom-split" data-atom="333_the_voice_of_the_rain" data-title="The Voice of the Rain" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,topos/book_of_nature,motif/water,motif/nature,motif/music_and_song,motif/dust,concept/immortality,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
+
+
+_Cluster: SANDS AT SEVENTY_  
+
+
+And who art thou? said I to the soft-falling shower,  
+Which, strange to tell, gave me an answer, as here translated:  
+I am the Poem of Earth, said the voice of the rain,  
+Eternal I rise impalpable out of the land and the bottomless sea,  
+Upward to heaven, whence, vaguely form’d, altogether changed, and  
+yet the same,  
+I descend to lave the drouths, atomies, [[Dust|dust]]-layers of the globe,  
+And all that in them without me were seeds only, latent, [[unborn]];  
+And forever, by day and [[Night|night]], I give back life to my own origin,  
+and make pure and beautify it;  
+(For [[Song|song]], issuing from its birth-place, after fulfilment, wandering,  
+Reck’d or unreck’d, duly with [[Love|love]] returns.)  
+
+
+
+
+
+
+
+
+<span class="atom-split" data-atom="334_soon_shall_the_winter_s_foil_be_here" data-title="Soon Shall the Winter’s Foil Be Here" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,motif/spring,motif/winter,motif/flowers,motif/birds,motif/the_grave,motif/grass,concept/immortality,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
+
+
+_Cluster: SANDS AT SEVENTY_  
+
+
+Soon shall the [[Winter|winter]]’s foil be here;  
+Soon shall these icy ligatures unbind and melt--A little while,  
+And air, soil, wave, suffused shall be in softness, bloom and  
+growth--a thousand forms shall rise  
+From these dead clods and chills as from low burial graves.  
+
+Thine eyes, ears--all thy best attributes--all that takes cognizance  
+of natural [[Beauty|beauty]],  
+Shall wake and fill. Thou shalt perceive the simple shows, the  
+delicate miracles of earth,  
+Dandelions, clover, the emerald grass, the early scents and [[Flowers|flowers]],  
+The arbutus under foot, the willow’s yellow-green, the blossoming  
+plum and cherry;  
+With these the robin, lark and thrush, singing their [[songs]]--the  
+flitting bluebird;  
+For such the scenes the annual play brings on.  
+
+
+
+
+
+
+
+
+<span class="atom-split" data-atom="342_you_lingering_sparse_leaves_of_me" data-title="You Lingering Sparse Leaves of Me" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/leaves,motif/autumn,motif/winter,motif/seasons,concept/mortality,concept/self_and_soul,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
+
+
+_Cluster: SANDS AT SEVENTY_  
+
+
+You lingering sparse [[Leaves|leaves]] of me on [[Winter|winter]]-nearing boughs,  
+And I some [[Well|well]]-shorn tree of field or orchard-row;  
+You tokens diminute and lorn--(not now the flush of May, or July  
+clover-bloom--no grain of August now;)  
+You pallid banner-staves--you pennants valueless--you overstay’d of [[Time|time]],  
+Yet my [[Soul|soul]]-dearest [[Leaves|leaves]] confirming all the rest,  
+The faithfulest--hardiest--last.  
+
+
+
+
+
+
+
+
+<span class="atom-split" data-atom="361_shakspere_bacon_s_cipher" data-title="Shakspere-Bacon’s Cipher" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/the_book,motif/stars,concept/appearance_vs_reality,concept/self_and_cosmos,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
+
+
+_Cluster: GOOD-BYE MY FANCY_  
+
+
+I [[Doubt|doubt]] it not--then more, far more;  
+In each old [[Song|song]] bequeath’d--in every noble page or text,  
+(Different--something unreck’d before--some unsuspected author,)  
+In every object, mountain, tree, and star--in every birth and life,  
+As part of each--evolv’d from each--meaning, behind the ostent,  
+A mystic cipher waits infolded.  
+
+
+
+
+
+
+
+
+<span class="atom-split" data-atom="365_to_the_sun_set_breeze" data-title="To the Sun-Set Breeze" data-chapter="" data-kind="intro" data-tags="motif/wind,motif/nature,motif/the_window,motif/sun,concept/self_and_cosmos,concept/mortality,concept/love_divine,form/free_verse,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
+
+
+_Cluster: GOOD-BYE MY FANCY_  
+
+
+Ah, whispering, something again, unseen,  
+Where late this heated day thou enterest at my [[Window|window]], door,  
+Thou, laving, tempering all, cool-freshing, gently vitalizing  
+Me, old, [[Alone|alone]], sick, weak-down, melted-worn with sweat;  
+Thou, nestling, folding close and firm yet soft, companion better  
+than talk, book, art,  
+(Thou hast, O [[Nature]]! elements! utterance to my heart beyond the  
+rest--and this is of them,)  
+So sweet thy primitive taste to breathe within--thy soothing fingers  
+my face and hands,  
+Thou, messenger--magical strange bringer to [[Body|body]] and spirit of me,  
+(Distances balk’d--occult medicines penetrating me from head to foot,)  
+I feel the sky, the prairies vast--I feel the mighty northern lakes,  
+I feel the ocean and the forest--somehow I feel the globe itself  
+swift-swimming in space;  
+Thou blown from lips so loved, now gone--haply from endless store,  
+God-sent,  
+(For thou art spiritual, Godly, most of all known to my sense,)  
+Minister to speak to me, here and now, what word has never told, and  
+cannot tell,  
+Art thou not universal concrete’s distillation? Law’s, all  
+Astronomy’s last refinement?  
+Hast thou no [[Soul|soul]]? Can I not know, identify thee?  
+
+
+
+
+
+
+
+
+<span class="atom-split" data-atom="368_sounds_of_the_winter" data-title="Sounds of the Winter" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,motif/winter,motif/nature,motif/music_and_song,concept/mortality,form/lyric,setting/pastoral_countryside,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
+
+
+_Cluster: GOOD-BYE MY FANCY_  
+
+
+Sounds of the [[Winter|winter]] too,  
+Sunshine upon the [[Mountains|mountains]]--many a distant strain  
+From cheery railroad train--from nearer field, barn, [[house]],  
+The whispering air--even the mute crops, garner’d apples, corn,  
+Children’s and women’s tones--rhythm of many a farmer and of flail,  
+An old man’s garrulous lips among the rest, Think not we give out yet,  
+Forth from these snowy hairs we keep up yet the lilt.  
+
+
+
+
+
+
+
+
+<span class="atom-split" data-atom="370_when_the_full_grown_poet_came" data-title="When the Full-Grown Poet Came" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/nature,concept/self_and_soul,concept/the_artist_and_society,concept/self_and_cosmos,form/free_verse,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
+
+
+_Cluster: GOOD-BYE MY FANCY_  
+
+
+When the full-grown poet came,  
+Out spake pleased [[Nature]] (the round impassive globe, with all its  
+shows of day and [[Night|night]],) saying, He is mine;  
+But out spake too the [[Soul]] of man, proud, jealous and unreconciled,  
+Nay he is mine [[Alone|alone]];  
+--Then the full-grown poet stood between the two, and took each  
+by the hand;  
+And to-day and ever so stands, as blender, uniter, tightly holding hands,  
+Which he will never release until he reconciles the two,  
+And wholly and joyously blends them.  
+
+
+
+
+
+
+
+
+<span class="atom-split" data-atom="378_grand_is_the_seen" data-title="Grand Is the Seen" data-chapter="" data-kind="intro" data-tags="motif/stars,concept/self_and_soul,concept/self_and_cosmos,concept/immortality,concept/the_sublime,concept/appearance_vs_reality,form/free_verse,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
+
+
+_Cluster: GOOD-BYE MY FANCY_  
+
+
+Grand is the seen, the light, to me--grand are the sky and [[Stars|stars]],  
+Grand is the earth, and grand are lasting [[Time|time]] and space,  
+And grand their laws, so multiform, puzzling, evolutionary;  
+But grander far the unseen [[Soul|soul]] of me, comprehending, endowing all those,  
+Lighting the light, the sky and [[Stars|stars]], delving the earth, sailing  
+the sea,  
+(What were all those, indeed, without thee, unseen [[Soul|soul]]? of what  
+amount without thee?)  
+More evolutionary, vast, puzzling, O my [[Soul|soul]]!  
+More multiform far--more lasting thou than they.  
+
+
+
+
+
+
+
+
+<span class="atom-split" data-atom="379_unseen_buds" data-title="Unseen Buds" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/winter,motif/flowers,motif/stars,concept/immortality,concept/self_and_cosmos,concept/wonder_and_gratitude,form/free_verse,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
+
+
+_Cluster: GOOD-BYE MY FANCY_  
+
+
+Unseen buds, infinite, hidden [[Well|well]],  
+Under the [[Snow|snow]] and ice, under the darkness, in every square or cubic inch,  
+Germinal, exquisite, in delicate lace, microscopic, [[unborn]],  
+Like babes in wombs, latent, folded, compact, sleeping;  
+Billions of billions, and trillions of trillions of them waiting,  
+(On earth and in the sea--the universe--the [[Stars|stars]] there in the  
+heavens,)  
+Urging slowly, surely forward, forming endless,  
+And waiting ever more, forever more behind.  
+
+
+
+

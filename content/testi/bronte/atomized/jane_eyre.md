@@ -21249,6 +21249,100 @@ Then Mrs. Reed subjoined—
 immediately laid upon me, and I was borne upstairs.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO I
+
+
+Quel giorno non c’era alcuna possibilità di fare una passeggiata. Infatti, quella mattina avevamo già girovagato per un’ora tra i cespugli privi di foglie; ma dopo cena (la signora Reed, quando non aveva ospiti, pranzava presto), il freddo [[Winter|inverno]] e il vento pungente avevano portato nuvole molto scure e una pioggia così intensa che qualsiasi attività all’aperto era ormai impossibile.
+
+Ne ero felice: non mi piacevano mai le lunghe passeggiate, soprattutto nelle fredde pomeriggi; per me era terribile tornare a [[Home|casa]] nel crepuscolo, con dita e piedi intirizziti, e con il cuore addolorato dalle rimproveri di Bessie, la [[Nurse|nutrice]], e umiliato dal rendersi conto della mia inferiorità fisica rispetto a Eliza, John e Georgiana Reed.
+
+La suddetta Eliza, John e Georgiana erano ora riunite intorno alla loro mamma nel salotto: lei era sdraiata su un divano vicino al camino, circondata dai suoi cari (che in quel momento né litigavano né piangevano) e sembrava davvero felice. Io, invece, ero stata esclusa dal gruppo; mia madre aveva detto: “Mi dispiace dovermi tenere a distanza da te; ma finché non riceverò notizie da Bessie e non potrò constatare con i miei occhi che stai davvero cercando di acquisire un carattere più socievole e infantile, un modo di comportarti più attraente e vivace, qualcosa di più leggero, franco, naturale, insomma, non potrò permetterti di partecipare a quelle attività riservate soltanto ai bambini felici e soddisfatti.”
+
+“Cosa dice Bessie che abbia fatto?”, chiesi.
+
+“Jane, non mi piacciono le persone che discutono o pongono domande; inoltre, c’è qualcosa di davvero inquietante nel fatto che una [[Child|bambina]] si comporti in quel modo nei confronti degli adulti. Siediti da qualche parte e rimani in silenzio finché non sarai in grado di parlare in modo gentile.”
+
+C'era una sala da pranzo attaccata al salotto; ci sono infilato dentro. C'era uno scaffale pieno di libri: ne ho preso subito uno, facendo attenzione che fosse quello con le illustrazioni. Mi sono seduto sul davanzale della finestra: ho incrociato le gambe, come fanno i turchi; poi ho tirato quasi completamente la tenda rossa e mi sono ritrovato in un ambiente completamente isolato.
+
+Strati di drappi scarlatti oscuravano la mia vista a destra; a sinistra c'erano le chiare vetrate che mi proteggevano, ma non mi separavano dalla triste giornata di novembre. Di tanto in tanto, mentre sfogliavo le [[Leaves|pagine]] del mio libro, osservavo il paesaggio di quella[[Winter|pomeriggio invernale]]. In lontananza, tutto era avvolto da una nebbia pallida e dalle nuvole; più vicino, si vedeva un prato bagnato e arbusti devastati dalla tempesta, con la pioggia incessante che si scagliava violentemente contro di loro.
+
+Tornai al mio libro: la [[history|Storia]] delle [[Birds|uccelli]] britannici di Bewick. In generale, non mi interessava molto la tipografia utilizzata per la sua stampa; tuttavia, alcune pagine introduttive, essendo io ancora un [[Child|>bambino]], non potevo semplicemente ignorarle. Erano quelle che parlavano degli habitat delle uccelli marini, di quei “scogli solitari e promontori” abitati esclusivamente da loro, della costa della Norvegia, punteggiata di isole dal suo estremo meridionale, il Lindeness o Naze, fino al Capo Nord.
+
+“Lì dove l’Oceano Artico, in vaste spirali,
+Bolle intorno alle desolate, [[Melancholy|mellancoliche]] isole
+della remota Thule; e le onde dell’Atlantico
+Si riversano tra le tempestose Isole Ebridi.”
+
+
+Non potevo nemmeno ignorare l’immagine delle desolate coste della Lapponia, della Siberia, delle Spitzbergen, della Nova Zembla, dell’Islanda e della Groenlandia: “la vastità dell’Area Artica, quelle regioni solitarie e desolate, quel serbatoio di [[Frost|gelo]] e [[Snow|.neve]], dove immensi banchi di ghiaccio, accumulatisi nel corso di secoli, circondano il Polo, concentrando tutta la crudeltà del freddo estremo”. Di questi regni bianchi come la morte mi sono fatto una mia idea: cupa e vaga, come tutte quelle concezioni appena intuite che fluttuano nella mente dei bambini, ma stranamente impressionante. Le parole di queste pagine introduttive si collegavano alle storie che seguivano, dando significato alla roccia solitaria che emergeva dal mare in tempesta, al barca spezzata abbandonata su una costa desolata, alla luna fredda e spettrale che filtrava tra le nuvole sopra un relitto che stava affondando.
+
+Non riesco a capire quale sentimento possedesse quel cimitero così desolato, con le sue lapidi iscritte; il suo cancello, i due alberi, l’orizzonte basso, delimitato da un muro in rovina, e la falce di luna appena sorta che segnava l’ora del tramonto.
+
+Le due navi rimasero immobili su un mare calmo e silenzioso; credevo fossero fantasmi marini.
+
+Mentre il demone teneva fermo lo zaino del ladro dietro di lui, passai velocemente accanto: era un oggetto di terrore.
+
+Quell’essere dal corno nero era seduto lontano su una roccia, osservando una folla distante radunata intorno a una forca.
+
+Ogni immagine raccontava una storia; spesso misteriosa per la mia comprensione ancora acerba e i miei sentimenti imperfetti, ma sempre profondamente interessante. Altrettanto interessanti quanto le storie che Bessie a volte raccontava nelle serate invernali, quando era di buon umore; e quando, portando il suo tavolo da stirare vicino al camino della nursery, ci permetteva di sederci intorno ad esso. Mentre sistemava i volantini di pizzo della signora Reed e arricciava i bordi delle sue cuffie da notte, ci intratteneva con racconti d’amore e avventure tratti da vecchie fiabe e altre ballate. O (come scoprii in un momento successivo) dalle pagine de “Pamela” e di “Henry, Conte di Moreland”.
+
+Con Bewick sulle mie ginocchia, ero felice, almeno a mio modo. Non temevo nulla se non interruzioni, ma queste arrivarono troppo presto. La porta della sala da pranzo si aprì.
+
+“Boh! Signora Mope!” gridò la voce di John Reed; poi si fermò: vide che la stanza era apparentemente vuota.
+
+“Dove diavolo è finita?” continuò. “Lizzy! Georgy! (chiamando le sue sorelle) Joan non è qui: dite a mamma che è uscita sotto la pioggia. Che sciocca!”
+
+“È proprio bene che abbia tirato le tende,” pensai; e speravo ardentemente che lui non scoprisse il mio nascondiglio. Nemmeno John Reed sarebbe riuscito a trovarlo da solo: né lui era particolarmente veloce nell’osservare o nel comprendere le cose. Ma Eliza mise semplicemente la testa dentro la porta e disse subito.
+
+“È sicuramente seduta nel posto vicino al finestrino, Jack.”
+
+E uscii immediatamente, perché tremavo all’idea di essere trascinato fuori da quel tale Jack.
+
+“Cosa vuoi?” chiesi, con un'imbarazzata incertezza.
+
+“Dì: ‘Cosa vuoi, Maestro Reed?’” fu la risposta. “Voglio che tu venga qui”; poi, sedendosi in una poltrona, con un gesto mi fece capire di avvicinarmi e fermarmi davanti a lui.
+
+John Reed aveva quattordici anni; era di quattro anni più grande di me, che ne avevo solo dieci. Era alto e robusto per la sua età, con una pelle pallida e poco sana; lineamenti marcati su un viso piuttosto largo, arti pesanti e estremità grandi. Abitualmente si riempiva lo stomaco a tavola, il che lo rendeva bilioso e gli causava occhi spenti e guance flaccide. Ormai avrebbe dovuto essere a scuola; ma sua madre l’aveva portato a casa per un mese o due, “a causa della sua salute delicata”. Il signor Miles, il suo insegnante, sosteneva che se gli fossero stati inviati meno dolci e cibi zuccherini, avrebbe fatto molto meglio; ma il cuore di sua madre si opponeva a un’opinione così dura, preferendo credere che la magrezza di John fosse dovuta a uno studio eccessivo, o forse al desiderio di tornare a casa.
+
+John non provava alcuna affetto per sua madre e sue sorelle, e verso di me nutriva un'antipatia profonda. Mi bullizzava e mi puniva; non due o tre volte a settimana, né una o due volte al giorno, ma continuamente: ogni nervo del mio corpo tremava quando si avvicinava, e ogni parte del mio essere si contraeva di paura. C'erano momenti in cui il terrore che incuteva mi lasciava completamente sconcertato, perché non avevo alcun modo per difendermi dalle sue minacce o dai suoi maltrattamenti; i domestici non osavano contrariare il loro giovane padrone prendendo le mie parti contro di lui, e la signora Reed era cieca e sorda su questa questione: non vedeva mai quando mi colpiva né sentiva mai quando mi insultava, anche se a volte lo faceva proprio davanti ai suoi occhi, molto più spesso, però, alle sue spalle.
+
+Abituato ad obbedire a John, mi avvicinai alla sua sedia: passò circa tre minuti a sporgere la lingua verso di me il più possibile senza danneggiarne le radici; sapevo che presto avrebbe colpito, e mentre temevo quel colpo, riflettevo sull’aspetto disgustoso e brutto di lui che stava per infliggerlo. Mi chiesi se riuscisse a leggere quel pensiero sul mio viso; perché, all’improvviso, senza dire una parola, colpì improvvisamente e con forza. Barcollai, e riprendendo l’equilibrio mi allontanai di uno o due passi dalla sua sedia.
+
+“Questo è per la tua sfrontatezza nel rispondere a mamma poco fa,” disse lui,  
+“per il modo in cui ti sei nascosta dietro le tende, e per lo sguardo che avevi negli occhi due minuti fa, tu, piccola serpe!”
+
+Abituata agli abusi di John Reed, non avevo mai pensato a come reagire; la mia unica preoccupazione era come sopportare il colpo che sicuramente sarebbe seguito all’insulto.
+
+“Cosa stavi facendo dietro la tenda?”, chiese lui.
+
+“Stavo leggendo.”
+
+Mostra il libro.
+
+Tornai alla [[Window|finestra]] e la presi da lì.
+
+“Non hai alcun diritto di prendere i nostri libri; sei una dipendente, dice mamma: non hai soldi, tuo padre non te ne ha lasciati; dovresti mendicare, invece di vivere qui con i figli dei signori come noi, mangiare le stesse cose che mangiamo noi e indossare vestiti a spese di mamma. Ora, ti insegnerò a rovistare tra gli scaffali dei miei libri: perché sono miei; tutta la [[house|casa]] appartiene a me, o lo farà tra pochi anni. Vai a stare vicino alla porta, lontano dallo [[Mirror|specchio]] e dalle finestre.”
+
+Lo feci, senza all’inizio capire quale fosse la sua intenzione; ma quando lo vidi sollevare il libro e prepararsi a lanciarlo, istintivamente mi spostai di lato gridando per l’allarme. Tuttavia non fui abbastanza veloce: il libro fu scagliato contro di me, io caddi e mi colpii la testa contro la porta, ferendomi. La ferita sanguinava; il [[Pain|dolore]] era intenso. Il mio terrore aveva raggiunto il suo apice; ora iniziarono ad emergere altri sentimenti.
+
+“Bambino malvagio e crudele!” dissi. “Sei come un assassino, sei come un schiavista, sei come gli imperatori romani!”
+
+Avevo letto la [[history|Storia]] di Roma di Goldsmith e avevo formato la mia opinione su Nerone, Caligola e gli altri. Inoltre, avevo fatto dei paragoni in silenzio, senza mai pensare di esprimerli ad alta voce.
+
+“Che cosa! Che cosa!” gridò. “Me l’ha detto davvero? L’avete sentita anche voi, Eliza e Georgiana? Devo dirlo subito a mamma, ma prima, ”
+
+Si precipitò verso di me; sentii che afferrava i miei capelli e la mia spalla: si era avvicinato con un gesto disperato. Vidi davvero in lui un [[Tyrant|tiranno]], un assassino. Sentii una o due gocce di [[Blood|%sangue]] scorrermi dal collo; provai un dolore acuto. In quel momento, quelle sensazioni prevalse sulla [[Fear|>paura]], e lo accolsi in modo frenetico. Non so esattamente cosa feci con le mani, ma lui mi chiamò “Ratto! Ratto!” e gridò ad alta voce. C’era qualcuno vicino a lui: Eliza e Georgiana erano corse da Mrs. Reed, che si trovava al piano di sopra; ora lei arrivò sulla scena, seguita da Bessie e dalla sua cameriera Abbot. Fummo separate. Sentii quelle parole.
+
+“Mio Dio! Che furia nel attaccare il Maestro John…”
+
+# Mai nessuno ha visto una tale espressione di passione!
+
+“Allora la signora Reed aggiunse…”
+
+“Portatela nella stanza rossa e chiudetela lì dentro.” Quattro mani mi afferrarono immediatamente e fui portata al piano di sopra.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_01" data-title="Jane Eyre — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/rebel,motif/cross,motif/dust,motif/fire,motif/home,motif/jewel,motif/rose,motif/spring,motif/time,concept/fear,character/jane_eyre"></span>
@@ -21383,6 +21477,61 @@ stories represented as coming out of lone, ferny dells in moors, and
 appearing before the eyes of belated travellers. I returned to my
 stool.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO II
+
+
+Ho resistito fino alla fine: una cosa nuova per me, e una situazione che ha ulteriormente rafforzato l’opinione negativa che Bessie e Miss Abbot avevano già di me. La verità è che ero un po’ fuori di me stesso; o meglio, “fuori dal mio normale stato mentale”, come direbbero i francesi. Ero consapevole che anche solo un momento di ribellione avrebbe potuto comportarmi conseguenze strane, e, come qualsiasi altro schiavo ribelle, ero deciso, nella mia disperazione, a fare di tutto.
+
+"#Tenetele le braccia, signorina Abbott: è come un gatto pazzo."
+
+“Che vergogna! Che vergogna!” gridò la cameriera. “Che comportamento scandaloso,
+signorina Eyre, colpire un giovane gentiluomo, il figlio della vostra benefattrice. Il vostro giovane padrone.”
+
+"#Maestro! Come può essere lui il mio maestro? Sono forse io un servo?"
+
+“No; sei meno di un servo, perché non fai nulla per guadagnarti da vivere. Siediti lì e rifletti sulla tua malvagità.”
+
+A quell’[[Time|ora]], mi avevano già portato nell’appartamento indicato dalla signora Reed e mi avevano fatto sedere su uno sgabello; il mio primo impulso fu di alzarmi in piedi come una [[Spring|molla]], ma le loro due paia di mani mi fermarono immediatamente.
+
+“Se non stai fermo, devi essere legato,” disse Bessie. “Signorina Abbott, prestami le tue calze elastiche; le mie si romperebbero subito.”
+
+La signorina Abbott si mise all’opera per togliere le necessarie legature da una robusta gamba. Questa preparazione per l’impiego delle catene, e l’umiliazione che ne derivava, attenuarono un po’ la mia eccitazione.
+
+“Non toglieteli”, gridai; “non mi muoverò”.
+
+Per garantirlo, mi attaccai con le mani al mio posto a sedere.
+
+“Fai attenzione a non farlo,” disse Bessie; e quando si assicurò che stavo davvero migliorando, allentò la presa su di me. Poi lei e Miss Abbot rimasero lì, con le braccia incrociate, guardandomi con espressione scura e dubbia, come se non credessero alla mia [[Sanity|sanità]].
+
+“Non l’aveva mai fatto prima,” disse finalmente Bessie, rivolgendosi ad Abigail.
+
+“Ma era sempre dentro di lei,” fu la risposta. “Ho spesso espresso il mio parere sulla [[Child|>bambina]] alla signora, e lei era d’accordo con me. È una ragazza astuta e subdola: non ho mai visto una ragazza della sua età così piena di stratagemmi.”
+
+Bessie non rispose; ma poco dopo, rivolgendosi a me, disse…
+
+“Dovrebbe essere consapevole, signorina, che ha degli obblighi verso la signora Reed: è lei a mantenerla; se decidesse di lasciarla senza aiuto, dovrebbe andare in un ospizio per poveri.”
+
+Non avevo nulla da dire di fronte a queste parole: non erano nuove per me; le mie prime memorie dell’esistenza contenevano già accenni del genere. Questo rimprovero alla mia dipendenza era diventato una sorta di vaga melodia nelle mie orecchie: molto dolorosa e opprimente, ma solo parzialmente comprensibile. Anche la signorina Abbot si unì a loro.
+
+“E non dovresti considerarti alla stessa pari opportunità delle signorine Reed e del signor Reed, solo perché la signora permette gentilmente che tu venga cresciuto insieme a loro. Loro avranno molto denaro, mentre tu non ne avrai affatto: il tuo dovere è essere umile e cercare di farti gradire da loro.”
+
+“Quello che vi diciamo è per il vostro bene,” aggiunse Bessie con voce gentile,  
+“dovreste cercare di essere utili e piacevoli. Forse allora avrete una [[Home|>casa]] qui; ma se diventerete appassionati e scortesi, sono sicura che la signora vi manderà via.”
+
+“Inoltre,” disse la signorina Abbot, “Dio la punirà: potrebbe ucciderla proprio durante una delle sue crisi di rabbia, e allora dove andrà? Vieni, Bessie, lasciamola stare: non avrei mai voluto che lei avesse un cuore capace di provare sentimenti veri. Recita le tue preghiere, signorina Eyre, quando sei da sola; perché se non ti pentirai, qualcosa di brutto potrebbe entrare dal camino e portarti via.”
+
+Se ne andarono, chiudendo la porta e serrandola alle loro spalle.
+
+La stanza rossa era una camera quadrata, raramente utilizzata per dormire, anzi direi mai, se non quando un improvviso afflusso di visitatori alla Gateshead Hall rendeva necessario sfruttare al massimo tutte le stanze disponibili; eppure era una delle più grandi e imponenti della dimora. Un letto sostenuto da massicci pilastri di mogano, drappeggiato con tende di damasco rosso scuro, spiccava al centro come un tabernacolo; le due grandi finestre, con le persiane sempre chiuse, erano in parte avvolte da festoni e drappi dello stesso colore; il tappeto era rosso; il tavolo ai piedi del letto era coperto da una stoffa di colore cremisi; le pareti avevano un tenue colore castano chiaro con sfumature di rosa; l’armadio, la toeletta e le sedie erano realizzati in mogano vecchio e lucidato. Tra queste tonalità scure, spiccavano il rosso intenso dei materassi e dei cuscini, coperti da una trapunta bianca come la neve; altrettanto evidente era un comodo divano imbottito vicino alla testata del letto, anch’esso bianco, con un piedistallo davanti; a mio parere, assomigliava a un trono pallido.
+
+Questa stanza era tranquilla, perché raramente vi si accendeva il [[Fire|fuoco]]; era silenziosa, essendo lontana dalla nursery e dalla cucina; era solenne, poiché si sapeva che venisse raramente visitata. La cameriera di casa, da sola, veniva qui ogni sabato per pulire gli specchi e i mobili dalla polvere accumulata durante la settimana; e la stessa signora Reed, a intervalli molto lunghi, vi faceva visita per controllare il contenuto di un certo cassetto segreto nell’armadio: lì erano conservati diversi documenti antichi, la sua scatola dei gioielli e una miniatura del suo defunto marito. Ed è proprio in questi ultimi oggetti che risiede il segreto della stanza rossa, il “incantesimo” che la rendeva così desolata nonostante la sua grandezza.
+
+Il signor Reed era morto da nove anni: fu in questa stanza che egli esalò l’ultimo respiro; qui fu preparato per la sepoltura; da qui il suo feretro fu portato dai dipendenti dell’impresa funebre; e, da quel giorno in poi, una sorta di cupa sacralità lo proteggeva dalle intrusioni frequenti.
+
+Il mio posto, a cui Bessie e la malinconica Miss Abbot mi avevano fatto fissare con attenzione, era un basso divano vicino alla caminetta di marmo; il letto si trovava davanti a me; a destra c’era l’armadio alto e scuro, le cui superfici riflettevano luci soffuse e incerte che alteravano il loro colore naturale; a sinistra c’erano le finestre oscurate; un grande specchio posto tra di esse riproduceva l’aspetto solitario e maestoso del letto e della stanza. Non ero del tutto sicura che avessero chiuso a chiave la porta; quando osai muovermi, mi alzai per verificare. Ahimè! Sì: nessuna prigione era mai stata più sicura di quella. Tornando indietro, dovetti passare davanti allo specchio; il mio sguardo affascinato esplorò involontariamente le profondità che esso rivelava. Tutto sembrava più freddo e buio in quell’immagine distorta rispetto alla realtà. Quella strana piccola figura che mi fissava, con il viso e le braccia bianche che spiccavano nell’oscurità, e quegli occhi scintillanti di [[Fear|paura]] che si muovevano mentre tutto il resto rimaneva immobile, sembrava davvero uno spirito reale. Pensai che fosse uno di quei piccoli fantasmi, metà fate, metà folletti, descritti nelle storie serali di Bessie, fantasmi che emergevano dalle solitarie valli ricoperte di felci nei campi brulli e apparivano davanti agli occhi dei viaggiatori ritardati. Tornai al mio posto.
 
 
 
@@ -21738,6 +21887,7 @@ beside the untasted tart.
 
 # CAPITOLO III
 
+
 La cosa successiva di cui mi ricordo è essermi svegliato con la sensazione di aver vissuto un terribile [[nightmare|incubo]], e di aver visto davanti a me una luce rossa intensa, attraversata da spesse strisce nere. Sentivo anche delle voci che parlavano in modo cupo, come se fossero soffocate dal rumore del [[Wind|>vento]] o dell’[[Water|acqua]]; un senso di agitazione, incertezza e terrore dominava completamente la mia mente. Poco dopo, mi resi conto che qualcuno stava prendendosi cura di me: mi sollevava e mi aiutava a sedermi, con una tenerezza mai provata prima. Appoggiai la testa su un cuscino o sul braccio di qualcuno e mi sentii più tranquillo.
 
 In altri cinque minuti, la nebbia di confusione si dissolse: sapevo perfettamente di essere nel mio letto e che quella luce rossa proveniva dal fuoco del caminetto della nursery. Era [[Night|notte]]: una candela ardeva sul tavolo; Bessie stava in piedi vicino al letto con un bacino in mano, mentre un signore sedeva su una sedia accanto al mio cuscino, chinandosi su di me.
@@ -21937,6 +22087,114 @@ place?”
 “If I had anywhere else to go, I should be glad to leave it; but I can
 never get away from Gateshead till I am a woman.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Bessie aveva ormai finito di pulire e sistemare la stanza; dopo essersi lavata le mani, aprì un piccolo cassetto pieno di splendidi pezzi di seta e satin, e iniziò a realizzare un nuovo cappello per la bambola di Georgiana. Nel frattempo cantava: la sua [[Song|canzone]] era.
+
+“Nei giorni in cui viaggiavamo come zingari,  
+molto tempo fa, ”
+
+
+Avevo già sentito spesso quella [[Song|-canzone]], e sempre con grande piacere; infatti Bessie aveva una voce dolce, almeno così pensavo. Ma ora, sebbene la sua voce fosse ancora dolce, nella sua melodia percepii una tristezza indescrivibile. A volte, assorta nel suo lavoro, cantava il ritornello molto piano, molto lentamente; “Molto tempo fa” suonava come la nota più triste di un [[Hymn|-inno]] funebre. Poi passava a un’altra canzone, questa volta davvero malinconica.
+
+“I miei piedi sono doloranti, e le mie membra sono stanche;
+Il cammino è lungo, e le [[Mountains|montagne]] sono selvagge;
+Ben presto calerà la notte, senza luna e desolata,
+Sul sentiero di questo povero [[Orphan|orfano]] [[Child|>bambino]].”
+
+Perché mi hanno mandato così lontano e solo,
+Lì dove i brughi si estendono e le rocce grigie si accumulano?
+Gli uomini sono spietati, e solo angeli gentili
+Vegliano sui passi di un povero [[Orphan|orfano]] [[Child|>bambino]].
+
+Eppure la brezza della [[Night|notte]] soffia lontana e dolce;
+non ci sono nuvole, e le stelle luminose brillano gentilmente.
+Dio, nella Sua [[Mercy|misericordia]], offre protezione;
+consolazione e [[Hope|>speranza]] per il povero [[Orphan|orfano]] [[Child|>bambino]].
+
+Anche se cadessi sopra quel ponte spezzato che attraverso,
+O mi perdessi nelle paludi, ingannato da false luci,
+Tuttavia mio Padre, con promesse e benedizioni,
+Prenderà tra le sue braccia il povero [[Orphan|orfano]] [[Child|>bambino]].
+
+C’è chi pensa che la forza dovrebbe essermi d’aiuto,
+Anche se sia stato privato di rifugio e famiglia;
+Il cielo è una casa, e il riposo non mi mancherà mai;
+Dio è un amico del povero orfano.
+
+
+“Ma come, Miss Jane, non piangere,” disse Bessie quando finì di parlare. Avrebbe potuto benissimo dire anche al [[Fire|fuoco]]: “Non bruciare!”, ma come avrebbe potuta immaginare il tormento malato a cui ero soggetta? Nel corso della mattina, il signor Lloyd tornò ancora.
+
+“Che, già sveglio!”, disse entrando nella nursery. “[[Well|Beh]], [[Nurse|infermiera]], come sta?”
+
+Bessie rispose che me la stavo cavando molto bene.
+
+“Allora dovrebbe sembrare più allegra. Vieni qui, signorina Jane: il tuo nome è Jane, giusto?”
+
+“Sì, signore, [[Jane Eyre]].”
+
+“Beh, signorina [[Jane Eyre]], state piangendo. Potete dirmi il motivo? Sentite qualche [[Pain|dolore]]?”
+
+"No, signore."
+
+“Oh! Immagino che stia piangendo perché non è potuta uscire con la signora in carrozza,” intervenne Bessie.
+
+"Certo che no! Dopotutto, è troppo anziana per comportarsi in modo così capriccioso."
+
+Anch'io lo pensavo; e poiché il mio orgoglio era ferito da quell'accusa falsa, risposi subito: “Nella mia vita non ho mai pianto per una cosa del genere; odio andare in carrozza. Piango perché sono infelice.”
+
+“Oh no, signorina!” disse Bessie.
+
+Il bravo farmacista sembrava un po’ perplesso. Stavo davanti a lui; mi fissò con attenzione: i suoi occhi erano piccoli e grigi, non molto luminosi, ma ora direi che fossero saggi. Aveva un viso dai tratti duri, ma dall’espressione gentile. Dopo avermi osservato attentamente, disse.
+
+# Che cosa ti ha fatto ammalare ieri?
+
+“È caduta,” disse Bessie, intervenendo di nuovo a suo favore.
+
+“Cade. Ma che cosa, sembra di nuovo una bambina piccola! Non dovrebbe essere in grado di camminare a quest’età? Deve avere otto o nove anni.”
+
+“Sono stato abbattuto,” fu la spiegazione schietta che mi uscì di bocca, provocata da un altro attacco di mortificato [[Pride|orgoglio]]; “ma questo non mi ha fatto ammalare,” aggiunsi; mentre il signor Lloyd si serviva un pizzico di tabacco da fiuto.
+
+Mentre riponeva la scatola nella tasca del gilet, suonò forte la campanella che annunciava la cena per i servitori; sapeva perfettamente di cosa si trattasse. “È per te, [[Nurse|infermiera]],” disse, “puoi andare giù; io terrò una lezione a Miss Jane fino al tuo ritorno.”
+
+Bessie avrebbe preferito restare, ma fu costretta ad andarsene, perché a Gateshead Hall la puntualità ai pasti veniva rigorosamente imposta.
+
+“La caduta non ti ha fatto ammalare, allora, cosa è stato?” insistette il signor Lloyd quando Bessie se ne fu andata.
+
+“Sono stato rinchiuso in una stanza dove c'è un [[Ghost|fantasma]] fino a dopo il tramonto.”
+
+Vidi il signor Lloyd sorridere e aggrottare la fronte nello stesso [[Time|istante]].
+
+“[[Ghost|Fantasma]]! Ma allora sei solo un bambino. Hai paura degli [[Ghosts|fantasmi]]?”
+
+“Sono lo ‘spettro’ del signor Reed: è morto in quella stanza e vi è stato sepolto. Né Bessie né nessun altro vuole entrarci di [[Night|notte]], se possono evitarlo; ed è stato crudele rinchiudermi lì [[Alone|da sola]] senza una candela, così crudele che penso di non dimenticarlo mai.”
+
+“Sciocchezze! È davvero questo che ti rende così infelice? Ora hai paura anche di giorno?”
+
+“No: ma la [[Night|notte]] tornerà presto. E inoltre, sono infelice, molto infelice, a causa di altre cose.”
+
+"#Altre cose… Ne potresti raccontarmene alcune?"
+
+Quanto avrei voluto rispondere appieno a questa domanda! Quanto fosse difficile formulare qualsiasi risposta. I bambini possono provare sentimenti, ma non sono in grado di analizzarli; e anche se tale analisi viene parzialmente effettuata nel loro pensiero, non sanno come esprimere il risultato di questo processo a parole. Tuttavia, temendo di perdere questa prima e unica opportunità per alleviare il mio dolore condividendolo, dopo una breve pausa, riuscii comunque a formulare una risposta scarsa, ma, in ogni caso, vera.
+
+“Per prima cosa, non ho né padre né madre, né fratelli né sorelle.”
+
+“Hai un’anziana zia e dei cugini molto gentili.”
+
+Di nuovo mi fermai; poi, goffamente, pronunciai…
+
+“Ma John Reed mi ha buttato a terra, e mia zia mi ha rinchiusa nella stanza rossa.”
+
+Per la seconda volta, il signor Lloyd tirò fuori la sua scatola di tabacco.
+
+“Non pensi che Gateshead Hall sia una casa davvero bellissima?”, chiese lui. “Non sei molto grato di avere un posto così meraviglioso in cui vivere?”
+
+“Non è la mia [[house|>casa]], signore; inoltre, l’Abate dice che ho meno diritto di stare qui di un servitore.”
+
+“Ma che sciocchezza! Non puoi davvero voler lasciare un posto così meraviglioso…”
+
+“Se avessi un altro posto dove andare, sarei felice di lasciarlo; ma non potrò mai allontanarmi da Gateshead finché non sarò diventata una donna.”
 
 
 
@@ -22227,6 +22485,35 @@ good, clear complexion; but she had a capricious and hasty temper, and
 indifferent ideas of principle or justice: still, such as she was, I
 preferred her to any one else at Gateshead Hall.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO IV
+
+
+Dalle mie conversazioni con il signor Lloyd, e dalla riunione tra Bessie e Abbot di cui ho parlato sopra, ho raccolto abbastanza [[Hope|speranza]] da considerarla un motivo sufficiente per desiderare di migliorare: sembrava che un cambiamento fosse imminente; lo aspettavo in [[Silence|silenzio]]. Tuttavia, quel cambiamento si faceva attendere: passavano giorni e settimane; avevo ripreso il mio normale stato di salute, ma non veniva mai fatta alcuna allusione al tema su cui riflettevo. La signora Reed mi osservava talvolta con uno sguardo severo, ma raramente mi parlava; da quando ero malata, aveva tracciato una linea di separazione ancora più netta tra me e i suoi propri figli: mi aveva assegnato una piccola stanza dove dormire da sola, mi costringeva a mangiare [[Alone|da sola]] e a trascorrere tutto il mio [[Time|tempo]] nella nursery, mentre i miei cugini erano sempre in salotto. Tuttavia, non fece mai alcuna allusione al fatto di mandarmi a scuola; eppure avevo la certezza istintiva che non avrebbe potuto sopportare a lungo la mia presenza sotto lo stesso tetto con lei; perché il suo sguardo, ora più che mai, quando si posava su di me, esprimeva un’avversione insuperabile e radicata.
+
+Eliza e Georgiana, evidentemente agendo secondo ordini, parlavano con me il meno possibile; John si infilava la lingua in bocca ogni volta che mi vedeva e una volta tentò di punirmi; ma poiché reagii immediatamente contro di lui, invasa dallo stesso sentimento di profonda rabbia e disperata ribellione che aveva già scatenato la mia furia in precedenza, decise di desistere e fuggì da me pronunciando insulti e minacciando che gli avessi rotto il naso. Infatti, avevo effettivamente sferrato un colpo violento proprio su quella parte del suo viso; e quando vidi che né quel colpo né il mio sguardo lo intimidivano, provai una forte tentazione di approfittare della situazione. Ma lui era già con sua madre. Lo sentii raccontare in tono lacrimoso come “quella orribile [[Jane Eyre]]” si fosse scagliata contro di lui come un gatto pazzo; fu interrotto piuttosto bruscamente.
+
+“Non parlarmi di lei, John: ti ho detto di non avvicinartici; non merita alcuna attenzione; non voglio che tu né le tue sorelle frequentiate con lei.”
+
+Qui, appoggiato alla ringhiera, gridai all’improvviso, senza nemmeno riflettere sulle parole che stavo per dire.
+
+“Non sono degni di frequentarmi.”
+
+La signora Reed era una donna piuttosto robusta; ma, sentendo questa dichiarazione strana e audace, salì rapidamente le scale, mi trascinò dentro la nursery come un tornado e, schiacciandomi sul bordo della mia culla, mi sfidò con voce decisa a alzarmi da quel posto o a pronunciare una sola parola per il resto della giornata.
+
+“Cosa direbbe zio Reed a te, se fosse ancora vivo?” fu la mia domanda, appena volontaria. Dico appena volontaria, perché sembrava che la mia lingua pronunciasse quelle parole senza che la mia volontà le approvasse: qualcosa dentro di me parlava senza che io potessi controllarlo.
+
+“Cosa?” disse la signora Reed sottovoce: il suo solito sguardo freddo e composto divenne turbato, come se provasse [[Fear|paura]]; tolse la sua mano dal mio braccio e mi fissò come se davvero non sapesse se fossi un [[Child|>bambino]] o un demone. Ora ero nei guai.
+
+“Mio zio Reed è in cielo e può vedere tutto quello che fate e pensate; lo stesso vale per papà e mamma: sanno come mi tenete chiuso tutto il giorno e quanto desideriate che io muoia.”
+
+La signora Reed presto si riprese: mi scosse con forza, mi diede due schiaffi sulle orecchie e poi se ne andò senza dire una parola. Bessie colmò il vuoto con un sermone durato un’ora, nel quale dimostrò senza alcun dubbio che io ero la bambina più malvagia e abbandonata mai cresciuta sotto lo stesso tetto. Credetti quasi a lei; infatti, sentivo davvero solo sentimenti negativi crescere dentro di me.
+
+Novembre, dicembre e metà di gennaio passarono. Natale e Capodanno furono celebrati a Gateshead con l’abituale allegria festiva: si scambiarono regali, si tennero cene e feste serali. Ovviamente, io ero esclusa da ogni forma di divertimento; la mia “partecipazione” alla gioia consisteva nel osservare ogni giorno come Eliza e Georgiana si vestissero, nel vederle scendere in salotto con abiti di mussola sottile e nastri rossi, i capelli elaboratamente arricciati. Poi ascoltavo il suono del pianoforte o dell’arpa che proveniva dal piano di sotto, osservavo il andirivieni del maggiordomo e dei servitori, il tintinnio di bicchieri e porcellane mentre venivano serviti i rinfreschi. Quando mi stancavo di questa routine, mi ritiravo nella nursery silenziosa e solitaria: lì, sebbene un po’ triste, non ero infelice. A dire il vero, non avevo affatto voglia di stare in compagnia degli altri, perché quasi mai venivo notata. Se solo Bessie fosse stata gentile e disponibile, avrei trovato piacevole trascorrere le serate con lei, invece di passarle sotto lo sguardo severo della signora Reed, in una stanza piena di signore e signori. Ma Bessie, non appena finiva di vestire le sue giovani padroncine, se ne andava nelle zone più vivaci della cucina o della stanza della governante. Allora io mi sedevo con la mia bambola in grembo, fino a quando il fuoco non si spegneva; di tanto in tanto controllavo che nella stanza buia non ci fosse nulla di pericoloso. Quando le braci diventavano rosso scuro, mi spogliavo in fretta e andavo a dormire nel mio lettino. Portavo sempre con me la mia bambola: gli esseri umani devono pur amare qualcosa. E, nella mancanza di oggetti più degni d’amore, riuscivo comunque a trovare piacere nell’amarla e coccolarla. Ora mi chiedo con quanta assurda sincerità mi dedicassi a quel piccolo giocattolo, quasi immaginando che fosse vivo e sensibile. Non riuscivo a dormire se non la avvolgevo nella mia camicia da notte. E quando giaceva lì, al sicuro e calda, ero relativamente felice. Pensavo che anche lei fosse felice.
+
+Gli ore sembravano trascorrere lentissimamente mentre aspettavo la partenza della compagnia e ascoltavo il suono dei passi di Bessie sulle scale: a volte lei saliva durante quei momenti per cercare il suo ditale o le sue forbici, oppure forse per portarmi qualcosa da mangiare per cena – un panino o una torta al formaggio. Poi si sedeva sul letto mentre io mangiavo, e quando finivo, mi rimboccava le coperte e, due volte, mi baciò dicendo: “Buona [[Night|notte]], signorina Jane”. Quando era così gentile, Bessie mi sembrava la persona più bella, più adorabile e più premurosa del mondo; desideravo ardentemente che fosse sempre così piacevole e affettuosa, e che non mi trattasse mai in modo brusco, né mi rimproverasse o mi imponeva compiti irragionevoli, come spesso faceva. Penso che Bessie Lee dovesse essere una ragazza dotata di grandi capacità naturali: era abile in tutto ciò che faceva e aveva un talento straordinario nel raccontare storie; almeno così giudico dalle impressioni che i suoi racconti per bambini mi hanno lasciato. Era anche bella, se i miei ricordi del suo viso e della sua figura sono corretti. La ricordo come una giovane donna snella, con i capelli neri, gli occhi scuri, tratti molto graziosi e una pelle chiara e sana; tuttavia aveva un carattere capriccioso e impulsivo, e una concezione piuttosto superficiale di ciò che è giusto o corretto. Comunque, così com’era, la preferivo a qualsiasi altra persona presente a Gateshead Hall.
 
 
 
@@ -22718,6 +23005,55 @@ up her hands, rocking herself to and fro, and even twisting her face as
 if she would cry.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Questo è esattamente lo stato di cose che approvo pienamente,” rispose la signora Reed; “anche se avessi cercato in tutta l’Inghilterra, difficilmente avrei trovato un sistema più adatto a una [[Child|>bambina]] come [[Jane Eyre]]. Coerenza, caro signor Brocklehurst. Io sostengo sempre la coerenza in tutte le cose.”
+
+“Coerenza, signora, è il primo dovere di un cristiano; e questa coerenza si riscontra in ogni aspetto legato alla gestione di Lowood: pasti semplici, abiti modesti, alloggi senza fronzoli, abitudini robuste e attive. Questo è lo stile di vita quotidiano in questa [[house|casa]] e tra i suoi abitanti.”
+
+“Esattamente, signore. Posso quindi contare che questa [[Child|>bambina]] venga accettata come allieva a Lowood e riceva un'educazione adeguata alla sua posizione e alle sue prospettive future?”
+
+“Signora, potete farlo: sarà collocata in quel giardino pieno di piante selezionate, e sono certa che mostrerà gratitudine per questo privilegio inestimabile.”
+
+“Allora la manderò il prima possibile, signor Brocklehurst; perché, vi assicuro, desidero ardentemente liberarmi di una responsabilità che stava diventando troppo onerosa per me.”
+
+“Nessun [[Doubt|>dubbio]], nessun [[Doubt|>dubbio]], signora; e ora le auguro buongiorno. Tornerò a Brocklehurst Hall tra una o due settimane: il mio caro amico, l’Arcidiacono, non mi permetterà di andarmene prima. Invierò un messaggio a Miss Temple per informarla che arriverà una nuova ragazza, così non ci saranno problemi nell’accoglierla. Addio.”
+
+“Addio, signor Brocklehurst; ricordatemi alla signora e alla signorina Brocklehurst, così come ad Augusta, Theodore e a Master Broughton Brocklehurst.”
+
+“Lo farò, signora. Piccola ragazza, ecco un libro intitolato ‘La Guida del [[Child|Bambino]]’; leggilo con [[prayer|preghiera]], soprattutto quella parte che racconta della terribilmente improvvisa [[Death|morte]] di Martha G——, una cattiva [[Child|bambina]] abituata a mentire e ingannare.”
+
+Con queste parole, il signor Brocklehurst mi mise in mano un sottile opuscolo rilegato in copertina; dopo aver chiamato la sua carrozza, se ne andò.
+
+La signora Reed ed io rimanemmo [[Alone|soli]]; trascorsero alcuni minuti in [[Silence|silenzio]]; lei cuciva, e io la osservavo. A quell’[[Time|ora]], la signora Reed doveva avere circa sessantasette anni; era una donna di corporatura robusta, con spalle quadre e arti forti; non era alta, e sebbene un po’ in carne, non era obesa. Aveva il viso piuttosto grande, la mandibola ben sviluppata e molto solida; le sopracciglia erano basse, il mento largo e sporgente, bocca e naso abbastanza regolari; sotto le sue sopracciglia chiare brillavano occhi privi di pietà. La sua pelle era scura e opaca, i capelli quasi biondi; la sua salute era eccellente: la malattia non le si avvicinava mai. Era una donna meticolosa e intelligente; la sua casa e i suoi inquilini erano completamente sotto il suo controllo; i suoi figli, solo di tanto in tanto, sfidavano la sua autorità ridendone. Si vestiva [[Well|bene]] e aveva un portamento tale da far risaltare qualsiasi abito elegante indossasse.
+
+Seduto su uno sgabello basso, a pochi metri dal suo divano, esaminai la sua figura e osservai attentamente i suoi tratti. Nella mia mano tenevo quel foglio che raccontava della improvvisa [[Death|morte]] del Mentitore; quella storia mi era stata indicata come un avvertimento appropriato. Quello che era appena accaduto, ciò che la signora Reed aveva detto di me al signor Brocklehurst, l’intero tenore della loro conversazione, tutto questo era ancora fresco nella mia mente; ogni parola mi era sembrata estremamente chiara e dolorosa da ascoltare, e ora in me cresceva una passione di risentimento.
+
+La signora Reed alzò lo sguardo dal suo lavoro; i suoi occhi si posarono sui miei, e le sue dita, nello stesso istante, interruppero i loro movimenti agili.
+
+“Vai fuori dalla stanza; torna nella nursery,” fu il suo ordine. Il mio sguardo, o qualcos’altro, deve esserle sembrato offensivo, perché parlò con estrema irritazione, sebbene cercasse di nasconderla. Mi alzai, andai alla porta; tornai indietro; camminai verso la [[Window|finestra]], attraversando la stanza, poi mi avvicinai a lei.
+
+_devo parlare_: sono stato gravemente calpestato e _devo_ reagire, ma come? Quale forza avevo per contrattaccare il mio avversario? Raccoglii tutte le mie energie e le utilizzai in questa frase semplice, diretta.
+
+“Non sono ingannevole: se lo fossi, direi di amarti; ma dichiaro apertamente che non ti [[Love|amo]]. Non mi piaci affatto, più di chiunque altro al mondo tranne John Reed; e quel libro sul bugiardo puoi darlo alla tua ragazza, Georgiana. È lei quella che mente, non io.”
+
+Le mani di Mrs. Reed erano ancora inanimate sul suo lavoro; il suo sguardo gelido continuava a fissarmi immobilemente.
+
+“Cosa altro hai da dire?”, chiese lei, usando un tono più adatto a rivolgersi a un adulto avversario che a un [[Child|bambino]].
+
+Quel suo sguardo, quella sua voce suscitavano in me ogni sorta di avversione. Tremando dalla testa ai piedi, sopraffatto da un’emozione incontrollabile, continuai.
+
+“Sono contenta che tu non sia mio parente: non ti chiamerò mai più zia finché vivrò. Non verrò mai a trovarti quando sarò cresciuta; e se qualcuno mi chiederà com’eri e come mi hai trattata, dirò che solo il pensiero di te mi fa star male, e che mi hai trattata con una crudeltà terribile.”
+
+“Come osi affermare una cosa del genere, [[Jane Eyre]]?”
+
+“Come oserei, signora Reed? Come oserei? Perché è la _verità_. Pensate che io non abbia sentimenti, che possa vivere senza un briciolo di [[Love|amore]] o gentilezza; ma non posso vivere così. E voi non avete pietà. Ricorderò sempre come mi abbiate spinta indietro – con violenza e crudeltà – nella stanza rossa, chiudendomi lì dentro per tutta la vita; anche se soffrivo terribilmente, anche se gridavo disperatamente: ‘Abbiate pietà! Abbiate pietà, zia Reed!’ Quella punizione che mi avete inflitto, solo perché vostro figlio malvagio mi aveva colpita, senza alcun motivo. Dirò a chiunque mi chieda la verità esatta ciò che è accaduto. La gente pensa che siate una buona donna, ma in realtà siete cattiva, spietata, _Voi_ siete ingannevole!”
+
+
+Come oserei io, signora Reed? Come oserei? Perché questa è la [[Truth|verità]].
+
+Appena ebbi terminato questa risposta, la mia [[Soul|'anima]] iniziò a espandersi, a esultare, provando una sensazione di [[Freedom|libertà]] e trionfo mai sentita prima. Sembrava che un legame invisibile si fosse spezzato, e che io fossi finalmente libero, in modo inaspettato. Non senza motivo questa emozione: la signora Reed sembrava spaventata; il lavoro le era caduto dalle ginocchia; alzava le mani, dondolando avanti e indietro, e persino torceva il viso come se stesse per piangere.
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_05" data-title="Jane Eyre — Chapter 4 (part 5)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/autumn,motif/cross,motif/desire,motif/frost,motif/leaves,motif/nature,motif/silence,motif/time,motif/water,motif/well,concept/madness,concept/nature,concept/solitude,character/jane_eyre"></span>
@@ -23091,6 +23427,57 @@ and an individual carrying a light entered; another followed close
 behind.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO V
+
+
+Appena erano suonate le cinque del mattino il 19 gennaio, Bessie portò una candela nel mio armadio e mi trovò già alzata e quasi pronta. Mi ero alzata mezz’ora prima del suo arrivo; avevo lavato il viso e indossato i vestiti alla luce di una mezza luna che stava appena tramontando, i cui raggi filtravano attraverso la stretta finestra vicino al mio lettino. Quel giorno avrei lasciato Gateshead con un calesse che passava davanti ai cancelli della locanda alle sei del mattino. Bessie era l’unica persona ancora sveglia; aveva acceso il fuoco nella nursery, dove ora stava preparando la mia colazione. Poche bambine riescono a mangiare quando sono eccitate all’idea di un viaggio. E nemmeno io riuscivo. Dopo aver tentato invano di farmi bere qualche cucchiaio di latte bollito e pane che aveva preparato per me, Bessie avvolse alcuni biscotti in carta e li mise nella mia borsa; poi mi aiutò a indossare il mantello e il cappello, e, avvolgendosi in uno scialle, uscimmo insieme dalla nursery. Mentre passavamo davanti alla camera da letto della signora Reed, lei disse: “Vorresti entrare a salutare la signora?”
+
+“No, Bessie: è venuta nella mia stanza la scorsa [[Night|notte]], quando tu eri già andata a cena, e mi ha detto che non dovevo disturbarla la mattina, né i miei cugini; inoltre mi ha ricordato di essere sempre stata la mia migliore amica, e di parlare bene di lei e di esserle grata.”
+
+“Che ha detto, signorina?”
+
+"Niente: mi coprii il viso con le lenzuola e mi girai verso il muro."
+
+“Quello non era giusto, signorina Jane.”
+
+“Era del tutto giusto, Bessie… Tua signora non è mai stata mia amica: è sempre stata mia nemica.”
+
+“Oh, signorina Jane… non dica così!”
+
+“Addio a Gateshead!”, gridai mentre attraversavamo l’atrio e uscivamo dalla porta d’ingresso.
+
+La [[Moon|luna]] era già calata e faceva molto buio; Bessie portava una lanterna, la cui luce illuminava i gradini bagnati e il sentiero di ghiaia inzuppato dal recente disgelo. Quella mattina d’inverno era fredda e pungente: i denti mi battevano mentre correvo giù per la strada. C’era una luce nella casupola del portiere; quando arrivammo, trovammo sua moglie che stava appena accendendo il fuoco: il mio baule, che era stato portato giù la sera precedente, era legato alla porta. Mancavano solo pochi minuti alle sei. Poco dopo quell’ora, il rumore lontano delle ruote annunciò l’arrivo della carrozza; andai alla porta e vidi le sue luci avvicinarsi rapidamente nella penombra.
+
+“Se ne andrà da sola?” chiese la moglie del portiere.
+
+“Sì, davvero.”
+
+“E quanto dista?”
+
+"Cinquanta miglia."
+
+“Che lungo cammino. Mi chiedo come la signora Reed possa non avere paura di lasciarla andare così [[Alone|sola]].”
+
+Il cocchiere si preparò; eccolo arrivare alle porte, con i suoi quattro cavalli e il tetto carico di passeggeri; la guardia e il cocchiere incitavano ad andare più velocemente; il mio baule fu caricato sul carro; fui staccato dal collo di Bessie, a cui mi ero aggrappato con i baci.
+
+“Assicurati di prenderti cura di lei,” gridò alla guardia mentre lui mi sollevava per portarmi all’interno.
+
+“Ah, ah!” fu la risposta: la porta si chiuse con un colpo secco, una voce esclamò “Bene”, e noi ripartimmo. Così fui separato da Bessie e da Gateshead; così mi allontanai verso regioni sconosciute, lontane e misteriose, come allora le consideravo.
+
+Ricordo molto poco di quel [[Journey|viaggio]]; so soltanto che quel giorno mi sembrò durare un’eternità, e che percorremmo centinaia di miglia su quella strada. Passammo attraverso diverse città; in una di queste, molto grande, la carrozza si fermò: i cavalli furono scesi e i passeggeri discesero per pranzare. Mi portarono in una locanda, dove il guardiano mi offrì del cibo; ma poiché non avevo appetito, mi lasciò in una stanza enorme, con un caminetto alle due estremità, un lampadario appeso al soffitto e una piccola galleria rossa in alto sulla parete, piena di strumenti musicali. Rimasi lì per molto tempo, sentendomi molto a disagio e temendo che qualcuno entrasse e mi rapisse. Poiché credevo davvero nell’esistenza dei rapitori, e le loro imprese comparivano spesso nelle storie che Bessie raccontava vicino al fuoco. Alla fine il guardiano tornò; mi rimise di nuovo nella carrozza, il mio protettore salì sul suo posto, suonò il suo corno e via ci mettemmo in movimento lungo quella strada accidentata di L——.
+
+Il pomeriggio iniziò con il cielo umido e leggermente nebbioso; man mano che scendeva la sera, cominciai a sentire che ci stavamo allontanando davvero molto da Gateshead: smettemmo di attraversare città; il paesaggio cambiava; grandi colline grigie si elevavano all’orizzonte; quando l’oscurità si fece più densa, scendemmo in una valle ricoperta di alberi; molto dopo che la [[Night|notte]] aveva avvolto tutto intorno a noi, sentii un vento selvaggio soffiare tra gli alberi.
+
+Cullato da quel suono, finalmente mi addormentai; non avevo dormito ancora a lungo quando il improvviso cessare di ogni movimento mi svegliò: la porta della carrozza era aperta e una persona che sembrava un servitore stava lì davanti; riuscii a vedere il suo viso e i suoi abiti alla luce delle lanterne.
+
+“C’è qui una bambina di nome [[Jane Eyre]]?” chiese lei. Risposi: “Sì”, e subito dopo fui fatto scendere dal veicolo; il mio baule fu passato giù, e la carrozza partì immediatamente.
+
+Ero rigido per aver seduto troppo a lungo, e confuso dal rumore e dal movimento della carrozza; raccoltendo tutte le mie forze, guardai intorno. Pioggia, [[Wind|vento]] e oscurità riempivano l’aria; tuttavia riuscii a distinguere vagamente un muro davanti a me e una porta aperta al suo interno; attraverso quella porta entrai insieme alla mia nuova guida: lei la chiuse e la serrò dietro di sé. Ora era visibile una o più [[house|case]] – l’edificio si estendeva per un lungo tratto – con molte finestre, e alcune erano illuminate; salimmo un ampio sentiero di ciottoli, bagnandoci nel fango, e fummo fatti entrare da una porta; poi la serva mi condusse attraverso un corridoio in una stanza dove c’era un [[Fire|fuoco]]; lì mi lasciò [[Alone|da solo]].
+
+Mi alzai e riscaldai le dita intorpidite vicino al fuoco, poi guardai intorno: non c'era nessuna candela, ma la luce incerta del camino mostrava, a tratti, pareti rivestite di carta da parati, tappeti, tende e mobili in mogano lucido; era un salotto, non così spazioso o lussuoso come il soggiorno a Gateshead, ma abbastanza confortevole. Stavo cercando di capire quale fosse il soggetto del dipinto appeso al muro quando la porta si aprì e una persona con una lampada entrò; un'altra la seguì subito dopo.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_02" data-title="Jane Eyre — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,motif/dawn,motif/grave,motif/night,motif/rose,motif/silence,motif/time,motif/water,motif/well,motif/wind,concept/doubt,histref/bible,character/bottom,character/jane_eyre"></span>
@@ -23205,6 +23592,44 @@ into another room to breakfast: how glad I was to behold a prospect of
 getting something to eat! I was now nearly sick from inanition, having
 taken so little the day before.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La prima era una donna alta, con i capelli scuri, gli occhi scuri e una fronte pallida e larga; la sua figura era parzialmente avvolta in uno scialle, il suo volto aveva un'espressione [[Grave|seria]], e la sua postura era eretta.
+
+“Quel [[Child|>bambino]] è troppo piccolo per essere mandato da solo,” disse lei, posando la candela sul tavolo. Mi osservò attentamente per un minuto o due, poi aggiunse:
+
+“È meglio che vada a letto presto; sembra stanca. Sei stanco anche tu?” chiese, mettendomi una mano sulla spalla.
+
+“Un po’, signora.”
+
+“E anche affamata, senza alcun [[Doubt|dubbio]]: lasciatele mangiare qualcosa prima di andare a letto, signorina Miller. È la prima [[Time|volta]] che lascia i suoi genitori per venire a scuola, mia piccola?”
+
+Le spiegai che non avevo genitori. Mi chiese da quanto tempo fossero morti; poi mi domandò quanti anni avessi, qual era il mio nome, se sapevo leggere, scrivere e cucire un po’. Poi mi accarezzò dolcemente la guancia con l’indice e, dicendo “Spera che io diventi una buona [[Child|bambina]]”, mi congedò insieme a Miss Miller.
+
+La signora che avevo lasciato doveva avere circa ventinove anni; quella che era venuta con me sembrava qualche anno più giovane: la prima mi aveva colpito per la sua voce, il suo aspetto e il suo portamento. La signorina Miller, invece, era più ordinaria: aveva la pelle rossastra e un viso stanco; camminava e si muoveva in fretta, come se avesse sempre molte cose da fare; in effetti, come scoprii in seguito, era una insegnante supplente. Seguendola, passai da una stanza all’altra, attraverso corridoi lunghi e irregolari di un edificio vasto; finché, uscendo dal silenzio totale e un po’ tetro che pervadeva quella parte della casa, ci trovammo davanti al rumore di molte voci e entrammo in una stanza larga e lunga, con molti tavoli, due all’estremità di ogni lato, su ciascuno dei quali ardevano due candele; intorno ai tavoli, sedute su panche, c’erano ragazze di tutte le età, da nove o dieci a vent’anni. Alla debole luce delle candele, il loro numero mi sembrava innumerevole, anche se in realtà non superava gli ottanta; erano tutte vestite con gonne di stoffa marrone di un gusto un po’ antiquato e lunghe sottogonne di tela. Era l’ora degli studi: stavano ripassando i compiti del giorno seguente, e il rumore che avevo sentito era il risultato delle loro ripetizioni sussurrate.
+
+La signorina Miller mi disse di sedermi su una panchina vicino alla porta; poi, camminando verso l’estremità della lunga stanza, gridò.
+
+"#Monitori, raccogliete i libri di testo e metteteli da parte!"
+
+Quattro ragazze alte si alzarono da diversi tavoli, raccolsero i libri e li portarono via. La signorina Miller diede di nuovo l’ordine.
+
+“Monitori, portate i vassoi della cena!”
+
+Le ragazze alte uscirono e tornarono poco dopo, ciascuna portando un vassoio; su di esso erano disposte porzioni di qualcosa che non sapevo cosa fosse, oltre a una brocca d’[[Water|acqua]] e una tazza al centro di ogni vassoio. Le porzioni vennero distribuite; chi ne aveva voglia beveva un sorso d’[[Water|acqua]], mentre la tazza era condivisa da tutti. Quando arrivò il mio turno, bevvi, perché avevo sete, ma non toccai il cibo: l’eccitazione e la stanchezza mi rendevano incapace di mangiare. Ora vidi che si trattava di semplici fette sottili di pane d’avena.
+
+Dopo aver mangiato, la signorina Miller recitò le preghiere e poi le classi si dispersero, due per due, al piano di sopra. Sopraffatto da questa sensazione di stanchezza legata a quel momento, quasi non notai com'era fatta la camera da letto; vidi soltanto che, come l’aula scolastica, era molto lunga. Quella sera sarei diventato il compagno di letto della signorina Miller; lei mi aiutò a spogliarmi. Mentre mi sdraiavo, notai le lunghe file di letti, ognuno dei quali venne rapidamente occupato da due persone; in dieci minuti la luce fu spenta e, nel silenzio e nell’oscurità totale, mi addormentai.
+
+La [[Night|notte]] passò rapidamente: ero troppo stanca per sognare; mi svegliai una sola volta, sentendo il [[Wind|>vento]] soffiare con violenza e la pioggia cadere a rovesci; notai anche che Miss Miller si era seduta accanto a me. Quando riaprii gli occhi, suonò una campana forte; le ragazze si erano alzate e stavano vestendosi; il giorno non era ancora iniziato; nella stanza ardevano una o due lampade a olio. Mi alzai anch’io a malincuore: faceva un freddo terribile; mi vestii nel modo migliore possibile, tremando di freddo, e mi lavai quando trovai un bacino libero, il che non accadde subito, poiché c’era solo un bacino per sei ragazze, posizionato al centro della stanza. La campana suonò di nuovo: tutte ci mettemmo in fila, due per due, e scendemmo le scale per entrare nell’aula scolastica fredda e scarsamente illuminata; lì Miss Miller recitò alcune preghiere; poi chiamò.
+
+“Formate le classi!”
+
+Seguì un grande tumulto per alcuni minuti, durante i quali la signorina Miller ripeteva continuamente: “[[Silence|Silenzio]]!” e “Ordine!”. Quando il tumulto si placò, vidi che erano tutti disposti in quattro semicerchi, di fronte a quattro sedie posizionate ai quattro tavoli; ognuno teneva un libro in mano, e su ogni tavolo, davanti al posto vuoto, c'era un grande libro, simile a una [[Bible|Bibbia]]. Seguì un breve silenzio, interrotto dal basso mormorio di voci che contavano qualcosa; la signorina Miller camminava da un gruppo all'altro, cercando di far tacere quel suono indistinto.
+
+Un campanello lontano suonò; immediatamente tre signore entrarono nella stanza, ognuna si avvicinò a un tavolo e prese il proprio posto; la signorina Miller occupò la quarta sedia libera, quella più vicina alla porta, intorno alla quale erano riuniti i bambini più piccoli. Fu verso questa “classe inferiore” che fui chiamato e messo, in fondo a essa.
+
+Iniziò ora la routine quotidiana: venne ripetuta l’azione di raccogliere i materiali necessari per la giornata, poi furono recitate alcune parti della Scrittura; dopo ci fu una lunga lettura di capitoli della [[Bible|Bibbia]], che durò un’ora. Quando quell’attività terminò, era ormai giorno fatto. Il campanello, instancabile, suonò per la quarta volta: i ragazzi si radunarono e si recarono in un’altra stanza per colazione. Che gioia vedere finalmente l’opportunità di mangiare qualcosa! Ero quasi sul punto di svenire per la fame, avendo assunto così poco il giorno prima.
 
 
 
@@ -23493,6 +23918,76 @@ and whose son overlooks and directs everything here.”
 “Because he is treasurer and manager of the establishment.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Ho qualcosa da dire ai ragazzi,” disse lei.
+
+Il clamore causato dall’interruzione delle lezioni stava già iniziando, ma si placò al suono della sua voce. Lei continuò.
+
+“Stamattina hai mangiato una colazione che non sei riuscito a finire; devi essere affamato. Ho ordinato che a tutti venga servito un pranzo con pane e [[cheese|formaggio]].”
+
+Gli insegnanti la guardarono con un certo stupore.
+
+“Deve essere fatto sotto la mia responsabilità,” aggiunse loro con tono spiegativo, e subito dopo lasciò la stanza.
+
+Il pane e il [[cheese|formaggio]] furono subito portati dentro e distribuiti, con grande gioia e sollievo di tutta la scuola. Poi fu dato l’ordine: “Verso il [[Garden|giardino]]!” Ognuno indossò un cappello di paglia grezza, decorato con stringhe di cotone colorato, e un mantello di frange grigie. Anch’io fui equipaggiato allo stesso modo e, seguendo il corso d’acqua, mi diressi all’aperto.
+
+Il [[Garden|giardino]] era un ampio recinto circondato da mura così alte da impedire qualsiasi vista sul panorama esterno; su un lato correva una veranda coperta, mentre ampi sentieri delimitavano lo spazio centrale diviso in numerosi piccoli orticelli, assegnati agli studenti per la coltivazione. Ogni orticello aveva il suo proprietario. Quando pieni di [[Flowers|>fiori]], dovevano sicuramente essere molto belli; ma ora, a fine gennaio, tutto era coperto da foglie secche e marciume marrone. Rabbrividii mentre mi guardavo intorno: era una giornata davvero poco adatta per fare attività all’aperto; non pioveva, ma una nebbia gialla e densa rendeva l’aria cupa; tutto intorno era ancora bagnato a causa delle piogge di ieri. Le ragazze più forti correvano avanti e indietro giocando, mentre quelle più deboli si raggruppavano sulla veranda per cercare riparo e calore; tra queste ultime, man mano che la nebbia penetrava nei loro corpi tremanti, sentivo spesso il suono di colpi di tosse secchi.
+
+Fino ad allora non avevo parlato con nessuno, e sembrava che nessuno si accorgesse di me; stavo completamente solo. Ma a quel senso di isolamento ero abituata; non mi opprimeva troppo. Mi appoggiai a una colonna del portico, mi avvolsi nel mio mantello grigio e, cercando di dimenticare il freddo che mi gelava dall’esterno e la fame insoddisfatta che mi tormentava dentro, mi dedicai ad osservare e riflettere. I miei pensieri erano troppo vaghi e frammentari per meritare di essere ricordati. Non sapevo nemmeno dove fossi; Gateshead e la mia vita passata sembravano essersi allontanati in una distanza infinita; il presente era vago e strano, e del futuro non riuscivo a fare alcuna congettura. Guardai intorno al giardino, simile a un convento, poi alzai lo sguardo verso la casa. Un edificio grande: metà di esso sembrava grigio e vecchio, l’altra metà completamente nuova. La parte nuova, che conteneva aule scolastiche e dormitori, era illuminata da finestre con cornici e grate, il che le dava un aspetto simile a quello di una chiesa. Sopra la porta c’era una targa di pietra su cui era incisa questa iscrizione:
+
+Istituto Lowood.
+
+Questa parte fu ricostruita nell’anno A.D. ——, da Naomi Brocklehurst, della Brocklehurst Hall, in questa contea.
+
+“Lasciate che la vostra luce brilli davanti agli uomini, affinché vedano le vostre buone opere e lodino vostro Padre che è nei cieli.” — San Matteo 5:16.
+
+
+Leggevo queste parole ancora e ancora: sentivo che ci fosse una spiegazione necessaria per comprenderne appieno il significato, ma non riuscivo a penetrarne completamente il senso. Continuavo a riflettere sul significato della parola “Istituzione” e cercavo di stabilire un legame tra le prime parole del testo e i versetti della Scrittura, quando il suono di un colpo di tosse alle mie spalle mi fece girare la testa. Vidi una ragazza seduta su una panchina di pietra lì vicino; era china su un libro, apparentemente immersa nella sua lettura. Da dove mi trovavo riuscivo a leggere il titolo: “Rasselas”; un nome che mi sembrò strano, e quindi particolarmente interessante. Mentre girava una pagina, alzò lo sguardo per caso, e io le dissi direttamente.
+
+“Il tuo libro è interessante?” Avevo già deciso di chiederle di prestarmelo un giorno.
+
+“Mi piace,” rispose dopo un pausa di uno o due secondi, durante la quale mi osservò attentamente.
+
+“Di cosa si tratta?” continuai. Non so proprio da dove abbia preso il coraggio di iniziare una conversazione con uno sconosciuto; quel comportamento era contrario alla mia [[Nature|>natura]] e ai miei abiti. Ma penso che la sua occupazione abbia risvegliato in me un sentimento di simpatia: anch'io amavo leggere, sebbene solo libri frivoli e infantili; non riuscivo a comprendere ciò che fosse serio o sostanziale.
+
+“Puoi darci un’occhiata,” rispose la ragazza, porgendomi il libro.
+
+Lo feci; un breve esame mi convinse che il contenuto fosse meno interessante del titolo: “Rasselas” sembrava noioso ai miei modesti gusti; non c’era nulla riguardo a fate, né a geni; nessuna varietà interessante si intravedeva nelle pagine stampate in modo fitto. Glielo restituii; lei lo accettò in silenzio e, senza dire una parola, stava per tornare alla sua solita attività di studio. Così osai disturbarla ancora una volta.
+
+“Puoi dirmi cosa significa la scritta su quella pietra sopra la porta? Cos’è l’Istituto Lowood?”
+
+“Questo [[house|casa]] in cui siete venuti a vivere.”
+
+“E perché lo chiamano ‘Istituzione’? In che modo si differenzia dalle altre scuole?”
+
+“È in parte una scuola di [[Charity|carità]]: tu e io, e tutti gli altri, siamo bambini assistiti da organizzazioni di beneficenza. Immagino che tu sia un [[Orphan|orfano]]: non è forse né tuo padre né tua madre morti?”
+
+“Entrambi sono morti prima che io potessi ricordarmene.”
+
+“Beh, tutte le ragazze qui hanno perso uno o entrambi i genitori, e questo posto è chiamato istituto per l’educazione degli orfani.”
+
+# Non paghiamo nulla? Ci tengono qui senza compensazione?
+
+“Paghiamo, o i nostri amici pagano, quindici sterline all’anno per ciascuno di loro.”
+
+“Allora perché ci chiamano ‘bambini di carità’?”
+
+“Perché quindici sterline non sono sufficienti per le spese di vitto e per insegnare; la differenza viene coperta tramite abbonamenti.”
+
+“Chi si iscrive?”
+
+Diverse signore e gentiluomini di buon cuore in questo quartiere e a [[London|Londra]].
+
+# Chi era Naomi Brocklehurst?
+
+“La signora che ha costruito la nuova parte di questa [[house|>casa]], come riportato su quella tavoletta,  
+e la cui figlio supervisiona e dirige tutto qui.”
+
+“Perché?”
+
+“Perché è il tesoriere e il responsabile amministrativo dell’istituzione.”
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_05" data-title="Jane Eyre — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/orphan,motif/clock,motif/dreams,motif/grave,motif/rose,motif/swallow,motif/water,motif/well,concept/history,concept/wonder,form/history,character/jane_eyre"></span>
@@ -23770,6 +24265,7 @@ rise to clamour.
 <span class="qlang-split" data-lang="it"></span>
 
 # CAPITOLO VI
+
 
 Il giorno seguente iniziò come al solito: ci alzammo e ci vestimmo alla luce della lampada a olio; ma quella mattina fummo costretti a rinunciare alla cerimonia del lavaggio: l’[[Water|acqua]] nelle brocche era congelata. La sera precedente il tempo era cambiato: un forte vento di nord-est, che soffiava attraverso le fessure delle nostre finestre per tutta la [[Night|notte]], ci aveva fatto tremare nei letti e aveva trasformato l’acqua nelle brocche in ghiaccio.
 
@@ -24251,6 +24747,7 @@ conversation was to brand me as a bad [[Child|child]] for ever: now there he was
 
 # CAPITOLO VII
 
+
 Il mio primo periodo a Lowood sembrò un’eternità; e non certo l’[[Golden Age|età d’oro]]; si componeva di una faticosa lotta contro le difficoltà legate all’adattamento a nuove regole e compiti insoliti. La [[Fear|>paura]] di fallire in queste situazioni mi tormentava molto di più delle difficoltà fisiche che dovevo affrontare; anche se queste ultime non erano certo da sottovalutare.
 
 Durante gennaio, febbraio e parte di marzo, le profonde nevicate, e dopo il loro scioglimento, le strade quasi impraticabili ci impedirono di allontanarci dai muri del [[Garden|giardino]], se non per andare in chiesa; ma entro questi limiti dovevamo trascorrere un’ora al giorno all’aperto. I nostri vestiti erano insufficienti a proteggerci dal freddo intenso: non avevamo stivali, la [[Snow|neve]] entrava nelle nostre scarpe e si scioglieva lì dentro; le nostre mani, senza guanti, diventavano intorpidite e coperte di geloni, così come i piedi. Ricordo bene l’irritazione fastidiosa che provavo ogni sera a causa di questo; inoltre, al mattino era una vera tortura infilare le dita dei piedi gonfie, doloranti e rigide nelle scarpe. Inoltre, la scarsità di cibo era angosciante: con gli appetiti voraci di bambini in crescita, a malapena avevamo abbastanza per sopravvivere. A causa di questa carenza nutrizionale, si verificava spesso che le ragazze più grandi, affamate, costringessero quelle più piccole a rinunciare alla loro razione. Molte volte ho dovuto dividere con altre due persone il prezioso pezzetto di pane marrone distribuito durante la cena; e dopo aver ceduto metà del contenuto della mia tazza di caffè a una terza persona, dovevo ingoiare il resto tra lacrime segrete, spinta dalla necessità della fame.
@@ -24392,6 +24889,44 @@ whatever he might do with the outside of the cup and platter, the
 inside was further beyond his interference than he imagined.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Stava al fianco di Miss Temple; parlava sottovoce nel suo orecchio: non [[Doubt|dubitavo]] che stesse rivelando i miei misfatti; e la osservavo con ansia dolorosa, aspettandomi da un momento all’altro di vedere il suo sguardo pieno di disgusto e disprezzo rivolgersi verso di me. Ascoltavo anche io; e poiché mi trovavo seduto proprio in cima alla stanza, riuscii a captare la maggior parte di ciò che diceva: il significato delle sue parole mi sollevò dall’angoscia immediata.
+
+“Immagino che il filo che ho comprato a Lowton vada bene, Miss Temple; mi è sembrato adatto proprio per le camicie di cotone, e ho anche selezionato gli aghi in modo che corrispondessero. Potrebbe dire a Miss [[smith|Smith]] che ho dimenticato di fare un elenco degli aghi da rammendo, ma le invierò alcuni documenti la prossima settimana; in ogni caso, non deve dare più di uno aghetto per volta a ciascuna allieva: se ne avessero di più, tenderebbero ad essere disattente e a perderli. E, oh, signora! Vorrei davvero che si prestasse maggiore attenzione alle calze di lana. L’ultima volta che sono stata qui, sono andata nel giardino della cucina e ho controllato i vestiti stesi ad asciugare: c’erano diverse paia di calzoni neri in uno stato di conservazione molto pessimo; a giudicare dalle dimensioni dei buchi, era evidente che non erano stati riparati a dovere da un po’ di tempo.”
+
+Si fermò per un attimo.
+
+“Le vostre istruzioni saranno seguite, signore,” disse la signorina Temple.
+
+“E poi, signora,” continuò, “la lavandaia mi ha detto che alcune ragazze hanno due vestiti puliti a settimana: è troppo; le regole ne permettono soltanto uno.”
+
+“Credo di poter spiegare quella circostanza, signore. Agnes e Catherine Johnstone sono state invitate a prendere il tè con alcuni amici a Lowton lo scorso [[thursday|giovedì]], e ho dato loro il permesso di indossare abiti puliti per l’occasione.”
+
+Il signor Brocklehurst annuì.
+
+“Beh, for once potrebbe anche passare; ma per favore non lasciate che questa situazione si ripeta troppo spesso. C’è un’altra cosa che mi ha sorpreso: controllando i conti con la cameriera, ho scoperto che, nelle ultime due settimane, alle ragazze è stato servito due volte un pranzo composto da pane e [[cheese|formaggio]]. Come è possibile? Ho esaminato le regole e non trovo alcuna menzione di questo tipo di pasto. Chi ha introdotto questa novità? E su quale autorità si basa?”
+
+“Devo assumermi la responsabilità di questa situazione, signore,” rispose la signorina Temple: “la colazione era talmente mal preparata che gli alunni non avrebbero potuto mangiarla; inoltre, non ho osato permettere loro di rimanere a digiuno fino all’[[Time|ora]] di cena.”
+
+“Madama, permettetemi un istante. Siete consapevole che il mio scopo nell’educare queste ragazze non è abituarle a costumi di lusso e indulgenza, ma renderle forti, pazienti e disposte al [[Self|sacrificio]] di sé stesse. Se dovesse verificarsi qualche piccola delusione legata al cibo – come il rovinare un pasto, o preparare un piatto in modo errato – tale situazione non dovrebbe essere compensata offrendo loro qualcosa di più delicato, altrimenti si finirebbe per viziare i loro [[Body|corpi]] e vanificare lo scopo stesso di questa istituzione. Invece, tali occasioni dovrebbero essere utilizzate per il loro sviluppo spirituale, incoraggiandole a dimostrare forza di carattere di fronte alle privazioni temporanee. In tali momenti, un breve discorso non sarebbe affatto fuori luogo; un insegnante sagace potrebbe approfittarne per parlare delle sofferenze dei primi cristiani, dei tormenti dei martiri, degli esortamenti del nostro beato Signore stesso, che invitava i suoi discepoli ad assumersi il loro [[Cross|croce]] e a seguirlo; potrebbe anche ricordare loro che l’uomo non vive soltanto di pane, ma di ogni parola che proviene dalla bocca di Dio; e infine, delle sue divine consolazioni: ‘Se per causa Mia patite fame o sete, siete beati.’ Oh, madama, quando date a questi bambini pane e [[cheese|formaggio]], invece di porridge bruciato, forse nutrite i loro corpi materiali, ma poco pensate a come priviate le loro anime immortali!”
+
+Il signor Brocklehurst fece di nuovo una pausa – forse sopraffatto dai suoi sentimenti. Quando aveva iniziato a parlare con la signorina Temple, lei teneva lo sguardo abbassato; ma ora fissava dritto davanti a sé. Il suo viso, naturalmente pallido come il marmo, sembrava assumere anche la freddezza e la rigidità di quel materiale; soprattutto la sua bocca, chiusa in modo tale che avrebbe richiesto lo scalpello di uno scultore per aprirla, e la sua fronte assumeva gradualmente un’espressione di severità pietrificata.
+
+Nel frattempo, il signor Brocklehurst, fermo davanti al camino con le mani dietro la schiena, osservava con aria maestosa l’intera scuola. All’improvviso i suoi occhi batterono le palpebre, come se avessero incontrato qualcosa che li aveva abbagliati o scioccati; girandosi, disse con un tono più rapido di quanto avesse usato fino ad allora.
+
+“Signorina Temple, signorina Temple, che cos’è quella ragazza con i capelli ricci? Capelli rossi, signora, completamente ricci, ” E tendendo il suo bastone, indicò quell’orrore; la sua mano tremava mentre lo faceva.
+
+“È [[Julia]] Severn,” rispose Miss Temple, molto dolcemente.
+
+“[[Julia]] Severn, signora! E perché lei, o chiunque altro, si arriccia i capelli? Perché, in sfida a ogni precetto e principio di questa [[house|>casa]], si conforma così apertamente alle usanze del mondo – qui, in un’istituzione evangelica e caritatevole – da indossare i capelli arricciati?”
+
+“I capelli di [[Julia]] si arricciano naturalmente,” rispose la signorina Temple, ancora più in silenzio.
+
+“Naturalmente! Sì, ma non dobbiamo conformarci alla [[Nature|natura]]; desidero che queste ragazze siano come le figlie di Grace. E perché tutta questa abbondanza? Ho ripetutamente detto che desidero che i loro capelli siano pettinati in modo semplice e sobrio. Signorina Temple, i capelli di quella ragazza devono essere tagliati completamente; manderò un barbiere domani. E vedo altre ragazze il cui capello è decisamente troppo lungo. Quella ragazza alta, ditele di girarsi. Dite a tutte le ragazze della prima fila di alzarsi e di rivolgere il viso verso il muro.”
+
+Miss Temple si passò il fazzoletto sulle labbra, come per cancellare quel sorriso involontario che le era apparso; comunque, diede l’ordine e, quando i membri della prima classe capirono cosa veniva richiesto da loro, obbedirono. Appoggiandomi leggermente allo schienale del mio banco, riuscivo a vedere gli sguardi e le smorfie con cui commentavano questa mossa: sarebbe stato un peccato se anche il signor Brocklehurst potesse vederli. Forse avrebbe capito che, per quanto si impegnasse nell’aspetto esteriore della coppa e del piatto, l’interno era ben al di là delle sue possibilità di interferenza.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_03" data-title="Jane Eyre — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/soul,motif/time,motif/well,concept/body,concept/honour,concept/melancholy,concept/vanity,character/helen_burns,character/jane_eyre"></span>
@@ -24514,6 +25049,55 @@ ones whispered, “How shocking!”
 
 Mr. Brocklehurst resumed.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Esaminò attentamente il retro di queste “medaglie viventi” per circa cinque minuti, poi pronunciò la sentenza. Queste parole suonarono come il rintocco della morte.
+
+“Tutti quei nodi in cima devono essere tagliati via.”
+
+Sembrava che la signorina Temple volesse fare obiezione.
+
+“Madam,” continuò, “ho un Signore al quale devo servire, il cui regno non appartiene a questo mondo: la mia missione è quella di reprimere in queste ragazze i desideri carnali; insegnarle ad vestirsi con modestia e sobrietà, e non con capelli intrecciati o abiti costosi; ognuna di queste giovani ha una ciocca di capelli intrecciata, che persino la [[Vanity|vanità]] stessa potrebbe aver tessuto. Queste ciocche, ripeto, devono essere tagliate via; pensate al tempo sprecato, ”
+
+Il signor Brocklehurst fu interrotto: altre tre visitatrici entrarono nella stanza. Avrebbero dovuto arrivare un po' prima per ascoltare la sua lezione sull’abbigliamento, perché erano vestite splendidamente in velluto, seta e pellicce. Le due più giovani del gruppo (belle ragazze di sedici e diciassette anni) indossavano cappelli di castoro grigio, allora di moda, decorati con piume di struzzo; dai bordi di questi eleganti copricapo pendevano lunghi capelli biondi, elaboratamente arricciati. La signora più anziana era avvolta in un costoso scialle di velluto, bordato di ermellino, e portava una parrucca con riccioli francesi.
+
+Queste signore furono accolte con rispetto da Miss Temple, che le presentò come la signora e le signorine Brocklehurst, e le accompagnò ai posti d’onore in cima alla sala. Sembra che fossero arrivate in carrozza insieme al loro rispettabile parente, e avevano esaminato attentamente tutta la stanza al piano di sopra, mentre lui si occupava degli affari con la governante, interrogava la lavandaia e rimproverava il supervisore. Ora iniziarono a rivolgere varie osservazioni e rimproveri a Miss [[smith|Smith]], incaricata della cura dei lenzuola e dell’ispezione delle camere da letto; ma non ebbi il tempo di ascoltare ciò che dicevano: altre questioni attirarono immediatamente la mia attenzione.
+
+Fino ad ora, mentre raccoglievo le parole del signor Brocklehurst e della signorina Temple, non avevo trascurato alcuna precauzione per garantirmi la sicurezza personale; pensavo che ci sarei riuscita, se solo fossi riuscita a evitare di essere notata. A questo scopo, mi ero seduta molto indietro sulla sedia e, mentre fingevo di essere impegnata con i miei calcoli, tenevo la lavagna in modo da nascondere il viso; forse sarei riuscita a passare inosservata, se solo quella maledetta lavagna non fosse accidentalmente scivolata dalle mie mani, cadendo con un rumore che attirò immediatamente l’attenzione di tutti. Sapevo che ormai era finita. Mentre mi chinavo per raccogliere i due pezzi della lavagna, mi preparai al peggio. Ed ecco che arrivò.
+
+“Una ragazza negligente!” disse il signor Brocklehurst, e subito dopo aggiunse: “È la nuova alunna, a quanto pare.” Prima che potessi riprendere fiato, continuò: “Non devo dimenticare di avere qualcosa da dirle riguardo a lei.” Poi, ad alta voce, sembrava così forte alle mie orecchie! “Che venga avanti quella [[Child|bambina]] che ha rotto la lavagna!”
+
+Di mia volontà non avrei potuto muovermi; ero paralizzato. Ma le due ragazze che sedevano ai miei lati mi aiutarono ad alzarmi in piedi e mi spinsero verso quel terribile giudice. Poi la signorina Temple mi assistette con dolcezza fino ai suoi piedi, e io ascoltai i suoi sussurri di consiglio.
+
+#"Non avere paura, Jane, ho visto che è stato un incidente; non sarai punita."
+
+Quel sussurro gentile raggiunse il mio cuore come un pugnale.
+
+“Un altro minuto, e lei mi disprezzerà per essere un ipocrita,” pensai;  
+un impulso di rabbia verso Reed, Brocklehurst e gli altri mi attraversò il corpo al momento di quella consapevolezza. Io non ero certo [[Helen Burns]].
+
+“Portami quel sgabello,” disse il signor Brocklehurst, indicando uno molto alto dal quale un supervisore si era appena alzato; lo portarono subito.
+
+“Metti il [[Child|>bambino]] sopra di esso.”
+
+E fui messo lì da qualcuno che non conosco; non ero in condizioni di notare i dettagli; sapevo soltanto che mi avevano sollevato fino all’altezza del naso del signor Brocklehurst, che si trovava a meno di un metro da me, e che sotto di me si estendevano pellicce color arancione, viola e un nugolo di piume argentee.
+
+Il signor Brocklehurst esitò.
+
+“Signorelle,” disse, rivolgendosi alla sua famiglia, “signorina Temple, insegnanti e bambini. Vedete tutti questa ragazza?”
+
+Certo che lo fecero; perché sentivo i loro sguardi, come raggi incandescenti, puntati contro la mia pelle bruciata.
+
+“Vedete, è ancora giovane; notate che possiede la normale forma tipica dell’[[Childhood|infanzia]]; Dio le ha concesso, con grazia, lo stesso aspetto che ha dato a tutti noi; nessuna deformità evidente la distingue in modo particolare. Chi avrebbe mai pensato che il Maligno avesse già trovato in lei un servitore e un agente? Eppure, purtroppo, è proprio così.”
+
+Un momento di pausa, in cui iniziai a riprendere il controllo dei miei nervi, e mi resi conto che avevo superato il “Rubicone”: quella prova, ormai inevitabile, doveva essere affrontata con determinazione.
+
+“Miei cari bambini,” proseguì il prete in marmo nero con pathos, “questa è un’occasione triste, davvero [[Melancholy|melanconica]]; poiché spetta a me avvertirvi che questa ragazza, che potrebbe essere uno dei veri agnelli di Dio, in realtà è una piccola naufraga: non fa parte del vero gregge, ma è chiaramente un’intrusa e un’estranea. Dovete stare in guardia contro di lei; dovete evitare il suo esempio; se necessario, evitate la sua compagnia, escludetela dai vostri giochi e impeditele di partecipare alle vostre conversazioni. Insegnanti, dovete tenerla d’occhio: osservate attentamente i suoi movimenti, valutate con attenzione le sue parole, esaminate attentamente le sue azioni. Punite il suo [[Body|corpo]] per salvare la sua [[Soul|anima]]; se davvero tale salvezza è possibile. Poiché (la mia lingua esita mentre lo dico) questa ragazza, questo [[Child|bambino]], nata in una terra cristiana, è peggiore di molti piccoli pagani che pregano Brahma e si inginocchiano davanti a Juggernaut. Questa ragazza è una bugiarda!”
+
+Seguì una pausa di dieci minuti; in quel lasso di tempo, ormai completamente padrone delle mie facoltà mentali, osservai tutte le donne della famiglia Brocklehurst estrarre i loro fazzoletti da tasca e usarli per coprirsi gli occhi. La signora anziana continuava a dondolarsi avanti e indietro, mentre le due più giovani sussurravano: “Che shock!”
+
+Il signor Brocklehurst continuò.
 
 
 
@@ -24688,6 +25272,45 @@ told [[Helen Burns]] to be seated in a low arm-chair on one side of the
 hearth, and herself taking another, she called me to her side.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO VIII
+
+
+Quell’intervallo di mezz’ora era finito; le cinque suonarono all’orologio; la scuola terminò e tutti si recarono nel refettorio per il tè. Allora osai scendere: era già buio fitto; mi ritirai in un angolo e mi sedetti a terra. L’effetto di quella magia che fino ad allora mi aveva sostenuto iniziò a svanire; la reazione negativa si fece sentire, e presto una tristezza così intensa mi sopraffece che caddi prostrato a faccia in giù. Piangevo. [[Helen Burns]] non era più lì; nulla mi sosteneva più; abbandonata a me stessa, lasciai che le mie [[Tears|lacrime]] bagnassero il pavimento. Avevo voluto essere una brava persona, fare molto a Lowood: farmi tanti amici, guadagnarmi rispetto e affetto. Già avevo fatto progressi evidenti: quella stessa mattina ero arrivata prima in classe; la signorina Miller mi aveva lodato calorosamente; la signorina Temple aveva sorriso approvando e mi aveva promesso di insegnarmi disegno e di farmi studiare il francese, se avessi continuato a migliorare allo stesso ritmo per altri due mesi. E poi i miei compagni di scuola mi trattavano con rispetto; quelli della mia età mi consideravano alla loro pari, e nessuno mi molestava. Ora, invece, ero di nuovo distrutta e umiliata. Avrei mai potuto rialzarmi?
+
+“Mai,” pensai; e desideravo ardentemente morire. Mentre esprimevo questo desiderio tra singhiozzi, qualcuno si avvicinò: mi alzai in piedi, ancora una volta, [[Helen Burns]] era vicino a me; le fiamme morenti mostravano appena il suo arrivo nella lunga stanza deserta; lei mi portò il caffè e il pane.
+
+“Mangia qualcosa,” disse lei; ma io allontanai entrambe le cose da me, sentendomi come se anche una goccia o un briciolo potessero soffocarmi nella mia condizione attuale. [[Helen]] mi guardava, probabilmente sorpresa: non riuscivo più a calmare il mio agitamento, nonostante i miei sforzi; continuavo a piangere ad alta voce. Lei si sedette a terra vicino a me, incrociò le gambe con le braccia e appoggiò la testa su di esse; in quella posizione rimase silenziosa, come un indiano. Fui io il primo a parlare.
+
+“[[Helen]], perché resti con una ragazza che tutti considerano una bugiarda?”
+
+“Tutti voi, Jane? Ma ci sono solo ottanta persone che hanno sentito te chiamare in questo modo, mentre nel mondo ci sono centinaia di milioni di persone, ”
+
+“Ma che cosa c’entro io con i milioni? Gli ottanta che conosco mi disprezzano.”
+
+“Jane, ti sbagli: probabilmente nessuno nella scuola ti disprezza o non ti piace; sono sicura che molti provino davvero compassione per te.”
+
+“Come possono avere pietà di me dopo quello che ha detto il signor Brocklehurst?”
+
+“Il signor Brocklehurst non è un dio; né tantomeno un uomo grande e ammirato: qui non è molto apprezzato; inoltre, non ha mai fatto nulla per guadagnarsi simpatie. Se vi avesse trattato come una sua favorita speciale, avreste trovato nemici, sia dichiarati che nascosti, dappertutto intorno a voi; invece, la maggior parte delle persone vi mostrerebbe comprensione, se osasse farlo. Insegnanti e studenti potrebbero comportarsi freddamente con voi per un giorno o due, ma nei loro cuori si nascondono sentimenti amichevoli; e se continuerete a comportarvi bene, questi sentimenti emergeranno molto presto, ancora più chiaramente, dopo questa temporanea repressione. Inoltre, Jane, ” Si interruppe.
+
+“Beh, Helen?” dissi, mettendo la mia mano nella sua; lei accarezzò delicatamente le mie dita per riscaldarle e continuò.
+
+“Anche se tutto il mondo ti odiasse e ti considerasse malvagio, mentre la tua stessa [[Conscience|coscienza]] ti approvasse e ti assolvesse dalle tue [[Guilt|colpe]], non saresti senza amici.”
+
+“No; so che dovrei pensare bene di me stesso, ma questo non basta: se gli altri non mi amano, preferirei morire piuttosto che vivere. Non posso sopportare di essere solo e odiato, [[Helen]]. Ascolta: per ottenere un vero affetto da te, o da Miss Temple, o da chiunque altro io ami davvero, sarei disposto a farmi rompere un osso del braccio, a lasciare che un toro mi scagli addosso, o a stare dietro a un cavallo che calpesta e lasciare che mi colpisca con gli zoccoli al petto, ”
+
+“Taci, Jane! Pensi troppo all’[[Love|amore]] degli esseri umani; sei troppo impulsiva, troppo appassionata. La mano sovrana che ha creato il tuo corpo e vi ha insufflato la vita ti ha fornito risorse molto più potenti del tuo debole [[Self|io]], o di quelle creature deboli come te. Oltre a questa terra, oltre alla razza umana, esiste un mondo invisibile e un regno degli spiriti: quel mondo ci circonda, perché è ovunque; quegli spiriti ci osservano, perché sono incaricati di proteggerci. E se stessimo morendo nel [[Pain|dolore]] e nella vergogna, se il disprezzo ci colpisse da tutte le parti e l’odio ci schiacciasse, gli angeli vedrebbero le nostre sofferenze, riconoscerebbero la nostra [[innocence|innocenza]] (se davvero siamo innocenti. Come so che lo sei tu: ho letto una natura sincera nei tuoi occhi ardenti e sul tuo viso sereno). E Dio aspetta soltanto che lo spirito si separi dalla carne per [[Crown|coronarci]] con una ricompensa piena. Allora, perché dovremmo mai sprofondare nel dolore, quando la vita finisce così presto e la [[Death|morte]] è l’ingresso sicuro alla felicità, alla gloria?”
+
+Ero in silenzio; [[Helen]] mi aveva calmato; ma nella tranquillità che lei mi trasmetteva c'era un misto di tristezza indescrivibile. Sentivo una profonda malinconia mentre parlava, ma non riuscivo a capire da dove provenisse; e quando, dopo aver finito di parlare, respirò un po' affannosamente e tossì leggermente, per un momento dimenticai le mie proprie preoccupazioni per provare una vaga angoscia per lei.
+
+Appoggiando la testa sulla spalla di [[Helen]], le misi le braccia intorno alla vita; lei mi attirò a sé e ci riposammo in [[Silence|silenzio]]. Non eravamo seduti da molto quando entrò un’altra persona. Alcune nuvole pesanti, spazzate via dal cielo da un [[Wind|>vento]] che si alzava, avevano lasciato la [[Moon|luna]] completamente scoperta; e la sua luce, che filtrava attraverso una [[Window|finestra]] vicina, illuminava sia noi che la figura che si avvicinava. Riconoscemmo subito che era Miss Temple.
+
+“Sono venuta apposta per trovarti, [[Jane Eyre]],” disse lei; “voglio che tu venga nella mia stanza; e poiché [[Helen Burns]] è con te, può venire anche lei.”
+
+Siamo andati; seguendo le indicazioni del sovrintendente, abbiamo dovuto attraversare alcuni passaggi complicati e salire una scala prima di raggiungere il suo appartamento; era ben riscaldato dal fuoco e sembrava molto accogliente. La signorina Temple disse a [[Helen Burns]] di sedersi su una poltrona bassa sul lato del camino, mentre lei ne prese un'altra per sé e mi chiamò al suo fianco.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_02" data-title="Jane Eyre — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/fire,motif/memory,motif/night,motif/pain,motif/silence,motif/soul,motif/spring,motif/time,motif/well,concept/beauty,concept/wonder,character/helen,character/helen_burns,character/jane_eyre"></span>
@@ -24836,6 +25459,78 @@ discourse on that, to me, memorable evening; her spirit seemed
 hastening to live within a very brief span as much as many live during
 a protracted existence.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“È davvero finito tutto?” chiese, guardandomi in faccia. “Hai pianto abbastanza per esprimere il tuo dolore?”
+
+“Temo che non lo farò mai.”
+
+“Perché?”
+
+“Perché sono stato accusato ingiustamente; e ora voi, signora, e tutti gli altri, penserete che io sia cattivo.”
+
+“Ti considereremo ciò che dimostrerai di essere, mio [[Child|>bambino]]. Continua a comportarti come una brava ragazza, e ci soddisferai.”
+
+“Devo farlo, signorina Temple?”
+
+“Lo farai,” disse lei, mettendomi un braccio intorno alle spalle. “Ora dimmi chi è quella signora che il signor Brocklehurst ha chiamato la tua benefattrice.”
+
+“La signora Reed, la moglie di mio zio… Mio zio è morto e mi ha lasciato sotto la sua cura.”
+
+# Non è forse stata lei stessa ad adottarti di sua spontanea volontà?
+
+“No, signora; le dispiaceva doverlo fare. Ma mio zio, come ho spesso sentito dire dai domestici, la fece promettere prima di morire che mi avrebbe sempre tenuto con sé.”
+
+“Bene, ora, Jane, sai, o almeno te lo dirò: quando un criminale viene accusato, gli viene sempre concesso il diritto di difendersi. Sei stata incriminata per aver detto menzogne; difenditi nel modo migliore che sai. Di’ tutto ciò che la tua [[Memory|memoria]] ti suggerisce essere vero, ma non aggiungere nulla e non esagerare.”
+
+Nel profondo del mio cuore, decisi di essere estremamente moderato, estremamente corretto; dopo aver riflettuto per qualche minuto al fine di organizzare in modo coerente ciò che dovevo dire, le raccontai tutta la storia della mia triste [[Childhood|infanzia]]. Esausto per l’emozione, il mio linguaggio fu più contenuto del solito quando affrontavo quell’argomento doloroso; e, ricordando gli avvertimenti di [[Helen]] contro l’abbandonarsi al risentimento, inserii nella narrazione molto meno amarezza e rancore del normale. Così, più contenuta e semplificata, la mia storia suonò più credibile; mentre la raccontavo, avevo la sensazione che Miss Temple mi credesse completamente.
+
+Nel corso di questa storia avevo menzionato che il signor Lloyd era venuto a trovarmi dopo quell’episodio: infatti non dimenticavo mai quell’incidente terribile nella stanza rossa. Raccontandolo, la mia emozione, ne sono certo, superava ogni limite; nulla poteva attenuare nella mia memoria l’atroce dolore che provai quando la signora Reed rifiutò le mie disperate suppliche di perdono e mi rinchiuse per la seconda volta in quella stanza buia e infestata.
+
+Ero finito; per qualche minuto la signorina Temple mi guardò in [[Silence|silenzio]], poi disse.
+
+“Conosco un po’ il signor Lloyd; gli scriverò; se la sua risposta confermerà quanto hai detto, sarai completamente scagionata da ogni accusa; per me, Jane, ormai sei innocente.”
+
+Mi baciò e continuò a tenermi al suo fianco (dove mi sentivo davvero [[Well|benissimo]], contento di stare lì); infatti, il piacere di contemplare il suo viso, il suo abito, i suoi pochi ornamenti, la sua fronte bianca, le sue onde di capelli lucide e nere, nonché i suoi occhi splendenti, mi procurava grande gioia. Poi iniziò a parlare con [[Helen Burns]].
+
+“Come stai, [[Night|di notte]], [[Helen]]? Hai tossito molto oggi?”
+
+“Non proprio, credo, signora.”
+
+“E il [[Pain|dolore]] nel tuo petto?”
+
+“Un po’ meglio, ora.”
+
+La signorina Temple si alzò, le prese la mano e le controllò il polso; poi tornò al suo posto. Mentre si sedeva di nuovo, la sentii sospirare sommessamente. Rimase pensierosa per qualche minuto, poi, riprendendosi, disse allegramente.
+
+“Ma voi due siete i miei ospiti di questa [[Night|notte]]; devo trattarvi di conseguenza.” Suonò il campanello.
+
+“Barbara,” disse alla serva che rispose al telefono, “Non ho ancora bevuto il tè; porta il vassoio e prepara le tazze per queste due giovani signore.”
+
+E presto portarono un vassoio. Quanto erano belli, ai miei occhi, quelle tazze di porcellana e quella teiera luminosa, posate sul piccolo tavolino vicino al [[Fire|focolare]]! Quanto era profumato il vapore del liquido e l’aroma del pane tostato. Tuttavia, con mia delusione (poiché iniziavo ad avere fame), ne riconobbi solo una piccolissima quantità; anche la signorina Temple se ne accorse.
+
+“Barbara,” disse lei, “non potresti portare un po’ più di pane e burro? Non ne basta per tre persone.”
+
+# Barbara uscì: tornò presto
+
+“Signora, la signora Harden dice di aver inviato la solita quantità.”
+
+Si deve notare che la signora Harden era la governante di casa: una donna esattamente a piacimento del signor Brocklehurst, composta per parti uguali da ossa di balena e ferro.
+
+“Oh, molto bene!” rispose la signorina Temple; “dovremo farcela, Barbara, suppongo.” E mentre la ragazza si allontanava, aggiunse sorridendo: “Fortunatamente, questa volta ho il potere di colmare le eventuali carenze.”
+
+Dopo averci invitato, [[Helen]] e me, ad avvicinarci al tavolo e aver posto davanti a ciascuno di noi una tazza di tè accompagnata da un delizioso, ma sottile boccone di pane tostato, si alzò, aprì un cassetto e ne tirò fuori un pacchetto avvolto in carta; poco dopo, davanti ai nostri occhi, apparve un bel pezzo di torta alle noci.
+
+“Volevo darvi un po’ di questo da portare via con voi,” disse lei, “ma poiché c’è così poco pane tostato, dovete prenderlo ora,” e continuò a tagliare fette generosamente.
+
+Quella sera mangiammo come se stessimo assaporando nettare e ambrosia; e il piacere più grande di quella serata fu lo sguardo di soddisfazione con cui la nostra ospite ci osservava, mentre saziavamo i nostri appetiti affamati con quei deliziosi cibi che lei aveva generosamente offerto.
+
+Dopo che il tè fu servito e il vassoio ritirato, lei ci chiamò di nuovo vicino al [[Fire|focolare]]; ci sedemmo uno da ciascun lato di lei, e allora iniziò una conversazione tra lei e [[Helen]], della quale fu davvero un privilegio poter ascoltare i contenuti.
+
+La signorina Temple aveva sempre un certo senso di serenità nel suo modo di essere, una certa dignità nel suo portamento, una certa raffinatezza nel suo linguaggio; queste caratteristiche impedivano che lei si lasciasse andare a espressioni appassionate, eccitate o troppo fervide. Questo aspetto del suo comportamento moderava il piacere che provavamo nell’osservarla e nell’ascoltarla, suscitando in noi un senso di rispetto e ammirazione. Ed era proprio questo che provavo anch’io in quel momento. Ma riguardo a [[Helen Burns]], ero davvero colpito dallo [[Wonder|stupore]].
+
+Il pasto rinfrescante, il brillante [[Fire|fuoco]], la presenza e la gentilezza della sua amata insegnante, o forse, più di tutto ciò, qualcosa nel suo unico modo di pensare, avevano risvegliato le sue capacità interiori. Queste capacità si erano destate, si erano accese: prima, brillarono sulle sue guance, che fino a quel momento avevo sempre visto pallide e prive di colore; poi splendettero nei suoi occhi, i quali improvvisamente acquisirono una bellezza ancora più straordinaria di quella di Miss Temple. Una bellezza non legata ai colori delicati, alle lunghe ciglia o alle sopracciglia ben disegnate, ma alla profondità del suo spirito, al movimento dei suoi gesti, alla luce che emanava dal suo essere. Poi la sua anima sembrò “sedersi” sulle sue labbra, e le parole iniziarono a fluire, da una fonte che non so spiegare. Una ragazza di quattordici anni ha davvero un cuore abbastanza grande, abbastanza vigoroso per contenere tutta quella forza di eloquenza pura, appassionata e piena di vitalità? Questo era il carattere distintivo del discorso di [[Helen]] in quella serata, per me indimenticabile. Il suo spirito sembrava voler vivere in un lasso di tempo brevissimo, tanto quanto molte persone riescono a vivere in una vita intera.
 
 
 
@@ -25044,6 +25739,27 @@ of cold pie, or a thick slice of bread and [[cheese]], and this we carried
 away with us to the wood, where we each chose the spot we liked best,
 and dined sumptuously.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO IX
+
+
+Ma le privazioni, o meglio le difficoltà, di Lowood iniziarono ad attenuarsi. Arrivò la [[Spring|primavera]]: il freddo della [[Winter|inverno]] era finalmente cessato; la neve si era sciolta e i venti taglienti erano diventati più mite. I miei piedi, strinati e gonfi a causa dell’aria gelida di gennaio, iniziarono a guarire sotto il calore più dolce di aprile; le notti e le mattine non congelavano più il [[Blood|sangue]] nelle nostre vene. Ora potevamo sopportare anche i momenti trascorsi nel [[Garden|giardino]]: a volte, nei giorni soleggiati, diventava persino piacevole e accogliente. Una verdezza iniziava a diffondersi su quei terreni bruni; ogni giorno, quel paesaggio sembrava rinnovarsi, come se la [[Hope|speranza]] lo attraversasse di notte, lasciando ogni mattina tracce più luminose dei suoi passi. Tra le foglie spuntavano fiori: gocce di neve, crocus, violette e pansie dai petali dorati. Nei pomeriggi di [[thursday|giovedì]] (giorni festivi), facevamo lunghe passeggiate e trovavamo fiori ancora più belli che sbocciavano lungo i sentieri, sotto gli arbusti.
+
+Scoprii anche che una grande gioia, un piacere il cui orizzonte era delimitato soltanto dall’immensità circostante, si trovava al di fuori delle alte mura protette da spuntoni del nostro [[Garden|giardino]]: quel piacere derivava dalla vista di nobili cime che circondavano una grande conca montana, ricca di verde e ombra; dal vedere un ruscello luminoso, pieno di pietre scure e increspature scintillanti. Quanto diversa appariva quella stessa scena quando la osservavo sotto il cielo gelido dell’[[Winter|inverno]], rigido per il [[Frost|ghiaccio]] e avvolto nella neve. Quando nebbie fredde come la morte si spostavano, spinte dai venti orientali, lungo quelle vette viola, rotolando giù lungo i versanti fino a mescolarsi con la nebbia ghiacciata del ruscello! Allora quel ruscello stesso diventava un fiume impetuoso, torbido e senza argini; strappava via gli alberi dal suo corso, emettendo suoni assordanti nell’aria, spesso intensificati dalla pioggia battente o dalla neve vorticosa. E per quanto riguarda la foresta sulle sue rive. Lì si vedevano soltanto file di scheletri.
+
+Aprile lasciò il posto a Maggio: un maggio luminoso e sereno; giorni di cielo azzurro, sole tranquillo e brezze dolci provenienti da ovest o dal sud caratterizzarono quella stagione. La vegetazione cresceva rigogliosamente: Lowood si liberava dei suoi rami secchi, diventando completamente verde e fiorita; i grandi alberi come querce, frassini ed olmi riprendevano vita maestosa; le piante del bosco germogliavano in abbondanza nelle sue profondità; innumerevoli varietà di muschio riempivano le sue cavità, e tutta quella natura selvaggia emanava una luce strana e particolare. Ho ammirato spesso tutto questo, liberamente, senza essere osservato, quasi da solo. Ma c’era una ragione alla base di questa libertà e di questo piacere inaspettati; ora è mio compito rivelarla.
+
+Non ho forse descritto un luogo piacevole per abitare, quando parlo di esso come racchiuso tra colline e boschi, che sorge sulle rive di un ruscello? Sicuramente è abbastanza piacevole, ma se sia anche salutare, questa è un’altra questione.
+
+Quella foresta in cui sorgeva Lowood era la culla della nebbia e delle malattie che essa generava; queste, con l’avvicinarsi della [[Spring|primavera]], si diffusero nell’Orfanotrofio, invadendo le aule affollate e i dormitori, trasformando il seminario in un ospedale prima ancora dell’arrivo di maggio.
+
+La semi-inanizione e i raffreddori trascurati avevano reso la maggior parte delle alunne particolarmente suscettibili alle infezioni: quarantacinque su ottanta ragazze si ammalarono contemporaneamente. Le lezioni furono sospese, le regole allentate. Le poche che continuavano a stare bene ricevevano quasi totale libertà; l’infermiere insisteva infatti sull’importanza di un’esercizio fisico frequente per mantenere la loro salute, e in caso contrario nessuno avrebbe avuto il tempo né la voglia di sorvegliarle o controllarle. L’intera attenzione di Miss Temple era concentrata sulle pazienti: viveva nella stanza degli ammalati, lasciandola solo per poche ore di riposo di notte. Gli insegnanti erano completamente impegnati a preparare i bagagli e ad organizzare tutto il necessario per il ritorno di quelle ragazze che avevano fortuna di avere amici o parenti disposti e in grado di portarle lontane dal luogo dell’infezione. Molte, già contaminate, tornavano a casa per morire; alcune morivano addirittura a scuola e venivano sepolte in silenzio e rapidamente, poiché la natura della malattia non permetteva ritardi.
+
+Mentre la malattia era ormai diventata un “inquilino” di Lowood e la [[Death|morte]] una sua visita frequente; mentre all’interno delle sue mura regnavano oscurità e [[Fear|paura]]; mentre le sue stanze e i suoi corridoi erano invasi da odori nauseabondi, il farmaco e le pastiglie cercavano invano di contrastare l’effluvio della [[Mortality|mortalità]], quel luminoso maggio splendeva senza nuvole sulle maestose colline e sui bellissimi boschi all’esterno. Anche il suo [[Garden|jardino]] brillava di fiori: i cespugli di ibisco erano cresciuti alti come alberi, i lillà si erano aperti, tulipani e rose fiorivano; i bordi dei piccoli aiuoli erano adornati da violette rosa e gigli rossi; i rododendri diffondevano, mattina e sera, il loro profumo di spezie e mele. Ma tutti questi fragranti tesori erano inutili per la maggior parte degli abitanti di Lowood, se non per fornire, di tanto in tanto, un pugno di erbe e fiori da mettere nei feretri.
+
+Ma io e gli altri che continuavamo a vivere bene godevamo appieno delle bellezze di quel luogo e di quella stagione; ci lasciavano girovagare nel bosco, come zingari, dal mattino fino alla sera; facevamo ciò che volevamo, andavamo dove desideravamo: vivevamo anche meglio. Il signor Brocklehurst e la sua famiglia non si avvicinavano più a Lowood; le faccende domestiche non venivano più controllate con attenzione; la governante precedente se n’era andata, spaventata dal rischio di infezioni; la sua successora, che prima lavorava nell’ospedale di Lowton e non era abituata alle condizioni del nuovo ambiente, veniva trattata con maggiore generosità. Inoltre, c’erano meno persone da sfamare; i malati potevano mangiare poco; i nostri vasi per la colazione erano spesso pieni; quando non c’era tempo di preparare un pasto regolare – il che accadeva spesso – ci davano un grande pezzo di torta fredda, o una fetta spessa di pane con formaggio; noi portavamo tutto questo nel bosco, dove ognuno sceglieva il posto che preferiva per pranzare in modo sontuoso.
 
 
 
@@ -25346,6 +26062,79 @@ tablet marks the spot, inscribed with her name, and the word
 “Resurgam.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Forse erano passate due ore, probabilmente verso le undici, quando io – non riuscendo a addormentarmi e notando, grazie al perfetto [[Silence|silenzio]] del dormitorio, che tutti i miei compagni erano immersi in un profondo sonno – mi alzai silenziosamente, indossai la mia veste sopra il vestito da notte e, senza scarpe, uscii dall’appartamento per dirigermi verso la stanza di Miss Temple. Si trovava all’estremità opposta della [[house|casa]], ma conoscevo bene la strada; inoltre, la luce della limpida [[Summer|luna estiva]], che filtrava attraverso le finestre, mi aiutò a trovarla senza difficoltà. Un odore di camphoro e aceto bruciato mi avvertì quando mi avvicinai alla stanza della malata: passai rapidamente davanti alla porta, temendo che l’[[Nurse|infermiera]] che vegliava tutta la notte potesse sentirmi. Avevo paura di essere scoperta e rimandata indietro; dovevo assolutamente vedere [[Helen]], abbracciarla prima che morisse, darle un ultimo bacio, scambiare con lei un’ultima parola.
+
+Dopo essere sceso una scala, attraversato una parte della [[house|>casa]] sottostante e riuscito ad aprire e chiudere silenziosamente due porte, raggiunsi un altro gradino; salii su di esso e, proprio di fronte a me, si trovava la stanza di Miss Temple. Una luce filtrava attraverso la serratura e da sotto la porta; un profondo silenzio pervadeva l’ambiente circostante. Avvicinandomi, notai che la porta era leggermente socchiusa, probabilmente per far entrare un po’ d’aria fresca in quell’angusto ambiente colpito dalla malattia. Senza esitazioni, spinto da impulsi impazienti – l’anima e i sensi tremanti per l’emozione – aprii la porta e guardai all’interno. I miei occhi cercarono [[Helen]], e temevo di trovarvi [[Death|morte]].
+
+Vicino al letto di Miss Temple, parzialmente coperto dalle sue tende bianche, c’era una piccola culla. Vedevo la sagoma di qualcuno sotto le coperte, ma il viso era nascosto dalle tende; l’[[Nurse|infermiera]] con cui avevo parlato nel [[Garden|giardino]] sedeva su una poltrona, addormentata; una candela ancora accesa bruciava debolmente sul tavolo. Non si vedeva traccia di Miss Temple: in seguito appresi che era stata chiamata presso un paziente delirante nella stanza delle febbri. Mi avvicinai, poi mi fermai vicino alla culla; la mia mano era sulla tenda, ma preferii parlare prima di tirarla indietro. Ancora oggi provo orrore all’idea di poter vedere un cadavere.
+
+“[[Helen]]!” sussurrai dolcemente, “sei sveglia?”
+
+Si mosse, riaprì la tenda e vidi il suo viso: pallido, emaciato, ma completamente composto. Sembrava così poco cambiata che la mia [[Fear|>paura]] svanì all’istante.
+
+“Puoi essere davvero tu, Jane?”, chiese lei con la sua voce dolce e gentile.
+
+“Oh!”, pensai, “non morirà; si sbagliano: se fosse sul punto di morire, non potrebbe parlare e guardare in modo così calmo.”
+
+Salii sul suo lettino e la baciai: la sua fronte era fredda, e anche le sue guance erano fredde e sottili, così come le sue mani e i suoi polsi; ma lei sorrise, proprio come una volta.
+
+“Perché sei venuta qui, Jane? Sono già passate le undici: ho sentito che hanno suonato da qualche minuto.”
+
+“Sono venuto a trovarti, [[Helen]]: ho sentito dire che eri molto malata, e non sono riuscito a [[Sleep|)dormire]] finché non ti ho parlato.”
+
+“Allora sei venuto per salutarmi. Probabilmente sei proprio nel momento giusto.”
+
+“Stai andando da qualche parte, [[Helen]]? Stai tornando a [[Home|casa]]?”
+
+“Sì, verso la mia lunga [[Home|casa]], la mia ultima [[Home|casa]].”
+
+“No, no, [[Helen]]!” Mi fermai, angosciato. Mentre cercavo di trattenere le mie [[Tears|lacrime]], un attacco di tosse colpì [[Helen]]; tuttavia, questo non svegliò la [[Nurse|infermiera]]. Dopo che l’attacco fu passato, lei rimase sdraiata per alcuni minuti, esausta; poi sussurrò.
+
+“Jane, hai i piedini nudi… Mettiti giù e copriti con la mia coperta.”
+
+Lo feci: lei mise il braccio intorno a me e mi rannicchiai vicino a lei. Dopo un lungo [[Silence|silenzio]], riprese a parlare, sempre sussurrando.
+
+“Sono molto felice, Jane; e quando sentirai che sono morta, devi essere certa di non addolorarti: non c’è nulla per cui piangere. Tutti dobbiamo morire un giorno, e la malattia che mi sta portando via non è dolorosa; è dolce e graduale. La mia mente è in pace. Non lascio nessuno che possa rimpiangermi molto: ho solo un padre. E lui si è sposato di recente, quindi non mi mancherà. Morendo giovane, eviterò grandi sofferenze. Non avevo qualità o talenti sufficienti per avere successo nel mondo. Sarei stata costantemente in difficoltà.”
+
+“Ma dove stai andando, [[Helen]]? Riesci a vedere? Lo sai?”
+
+“Credo; ho [[Faith|>fede]]: andrò da Dio.”
+
+# Dove è Dio? Che cos’è Dio?
+
+“Il Mio Creatore e il vostro, che non distruggerà mai ciò che ha creato. Mi affido implicitamente al Suo potere e confido completamente nella Sua bontà: conto le ore che mancano a quell’evento decisivo che mi riporterà a Lui e mi rivelerà la Sua vera natura.”
+
+“Allora sei sicura, [[Helen]], che esista davvero un posto chiamato paradiso e che le nostre anime possano raggiungerlo dopo la morte?”
+
+“Sono certo che esista uno stato futuro; credo che Dio sia buono; posso affidargli la mia parte immortale senza alcun rimorso. Dio è mio padre; Dio è mio amico: lo [[Love|amo]]; credo che anche Lui mi ami.”
+
+“E ci rivedremo ancora, [[Helen]], quando morirò?”
+
+“Arriverai nella stessa regione di felicità: sarai accolta dallo stesso potente, universale Genitore, senza alcun [[Doubt|>dubbio]], cara Jane.”
+
+Di nuovo mi chiesi, ma questa volta solo dentro di me: “Dove si trova quella regione? Esiste davvero?” E strinsi più forte [[Helen]] tra le braccia; sembrava ancora più cara a me di prima; avevo la sensazione di non poterla lasciare mai più; mi sdraiai con il viso nascosto nel suo collo. Dopo un po’, lei disse, con il tono più dolce possibile.
+
+“Che comodità. Quell’ultima crisi di tosse mi ha un po’ stancata;
+mi sento quasi in grado di [[Sleep|>dormire]]. Ma non lasciarmi, Jane: mi piace averti vicino.”
+
+“Rimarrò con te, _carissima_ [[Helen]]: nessuno mi porterà via.”
+
+“Sei al caldo, tesoro?”
+
+“Sì, davvero.”
+
+“Buona [[Night|notte]], Jane.”
+
+“Buona [[Night|notte]], [[Helen|>Helen]].”
+
+Mi baciò, e io baciai lei; entrambi presto ci addormentammo.
+
+Quando mi svegliai era giorno: un movimento insolito mi aveva destato; alzai lo sguardo e mi ritrovai tra le braccia di qualcuno; la [[Nurse|infermiera]] mi teneva in braccio, portandomi attraverso il corridoio verso il dormitorio. Non fui rimproverata per essere uscita dal letto; tutti avevano altre cose a cui pensare; in quel momento nessuno rispose alle mie molte domande; ma un giorno o due dopo appresi che la signorina Temple, tornando nella sua stanza all’[[Dawn|'alba]], mi aveva trovata addormentata nel lettino: il mio viso era appoggiato sulla spalla di [[Helen Burns]], e le mie braccia le circondavano il collo. Dormivo, e [[Helen]], era morta.
+
+La sua [[Grave|tomba]] si trova nel cimitero di Brocklebridge: per quindici anni dopo la sua [[Death|morte]] fu coperta soltanto da un tumulo erboso; ma ora una lastra di marmo grigio indica il luogo, con inciso il suo nome e la parola “Resurgam”.
+
 
 
 <span class="atom-split" data-atom="chapter_10--part_01" data-title="Jane Eyre — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/desire,motif/garden,motif/hill,motif/home,motif/marriage,motif/memory,motif/nature,motif/prayer,motif/prison,motif/road,motif/rose,motif/silence,motif/time,motif/water,motif/wind,motif/window,concept/courage,concept/education,concept/exile,concept/friendship,concept/honour,concept/nature,concept/regeneration,concept/solitude,character/jane_eyre"></span>
@@ -25464,6 +26253,29 @@ framed a humbler supplication; for change, stimulus: that petition,
 too, seemed swept off into vague space: “Then,” I cried, half
 desperate, “grant me at least a new servitude!”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO X
+
+
+Finora ho descritto in dettaglio gli eventi della mia esistenza insignificante: ai primi dieci anni della mia vita ho dedicato quasi altrettanti capitoli. Ma questa non deve essere un'autobiografia convenzionale: sono obbligato soltanto a richiamare alla memoria quegli episodi di cui so che possiedono un certo interesse; pertanto ora lascio passare otto anni quasi in [[Silence|silenzio]]: bastano poche righe per mantenere i legami logici tra questi eventi.
+
+Quando la febbre tifoide ebbe compiuto la sua missione di distruzione a Lowood, scomparve gradualmente da quel luogo; tuttavia, solo quando la sua virulenza e il numero delle sue vittime attirarono l’attenzione del pubblico su quella scuola, iniziarono le indagini sulle cause di quel flagello. Gradualmente vennero alla luce diversi fatti che suscitarono grande indignazione nell’opinione pubblica. La natura insalubre del luogo; la quantità e la qualità del cibo fornito ai bambini; l’acqua salmastra e putrida utilizzata per la preparazione dei pasti; i vestiti miseri e le condizioni di vita degli alunni: tutte queste cose furono scoperte, e tali rivelazioni ebbero come conseguenza un risultato umiliante per il signor Brocklehurst, ma benefico per l’istituto stesso.
+
+Diversi individui ricchi e benevolenti della contea contribuirono in modo significativo alla costruzione di un edificio più confortevole e situato in una posizione migliore; vennero introdotte nuove normative, miglioramenti nella dieta e nell’abbigliamento degli studenti, e i fondi della scuola furono affidati alla gestione di un comitato. Il signor Brocklehurst, grazie alla sua ricchezza e alle sue relazioni familiari, non poteva essere trascurato; tuttavia ricevette il sostegno di gentiluomini dal pensiero più aperto e comprensivo nell’adempimento dei suoi doveri. Anche la sua funzione di ispettore fu svolta da persone che sapevano combinare ragionevolezza con rigore, comodità con economia, compassione con integrità. Così migliorata, la scuola divenne nel tempo un’istituzione davvero utile e nobile. Rimasi al suo interno, dopo la sua “rigenerazione”, per otto anni: sei come studente e due come insegnante; in entrambi i ruoli posso testimoniare del suo valore e della sua importanza.
+
+Durante questi otto anni la mia vita è stata monotona, ma non infelice, perché non era inattiva. Avevo a disposizione i mezzi per ricevere un'ottima [[Education|istruzione]]; provavo affetto per alcune materie e desideravo eccellere in tutte; inoltre, il piacere di compiacere i miei insegnanti, soprattutto quelli che amavo, mi spingeva ad impegnarmi al massimo. Ho sfruttato appieno le opportunità che mi venivano offerte. Con il tempo sono diventata la prima ragazza della prima classe; in seguito ho assunto l’incarico di insegnante, che ho svolto con entusiasmo per due anni, ma alla fine di quel periodo ho deciso di cambiare direzione nella mia vita.
+
+Miss Temple, nonostante tutti i cambiamenti, continuò fino ad allora a ricoprire la carica di direttrice del seminario: alla sua guida devo gran parte delle mie conoscenze; la sua [[Friendship|amicizia]] e la sua compagnia furono per me una costante consolazione; lei fu per me come madre, insegnante e, in seguito, anche compagna. In quel periodo si sposò e si trasferì con suo marito (un prete, un uomo eccellente, quasi degno di una moglie del genere) in una contea lontana, e così perdette i contatti con me.
+
+Dal giorno in cui se ne andò, non fui più lo stesso: con lei scomparvero ogni sensazione di stabilità, ogni associazione che aveva reso Lowood, in qualche modo, un [[Home|>casa]] per me. Avevo assorbito da lei parte della sua [[Nature|>natura]] e molti dei suoi abiti mentali: i miei pensieri divennero più armoniosi, i miei sentimenti sembravano più regolati. Mi ero dedicato al dovere e all’ordine; ero tranquillo. Credevo di essere soddisfatto. Ai occhi degli altri, e spesso anche ai miei stessi, apparivo come una persona disciplinata e controllata.
+
+Ma il destino, sotto le sembianze del reverendo Mr. Nasmyth, intervenne tra me e Miss Temple: la vidi indossare il suo abito da viaggio mentre saliva su una berlina, poco dopo la cerimonia [[Marriage|nuziale]]; osservai la berlina salire la [[Hill|collina]] e scomparire oltre la sua cima; poi mi ritirai nella mia stanza e trascorsi lì, in [[Solitude|solitudine]], la maggior parte di quel mezzo-festivo concesso in [[Honour|onore]] dell’occasione.
+
+Passavo la maggior parte del [[Time|tempo]] a girovagare nella stanza. Immaginavo di essere solo preda del rimpianto per ciò che avevo perso e di pensare a come rimediare; ma quando terminavo queste riflessioni e alzavo lo sguardo, mi rendevo conto che la giornata era quasi finita e che la sera era ormai inoltrata. Allora mi rendevo conto di un’altra verità: nel frattempo, il mio modo di pensare aveva subito dei cambiamenti; la mia mente aveva abbandonato tutto ciò che aveva “preso in prestito” da Miss Temple, o meglio, lei stessa aveva portato con sé quell’atmosfera serena che avevo respirato al suo fianco. Ora ero di nuovo nel mio ambiente naturale e iniziavo a provare nuove emozioni. Non sembrava che qualcosa mi fosse stato tolto, ma piuttosto che una motivazione fondamentale fosse scomparsa. Non era la capacità di essere tranquillo ad essermi mancata, ma il motivo stesso per cui dovevo essere tranquillo non esisteva più. Per molti anni il mio mondo era stato Lowood; le mie esperienze si erano svolte all’interno delle sue regole e dei suoi sistemi. Ora ricordavo che il vero mondo è vasto, e che un campo ricco di speranze, paure, sensazioni ed emozioni aspetta coloro che hanno il [[Courage|coraggio]] di avventurarsi in esso, per cercare una vera conoscenza della vita tra i suoi pericoli.
+
+Andai alla mia [[Window|finestra]], la aprii e guardai fuori. C’erano le due ali dell’edificio; c’era il [[Garden|jardino]]; c’erano i margini di Lowood; c’era l’orizzonte ondulato. Il mio sguardo superò tutti gli altri oggetti per posarsi su quelle montagne lontane, con le loro vette azzurre. Erano proprio quelle che desideravo scalare; tutto ciò che si trovava entro i loro confini di roccia e brughiera sembrava un luogo di [[Prison|prigione]], un limite di [[Exile|esilio]]. Seguii con lo sguardo la strada bianca che serpeggiava lungo la base di una montagna, per poi scomparire in una gola tra due altre. Quanto desideravo proseguirla! Ricordai il momento in cui avevo viaggiato su quella stessa strada in carrozza; ricordai come fossi sceso da quella collina al tramonto. Sembrava fossero trascorsi anni da quando ero arrivato per la prima volta a Lowood, e da allora non ne ero mai più uscito. Tutte le mie vacanze erano trascorse a scuola: la signora Reed non mi aveva mai mandato a Gateshead; né lei né nessun membro della sua famiglia era mai venuto a trovarmi. Non avevo alcun contatto epistolare con il mondo esterno. Regole scolastiche, compiti, abitudini, opinioni, voci, volti, frasi, costumi, preferenze. Questo era tutto ciò che conoscevo dell’esistenza. E ora sentivo che non fosse sufficiente. Mi stancavo della routine di otto anni in un solo pomeriggio. Desideravo la libertà. Per la libertà ansimavo. Per la libertà pronunciavo una preghiera. Ma sembrava che venisse portata via dal vento, svanendo nel nulla. Abbandonai quella preghiera e formulai una supplica più umile. Per il cambiamento, per lo stimolo. Anche quella richiesta sembrò essere trascinata via nello spazio vuoto, “Allora,” gridai, quasi disperato, “concedetemi almeno un’altra ‘schiavitù’, ”
 
 
 
@@ -25594,6 +26406,55 @@ she was already snoring before I had finished undressing. There still
 remained an inch of candle: I now took out my letter; the seal was an
 initial F.; I broke it; the contents were brief.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Qui c'è una campanella che, suonando l'ora di cena, mi chiamò al piano di sotto.
+
+Non fui libero di riprendere la catena interrotta dei miei pensieri fino all’ora di andare a letto; anche allora, un’insegnante che condivideva la stessa stanza con me mi impedì di tornare sull’argomento a cui desideravo dedicarmi, intrattenendomi per molto tempo con chiacchiere banali. Quanto avrei voluto che il [[Sleep|sonno]] la facesse tacere. Sembrava che, se solo fossi riuscito a tornare all’idea che mi era venuta in mente mentre stavo davanti alla [[Window|finestra]], qualcosa di creativo sarebbe emerso per aiutarmi.
+
+Finalmente, la signorina Gryce cominciò a russare; era una donna gallese robusta, e fino ad allora i suoi soliti rumori nasali non erano mai stati visti da me in modo diverso da quello di un fastidio. Di notte, accolsi con soddisfazione i primi suoni profondi del suo russare: ero finalmente libero da interruzioni, e i miei pensieri, fino ad allora vaghi e confusi, ripresero immediatamente vita.
+
+“Una nuova schiavitù. C’è qualcosa di vero in questo,” mormorai tra me e me  
+(mentalmente, si intenda; non parlavo ad alta voce). “So che c’è qualcosa di vero, perché queste parole  
+non suonano affatto dolci. Non sono come ‘Libertà’, ‘Emozione’, ‘Piacere’: suoni davvero piacevoli.
+Ma per me non significano nulla di concreto; sono solo vuote parole, effimere, e ascoltarle è soltanto uno spreco di [[Time|tempo]]. Ma la schiavitù. Quella sì che deve essere qualcosa di reale. Chiunque può servire. Io ho servito qui per otto anni; ora voglio solo servire altrove. Non posso forse avere un po’ più di libertà? Non è possibile? Sì, il risultato non è così difficile da raggiungere. Se solo avessi un cervello abbastanza attivo da trovare i mezzi per farlo, ”
+
+Mi sedetti sul letto nel tentativo di stimolare quel cervello. Era una fredda [[Night|notte]]; mi coprii le spalle con uno scialle e poi proseguii a pensare con tutte le mie forze.
+
+“Cosa voglio? Un nuovo posto, in una nuova [[house|>casa]], tra nuove persone, in nuove circostanze. Voglio questo perché non ha senso desiderare qualcosa di meglio. Come fanno le persone ad ottenere un nuovo posto? Probabilmente chiedono aiuto agli amici. Ma io non ho amici. Ci sono molte altre persone che non hanno amici e che devono cavarsela da sole, essere i propri aiutanti. E qual è il loro mezzo per farlo?”
+
+Non riuscivo a capire nulla: niente mi rispondeva; allora ordinai al mio cervello di trovare una risposta, e subito. Funzionò, ma ancora più velocemente: sentii i battiti del cuore pulsare nella mia testa e nelle tempie; però, per quasi un’ora, tutto avvenne nel caos, e nessun risultato emerse dai suoi sforzi. Folle di uno sforzo vano, mi alzai e camminai un po’ per la stanza; scostai le tende, notai una o due stelle, rabbrividii dal freddo, e poi tornai a letto.
+
+Una gentile fata, durante la mia assenza, doveva sicuramente aver lasciato il suggerimento necessario sul mio cuscino; perché non appena mi sdraiai, mi venne in mente in modo tranquillo e naturale: “Chi desidera ottenere certe situazioni deve pubblicizzare; devi quindi fare pubblicità sul __shire Herald_.”
+
+"#Come? Non so nulla sull’ pubblicità."
+
+Le risposte ora sono fluide e immediate:—
+
+“Dovete inserire l’annuncio e i soldi necessari per pagarlo all’interno di una busta indirizzata al redattore del _Herald_; dovete spedirla il prima possibile da Lowton; le risposte devono essere inviate a J.E. presso l’ufficio postale locale; potete andare a controllare, circa una settimana dopo aver inviato la lettera, se ci sono state risposte, e agire di conseguenza.”
+
+Ho esaminato questo piano due, tre volte; poi l’ho assimilato completamente nella mia mente; ne avevo una versione chiara e pratica: mi sono sentito soddisfatto e sono andato a dormire.
+
+Fin dal primo giorno del nuovo anno, mi alzai presto: scrissi il mio annuncio, lo allegai e lo inviai prima che suonasse la campanella per svegliare tutti a scuola; diceva così:
+
+“Una giovane signora abituata a ricevere lezioni private” (se non fossi stata insegnante da due anni, ) “desidera trovare un ambiente all’interno di una famiglia privata in cui i bambini abbiano meno di quattordici anni” (pensai che, essendo appena diciottenne, non fosse appropriato assumersi l’incarico di guidare studenti della mia stessa età). “È qualificata per insegnare le materie fondamentali di una buona educazione inglese, oltre al francese, al disegno e alla musica” (a quei tempi, caro lettore, questa lista di competenze, pur essendo limitata, sarebbe stata considerata abbastanza completa). “Indirizzo: J.E., Ufficio Postale, Lowton, ——contea.”
+
+Questo documento è rimasto chiuso nel mio cassetto per tutto il giorno: dopo il tè, chiesi il permesso al nuovo sovrintendente di recarmi a Lowton per svolgere alcune piccole commissioni per me e per uno o due dei miei colleghi insegnanti; il permesso mi fu concesso senza problemi. Era una distanza di due miglia, e la sera era umida, ma i giorni erano ancora lunghi; visitai un paio di negozi, infilai la lettera nell’ufficio postale e tornai a casa sotto una pioggia battente, con i vestiti bagnati fradici, ma con il cuore sollevato.
+
+La settimana successiva sembrò interminabile; tuttavia, come tutte le cose legate al mondo terreno, anche quella finì. Un giorno, verso la fine di una piacevole giornata d’[[Autumn|autunno]], mi ritrovai di nuovo in viaggio verso [[Road|Lowton]]. Era un sentiero pittoresco: correva lungo il bordo del ruscello e attraversava le dolci curve della valle; ma quel giorno, pensavo più alle lettere che forse mi aspettavano nella piccola città verso cui ero diretto, che ai piaceri offerti dalla natura.
+
+Il mio pretesto ufficiale in questa occasione era quello di farmi prendere le misure per un paio di scarpe; quindi ho sbrigato prima quella faccenda. Una volta fatto, sono attraversato la piccola strada pulita e tranquilla, passando dal negozio del calzolaio all’ufficio postale: era gestito da una vecchia signora che indossava occhiali a montatura di corno sul naso e guanti neri sulle mani.
+
+“Ci sono lettere per J.E.?”, chiesi.
+
+Mi guardò attraverso gli occhiali, poi aprì un cassetto e frugò tra i suoi contenuti per un lungo [[Time|tempo]], così a lungo che le mie speranze iniziarono ad affievolirsi. Alla fine, dopo aver tenuto quel documento davanti agli occhiali per quasi cinque minuti, me lo porse attraverso il bancone, accompagnando l’atto con un altro sguardo curioso e diffidente. Era per J.E.
+
+“Ce n’è solo uno?” chiesi.
+
+“Non ne sono più,” disse lei; così la misi in tasca e mi diressi verso casa: non potevo aprirla in quel momento; le regole imponevano che tornassi entro le otto, e ormai erano già le sette e mezza.
+
+Al mio arrivo mi aspettavano varie incombenze: dovevo stare con le ragazze durante l’ora di studio, poi toccava a me leggere le preghiere e accompagnarle a letto; dopo cenavo con gli altri insegnanti. Anche quando finalmente ci ritiravamo per la [[Night|notte]], inevitabilmente Miss Gryce era ancora con me: nella nostra candela rimaneva solo un breve pezzo di stoppino, e temevo che continuasse a parlare fino a quando non si fosse completamente consumato; fortunatamente, però, la cena abbondante che aveva mangiato le provocava sonnolenza: già russava prima che finissi di spogliarmi. Nella candela era ancora rimasto un centimetro di stoppino; presi allora la mia lettera: il sigillo recava l’iniziale “F”; la aprii e i contenuti erano brevi.
 
 
 
@@ -26088,6 +26949,55 @@ overwhelm, no stateliness to embarrass; and then, as I entered, the old
 lady got up and promptly and kindly came forward to meet me.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XI
+
+
+Un nuovo capitolo in un [[Novel|racconto]] è qualcosa di simile a una nuova scena in un dramma; e quando questa volta solleverò il “velo” che nasconde i dettagli della storia, lettore, dovrai immaginare di vedere una stanza all’George Inn di Millcote: pareti rivestite con carta da parati decorata, tappeti eleganti, mobili raffinati, ornamenti sul camino, stampe d’epoca, tra cui un ritratto di Giorgio III e uno del Principe di Galles, nonché una rappresentazione della [[Death|morte]] di Wolfe. Tutto ciò è visibile alla luce di una lampada a olio appesa al soffitto e a quella di un ottimo [[Fire|focolare]]; io mi siedo lì, avvolto nel mio mantello e con il cappello in testa; il mio guanto e l’ombrello sono sul tavolo, e sto scaldandomi dal freddo accumulato dopo sedici ore trascorse all’aperto, nel gelido clima di ottobre. Sono partito da Lowton alle quattro del mattino; ora, all’orologio di Millcote, sono appena le otto.
+
+Lettore, anche se sembro essere alloggiato in modo confortevole, in realtà non sono affatto tranquillo nel mio cuore. Pensavo che quando la carrozza si fosse fermata qui, qualcuno sarebbe venuto a incontrarmi; mentre scendevo i gradini di legno preparati per comodità mia, guardavo intorno con ansia, aspettandomi di sentire il mio nome pronunciato o di vedere qualche carrozza pronta ad accompagnarmi a Thornfield. Ma non c’era nulla del genere; quando chiesi a un cameriere se qualcuno fosse venuto a cercare una certa Miss Eyre, ricevetti una risposta negativa. Così non mi restò altra scelta che chiedere di essere portato in una stanza privata. Ed eccomi qui, ad aspettare, mentre ogni sorta di dubbi e timori turbano i miei pensieri.
+
+È una sensazione molto strana per un giovane inesperto sentirsi completamente [[Alone|solo]] nel mondo, separato da ogni legame, incerto se possa raggiungere la meta verso cui si dirige e ostacolato da molte difficoltà nel tornare a ciò che ha lasciato. Il fascino dell’avventura rende quella sensazione più piacevole, il calore della [[Pride|orgoglio]] la riscalda; ma poi il battito del [[Fear|paura]] la disturba. E per me la paura divenne predominante quando, dopo mezz’ora, ero ancora [[Alone|solo]]. Pensai di suonare il campanello.
+
+“C’è un posto in questo quartiere chiamato Thornfield?”, chiesi al cameriere che era venuto ad aprire la porta.
+
+“Thornfield? Non lo so, signora; chiederò al bar.” Scomparve, ma ricomparve immediatamente.
+
+“Il suo nome è Eyre, signorina?”
+
+“Sì, davvero.”
+
+"#Una persona qui ti aspetta."
+
+Mi alzai di scatto, presi il mio cappello e l’ombrello, e mi affrettai verso il corridoio dell’ostello: un uomo stava in piedi vicino alla porta aperta, e nella strada illuminata dalla lampada vidi vagamente un veicolo a [[Horse|cavallo]].
+
+“Suppongo che questa sia la tua valigia, ” disse l’uomo in modo piuttosto brusco quando mi vide, indicando il mio baule nel corridoio.
+
+“Sì.” Lo caricò sul veicolo, che era una specie di auto, e poi salii a bordo; prima che chiudesse lo sportello, gli chiesi a quale distanza si trovasse Thornfield.
+
+“Una questione di sei miglia.”
+
+“Quanto tempo ci vorrà prima di arrivarci?”
+
+“Accade in un’ora e mezza.”
+
+Chiuse la portiera dell’auto, salì sul proprio sedile all’esterno e partimmo. Il nostro viaggio procedeva lentamente, dando a me tutto il [[Time|tempo]] necessario per riflettere; ero felice di essere finalmente così vicino alla fine della mia [[Journey|peregrinazione]]. Appoggiato allo schienale di quel mezzo di trasporto confortevole, sebbene non particolarmente elegante, riflettei a lungo con tranquillità.
+
+“Suppongo,” pensai, “a giudicare dall’aspetto semplice della serva e del modo in cui si comporta, la signora Fairfax non sia una persona molto elegante. Meglio così; non ho mai vissuto tra persone raffinate, se non una volta, e sono stata molto infelice con loro. Mi chiedo se viva da [[Alone|sola]], a parte questa ragazza. Se è così, e se è in qualche modo affabile, sicuramente riuscirò ad andare d’accordo con lei; farò del mio meglio. Peccato che fare del proprio meglio non sempre basti. A Lowood, infatti, presi quella decisione, la mantenni e riuscii a piacere alle persone. Ma con la signora Reed, ricordo che i miei sforzi venivano sempre respinti con disprezzo. Prego Dio che la signora Fairfax non diventi una seconda signora Reed. Ma se dovesse accadere, non sono obbligata a restare con lei! Nel peggiore dei casi, posso sempre cercarmi un’altra sistemazione. Chissà a che punto siamo ora sulla nostra [[Road|strada]], ”
+
+Aprii la [[Window|finestra]] e guardai fuori: Millcote si trovava dietro di noi; a giudicare dal numero delle sue luci, sembrava un luogo di notevoli dimensioni, molto più grande di Lowton. A quanto potevo vedere, ci trovavamo su una sorta di prato aperto; ma c'erano case sparse in tutta l’area; ebbi la sensazione che fossimo in una regione diversa da Lowood: più popolosa, meno pittoresca, più vivace, meno romantica.
+
+Le strade erano trafficate, la [[Night|notte]] nebbiosa; il mio cocchiere fece camminare lentamente il suo [[Horse|cavallo]] per tutto il tragitto, e quell’ora e mezza si prolungò, credo sinceramente, fino a due ore; alla fine si girò verso di me e disse.
+
+“Non sei ancora lontano da Thornfield…”
+
+Di nuovo guardai fuori: stavamo passando accanto a una chiesa; vidi la sua torre bassa e larga contro il cielo, e la sua campana suonava ogni quarto d’ora; notai anche una stretta sequenza di luci su un versante della collina, che indicavano la presenza di un villaggio o di una piccola località. Circa dieci minuti dopo, il conducente scese dall’auto e aprì due cancelli: li attraversammo, e questi si richiusero alle nostre spalle. Iniziammo quindi a salire lentamente su un vialetto, fino ad arrivare davanti all’ingresso di una [[house|>casa]]: la luce delle candele brillava da una finestra coperta da tende; tutte le altre erano buie. L’auto si fermò davanti alla porta d’ingresso; fu aperta da una domestica; scesi e entrai.
+
+“Preferisce camminare da questa parte, signora?” disse la ragazza; e io la seguii attraverso un vasto salone con porte alte su tutti i lati. Mi condusse in una stanza la cui doppia illuminazione, data dal fuoco e dalle candele, all’inizio mi abbagliò, in contrasto con l’oscurità a cui i miei occhi erano abituati da due ore; tuttavia, quando riuscii a vedere chiaramente, mi si presentò davanti agli occhi un ambiente accogliente e piacevole.
+
+Una piccola stanza accogliente; un tavolo rotondo vicino a un allegro [[Fire|focolare]]; una poltrona alta e dall’aspetto antico, sulla quale sedeva la più ordinata e gentile signora anziana che si potesse immaginare: con il cappello da vedova, un abito di seta nera e un grembiule di mussola bianca come la neve. Esattamente come avevo immaginato la signora Fairfax, solo meno maestosa e dall’aspetto più dolce. Era impegnata a fare il punto; un grosso gatto sedeva tranquillamente ai suoi piedi. Insomma, non mancava nulla per completare l’ideale di comfort domestico. Non si poteva concepire un’introduzione più rassicurante per una nuova governante: nessuna grandezza che potesse intimidire, nessuna maestosità che potesse mettere a disagio. E poi, quando entrai, la vecchia signora si alzò e venne subito ad accogliermi con gentilezza.
+
 
 
 <span class="atom-split" data-atom="chapter_11--part_02" data-title="Jane Eyre — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/child,motif/autumn,motif/fire,motif/journey,motif/night,motif/rose,motif/sleep,motif/snow,motif/spring,motif/summer,motif/time,motif/well,motif/window,motif/winter,concept/fear,concept/melancholy,concept/solitude,character/jane_eyre,character/nurse"></span>
@@ -26370,6 +27280,36 @@ the contrary, I felt better pleased than ever. The equality between her
 and me was real; not the mere result of condescension on her part: so
 much the better—my position was all the freer.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+A me quella stanza sembrava un luogo così luminoso e accogliente: il sole filtrava attraverso le allegre tende blu della [[Window|finestra]], illuminando pareti rivestite di carta da parati e un pavimento coperto di tappeti. Era così diversa dalle nude assi di legno e dal gesso macchiato di Lowood, che il mio spirito ne fu immediatamente rinvigorito. Gli ambienti esterni hanno un grande effetto sui giovani: pensai che per me stesse iniziando un’epoca più bella della vita, un’epoca che avrebbe avuto le sue [[Flowers|fioriture]] e i suoi piaceri, così come le sue difficoltà e fatiche. Le mie facoltà, risvegliate dal cambiamento di ambiente e dalla nuova prospettiva offerta dall’ambiente circostante, sembravano tutte pronte a funzionare al meglio. Non riesco a definire con precisione ciò che aspettavo, ma era qualcosa di piacevole: forse non in quel giorno o in quel mese, ma in un futuro indefinito.
+
+Le [[Rose|rose]]; mi vestii con cura: ero costretta ad essere semplice, poiché non possedevo alcun indumento che non fosse realizzato con estrema semplicità; tuttavia, per natura, ero sempre attenta a mantenere un aspetto pulito e ordinato. Non era mia abitudine trascurare il mio aspetto o non curarmi dell’impressione che facevo sugli altri: al contrario, desideravo sempre apparire il più possibile attraente, nella misura in cui la mancanza di [[Beauty|bellezza]] me lo permetteva. A volte mi rammaricavo di non essere più attraente; altre volte avrei voluto avere guance rosee, un naso dritto e labbra sottili come ciliegie; desideravo essere alta, maestosa e ben proporzionata. Sentivo che fosse una sfortuna essere così piccola, pallida, con tratti del viso così irregolari. E perché avevo queste aspirazioni e questi rimpianti? Sarebbe difficile dirlo. All’epoca non riuscivo a spiegarlo chiaramente nemmeno a me stessa; tuttavia, c’era una ragione, una ragione logica e naturale. Comunque, quando mi sistemavo i capelli in modo ordinato e indossavo il mio abito nero – che, sebbene fosse tipico di un Quaker, almeno aveva il vantaggio di essere perfettamente adatto al mio corpo – e sistemavo la mia camicia bianca pulita, pensavo di poter apparire abbastanza dignitosa davanti alla signora Fairfax. E che la mia nuova allieva non si sarebbe sicuramente allontanata da me con avversione. Dopo aver aperto la finestra della mia stanza e constatato che tutto era in ordine sul comodino, decisi di uscire.
+
+Attraversando la lunga e intricata galleria, scesi i gradini scivolosi di quercia; poi raggiunsi il salone: mi fermai lì per un momento, osservai alcune tele appese alle pareti (una raffigurava un uomo cupo in armatura, un’altra una signora con i capelli truccati e un collare di perle), una lampada di bronzo appesa al soffitto, un grande [[Clock|orologio]] il cui corpo era realizzato in quercia intagliata con cura e nero come l’ebano, con le indicazioni dell’ora incise sopra. Tutto mi sembrava molto maestoso e imponente. Ma in quel momento ero ancora troppo poco abituato a tali grandezze. La porta del salone,per metà a vetri, era aperta; attraversai la soglia. Era una bella mattina d’[[Autumn|autunno]]: il sole nascente illuminava serenamente i boschi ingialliti e i campi ancora verdi. Avanzando verso il prato, alzai lo sguardo per osservare l’edificio principale della tenuta. Era alto tre piani, di dimensioni non enormi ma comunque considerevoli: una residenza da gentiluomo, non un palazzo nobiliare; le merlature intorno al tetto gli conferivano un aspetto pittoresco. Il suo fronte grigio spiccava chiaramente sullo sfondo di un gruppo di uccelli che ora volavano sopra il prato e i terreni circostanti, per poi posarsi in un grande campo separato da una recinzione bassa; lì crescevano numerosi vecchi alberi spinosi, robusti e maestosi come querce. Il nome della tenuta derivava proprio da loro. Più lontano si intravedevano delle colline: non così alte come quelle intorno a Lowood, né così scoscese o impenetrabili; comunque tranquille e solitarie, sembravano avvolgere Thornfield in un’atmosfera di isolamento che non mi aspettavo di trovare così vicino alla vivace località di Millcote. Una piccola [[Hamlet|villaggio]] le cui case si mescolavano con gli alberi si estendeva lungo il fianco di una di queste colline; la chiesa del distretto si trovava più vicina a Thornfield: la sua vecchia torre si ergeva sopra un piccolo rilievo, tra l’edificio principale e le porte d’ingresso.
+
+Stavo ancora godendo della tranquilla atmosfera e dell’aria fresca e piacevole, ascoltando con piacere il gracchiare dei corvi, ammirando l’ampio e imponente ingresso del salone e pensando a quanto fosse un posto ideale per una signora sola come la signora Fairfax, quando quella signora apparve alla porta.
+
+“Che cosa! Sei già uscito?” disse lei. “Vedo che sei una persona mattiniera, ” Mi avvicinai a lei e fui accolto con un bacio cordiale e una stretta di mano.
+
+“Come ti piace Thornfield?” mi chiese. Le dissi che mi piaceva molto.
+
+“Sì,” disse lei, “è un posto molto bello; ma temo che possa andare in disordine, a meno che il signor Rochester non decida di venire ad abitare qui stabilmente, o almeno di visitarlo più spesso: grandi case e bei terreni richiedono infatti la presenza del loro proprietario.”
+
+“Signor Rochester!”, esclamai. “Chi è?”
+
+“Il proprietario di Thornfield,” rispose lei in silenzio. “Non sapevi che si chiamava Rochester?”
+
+Certo che non lo conoscevo: non avevo mai sentito parlare di lui prima; ma la vecchia signora sembrava considerare la sua esistenza un fatto universalmente noto, di cui tutti dovessero essere a conoscenza per istinto.
+
+“Pensavo,” continuai, “che Thornfield appartenesse a te.”
+
+“A me? Benedetto te, [[Child|bambino]]; che idea! A me. Io sono solo la cameriera domestica, la responsabile della casa. Certo, per parte di madre ho un legame lontano con i Rochester; almeno mio marito lo aveva: era un prete, parroco di Hay, quel piccolo villaggio lì sulla  collina. E quella chiesa vicino alle porte apparteneva a lui. La madre dell’attuale signor Rochester era una Fairfax e cugina di secondo grado di mio marito; ma non mi permetto mai di approfittare di questo legame. In realtà, per me non significa nulla; mi considero semplicemente una cameriera domestica come tante altre. Il mio datore di lavoro è sempre gentile con me, e non mi aspetto nient’altro.”
+
+“E la bambina piccola… mia allieva!”
+
+“Lei è la pupilla del signor Rochester; mi ha incaricato di trovarle una governante. Intendeva farla crescere nel ——shire, credo. Ecco che arriva, con la sua ‘bonne’, come lei chiama la sua [[Nurse|nutrice]].” Il mistero fu così spiegato: questa affabile e gentile vedova non era affatto una signora di rango; ma una persona in condizioni simili alle mie. Non per questo mi dispiacque di più; anzi, fui ancora più soddisfatta di prima. L’uguaglianza tra noi era reale, non il semplice risultato della sua indulgenza. E questo era ancora meglio: la mia posizione diventava così molto più libera.
 
 
 
@@ -26822,6 +27762,55 @@ hall, exclaiming—
 We found dinner ready, and waiting for us in Mrs. Fairfax’s room.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“I servitori dormono in queste stanze?” chiesi.
+
+“No; occupano una serie di appartamenti più piccoli sul retro; nessuno dorme mai qui: si potrebbe quasi dire che, se ci fosse un [[Ghost|fantasma]] a Thornfield Hall, questo sarebbe il suo rifugio.”
+
+“Allora penso che, non abbiate alcun [[Ghost|fantasma]], giusto?”
+
+“Nessuna di quelle di cui abbia mai sentito parlare,” rispose la signora Fairfax sorridendo.
+
+“Nessuna tradizione legata a qualcuno in particolare? Nessune leggende o storie di [[Ghost|fantasmi]]?”
+
+“Non credo. Eppure si dice che i Rochester siano stati una razza piuttosto violenta che pacifica nei loro [[Time|tempi]]: forse proprio per questo ora riposano in pace nelle loro tombe.”
+
+“Sì, ‘Dopo la febbre intermittente della vita, dormono in pace’,” mormorai. “Dove sta andando ora, signora Fairfax?” perché si stava allontanando.
+
+“Andiamo ora a vedere il panorama da lì. Vieni con me?” Continuai a seguire le indicazioni, salendo una scala molto stretta fino agli attici; da lì, attraverso una scala e una botola, raggiunsi il tetto del salone. Ora mi trovavo allo stesso livello della colonia di corvi e potevo vedere all’interno dei loro nidi. Appoggiandomi alle merlature e guardando in basso, osservai i terreni disposti come su una mappa: il prato luminoso e vellutato che circondava la base grigia della residenza; il campo, ampio quanto un parco, punteggiato da alberi antichi; il bosco, di colore bruno-grigiastro, delimitato da un sentiero ormai invaso dalla vegetazione, più verde di foglie che degli stessi alberi; la chiesa alle porte, la [[Road|strada]], le colline tranquille. Tutto riposava sotto il sole dell’autunno; l’orizzonte era delimitato da un cielo sereno e azzurro, maculato di bianco perla. Nessun dettaglio della scena era eccezionale, ma tutto insieme risultava piacevole da osservare. Quando mi voltai per tornare giù attraverso la botola, riuscivo a malapena a vedere la strada per scendere; l’attico sembrava buio come una cripta, rispetto a quell’arco di cielo blu verso cui avevo guardato in alto. E rispetto a quella scena illuminata dal sole, con il bosco, i prati e le verdi colline. Il salone era al centro di tutto questo, e io avevo fissato quel panorama con gioia.
+
+La signora Fairfax rimase indietro per un momento ad assicurare la botola; io, tastando intorno, trovai l’uscita dal sottotetto e iniziai a scendere la stretta scala del solaio. Mi soffermai nel lungo corridoio che ne derivava, quello che separava le stanze anteriori da quelle posteriori al terzo piano: stretto, basso e buio, con soltanto una piccola [[Window|finestra]] all’estremità; vista così, con le sue due file di piccole porte nere tutte chiuse, sembrava un corridoio in qualche [[Castle|castello]] di Barba Blu.
+
+Mentre camminavo silenziosamente avanti, l’ultimo suono che mi aspettassi di sentire in una regione così tranquilla fu una risata. Una risata strana: chiara, formale, ma priva di gioia. Mi fermai; il suono cessò, per un attimo solo, poi ricominciò, più forte. All’inizio era molto basso, ma poi divenne un fragore assordante che sembrava risvegliare echi in ogni stanza desolata. Anche se proveniva da una sola stanza, e avrei potuto indicare esattamente la porta da cui provenivano quei suoni.
+
+“Signora Fairfax!” gridai, perché in quel momento la sentii scendere le grandi scale. “Avete sentito quella risata forte? Chi è?”
+
+“Alcuni dei servitori, molto probabilmente”, rispose lei: “forse Grace Poole”.
+
+“L’hai sentito?” chiesi di nuovo.
+
+“Sì, chiaramente: la sento spesso; cucisce in una di queste stanze. A volte c’è Leah con lei; spesso fanno rumore insieme.”
+
+Quel riso si ripeté con il suo tono basso e sillabico, per poi concludersi in un mormorio strano.
+
+“Grace!” esclamò la signora Fairfax.
+
+Non mi aspettavo affatto che qualcuno rispondesse; perché quella risata era tanto tragica e soprannaturale quanto qualsiasi altra avessi mai sentito; e se non fosse stato per l’ora tarda del [[Noon|mezzogiorno]] e per il fatto che nessun aspetto legato ai fantasmi accompagnasse quel curioso scoppiettio di risate, né la scena né la stagione avrebbero potuto suscitare in me paura. Altrimenti, avrei sicuramente provato un timore superstizioso. Tuttavia, quell’evento mi dimostrò quanto fossi stato uno [[Fool|idiota]] ad aver provato anche solo sorpresa.
+
+La porta più vicina a me si aprì e ne uscì una serva: una donna tra i trenta e i quaranta anni, di corporatura snella e regolare, con i capelli rossi e un viso duro e semplice; difficilmente si potrebbe immaginare un'immagine meno romantica o meno spettrale.
+
+“Troppo rumore, Grace,” disse la signora Fairfax. “Ricorda le istruzioni!”  
+Grace fece un inchino silenzioso e entrò.
+
+“È una persona che dobbiamo aiutare e assistere Leah nel suo lavoro di domestica,” continuò la vedova; “non del tutto inadeguata in alcuni aspetti, ma se la cava abbastanza bene. A proposito, come è andata stamattina con la tua nuova allieva?”
+
+La conversazione, quindi incentrata su Adèle, continuò fino a quando non raggiungemmo quella zona luminosa e allegra sottostante. Adèle corse ad incontrarci nell’atrio, esclamando.
+
+“Signore, il suo pasto è pronto! E io… ho davvero molta fame!”
+
+Abbiamo trovato la cena pronta, ad aspettarci nella stanza della signora Fairfax.
+
 
 
 <span class="atom-split" data-atom="chapter_12--part_01" data-title="Jane Eyre — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/fire,motif/hill,motif/nature,motif/pain,motif/road,motif/rose,motif/silence,concept/doubt,concept/education,concept/imagination,concept/nature,concept/self,concept/solitude,concept/truth,character/jane_eyre,character/nurse"></span>
@@ -26926,6 +27915,25 @@ descriptive or narrative turn, and generally gave such vapid and
 confused answers as were calculated rather to check than encourage
 inquiry.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XII
+
+
+La promessa di una carriera senza intoppi, che la mia prima tranquilla conoscenza di Thornfield Hall sembrava garantire, non venne smentita con una conoscenza più approfondita del luogo e dei suoi abitanti. La signora Fairfax si rivelò essere ciò che appariva: una donna dal temperamento pacato e dal cuore gentile, con un’educazione adeguata e un’intelligenza media. La mia allieva era una bambina vivace, viziata e coccolata, quindi a volte capricciosa; ma poiché era interamente affidata alle mie cure e nessuna interferenza inopportuna ostacolava i miei piani per il suo miglioramento, presto dimenticò i suoi piccoli capricci e diventò obbediente e disposta ad imparare. Non possedeva grandi talenti, né tratti caratteristici particolari, né una sensibilità o un gusto che la distinguesse dal livello medio delle bambine della sua età; ma nemmeno aveva difetti o vizi che la facessero scendere al di sotto di quel livello. Faceva progressi discreti, nutriva per me un affetto vivace, sebbene forse non molto profondo, e con la sua semplicità, la sua allegria e i suoi sforzi per compiacermi, ispirava in me un sentimento sufficiente a renderci entrambi soddisfatti della nostra compagnia reciproca.
+
+Questo, _a titolo di parentesi_, sarà considerato un linguaggio “elegante” da coloro che sostengono dottrine solenni sulla [[Nature|natura angelica]] dei bambini, e ritenono che coloro incaricati della loro [[Education|educazione]] debbano suscitare in loro un atteggiamento di devozione idolatra; ma non scrivo per lusingare l’egoismo genitoriale, né per ripetere luoghi comuni o sostenere sciocchezze; dico semplicemente la [[Truth|verità]]. Provavo una sincera preoccupazione per il benessere e lo sviluppo di Adèle, e un leggero affetto per la sua piccola [[Self|personalità]]; proprio come provavo gratitudine verso la signora Fairfax per la sua gentilezza, e apprezzavo la sua compagnia nella misura in cui lei mi rispettava con tranquillità, e il suo modo di pensare e il suo carattere erano moderati.
+
+Chiunque può biasimarmi, se vuole. Quando, di tanto in tanto, facevo una passeggiata da solo nei giardini; quando scendevo fino ai cancelli e guardavo attraverso di essi lungo la [[Road|strada]]; o quando, mentre Adèle giocava con la sua  tata e la signora Fairfax preparava le gelatine nel ripostiglio, salivo le tre scale, sollevavo il portellone del soffitto e, raggiunti i tetti, guardavo lontano, oltre i campi isolati e le  colline, lungo la linea sfocata dell’orizzonte. Allora desideravo disperatamente una capacità di visione che potesse superare quei limiti; una capacità che mi permettesse di raggiungere il mondo frenetico, le città, le regioni piene di vita di cui avevo sentito parlare ma mai visto nulla. Allora desideravo avere più esperienza pratica di quanta ne possedessi; desideravo interagire di più con la mia specie, conoscere meglio le varietà dei caratteri umani. Apprezzavo ciò che c’era di buono nella signora Fairfax e in Adèle, ma credevo nell’esistenza di altri tipi di bontà, ancora più vividi. E ciò in cui credevo, desideravo vederlo con i miei occhi.
+
+Chi mi biasima? Molti, senza alcun [[Doubt|dubbio]]; e sarò chiamato insoddisfatto. Non potevo farci nulla: l’irrequietezza era insita nella mia [[Nature|natura]]; a volte mi causava grande [[Pain|dolore]]. L’unica consolazione che avevo era camminare avanti e indietro nel corridoio del terzo piano, al sicuro nel [[Silence|silenzio]] e nella [[Solitude|solitudine]] di quel luogo, lasciando che la mia immaginazione si soffermasse su tutte quelle visioni splendide che affioravano nella mia mente. E certamente, erano molte e incantevoli. Lasciavo anche che il mio cuore fosse sollevato da quei sentimenti esultanti che, sebbene mi causassero sofferenza, allo stesso tempo lo riempivano di vita. E soprattutto, ascoltavo una storia senza fine: una storia creata dalla mia [[Imagination|immaginazione]] e raccontata continuamente, arricchita da tutti gli eventi, le emozioni e la passione che desideravo ma non avevo nella mia vita reale.
+
+È inutile dire che gli esseri umani dovrebbero accontentarsi della tranquillità: devono agire; e lo faranno se non riescono a trovarlo. Milioni di persone sono condannate a una sorte ancora più cupa della mia, e milioni si ribellano silenziosamente contro il proprio destino. Nessuno sa quante rivolte, oltre a quelle politiche, fermentino nelle masse umane. Si pensa generalmente che le donne siano molto calme, ma le donne provano esattamente ciò che provano gli uomini; hanno bisogno di esercitare le proprie facoltà e di un campo in cui impegnarsi, proprio come i loro fratelli. Soffrono di una repressione troppo rigida, di uno stagnamento assoluto, proprio come ne soffrirebbero gli uomini. È miope da parte di coloro che le considerano privilegiate dire loro che dovrebbero limitarsi a preparare budini, a fare calze, a suonare il pianoforte o ad abbellire borse. È insensato condannarle o deriderle se cercano di fare di più o di imparare di più di quanto la tradizione ritenga necessario per il loro sesso.
+
+Quando ero così [[Alone|solo]], spesso sentivo ridere Grace Poole: lo stesso suono, quel “ha! ha!” basso e lento che, la prima volta che lo udii, mi aveva emozionato profondamente. Sentivo anche i suoi mormori strani, ancora più enigmatici del suo riso. C'erano giorni in cui taceva completamente; altri invece in cui non riuscivo a spiegarmi i suoni che emetteva. A volte la vedevo: usciva dalla sua stanza con un bacino, un piatto o un vassoio in mano, andava in cucina e tornava subito dopo, portando di solito, una pentola di birra. La sua figura, austera e poco attraente, spegneva sempre la curiosità che i suoi comportamenti strani suscitavano in me. Provai più volte a intrattenerla in conversazione, ma sembrava davvero una persona molto riservata: le sue risposte monosillabiche mettevano fine a ogni tentativo del genere.
+
+Gli altri membri della famiglia, ovvero John e sua moglie, Leah la cameriera e Sophie, l’[[Nurse|infermiera]] francese, erano persone perbene; ma in nessun senso particolarmente notevoli. Con Sophie parlavo francese e a volte le ponevo domande sul suo paese d’origine; tuttavia lei non aveva la tendenza a descrivere o raccontare storie, e di solito rispondeva in modo vuoto e confuso, il che finiva per scoraggiare ulteriori domande.
 
 
 
@@ -27270,6 +28278,7 @@ osservò il mio abito, che, come al solito, era molto semplice: un mantello di l
 
 Avrei dovuto avere paura di toccare un [[Horse|cavallo]] quando ero [[Alone|solo]], ma quando mi fu chiesto di farlo, fui disposto ad obbedire. Posai il mio cappello sul palo e mi avvicinai al cavallo alto; cercai di afferrare le redini, ma era un animale molto vivace e non mi permetteva di avvicinarmi alla sua testa; provai più volte, invano: nel frattempo, avevo una paura terribile che calpestasse i miei piedi. Il viaggiatore aspettò per un po', poi alla fine rise.
 
+
 # Avevo una paura mortale delle sue zampette che calpestavano tutto ciò che incontravano
 
 “Capisco,” disse, “la montagna non potrà mai essere portata da Maometto, quindi tutto ciò che si può fare è aiutare Maometto ad andare verso la montagna; devo supplicarvi di venire qui.”
@@ -27388,6 +28397,38 @@ the news; adding that Mr. Carter the surgeon was come, and was now with
 Mr. Rochester: then she hurried out to give orders about tea, and I
 went upstairs to take off my things.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Presi il mio cappello e proseguii per la mia strada. L’incidente era accaduto e ormai era passato per me: non era certo un evento importante, né legato a alcun [[Romance|romanzo]] o interesse particolare; tuttavia aveva modificato, anche se solo per un breve istante, una parte monotona della mia vita. La mia aiuto era stata richiesta e accettata; l’avevo fornito. Ero felice di aver fatto qualcosa, anche se si trattava di un atto banale e effimero: comunque era stato un gesto concreto, mentre io ne avevo abbastanza di una vita totalmente passiva. Quel nuovo volto, inoltre, era come un nuovo dipinto aggiunto alla “galleria della memoria”; si differenziava da tutti gli altri volti che vi erano appesi: innanzitutto perché era maschile. E poi perché era scuro, forte e deciso. Lo avevo ancora davanti agli occhi quando entrai a Hay e infilai la lettera nell’ufficio postale; lo vidi mentre camminavo velocemente giù per la collina, fino a casa. Quando arrivai al cancello, mi fermai un attimo, guardandomi intorno e ascoltando. Pensavo che forse i zoccoli di un cavallo avrebbero risuonato di nuovo sul sentiero. O che un cavaliere avvolto in un mantello, insieme a un cane di razza Newfoundland simile a Gytrash, potessero riapparire. Ma vidi soltanto la siepe e un salice piegato, che si ergevano dritti sotto i raggi della luna. Sentii solo il debole soffio del vento che si muoveva tra gli alberi di Thornfield, a un miglio di distanza. E quando guardai nella direzione da cui proveniva quel suono, il mio sguardo incrociò una luce che si accendeva in una finestra. Quello mi fece rendere conto che ero in ritardo. E così accelerai il passo.
+
+Non mi piaceva rientrare a Thornfield. Superare la sua soglia significava tornare allo stallo; attraversare il silenzioso corridoio, salire le oscure scale, recarmi nella mia solitaria stanza. E poi incontrare la tranquilla signora Fairfax, trascorrere lunghe serate invernali con lei. Ma tutto ciò serviva solo a soffocare quella debole eccitazione che il mio viaggio aveva risvegliato in me; a rimettere nuovamente le mie facoltà sotto i invisibili ceppi di un’esistenza monotona e troppo tranquilla. Un’esistenza la cui stessa sicurezza e comodità ormai non riuscivo più ad apprezzare. Quanto sarebbe stato utile, in quel momento, trovarmi immerso nelle tempeste di una vita piena di difficoltà. E che l’esperienza dura e amara mi insegnasse a desiderare quella calma di cui ora mi lamentavo! Sì. Proprio quanto sarebbe utile, per un uomo stanco di stare seduto immobile in una “sedia troppo comoda”, fare una lunga passeggiata. E altrettanto naturale era il mio desiderio di muovermi, nelle mie circostanze, come lo sarebbe stato per lui.
+
+Rimasi indugiare alle porte; rimasi indugiare sul prato; camminai avanti e indietro sul marciapiede; le persiane della porta di vetro erano chiuse; non riuscivo a vedere all’interno; sia i miei occhi che lo spirito sembravano essere attratti da quella cupa [[house|casa]] – da quel vuoto grigio pieno di stanze prive di luce, così come mi appariva – verso quel cielo che si estendeva davanti a me: un mare blu privo di nuvole; la [[Moon|luna]] che lo saliva con passo solenne; il suo disco sembrava alzare lo sguardo lasciando le cime delle [[Hill|colline]] da cui era emersa, sempre più in basso sotto di sé, tendendo verso lo zenit. La notte, profonda e immensa nella sua profondità insondabile e distanza incommensurabile; e quelle tremolanti [[Stars|stelle]] che seguivano il suo percorso. Le loro luci facevano tremare il mio cuore, infuocavano le mie vene quando le osservavo. Piccole cose ci riportano sulla terra. L’[[Clock|orologio]] suonò nel corridoio; questo fu sufficiente. Mi allontanai dalla [[Moon|luna]] e dalle [[Stars|stelle]], aprii una porta laterale ed entrai.
+
+La sala non era buia, ma nemmeno completamente illuminata; solo la lampada di bronzo appesa in alto diffondeva una luce calda che avvolgeva sia lei che i primi gradini della scala di quercia. Quel bagliore rossastro proveniva dal grande salone da pranzo, la cui porta a due battenti era aperta; si intravedeva un fuoco accogliente nel camino, che rifletteva sulla mensola di marmo e sulle griglie di rame, illuminando in modo piacevole tende viola e mobili lucidi. Si scorgeva anche un gruppo di persone vicino al caminetto: appena l’avevo notato, e appena avevo percepito il suono allegro delle loro voci, la porta si chiuse.
+
+Mi affrettai verso la stanza della signora Fairfax; anche lì c’era un [[Fire|fuoco]], ma nessuna candela, e nemmeno la signora Fairfax. Al suo posto, seduto dritto sul tappeto e fissando con serietà le fiamme, vidi un grande cane dal pelo nero e bianco, proprio come il Gytrash di quel vicolo. Era così simile che mi avvicinai e dissi: “Pilot, ” L’animale si alzò, venne da me e mi annusò. Lo accarezzai e lui scodinzolò felice; ma sembrava davvero una creatura inquietante. E non riuscivo a capire da dove fosse arrivato. Suonai il campanello: volevo una candela, e anche spiegazioni su questo “visitatore”. Entrò Leah.
+
+# “Che tipo di cane è questo?”
+
+“È arrivato con il maestro.”
+
+“Con chi?”
+
+“È appena arrivato con il signor Rochester…”
+
+“Certamente! E la signora Fairfax è con lui?”
+
+“Sì, e anche la signorina Adèle; sono in sala da pranzo, e John è andato a chiamare un chirurgo; il padrone ha avuto un incidente: il suo [[Horse|cavallo]] è caduto e si è slogato la caviglia.”
+
+“Il [[Horse|cavallo]] è caduto in Hay Lane?”
+
+“Sì, sto scendendo dalla [[Hill|collina]]; si è scivolato su del ghiaccio.”
+
+“Ah! Portami una candela, per favore, Leah…”
+
+Leah lo portò con sé; entrò nella stanza, seguita dalla signora Fairfax, la quale ripeté la notizia aggiungendo che il dottor Carter era arrivato e si trovava ora con il signor Rochester. Poi lei uscì di fretta per dare ordini riguardo al tè, mentre io salii al piano di sopra per togliermi i vestiti.
 
 
 
@@ -27509,6 +28550,47 @@ freak of manner, gave me the advantage. Besides, the eccentricity of
 the proceeding was piquant: I felt interested to see how he would go
 on.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XIII
+
+
+Sembra che, su ordine del chirurgo, il signor Rochester si sia coricato presto quella [[Night|notte]]; non si è alzato nemmeno la mattina seguente. Quando finalmente è sceso, lo ha fatto per occuparsi di affari: il suo agente e alcuni dei suoi inquilini erano arrivati e aspettavano per parlare con lui.
+
+Adèle ed io dovemmo ora lasciare la biblioteca: sarebbe stata utilizzata quotidianamente come sala d’attesa per le persone che venivano a farci visita. In un appartamento al piano di sopra era stato acceso un [[Fire|fuoco]], e lì portai i nostri libri, preparandoli per la futura aula scolastica. Nel corso della mattina notai che Thornfield Hall era cambiata: non era più silenziosa come una chiesa; ogni ora o due risuonava il rumore di colpi alla porta o lo squillo della campanella; spesso qualcuno percorreva il corridoio, e nuove voci si udivano al piano di sotto; un flusso di vita proveniente dal mondo esterno stava invadendo quella casa. Ora aveva un “padrone”: per quanto mi riguarda, a me piaceva molto di più così.
+
+Quel giorno non era facile insegnare ad Adèle; non riusciva a concentrarsi: continuava a correre verso la porta e a guardare giù dalle balaustrate per vedere se riuscisse a intravedere il signor Rochester; poi inventava scuse per scendere al piano di sotto, probabilmente per andare in biblioteca, dove sapevo che non era desiderata. Quando mi arrabbiavo un po’ e le chiedevo di stare ferma, lei continuava a parlare incessantemente del suo “amato”, Monsieur Edouard Fairfax de Rochester – così lo chiamava (non avevo mai sentito prima i suoi nomi di battesimo) – e a immaginare quali regali le avesse portato. Poiché, la sera precedente, aveva accennato che, quando il suo bagaglio sarebbe arrivato da Millcote, all’interno ci sarebbe stata una scatolina di cui lei era molto curiosa.
+
+“E questo deve significare,” disse lei, “che lì dentro ci sarà un regalo per me, e forse anche per voi, signorina. Il signore ha parlato di voi: mi ha chiesto il nome della mia governante, e se non fosse una persona piccola, abbastanza magra e un po’ pallida. Ho detto di sì: perché è vero, non è vero, signorina?”
+
+Io e la mia allieva cenammo come al solito nel salotto della signora Fairfax; il pomeriggio era tempestoso e nevoso, quindi lo trascorremmo in aula. Al calare della notte permisi ad Adèle di mettere via i libri e di scendere al piano di sotto; infatti, dal relativo [[Silence|silenzio]] che regnava laggiù e dal fatto che nessuno suonava più alla porta, dedussi che il signor Rochester fosse finalmente libero. Rimasta [[Alone|da sola]], mi avvicinai alla [[Window|finestra]], ma non si vedeva nulla: il crepuscolo e i fiocchi di neve rendevano l’aria densa e nascondevano persino gli arbusti del giardino. Abbassai la tenda e tornai vicino al camino.
+
+Nelle braci ancora ardenti stavo cercando di ricreare l’immagine di un castello, simile a quella che ricordavo di aver visto del castello di Heidelberg sul Reno. Quando entrò la signora Fairfax, interruppe quel “mosaico di pensieri” che stavo cercando di comporre, e sparse anche alcune pesanti, sgradite idee che iniziavano a invadere la mia [[Solitude|solitudine]].
+
+“Il signor Rochester sarebbe felice se voi e la vostra allieva venisteste a prendere il tè con lui nel salotto stasera,” disse lei: “È stato così impegnato tutto il giorno che non è riuscito a chiedervi di incontrarci prima.”
+
+“Quando è l’ora del suo tè?” chiesi.
+
+“Oh, alle sei in punto. Lui abita in campagna e si alza presto. È meglio che tu cambi abito adesso; verrò con te ad aiutarti a sistemarlo. Ecco una candela.”
+
+#Devo cambiarmi il vestito?
+
+“Sì, è meglio così: mi vesto sempre in modo appropriato quando il signor Rochester è qui.”
+
+Questa cerimonia aggiuntiva sembrava piuttosto solenne; tuttavia, tornai nella mia stanza e, con l’aiuto della signora Fairfax, sostituii il mio abito di stoffa nera con uno di seta nera: era il migliore e l’unico che avevo, a parte uno di colore grigio chiaro che, secondo le mie idee riguardo all’abbigliamento a Lowood, ritenevo troppo elegante per essere indossato se non in occasioni molto speciali.
+
+“Vuoi un broccio,” disse la signora Fairfax. Avevo un piccolo ornamento di perla che la signorina Temple mi aveva dato come ricordo del nostro addio: me lo misi e poi scendemmo al piano di sotto. Non essendo abituata ad incontrare estranei, fu piuttosto imbarazzante dover apparire così formalmente convocata davanti al signor Rochester. Lasciai che la signora Fairfax mi precedesse nella sala da pranzo e rimasi nell’ombra di lei mentre attraversavamo quella stanza; poi, superato l’arco il cui tendone era ora abbassato, entrammo nella graziosa alcova situata oltre.
+
+Due candele di cera erano accese sul tavolo e altre due sul caminetto; avvolto nella luce e nel calore di un magnifico [[Fire|fuoco]], giaceva Pilot. Adèle era in ginocchio vicino a lui. Semisdraiato su un divano c'era il signor Rochester, con il piede sostenuto da un cuscino; fissava Adèle e il cane. Il [[Fire|fuoco]] illuminava completamente il suo viso. Riconobbi il mio viaggiatore: le sue folte sopracciglia nere, la fronte quadrata, resa ancora più evidente dall’ampia distribuzione dei suoi capelli neri. Riconobbi anche il suo naso deciso, che risaltava per carattere piuttosto che per bellezza; le sue narici larghe, che probabilmente indicavano una natura irascibile. La sua bocca, il mento e la mascella, sì, tutti e tre molto duri e severi. Il suo fisico, ora privo del mantello, appariva armonioso nella sua struttura quadrata; suppongo fosse un uomo robusto, con petto ampio e fianchi snelli, anche se né alto né aggraziato.
+
+Il signor Rochester doveva essersi accorto dell’arrivo della signora Fairfax e di me; ma sembrava che non avesse voglia di prestarci attenzione, perché non alzò mai lo sguardo mentre ci avvicinavamo.
+
+“Ecco la signorina Eyre, signore,” disse la signora Fairfax con il suo solito tono tranquillo. Lui si inchinò, senza distogliere lo sguardo dal gruppo formato dal cane e dal [[Child|bambino]].
+
+“Lasciate che la signorina Eyre si sieda,” disse lui; e c'era qualcosa nel suo inchino forzato e rigido, nel tono impaziente ma formale, che sembrava voler aggiungere: “Che diavolo mi importa se la signorina Eyre sia lì o no? In questo momento non ho alcuna intenzione di parlarle.”
+
+Mi sedetti senza alcun imbarazzo. Un comportamento estremamente educato probabilmente mi avrebbe confuso: non avrei saputo come replicare o ricambiare tanta cortesia con altrettanta grazia ed eleganza; ma un capriccio improvviso non mi impose alcun obbligo; al contrario, una tranquilla riservatezza, in mezzo a quel comportamento bizzarro, mi diede addirittura un vantaggio. Inoltre, l’eccentricità di quella situazione era piuttosto intrigante: ero curioso di vedere come sarebbe andata avanti.
 
 
 
@@ -27944,6 +29026,84 @@ presently.
 was to enjoy one of the keenest pleasures I have ever known.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“È stata davvero una scelta economicamente sbagliata,” osservò la signora Fairfax, che ora aveva di nuovo capito il senso del dialogo.
+
+“E quella era davvero la parte principale del suo atto offensivo?” chiese il signor Rochester.
+
+“Ci ha fatto morire di fame quando aveva l’unica responsabilità della gestione del dipartimento delle provviste, prima che venisse nominato il comitato; inoltre ci annoiava con lunghi discorsi una volta alla settimana, e con letture serali tratti dai libri da lui stesso scritti, su morti improvvisi e giudizi divini, il che ci faceva paura di andare a letto.”
+
+# A che età sei andata a Lowood?
+
+"Circa dieci."
+
+“E sei rimasto lì per otto anni… Quindi ora hai diciotto anni?”
+
+Ho acconsentito.
+
+“L’aritmetica, vedete, è utile; senza il suo aiuto, difficilmente sarei riuscito a indovinare la vostra età. È davvero difficile stabilire con precisione l’età di una persona quando i tratti del viso e le caratteristiche fisiche sono così diversi come nel vostro caso. E ora, cosa avete imparato a Lowood? Sapete suonare qualche strumento?”
+
+“Un po, davvero’.”
+
+“Certo: quella è la risposta convenzionale. Vai in biblioteca. Voglio dire, se ti va bene, (Scusami per questo tono autoritario; sono abituato a dire ‘Fai questo’, e poi viene fatto. Non posso cambiare le mie abitudini solo per un nuovo ospite.) Vai dunque in biblioteca, prendi una candela con te, lascia la porta aperta, siediti al pianoforte e suona una melodia.”
+
+Me ne andai, seguendo le sue istruzioni.
+
+“Basta!” esclamò dopo alcuni minuti. “Suoni _un po’_, vedo; come qualsiasi altra ragazza inglese; forse anche meglio di alcune, ma non _molto_ bene.”
+
+#Tornai indietro e chiusi il pianoforte. Il signor Rochester continuò…
+
+“Stamattina Adèle mi ha mostrato alcuni schizzi, dicendo che erano tuoi. Non so se siano stati interamente realizzati da te; probabilmente qualcuno ti ha aiutato, ”
+
+“Assolutamente no!” intervenni io.
+
+“Ah! Quello colpisce davvero la mia [[Pride|orgoglio]]. [[Well|Beh]], portami il tuo portfolio, se puoi garantire che i suoi contenuti siano originali; ma non dare una parola a meno di essere sicuro: so riconoscere le cose fatte con materiali diversi.”
+
+“Allora non dirò nulla, e sarà lei a giudicare da solo, signore.”
+
+Ho portato il portfolio dalla biblioteca.
+
+“Avvicinate il tavolo,” disse lui; così lo spostai vicino al suo divano. Adèle e la signora Fairfax si avvicinarono per vedere le foto.
+
+“Nessuna folla,” disse il signor Rochester: “prendete i disegni dalla mia mano non appena li avrò finiti; ma non avvicinate troppo i vostri volti al mio.”
+
+Esaminò attentamente ogni schizzo e dipinto. Ne mise da parte tre; gli altri, dopo averli osservati, li gettò via.
+
+“Portatele all’altro tavolo, signora Fairfax,” disse lui, “e esaminatele insieme ad Adèle; voi” (guardandomi) “riprendete il vostro posto e rispondete alle mie domande. Noto che quelle opere d’arte sono state realizzate da una sola mano: era quella la vostra?”
+
+“Sì, davvero.”
+
+“E quando hai trovato il [[Time|tempo]] per farle? Hanno richiesto molto [[Time|tempo]] e, alcune persone ne sono rimaste sorprese.”
+
+“Le ho fatte durante le ultime due vacanze trascorse a Lowood, quando non avevo altro da fare.”
+
+"Dove avete preso le vostre copie?"
+
+#"Fuori di testa."
+
+“Quella testa che ora vedo sulle tue spalle…”
+
+“Sì, signore.”
+
+# Ha altri mobili dello stesso tipo all’interno?
+
+“Credo che possa averlo. Spero proprio di sì, sarebbe meglio.”
+
+Dispiegò le foto davanti a sé e le esaminò di nuovo, una dopo l’altra.
+
+Mentre è così impegnato, vi dirò io, lettori, di cosa si tratta: innanzitutto devo precisare che non c’è nulla di meraviglioso in ciò che descrivo. Quegli oggetti, infatti, mi erano apparsi chiaramente nella mente; quando li vedevo con “occhio spirituale”, prima ancora di provare a dar loro forma con le mani, sembravano davvero impressionanti. Ma la mia mano non riusciva a tradurre in realtà quelle immagini mentali: in ogni caso, ciò che ne risultava era soltanto un ritratto pallido e imperfetto di ciò che avevo concepito.
+
+Queste immagini erano realizzate in tonalità acquose. La prima raffigurava nuvole basse e livide che si muovevano sopra un mare gonfio; l’intera distanza era avvolta nell’oscurità, così come il primo piano, o meglio, le onde più vicine, poiché non c’era terra in vista. Un barlume di luce metteva in risalto una masta semisommersa su cui sedeva un cormorano, grande e scuro, con ali macchiate di schiuma; il suo becco reggeva un braccialetto d’oro incastonato di gemme. Un braccialetto che avevo rappresentato con colori così brillanti quanto la mia palette potesse offrire, e con una lucentezza così netta quanto il mio pennello potesse conferire. Sotto l’uccello e la masta, un cadavere sommerso emergeva appena dall’acqua verde. Un braccio bianco era l’unica parte del corpo visibile chiaramente; probabilmente quel braccialetto era stato strappato via dalla corrente.
+
+La seconda immagine mostrava in primo piano soltanto la sommità scura di una [[Hill|collina]], con l’erba e alcune [[Leaves|foglie]] piegate come se mosse da una brezza. Oltre e sopra si estendeva un vasto cielo, di colore blu scuro come al crepuscolo; nel cielo si delineava la silhouette di una donna fino alla vita, raffigurata con tonalità simili a quelle del tramonto, morbide e delicate come potevo concepirle. La fronte pallida era incoronata da una stella; i tratti del viso sembravano emergere attraverso un velo di nebbia; gli occhi brillavano in modo scuro e selvaggio; i capelli si snodavano come ombre, simili a una nuvola priva di luce strappata da una [[Storm|tempesta]] o da forze elettriche. Sul collo si rifletteva un pallido bagliore, simile alla luce della luna; lo stesso tenue splendore illuminava anche le sottili nuvole da cui emergevano fiori di [[Rose|rosa]], rendendo ancora più suggestiva questa visione della [[Evening Star|Stella del Crepuscolo]].
+
+Il terzo dipinto raffigurava la cima di un iceberg che penetrava nel cielo innevato delle regioni polari: una schiera di aurore boreali sollevava le sue luci pallide, disposte in fila lungo l’orizzonte. In primo piano, una [[Rose|rosa]] sembrava indicare una testa, una testa colossale, inclinata verso l’iceberg e appoggiata ad esso. Due mani sottili, unite sotto la fronte, ne sostenevano il peso; davanti ai tratti del viso si intravedeva un velo di pelliccia nera. Una fronte completamente priva di colore, bianca come osso, e un occhio vuoto e fisso, privo di espressione se non di quella cupa desolazione. Questi erano gli unici elementi visibili. Sopra le tempie, tra i plissi di drappi neri, brillava un anello di fiamma bianca, incastonato di scintille di un colore più sinistro. Quel pallido semicerchio rappresentava “l’immagine di una corona regale”; ciò che essa incoronava, era qualcosa che non aveva forma alcuna.
+
+“Eri felice quando dipingevi queste immagini?”, chiese subito il signor Rochester.
+
+“Ero assorbito, signore. Sì, ero felice. Dipingerli, in breve, significava godere di uno dei piaceri più intensi che abbia mai conosciuto.”
+
 
 
 <span class="atom-split" data-atom="chapter_13--part_04" data-title="Jane Eyre — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/clock,motif/death,motif/hill,motif/nature,motif/night,motif/noon,motif/time,motif/well,motif/wind,concept/doubt,concept/nature,concept/self,concept/wonder,character/jane_eyre"></span>
@@ -28053,6 +29213,61 @@ averred they were a mystery to herself, and that what she knew was
 chiefly from conjecture. It was evident, indeed, that she wished me to
 drop the subject, which I did accordingly.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Questo non dice molto. Secondo le tue stesse parole, i tuoi piaceri sono stati pochi; ma oserei dire che tu abbia vissuto in una sorta di regno incantato, tipico di un [[artist|artista]], mentre mescolavi e combinavi queste strane tonalità. Ti sedevi davanti a esse per lunghi periodi ogni giorno?”
+
+“Non avevo nient’altro da fare, perché erano le vacanze; sono rimasto seduto accanto a loro dal mattino fino a [[Noon|mattina]], e poi da [[Noon|mattina]] fino a [[Night|-sera]]: la lunghezza delle giornate di piena estate ha favorito la mia voglia di dedicarmi a quel compito.”
+
+“E ti sei sentito soddisfatto del risultato dei tuoi ferventi sforzi?”
+
+“Niente affatto. Ero tormentato dal contrasto tra ciò che immaginavo e ciò che riuscivo a realizzare: in entrambi i casi, avevo concepito qualcosa di cui ero completamente incapace di rendere realtà.”
+
+“Non proprio: hai catturato l’[[Shadow|ombra]] dei tuoi pensieri; ma forse non più di tanto. Non possedevi abbastanza dell’abilità e della scienza dell’[[artist|artista]] per dar loro piena realtà. Eppure questi disegni, per una ragazza delle scuole medie, sono davvero particolari. Per quanto riguarda i pensieri, beh, sembrano proprio quelli di un elfo. Quegli occhi nella [[Evening Star|Stella della Sera]] devi averli visti in un [[A Dream|sogno]]. Come hai fatto a renderli così chiari, eppure del tutto privi di brillantezza? Il pianeta sopra di loro infatti attenua i loro raggi. E quale significato ha quella solennità nel loro sguardo? E chi ti ha insegnato a dipingere il [[Wind|vento]]? C’è una tempesta violenta in quel cielo. E anche sulla cima di questa [[Hill|collina]]. Dove hai visto Latmos? Perché quello è proprio Latmos. Lì! Metti via quei disegni!”
+
+Avevo appena legato i lacci della cartella quando, guardando l’orologio, disse improvvisamente:
+
+“Sono le nove in punto: cosa sta facendo, signorina Eyre, a lasciare che Adèle stia sveglia così a lungo? Portatela a letto.”
+
+Adèle andò a baciarlo prima di lasciare la stanza; lui sopportò quel gesto d'affetto,
+ma non sembrava apprezzarlo più di quanto avrebbe fatto Pilot, anzi, forse nemmeno altrettanto.
+
+“Vi auguro una buona [[Night|notte]],” disse lui, facendo un gesto con la mano verso la porta, a indicare che era stanco della nostra compagnia e voleva congedarci. La signora Fairfax ripose il suo lavoro a maglia; io presi il mio portfolio; gli facemmo un inchino, ricevemmo in cambio un freddo cenno del capo e così ci ritirammo.
+
+“Ha detto che il signor Rochester non era particolarmente strano, signora Fairfax,” osservai quando la raggiunsi nella sua stanza, dopo aver messo a letto Adèle.
+
+“Beh, è davvero lui?”
+
+“Credo di sì: è molto capriccioso e imprevedibile.”
+
+“Vero: nessun [[Doubt|>dubbio]] che possa apparire così a uno sconosciuto, ma io sono talmente abituato al suo modo di comportarsi da non pensarci nemmeno; inoltre, se ha delle particolari caratteristiche nel temperamento, bisogna prenderle in considerazione.”
+
+“Perché?”
+
+“In parte perché è proprio della sua [[Nature|natura]] – e nessuno di noi può cambiare la propria [[Nature|)natura]]; in parte perché ha pensieri dolorosi che lo tormentano senza sosta, senza lasciargli un attimo di pace, rendendo il suo spirito instabile.”
+
+“E tu che ne dici?”
+
+“Problemi familiari, per prima cosa.”
+
+“Ma non ha famiglia.”
+
+“Non adesso, ma lui ne ha avuti, o almeno dei parenti. Ha perso suo fratello maggiore alcuni anni fa.”
+
+“Suo fratello maggiore?”
+
+“Sì. Il attuale signor Rochester possiede questa proprietà da soli nove anni.”
+
+“Nove anni sono un periodo tollerabile. Era davvero così affezionato a suo fratello da non riuscire ancora a consolarsi della sua perdita?”
+
+“Perché no, forse no. Credo che ci siano stati alcuni malintesi tra di loro. Il signor Rowland Rochester non è stato del tutto giusto con il signor Edward; forse ha influenzato negativamente suo padre nei suoi confronti. Il vecchio signore amava i soldi e desiderava mantenere l’intera proprietà familiare intatta. Non voleva ridurre il patrimonio attraverso divisioni, ma allo stesso tempo voleva che anche il signor Edward avesse ricchezza sufficiente a mantenere il prestigio del nome della famiglia. Poco dopo che Edward raggiunse l’età adulta, furono intrapresi alcuni passi che non erano affatto equi e causarono molti problemi. Il vecchio signor Rochester e il signor Rowland si allearono per mettere Edward in una situazione che lui considerava dolorosa, al solo scopo di fargli fare fortuna. Non so mai con esattezza in cosa consistesse questa situazione, ma il modo in cui dovette sopportarla lo distrusse completamente. Non è molto tollerante: ha rotto i rapporti con la sua famiglia e da allora ha vissuto una vita instabile per molti anni. Non credo che sia mai rimasto a Thornfield per più di due settimane consecutive, da quando suo fratello morì senza lasciare un testamento che lo designasse come erede del patrimonio. E, in effetti, non c’è da meravigliarsi se evita quel luogo.”
+
+#Perché dovrebbe evitarlo?
+
+“Forse pensa che sia troppo cupo.”
+
+La risposta fu evasiva. Avrei voluto qualcosa di più chiaro; ma la signora Fairfax o non poteva, o non voleva fornirmi informazioni più precise sull’origine e sulla [[Nature|>natura]] delle difficoltà che il signor Rochester stava affrontando. Affermò che anche per lei quelle situazioni rappresentavano un mistero, e che ciò che sapeva derivasse principalmente da congetture. Era evidente, in ogni caso, che desiderava che io abbandonassi l’argomento, cosa che feci effettivamente.
 
 
 
@@ -28173,6 +29388,7 @@ at least, of that feeling.
 <span class="qlang-split" data-lang="it"></span>
 
 # CAPITOLO XIV
+
 
 Per diversi giorni successivi vidi poco il signor Rochester. Al mattino sembrava molto impegnato con gli affari, e nel pomeriggio arrivavano gentiluomini da Millcote o dai dintorni che a volte restavano a pranzo con lui. Quando la sua distorsione era abbastanza guarita da permettergli di fare esercizio a cavallo, usciva spesso; probabilmente per andare a rendere visita a queste persone, poiché di solito non tornava fino a tarda [[Night|notte]].
 
@@ -28979,6 +30195,33 @@ habergeon, hindrances which others count as iron and brass, I will
 esteem but straw and rotten wood.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XV
+
+
+In un'altra occasione, il signor Rochester spiegò il motivo. Fu un pomeriggio in cui ci incontrammo per caso nel giardino: mentre Adèle giocava con Pilot e la sua palla da tennis, lui mi chiese di camminare avanti e indietro lungo un lungo viale di faggi, sempre sotto i suoi occhi.
+
+Poi disse che lei era la figlia di una ballerina d’opera francese, Céline Varens, per la quale un tempo aveva provato ciò che definiva una “grande passione”. Céline aveva dichiarato di ricambiare quel sentimento con ancora maggiore ardore. Lui si considerava il suo idolo, nonostante fosse brutto; credeva, come diceva lui stesso, che lei preferisse la sua “statura atletica” all’eleganza di [[Apollo]] Belvidere.
+
+“Ebbene, signorina Eyre, fui così lusingato da questa preferenza della ‘sirena gallica’ per il suo ‘gnomo britannico’, che la sistemai in un hotel; le fornii un intero staff di servitori, una carrozza, seta cashmere, diamanti, pizzi. In breve, iniziai il processo di autodistruzione nel modo convenzionale, come fanno tutti gli altri sciocchi. A quanto pare, mancava a me l’originalità per tracciare un nuovo percorso verso la vergogna e la rovina; seguivo semplicemente le vecchie strade, con una stupidaggine metodica, senza deviare di un millimetro dal sentiero battuto. Ebbi, come meritavo, il destino di tutti gli altri sciocchi. Una sera, essendo arrivato inaspettatamente mentre Céline non mi aspettava, la trovai sola; ma era una notte calda e io ero stanco di passeggiare per Parigi, quindi mi sedetti nel suo boudoir, felice di respirare quell’aria resa “sacra” dalla sua presenza. No, esagero: in realtà non pensavo affatto che ci fosse nulla di sacro in lei; era piuttosto un profumo, un odore di muschio e ambra, più che un sentore di santità. Stavo appena cominciando a soffocare per via di tutti quei fiori in vaso e di quelle essenze profumate, quando mi venne l’idea di aprire la finestra e uscire sul balcone. C’era la luna, e anche la luce dei lampioni a gas; tutto era molto tranquillo e sereno. Il balcone era arredato con una sedia o due; mi sedetti e presi un sigaro. Ora ne prenderò uno, se volete scusarmi.”
+
+Seguì un momento di pausa, durante il quale si occupò di accendere e fumare un sigaro; dopo averlo portato alle labbra e aver emesso una nuvola di aroma di Habana nell’aria gelida e priva di luce, continuò a parlare.
+
+“Anche a me piacevano i cioccolatini in quei tempi, signorina Eyre. Amavo quelle gocce di cioccolato croccante, e fumavo alternativamente, osservando intanto le carrozze che si dirigevano lungo le strade alla moda verso l’opera vicina. In una elegante carrozza chiusa, trainata da bellissimi cavalli inglesi, chiaramente visibile nella brillante notte della città, riconobbi la ‘carrozza’ che avevo dato a Céline. Stava tornando a casa: naturalmente il mio cuore batteva impazientemente contro le ringhiere di ferro su cui mi appoggiavo. La carrozza si fermò, come previsto, davanti all’ingresso dell’hotel; lei scese. Anche se avvolta in un mantello – un’inutile ingombra, del resto, in una serata così calda di giugno – la riconobbi subito dal suo piedino che spuntava dall’orlo della gonna mentre saltava giù dalla carrozza. Incurvandomi sul balcone, stavo per sussurrare ‘Mon ange’, con un tono, naturalmente, udibile soltanto all’orecchio dell’amore, quando una figura le saltò dietro; anche lei avvolta in un mantello. Ma era un tacco a spillo che risuonava sul marciapiede. E una testa coperta da un cappello che ora passava sotto l’arco del portone d’ingresso dell’hotel.”
+
+“Non avete mai provato [[Jealousy|invidia]], vero, signorina Eyre? Certo che no: non c’è bisogno di chiedervelo; perché non avete mai conosciuto l’[[Love|amore]]. Entrambi questi sentimenti vi sono ancora sconosciuti: la vostra [[Soul|'anima]] dorme; lo shock che la risveglierà non è ancora arrivato. Pensate che tutta l’esistenza scorra in un flusso altrettanto tranquillo di quello in cui la vostra giovinezza è trascorsa finora. Fluttuando con gli occhi chiusi e le orecchie tappate, non vedete le rocce nascoste poco lontano nel letto del fiume, né sentite il rumore delle onde che si frangono contro di esse. Ma vi dico – e potete credermi – che un giorno arriverete in un tratto roccioso del corso d’acqua, dove tutto il flusso della vita si trasformerà in vortici, tumulto, schiuma e rumore. O verrete scagliati contro le rocce, ridotti in atomi, oppure sollevati da un’onda potente verso correnti più calme, proprio come me adesso.”
+
+“Mi piace questa giornata; mi piace quel cielo di acciaio; mi piace la severità e la quiete del mondo sotto questo [[Frost|ghiaccio]]. Mi piace Thornfield, la sua antichità, il suo isolamento, i suoi vecchi alberi di corvo e di rovo, la sua facciata grigia, e quelle file di finestre scure che riflettono quel cielo metallico. Eppure, per quanto tempo ho odiato anche solo il pensiero di esso, l’ho evitato come se fosse una grande casa maledetta. Come ancora lo odio, ”
+
+Strinse i denti e rimase in silenzio; rallentò il passo e batté la sua scarpa contro il terreno duro. Qualche pensiero odioso sembrava averlo afferrato e tenerlo prigioniero così strettamente da impedirgli di andare avanti.
+
+Stavamo salendo l’avenue quando si fermò così; il corridoio era davanti a noi. Alzando lo sguardo verso le sue merlature, lanciò su di esse uno sguardo tale che non l’avevo mai visto prima né dopo. [[Pain|Dolore]], vergogna, rabbia, impazienza, disgusto, disprezzo, sembravano per un momento combattere dentro quella grande pupilla che si dilatava sotto la sua sopracciglia nera. Era una lotta selvaggia; ma un altro sentimento [[Rose|emerse]] e trionfò: qualcosa di duro, cinico, determinato. Qualcosa che plasmò le sue emozioni e pietrificò il suo volto. E proseguì.
+
+“Nel momento in cui tacevo, signorina Eyre, stavo in realtà stabilendo un accordo con il mio destino. Lei stava lì, accanto a quel tronco di faggio, una strega, come quelle che apparvero a [[Macbeth]] sulle brughiere di Forres. ‘Le piace Thornfield?’ disse, alzando un dito; poi scrisse nell’aria un messaggio, composto da simboli strani e incomprensibili, che si estendeva lungo l’intera facciata della [[house|casa]], tra la fila superiore e quella inferiore delle finestre: ‘Piaccialo, se puoi. Piaccialo, se osi!’”
+
+“Mi piacerà,” dissi; “oserei dire che mi piacerà davvero”; e (aggiunse con tono malinconico) “manterrò la mia parola; supererò ogni ostacolo che si frapponga alla felicità, alla bontà, sì, alla bontà. Voglio diventare una persona migliore di quella che sono stato, di quella che sono ora; proprio come il leviatano di Giobbe spezzò la lancia, la freccia e la spada – ostacoli che altri considerano di ferro o di rame – anch’io considererò solo paglia e legno marcio degli ostacoli al mio cammino verso la felicità.”
+
 
 
 <span class="atom-split" data-atom="chapter_15--part_02" data-title="Jane Eyre — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/garden,motif/love,motif/secrets,motif/silence,motif/time,motif/well,motif/window,concept/doubt,concept/jealousy,setting/italy,setting/paris,character/jane_eyre"></span>
@@ -29083,6 +30326,28 @@ a lonely little [[Orphan|orphan]], who leans towards her as a friend?”
 “Oh, that is the light in which you view it! [[Well]], I must go in now;
 and you too: it darkens.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Adèle correva davanti a lui con la sua palla da badminton. “Lontano!” gridò severamente; “stai alla larga, [[Child|bambino]]; altrimenti finirai nei guai con Sophie!” Poi continuò il suo cammino in [[Silence|silenzio]]; io osai richiamarlo al punto da cui aveva improvvisamente deviato.
+
+“Ha lasciato il balcone, signore, quando è entrata la signorina Varens?” chiesi.
+
+Avrei quasi previsto un rifiuto per questa domanda, formulata in un momento poco opportuno. Ma al contrario: uscendo dal suo silenzio cupo e assorto, girò lo sguardo verso di me, e sembrò che l’oscurità sul suo volto si dissipasse. “Oh, avevo dimenticato Céline! Bene, riprendiamo. Quando vidi la mia ‘incantatrice’ entrare accompagnata da un cavaliere, mi parve di sentire un sibilo. La serpente verde della gelosia, emergendo dal balcone illuminato dalla luna, si insinuò nel mio gilet e in due minuti raggiunse il cuore. Strano!” esclamò, riprendendo improvvisamente il discorso. “Strano che abbia scelto proprio te come confidente di tutto questo, giovane signora. Ancora più strano che tu ascolti tranquillamente le mie storie, come se fosse la cosa più naturale del mondo per un uomo come me raccontare di donne del suo passato a una ragazza ingenua e inesperta come te. Ma questa ultima ‘stranezza’ spiega la prima: tu, con la tua serietà, premura e cautela, sei proprio la persona adatta ad ascoltare questi segreti. Inoltre, so bene di che tipo sia la mente che ho messo in contatto con la mia. So che non è una mente suscettibile di essere influenzata negativamente. È una mente particolare. Unica. Fortunatamente, non intendo farle del male. Ma anche se lo facessi, lei non ne risentirebbe. Più parliamo insieme, meglio è. Perché mentre io non posso danneggiarti, tu puoi rinfrescarmi, ” Dopo questa digressione, proseguì il suo discorso.
+
+“Rimasi sul balcone. ‘Verranno nel suo boudoir, senza alcun [[Doubt|dubbio]]’,’ pensai: ‘devo preparare un’imboscata.’ Così, infilando la mano attraverso la finestra aperta, tirai le tende, lasciando solo una fessura attraverso cui poter osservare; poi chiusi la finestra, tranne per una piccola apertura sufficiente affinché i ‘любовники’ potessero sussurrarsi i loro giuramenti. Poi tornai silenziosamente alla mia sedia; nel momento in cui mi risedetti, la coppia entrò. Guardai subito attraverso la fessura: la cameriera di Céline entrò, accese una lampada, la lasciò sul tavolo e se ne andò. Così i due furono chiaramente visibili a me: entrambi si tolsero i mantelli. Lì c’era ‘la Varens’, splendente in seta e gioielli, i miei regali, naturalmente. E c’era anche la sua compagna, in uniforme da ufficiale; la riconobbi subito: un giovane libertino, un visconte, uno stupido e malvagio ragazzo che a volte incontravo in società. Non l’avevo mai odiato, perché lo disprezzavo completamente. Nel riconoscerlo, il ‘dente velenoso’ dell’invidia si spezzò all’istante. Perché nel medesimo momento il mio [[Love|amore]] per Céline svanì del tutto. Una donna che poteva tradirmi per un simile rivale non meritava certo di essere difesa. Meritava solo disprezzo. Anzi, meno ancora di me, che ero stato suo ingannato.”
+
+“Iniziarono a parlare; la loro conversazione mi rilassò completamente: frivola, mercenaria, spietata e insensata. Più che infastidire l’ascoltatore, sembrava mirata a stancarlo. Una mia carta era sul tavolo; notandola, iniziarono a parlare di me. Nessuno dei due aveva né l’energia né l’intelligenza per attaccarmi seriamente, ma mi insultarono nel modo più volgare possibile. Soprattutto Céline, che si dilungò particolarmente sui miei presunti difetti, che definiva “deformità”. Di solito, lei era solita esprimere un’ammirazione appassionata per ciò che chiamava la mia ‘bellezza maschile’. Ma questo era completamente diverso da te: tu, al secondo incontro, mi hai detto chiaramente che non ti sembravo attraente. Il contrasto mi ha colpito molto in quel momento, ”
+
+Adèle arrivò di corsa ancora una volta.
+
+"#Il signore, John è appena stato a dire che il vostro agente ha chiamato e desidera vedervi."
+
+“Ah! in quel caso devo abbreviare. Aprire la [[Window|finestra]], entrar dentro. Liberare Céline dalla mia protezione, avvisarla di lasciare l’hotel, offrirle del denaro per le necessità immediate. Ignorare urla, isterie, preghiere, proteste. Prendere appuntamento con il visconte al Bois de Boulogne. La mattina seguente ebbi il piacere di incontrarlo; gli lasciai una pallottola in uno dei suoi poveri bracci, deboli come l’ala di un pulcino. Poi pensai di aver sistemato tutta la faccenda. Ma sfortunatamente, sei mesi prima i Varens mi avevano dato questa Adèle, che affermava essere mia figlia. Forse lo è davvero, anche se non vedo alcuna prova di tale paternità nel suo aspetto: Pilot assomiglia più a me che a lei. Alcuni anni dopo aver rotto i rapporti con la madre, lei abbandonò Adèle e fuggì in [[Italy|Italia]] con un musicista. Non riconoscevo alcun diritto naturale di Adèle su di me, e ora non lo riconosco ancora; ma poiché era completamente indigente, presi quella povera ragazza fuori dal fango e dalla miseria di [[Paris|Parigi]] e la portai qui, affinché crescesse in un ambiente pulito e sano. La signora Fairfax si occupò della sua educazione; ma ora che sai che è figlia illegittima di una cantante d’opera francese, forse cambierai idea riguardo al tuo ruolo e alla tua protetta. Forse un giorno verrai da me per dirmi che hai trovato un altro posto. Che mi chiederai di cercarti un’altra governante. Eh?”
+
+“No: Adèle non è responsabile né dei difetti di sua madre né dei tuoi: ho stima per lei; e ora che so che, in un certo senso, è orfana – abbandonata da sua madre e rinnegata da te, signore – mi attaccherò a lei ancora di più. Come potrei mai preferire la viziata cocca di una famiglia ricca, che odierà la sua governante come un fastidio, a una piccola [[Orphan|orfana]] solitaria, che cerca in lei un’amica?”
+
+“Ah, è così che tu la vedi! Bene, devo andare ora; e anche tu: sta facendo buio.”
 
 
 
@@ -29189,6 +30454,26 @@ Just then it seemed my chamber-door was touched; as if fingers had
 swept the panels in groping a way along the dark gallery outside. I
 said, “Who is there?” Nothing answered. I was chilled with [[Fear|fear]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma rimasi ancora qualche minuto con Adèle e Pilot: facemmo una gara insieme e giocammo a battitore e shuttlecock. Quando entrammo in casa, dopo averle tolto cappello e cappotto, la presi in grembo; la tenni lì per un’ora, lasciandola parlare liberamente: non la rimproverai nemmeno per quelle piccole libertà o sciocchezze a cui era propensa a indulgere quando veniva troppo osservata, e che rivelavano in lei una superficialità di carattere, probabilmente ereditata dalla madre, poco adatta a uno spirito inglese. Tuttavia aveva anche i suoi pregi; ero disposto ad apprezzare al massimo tutto ciò che era positivo in lei. Cercai sul suo viso qualche somiglianza con il signor Rochester, ma non ne trovai alcuna: nessun tratto, nessun’espressione che potesse indicare un legame tra loro. Fu un peccato. Se solo si fosse potuto dimostrare che assomigliava a lui, lui l’avrebbe stimata di più.
+
+Fu solo dopo essere ritirata nella mia stanza per la [[Night|notte]] che ripensai attentamente alla storia che il signor Rochester mi aveva raccontato. Come lui stesso aveva detto, probabilmente non c’era nulla di davvero straordinario nel contenuto della narrazione: l’attrazione di un ricco inglese per una ballerina francese e la sua tradizione nei suoi confronti erano situazioni abbastanza comuni nella società; tuttavia, c’era qualcosa di decisamente insolito nell’accesso di emozione che lo aveva improvvisamente colpito mentre descriveva la propria attuale soddisfazione e il piacere che provava nuovamente nel vecchio salone e nei suoi dintorni. Riflettei con curiosità su questo episodio, ma poiché per il momento non riuscivo a comprenderne il motivo, decisi di concentrarmi sul comportamento del mio padrone verso di me. La fiducia che aveva deciso di riporre in me sembrava un segno della stima che nutriva per la mia discrezione; la considerai e la accettai come tale. Da alcune settimane il suo atteggiamento nei miei confronti era più costante rispetto al principio: non mi ostacolava mai, non mostrava mai un comportamento freddo o distaccato; quando ci incontravamo inaspettatamente, sembrava sempre felice di vedermi; aveva sempre qualcosa da dirmi, a volte anche un sorriso. Quando lo invitavo formalmente a trovarmi, mi riceveva con cordialità, facendomi sentire che davvero riuscivo a divertirlo, e che quelle serate trascorse insieme erano apprezzate sia da lui che da me.
+
+Io, in effetti, parlavo relativamente poco, ma lo ascoltavo parlare con grande piacere. Era nella sua [[Nature|>natura]] essere comunicativo; gli piaceva offrire a una mente ignara del mondo uno sguardo su le sue scene e i suoi modi di funzionamento (non intendo certo i suoi aspetti corrotti o malvagi, ma quelli che acquistavano interesse proprio per la loro vasta portata o per la loro strana novità). E provavo un grande piacere nell’accogliere le nuove idee che mi proponeva, nell’immaginare i nuovi scenari che descriveva e nel seguirlo nei pensieri attraverso quelle nuove dimensioni del mondo che mi rivelava, senza mai essere spaventato o turbato da alcuna allusione offensiva.
+
+La natura disinvolta del suo comportamento mi liberò da una costrizione dolorosa: la sua franchezza amichevole, tanto corretta quanto cordiale nel modo in cui si rivolgeva a me, mi attirava verso di lui. A volte avevo l'impressione che fosse più un mio parente che un mio padrone; tuttavia, a volte mostrava anche un certo autoritarismo. Ma non mi dava fastidio: capivo che era il suo modo di essere. Diventai così felice e soddisfatta grazie a questa nuova dimensione aggiunta alla mia vita, che smisi del tutto di desiderare una famiglia: il mio destino, fino ad allora limitato, sembrò ampliarsi; i vuoti della mia esistenza furono colmati; la mia salute fisica migliorò notevolmente. Acquisii peso e forza.
+
+E ora il signor Rochester mi sembrava brutto? No, lettore: la gratitudine e molte altre emozioni piacevoli e cordiali rendevano il suo volto ciò che preferivo vedere; la sua presenza in una stanza era più rassicurante del brillante [[Fire|fuoco]]. Tuttavia non avevo dimenticato i suoi difetti. Anzi, non potevo farlo, perché lui stesso me li ricordava spesso. Era orgoglioso, sarcastico, crudele verso chiunque fosse inferiore a lui; nel mio segreto [[Soul|cuore]] sapevo che la sua grande gentilezza verso di me era compensata da una severità ingiusta verso molti altri. Era anche capriccioso. Spesso, quando mi chiamava per farmi leggere, lo trovavo seduto nella sua biblioteca [[Alone|da solo]], con la testa china sulle braccia incrociate; quando alzava lo sguardo, un’espressione cupa, quasi malvagia, offuscava i suoi tratti. Ma credevo che quella sua malinconia, quella durezza e quei vecchi difetti di [[morality|morale]] (dico “vecchi”, perché ora sembrava essersene liberato) avessero origine in qualche crudele [[Cross|sfortuna]]. Credetti che in lui ci fossero grandi potenzialità. Sebbene, al momento, queste qualità fossero un po’ rovinate e confuse. Non posso negare di aver pianto per la sua tristezza. Qualunque essa fosse. E avrei dato molto pur di alleviarla.
+
+Anche se avevo ormai spento la candela e mi ero coricato a letto, non riuscivo a [[Sleep|dormire]] pensando al suo sguardo quando si era fermato in quella strada, e a come il suo destino gli fosse apparso davanti agli occhi, sfidandolo ad essere felice a Thornfield.
+
+“Perché no?” mi chiesi. “Cosa lo allontana da questa [[house|casa]]? Se ne andrà di nuovo presto? La signora Fairfax ha detto che raramente soggiorna qui per più di quindici giorni alla volta; e ora è già rimasto otto settimane. Se dovesse andarsene, la situazione diventerebbe molto triste. Immaginate se dovesse assentarsi per la [[Spring|primavera]], la [[Summer|estate]] e l’[[Autumn|autunno]]: che noia sarebbero i giorni soleggiati e belli!”
+
+A malapena ricordo se avessi dormito o meno dopo queste riflessioni; comunque, mi svegliai completamente all’udire un mormorio vago, strano e cupo, che sembrava provenire proprio sopra di me. Avrei voluto tenere accesa la candela: la [[Night|notte]] era terribilmente buia; il mio umore era deprimente. Mi alzai a sedere sul letto, in ascolto. Il suono si era attenuato.
+
+Cercai di nuovo di [[Sleep|)dormire]]; ma il mio cuore batteva ansiosamente: la mia tranquillità interiore era distrutta. L’[[Clock|orologio]], lontano nel corridoio, batté le due. Proprio in quel momento sembrò che qualcuno toccasse la porta della mia stanza; come se delle dita stessero esplorando i pannelli al buio, lungo il corridoio esterno. Dissi: “Chi c’è?” Nessuna risposta. Ero invaso dal [[Fear|terrore]].
 
 
 
@@ -29348,6 +30633,7 @@ Ho corso davvero; ho portato la candela che era ancora nella galleria. Lui l’h
 “Cos'è stato? E chi l'ha fatto?” chiese.
 
 Gli raccontai brevemente ciò che era accaduto: quella strana risata che avevo sentito nella galleria; la scala che portava al terzo piano; il fumo, l’odore dell’[[Fire|fuoco]] che mi aveva condotto nella sua stanza; in quale stato avevo trovato le cose lì dentro, e come lo avevo inondato con tutta l’[[Water|acqua]] che ero riuscito a trovare.
+
 
 “Cos’è e chi l’ha fatto?”, chiese.
 
@@ -29641,6 +30927,55 @@ used discreetly.” And here she closed her harangue: a long one for her,
 and uttered with the demureness of a Quakeress.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XVI
+
+
+Desideravo e allo stesso tempo temevo di incontrare il signor Rochester il giorno successivo a questa insonne [[Night|notte]]: volevo sentire di nuovo la sua voce, ma avevo paura di incrociare il suo sguardo. All’inizio della mattina, per un attimo pensai che sarebbe arrivato; non era abituato ad entrare nell’aula scolastica, ma a volte vi faceva visita per qualche minuto. E avevo l’impressione che quel giorno sicuramente ci sarebbe stato.
+
+Ma la mattina trascorse come al solito: nulla interruppe il tranquillo svolgimento degli studi di Adèle; solo poco dopo colazione sentii del trambusto nei pressi della stanza del signor Rochester, la voce della signora Fairfax, quella di Leah e della cuoca – cioè di John’s wife – e persino i toni ruvidi di John stesso. Ci furono esclamazioni del tipo: “Che [[Mercy|misericordia]], il padrone non è bruciato a letto!” “È sempre pericoloso tenere una candela accesa di [[Night|notte]].” “Che fortuna che abbia avuto la presenza di spirito di pensare alla brocca d’acqua, ” “Mi [[Wonder|chiedo]] se abbia svegliato qualcuno, ” “Speriamo non prenda freddo dormendo sul divano della biblioteca, ” e così via.
+
+Dopo molte chiacchiere, si udì il rumore di pulizie e di sistemazioni; quando passai davanti alla stanza per scendere a cena, vidi attraverso la porta aperta che tutto era stato rimesso in perfetto ordine; solo il letto era privo delle tende. Leah stava in piedi vicino alla finestra, strofinando i vetri offuscati dal fumo. Stavo per rivolgerle la parola, poiché volevo sapere cosa fosse stato detto riguardo a quell’incidente; ma avvicinandomi, vidi un’altra persona nella stanza: una donna seduta su una sedia accanto al letto, che cuciva anelli da applicare alle nuove tende. Quella donna non era altri che Grace Poole.
+
+Era lì seduta, immobile e con un aspetto cupo, come al solito, nel suo abito di stoffa marrone, con il grembiule a quadri, il fazzoletto bianco e il cappello. Era completamente assorta nel suo lavoro; sembrava che tutte le sue pensieri fossero concentrati su quello. Sulla sua fronte corrugata e sulle sue fatte ordinarie non si notava alcun segno di pallore o disperazione che ci si sarebbe aspettati di vedere sul volto di una donna che aveva tentato di commettere omicidio, e la cui vittima designata l’aveva seguita la sera precedente fino al suo nascondiglio. E (come credevo) le aveva accusato del crimine che intendeva compiere. Ero sbalordita, confusa. Alzò lo sguardo mentre io continuavo a fissarla: nessun cambiamento nel colore del viso rivelava emozioni, sensi di colpa o paura di essere scoperta. Disse “Buongiorno, signorina”, con il suo solito tono freddo e laconico; poi prese un altro anello e dell’altra corda da cucire, e riprese a lavorare.
+
+“La metterò alla prova,” pensai: “una tale assoluta impenetrabilità va al di là della comprensione umana.”
+
+“Buongiorno, Grace,” dissi. “È successo qualcosa qui? Mi sembrava di aver sentito i domestici parlare tutti insieme poco fa.”
+
+“Solo il maestro stava leggendo a letto la scorsa [[Night|notte]]; si addormentò con la candela accesa, e le tende presero fuoco. Fortunatamente, si svegliò prima che i vestiti da letto o le assi del letto venissero distrutti, e riuscì a spegnere le fiamme utilizzando l’[[Water|acqua]] presente nella brocca.”
+
+“Una strana faccenda, ” dissi a bassa voce; poi, guardandola fisso negli occhi: “Il signor Rochester non ha svegliato nessuno? Nessuno lo ha sentito muoversi?”
+
+Rialzò di nuovo lo sguardo su di me, e questa [[Time|volta]] c'era un certo grado di consapevolezza nel suo sguardo. Sembrava esaminarmi con cautela; poi rispose.
+
+“I servitori dormono molto lontano da qui, signorina; quindi è improbabile che abbiano sentito qualcosa. La stanza della signora Fairfax e la vostra sono le più vicine a quella del padrone; ma la signora Fairfax ha detto di non aver sentito nulla. Quando le persone invecchiano, spesso dormono molto profondamente.” Fece una pausa, poi aggiunse, con un tono apparentemente indifferente, ma comunque significativo: “Ma voi siete giovane, signorina. E direi che abbiate il sonno leggero; forse avete sentito qualche rumore, ”
+
+“L’ho fatto,” dissi abbassando la voce, in modo che Leah, che ancora stava lucidando i vetri, non potesse sentirmi, “e all’inizio ho pensato fosse Pilot, ma Pilot non può ridere; e sono sicura di aver sentito una risata, una risata strana.”
+
+Prese un nuovo filo di seta, lo incerò con cura, infilò l’ago con mano ferma e poi osservò, con perfetta calma.
+
+“È molto improbabile che il maestro ridesse, penso, signorina. Quando si trovava in un pericolo del genere, deve essersi trattato di un sogno.”
+
+“Non stavo sognando,” dissi, con un certo calore, perché la sua sfacciata freddezza mi aveva infastidito. Di nuovo lei mi guardò, con lo stesso sguardo attento e consapevole.
+
+“Gli hai detto che hai sentito una risata?” chiese lei.
+
+Non ho avuto l’opportunità di parlare con lui stamattina.
+
+“Non ti è venuto in mente di aprire la porta e guardare fuori nella galleria?”, chiese ancora.
+
+Sembrava che mi stesse facendo domande insidiose, cercando di ottenere da me informazioni a mia insaputa. Mi venne in mente che, se avesse scoperto che sapevo o sospettavo della sua [[Guilt|colpevolezza]], avrebbe potuto giocarmi qualche brutto scherzo; quindi ritenni opportuno stare attento.
+
+“Al contrario,” dissi, “ho chiuso a chiave la mia porta.”
+
+“Allora non sei abituato a chiudere a chiave la porta ogni [[Night|notte]] prima di andare a letto, vero?”
+
+“Demonio! Vuole conoscere le mie abitudini, così da poter pianificare di conseguenza!” L’indignazione prevalse nuovamente sulla prudenza: risposi seccamente: “Finora ho spesso trascurato di chiudere a chiave la porta; non ritenevo fosse necessario. Non immaginavo che a Thornfield Hall ci fossero pericoli o fastidi da temere. Ma in futuro” (e sottolineai bene le parole) “farò attenzione a prendere tutte le precauzioni necessarie prima di coricarmi.”
+
+“Sarà saggio farlo,” fu la sua risposta: “questo quartiere è altrettanto tranquillo di qualsiasi altro conosca, e non ho mai sentito parlare di tentativi di rapina in questa casa, dato che si tratta di una dimora rispettabile; anche se, come è ben noto, nel mobiletto per le stoviglie ci sono oggetti del valore di centinaia di sterline. Inoltre, considerando la grandezza di questa casa, ci sono pochissimi domestici: il padrone non vi abita spesso, e quando viene, essendo scapolo, ha bisogno di poche cure. Ma io penso sempre che sia meglio essere troppo prudenti. Una porta si chiude facilmente, e avere una sbarra di sicurezza è senz’altro la cosa migliore per proteggersi da eventuali pericoli. Molte persone preferiscono affidarsi interamente alla [[Providence|Provvidenza]], ma io credo che anche la Provvidenza non possa prescindere dai mezzi necessari per garantire la sicurezza. Anche se spesso benedice tali misure quando vengono utilizzate con discrezione.” E così concluse il suo discorso: un lungo discorso, pronunciato con la dignità tipica di una quacchera.
+
 
 
 <span class="atom-split" data-atom="chapter_16--part_02" data-title="Jane Eyre — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/clock,motif/desire,motif/nature,motif/night,motif/rose,motif/well,motif/window,concept/fear,concept/nature,concept/self,concept/truth,character/jane_eyre"></span>
@@ -29765,6 +31100,48 @@ teapot while I knit off this needle?” Having completed her task, she
 suppose, of making the most of daylight, though dusk was now fast
 deepening into total obscurity.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ero ancora completamente sbalordito di fronte a quella che mi sembrava la sua miracolosa capacità di controllare se stessa e alla sua ipocrisia profondamente incomprensibile, quando entrò la cuoca.
+
+“Signora Poole,” disse, rivolgendosi a Grace, “la cena per i domestici sarà pronta tra poco: verrà giù?”
+
+“No; basta mettere la mia pinta di birra e un po’ di budino su un vassoio, che li porterò di sopra.”
+
+“Avrai un po’ di carne?”
+
+“Solo un boccone, e un assaggio di [[cheese|formaggio]], nient'altro.”
+
+“E il sagò?”
+
+“Non importa per ora: scenderò prima dell’ora del tè e me ne occuperò personalmente.”
+
+Il cuoco qui si rivolse a me, dicendo che la signora Fairfax mi stava aspettando; quindi me ne andai.
+
+Durante la cena, quasi non ascoltai il racconto della signora Fairfax riguardo all’incendio scoppiato dietro le tende: ero troppo impegnato a cercare di comprendere il misterioso carattere di Grace Poole, e ancora di più a riflettere sulla sua posizione a Thornfield e sul perché non fosse stata messa in custodia quella mattina, o almeno allontanata dai servizi del suo padrone. L’ultima [[Night|notte]], aveva quasi dichiarato apertamente di credere alla sua colpevolezza: quale misteriosa ragione lo impediva di accusarla? Perché mi aveva anche ordinato di mantenere il segreto? Era strano. Un gentiluomo audace, vendicativo e arrogante sembrava essere in qualche modo sotto il controllo di una delle sue dipendenti più meschine; tanto sotto il suo controllo, che anche quando lei aveva cercato di ucciderlo, lui non osava accusarla apertamente, per non parlare di punirla.
+
+Se Grace fosse stata giovane e bella, avrei potuto pensare che sentimenti più teneri della prudenza o della [[Fear|>paura]] avessero influenzato il signor Rochester a suo favore; ma, nonostante fosse una donna di mezza età e dall’aspetto poco attraente, quell’idea era impossibile da accettare. “Eppure,” riflettei, “una volta è stata giovane; la sua giovinezza doveva coincidere con quella del suo padrone. La signora Fairfax mi ha detto che aveva vissuto qui per molti anni. Non credo che sia mai stata bella; ma forse possiede originalità e forza di carattere sufficienti a compensare la mancanza di attrattive fisiche. Il signor Rochester ama le persone decise ed eccentriche. E Grace, almeno, è eccentrica. Che ne sarebbe se un capriccio del passato – qualcosa di molto possibile in una natura così improvvisa e testarda come la sua – lo avesse messo sotto il suo controllo, e ora lei esercitasse su di lui un’influenza segreta, frutto della sua stessa imprudenza. Influenza da cui lui non può liberarsi e che non osa ignorare?” Ma arrivata a questo punto delle congetture, l’immagine quadrata, piatta e poco attraente del viso di Mrs. Poole mi tornò così chiaramente alla mente che pensai: “No. Impossibile! La mia ipotesi non può essere corretta. Eppure,” suggerì quella voce segreta che parla dentro di noi, “neanche tu sei bella. E forse il signor Rochester ti apprezza. Comunque, spesso hai avuto l’impressione che lo facesse. E ieri notte, ricorda le sue parole, il suo sguardo, la sua voce, ”
+
+Ricordavo tutto molto chiaramente; il linguaggio, lo sguardo e il tono sembravano essere stati vividamente rinnovati in quel momento. Ero di nuovo nella sala di classe; Adèle stava disegnando; mi chinai su di lei e guidai la sua penna. Alzò lo sguardo, sorpresa.
+
+“Che cosa c’è, signorina?” disse lei. “I vostri dita tremano come una foglia, e le vostre guance sono rosse, ma rosse come delle ciliegie!”
+
+“Mi sento in fiamme, Adèle, ”, continuò a disegnare; io continuavo a pensare.
+
+Mi affrettai a scacciare dalla mia mente quel pensiero odioso che avevo iniziato a concepire riguardo a Grace Poole; mi disgustava. Mi paragonai a lei e constatai che eravamo diverse. Bessie Leaven aveva detto che ero davvero una signora; ed era la [[Truth|verità]]: ero una signora. Ora sembravo molto meglio di quando Bessie mi aveva vista; avevo più colore sul viso, più rotondità, più vita, più vivacità, perché ora avevo speranze più luminose e godimenti più intensi.
+
+“Sta calando la sera,” dissi guardando verso la [[Window|finestra]]. “Oggi non ho mai sentito la voce né il passo del signor Rochester in questa [[house|casa]]; ma sicuramente lo vedrò prima di [[Night|notte]]: temevo quell’incontro al mattino; ora invece lo desidero, perché l’attesa è stata così a lungo delusa da diventare impaziente.”
+
+Quando finalmente calò il crepuscolo e Adèle mi lasciò andare a giocare nel giardino con Sophie, lo desideravo ardentemente. Ascoltavo attentamente se suonasse la campanella; aspettavo che Leah venisse a portarmi un messaggio; a volte mi sembrava di sentire i passi dello stesso signor Rochester e mi giravo verso la porta, aspettandomi che si aprisse per farlo entrare. Ma la porta rimaneva chiusa; l’oscurità penetrava soltanto dalla finestra. Tuttavia non era ancora tardi: spesso lui mi chiamava alle sette o alle otto di sera, e in quel momento erano appena le sei. Di certo non avrei dovuto rimanere delusa, quella notte avevo così tante cose da dirgli! Volevo nuovamente affrontare l’argomento di Grace Poole e sentire cosa avrebbe risposto; volevo chiedergli apertamente se credeva davvero che fosse stata lei a compiere quell’orribile tentativo la notte precedente, e, in tal caso, perché nascondesse il suo comportamento malvagio. Non importava affatto se la mia curiosità lo infastidisse; sapevo quanto mi piacesse tormentarlo e poi consolarlo a turno. Era uno dei piaceri che più mi deliziavano. Un istinto naturale mi impediva sempre di andare troppo oltre: non osavo mai superare il limite della provocazione; al contrario, mi divertivo molto a mettere alla prova le mie capacità in quel contesto. Mantenendo sempre ogni forma di rispetto e ogni decoro dovuto alla mia posizione sociale, potevo ancora discutere con lui senza paura né imbarazzi. E questo andava bene sia per lui che per me.
+
+Finalmente, i gradini scricchiolarono sotto un passo. Apparve Leah, ma solo per comunicare che il tè era pronto nella stanza della signora Fairfax. Mi diressi lì, felice almeno di poter scendere le scale; immaginavo che questo mi avvicinasse di più alla presenza del signor Rochester.
+
+“Devi sicuramente voler bere il tuo tè,” disse la gentile signora quando mi unii a lei; “hai mangiato così poco a cena. Temo,” continuò, “che oggi non ti senta bene: sembri arrossito e febbricitante.”
+
+“Oh, davvero molto bene! Non mi sono mai sentito meglio.”
+
+“Allora devi dimostrarlo mostrando un buon appetito; vuoi riempire la teiera mentre io finisco di lavorare a maglia?” Dopo aver completato il suo compito, si alzò per tirare giù le tende che aveva tenute sollevate fino ad allora, probabilmente per sfruttare al massimo la luce del giorno, anche se ormai il crepuscolo stava rapidamente trasformandosi in totale oscurità.
 
 
 
@@ -30147,6 +31524,7 @@ prisoner in his dungeon.
 
 # CAPITOLO XVII
 
+
 Trascorse una settimana, e nessuna notizia arrivò del signor Rochester; passarono dieci giorni, e ancora non si era fatto vedere. La signora Fairfax disse che non le sarebbe sorpresa se fosse partito direttamente da Leas per [[London|Londra]], da lì per il Continente, senza più farsi vedere a Thornfield per un anno intero; in passato aveva già lasciato la casa in modo altrettanto improvviso e inaspettato. Quando sentii queste parole, cominciai ad avvertire una strana sensazione di freddo e debolezza nel cuore. Mi stavo davvero permettendo di provare un senso nauseante di delusione; ma riunendo le mie forze e ricordando i miei principi, riuscii subito a riprendere il controllo delle mie emozioni. Fu meraviglioso come riuscissi a superare quell’errore temporaneo. Come smisi di considerare le azioni del signor Rochester come qualcosa che potesse interessarmi davvero in modo vitale. Non è che mi sottomettessi a un’idea servile di inferiorità. Al contrario, semplicemente.
 
 “Non hai alcun legame reale con il padrone di Thornfield, se non quello di ricevere lo stipendio che ti paga per insegnare alla sua protetta, e di essere grata per quel trattamento rispettoso e gentile che, se svolgi correttamente i tuoi doveri, hai tutto il diritto di aspettarti da lui. Sii certa che questo sia l’unico legame che egli riconosca seriamente tra voi due; quindi non farne oggetto dei tuoi sentimenti profondi, delle tue estasi o delle tue sofferenze. Lui non appartiene al tuo stesso ceto sociale: rimani fedele alla tua casta e sii abbastanza rispettosa di te stessa da non donare tutto il tuo cuore, la tua anima e le tue forze in qualcosa che non è desiderato e che anzi verrebbe disprezzato.”
@@ -30296,6 +31674,56 @@ mangé.”
 get you something to eat.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La cosa più strana di tutte era che nessuna [[Soul|'anima]] in quella [[house|>casa]], tranne me, si accorse delle sue abitudini o sembrò meravigliarsene: nessuno discuteva della sua situazione o del suo lavoro; nessuno provava compassione per la sua [[Solitude|solitudine]] o isolamento. Una volta, infatti, captai casualmente parte di un dialogo tra Leah e una delle cameriere, nel quale Grace era l’argomento di conversazione. Leah stava dicendo qualcosa che non avevo sentito chiaramente, e la cameriera commentò.
+
+“Immagino che guadagni un bello stipendio, no?”
+
+“Sì,” disse Leah; “vorrei che i miei fossero altrettanto buoni. Non che i miei debbano lamentarsi: a Thornfield non manca nulla; ma non equivalgono nemmeno a un quinto della somma che riceve la signora Poole. E lei mette da parte i soldi: ogni trimestre va in banca a Millcote. Non mi sorprenderebbe se avesse già risparmiato abbastanza per vivere indipendentemente, se volesse andarsene. Ma immagino che si sia abituata a questo posto; inoltre non ha ancora quarant’anni, è forte e in grado di fare qualsiasi cosa. È troppo presto per lei per smettere di lavorare.”
+
+“È davvero abile, oserei dire,” disse la donna che si occupava del bucato.
+
+“Ah! – Lei sa esattamente cosa deve fare, nessuno meglio di lei,” ribatté Leah con enfasi; “e non è che chiunque possa prendere il suo posto. Non per tutti i soldi che guadagna.”
+
+“Non è affatto così!” fu la risposta. “Mi chiedo se il maestro, ”
+
+La donna che faceva le pulizie stava continuando il suo lavoro; ma in quel momento Leah si girò e mi vide, e immediatamente diede una spinta alla sua compagna.
+
+“Non lo sa forse?” sentii sussurrare la donna.
+
+Leah scosse la testa e naturalmente la conversazione venne interrotta. Tutto ciò che riuscii a capire fu questo: c’era un mistero a Thornfield, e io venivo intenzionalmente escluso dalla possibilità di parteciparvi.
+
+Arrivò il [[thursday|giovedì]]: tutto il lavoro era stato completato la sera precedente; i tappeti erano stati stesi, le tende appese, le superfici bianche lucide e pulite, i comodini sistemati, i mobili lucidati, e i [[Flowers|>fiori]] disposti nei vasi: sia le stanze che i salotti sembravano freschi e luminosi al massimo. Anche il corridoio era stato pulito a fondo; l’imponente orologio intagliato, così come i gradini e le ringhiere della scala, erano stati lucidati fino a diventare brillanti come il vetro. Nella sala da pranzo, il buffet scintillava di stoviglie; nel salotto e nel boudoir, vasi pieni di fiori esotici adornavano ogni angolo.
+
+Arrivò il pomeriggio: la signora Fairfax indossò il suo miglior abito di seta nera, i guanti e l’orologio d’oro; spettava a lei ricevere gli ospiti, accompagnare le signore nelle loro stanze, ecc. Anche Adèle si sarebbe vestita, anche se pensavo che avesse poche possibilità di essere presentata al gruppo quel giorno, almeno. Tuttavia, per compiacerla, permisi a Sophie di vestirla con uno dei suoi abitini corti di mussola. Per quanto mi riguardava, non avevo bisogno di cambiarmi; nessuno avrebbe chiesto che lasciassi il mio “sanctum”, ormai diventato per me un rifugio davvero piacevole nei momenti difficili.
+
+Era stata una giornata di [[Spring|primavera]] mite e serena, uno di quei giorni che, verso la fine di marzo o l’inizio di aprile, sorgono luminosi sulla terra come preannunci dell’[[Summer|estate]]. Ora quella giornata stava volgendo al termine; ma la sera era ancora calda, e io lavoravo in aula con la [[Window|finestra]] aperta.
+
+“È tardi,” disse la signora Fairfax, entrando con un fruscio di vestiti. “Sono contenta di aver ordinato la cena un’ora dopo l’orario che il signor Rochester aveva menzionato; ormai sono passate le sei. Ho mandato John alle porte per vedere se c’è qualcosa in [[Road|strada]]: da lì si può vedere lontano, nella direzione di Millcote.” Andò alla [[Window|finestra]]. “Eccolo!” disse. “[[Well|Bene]], John” (sporgendosi), “ci sono novità?”
+
+“Stanno arrivando, signora”, fu la risposta. “Saranno qui tra dieci minuti.”
+
+Adèle si diresse verso la [[Window|finestra]]. La seguii, facendo attenzione a stare sul lato opposto, in modo che, nascosta dalla tenda, potessi vedere senza essere vista.
+
+I dieci minuti che John aveva concesso sembravano molto lunghi, ma finalmente si sentirono i rumori delle ruote; quattro cavalieri arrivarono al galoppo lungo il vialetto, seguiti da due carrozze aperte. Veli svolazzanti e piume che ondeggiavano riempivano le vetture; due dei cavalieri erano giovani gentiluomini dall’aspetto elegante; il terzo era il signor Rochester, sul suo nero [[Horse|cavallo]] Mesrour, con Pilot che correva davanti a lui; al suo fianco cavalcava una signora, e loro due erano i primi della comitiva. Il suo abito da cavallo viola quasi sfiorava il suolo, mentre il velo le sventolava lungo il vento; mescolandosi alle sue pieghe trasparenti e brillando attraverso di esse, si vedevano delle ricche ciocche di capelli neri.
+
+“Signorina Ingram!”, esclamò la signora Fairfax, poi si affrettò a tornare al suo posto laggiù sotto.
+
+La cavalcata, seguendo il percorso tracciato, girò rapidamente l’angolo della [[house|casa]] e io persi di vista i cavalieri. Adèle chiese allora di scendere; ma la presi in grembo e le spiegai chiaramente che non doveva assolutamente pensare di avvicinarsi alle signore, né ora né in qualsiasi altro [[Time|momento]], a meno che non venisse esplicitamente chiamata; in caso contrario, il signor Rochester si sarebbe molto arrabbiato. “Versò alcune lacrime naturali” dopo aver ricevuto queste istruzioni; ma vedendo che assumevo un’espressione molto [[Grave|seria]], alla fine acconsentì a asciugarle.
+
+Ora si udiva nella sala un movimento gioioso: i profondi toni dei gentiluomini e gli argentei accenti delle signore si mescolavano armoniosamente; in mezzo a tutti, sebbene non molto forte, si distingueva la voce sonora del padrone di Thornfield Hall, che dava il benvenuto ai suoi ospiti belli e valorosi sotto il suo tetto. Poi dei passi leggeri salirono le scale; si udì qualcuno muoversi nella galleria, risate dolci e allegre, porte che si aprivano e chiudevano. E per un momento, silenzio.
+
+“Stanno cambiandosi d’abito,” disse Adèle; che, ascoltando attentamente, aveva osservato ogni loro movimento; e sospirò.
+
+“A casa di mamma,” disse lei, “quando c'erano ospiti, li seguivo ovunque, nel salotto e nelle loro stanze; spesso guardavo le cameriere pettinare e vestire le signore, ed era così divertente. In questo modo si impara.”
+
+“Non hai fame, Adèle?”
+
+“Certo, signorina: sono già cinque o sei ore che non mangiamo nulla.”
+
+“Bene,” disse, “adesso che le signore sono nelle loro stanze, scenderò a prendervi qualcosa da mangiare.”
+
 
 
 <span class="atom-split" data-atom="chapter_17--part_03" data-title="Jane Eyre — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/hill,motif/night,motif/sleep,motif/time,motif/well,motif/window,concept/body,concept/doubt,character/jane_eyre"></span>
@@ -30413,6 +31841,41 @@ dinner-table; choose your seat in any quiet nook you like; you need not
 stay long after the gentlemen come in, unless you please: just let Mr.
 Rochester see you are there and then slip away—nobody will notice you.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Uscendo con cautela dal mio rifugio, cercai una scala di servizio che portasse direttamente in cucina. In tutta quella zona regnava il caos e il disordine; la zuppa e il pesce erano quasi pronti per essere serviti, mentre la cuoca si trovava vicino ai suoi pentoloni, in uno stato d’animo e con un corpo che sembravano potessero esplodere da un momento all’altro. Nella sala dei domestici, due cocchieri e tre valletti stavano in piedi o seduti intorno al fuoco; le cameriere, immagino, si trovassero di sopra con le loro padrone; i nuovi servitori assunti da Millcote correvano avanti e indietro dappertutto. In mezzo a questo caos, riuscii finalmente ad arrivare in dispensa; lì presi un pollo freddo, un rotolo di pane, alcune torte, uno o due piatti, nonché un coltello e una forchetta. Con questi cibi, mi affrettai a ritirarmi. Ero appena rientrata nella galleria e stavo per chiudere la porta sul retro quando un rumore crescente mi avvertì che le signore stavano per uscire dalle loro stanze. Non potevo passare davanti alle loro porte senza rischiare di essere scoperta con il mio carico di cibo; quindi rimasi ferma in quel punto, buio e privo di finestre, ormai completamente buio, poiché il sole era già tramontato e calava la sera.
+
+In quel momento, le stanze lasciarono andare i loro bellissimi inquilini uno dopo l’altro: ognuno uscì felice e leggero, con abiti che brillavano luminosamente nella penombra. Per un attimo rimasero raggruppati all’estremità opposta del corridoio, conversando con una dolce vivacità sommessa; poi scesero le scale quasi senza fare rumore, come una nebbia luminosa che discende da una  collina. La loro presenza collettiva mi lasciò l’impressione di un’eleganza nobile e raffinata, del genere che non avevo mai sperimentato prima.
+
+Vidi Adèle che sbirciava attraverso la porta dell’aula, tenendola leggermente aperta.  
+“Che belle signore!” esclamò in inglese. “Oh, vorrei tanto poter andare da loro! Pensi che il signor Rochester ci chiamerà presto, dopo cena?”
+
+“No, davvero, non lo faccio; il signor Rochester ha altre cose a cui pensare. Lasciate perdere le signore per questa [[Night|notte]]; forse le vedrete domani. Ecco la vostra cena.”
+
+Aveva davvero molta fame, quindi il pollo e le torte servirono a distrarla per un po’. È stato bene che abbia trovato questo cibo, altrimenti sia lei, che io, che Sophie – a cui ho condiviso una parte del nostro pasto – avremmo rischiato di non cenare affatto: tutti quelli al piano di sotto erano troppo impegnati per pensare a noi. Il dolce fu servito solo dopo le nove; e alle dieci i domestici continuavano ancora ad andare avanti e indietro con vassoi e tazze di caffè. Ho permesso ad Adèle di restare sveglia molto più a lungo del solito; perché ha detto che non sarebbe mai riuscita a addormentarsi con tutte quelle porte che si aprivano e si chiudevano sotto di lei, e con tutta quella gente che correva avanti e indietro. Inoltre, ha aggiunto che poteva arrivare un messaggio da parte del signor Rochester mentre si spogliava, “E allora che peccato!”
+
+Le raccontavo storie finché era disposta ad ascoltarle; poi, per cambiare, la portai nella galleria. La lampada del salone era accesa ormai, e le piaceva molto guardare oltre la balaustrata mentre i servitori andavano avanti e indietro. Quando la sera fu avanzata, un suono di musica provenne dal salotto, dove il pianoforte era stato spostato; Adèle ed io ci sedemmo sul gradino più alto delle scale per ascoltare. Dopo un po’, una voce si unì ai ricchi toni dello strumento: era una signora che cantava, e le sue note erano davvero dolci. Dopo il solo, seguì un duetto, poi un’aria di gioia; un allegro mormorio conversazionale riempì gli intervalli musicali. Ascoltai a lungo. All’improvviso mi resi conto che la mia attenzione era completamente concentrata nell’analizzare quei suoni mescolati, nel cercare di distinguere, tra il caos delle voci, quelle del signor Rochester; e quando le riconobbi – cosa che avvenne presto – mi misi anche alla ricerca dei modi per dare un senso a quelle note, rese incomprensibili dalla distanza.
+
+L’[[Clock|orologio]] suonò le undici. Guardai Adèle, la cui testa era appoggiata sulla mia spalla; i suoi occhi si stavano facendo sempre più pesanti, quindi la presi in braccio e la portai a letto. Erano quasi le due quando gli uomini e le donne andarono nelle loro stanze.
+
+Il giorno seguente fu altrettanto piacevole del precedente: il gruppo lo dedicò a un'escursione in una località vicina. Partirono presto nel pomeriggio, alcuni a cavallo, gli altri in carrozza; assistetti sia alla partenza che al ritorno. Come prima, la signorina Ingram fu l’unica donna a cavallo; e, come sempre, il signor Rochester cavalcò al suo fianco; i due procedevano leggermente separati dagli altri. Indicai questa circostanza alla signora Fairfax, che stava in piedi accanto a me alla [[Window|finestra]].
+
+“Hai detto che non era probabile che pensassero di sposarsi,” dissi, “ma vedi, il signor Rochester chiaramente la preferisce a tutte le altre signore.”
+
+“Sì, oserei dire che non c’è alcun [[Doubt|>dubbio]] che la apprezzi.”
+
+“E lei lui,” aggiunsi; “guarda come inclina la testa verso di lui, come se stessero conversando in segreto. Vorrei tanto vedere il suo viso; non l’ho mai visto nemmeno una volta.”
+
+“La vedrete stasera,” rispose la signora Fairfax. “Ho avuto l’occasione di dire al signor Rochester quanto Adèle desiderasse essere presentata alle signore, e lui ha detto: ‘Oh! Lasciate che venga nel salotto dopo cena; e chiedete alla signorina Eyre di accompagnarla.’”
+
+“Sì; ha detto così solo per gentilezza: non c’è bisogno che vada, ne sono sicura,” risposi.
+
+“Beh,” gli dissi, “poiché non eri abituato a frequentare compagnie, pensavo che non ti sarebbe piaciuto presentarti in mezzo a tanta gente sconosciuta; e lui rispose, con quel suo modo rapido: ‘Sciocchezze! Se lei si oppone, dille che è proprio mio desiderio; e se insiste, digli che verrò a prenderla se dovesse disobbedire.’”
+
+“Non voglio causargli tutti quei problemi,” risposi. “Andrò, anche se non c’è niente di meglio da fare; ma non mi piace l’idea. Sarà presente anche lei, signora Fairfax?”
+
+“No; ho trovato una scusa e lui l’ha accettata. Ti dirò come comportarti per evitare l’imbarazzo di un ingresso formale, che è la parte più sgradevole dell’intera faccenda. Devi entrare nel salotto quando è vuoto, prima che le signore lascino la tavola da pranzo; scegli il posto dove preferisci sederti, in un angolo tranquillo. Non c’è bisogno che resti a lungo dopo l’arrivo degli uomini, a meno che tu non lo desideri: basta che il signor Rochester ti veda lì e poi te ne vai in silenzio. Nessuno se ne accorgerà.”
 
 
 
@@ -30686,6 +32149,42 @@ hard to extirpate from my [[Soul|soul]] the germs of [[Love|love]] there detecte
 now, at the first renewed view of him, they spontaneously arrived,
 green and strong! He made me [[Love|love]] him without looking at me.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Blanche e Mary avevano la stessa statura: alte e dritte come pioppi. Mary era troppo snella per la sua altezza, ma Blanche aveva una figura perfetta, da dea. Naturalmente la osservavo con particolare interesse. Prima di tutto, volevo vedere se il suo aspetto corrispondesse alla descrizione fatta dalla signora Fairfax; in secondo luogo, se assomigliasse in qualche modo alla miniatura che avevo dipinto di lei; e terzo, beh, lo capirete!, se fosse il tipo di donna che ritenevo potesse piacere al signor Rochester.
+
+Per quanto riguarda l’aspetto fisico, rispondeva punto per punto sia alla mia descrizione che a quella della signora Fairfax: il busto nobile, le spalle inclinate, il collo aggraziato, gli occhi scuri e i riccioli neri, tutto c’era; ma il suo viso? Il suo viso assomigliava a quello di sua madre: una copia giovane e senza rughe; la stessa fronte bassa, le stesse caratteristiche facciali, lo stesso [[Pride|orgoglio]]. Tuttavia, quell’orgoglio non era così cupo. Rideva continuamente; il suo riso era satirico, così come l’espressione abituale delle sue labbra arcuate e altezzose.
+
+Si dice che il genio sia caratterizzato da una forte consapevolezza di sé. Non posso dire se la signorina Ingram fosse un genio, ma certamente era molto consapevole di sé, anzi, straordinariamente consapevole di sé. Iniziò a discutere di botanica con la gentile signora Dent. Sembra che la signora Dent non avesse studiato quella scienza; tuttavia, come lei stessa disse, le piacevano le [[Flowers|>fiori]], “soprattutto quelli selvatici”. La signorina Ingram invece ne conosceva bene il vocabolario e lo utilizzava in modo, be', un po’ sprezzante. Presto capii che stava prendendo in giro l’ignoranza della signora Dent; il suo comportamento poteva anche essere astuto, ma di certo non era gentile. Si divertiva a metterla in imbarazzo: lo faceva con grande abilità, e anche con piacere. Cantava bene, parlava francese fluentemente e con un ottimo accento.
+
+Mary aveva un viso più dolce e aperto di Blanche; lineamenti più morbidi, e una pelle leggermente più chiara (Miss Ingram era scura come una spagnola). Ma Mary mancava di vitalità: il suo volto era privo di espressione, i suoi occhi senza luce; non aveva nulla da dire, e una volta sedutasi, rimaneva immobile come una statua nella sua nicchia. Entrambe le sorelle erano vestite di bianco immacolato.
+
+E ora pensavo davvero che una signorina come la signorina Ingram fosse il tipo di scelta che il signor Rochester avrebbe probabilmente fatto? Non riuscivo a dirlo. Non conoscevo i suoi gusti in materia di bellezza femminile. Se gli piacevano le donne maestose, lei era proprio il tipo di maestosità: era colta, vivace. La maggior parte dei gentiluomini l’avrebbe ammirata, pensavo; e che lui _effettivamente_ la ammirasse, sembrava che avessi già ottenuto prove a sostegno di questa ipotesi. Per eliminare anche l’ultima traccia di [[Doubt|>dubbio]], non restava altro da fare che vederli insieme.
+
+Non dovete pensare, lettore, che Adèle abbia trascorso tutto questo [[Time|tempo]] seduta immobile sullo sgabello ai miei piedi: no; quando le signore entrarono, lei si [[Rose|alzò]], andò loro incontro, fece un inchino solenne e disse con gravità.
+
+“Buongiorno, signore.”
+
+E la signorina Ingram l’aveva guardata con aria derisoria, esclamando: “Oh, che piccola marionetta!”
+
+Lady Lynn aveva detto: “Dev’essere la pupilla del signor Rochester, quella piccola ragazza francese di cui parlava.”
+
+La signora Dent le aveva gentilmente preso la mano e le aveva dato un bacio. Amy e Louisa Eshton avevano esclamato contemporaneamente.
+
+“Che [[Love|bambino]] meraviglioso!”
+
+E poi l’hanno fatta sedere su un divano, dove ora si trovava, racchiusa tra di loro, chiacchierando alternativamente in francese e in inglese stentato; attirando non solo l’attenzione delle giovani signore, ma anche quella della signora Eshton e di Lady Lynn, e godendo appieno di tutte le coccole che riceveva.
+
+Finalmente arriva il caffè e i signori vengono chiamati. Io mi siedo all’ombra, se mai esista un po’ d’ombra in questo appartamento così luminosamente illuminato; la tenda della [[Window|finestra]] mi nasconde parzialmente. Di nuovo, l’arco si apre, arrivano. L’aspetto collettivo dei signori, come quello delle signore, è davvero imponente: sono tutti vestiti di nero; la maggior parte di loro è alta, alcuni giovani. Henry e Frederick Lynn sono davvero molto affascinanti; il colonnello Dent, invece, è un vero uomo d’armi. Il signor Eshton, il magistrato della zona, ha l’aspetto tipico di un gentiluomo: i suoi capelli sono completamente bianchi, le sopracciglia e la barba ancora scure, il che gli conferisce un certo aspetto da “padre nobile teatrale”. Lord Ingram, come sue sorelle, è molto alto; anche lui è bello, ma con lo stesso sguardo apatico e indifferente di Mary. Sembra avere più lunghezza di membra che vivacità nel sangue o vigore nell’intelligenza.
+
+E dove si trova il signor Rochester?
+
+Arriva per ultimo: non sto guardando l’arco, eppure lo vedo entrare. Cerco di concentrarmi su quelle aghi da maglia, sulle maglie della borsa che sto realizzando. Vorrei pensare solo al lavoro che ho tra le mani, vedere soltanto i perline d’argento e i fili di seta che ho davanti a me; invece, vedo chiaramente la sua figura, e inevitabilmente ricordo il momento in cui l’ho visto l’ultima volta. Appena dopo che gli avevo reso ciò che lui riteneva un servizio essenziale. Lui, tenendomi per mano e guardandomi in faccia, mi osservava con occhi pieni di emozioni intense. Ero così vicina a lui in quel momento. Cosa era successo da allora, per cambiare le nostre posizioni reciproche? Eppure ora, quanto siamo lontani, quanto estranei l’uno dall’altro. Così distanti, che non mi aspettavo affatto che venisse a parlarmi. Non mi sono meravigliata quando, senza guardarmi, si è seduto dall’altra parte della stanza e ha iniziato a conversare con alcune signore.
+
+Non appena vidi che la sua attenzione era completamente rivolta verso di loro e che potevo osservarli senza essere notata, i miei occhi furono involontariamente attratti dal suo viso; non riuscivo a controllare le palpebre: si sollevavano continuamente, e le iridi si fissavano su di lui. Guardavo, e provavo un piacere intenso nel farlo: un piacere prezioso, ma al tempo stesso straziante; come quello che potrebbe provare un uomo assetato che sa di essere vicino a una fonte avvelenata, ma che comunque si china a bere quell’acqua divina.
+
+È assolutamente vero che “la [[Beauty|bellezza]] sta negli occhi di chi guarda”. Il volto incolore e olivastro del mio maestro, la fronte quadrata e massiccia, le sopracciglia larghe e scure, gli occhi profondi, i tratti decisi, tutto ciò non era certo bello secondo i canoni tradizionali; ma per me era molto di più che bello: emanava un fascino, un’attrazione tale da dominarmi completamente, da sottrarre i miei sentimenti al mio controllo e assumerne il potere. Non avevo intenzione di [[Love|amarlo]]; il lettore sa quanto avessi cercato con tutte le mie forze di estirpare dalla mia [[Soul|anima]] quei germi d’[[Love|amore]] che vi erano nascosti. E ora, alla prima vista ravvicinata di lui, quei sentimenti sono riemersi spontaneamente, forti e vividi! Lui mi ha fatto [[Love|amarlo]] senza nemmeno guardarmi.
 
 
 
@@ -31056,6 +32555,107 @@ neglect it. Now go, and send Sophie for Adèle. Good-[[Night|night]], my—” H
 stopped, bit his lip, and abruptly left me.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Sì, senza dubbio lo faccio,” disse con tono strascicato Lord Ingram; “e quella povera vecchia sciocca gridava sempre: ‘Oh, voi malvagi!’. Poi le facevamo la predica sulle sue presunzioni nel tentare di insegnare a persone così intelligenti come noi, quando lei stessa era così ignorante.”
+
+“Sì; e, Tedo, sai, ti ho aiutato a perseguire quel tuo tutore, il pallido signor Vining, il parroco di quella chiesa, come lo chiamavamo noi. Lui e la signorina Wilson si sono presi la libertà di innamorarsi l’uno dell’altra, almeno così pensavamo io e Tedo; abbiamo notato diversi sguardi teneri e sospiri che interpretavamo come segni di ‘bel amore’. Ti prometto che presto tutta la città ne ha saputo. L’abbiamo usata come una sorta di leva per ‘sollevare’ i nostri pesi morti da quella casa. Cara mamma, appena lei ha capito di cosa si trattava, ha subito riconosciuto che si trattava di qualcosa di immorale. Non è vero, mia signora madre?”
+
+“Certamente, il meglio che posso offrire. E avevo ragione: ci sono mille motivi per cui qualsiasi relazione tra istitutrici e tutor non dovrebbe mai essere tollerata nemmeno per un momento in una qualsiasi [[Well|casa]] ben gestita; innanzitutto, ”
+
+“Oh, mio Dio, mamma! Risparmiateci questa lista. Comunque, tutti noi le conosciamo: il pericolo rappresentato da cattivi esempi per l’[[innocence|innocenza]] dell’[[Childhood|infanzia]]; le distrazioni e la conseguente trascuratezza dei doveri da parte di chi è legato a questi comportamenti; l’alleanza e la dipendenza reciproca che ne derivano; la fiducia che ne emerge. E poi l’insolenza, la ribellione e il caos generale. Ho ragione, Baronessa Ingram di Ingram Park?”
+
+“Mia gelsomina, hai ragione, come sempre.”
+
+“Allora non c’è più bisogno di dire nulla: cambiamo argomento.”
+
+Amy Eshton, senza ascoltare o dare retta a questo detto, si unì a loro con il suo tono dolce e infantile: “Anch'io e Louisa facevamo sempre domande alla nostra tata; ma era una persona così gentile che sopportava di tutto. Niente la metteva in difficoltà. Non si arrabbiava mai con noi, vero, Louisa?”
+
+“No, mai: avremmo potuto fare ciò che volevamo; rovistare nella sua scrivania e nel suo cestino da lavoro, capovolgere tutti i suoi cassetti. E lei era così gentile, che ci avrebbe dato qualsiasi cosa le avessimo chiesto.”
+
+“Suppongo che ora,” disse Miss Ingram, arricciando le labbra in modo sarcastico, “avremo un riassunto delle memorie di tutte le tate esistenti. Per evitare un simile inconveniente, propongo nuovamente l’introduzione di un nuovo argomento. Signor Rochester, siete d’accordo con la mia proposta?”
+
+“Signora, la sostengo su questo punto, come su tutti gli altri.”
+
+“Allora spetterà a me il compito di portarlo avanti. Signor Eduardo, siete in grado di parlare, di [[Night|notte]]?”
+
+“Donna [[Bianca]], se lo comandi, io sarò qui.”
+
+“Allora, signore, vi impongo l’ordine supremo di preparare i vostri polmoni e gli altri organi vocali, poiché saranno necessari al mio servizio reale.”
+
+“Chi non vorrebbe essere il Rizzio di una Maria così divina?”
+
+“Un figlio per Rizzio!”, esclamò lei, scuotendo la testa piena di riccioli mentre si avvicinava al pianoforte. “Secondo me, quel violinista David doveva essere un tipo insipido; preferisco il nero Bothwell: a mio parere, un uomo non è nulla senza una certa dose di ‘diavolo’ in sé. E anche se la [[history|storia]] possa dire quello che vuole di James Hepburn, ho l’impressione che fosse proprio quel tipo di eroe selvaggio, feroce e un po’ bandito, il genere di uomo per cui avrei potuto essere disposta a donargli la mia mano.”
+
+“Signori, avete sentito! Ora, chi di voi assomiglia di più a Bothwell?”, gridò il signor Rochester.
+
+“Dovrei dire che la scelta spetta a te,” rispose il Colonnello Dent.
+
+“Per la mia [[Honour|onore]], sono molto grato a voi,” fu la risposta.
+
+La signorina Ingram, che si era ora seduta al pianoforte con orgogliosa grazia, spiegando le sue vesti bianche come la neve con un’aria regale, iniziò a suonare un preludio straordinario; intanto continuava a parlare. Sembrava essere sul suo “alto cavallo”, pronta per affrontare la notte; sia le sue parole che il suo modo di esprimersi miravano chiaramente ad suscitare non solo ammirazione, ma anche stupore negli ascoltatori: era evidente che volesse lasciare su di loro l’impressione di essere davvero una donna audace e spregiudicata.
+
+“Oh, quanto mi sono stancata dei giovani di questi tempi!” esclamò lei, continuando a suonare l’strumento. “Poveri esseri deboli e inutili, incapaci di allontanarsi anche solo dai cancelli del parco di loro padre. E nemmeno di farlo senza il permesso e la supervisione delle madri! Persone così preoccupate soltanto dei propri bei volti, delle proprie mani bianche e dei propri piedini piccoli. Come se agli uomini importasse davvero della [[Beauty|bellezza]]! Come se la grazia non fosse un privilegio esclusivo delle donne, il loro legittimo diritto e eredità. Ammetto che una donna brutta possa essere una macchia sul bel volto della creazione. Ma quanto ai gentiluomini. Che si impegnino soltanto ad avere forza e coraggio. Che il loro motto sia: “Cacciare, sparare, combattere. Il resto non merita nemmeno considerazione”. Se fossi un uomo, questo sarebbe il mio motto.”
+
+“Ogni volta che mi sposerò,” continuò dopo una pausa che nessuno interruppe,  
+“sono decisa affinché mio marito non sia un rivale, ma un complemento a me. Non tollererò alcun concorrente vicino al trono; esigerò un omaggio assoluto: la sua devozione non dovrà essere divisa tra me e l’immagine che vede nel suo [[Mirror|specchio]]. Signor Rochester, ora cantate, e io suonerò per voi.”
+
+“Sono completamente obbediente,” fu la risposta.
+
+Ecco dunque una canzone dei Corsari. Sappiate che io amo i Corsari; per questo motivo, cantatela con passione.
+
+“I comandi che uscivano dalle labbra della signorina Ingram erano in grado di infondere energia anche in una tazza di latte e [[Water|acqua]].”
+
+“Allora stai attento: se non mi compiaci, ti umilierò mostrandoti come queste cose _dovrebbero_ essere fatte.”
+
+“Offrire un vantaggio in caso di incapacità… Ora cercherò apposta di fallire.”
+
+"#Attenzione! Se commetterete errori intenzionalmente, concepirò una punizione adeguata."
+
+“La signorina Ingram dovrebbe essere clemente, poiché ha il potere di infliggere una punizione che va oltre ogni capacità umana di sopportarla.”
+
+“Spiega!” ordinò la signora.
+
+“Perdonatemi, signora: non c’è bisogno di spiegazioni; il vostro buon senso vi dovrebbe far capire che un solo dei vostri sguardi severi sarebbe già una punizione sufficiente.”
+
+“Canta!” disse lei, e toccando di nuovo il pianoforte, iniziò un accompagnamento dallo stile vivace.
+
+“Ora è il mio momento per andarmene,” pensai. Ma le voci che in quel momento risuonarono nell’aria mi fermarono. La signora Fairfax aveva detto che il signor Rochester possedeva una voce meravigliosa: ed effettivamente era così: un basso profondo e potente, nel quale riversava tutta la propria emozione, tutta la propria forza; una voce in grado di raggiungere il cuore attraverso l’orecchio, suscitando sensazioni straordinarie. Aspettai che l’ultima vibrazione di quella voce si fosse spenta. Che il chiacchiericcio intorno a me riprendesse il suo corso. Poi lasciai il mio angolo nascosto e uscii dalla porta laterale, che fortunatamente era vicina. Da lì un corridoio stretto conduceva nell’atrio; mentre lo attraversavo, mi resi conto che uno dei miei sandali si era allentato. Mi fermai per legarlo, inginocchiandomi sul tappeto ai piedi della scala. Sentii la porta del salone aprirsi. Un signore ne uscì. Alzandomi in fretta, mi trovai di fronte a lui: era il signor Rochester.
+
+“Come va?” chiese lui.
+
+“Sto molto bene, signore.”
+
+#Perché non sei venuto a parlarmi nella stanza?
+
+Pensavo di poter ribattere alla domanda su chi l'avesse posta, ma non avrei preso quella [[Freedom|libertà]]. Ho risposto.
+
+“Non volevo disturbarvi, poiché sembravate molto impegnati, signore.”
+
+"Cosa hai fatto in mia assenza?"
+
+"Niente di particolare: insegno ad Adele come al solito."
+
+“E diventare molto più pallido di prima… Come ho notato non appena ti ho visto. Cosa succede?”
+
+"Niente affatto, signore."
+
+“Hai preso il raffreddore quella [[Night|notte]] in cui mi hai quasi annegato?”
+
+"Nemmeno un po'."
+
+“Torna nel salotto… Stai andando via troppo presto.”
+
+“Sono stanco, signore.”
+
+Mi guardò per un minuto.
+
+“E un po’ depresso,” disse. “E poi? Dimmi.”
+
+"Niente… niente, signore. Non sono depresso."
+
+“Ma affermo che tu lo sei: così depresso che poche altre parole ti farebbero versare le [[Tears|lacrime]] negli occhi. Infatti, sono già lì, brillanti e scintillanti; inoltre, una perla è caduta dalla tua ciocca e si è posata sulla [[Flag|bandiera]]. Se avessi [[Time|tempo]], e non temessi che qualche servitore chiacchierone mi sorprendesse, capirei cosa tutto questo significhi. Beh, per questa [[Well|notte]] ti scuso; ma sappi che finché i miei ospiti rimarranno qui, pretendo che tu appaia nel salotto ogni sera. È la mia volontà; non trascurarla. Ora vai, e manda Sophie a chiamare Adèle. Buona [[Night|notte]], mio, ” Si fermò, morse il labbro e se ne andò all’improvviso.
+
 
 
 <span class="atom-split" data-atom="chapter_18--part_01" data-title="Jane Eyre — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/flowers,motif/marriage,motif/rose,motif/spring,motif/well,concept/solitude,character/jane_eyre"></span>
@@ -31175,6 +32775,7 @@ whereupon the curtain again descended.
 <span class="qlang-split" data-lang="it"></span>
 
 # CAPITOLO XVIII
+
 
 Quei giorni a Thornfield Hall erano pieni di gioia, e anche di attività: quanto diversi dai primi tre mesi di silenzio, monotonia e [[Solitude|solitudine]] che avevo trascorso sotto quel tetto! Tutti i sentimenti tristi sembravano essere stati scacciati da quella casa; tutte le associazioni cupe erano state dimenticate: ovunque c’era vita, movimento tutto il giorno. Ora non si poteva più percorrere la galleria, un tempo così silenziosa, né entrare nelle stanze anteriori, un tempo deserte, senza incontrare una cameriera elegante o un valletto alla moda.
 
@@ -31327,6 +32928,38 @@ when her [[Pride|pride]] and [[Self|self]]-complacency repelled further and furt
 she wished to allure—to witness _this_, was to be at once under
 ceaseless excitation and ruthless restraint.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Al suo terzo risveglio, solo una parte del salotto era visibile; il resto era nascosto da una tenda decorata con stoffe scure e ruvide. La vasca di marmo era stata rimossa; al suo posto c'erano un tavolo da gioco e una sedia da cucina: questi oggetti erano visibili grazie a una luce molto debole proveniente da una lanterna a corna, poiché tutte le candele di cera erano spente.
+
+In mezzo a questa scena squallida, c'era un uomo con le mani strette sulle ginocchia, lo sguardo fisso per terra. Conoscevo il signor Rochester; anche se il viso sporco, i vestiti in disordine (il suo cappotto pendeva lento da un braccio, come se fosse stato quasi strappato via durante una colluttazione), quell'espressione disperata e cupa, quei capelli ruvidi e arruffati avrebbero potuto benissimo nasconderlo. Mentre si muoveva, una catena tintinnava; ai suoi polsi erano legati dei ceppi.
+
+“Bridewell!”, esclamò il Colonnello Dent, e così fu risolto l’enigma.
+
+Dopo che era trascorso un lasso di tempo sufficiente affinché gli attori potessero riprendere il loro abbigliamento normale, rientrarono nel salone da pranzo. Il signor Rochester fece entrare la signorina Ingram; lei lo stava lodando per la sua interpretazione.
+
+“Lo sai?” disse lei, “di questi tre personaggi, quello che mi è piaciuto di più sei stato tu. Oh, se solo fossi nato qualche anno prima, che nobile gentiluomo e bandito saresti diventato!”
+
+“Tutto lo sporco nero è stato lavato via dal mio viso?”, chiese, girandolo verso di lei.
+
+“Ahimè, sì: è proprio una vera vergogna! Niente potrebbe donare di più al tuo incarnato di quel rossetto da teppista, ”
+
+“Allora vuoi un [[Hero|eroe]] delle strade, giusto?”
+
+Un “eroe inglese delle strade” sarebbe la seconda scelta migliore dopo un bandito italiano; e solo un pirata levantino potrebbe superarlo.
+
+“Beh, qualunque cosa io sia, ricorda che sei mia moglie; ci siamo sposati solo un’ora fa, davanti a tutti questi testimoni.” Lei ridacchiò e il suo viso si colorì di rosa.
+
+“Ora, Dent,” continuò il signor Rochester, “è il tuo turno.” E mentre l’altra parte si allontanava, lui e i suoi compagni presero i posti lasciati liberi. La signorina Ingram si sedette alla destra del suo leader; gli altri indovini occuparono le sedie ai lati di entrambi. A quel punto non osservavo più gli attori, né aspettavo con interesse l’alzarsi del sipario; tutta la mia attenzione era concentrata sugli spettatori. I miei occhi, che poco prima erano fissi sull’arco, venivano ora irresistibilmente attratti dal semicerchio di sedie. Quale commedia avessero recitato il colonnello Dent e i suoi compagni, quale parola avessero scelto, come si fossero comportati, ormai non me lo ricordo più; ma ricordo ancora la consultazione che seguiva ogni scena: vedo il signor Rochester rivolgersi alla signorina Ingram, e lei a lui; la vedo inclinare la testa verso di lui, fino a quando i suoi capelli quasi toccano la sua spalla. Riesco a sentire i loro sussurri, a ricordare i loro sguardi scambiati. E qualcosa di ciò che quel spettacolo aveva suscitato nel mio cuore ritorna ora nella mia [[Memory|memoria]].
+
+Vi ho detto, lettori, che avevo imparato ad [[Love|amare]] il signor Rochester: non potevo smettere di amarlo solo perché mi resi conto che lui non mi prestava più attenzione – perché potevo passare ore al suo fianco e lui non girava mai lo sguardo verso di me; perché vedevo tutte le sue attenzioni rivolte a una grande signora che disdegnava persino di sfiorarmi con l’orlo della sua veste quando mi incrociava; che, se per caso il suo sguardo scuro e imperioso si posava su di me, lo ritraeva immediatamente, come se fossi un oggetto troppo insignificante per meritare attenzione. Non potevo smettere di amarlo perché ero certa che presto avrebbe sposato proprio quella signora; perché ogni giorno notavo in lei una grande fiducia nelle sue intenzioni nei suoi confronti; perché lo vedevo ogni ora corteggiarla in un modo che, seppur disinvolto e più orientato a essere cercato che a cercare attivamente, era proprio nella sua stessa disinvoltura che risiedeva il suo fascino, e proprio nella sua [[Pride|orgoglio]] la sua irresistibilità.
+
+In queste circostanze, non c’era nulla che potesse raffreddare o allontanare l’[[Love|amore]], anche se c’era molto di ciò che poteva generare l’[[Despair|disperazione]]. Molto, penserete voi, lettore, anche per suscitare l’[[Jealousy|invidia]]: se una donna, nella mia posizione, potesse permettersi di essere invidiosa di un’altra donna come la signorina Ingram. Ma io non ero invidiosa; o almeno molto raramente. La natura del [[Pain|dolore]] che provavo non poteva essere spiegata con quella parola. La signorina Ingram era qualcosa di troppo inferiore per suscitare in me un sentimento del genere. Perdonate questo apparente [[Paradox|paradosso]]; intendo davvero ciò che dico. Era molto appariscente, ma non sincera: aveva un aspetto gradevole, molte capacità brillanti; ma la sua mente era povera, il suo cuore sterile. Nulla cresceva spontaneamente in quel terreno; nessun frutto naturale, genuino e fresco, vi fioriva. Non era buona. Non era originale: ripeteva sempre frasi preconfezionate tratte dai libri; non offriva mai, né aveva mai, un’opinione propria. Predicava sentimenti elevati. Ma non conosceva affatto le emozioni della compassione e della pietà; la tenerezza e l’[[Truth|verità]] non facevano parte di lei. Troppo spesso tradiva queste qualità, dando sfogo in modo eccessivo a un’antipatia malvagia che provava verso la piccola Adèle: la allontanava con insulti offensivi se le capitava di avvicinarsi; a volte la mandava via dalla stanza. E sempre la trattava con freddezza e acrimonia. Oltre ai miei occhi, altre persone osservavano queste manifestazioni del suo carattere. Le osservavano attentamente, con attenzione e perspicacia. Sì. Lo stesso futuro sposo, il signor Rochester, esercitava su di lei una sorveglianza continua; ed era proprio da questa saggezza, da questa prudenza da parte sua, da questa consapevolezza perfetta dei difetti della sua futura moglie, da questa assenza evidente di passione nei suoi sentimenti verso di lei, che derivava il mio tormento incessante.
+
+Vidi che stava per sposarla, forse per motivi familiari o politici, perché il suo rango e le sue connessioni gli convenivano; sentii che non le aveva dato il proprio [[Love|amore]], e che le sue qualità non erano adatte a conquistare da lui quel tesoro. Ecco il punto cruciale: era lì che veniva toccato il nervo più sensibile, era lì che la “febbre” continuava ad alimentarsi, _lei non riusciva a incantarlo_.
+
+Se lei fosse riuscita a ottenere la vittoria immediatamente, e lui si fosse arreso, consegnando sinceramente il proprio cuore ai suoi piedi, avrei coperto il viso, voltato le spalle e, in senso figurato, sarei “morto” per loro. Se Miss Ingram fosse stata una donna buona e nobile, dotata di forza, passione, gentilezza e saggezza, avrei dovuto combattere con due “tigri”: la [[Jealousy|invidia]] e la [[Despair|disperazione]]. In quel caso, con il mio cuore strappato e divorato da queste emozioni, l’avrei ammirata, riconosciuta per la sua eccellenza e avrei vissuto in pace per il resto dei miei giorni. E più assoluta fosse stata la sua superiorità, più profonda sarebbe stata la mia ammirazione, e più tranquilla la mia vita. Ma così come stavano le cose in realtà, assistere ai tentativi di Miss Ingram di affascinare il signor Rochester, vedere i loro ripetuti fallimenti – mentre lei stessa non si rendeva conto che fallivano; immaginare vanamente che ogni suo sforzo andasse a segno, e credersi infatuatamente destinata al [[success|successo]], quando invece il suo [[Pride|orgoglio]] e la sua autoindulgenza allontanavano sempre di più ciò che lei cercava di attirare, assistere a tutto questo significava vivere in uno stato costante di eccitazione e repressione spietata.
 
 
 
@@ -31559,6 +33192,43 @@ stopped near Mr. Eshton’s chair, and said something to him in a low
 voice, of which I heard only the words, “old woman,”—“quite
 troublesome.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Stava per calare il crepuscolo e l’[[Clock|orologio]] aveva già segnalato l’ora di prepararsi per la cena, quando piccola Adèle, che era inginocchiata accanto a me sul divano vicino alla [[Window|finestra]], esclamò all’improvviso.
+
+"Ecco il signor Rochester, è tornato!"
+
+Mi voltai, e la signorina Ingram si precipitò fuori dal suo divano; anche gli altri alzarono lo sguardo dalle loro occupazioni, perché nello stesso [[Time|momento]] si udì il rumore delle ruote che stridevano sul ghiaio bagnato e lo scalpiccio degli zoccoli del cavallo. Una carrozza stava avvicinandosi.
+
+“Che cosa può averlo spinto a tornare a casa in quel modo?” disse la signorina Ingram.  
+“È andato via cavalcando Mesrour, il cavallo nero, vero? E Pilot era con lui. Che ne ha fatto degli animali?”
+
+Mentre lo diceva, si avvicinò così tanto alla sua alta figura e ai suoi abiti ampi, vicino alla [[Window|finestra]], che fui costretto ad incurvarmi quasi fino a spezzarmi la schiena; nella sua fretta, all’inizio non mi notò, ma quando se ne accorse, arricciò le labbra e si spostò verso un’altra finestra. La carrozza si fermò; il cocchiere suonò il campanello della porta, e scese un signore vestito in abiti da viaggio. Ma non era il signor Rochester: era un uomo alto, dall’aspetto elegante, uno sconosciuto.
+
+“Che provocazione!” esclamò la signorina Ingram: “tu scimmia fastidiosa!” (dicendo ad Adèle), “che ti ha fatto salire sul [[Window|finestra]] per fornire informazioni false?” E mi lanciò uno sguardo furioso, come se fossi io la colpevole.
+
+Nel salone si udivano alcune voci che discutevano; poco dopo entrò il nuovo arrivato. Si inchinò davanti a Lady Ingram, ritenendola la donna più anziana presente.
+
+“Sembra che io sia arrivato in un momento inopportuno, signora,” disse lui, “poiché mio amico, il signor Rochester, non è a casa; ma sono giunto dopo un lungo [[Journey|viaggio]] e credo di poter fare affidamento sull’antica e stretta nostra conoscenza per permettermi di rimanere qui fino al suo ritorno.”
+
+Il suo modo di comportarsi era educato; il suo accento, quando parlava, mi sembrava piuttosto insolito: non esattamente straniero, ma comunque non del tutto inglese. L’età poteva essere simile a quella del signor Rochester, tra i trenta e i quaranta anni; la sua carnagione era stranamente giallastra; altrimenti era un uomo di bell’aspetto, soprattutto a prima vista. Esaminandolo più da vicino, si notava qualcosa nel suo viso che non piaceva, o meglio, che non riusciva affatto a piacere. I suoi tratti erano regolari, ma troppo rilassati; i suoi occhi erano grandi e ben formati, ma lo sguardo che ne emanava era spento, vuoto, almeno così mi sembrava.
+
+Il suono della campanella che annunciava la fine del pasto dispersò i partecipanti alla festa. Fu solo dopo cena che lo rividi: allora sembrava completamente a suo agio. Ma il suo aspetto mi piaceva ancora meno di prima: mi appariva allo stesso tempo incerto e privo di vita. I suoi occhi vagavano senza uno scopo preciso, conferendogli un'espressione strana, che non ricordavo di aver mai visto prima. Per essere un uomo attraente, non mancava certo di bellezza, ma mi repelleva profondamente. Quel viso liscio, di forma ovale, non esprimeva alcuna forza; quel naso aquilino e quella bocca piccola e rossa non trasmettevano alcun sentimento; quella fronte bassa e piatta era priva di qualsiasi caratteristica distintiva; quegli occhi marroni e vuoti non rivelavano alcuna intelligenza o volontà.
+
+Mentre sedevo nel mio solito angolo e lo guardavo, illuminato dalla luce delle lampade a braccio sul caminetto – poiché era seduto in una poltrona vicina al [[Fire|fuoco]] e continuava ad avvicinarsi ancora di più, come se avesse freddo – lo paragonai a Mr. Rochester. Penso (con tutto il rispetto) che non possa esserci contrasto maggiore tra un bell’uomo elegante e un falco feroce; tra una pecora mite e quel cane dal pelo ruvido e dagli occhi acuti, il suo guardiano.
+
+Aveva parlato di Mr. Rochester come di un vecchio amico. Una strana [[Friendship|amicizia]] doveva essere la loro: una vera e propria dimostrazione dell’antico detto che “gli estremi si incontrano”.
+
+Due o tre signori sedevano vicino a lui, e di tanto in tanto riuscivo a captare frammenti delle loro conversazioni. All’inizio non riuscivo a capire molto di ciò che sentivo; infatti, le discussioni di Louisa Eshton e Mary Ingram, che erano sedute più vicino a me, confondevano quelle frasi sparse che arrivavano fino a me di tanto in tanto. Queste ultime riguardavano lo sconosciuto: entrambe lo definivano “un uomo bellissimo”. Louisa disse che era “una creatura davvero adorabile” e che lei “lo amava”; Mary, invece, sottolineò il suo “bello visino e il naso grazioso”, considerandoli i tratti ideali di un uomo affascinante.
+
+“E che fronte dolce e serena ha!” esclamò Louisa, “così liscia, nessuna di quelle rughe irregolari che tanto detesto; e quegli occhi così tranquilli, quel sorriso così gentile, ”
+
+E poi, per mio grande sollievo, il signor Henry Lynn li chiamò dall’altra parte della stanza per chiarire alcuni dettagli riguardo all’escursione rinviata a Hay Common.
+
+Ora riuscivo a concentrare la mia attenzione sul gruppo vicino al [[Fire|focolare]]; in breve appresi che il nuovo arrivato si chiamava Mr. Mason. Scoprii anche che era appena giunto in Inghilterra, proveniente da qualche paese caldo; probabilmente per questo il suo viso aveva un colore così pallido, e sedeva così vicino al camino, indossando una giacca nel [[house|casa]]. Poco dopo, le parole “Giamaica”, “Kingston”, “Spanish Town” mi fecero capire che la sua residenza era nelle Indie Occidentali; con non poca sorpresa scoprii in seguito che era stato proprio lì che aveva conosciuto per la prima volta Mr. Rochester. Parlò dell’avversione del suo amico verso il caldo intenso, gli uragani e le stagioni piovose di quella regione. Sapevo che Mr. Rochester era stato un viaggiatore: Mrs. Fairfax me lo aveva detto; ma pensavo che i suoi viaggi si fossero limitati al continente europeo. Fino ad allora non avevo mai sentito parlare di visite in luoghi più lontani.
+
+Stavo riflettendo su queste cose, quando un incidente, piuttosto inaspettato, interruppe i miei pensieri. Il signor Mason, tremando perché qualcuno aveva aperto per caso la porta, chiese che venisse aggiunto altro carbone sul [[Fire|fuoco]], il quale aveva ormai spento le fiamme, anche se la massa di cenere brillava ancora rossa e calda. Il servitore che portò il carbone, uscendo, si fermò vicino alla sedia del signor Eshton e gli disse qualcosa a bassa voce; riuscii ad afferrare solo le parole “vecchia donna”, e “davvero fastidiosa”.
 
 
 
@@ -31796,6 +33466,7 @@ Sorriderebbe? Lo considererebbe uno scherzo? Tutti gli occhi la fissavano con cu
 “Ora, ora, buone persone,” rispose la signorina Ingram, “non insistete con me. Davvero, i vostri organi di [[Wonder|stupore]] e credulità sono facilmente eccitabili: sembrate attribuire a questa faccenda una grande importanza, soprattutto voi tutti, compresa la mia cara mamma, e siete disposti a credere senza esitazione che abbiamo davvero una vera [[Witch|strega]] in questa casa, legata in stretta alleanza con quel vecchio signore. Ho visto una zingara vagabonda: lei ha praticato, in modo banale e convenzionale, l’arte della chiromanzia e mi ha detto quelle cose che di solito queste persone dicono. Il mio capriccio è stato soddisfatto; ora penso che il signor Eshton farebbe bene a mettere quella strega in ceppi domani mattina, come aveva minacciato.”
 
 La signorina Ingram prese un libro, si appoggiò allo schienale della sedia e così rifiutò di continuare la conversazione. La osservai per quasi mezz’ora: in tutto quel tempo non girò nemmeno una pagina; il suo viso diventava sempre più scuro, più deluso e più espressivo di delusione. Ovviamente non aveva sentito nulla che le fosse favorevole; e a mio parere, da quella sua prolungata tristezza e taciturnità, sembrava che anche lei, nonostante la sua apparente indifferenza, attribuisse un’importanza eccessiva a quelle rivelazioni che le erano state fatte.
+
 
 Per tutto quel [[Time|tempo]], non aprì mai una pagina.
 
@@ -32042,6 +33713,101 @@ face you study? one figure whose movements you follow with at least
 curiosity?”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO DICIANNOVE
+
+
+La biblioteca sembrava abbastanza tranquilla quando vi entrai; la Sibilla – se davvero lo era – sedeva comodamente in una poltrona vicino alla mensola del camino. Indossava un mantello rosso e un cappello nero, o meglio, un cappello da zingara a tesa larga, legato sotto il mento con un fazzoletto a strisce. Sul tavolo c’era una candela spenta; lei era china davanti al [[Fire|fuoco]] e sembrava leggere in un piccolo libro nero, simile a un libro di [[prayer|preghiere]], alla luce delle fiamme. Mormorava le parole tra sé, come fanno molte anziane donne mentre leggono; non smise subito al mio arrivo: sembrava voler finire quel paragrafo.
+
+Mi misi in piedi sul tappeto e riscaldai le mani, che erano piuttosto fredde per essere state sedute lontano dal [[Fire|focolare]] del salotto. Mi sentivo ora più calma che mai in vita mia: davvero, nell’aspetto di quella donna gipsy non c’era nulla che potesse turbare la mia tranquillità. Chiuse il libro e alzò lentamente lo sguardo; il bordo del suo cappello le ombreggiava parzialmente il viso, ma quando lo sollevò, vidi che era un cappello davvero strano: tutto marrone e nero. Dai capelli spuntavano ciocche scure sotto una fascia bianca che le passava sotto il mento e le copriva metà delle guance. O meglio, della mascella. I suoi occhi mi fissarono immediatamente con uno sguardo audace e diretto.
+
+“Allora, vuoi che ti legga il futuro?” disse lei, con una voce altrettanto decisa del suo sguardo, altrettanto dura come i suoi tratti.
+
+“Non mi interessa affatto, madre; fate pure come volete. Ma dovrei avvertirvi: non ho alcuna [[Faith|>fede]].”
+
+“È proprio la tua sfrontatezza a dirtelo. Me l’aspettavo da te; l’ho sentita nel tuo passo quando hai varcato la soglia.”
+
+# Hai davvero sentito? Hai un orecchio molto acuto.
+
+"#Occhio acuto e mente pronta."
+
+“Ne hai bisogno tutti nel tuo lavoro.”
+
+“Certo che sì… soprattutto quando devo avere a che fare con clienti come te. Perché non tremi tu?”
+
+“Non ho freddo.”
+
+“Perché non impallidi?”
+
+"#Non sono malato."
+
+“Perché non ti fai consigliare dalla mia arte?”
+
+"#Non sono sciocco."
+
+La vecchia [[Crone|cruna]] soffocò una risata sotto il suo cappello e le bende; poi tirò fuori una corta pipa nera, la accese e iniziò a fumare. Dopo essersi goduta per un po’ questa attività rilassante, sollevò il proprio corpo curvo, tolse la pipa dalle labbra e, fissando attentamente il [[Fire|fuoco]], disse molto lentamente.
+
+“Sei freddo, sei malato… e sei anche stupido.”
+
+“Dimostralo,” ribattei.
+
+“Lo farò in poche parole. Sei freddo perché sei [[Alone|solo]]: nessun contatto fa scaturire da te quella [[Fire|fiamma]] che è dentro di te. Sei malato perché i migliori sentimenti, quelli più nobili e dolci che l’uomo possa provare, ti rimangono lontani. Sei sciocco perché, per quanto soffra, non cercherai mai di avvicinarli, né farai un passo verso di loro, là dove ti aspettano.”
+
+Rimise di nuovo la sua corta pipa nera alle labbra e riprese a fumare con vigore.
+
+“Potresti dire tutto questo quasi a chiunque conosca qualcuno che vive da solo, in condizioni di dipendenza, in una [[Great House|grande casa]].”
+
+“Potrei dirlo quasi a chiunque… ma sarebbe vero davvero per quasi chiunque?”
+
+"Nelle mie circostanze."
+
+“Sì; esattamente così, nelle tue circostanze… Ma trovami qualcun altro che si trovi nella stessa situazione tua.”
+
+“Sarebbe facile trovarne migliaia…”
+
+“È quasi impossibile trovarne uno per me. Se solo lo sapessi, ti renderesti conto di essere in una posizione particolare: molto vicino alla felicità. Sì, a portata di mano. Tutti gli elementi necessari sono già pronti; manca soltanto un piccolo passo per unirli. Il caso li ha separati un po’. Ma basta avvicinarsi, e la felicità sarà tua.”
+
+“Non capisco gli enigmi. In tutta la mia vita non sono mai riuscito a risolvere nemmeno un [[Riddle|indovinello]]”.
+
+“Se volete che parli più chiaramente, mostratemi il palmo della mano.”
+
+“E immagino che debba decorarlo d’argento, ”
+
+“Certamente.”
+
+Le diedi un scellino; lei lo mise in un vecchio calzino che tirò fuori dalla tasca, lo legò intorno alla mia mano e me lo restituì, poi mi disse di tendere la mano. Lo feci. Lei avvicinò il suo viso alla mia palma e la esaminò attentamente senza toccarla.
+
+“È troppo liscia,” disse lei. “Non riesco a interpretare una mano del genere; quasi priva di linee. Inoltre, cosa c’è nella palma della mano? Il destino non è scritto lì.”
+
+“Credo in te,” dissi io.
+
+“No,” continuò lei, “si trova sul viso: sulla fronte, intorno agli occhi, nelle linee della bocca. Inginocchiati e alzate la testa.”
+
+“Ah! Ora stai tornando alla realtà,” dissi, obbedendole. “Tra poco inizierò a fidarmi di te.”
+
+Mi inginocchiai a meno di mezzo metro da lei. Lei ravvivò il [[Fire|fuoco]], e un bagliore si diffuse dalle braci agitate; tuttavia, quella luce intensa, mentre lei era seduta, gettava il suo viso in ombra ancora più profonda. Mentre il mio viso, invece, veniva illuminato.
+
+“Mi chiedo con quale sentimento tu sia venuto da me questa [[Night|notte]],” disse lei dopo avermi esaminato per un po’. “Mi chiedo quali pensieri occupino la tua mente durante tutte le ore che trascorri in quella stanza, circondato da persone eleganti che sembrano apparizioni nella luce di una [[Magic|magica]] lanterna. C’è davvero così poca comunicazione tra te e loro? Come se fossero soltanto ombre delle forme umane, e non la loro vera essenza.”
+
+#Spesso mi sento stanco, a volte assonnato, ma raramente triste.
+
+“Allora hai qualche segreta [[Hope|>speranza]] che ti sostenga e ti conforti con promesse per il futuro?”
+
+“No, io no. Tutto ciò che spero è di riuscire a risparmiare abbastanza denaro con i miei guadagni, per poter un giorno aprire una scuola in una piccola [[house|casa]] che affitterò io stesso.”
+
+“Un alimento povero e insoddisfacente per lo spirito. E seduto in quella poltrona vicino alla [[Window|finestra]] (vedete, conosco le vostre abitudini, )”
+
+“Le hai imparate dai servitori.”
+
+“Ah! Pensi di essere molto astuto. Beh, forse lo sono davvero: a dire il vero, conosco una di loro, la signora Poole, ”
+
+Mi alzai in piedi non appena sentii quel nome.
+
+“Davvero… davvero è così?”, pensai; “Allora c’è qualcosa di molto strano in tutta questa faccenda…”
+
+“Non allarmatevi,” continuò quella strana creatura; “la signora Poole è una persona affidabile: discreta e silenziosa; chiunque può confidarsi in lei. Ma, come stavo dicendo, seduto in quel posto accanto alla finestra, non pensate affatto al vostro futuro istituto scolastico? Non vi interessa nessuno di coloro che sono seduti sui divani e sulle poltrone davanti a voi? Non c’è forse un volto che osservate con curiosità, o una figura i cui movimenti seguite almeno con interesse?”
+
 
 
 <span class="atom-split" data-atom="chapter_19--part_02" data-title="Jane Eyre — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/home,motif/love,motif/marriage,motif/night,motif/silence,motif/time,motif/well,concept/beauty,concept/doubt,concept/loneliness,concept/melancholy,concept/pride,concept/solitude,concept/truth,character/jane_eyre,character/witch"></span>
@@ -32251,6 +34017,7 @@ Non dissi nulla.
 “La tua fortuna è ancora incerta: quando ho esaminato il tuo viso, un tratto contraddiceva l’altro. La sorte ti ha concesso una certa dose di felicità. Lo so. Lo sapevo già prima di venire qui stasera. Lei l’ha messa con cura da parte per te. L’ho vista farlo. Dipende da te allungare la mano e prenderla. Ma se lo farai o no, è questa la domanda che sto cercando di capire. Inginocchiati di nuovo sul tappeto.”
 
 “Non trattenetemi a lungo; il [[Fire|fuoco]] mi brucia.”
+
 
 Non si avvicinò a me, ma si limitò a guardarmi, appoggiandosi allo schienale della sedia.
 
@@ -32772,6 +34539,73 @@ stood at his side.
 “Have you a sponge in your room?” he asked in a whisper.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XX
+
+
+Avevo dimenticato di tirare le tende, come facevo di solito, e anche di abbassare la persiana della finestra. Di conseguenza, quando la luna – piena e luminosa, poiché quella notte il cielo era sereno – passò sopra quella parte del cielo opposta alla mia finestra e guardò dentro attraverso i vetri scoperti, il suo splendido bagliore mi svegliò. Risvegliandomi nel cuore della notte, aprii gli occhi e vidi il suo disco: bianco argenteo e cristallino. Era bellissimo, ma troppo solenne. Mi alzai a metà sonno e allungai la mano per tirare le tende.
+
+Mio Dio! Che grido terribile.
+
+La [[Night|notte]] – il suo [[Silence|–silenzio]]» – il suo riposo, furono interrotti da un suono selvaggio, acuto e stridulo che si diffuse in tutto Thornfield Hall.
+
+Il mio polso si fermò; il mio cuore smise di battere; il mio braccio teso era paralizzato. Quel grido svanì, e non si ripeté più. Infatti, nessuna creatura al mondo avrebbe potuto emettere di nuovo un urlo così terribile: nemmeno il condor dalle ali più vaste delle Ande sarebbe stato in grado di lanciare due volte consecutive un grido simile dal cielo che nascondeva il suo nido. La creatura che aveva prodotto quel suono doveva essersi fermata, incapace di ripetere lo sforzo.
+
+Uscì dal terzo piano; perché passò sopra la mia testa. E proprio lì, nella stanza situata direttamente sopra il soffitto della mia camera, sentii uno scontro: sembrava un combattimento mortale, a giudicare dal rumore; e una voce soffocata gridò.
+
+“Aiuto! aiuto! aiuto!” tre volte in rapida successione.
+
+“Nessuno verrà ad aiutarmi?” gridò; e poi, mentre quel barcollare e quei calci continuavano in modo folle, riuscii a distinguere, attraverso le assi e il gesso.
+
+“Rochester! Rochester! Per l’amor di Dio, vieni!”
+
+Si aprì una porta della camera: qualcuno corse, o si precipitò, lungo il corridoio. Un altro passo risuonò sopra di loro e qualcosa cadde; poi ci fu [[Silence|silenzio]].
+
+Avevo indossato alcuni vestiti, anche se il terrore scuoteva tutti i miei arti; uscii dal mio appartamento. Tutti coloro che dormivano erano svegliati: esclamazioni di paura e mormori spaventati risuonavano in ogni stanza; porte si aprivano una dopo l’altra; tutti guardavano fuori; il corridoio era pieno di persone. Uomini e donne avevano abbandonato i loro letti; domande confuse echeggiavano ovunque: “Oh, cosa è successo?”, “Chi è ferito?”, “Dove dobbiamo andare?”. Ma se non fosse stato per la luce della luna, sarebbero stati immersi nell’oscurità totale. Correvano avanti e indietro, si affollavano; alcuni piangevano, altri inciampavano. Il caos era incontrollabile.
+
+“Dove diavolo è Rochester?”, gridò il colonnello Dent. “Non lo trovo nel suo letto.”
+
+“Eccomi! eccomi!” fu la risposta gridata. “State calmi tutti: sto arrivando.”
+
+E la porta in fondo alla galleria si aprì; il signor Rochester avanzò con una candela in mano: aveva appena sceso dal piano di sopra. Una delle signore corse subito verso di lui e gli afferrò il braccio: era la signorina Ingram.
+
+“Che terribile evento è accaduto?”, disse lei. “Parla! Dicci subito cosa c’è di peggio!”
+
+“Ma non tirarmi giù né soffocarmi,” rispose lui; perché le signorine Eshton ora lo stavano abbracciando; e le due vedove, avvolte in ampi vestiti bianchi, si stavano avvicinando a lui come navi con le vele spiegate.
+
+“Va bene! — va bene!” gridò. “È solo una prova di ‘Much Ado about Nothing’. Signorelle, state indietro, altrimenti potrei diventare pericoloso.”
+
+E sembrava davvero pericoloso: i suoi occhi neri scintillavano di luce minacciosa. Con uno sforzo per calmarsi, aggiunse.
+
+“Una serva ha avuto un [[nightmare|incubo]]; nient'altro. È una persona nervosa e facilmente eccitabile: ha interpretato il suo sogno come un’apparizione o qualcosa del genere, senza alcun [[Doubt|dubbio]]; ed è svenuta per la paura. Ora devo farvi tornare tutti nelle vostre stanze; finché non si sarà risolto tutto in questa casa, lei non può essere curata a dovere. Signori, vi prego di dare l’esempio alle signore. Miss Ingram, sono sicuro che non mancherete di dimostrare di non temere queste sciocche paure. Amy e Louisa, tornate nelle vostre stanze come due colombe. Signore”, disse rivolto alle vedove, “rischierete certamente di prendervi un raffreddore se rimanete ancora in questa gelida galleria.”
+
+E così, attraverso un alternarsi di lusinghe e ordini, riuscì a farli tornare tutti nei loro rispettivi dormitori. Non aspettai che mi venisse ordinato di tornare nel mio; me ne andai in silenzio, proprio come ero arrivato.
+
+Tuttavia, non era il momento di andare a letto: al contrario, iniziai a vestirmi con cura. I suoni che avevo sentito dopo quel grido, e le parole che erano state pronunciate, probabilmente erano stati uditi soltanto da me; provenivano infatti dalla stanza sopra la mia. Ma quei suoni mi assicurarono che non si trattava di un sogno di una serva capace di suscitare tanta paura in tutta la [[house|casa]]; e che l’spiegazione fornita dal signor Rochester non era altro che un’invenzione escogitata per tranquillizzare i suoi ospiti. Mi vestii quindi, pronta ad affrontare qualsiasi evenienza potesse verificarsi. Una volta pronta, rimasi a lungo davanti alla [[Window|finestra]], guardando i campi silenziosi e innevati. Aspettando, chissà cosa. Mi sembrava che, dopo quel grido strano, quella lotta, quel richiamo, dovesse necessariamente accadere qualcosa.
+
+No: il silenzio tornò; ogni mormorio e movimento cessarono gradualmente, e in circa un’ora Thornfield Hall fu di nuovo immersa nel silenzio più assoluto, come un [[Desert|deserto]]. Sembrava che il [[Sleep|sonno]] e la [[Night|notte]] avessero ripreso il loro dominio. Nel frattempo, la [[Moon|luna]] iniziava a calare: stava per tramontare. Non volendo stare seduta nel freddo e nell’oscurità, decisi di andare a letto così com’ero, vestita. Uscii dalla [[Window|finestra]] e mi mossi silenziosamente sul tappeto; mentre mi chinavo per togliermi le scarpe, una mano cauta bussò leggermente alla porta.
+
+“Mi vogliono?” chiesi.
+
+“Sei già sveglio?” chiese la voce che mi aspettavo di sentire, cioè quella del mio padrone.
+
+“Sì, signore.”
+
+"E vestita?"
+
+“Sì, davvero.”
+
+“Allora esci in silenzio.”
+
+Obbedii. Il signor Rochester stava nella galleria, tenendo una lampada in mano.
+
+“Ti voglio,” disse: “vieni da questa parte: prenditi il tuo [[Time|tempo]] e fai silenzio.”
+
+Le mie pantofole erano sottili: potevo camminare sul pavimento ingombro di detriti con la stessa delicatezza di un gatto. Lui si muoveva silenziosamente lungo il corridoio e le scale, fino a fermarsi nel buio del terzo piano. Lo avevo seguito e ora mi trovavo al suo fianco.
+
+“Hai uno spugnetto nella tua stanza?” chiese sottovoce.
+
 
 
 <span class="atom-split" data-atom="chapter_20--part_02" data-title="Jane Eyre — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/death,motif/fire,motif/night,motif/rose,motif/water,motif/well,concept/fear,concept/hope,character/christ,character/jane_eyre,character/richard,character/satan"></span>
@@ -32917,6 +34751,58 @@ unresisting individual—whom his word now sufficed to control like a
 an oak?
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Sì, signore.”
+
+# Hai del sale… sale volatile?
+
+“Sì, davvero.”
+
+"Torna indietro e prendi entrambi."
+
+Tornai indietro, cercai la spugna sul lavandino, i sali nel mio cassetto,
+e ripercorsi di nuovo i miei passi. Lui aspettava ancora; teneva una chiave in mano: avvicinandosi a una delle piccole porte nere, la inserì nella serratura;
+si fermò e mi parlò di nuovo.
+
+“Non ti senti male alla vista del [[Blood|sangue]]?”
+
+“Penso che non lo farò: non sono mai stato messo alla prova finora.”
+
+Ho provato un brivido mentre gli rispondevo; ma nessun senso di freddo, né debolezza alcuna.
+
+“Dammi solo la tua mano”, disse: “non possiamo rischiare un svenimento”.
+
+Misi le mie dita nelle sue. “Calde e stabili”, fu il suo commento; girò la chiave e aprì la porta.
+
+Vidi una stanza che ricordavo di aver già visto, il giorno in cui la signora Fairfax mi aveva fatto visitare la [[house|casa]]: era decorata con arazzi; ma ora uno degli arazzi era stato arrotolato su un lato, rivelando così una porta che prima era nascosta. Quella porta era aperta; da dentro proveniva una luce. Sentii dei rumori strani, quasi come quelli di un cane che si azzuffa. Il signor Rochester posò la candela e mi disse: “Aspetti un attimo”, poi entrò nell’appartamento interno. Un grido di risate lo accolse; all’inizio era molto forte, ma poi si trasformò nel tipico “ha! ha!” di Grace Poole. Lei era lì dentro. Lui fece qualche cosa senza dire una parola; sentii però una voce bassa che gli parlava. Poi uscì e chiuse la porta dietro di sé.
+
+“Ecco qui, Jane!” disse lui; e io mi avvicinai dall’altra parte di un grande letto, il cui tendone tirato nascondeva una buona parte della stanza. Accanto al capezzale c’era una poltrona: vi sedeva un uomo, vestito tranne che per il cappotto; era immobile, con la testa appoggiata allo schienale e gli occhi chiusi. Il signor Rochester teneva una candela sopra di lui; riconobbi nel suo viso pallido e apparentemente privo di vita quel forestiero, Mason. Vidi anche che il lato destro del suo abito e il suo braccio erano quasi completamente imbevuti di [[Blood|sangue]].
+
+“Tieni la candela,” disse il signor Rochester, e io la presi; lui prese una bacinella di [[Water|acqua]] dal lavandino e disse: “Tienila anche tu.” Obbedii. Prese lo spugna, la immerse nell’acqua e inumidì quel viso simile a quello di un cadavere; poi chiese la mia bottiglietta profumata e la applicò alle narici del ferito. Poco dopo, il signor Mason aprì gli occhi e gemette. Il signor Rochester aprì la camicia dell’uomo ferito, il cui braccio e la spalla erano avvolti in bende; pulì via l’[[Blood|sangue]] che scorreva velocemente.
+
+“C’è un pericolo immediato?” mormorò il signor Mason.
+
+“Puf! No, solo un graffio. Non essere così sconvolto, amico: tieni duro! Ora stesso andrò a chiamare un chirurgo; spero che tu possa essere trasportato via entro domani mattina. Jane,” continuò.
+
+“Signore?”
+
+“Dovrò lasciarvi in questa stanza con questo signore, per un’ora, o forse due ore: dovrete tamponare il [[Blood|sangue]] come faccio io quando ricomincia a sgorgare; se lui dovesse sentirsi svenire, mettete il bicchiere d’[[Water|acqua]] vicino alle sue labbra e dategli i sali da annusare. Non dovete parlare con lui per nessun motivo. E, [[Richard]], farlo significherebbe mettere a rischio la vostra vita: state zitto, non fate nulla. Altrimenti non mi assumo alcuna responsabilità per le conseguenze.”
+
+Di nuovo il poveruomo gemette; sembrava non osare muoversi; la [[Fear|>paura]], sia di [[Death|morte]] che di qualcos’altro, pareva paralizzarlo completamente. Il signor Rochester mi mise nella mano lo straccio ormai insanguinato e io continuai a usarlo come aveva fatto lui. Mi osservò per un momento, poi disse: “Ricorda. Nessuna conversazione”, e lasciò la stanza. Provai una sensazione strana quando la chiave girò nella serratura e il suono dei suoi passi che si allontanavano scomparve del tutto.
+
+Ecco quindi, al terzo piano, legata in una di quelle misteriose stanze. Di [[Night|notte]] intorno a me; uno spettacolo pallido e macabro davanti ai miei occhi e sotto le mie mani. Una assassina separata da me soltanto da una porta. Sì. Era orribile. Il resto riuscivo a sopportarlo. Ma rabbrividivo al pensiero che Grace Poole potesse irrompere da un momento all’altro.
+
+Devo comunque rimanere al mio posto. Devo osservare quel volto orribile: quelle labbra blu, immobili, proibite dal aprirsi; quegli occhi ora chiusi, ora aperti, ora che vagano per la stanza, ora fissi su di me, sempre velati dalla tristezza dell’orrore. Devo immergere ancora e ancora la mia mano nel bacino di [[Blood|sangue]] e [[Water|acqua]], per pulire via quel sangue che continua a gocciolare. Devo vedere la luce della candela, ormai quasi spenta, indebolirsi mentre svolgo il mio compito; le ombre intorno a me farsi sempre più scure sul tappeto antico e lavorato, oscurarsi completamente sotto le tende del grande letto vecchio. E tremare in modo strano sopra le porte di un enorme armadio situato di fronte: il cui frontale, diviso in dodici pannelli, raffigurava, con scene macabre, i volti dei dodici apostoli, ciascuno racchiuso nel proprio pannello come in un quadro; mentre sopra di loro, in alto, si trovavano una croce d’ebano e un [[Christ|Cristo]] morente.
+
+A seconda che l’oscurità ondeggiante e il bagliore tremolante si posassero qui o là, ora era il medico barbuto, Luke, a corrugare la fronte; ora erano i lunghi capelli di San Giovanni a ondeggiare; e poi appariva il volto demoniaco di Giuda, che emergeva dal pannello, sembrando prendere vita e minacciando di rivelare l’identità del grande traditore, quella di [[Satan|Satana]] stesso, sotto le sembianze del suo sottoposto.
+
+In mezzo a tutto questo, dovevo ascoltare e osservare attentamente: cercare di percepire i movimenti della bestia selvaggia o del demone nascosto in quella tana lontana. Ma da quando il signor Rochester era venuto a trovarmi, sembrava che tutto fosse incantato. Per tutta la [[Night|notte]] sentii soltanto tre suoni, sparsi in lunghi intervalli: lo scricchiolio di un passo, un breve ripetersi di quel ringhio canino, e un profondo gemito umano.
+
+Poi furono i miei stessi pensieri ad angosciarmi. Quale crimine era mai questo, che viveva incarnato in questa dimora isolata, e che né il proprietario poteva scacciare né sottomettere?. Quale mistero, che ora si manifestava nel [[Fire|fuoco]] e ora nel [[Blood|sangue]], nelle ore più oscure della [[Night|notte]]? Che creatura era mai questa, che, mascherata dal volto e dalla forma di una donna comune, emetteva ora la voce di un demone beffardo, e subito dopo quella di un uccello rapace in cerca di carogne?
+
+E quest’uomo, io mi chinai su di lui: questo estraneo comune e silenzioso, come mai era finito coinvolto in questa rete d’orrore? E perché la “Furia” si era scatenata contro di lui? Cosa lo aveva spinto a cercare proprio quella parte della casa in una stagione così inopportuna, quando avrebbe dovuto essere a letto addormentato? Avevo sentito il signor Rochester assegnargli un appartamento al piano di sotto, cosa lo aveva portato qui? E perché, ora, si sottometteva così passivamente alla violenza o alla tradimento che gli venivano inflitti? Perché accettava in silenzio quella segretezza imposta dal signor Rochester? Perché il signor Rochester insisteva tanto su quel silenzio? Il suo ospite era stato offeso; la sua stessa vita, in un’occasione precedente, era stata trascinata in un complotto orribile. E entrambi questi tentativi erano stati soffocati nel segreto e dimenticati per sempre! Infine, vidi che il signor Mason si sottometteva completamente al signor Rochester; che la volontà impulsiva di quest’ultimo aveva il completo controllo sulla passività dell’altro. Le poche parole scambiate tra loro me lo confermarono. Era evidente che, nelle loro precedenti relazioni, la natura passiva del primo era stata costantemente influenzata dall’energia attiva del secondo. Allora, perché il signor Rochester aveva mostrato tanta preoccupazione quando aveva saputo dell’arrivo del signor Mason? Perché il semplice nome di quest’uomo indifeso – che ora bastava la parola del signor Rochester per controllare, come un [[Child|bambino]] – lo aveva colpito poche ore prima, con la forza di un fulmine su un olmo?
+
 
 
 <span class="atom-split" data-atom="chapter_20--part_03" data-title="Jane Eyre — Chapter 20 (part 3)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/blood,motif/dawn,motif/night,motif/time,motif/water,motif/well,motif/window,concept/courage,concept/doubt,concept/fear,concept/hope,concept/mercy,concept/suffering,character/jane_eyre,character/richard"></span>
@@ -33057,6 +34943,77 @@ clod-hopping messenger would never do at this juncture. You must open
 the middle drawer of my toilet-table and take out a little phial and a
 little glass you will find there,—quick!”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Oh! Non potevo dimenticare il suo sguardo e il suo pallore quando sussurrò:  
+“Jane, sono stato colpito. Sono stato colpito, Jane.” Non potevo dimenticare come tremasse il braccio che appoggiava sulla mia spalla; e non era certo una cosa da poco quella che riusciva a piegare lo spirito risoluto e a scuotere il corpo vigoroso di Fairfax Rochester.
+
+“Quando arriverà? Quando arriverà?” piangevo dentro di me, mentre la [[Night|notte]] si prolungava all’infinito. Mio paziente sanguinava, gemeva, stava peggiorando sempre di più; né il giorno né alcun aiuto arrivavano. Ripetutamente gli portavo l’[[Water|acqua]] alle labbra pallide, gli offrivo i sali stimolanti. Ma tutti i miei sforzi sembravano inutili: sia la sofferenza fisica che quella mentale, sia la perdita di [[Blood|>sangue]], o tutte e tre insieme, stavano rapidamente distruggendo le sue forze. Gemeva così tanto. Sembrava così debole, disperato. Temevo che stesse per morire. E forse non avrei nemmeno dovuto parlare con lui.
+
+La candela, infine consumata, si spense; mentre si estingueva, notai strisce di luce grigia lungo le tende della [[Window|finestra]]: la [[Dawn|_alba]] stava per arrivare. Poco dopo sentii Pilot abbaiare in lontananza, dal suo recinto nel cortile: la [[Hope|>speranza]] rinacque. E non senza motivo: in altri cinque minuti, il suono della chiave che girava nella serratura mi annunciò che il mio turno era finito. Non avrebbe potuto durare più di due ore. Molti settimane, invece, sembrano più brevi.
+
+Il signor Rochester entrò, insieme al chirurgo che aveva mandato a chiamare.
+
+“Ora, Carter, stai attento,” disse a quest’ultimo: “Ti do soltanto mezz’ora per curare la ferita, applicare le bende e portare il paziente al piano di sotto.”
+
+“Ma è davvero in grado di muoversi, signore?”
+
+“Nessun [[Doubt|>dubbio]] al riguardo; non è nulla di grave; è solo nervoso, bisogna tenergli alto il morale. Andiamo, mettiamoci all’opera.”
+
+Il signor Rochester tirò indietro la pesante tenda e sollevò la persiana di tela; lasciò entrare tutta la luce del giorno possibile. Fui sorpresa e felice nel vedere quanto fosse già avanzata l’[[Dawn|'alba]]: alcune strisce rosa iniziavano a illuminare l’orizzonte orientale. Poi si avvicinò a Mason, che intanto era già sotto le cure del chirurgo.
+
+“Ora, mio caro amico, come stai?” chiese lui.
+
+“È finita per me, ho paura,” fu la debole risposta.
+
+“Nemmeno un po’! — [[Courage|Coraggio]]! Tra due settimane sarai quasi completamente guarito; al massimo hai perso un po’ di [[Blood|sangue]], nient’altro. Carter, assicuragli che non c’è pericolo.”
+
+“Posso farlo in modo coscienzioso,” disse Carter, che aveva ormai rimosso le bende; “solo vorrei essere arrivato prima: non avrebbe sanguinato così tanto. Ma come mai? La carne sulla spalla è lacerata, proprio come se fosse stata tagliata. Questa ferita non è stata causata da un coltello: qui ci sono stati dei denti, ”
+
+“Mi ha morso,” mormorò. “Mi ha fatto preoccupare come una tigre, quando Rochester le ha preso il coltello.”
+
+“Non avresti dovuto arrenderti: avresti dovuto affrontarla subito,” disse il signor Rochester.
+
+“Ma in tali circostanze, cosa si poteva fare?” rispose Mason. “Oh, era terribile!” aggiunse, tremando. “E non me l’aspettavo: all’inizio sembrava così tranquilla, ”
+
+“Te l’avevo detto,” fu la risposta del suo amico; “Ti avevo avvertito di stare attento quando ti avvicini a lei. Inoltre, avresti potuto aspettare fino a domani e avermi con te: è stata una vera follia tentare quell’incontro di [[Night|notte]] e [[Alone|da solo]].”
+
+“Pensavo di poter fare del bene.”
+
+“Pensavi davvero di poter farlo! Sì, mi fa impazire sentirti parlare così. Ma comunque, hai già sofferto abbastanza, e probabilmente continuerai a soffrire per non aver seguito il mio consiglio; quindi non dirò più nulla. Carter, sbrigati! Il sole sta per sorgere, e devo farlo partire subito.”
+
+“Direttamente, signore; la spalla è solo bendata. Devo controllare quest’altra ferita al braccio: credo che anche i denti le abbiano fatto del male qui.”
+
+“Ha succhiato il mio sangue. Ha detto che avrebbe prosciugato il mio cuore,” disse Mason.
+
+Vidi il signor Rochester tremare: un'espressione di disgusto, orrore e odio così intensa da alterargli quasi i tratti del viso; ma egli disse soltanto.
+
+“Per favore, taci, [[Richard]], e non dare importanza a quelle sciocchezze: non ripeterle.”
+
+“Vorrei poter dimenticarlo,” fu la risposta.
+
+“Lo farai quando sarai fuori dal paese: quando tornerai a Spanish Town, potrai considerarla morta e sepolta, o meglio, non dovrai nemmeno pensarci più.”
+
+“Inimmaginabile dimenticare questa [[Night|notte]]!”
+
+“Non è impossibile: metti un po’ di energia, amico. Due ore fa pensavi di essere morto come un pesce, e ora sei ancora vivo e parli. Ecco. Carter ha quasi finito con te; io ti sistemerò in un attimo. Jane” (si rivolse a me per la prima volta da quando era tornato), “prendi questa chiave: vai nella mia camera da letto, entra direttamente nel mio bagno, apri il cassetto in alto dell’armadio e prendi una camicia pulita e un fazzoletto da collo; portali qui, e sbrigati.”
+
+Sono andato; ho cercato il repository di cui aveva parlato, ho trovato gli articoli menzionati e sono tornato con loro.
+
+“Ora,” disse lui, “vai dall’altra parte del letto mentre io preparo il bagno per lui; ma non lasciare la stanza: potresti essere chiamata di nuovo.”
+
+Mi sono ritirato come previsto.
+
+“Mentre scendevi, c'era qualcuno che si muoveva laggiù sotto, Jane?” chiese poco dopo il signor Rochester.
+
+"No, signore; tutto era molto tranquillo."
+
+“Ti aiuteremo a uscire in modo discreto, Dick: sarà meglio sia per te che per quella povera creatura laggiù. Ho cercato per molto tempo di evitare che tutto venisse alla luce, e non vorrei che ora ciò accadesse. Ecco, Carter, aiutalo a indossare il gilet. Dove hai lasciato il tuo mantello peloso? In questo maledetto freddo, non puoi certo viaggiare senza di esso. Nella tua stanza?—Jane, corri nella stanza del signor Mason, quella accanto alla mia, e porta qui un mantello.”
+
+Di nuovo corsi via, e di nuovo tornai indietro, portando con me un enorme mantello foderato e bordato di pelliccia.
+
+“Ora, ho un altro incarico per te,” disse il mio instancabile padrone; “devi tornare di nuovo nella mia stanza. Che [[Mercy|misericordia]] che tu abbia i piedi calzati di velluto, Jane! Un messaggero comune non sarebbe mai all’altezza in questa situazione. Devi aprire il cassetto centrale del mio comodino e prendere una piccola fiala e un bicchiolo che troverai lì, velocemente!”
 
 
 
@@ -33475,6 +35432,74 @@ cheerfully—
 sunrise: I [[Rose|rose]] at four to see him off.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Oh, no! Mason non mi sfiderà; né, pur essendone a conoscenza, mi farà del male. Ma, involontariamente, potrebbe, in un attimo, con una parola negligente, privarmi, se non della vita, almeno per sempre della felicità.”
+
+“Dica a lui di essere cauto, signore: faccia sì che sappia ciò che lei  teme, e mostri come evitare il pericolo.”
+
+Rise in modo sarcastico, prese rapidamente la mia mano e poi la lasciò andare altrettanto velocemente.
+
+“Se potessi farlo, sciocco mio, dove starebbe il pericolo? Scomparirebbe in un istante. Da quando conosco Mason, basta che io gli dica ‘Fai quello’ e la cosa viene subito fatta. Ma in questo caso non posso dargli ordini: non posso dirgli ‘Stai attento a non farmi del male, [[Richard]]’, perché è essenziale che lui ignori completamente l’esistenza di tale pericolo. Ora sembri perplesso. E ti confonderò ancora di più. Sei il mio piccolo amico, vero?”
+
+“Mi piace servirvi, signore, e obbedirvi in tutto ciò che è giusto.”
+
+“Esattamente: vedo che lo fai. Vedo una vera soddisfazione nel tuo modo di muoverti e nel tuo atteggiamento, nei tuoi occhi e nel tuo viso, quando mi aiuti e mi compiaci – lavorando per me e con me, in ciò che tu stesso definisci ‘tutto ciò che è giusto’. Perché se ti ordinassi di fare qualcosa che ritieni sbagliato, non ci sarebbero più passi leggeri, né movimenti rapidi ed efficienti, né sguardi vivaci né un viso animato. Allora il mio amico si rivolgerebbe a me, in silenzio e con il viso pallido, dicendo: ‘No, signore; è impossibile: non posso farlo, perché è sbagliato, ’ E diventerebbe immobile, come una stella fissa. Beh, anche tu hai potere su di me, e puoi ferirmi; tuttavia non oso mostrarti dove sono vulnerabile. Perché, nonostante tu sia fedele e amichevole, potresti colpirmi all’istante.”
+
+“Se non avete più nulla da [[Fear|temere]] del signor Mason di quanto ne abbiate da me, signore, allora siete al sicuro.”
+
+“Che Dio lo voglia! Ecco, Jane, un pergolato; siediti qui.”
+
+Il pergolato era un arco nel muro, rivestito di edera; al suo interno c'era una panca rustica. Il signor Rochester vi si sedette, lasciandomi però spazio accanto a lui. Ma io rimasi in piedi davanti a lui.
+
+“Siediti,” disse; “il banco è abbastanza lungo per due persone. Non esiti certo a prenderti posto al mio fianco, vero? È sbagliato, Jane?”
+
+Gli ho risposto dando per scontato che lo avesse fatto; rifiutare, pensavo, sarebbe stato imprudente.
+
+“Ora, mio piccolo amico, mentre il sole beve la rugiada, mentre tutti i [[Flowers|>fiori]] di questo vecchio [[Garden|>jardino]] si svegliano e sbocciano, mentre gli [[Birds|uccelli]] portano il cibo ai loro piccoli fuori da Thornfield, e le prime [[Bees|api]] iniziano il loro lavoro, ti farò una domanda; devi cercare di immaginare che sia tua. Ma prima, guarda me e dimmi che sei a tuo agio, che non temi io possa trattenerti troppo a lungo, né tu possa sbagliare decidendo di restare.”
+
+"No, signore; sono soddisfatto."
+
+“Allora, Jane, lascia che la tua immaginazione lavori: supponiamo che tu non sia più una ragazza ben educata e disciplinata, ma un ragazzo selvaggio viziato fin dall’infanzia; immagina di trovarti in una lontana terra straniera; pensa di aver commesso un errore grave, qualunque ne sia la natura o le motivazioni, un errore le cui conseguenze ti seguiranno per tutta la vita e contamineranno ogni aspetto della tua esistenza. Ricorda: non parlo di un _crimine_; non mi riferisco a atti violenti o ad altre azioni colpevoli che possano portare il responsabile davanti alla legge. Parlo semplicemente di un errore. I risultati delle tue azioni diventano insopportabili per te; tenti di trovare rimedi, misure insolite, ma né illegali né colpevoli. Eppure sei infelice: la [[Hope|speranza]] ti ha abbandonata del tutto; il tuo “sole” al [[Noon|mezzogiorno]] si oscura in un’eclissi che sembra non finire mai. Associazioni amare e meschine diventano l’unica compagnia della tua [[Memory|memoria]]; vaghi da un luogo all’altro, cercando sollievo nell’[[Exile|’esilio]]. La felicità? Solo nel piacere, intendo dire in piaceri crudeli e sensuali che offuscano l’intelligenza e corrompono i sentimenti. Stanco d’animo e con l’[[Soul|anima]] distrutta, torni a casa dopo anni di esilio volontario. Incontra una nuova persona, non importa come o dove. E in questa sconosciuta trovi molte delle qualità positive che hai cercato per vent’anni senza mai trovarle. Qualità fresche, pure, prive di macchie o contaminazioni. Una tale compagnia ti rianima, ti rigenera. Sentisci che giorni migliori stanno per arrivare, desideri ricominciare la tua vita e trascorrere il resto dei tuoi giorni in modo più degno di un essere immortale. Per raggiungere questo scopo, sei giustificata nel superare un ostacolo legato alle convenzioni, un semplice impedimento formale che né la tua [[Conscience|conscienza]] santifica né il tuo giudizio approva, ”
+
+Si fermò in attesa di una risposta: ma cosa avrei potuto dire? Oh, se solo qualche spirito benevolo mi suggerisse una risposta giusta e soddisfacente. Vana [[Aspiration|aspirazione]]! Il vento occidentale sussurrava tra le piante intorno a me; ma nessun gentile [[Ariel]] ne utilizzò il suono come mezzo di comunicazione: gli [[Birds|uccelli]] cantavano sulle cime degli alberi; ma il loro [[Song|canto]], per quanto dolce, era incomprensibile.
+
+Di nuovo, il signor Rochester pose la sua domanda:
+
+“L’uomo che un tempo vagava e commetteva peccati, ma ora cerca riposo e si pente, può davvero permettersi di sfidare l’opinione del mondo, al fine di legarsi per sempre a questo estraneo gentile, misericordioso e cordiale, e così garantirsi la propria pace interiore e la [[Regeneration|rinascita]] della propria vita?”
+
+“Signore,” risposi, “il riposo di un viandante o la [[Reformation|riforma]] di un peccatore non dovrebbero mai dipendere da un altro essere umano. Uomini e donne muoiono; i filosofi inciampano nella loro saggezza, e i cristiani nella loro bontà: se conoscete qualcuno che abbia sofferto o commesso errori, lasciate che cerchi forza per correggersi e conforto per guarire guardando più in alto dei suoi simili.”
+
+“Ma lo strumento, lo strumento! Dio, che compie il lavoro, sceglie lo strumento adatto. Io stesso – ve lo dico senza [[Parable|parabola]] – sono stato un uomo mondano, dissoluto, inquieto; e credo di aver trovato lo strumento necessario per la mia guarigione in, ”
+
+Si fermò: gli [[Birds|uccelli]] continuavano a cantare, le [[Leaves|foglie]] frusciavano leggermente. Mi chiesi quasi se non controllassero mai le loro [[songs|canzoni]] e i loro sussurri per cogliere quella rivelazione che sembrava sospesa nel tempo; ma avrebbero dovuto aspettare molti minuti, il [[Silence|silenzio]] durava troppo a lungo. Alla fine alzai lo sguardo verso colui che parlava così lentamente: mi stava guardando con attenzione.
+
+“Piccolo amico,” disse lui, con un tono completamente diverso; anche il suo viso cambiò, perdendo tutta la sua dolcezza e serietà, diventando duro e sarcastico, “hai notato la mia tenera predilezione per la signorina Ingram. Non pensi che se la sposassi, lei potrebbe rinnovarmi attraverso la vendetta?”
+
+Si alzò immediatamente, andò fino all'altra estremità del sentiero e, quando tornò, stava canticchiando una melodia.
+
+“Jane, Jane,” disse lui, fermandosi davanti a me, “sei davvero pallida per tutte le notti insonni che hai trascorso. Non mi maledirai per aver disturbato il tuo riposo?”
+
+“Maledirti? No, signore.”
+
+“Stringiamoci la mano per confermare questa promessa. Che dita fredde! Erano più calde l’ultima [[Night|notte]], quando le ho toccate alla porta di quella stanza misteriosa. Jane, quando riuscirai a guardare di nuovo con me?”
+
+“Ogni volta che posso essere d’aiuto, signore.”
+
+“Ad esempio, la [[Night|notte]] prima del mio matrimonio! Sono sicura che non riuscirò a [[Sleep|)dormire]]. Prometterai di restare con me per farmi compagnia? Con te posso parlare della mia adorata: dopotutto l’hai già vista e la conosci.”
+
+“Sì, signore.”
+
+“È davvero una persona unica, vero, Jane?”
+
+“Sì, signore.”
+
+“Una vera bellezza, Jane: alta, bionda e formosa; con i capelli proprio come dovevano averli le signore di Cartagine. Benedetto me! Dent e Lynn sono nelle stalle. Entra dal roveto, attraverso quel cancelletto.”
+
+# Mentre io andavo da una parte, lui andava dall’altra; lo sentii nel cortile, mentre diceva qualcosa con allegria…
+
+“Stamattina presto Mason è partito prima dell’alba; mi sono alzato alle quattro per accompagnarlo.”
+
 
 
 <span class="atom-split" data-atom="chapter_21--part_01" data-title="Jane Eyre — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/home,motif/memory,motif/nature,motif/night,motif/time,motif/water,motif/well,concept/alienation,concept/courage,concept/fear,concept/hope,concept/nature,concept/poverty,concept/pride,concept/self,setting/london,character/jane_eyre,character/phantom"></span>
@@ -33610,6 +35635,57 @@ of sky-blue crape; a gauzy azure scarf was twisted in her hair. She had
 been all animation with the game, and irritated [[Pride|pride]] did not lower the
 expression of her haughty lineaments.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XXI
+
+
+I presagi sono cose strane, lo stesso vale per le simpatie e i segni; tutti e tre insieme costituiscono un mistero di cui l’umanità non ha ancora trovato la chiave. In vita mia non ho mai riso dei presagi, perché ne ho avuti anch’io di strani. Credo che le simpatie esistano davvero (ad esempio, tra parenti lontani, assenti da tempo e completamente estranei tra loro, i quali, nonostante la loro [[Alienation|alienazione]], affermano l’[[unity|unità]] della stessa origine da cui derivano entrambi); il funzionamento di queste simpatie sfida la comprensione umana. E i segni, per quel che ne sappiamo, potrebbero essere semplicemente le manifestazioni delle simpatie della [[Nature|>Natura]] verso l’uomo.
+
+Quando ero una bambina piccola, di soli sei anni, una [[Night|notte]] sentii Bessie Leaven dire a Martha Abbot che aveva sognato di un piccolo [[Child|bambino]]; e che sognare di bambini fosse un segno certo di guai, sia per sé stessi che per i propri parenti. Quel detto avrebbe potuto svanire dalla mia [[Memory|memoria]], se non fosse stato per un evento successivo che lo impresso per sempre nella mia mente. Il giorno dopo, Bessie fu chiamata a [[Home|casa]] dal letto di morte della sua sorellina.
+
+Ultimamente ripensavo spesso a questa frase e a questo episodio; infatti, nell’ultima settimana, quasi ogni [[Night|notte]], mentre mi addormentavo, sognavo un bambino: a volte lo tenevo tra le braccia, a volte lo cullavo sulle ginocchia, altre volte lo vedevo giocare con i margheriti in un prato, o ancora immergere le mani nell’acqua che scorreva. Quella [[Child|notte]] era un bambino che piangeva; la notte seguente rideva. A volte si avvicinava a me, altre volte scappava via; ma qualunque fosse l’umore di quella apparizione, o l’aspetto che assumesse, per sette notti consecutive mi incontrò ogni volta che entravo nel mondo del sonno.
+
+Non mi piaceva questa versione di un'idea. Questa strana ripetizione di uno stesso immagine mi metteva a disagio man mano che si avvicinava l’ora di dormire e l’istante in cui quella visione sarebbe dovuta realizzarsi. Fu proprio in compagnia di questo bambino-[[Phantom|fantasma]] che fui svegliato quella notte sotto la luce della luna, quando sentii quel pianto; il giorno seguente, nel pomeriggio, fui chiamato al piano di sotto da un messaggio che diceva che qualcuno desiderava vedermi nella stanza della signora Fairfax. Arrivato lì, trovai un uomo ad aspettarmi: aveva l’aspetto di un servitore di gentiluomo; era vestito a lutto e il cappello che teneva in mano era circondato da un nastro nero.
+
+“Credo che non si ricordi affatto di me, signorina,” disse alzandosi quando entrai; “ma il mio nome è Leaven: lavoravo come cocchiere per la signora Reed quando lei viveva a Gateshead, otto o nove anni fa, e ancora oggi vivo lì.”
+
+“Oh, Robert! Come stai? Ti ricordo molto bene: a volte mi portavi in giro con il pony di Miss Georgiana. E come sta Bessie? Sei sposato con Bessie?”
+
+“Sì, signora: mia moglie è molto in salute, grazie; circa due mesi fa ci ha dato un altro bambino. Ora ne abbiamo tre, e sia la madre che il [[Child|>bambino]] stanno bene.”
+
+“E la famiglia sta bene nella casa, Robert?”
+
+“Mi dispiace molto di non potervi dare notizie migliori su di loro, signorina: al momento stanno molto male, sono in grandi difficoltà.”
+
+“Spero che nessuno sia morto,” dissi, guardando il suo abito nero. Anche lui abbassò lo sguardo sulla fascia di lutto attorno al suo cappello e rispose.
+
+“Il signor John è morto ieri; è trascorsa una settimana. È avvenuto nelle sue stanze a [[London|Londra]].”
+
+“Signor John?”
+
+“Sì, davvero.”
+
+“E come fa sua madre a sopportarlo?”
+
+“Vede, signorina Eyre, non si tratta di un incidente comune: la sua vita è stata molto disordinata; negli ultimi tre anni si è abbandonato a comportamenti strani, e la sua [[Death|morte]] è stata davvero scioccante.”
+
+“Ho sentito da Bessie che non stava bene.”
+
+“Se la sta cavando [[Well|bene]]. Non avrebbe potuto andare peggio: ha rovinato sia la propria salute che il proprio patrimonio tra le peggiori persone possibili. Si è indebitato e finito in prigione; sua madre lo ha aiutato due volte, ma non appena è stato libero è tornato alle sue vecchie abitudini. Non aveva una mente forte: quei furfanti con cui viveva lo hanno ingannato in modi che non ho mai sentito prima. È arrivato a Gateshead circa tre settimane fa e voleva che sua moglie gli desse tutto ciò che possedeva. Lei ha rifiutato: i suoi mezzi finanziari erano già stati notevolmente ridotti a causa delle sue spese folli. Così è tornato via, e l’ultima notizia che abbiamo avuto di lui è che era morto. Come sia morto, solo Dio lo sa. Dicono che si sia suicidato.”
+
+# Rimasi in silenzio: le notizie erano terribili. Robert Leaven continuò…
+
+“La signora da un po’ di tempo non stava bene: era diventata molto robusta, ma non per questo più forte; inoltre la perdita di denaro e la paura della povertà la stavano letteralmente distruggendo. La notizia della morte del signor John, e soprattutto il modo in cui è avvenuta, è arrivata troppo all’improvviso: le ha causato un ictus. È rimasta tre giorni senza parlare; ma martedì scorso sembrava stare un po’ meglio: dava l’impressione di voler dire qualcosa, continuava a fare segni alla mia moglie e mormorava frasi incomprensibili. Solo ieri mattina Bessie ha capito che stava pronunciando il tuo nome; alla fine è riuscita a dire chiaramente: ‘Porta Jane, chiamate Jane Eyre: voglio parlare con lei.’ Bessie non è sicura se sia ancora in sé, o se quelle parole abbiano un vero significato; ma ne ha parlato alle signorine Reed e Georgiana, consigliandole di mandarti a chiamare. All’inizio le due giovani hanno esitato; ma loro madre diventava sempre più irrequieta, continuando a ripetere ‘Jane, Jane, ’, finché alla fine hanno acconsentito. Io ho lasciato Gateshead ieri: se riesci a prepararti in tempo, signorina, mi piacerebbe portarti via con me domani mattina presto.”
+
+“Sì, Robert, sarò pronta: penso che dovrei andare.”
+
+“Anch’io lo penso, signorina. Bessie ha detto che era sicura che non avreste rifiutato. Ma immagino che dovrete chiedere il permesso prima di poter andare, vero?”
+
+“Sì; e lo farò subito.” Dopo averlo accompagnato nella sala dei servitori e affidato alle cure della moglie di John e a quelle dello stesso John, andai alla ricerca del signor Rochester.
+
+Non si trovava in nessuna delle stanze inferiori; né nel cortile, né nelle stalle, né nei terreni circostanti. Chiesi alla signora Fairfax se lo avesse visto; sì: credeva che fosse impegnato a giocare a biliardo con la signorina Ingram. Corsi subito nella sala da biliardo: il rumore delle palle e le voci risuonavano lì dentro; il signor Rochester, la signorina Ingram, le due signorine Eshton e i loro ammiratori erano tutti impegnati nel gioco. Serviva un certo [[Courage|coraggio]] per interrompere una compagnia così interessante; tuttavia, la mia missione era troppo importante per essere rimandata, quindi mi avvicinai al signor Rochester, che si trovava accanto alla signorina Ingram. Lei si girò quando mi avvicinai e mi guardò con aria sprezzante; i suoi occhi sembravano chiedere: “Che cosa vuole ora questa creatura insignificante?” Quando dissi a bassa voce: “Signor Rochester, ”, lei fece un gesto come se stesse per mandarmi via. Ricordo perfettamente il suo aspetto in quel momento: era molto elegante e affascinante; indossava una vestaglia da mattina di seta blu cielo; intorno ai capelli aveva avvolto uno scialle azzurro trasparente. Era stata molto impegnata nel gioco, e l’[[Pride|orgoglio]] offeso non attenuava affatto l’espressione dei suoi tratti sprezzanti.
 
 
 
@@ -34707,6 +36783,67 @@ animal that I had struck or pushed had looked up at me with human eyes
 and cursed me in a man’s voice.—Bring me some [[Water|water]]! Oh, make haste!”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Chiuse le labbra.
+
+“Avresti potuto risparmiarti la fatica di pronunciare quel discorso,” rispose Georgiana. “Tutti sanno che sei l’essere più egoista e senza cuore che esista; e io conosco il tuo odio malvagio verso di me: ne ho avuto una prova quando hai architettato quella trappola contro di me riguardo a Lord Edwin Vere. Non potevi sopportare che io fossi elevata al di sopra di te, che possedessi un titolo nobiliare, che fossi accolta in ambienti dove tu non osi nemmeno farti vedere. Così hai agito da spia e delatore, rovinandomi per sempre le possibilità.” Georgiana tirò fuori il fazzoletto e si soffiò il naso per un’ora intera; Eliza, intanto, rimase seduta lì, fredda, impassibile e impegnata nel suo compito.
+
+È vero che alcuni sottovalutano i veri e generosi sentimenti, ma qui si sono mostrate due nature completamente opposte: l’una estremamente amara, l’altra miserabilmente insipida per la mancanza di sentimenti. I sentimenti senza giudizio possono essere considerati una bevanda insipida; ma il giudizio privo di sentimenti è troppo amaro e aspro per poter essere digerito dall’uomo.
+
+Era un pomeriggio umido e ventoso: Georgiana si era addormentata sul divano mentre leggeva un [[Novel|romanzo]]; Eliza era andata a partecipare alla funzione del giorno di sant’Antonio nella nuova chiesa, perché in materia di religione era una rigida formalista: nessuna condizione meteorologica poteva impedirle di adempiere puntualmente ai doveri che considerava devoti; sia che il tempo fosse bello o cattivo, andava in chiesa tre volte ogni [[Sunday|)domenica]] e, nei giorni feriali, tutte le volte che ci fossero funzioni religiose.
+
+Decisi di salire al piano di sopra per vedere come stesse quella donna morente, che giaceva lì quasi ignorata: persino i domestici le dedicavano solo un’attenzione superficiale; l’infermiera assunta, non avendo ricevuto molte cure, approfittava di ogni occasione per uscire dalla stanza. Bessie era fedele, ma doveva occuparsi anche della sua famiglia e poteva venire in sala solo di tanto in tanto. Trovai la camera da malata esattamente come mi aspettavo: nessuna infermiera c’era; la paziente giaceva immobile, apparentemente priva di sensi; il suo viso pallido era affondato nei cuscini; il fuoco nel camino stava spegnendosi. Rifornii il camino, sistemai di nuovo le coperte e rimasi a guardarla per un po’, lei che ormai non poteva più guardare me. Poi mi allontanai verso la [[Window|finestra]].
+
+La pioggia batteva con forza contro i vetri, il [[Wind|vento]] soffiava impetuosamente:  
+“Lì giace qualcuno”, pensai, “che presto uscirà dal dominio degli elementi terreni. Dove volerà quell’anima, ora ancora lottante per lasciare il suo guscio materiale, quando finalmente sarà liberata?”
+
+Meditando su questo grande mistero, pensai a [[Helen Burns]], ricordai le sue ultime parole, la sua  fede, la sua dottrina sull’uguaglianza delle anime disincarnate. Continuavo ancora a riascoltare nella mia mente i suoi toni ben ricordati, a immaginare il suo aspetto pallido e spirituale, il suo viso emaciato e lo sguardo  sublime mentre giaceva sul suo letto di morte, sussurrando il suo desiderio di essere riunita al seno del suo divino Padre. Quando una voce debole mormorò dal divano alle mie spalle: “Chi è?”
+
+Sapevo che la signora Reed non aveva parlato per giorni: stava forse riprendendosi? Andai da lei.
+
+“Sono io, zia Reed.”
+
+“Chi, io?” fu la sua risposta. “Chi sei tu?” mi chiese, guardandomi con sorpresa e un certo allarme, ma non troppo. “Sei davvero una sconosciuta per me, dove è Bessie?”
+
+“È alla capanna, zia.”
+
+“Zia,” ripeté. “Chi mi chiama zia? Non sei una dei Gibson. Eppure ti riconosco: quel viso, quegli occhi, quella fronte. Mi sono così familiari. Sei come, beh, sei proprio come [[Jane Eyre]]!”
+
+Non dissi nulla: avevo paura di causare qualche shock rivelando la mia [[Identity|identità]].
+
+“Tuttavia,” disse lei, “temo che si tratti di un errore: i miei pensieri mi ingannano.
+Volevo vedere [[Jane Eyre]], e credo di scorgere una somiglianza dove in realtà non c’è alcuna;
+inoltre, in otto anni lei deve essere cambiata molto.” Allora le assicurai dolcemente che ero proprio la persona che pensava fossi e che desiderava incontrare; e vedendo che mi capiva e che i suoi sensi erano completamente lucidi, le spiegai come Bessie avesse mandato suo marito a prendermi da Thornfield.
+
+“Sono molto malata, lo so,” disse poco dopo. “Cerco di muovermi da qualche minuto, ma non riesco a muovere nemmeno un braccio o una gamba. È il momento giusto per rilassarmi prima di morire. Quello che consideriamo insignificante quando siamo in salute, diventa un peso terribile in momenti come questo. La [[Nurse|infermiera]] è qui? O non c’è nessun altro nella stanza oltre a te?”
+
+Le assicurai che eravamo [[Alone|soli]].
+
+“Beh, ho commesso due errori nei tuoi confronti, di cui ora mi pento. Il primo è stato rompere la promessa fatta a mio marito di crescerti come se fossi mia figlia; l’altro, ” si interruppe. “Dopotutto, forse non ha molta importanza, ”, mormorò tra sé, “e poi potrei anche migliorare in futuro. E umiliarmi così davanti a lei è davvero doloroso.”
+
+Cercò con tutte le sue forze di cambiare posizione, ma non ci riuscì; il suo viso cambiò espressione; sembrava che stesse provando qualche sensazione interiore, forse l’anticipo dell’ultimo dolore.
+
+“Beh, devo farla finita. L’[[Eternity|eternità]] mi aspetta davanti: è meglio che le dica tutto. Vai nel mio armadio, aprilo e prendi una lettera che troverai lì dentro.”
+
+Obbedii alle sue istruzioni. “Leggi la lettera,” disse.
+
+“Fu breve, ed è così nata l’idea…”
+
+“Madam,  
+vorreste avere la gentilezza di inviarmi l’indirizzo di mia nipote, Jane Eyre, e di dirmi come sta? Intendo scrivere presto e desidero che venga da me a Madeira. La [[Providence|Provvidenza]] ha benedetto i miei sforzi per assicurarmi un reddito sufficiente; essendo single e senza figli, vorrei adottarla durante la mia vita e lasciarle tutto ciò che possiedo alla mia [[Death|morte]].”
+
+
+# Io sono, signora, ecc., ecc.,  
+“JOHN EYRE, Madeira.”
+
+
+La data risaliva a tre anni prima.
+
+“Perché non ne ho mai sentito parlare?” chiesi.
+
+“Perché ti ho disprezzato troppo profondamente e completamente per poter mai aiutarti ad arrivare alla prosperità. Non riuscivo a dimenticare il tuo comportamento verso di me: la furia con cui una volta mi hai attaccata; il tono con cui hai dichiarato di odiarmi più di chiunque altro al mondo; quell’aspetto e quella voce infantili con cui hai affermato che solo il pensiero di me ti faceva star male, sostenendo che ti avevo trattata con una crudeltà disumana. Non riuscivo nemmeno a dimenticare le mie stesse emozioni quando hai iniziato così, riversando tutto il veleno del tuo cuore. Ho provato [[Fear|paura]], come se un animale che avevo colpito o spinto mi avesse guardata con occhi umani e maledetto me con voce umana. Portami dell’[[Water|acqua]]! Oh, sbrigati!”
+
 
 
 <span class="atom-split" data-atom="chapter_21--part_08" data-title="Jane Eyre — Chapter 21 (part 8)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/death,motif/fire,motif/love,motif/night,motif/pain,motif/silence,motif/soul,motif/time,motif/water,concept/forgiveness,concept/revenge,concept/suffering,character/jane_eyre,character/nurse"></span>
@@ -34779,6 +36916,33 @@ life was shortened by trouble.” And then a spasm constricted her mouth
 for an instant: as it passed away she turned and left the room, and so
 did I. Neither of us had dropt a tear.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Carissima signora Reed,” dissi porgendole il documento di cui aveva bisogno,  
+“non pensi più a tutto questo, lasci che svanisca dalla tua mente. Perdonami per il mio linguaggio appassionato: all’epoca ero solo un [[Child|bambino]]; sono passati otto, nove anni da quel giorno.”
+
+Non prestò attenzione a nulla di ciò che dissi; ma dopo aver assaggiato quell’[[Water|acqua]] e aver respirato, continuò così.
+
+“Vi dico che non ho potuto dimenticarlo; e mi sono presa la mia [[Revenge|vendetta]]: il fatto che foste adottato da vostro zio e messo in una condizione di agi e comfort era qualcosa che non riuscivo a sopportare. Gli ho scritto, dicendo di essere dispiaciuta per la sua delusione, ma che [[Jane Eyre]] era morta: era morta di febbre tifoide a Lowood. Ora fate pure ciò che volete: scrivetemi e contraddite le mie affermazioni; rivelate la mia menzogna quando vi pare. Penso che siate nato proprio per essere la mia tortura. L’ultimo momento della mia vita è segnato dal ricordo di un atto che, senza di voi, non avrei mai avuto il coraggio di compiere.”
+
+“Se solo poteste convincervi di non pensarci più, zia, e di trattarmi con gentilezza e [[Forgiveness|perdono]], ”
+
+“Hai un carattere molto cattivo,” disse lei, “e ancora oggi trovo impossibile capire: come abbia potuto essere paziente e tranquillo per nove anni sotto qualsiasi trattamento, per poi esplodere in tutta la tua [[Fire|ira]] e violenza nel decimo anno. Non riesco proprio a comprenderlo.”
+
+“La mia natura non è così cattiva come pensi: sono appassionato, ma non vendicativo. Molte volte, da piccolo, sarei stato felice di [[Love|amarti]] se tu me lo avessi permesso; e ora desidero ardentemente riconciliarmi con te: baciami, zia.”
+
+Avvicinai la mia guancia alle sue labbra, ma lei non volle toccarla. Disse che la opprimevo chinandomi sopra il letto e di nuovo chiese dell’[[Water|acqua]]. Mentre la adaggiavo a terra – poiché l’avevo sollevata e la sostenevo con il braccio mentre beveva – coprii la sua mano fredda e umida con la mia; le dita deboli si ritrassero al mio tocco, gli occhi vitrei evitarono il mio sguardo.
+
+“Allora, ama me o odiami come vuoi,” dissi infine, “ho il mio pieno e libero [[Forgiveness|perdono]]; chiedi ora anche quello di Dio, e vivi in pace.”
+
+Povera donna, [[Suffering|sofferente]]. Era ormai troppo tardi per lei cercare di cambiare il proprio modo abituale di pensare: da viva mi aveva sempre odiato; morendo, sicuramente mi odierà ancora.
+
+La [[Nurse|infermiera]] entrò allora, e Bessie la seguì. Io rimasi ancora per mezz’ora, nella speranza di vedere qualche segno di affetto da parte sua. Ma non ne mostrò alcuno. Stava rapidamente ricadendo nel delirio; la sua mente non si riprendeva più: alle dodici di quella [[Clock|notte]] morì. Non ero presente quando le chiusero gli occhi, né lo furono nessuna delle sue figlie. Vennero a dirci il giorno dopo che tutto era finito. A quell’ora, lei era già stata preparata per la sepoltura. Eliza ed io andammo a vederla. Georgiana, che aveva iniziato a piangere ad alta voce, disse di non osare avvicinarsi. Lì giaceva il corpo un tempo robusto e attivo di Sarah Reed: rigido, immobile; il suo occhio freddo era coperto dalle palpebre. La sua fronte e i suoi tratti decisi portavano ancora l’impronta della sua anima inesorabile. Quel cadavere rappresentava per me un oggetto strano e solenne. Lo fissavo con tristezza e dolore: non suscitava in me nulla di dolce, né di speranzoso. Solo una angoscia profonda per le sue sofferenze. Non per la mia perdita. Ma solo un cupo orrore di fronte alla terribilità della [[Death|morte]] in una forma del genere.
+
+Eliza osservò i suoi genitori con calma. Dopo un [[Silence|silenzio]] di alcuni minuti, disse:
+
+Con la sua costituzione, avrebbe dovuto vivere fino a un’età avanzata; la sua vita fu accorciata dai problemi. Poi, per un istante, uno spasmo le contrasse la bocca; quando passò, si girò e lasciò la stanza. E lo stesso feci io. Nessuno dei due aveva versato una lacrima.
 
 
 
@@ -34891,6 +37055,33 @@ Thornfield against me and pointing me out another [[Road|road]]; and Mr.
 Rochester looked on with his arms folded—smiling sardonically, as it
 seemed, at both her and me.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XXII
+
+
+Il signor Rochester mi aveva concesso soltanto una settimana di congedo; tuttavia trascorse un mese prima che lasciassi Gateshead. Avrei voluto partire immediatamente dopo il funerale, ma Georgiana mi pregò di restare fino a quando non avesse potuto recarsi a [[London|Londra]], dove finalmente era stata invitata dal suo zio, il signor Gibson, che era venuto per organizzare i funerali di sua sorella e sistemare gli affari familiari. Georgiana temeva di rimanere [[Alone|da sola]] con Eliza; da lei non riceveva né comprensione nel suo dolore, né sostegno nelle sue paure, né aiuto nei suoi preparativi; quindi sopportai, per quanto possibile, i suoi lamenti deboli e le sue lamentele egoistiche, facendo del mio meglio per cucire per lei e impacchettare i suoi vestiti. È vero che mentre lavoravo, lei se ne stava in ozio; e pensavo tra me: “Se fossimo destinate a vivere insieme per sempre, cugina, avremmo iniziato su basi diverse. Non mi sarei accontentata di essere la parte tollerante; ti avrei assegnato la tua quota di lavoro e ti avrei costretta a compiere il tuo dovere, altrimenti tutto sarebbe rimasto incompiuto. Avrei anche insistito affinché tenessi per te quelle lamentele prolisse e insincere, e le tenessi nascoste dentro di te. È solo perché la nostra relazione è molto effimera e arriva in un momento particolarmente triste che acconsento a comportarmi con tanta pazienza e comprensione da parte mia.”
+
+Finalmente riuscii a salutare Georgiana; ma ora era il turno di Eliza di chiedermi di restare un’altra settimana. I suoi piani richiedevano tutta la sua [[Time|tempo]] e attenzione, disse; stava per partire per una destinazione sconosciuta; per tutto il giorno rimase nella sua stanza, con la porta chiusa a chiave, riempiendo bauli, svuotando cassetti, bruciando documenti, senza comunicare con nessuno. Mi chiese di prendermi cura della [[house|>casa]], di ricevere le visite e di rispondere alle lettere di condoglianze.
+
+Una mattina mi disse che potevo fare ciò che volevo. “E,” aggiunse, “sono in debito con te per i tuoi preziosi servizi e il tuo comportamento discreto! C’è una certa differenza tra vivere con qualcuno come te e con Georgiana: tu svolgi il tuo ruolo nella vita senza gravare sugli altri. Domani,” continuò, “partirò per l’Europa continentale. Mi stabilirò in un istituto religioso vicino a Lisle, una sorta di convento; lì sarò tranquilla e al sicuro. Dedicherò del tempo all’esame dei dogmi cattolici romani e allo studio attento del funzionamento del loro sistema: se scoprirò che è davvero, come sospetto, il sistema più adatto a garantire che tutto venga fatto in modo decente e ordinato, accetterò i principi di Roma e probabilmente prenderò i voti.”
+
+Né manifestai sorpresa di fronte a questa decisione, né cercai di dissuaderla dal prenderla. “Questa vocazione ti si addice perfettamente”, pensai: “Che possa portarti solo bene!”
+
+Quando ci siamo separate, lei disse: “Addio, cugina [[Jane Eyre]]; ti auguro tutto il meglio, hai un po’ di buon senso.”
+
+Allora tornai e dissi: “Non sei certo priva di buon senso, cugina Eliza; ma quello che hai, suppongo, tra un anno ti porterà a finire murata viva in un convento francese. Comunque, non è affar mio. E se a te sta bene, a me non importa molto.”
+
+“Hai ragione,” disse lei; e con queste parole ognuno di noi prese la propria strada. Poiché non avrò più occasione di menzionare né lei né sua sorella, posso benissimo dire qui che Georgiana trovò un marito adatto, un ricco uomo di moda ormai in declino, mentre Eliza davvero indossò il velo e oggi è in una posizione sociale superiore rispetto al convento dove trascorse il periodo del suo noviziato, e al quale donò anche la propria fortuna.
+
+Non sapevo come si sentissero le persone quando tornavano [[Home|a casa]] dopo un'assenza, lunga o breve: non avevo mai sperimentato quella sensazione. Conoscevo soltanto cosa significasse tornare a Gateshead da bambino, dopo una lunga camminata, per essere rimproverato perché sembravo freddo o triste; e in seguito, cosa significasse tornare da chiesa a Lowood, desiderando ardentemente un pasto abbondante e un bel [[Fire|fuoco]], ma non riuscendo ad averli. Nessuno di questi ritorni era particolarmente piacevole o desiderabile: nessun “magnete” mi attirava verso un luogo specifico, aumentando la forza del suo fascino man mano che mi avvicinavo. Il ritorno a Thornfield, invece, doveva ancora essere sperimentato.
+
+Il mio [[Journey|viaggio]] sembrava noioso, davvero molto noioso: cinquanta miglia al giorno, una [[Night|notte]] trascorsa in una locanda; altre cinquanta miglia il giorno seguente. Nei primi dodici ore pensavo a Mrs. Reed nei suoi ultimi momenti; vedevo il suo viso sfigurato e pallido, sentivo la sua voce stranamente cambiata. Riflettevo sul giorno del funerale, sulla bara, sul carro funebre, sulla processione di inquilini e servitori, i parenti erano pochi; pensavo alla tomba, alla chiesa silenziosa, alla cerimonia solenne. Poi pensavo a Eliza e Georgiana: una diventata oggetto di derisione in un salone da ballo, l’altra rinchiusa in una cella conventuale, riflettevo attentamente sulle loro caratteristiche personali e sul loro temperamento. La sera, arrivato nella grande città di ——, questi pensieri si dispersero; la [[Night|notte]] diede loro un’altra direzione: sdraiato sul mio letto da viaggio, lasciai che i ricordi cedessero il posto alle aspettative future.
+
+Stavo tornando a Thornfield, ma per quanto tempo sarei rimasta lì? Non molto, di questo ne ero sicura. Nel frattempo in cui ero assente, avevo ricevuto notizie da parte della signora Fairfax: la festa nella sala era finita; il signor Rochester se n’era andato a [[London|Londra]] tre settimane prima, ma si prevedeva che tornasse entro quindici giorni. La signora Fairfax supponeva che fosse partito per organizzare il suo matrimonio, poiché aveva parlato di acquistare una nuova carrozza; diceva che l’idea del suo matrimonio con la signorina Ingram le sembrava ancora strana. Ma, a giudicare da ciò che tutti dicevano e da ciò che lei stessa aveva visto, non poteva più [[Doubt|dubitare]] che quell’evento avrebbe presto avuto luogo. “Saresti davvero incredula se ne dubitassi,” fu il mio commento interiore. “Non ne dubito affatto.”
+
+La domanda seguì: “Dove dovrei andare?” Sognai di Miss Ingram per tutta la [[Night|notte]]: in un vivido sogno mattutino la vidi chiudere i cancelli di Thornfield davanti a me e indicarmi un’altra [[Road|strada]]; e Mr. Rochester osservava la scena con le braccia incrociate, sorridendo in modo sarcastico, sembrava, sia di lei che di me.
 
 
 
@@ -35013,6 +37204,53 @@ it too good for common purposes: it was the real sunshine of feeling—he
 shed it over me now.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Non avevo comunicato alla signora Fairfax la data esatta del mio ritorno; non volevo che né carrozza né altro mi venisse incontro a Millcote. Decisi di percorrere il tragitto da solo, in silenzio. Dopo aver lasciato i miei bagagli alle cure dell’ostiere, me ne andai furtivamente dall’ostello George, verso le sei di una sera di giugno, e presi la vecchia strada che conduceva a Thornfield: una strada che attraversava principalmente campi ed era ormai poco frequentata.
+
+Non era una serata estiva luminosa o splendida, ma piuttosto bella e dolce: i mietitori erano al lavoro lungo tutta la [[Road|strada]]; il cielo, sebbene lontano dall’essere completamente sereno, prometteva bene per il futuro: il suo blu – dove era visibile – era delicato e pacato, e le sue nuvole erano alte e sottili. Anche il tramonto era caldo; nessun bagliore acquoso lo raffreddava. Sembrava che ci fosse un [[Fire|fuoco]] acceso, un altare in fiamme dietro uno schermo di vapori colorati, e dalle sue fessure proveniva una luce rossa dorata.
+
+Ero felice mentre la [[Road|strada]] si accorciava davanti a me; così felice che mi fermai un attimo per chiedermi cosa significasse quella gioia, e per ricordare a me stessa che non stavo andando verso la mia [[Home|>casa]], né verso un luogo di riposo permanente, né verso un posto dove amici cari mi aspettassero con affetto.  
+“La signora Fairfax vi accoglierà sicuramente con un sorriso sereno,” dissi; “e la piccola Adèle batterà le mani e saltellerà di gioia nel vedervi. Ma voi sapete molto bene che state pensando a qualcun altro, e che lui non sta pensando a voi.”
+
+Ma cosa c'è di più testardo della gioventù? Cosa c'è di più cieco dell'inesperienza?  
+Queste ragazze sostenevano che fosse già abbastanza felice avere il privilegio di rivedere il signor Rochester, anche se lui non mi guardava; e aggiungevano: “Affrettati! Vai da lui finché puoi. Ma tra pochi giorni o settimane, vi separerete per sempre!” E allora soffocai un nuovo dolore nato in me – qualcosa di distorto che non riuscivo a riconoscere né ad accettare – e continuai la mia strada.
+
+Stanno anche raccogliendo l’erba nei prati di Thornfield: o meglio, i lavoratori hanno appena terminato il loro compito e stanno tornando [[Home|>a casa]] con le loro rastrelliere sulle spalle, proprio in questo momento del mio arrivo. Devo attraversare ancora uno o due campi, poi passerò la [[Road|strada]] e raggiungerò il cancello. Quanto sono pieni di rose i cespugli. Ma non ho [[Time|tempo]] per raccoglierne; devo arrivare alla [[house|casa]]. Ho superato un alto roveto, le cui foglie e i suoi fiori si estendevano lungo il sentiero; vedo la stretta scala in pietra. E lì c’è il signor Rochester: tiene in mano un libro e una matita; sta scrivendo.
+
+Beh, non è certo uno [[Ghost|fantasma]]; eppure ogni nervo del mio corpo è teso al massimo: per un momento mi sono completamente perso nel mio stesso controllo. Cosa significa tutto questo? Non pensavo che avrei dovuto tremare in questo modo quando l’ho visto, né che avrei perso la voce o la capacità di muovermi al suo cospetto. Tornerò non appena riuscirò a riprendermi: non ho certo intenzione di fare la figura dello [[Fool|idiota]]. Conosco un altro modo per raggiungere quella [[house|casa]]. Anche se ne conoscessi venti, non cambierebbe nulla. Lui mi ha visto, dopotutto.
+
+“Ehi!” grida lui; poi mette da parte il libro e la matita. “Eccoti qui! Vieni pure, per favore.”
+
+Suppongo di riuscire davvero a comportarmi in modo appropriato; anche se non so esattamente come. Non ho quasi consapevolezza dei miei movimenti, e mi preoccupo soltanto di apparire calma; soprattutto, di controllare i muscoli del mio viso, che sembrano ribellarsi ostinatamente alla mia volontà, cercando di esprimere ciò che ho deciso di nascondere. Ma ho un velo. È abbassato: forse riesco comunque a comportarmi con dignità e compostezza.
+
+“E questa è davvero [[Jane Eyre]]? Vieni da Millcote, e a piedi per di più?  
+Sì, solo uno dei tuoi trucchi: non farti portare in carrozza, ma arrivare qui con tutto il rumore delle strade, come una comune mortale. Per poi entrare furtivamente nei dintorni della tua [[Home|>casa]], insieme al crepuscolo, come se fossi un sogno o un’ombra. Che diavolo hai fatto a te stessa in questo ultimo mese?”
+
+“Sono stato con mia zia, signore… che è morta.”
+
+“Una vera risposta da Janian. Buoni angeli, proteggetemi! Viene dall’altro mondo, dall’abitazione delle persone morte; e me lo dice proprio quando mi incontra [[Alone|da solo]] qui, nella penombra. Se osassi, ti toccherei per vedere se sei sostanza o [[Shadow|ombra]], tu elfo. Ma sarebbe come cercare di afferrare una luce blu e ingannevole in un pantano. Assente da me per un intero mese. E mi ha completamente dimenticato, giuro!” aggiunse dopo un attimo di pausa.
+
+Sapevo che avrei provato piacere nel rivedere il mio padrone, nonostante fossi sopraffatto dalla [[Fear|>paura]] che potesse smettere di esserlo così presto, e dal pensiero che per lui io non significassi nulla. Ma in Mr. Rochester c’era sempre una tale capacità di trasmettere felicità, che anche solo assaporare le briciole che distribuiva a persone come me, straniere e perdute, equivaleva a partecipare a un banchetto gioioso. Le sue ultime parole furono un balsamo: sembravano implicare che per lui fosse importante che io lo dimenticassi o meno. E aveva parlato di Thornfield come della mia [[Home|>casa]]. Oh, se solo potesse davvero esserlo!
+
+Non ha cambiato abitudini, e a me non dispiaceva affatto seguirle. Ho chiesto subito se fosse mai stato a [[London|Londra]].
+
+“Sì… Immagino che tu l’abbia scoperto grazie a una sorta di preveggenza.”
+
+“La signora Fairfax me lo ha detto in una lettera.”
+
+“E ti ha detto cosa sono andato a fare?”
+
+“Ah sì, signore! Tutti conoscevano lo scopo della sua missione.”
+
+“Devi assolutamente vedere quella carrozza, Jane. Dimmi se non pensi che si adatti perfettamente alla signora Rochester; e se lei non sembrerà una specie di [[Queen|Regina]] Boadicea, appoggiata a quei cuscini viola. Vorrei tanto, Jane, essere un po’ più attraente esteriormente. Dimmi adesso: tu, che sei una fata, non potresti darmi qualche incantesimo, o qualche filtro, o qualcosa del genere, per farmi diventare un uomo affascinante?”
+
+“Sarebbe al di là del potere della [[Magic|magia]], signore”; e, nel mio pensiero, aggiunsi:
+“Un occhio pieno d’amore è tutto il fascino di cui si ha bisogno: per una persona del genere, siete abbastanza attraenti;
+o meglio, la vostra severità possiede un potere che va oltre la [[Beauty|>bellezza]].”
+
+A volte il signor Rochester riusciva a leggere i miei pensieri inespressi con un’intuizione che mi risultava incomprensibile; in questo caso, però, non prestò attenzione alla mia risposta improvvisa e vocale; si limitò a sorridere verso di me con quel suo particolare sorriso, che utilizzava solo in rare occasioni. Sembrava considerarlo troppo prezioso per usi comuni. Era il vero “sole” dei sentimenti: ora lo riversò su di me.
+
 
 
 <span class="atom-split" data-atom="chapter_22--part_03" data-title="Jane Eyre — Chapter 22 (part 3)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="archetype/lover,motif/cross,motif/home,motif/marriage,motif/prayer,motif/silence,motif/time,motif/well,concept/hope,character/jane_eyre"></span>
@@ -35077,6 +37315,22 @@ dejection, he became even gay. Never had he called me more frequently
 to his presence; never been kinder to me when there—and, alas! never
 had I loved him so [[Well|well]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Pasa, Janet,” disse lui, facendomi spazio per attraversare il cancello: “vai su, a casa tua, e lascia che i tuoi stanchi piedini smettano di vagabondare, riposandosi alla soglia di un amico.”
+
+Tutto ciò che dovevo fare ora era obbedirgli in [[Silence|silenzio]]: non c’era bisogno che continuassi a parlare. Accettai quelle istruzioni senza dire una parola e intendevo lasciarlo in pace. Ma un impulso mi trattenne. Una forza mi fece girare su me stessa. Dissi qualcosa, o, meglio, qualcosa dentro di me lo disse al mio posto, contro la mia volontà.
+
+“Grazie, signor Rochester, per la sua grande gentilezza. Sono stranamente felice di poter tornare da lei: ovunque lei si trovi, è il mio [[Home|>casa]], l’unico mio [[Home|>casa]].”
+
+Camminavo così velocemente che nemmeno lui avrebbe potuto raggiungermi se ci avesse provato. La piccola Adèle era letteralmente fuori di sé dalla gioia quando mi vide. La signora Fairfax mi accolse con la sua solita cordialità semplice e schietta. Leah sorrise, e persino Sophie mi salutò con entusiasmo dicendo “buonasera”. Fu davvero piacevole. Non esiste felicità maggiore di quella di essere amati dai propri simili e di sentire che la propria presenza contribuisce al loro benessere.
+
+Quella sera chiusi risolutamente gli occhi di fronte al futuro; tappai anche le orecchie alle voci che continuavano a avvertirmi della prossima separazione e del dolore imminente. Quando il tè fu finito, la signora Fairfax iniziò a lavorare a maglia, io mi misi seduta vicino a lei, mentre Adèle, inginocchiata sul tappeto, si accoccolò accanto a me; un senso di affetto reciproco sembrava avvolgerci in un cerchio di pace dorata. Pregai silenziosamente che non fossimo separati troppo presto. Ma quando il signor Rochester entrò all’improvviso e, guardandoci, parve godersi la vista di un gruppo così armonioso, dicendo che pensava la vecchia signora fosse ora in buone condizioni, visto che aveva riavuto indietro sua figlia adottiva, e aggiungendo che Adèle sembrava “pronta a baciare la sua piccola mamma inglese”, osai sperare che, anche dopo il suo [[Marriage|matrimonio]], ci tenesse insieme sotto la protezione della sua influenza, e che non fossimo completamente esiliati dall’ambiente sereno creato dalla sua presenza.
+
+Dopo due settimane di una calma apparentemente tranquilla, tornai a Thornfield Hall. Non si parlava più del [[Marriage|matrimonio]] del padrone di casa, e non si vedevano alcune preparazioni per un evento del genere. Quasi ogni giorno chiedevo a Mrs. Fairfax se avesse saputo qualcosa riguardo alle decisioni prese; la sua risposta era sempre negativa. Una volta mi disse che aveva effettivamente chiesto a Mr. Rochester quando avrebbe portato a casa sua moglie, ma lui le aveva risposto solo con una battuta e uno dei suoi strani sguardi, quindi non riusciva a capire cosa pensasse veramente.
+
+C’è stata una cosa che mi ha sorpreso particolarmente: non ci furono viaggi avanti e indietro, né visite a Ingram Park. Certo, distava venti miglia, ai confini di un altro contea; ma quale importanza aveva quella distanza per un appassionato [[Lover|amante]]? Per un cavaliere esperto e instancabile come il signor Rochester, sarebbe stata soltanto una cavalcata mattutina. Iniziai a nutrire speranze che non avrei dovuto avere: che l’accordo fosse stato annullato; che quella voce fosse errata; che una o entrambe le parti avessero cambiato idea. Osservavo spesso il volto del mio padrone per vedere se fosse triste o arrabbiato; ma non riuscivo a ricordare un momento in cui fosse stato così sereno, privo di ombre o sentimenti negativi. Nei momenti che trascorrevamo insieme, quando io e la mia allieva eravamo avviate alla malinconia, lui diventava ancora più allegro. Non mi chiamava mai così spesso al suo fianco; non era mai stato più gentile con me. E, ahimè, non lo amavo mai come in quel momento.
 
 
 
@@ -35199,6 +37453,7 @@ Adhesiveness?”
 <span class="qlang-split" data-lang="it"></span>
 
 # CAPITOLO XXIII
+
 
 Un splendido mezzogiorno estivo illuminava l’Inghilterra: cieli così puri, soli così radiosi, come raramente si vedevano in quella stagione nel nostro paese bagnato dalle onde del mare. Era come se un gruppo di giorni meravigliosi provenisse dal Sud, come uno stormo di splendidi uccelli migratori, e si posasse sulle scogliere di Albion per donarci ancora più luce. L’erba era stata tutta raccolta; i campi intorno a Thornfield erano verdi e ben curati; le strade erano bianche e asciutte; gli alberi erano nel pieno della loro bellezza; siepi e boschi, rigogliosi di foglie e intensamente colorati, contrastavano piacevolmente con il tono dorato dei prati aperti intorno.
 
@@ -35377,6 +37632,82 @@ no longer; I was obliged to yield, and I was shaken from head to foot
 with acute distress. When I did speak, it was only to express an
 impetuous wish that I had never been born, or never come to Thornfield.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Sì, ne sono davvero affezionato.”
+
+“E anche se non capisco come sia possibile, noto che hai sviluppato una certa stima per quella sciocca piccola [[Child|>bambina]] Adèle. E persino per la semplice signora Fairfax.”
+
+“Sì, signore; in modi diversi, provo affetto per entrambi.”
+
+“E mi dispiacerebbe davvero separarmene…”
+
+“Sì, davvero.”
+
+“Povera me!”, disse, sospirando e facendo una pausa. “È sempre così che vanno le cose in questa vita”, continuò poi: “Appena ti sei sistemato in un bel posto di riposo, subito qualcuno ti chiede di alzarti e di andare avanti, perché l’ora del riposo è già finita.”
+
+“Devo andare avanti, signore? Devo lasciare Thornfield?” chiesi.
+
+“Devi farlo, Jane… Mi dispiace, Janet, ma credo davvero che tu debba farlo.”
+
+Questo fu un duro colpo, ma non lasciai che mi abbattesse.
+
+“Beh, signore, sarò pronto non appena arriverà l’ordine di marciare.”
+
+“È proprio ora, devo darglielo, di [[Night|notte]].”
+
+“Allora sì, signore, si sposerà?”
+
+“Esattamente – in modo preciso: con la tua solita acutezza, hai colpito nel segno giusto.”
+
+“Presto, signore?”
+
+“Molto presto, io, cioè, la signorina Eyre: e ricorderai sicuramente, Jane, la prima volta che io, o meglio, “Rumour”, ti ho chiaramente fatto capire che intendevo mettere fine alla mia vita da scapolo, entrare nello stato sacro del matrimonio, insomma, prendere la signorina Ingram nel mio cuore. (È davvero una donna straordinaria, ma questo non è il punto principale: non si può mai avere abbastanza di qualcosa di così meraviglioso come la mia adorabile Blanche, ) Bene, come stavo dicendo, ascoltami bene, Jane! Non starai mica guardando da un’altra parte per cercare altre “farfalle”, vero? Quella era solo un’orologeria da signora, una “bambola” che “volava via verso casa”. Voglio ricordarti che sei stata tu la prima a dirmi, con quella discrezione che rispetto in te, con quella previdenza, prudenza e umiltà che si addicono alla tua posizione responsabile e dipendente, che, nel caso mi sposassi con la signorina Ingram, sia tu che la piccola Adèle dovreste andarvene immediatamente. Ometto completamente le insinuazioni offensive contenute in questo suggerimento riguardo al carattere della mia amata. Anzi, quando sarai lontana, Janet, cercherò di dimenticarle. Noterò soltanto la loro saggezza, una saggezza tale che ne ho fatto la mia regola di condotta. Adèle deve andare a scuola; e tu, signorina Eyre, devi trovare un nuovo lavoro.”
+
+“Sì, signore, pubblicherò l’annuncio immediatamente; intanto, suppongo, ” stavo per dire, “suppongo possa rimanere qui, fino a quando non troverò un altro rifugio dove andare, ”, ma mi fermai, rendendomi conto che non sarebbe stato opportuno rischiare di pronunciare una frase troppo lunga: la mia voce non era ancora del tutto sotto controllo.
+
+“Entro circa un mese spero di diventare uno sposo,” continuò il signor Rochester; “intanto, mi occuperò personalmente di trovare lavoro e un rifugio per te.”
+
+“Grazie, signore; mi dispiace dover…”
+
+“Oh, non c’è bisogno di scusarsi! Ritengo che quando una dipendente svolge il proprio dovere con la stessa dedizione con cui l’avete fatto voi, abbia diritto a un certo aiuto da parte del proprio datore di lavoro; anzi, ho già sentito, tramite mia futura suocera, di un posto che penso possa essere adatto: si tratta dell’insegnamento delle cinque figlie della signora Dionysius O’Gall di Bitternutt Lodge, nel Connacht, in Irlanda. Penso che vi piacerà l’Irlanda. Dicono che la gente là sia molto gentile e ospitale.”
+
+“È ancora lontano, signore.”
+
+“Non importa: una ragazza con il tuo buon senso non si opporrebbe né al viaggio né alla distanza.”
+
+"Né il viaggio in sé, ma la distanza… E poi il mare diventa una barriera."
+
+“Da cosa, Jane?”
+
+“Dall’Inghilterra e da Thornfield: e—”
+
+“[[Well|Beh]]?”
+
+“Da voi, signore.”
+
+Lo dissi quasi involontariamente, e senza alcun intervento della mia volontà, le mie [[Tears|lacrime]] iniziarono a scorrere. Tuttavia, non piansi per essere sentito; cercai di trattenere i singhiozzi. Il pensiero di Mrs. O’Gall e di Bitternutt Lodge mi gelò il cuore; ancora più freddo fu il pensiero di tutta quella ostilità e inimicizia che sembrava destinata a separarmi da colui al fianco di cui ora camminavo. E ancora più amaro fu il ricordo di quell’oceano più vasto: ricchezza, caste, usanze, tutto ciò che si frapponeva tra me e ciò che naturalmente e inevitabilmente amavo.
+
+“È una lunga distanza,” dissi di nuovo.
+
+“È proprio così; e quando arriverai a Bitternutt Lodge, in Connacht, Irlanda, non ti rivedrò mai più, Jane. È moralmente certo. Io non vado mai in Irlanda, poiché non mi piace molto quel paese. Siamo stati buoni amici, vero, Jane?”
+
+“Sì, signore.”
+
+“E quando gli amici sono sull’orlo della separazione, vogliono trascorrere il poco [[Time|tempo]] che resta insieme. Venite! Parleremo tranquillamente del viaggio e dell’addio per mezz’ora circa, mentre le [[Stars|stelle]] iniziano a brillare nel cielo. Ecco l’albero di castagno; ecco la panchina alle sue vecchie radici. Venite, sediamoci lì in pace fino alla [[Night|notte]], anche se forse non avremo mai più l’opportunità di farlo insieme.” Mi fece sedere accanto a lui.
+
+“È un lungo viaggio fino in Irlanda, Janet. Mi dispiace far intraprendere a mio piccolo amico un viaggio così faticoso, ma se non posso fare di meglio, come si può aiutarlo? Pensi che tu sia in qualche modo simile a me, Jane?”
+
+A quel [[Time|momento]], non potevo rischiare alcuna risposta: il mio cuore era ancora fermo.
+
+“Perché,” disse, “a volte provo una strana sensazione nei tuoi confronti, soprattutto quando sei vicino a me, come adesso: è come se sotto le mie costole sinistre ci fosse un filo, strettamente e inestricabilmente legato a un altro filo simile situato nella parte corrispondente del tuo corpo. E se quel vasto canale marittimo, insieme a circa duecento miglia di terra che ci separano, dovesse interrompere quel legame, temo che io iniziassi a sanguinare interiormente. Per quanto riguarda te, probabilmente mi dimenticheresti.”
+
+“Che io _mai_ dovrei farlo, signore. Voi sapete, ” Impossibile continuare.
+
+“Jane, senti quel [[Nightingale|usignolo]] che canta nel bosco? Ascolta!”
+
+Ascoltando, singhiozzavo convulsivamente; non riuscivo più a reprimere ciò che stavo sopportando. Ero costretta ad arrendermi, e un dolore acuto mi scuoteva da capo a piedi. Quando parlavo, era solo per esprimere il desiderio impetuoso di non essere mai nata, o di non essere mai arrivata a Thornfield.
 
 
 
@@ -35719,6 +38050,47 @@ tell me that the great [[Horse|horse]]-chestnut at the [[Bottom|bottom]] of the 
 been struck by [[Lightning|lightning]] in the [[Night|night]], and half of it split away.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Oh, Jane, mi tormenti!” esclamò. “Con quel tuo sguardo intenso, eppure fedele e generoso, mi tormenti!”
+
+“Come posso farlo? Se sei sincero e la tua offerta è vera, i miei unici sentimenti verso di te devono essere gratitudine e devozione. Non possono essere altro che questi.”
+
+“Grazie!” esclamò; poi aggiunse con disperazione: “Jane, accettami subito. Dimmi, Edward, dammi il mio nome. Edward, sposerò te.”
+
+“Parli seriamente? Mi ami davvero? Desideri sinceramente che io diventi tua moglie?”
+
+“Lo giuro; e se è necessario un giuramento per convincervi, lo faccio.”
+
+“Allora, signore, vi sposerò.”
+
+“Edward… mia piccola moglie!”
+
+“Caro Edward!”
+
+“Vieni da me, vieni da me completamente ora,” disse lui; e aggiunse, con il tono più profondo, sussurrandomi all’orecchio mentre la sua guancia era premuta contro la mia, “Rendi felice me, e io renderò felice te.”
+
+“Dio mi perdoni!”, aggiunse poco dopo; “e che nessuno si intrometta con me: l’ho e la terrò.”
+
+“Non c’è nessuno che possa intromettersi, signore. Non ho parenti che possano interferire.”
+
+“No, questo è proprio il meglio,” disse. E se lo avessi amato di meno, avrei dovuto considerare il suo accento e quell’espressione di gioia come qualcosa di selvaggio; ma, seduto accanto a lui, risvegliato dal [[nightmare|incubo]] della separazione, chiamato nel paradiso dell’[[Union|unione]], pensavo soltanto alla felicità che mi veniva offerta, in così abbondante quantità. Ripetutamente mi chiese: “Sei felice, Jane?” E io rispondevo sempre: “Sì.” Dopo un po’, mormorò: “Questo compenserà tutto. Questo compenserà tutto. Non l’ho forse trovata senza amici, fredda e senza conforto? Non la proteggerò, non la coccolerò, non la consolerò? Nel mio cuore non c’è forse [[Love|amore]] e nella mia determinazione costanza? Questo tutto sarà compensato davanti al tribunale di Dio. So che il Mio Creatore approva ciò che faccio. Per il giudizio del mondo, mi lavo le mani di ogni responsabilità. Per l’opinione degli uomini, la sfido.”
+
+Ma cosa era accaduto quella [[Night|notte]]? La [[Moon|luna]] non era ancora tramontata, e tutti eravamo avvolti nell’[[Shadow|oscurità]]; a malapena riuscivo a vedere il viso del mio padrone, nonostante fossimo così vicini. E cosa c’era che non andava con quel castagno? Si contorceva e gemeva; mentre il [[Wind|vento]] ululava nel vialetto dei lauri, soffiando su di noi con forza.
+
+“Dobbiamo entrare,” disse il signor Rochester: “il tempo sta cambiando. Avrei potuto restare con te fino al mattino, Jane.”
+
+“E così,” pensai, “potrei farlo anch’io con te.” Forse avrei dovuto dirlo,
+ma improvvisamente una scintilla vivida e intensa balenò da una nuvola che stavo fissando; si udì uno schianto, un rumore assordante. E tutto ciò che riuscii a fare fu nascondere i miei occhi abbagliati contro la spalla di Mr. Rochester.
+
+La pioggia cadeva a scrosci. Mi affrettò a portarmi su per il vialetto, attraverso il giardino, fino alla [[house|>casa]]; ma eravamo già completamente bagnati prima di riuscire a superare la soglia. Stava togliendomi lo scialle nell’ingresso e scuotendo l’[[Water|acqua]] dai miei capelli sciolti, quando la signora Fairfax uscì dalla sua stanza. All’inizio non la notai, né il signor Rochester. La lampada era accesa; l’[[Clock|>orologio]] segnava le dodici.
+
+“Affrettati a toglierti quelle cose bagnate,” disse lui; “e prima di andartene, buona [[Night|notte]], buona notte, mio caro!”
+
+Mi baciò più e più volte. Quando alzai lo sguardo, lasciando le sue braccia, c’era la vedova: pallida, [[Grave|seria]] e sorpresa. Le sorrisi soltanto e corsi di sopra. “Spiegazioni potranno aspettare un’altra volta”, pensai. Tuttavia, quando arrivai nella mia stanza, provai un senso di angoscia all’idea che potesse anche solo fraintendere ciò che aveva visto. Ma la gioia presto cancellò ogni altro sentimento; e nonostante il vento soffiasse forte, il tuono rimbombasse vicino e potente, i fulmini lampeggiassero intensamente e frequentemente, e la pioggia cadesse a dirotto durante una tempesta che durò due ore, non provai alcuna [[Fear|paura]] né grande timore. Nel corso di quella notte, il signor Rochester venne tre volte alla mia porta per chiedere se fossi al sicuro e in pace: ed era questo un conforto. Era questa la forza necessaria per affrontare qualsiasi cosa.
+
+Prima di alzarmi dal letto la mattina, la piccola Adèle corse da me per dirmi che il grande castagno vicino alla fine del frutteto era stato colpito dal [[Lightning|fulmine]] durante la [[Night|notte]], e metà di esso si era spezzato.
+
 
 
 <span class="atom-split" data-atom="chapter_24--part_01" data-title="Jane Eyre — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/birds,motif/desire,motif/love,motif/nature,motif/night,motif/rose,motif/summer,motif/time,motif/well,motif/window,concept/beauty,concept/fear,concept/hope,concept/nature,setting/court,setting/london,character/jane_eyre"></span>
@@ -35853,6 +38225,64 @@ famous in old story and in modern record: she shall taste, too, of the
 life of cities; and she shall learn to value herself by just comparison
 with others.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XXIV
+
+
+Mentre mi alzavo e mi vestivo, riflettei su quanto era accaduto e mi chiesi se fosse stato un [[A Dream|>sogno]]. Non potevo essere certa della realtà fino a quando non avessi rivisto il signor Rochester e sentito ripetere le sue parole d’[[Love|amore]] e le sue promesse.
+
+Mentre sistemavo i miei capelli, mi guardai il viso nello specchio e mi resi conto che non era più semplice e ordinario: nel suo aspetto c'era [[Hope|>speranza]] e nei suoi colori sembrava esserci vita; i miei occhi, inoltre, parevano aver visto la fonte della realizzazione dei desideri e avevano assorbito l’essenza di quella bellezza riflessa nello specchio. Spesso non volevo guardare il mio padrone, perché temevo che il mio aspetto non lo soddisfacesse; ma ora ero sicura di poter alzare lo sguardo su di lui senza raffreddare il suo affetto con la mia espressione. Presi un abito estivo semplice, pulito e leggero dal mio armadio e me lo infilai: sembrava che nessun altro abito mi si addicesse mai così bene, perché non l’avevo mai indossato in un momento di tale felicità.
+
+Non fui sorpreso quando entrai nel corridoio e vidi che una splendida mattina di giugno aveva sostituito la tempesta della [[Night|notte]]; e sentii, attraverso la porta a vetri aperta, il soffio di una brezza fresca e profumata. [[Nature|>Natura]] deve essere stata felice, visto quanto fossi contento io. Una donna mendica e suo figlio piccolo – entrambi pallidi e in stracci – stavano salendo lungo il vialetto; corsi loro incontro e diedi loro tutto il denaro che avevo in tasca: tre o quattro scellini. Buono o cattivo che fosse, dovevano condividere la mia gioia. I corvi gracchiavano, gli uccelli cantavano; ma nulla era più allegro o melodioso del mio stesso cuore felice.
+
+La signora Fairfax mi sorprese guardando fuori dalla [[Window|finestra]] con un'espressione triste e dicendo seriamente: “Signorina Eyre, vuole venire a colazione?” Durante il pasto rimase silenziosa e composta; ma allora non riuscii a ingannarla. Dovevo aspettare che il mio padrone desse spiegazioni. E lei doveva fare lo stesso. Mangiai quello che potei, poi mi affrettai di salire al piano di sopra. Incontrai Adèle mentre usciva dall’aula scolastica.
+
+“Dove stai andando? È già l’[[Time|ora]] delle lezioni.”
+
+“Il signor Rochester mi ha mandato via nella nursery.”
+
+"Dove è?"
+
+“Lì dentro,” indicò l’appartamento che aveva lasciato; entrai, ed eccolo lì.
+
+“Vieni a salutarmi buongiorno,” disse lui. Mi avvicinai felicemente; e questa volta non ricevetti soltanto una parola fredda o nemmeno una stretta di mano, ma un abbraccio e un bacio. Sembrava naturale. Sembrava davvero bello essere così [[Well|amato]], essere accarezzato in quel modo da lui.
+
+“Jane, sembri radiosa, sorridente e bellissima,” le disse: “davvero molto bella stamattina. Sei tu la mia piccola fata pallida? Sei tu il mio “semi di senape”? Questa ragazza dal viso sereno, con le guance increspate e le labbra rosse; i capelli castani lucidi come il satin e gli occhi castani splendenti, ” (Io avevo gli occhi verdi, lettore, ma dovete scusarmi per questo errore: per lui, suppongo, erano stati tinti di recente.)
+
+“È [[Jane Eyre]], signore.”
+
+“Tra poco sarò Jane Rochester,” aggiunse: “In quattro settimane, Janet, nemmeno un giorno in più. Capisci?”
+
+L’ho fatto, e non sono riuscito a comprenderlo del tutto: mi ha lasciato stordito. Quel sentimento, quell’annuncio che ha attraversato il mio essere, era qualcosa di più forte della semplice gioia. Qualcosa che colpiva profondamente e lasciava sbalordito. Penso che fosse quasi [[Fear|paura]].
+
+“Arrossisci e ora sei pallida, Jane… Perché?”
+
+“Perché mi hai dato un nuovo nome: Jane Rochester… E sembra così strano.”
+
+“Sì, signora Rochester”, disse lui; “la giovane signora Rochester… la sposa di Fairfax Rochester”.
+
+“Non è possibile affatto, signore; non sembra plausibile. Gli esseri umani non conoscono mai una felicità completa in questo mondo. Non sono nato per un destino diverso rispetto al resto della mia specie: immaginare che tutto ciò possa accadermi è come raccontare una favola, un sogno a occhi aperti.”
+
+“Ciò che posso e farò. Comincerò oggi stesso. Questa mattina ho scritto al mio banchiere di [[London|Londra]] per chiedergli di inviarmi alcune gioielli che tiene in custodia: sono oggetti di famiglia destinati alle signore di Thornfield. Tra un giorno o due, spero di poterli mettere tra le tue mani. Per ogni privilegio, per ogni attenzione che posso concedere, saranno uguali a quelle riservate alla figlia di un nobile, se dovesse sposarsi.”
+
+“Oh, signore! Mai che piovan gioielli. Non mi piace nemmeno sentirne parlare. I gioielli per [[Jane Eyre]] sembrano qualcosa di innaturale e strano; preferirei non averli affatto.”
+
+“Io stessa metterò la catena di diamanti intorno al tuo collo e l’anello sulla tua fronte, perché, almeno, [[Nature|natura]] ha impresso su questa fronte il segno della sua nobiltà, Jane; e infilerò gli braccialetti su queste belle mani, e adorerò questi dita incantevoli con anelli.”
+
+“No, no, signore! Pensate ad altri argomenti, parlate di altre cose, e in un altro tono. Non trattatemi come se fossi una [[Beauty|bellezza]]; sono la vostra semplice governante quacchera.”
+
+“Sei una [[Beauty|bellezza]] ai miei occhi, e una bellezza che risponde esattamente al [[Desire|desiderio]] del mio cuore, delicata ed eterea.”
+
+“Piccolo e insignificante, intendete. State sognando, signore, o state deridendo. Per l’amor di Dio, non siate ironici!”
+
+“Farò sì che il mondo riconosca anche te come una [[Beauty|bellezza]],” continuò,
+ma io iniziai davvero a sentirmi a disagio di fronte al tono che aveva assunto, perché mi sembrava che si stesse ingannando da solo o cercasse di ingannare me. “Indosserò per Jane seta e pizzo, e le metterò rose nei capelli; coprirò poi la testa della persona che amo di più con un velo inestimabile.”
+
+“E allora non mi riconoscerete più, signore; e io non sarò più la vostra [[Jane Eyre]], ma solo una scimmia con un abito da buffone, un uccello con piume prese in prestito. Preferirei vedere voi, signor Rochester, vestito con costumi da teatro, piuttosto che me stessa con l’abito di una dama di corte; e non vi chiamo bello, signore, anche se vi amo profondamente, troppo profondamente per ingannarvi. Non cercate di ingannarmi.”
+
+Continuò però nel suo discorso, senza accorgersi del mio disappunto. “Proprio oggi ti porterò in carrozza a Millcote, e dovrai sceglierti alcuni vestiti da sola. Ti ho detto che ci sposeremo tra quattro settimane. Il matrimonio avverrà in modo tranquillo, nella chiesa laggiù; dopodiché ti porterò subito in città. Dopo una breve permanenza lì, porterò la mia ‘tesoro’ in luoghi più vicini al sole: nelle vigne francesi e nelle pianure italiane. Vedrà tutto ciò che è famoso nelle antiche storie e nei documenti moderni; assaporerà anche la vita delle città. E imparerà a conoscere il proprio valore attraverso un giusto confronto con gli altri.”
 
 
 
@@ -36397,6 +38827,76 @@ vale where we might live. I said I should like to go; but reminded it,
 as you did me, that I had no wings to fly.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Perché? Sono forse un [[Monster|mostro]]?” Dissi: “È impossibile che il signor Rochester possa provare per me un sentimento sincero?”
+
+“No: sei davvero molto meglio ora, e ultimamente sei migliorata molto; e sono sicura che il signor Rochester ti ami. Ho sempre notato che eri quasi una sorta di “animale domestico” per lui. Ci sono stati momenti in cui, per il tuo bene, mi sentivo un po’ a disagio per la sua evidente preferenza nei tuoi confronti, e avrei voluto metterti in guardia; ma non volevo nemmeno suggerire l’eventualità di qualcosa di sbagliato. Sapevo che un’idea del genere ti avrebbe scioccata, forse offesa. E tu eri così discreta, così modesta e sensata. Speravo che fossi in grado di proteggerti da sola. Ieri sera, non so proprio cosa abbia provato quando ho cercato dappertutto in casa e non ti ho trovata da nessuna parte, né il signor Rochester; poi, alle dodici in punto, ti ho vista entrare con lui, ”
+
+“Beh, ormai non importa più,” interruppi impazientemente; “è sufficiente che tutto sia andato bene.”
+
+“Spero che tutto vada per il meglio alla fine,” disse: “ma credetemi, non si può mai essere abbastanza cauti. Cercate di tenere a distanza il signor Rochester: diffidate di voi stessi tanto quanto di lui. Gli uomini della sua posizione non sono abituati a sposare le proprie istitutrici.”
+
+Stavo iniziando ad irritarmi davvero; fortunatamente, Adèle entrò di corsa.
+
+“Lasciatemi andare. Lasciate che vada anche a Millcote!” gridò. “Il signor Rochester non lo permetterà. Anche se c’è tanto spazio nella nuova carrozza. Per favore, lasciatemi andare, mademoiselle.”
+
+“Lo farò, Adèle”; e mi affrettai ad andarmene con lei, felice di liberarmi della mia cupa “supervisora”. La carrozza era pronta: stavano portandola davanti all’edificio, e mio padrone camminava avanti e indietro sul marciapiede, mentre Pilot lo seguiva.
+
+“Adèle può venire con noi, vero, signore?”
+
+“Le ho detto di no. Non voglio figliastri… Voglio solo te.”
+
+“Lasciatela andare, signor Rochester, per favore: sarebbe meglio.”
+
+“No, lei sarà solo un ostacolo.”
+
+Era piuttosto perentorio, sia nel modo di parlare che nell’aspetto. Il freddo delle avvertenze della signora Fairfax e l’ombra dei suoi dubbi mi opprimevano: qualcosa di insicuro e incerto aveva minato le mie speranze. Avevo quasi perso la sensazione di poter controllarlo. Stavo per obbedirgli meccanicamente, senza ulteriori proteste; ma quando mi aiutò a salire in carrozza, guardò il mio viso.
+
+“Che cosa c’è che non va?” chiese; “tutta la luce del sole è scomparsa. Vuoi davvero che quella bambina se ne vada? Ti darà fastidio se rimane indietro?”
+
+“Preferirei di gran lunga che se ne andasse, signore.”
+
+“Allora vai a prendere il tuo cappello e torna subito, come un lampo di [[Lightning|fulmine]]!”, gridò ad Adèle.
+
+Gli obbedì con tutta la [[Speed|velocità]] possibile.
+
+“Dopotutto, un’unica interruzione al mattino non avrà molta importanza,” disse, “poiché intendo presto reclamarti per tutta la vita: i tuoi pensieri, le tue conversazioni e la tua compagnia.”
+
+Adèle, non appena fu portata dentro, iniziò a baciarmi per esprimere la sua gratitudine per la mia intercessione; subito dopo fu nascosta in un angolo dall’altra parte di lui. Poi sbirciò nella mia direzione. Ma un vicino così severo era davvero troppo restrittivo: nel suo attuale umore irrequieto, lei non osava sussurrargli nulla né chiedergli alcuna informazione.
+
+“Lasciatela venire da me,” supplicai: “forse vi darà fastidio, signore. C’è abbastanza spazio da questa parte.”
+
+Leela la consegnò come se fosse un cagnolino domestico. “La manderò ancora a scuola”, disse, ma ora stava sorridendo.
+
+Adèle lo sentì e chiese se dovesse andare a scuola “senza la signorina”.
+
+“Sì,” rispose, “assolutamente senza la signorina; perché porterò la signorina sulla [[Moon|luna]], e lì cercherò una grotta in uno dei valli bianchi tra le cime dei vulcani, e la signorina vivrà con me lì, solo con me.”
+
+“Non avrà nulla da mangiare: la farai morire di fame,” osservò Adèle.
+
+“Raccoglierò la manna per lei al mattino e alla [[Night|notte]]: le pianure e i versanti delle colline, sotto la luce della [[Moon|luna]], sono coperti di manna, Adèle.”
+
+“Vorrà scaldarsi. Cosa farà per accendere un [[Fire|fuoco]]?”
+
+“[[Fire|Fuoco]] sorge dalle montagne lunari: quando ha freddo, la porterò su un picco e la poserò sul bordo di un cratere.”
+
+“Oh, starà molto male, non sarà affatto comoda! E i suoi vestiti si rovineranno: come farà a procurarsene di nuovi?”
+
+Il signor Rochester dichiarò di essere perplesso. “Ehm!”, disse. “Cosa faresti tu, Adèle? Cercheresti una soluzione. Credi che una nuvola bianca o rosa possa sostituire un abito? E si potrebbe anche ricavare un bel foulard da un arcobaleno.”
+
+“È molto meglio così com’è,” concluse Adèle dopo averci pensato per un po’. “Inoltre, si stancherebbe di vivere solo con te nella [[Moon|luna]]. Se fossi io la signorina, non accetterei mai di andare con te.”
+
+#Ha dato il suo consenso: ha mantenuto la sua promessa.
+
+“Ma non potete portarla lì; non esiste nessuna [[Road|strada]] che conduca alla [[Moon|luna]]: è tutto aria; e né voi né lei siete in grado di volare.”
+
+“Adèle, guarda quel campo.” Eravamo ormai fuori dalle mura di Thornfield e percorrevamo dolcemente la liscia [[Road|strada]] verso Millcote; la [[Dust|polvere]] era stata ben spazzata via dalla tempesta, e i bassi cespugli e gli alti alberi su entrambi i lati brillavano di un verde fresco dopo la pioggia.
+
+“In quel campo, Adèle, una sera tarda, circa quindici giorni fa, la sera in cui mi avevi aiutato a raccogliere l’erba nei prati dell’orto, ero stanca dopo aver raccolto le falciate e mi sedetti su un palo per riposare. Presi un libretto e una matita e iniziai a scrivere di una sfortuna che mi era accaduta molto tempo prima, e di un desiderio che avevo per giorni felici nel futuro. Scrivevo velocemente, anche se la luce stava svanendo dalle foglie. Quando all’improvviso qualcosa apparve sul sentiero e si fermò a due metri da me. Lo guardai: era una piccola creatura con un velo di seta sulla testa. La chiamai vicino a me e presto si trovò ai miei piedi. Non le parlai mai, né lei parlò mai con me a parole; ma leggemmo nei nostri occhi ciò che volevamo dire. E il nostro silenzioso dialogo fu proprio questo, ”
+
+“Era una fata, venuta dal Regno degli Elfi; disse che il suo compito era rendermi felice. Dovevo seguirla fuori dal mondo comune, in un luogo solitario. Come, per esempio, la [[Moon|luna]]. Indicò con la testa il suo corno, visibile sopra la collina di Hay. Mi parlò della grotta d’alabastro e della valle d’argento dove avremmo potuto vivere. Dissi che avrei voluto andare. Ma le ricordai, proprio come avete fatto voi, che non avevo ali per volare.”
+
 
 
 <span class="atom-split" data-atom="chapter_24--part_05" data-title="Jane Eyre — Chapter 24 (part 5)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/lover,motif/home,motif/marriage,motif/moon,motif/well,concept/fear,concept/mercy,concept/pride,character/jane_eyre"></span>
@@ -36720,6 +39220,120 @@ should know fully what sort of a bargain he had made, while there was
 yet [[Time|time]] to rescind it.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"No, grazie, signore."
+
+“E a cosa serve dire ‘no, grazie?’ se si può chiedere…”
+
+“Non ho mai pranzato con voi, signore… E non vedo alcun motivo per farlo ora, a meno che…”
+
+“Fino a quando? Ti diverti con frasi incomplete…”
+
+“Finché non potrò più resistere.”
+
+“Pensi forse che io mangi come un mostro o un demone, al punto che temi di essere il mio compagno a tavola?”
+
+“Non ho fatto alcuna supposizione al riguardo, signore; ma voglio continuare come al solito per un altro mese.”
+
+“Dovrai rinunciare immediatamente a questa tua schiavitù di fare da tutrice.”
+
+“Infatti, perdonatemi, signore, ma non lo farò. Continuerò semplicemente come al solito: starò lontano da voi tutto il giorno, come sono abituato a fare; potrete chiamarmi la sera, quando vorrete vedermi, e allora verrò; ma in nessun altro [[Time|momento]].”
+
+“Vorrei fumare una sigaretta, Jane, o prendere un pizzico di tabacco per consolarmi in tutto questo, ‘Per darmi un po’ di coraggio’, come direbbe Adèle. Purtroppo non ho né la scatola da sigari né il portatabacco. Ma ascolta, è il tuo momento, piccolo [[Tyrant|tiranno]]; ma presto sarà anche il mio. E quando finalmente ti avrò in mio potere, ti attaccherò a una catena, così, ” (tocca la cassa dell’orologio). “Sì, carina creaturina, te ne porterò sul petto, per non perderti mai.”
+
+Lo disse mentre mi aiutava a scendere dalla carrozza; e mentre in seguito aiutava anche Adèle a scendere, io entrai nella [[house|>casa]] e mi ritirai al piano di sopra.
+
+Quella sera mi chiamò al suo cospetto. Avevo preparato qualcosa per occuparlo, poiché ero decisa a non trascorrere tutto il tempo in conversazioni intime. Ricordavo la sua bella voce; sapevo che gli piaceva cantare, e di solito ai buoni cantanti piace farlo. Io stessa non ero una cantante, e, secondo i suoi criteri esigenti, nemmeno una musicista; tuttavia mi piaceva ascoltare quando la performance era davvero bella. Non appena il crepuscolo, quell’ora di [[Romance|romanzo]], iniziò a stendere il suo velo blu e stellato sopra tutto intorno, mi alzai, aprii il pianoforte e lo pregai, per l’amore del cielo, di cantarmi una canzone. Lui disse che ero una capricciosa [[Witch|strega]] e che preferiva cantare un’altra volta; ma io insistetti sul fatto che nessun altro momento fosse come quello presente.
+
+“Mi è piaciuta la sua voce?”, chiese.
+
+“Molto di più.” Non mi piaceva indulgere in quella suscettibile [[Vanity|vanità]] sua; ma questa volta, per motivi di opportunità, ero disposto persino ad accontentarla e a stimolarla.
+
+“Allora, Jane, dovrai suonare l’accompagnamento.”
+
+“Molto bene, signore, ci proverò.”
+
+Cercai davvero di farlo, ma fui immediatamente spinto da parte e definito “un piccolo incompetente”. Essendo stato messo da parte senza tante cerimonie – esattamente ciò che desideravo – prese il mio posto e iniziò a suonare da solo; infatti sapeva suonare e cantare altrettanto bene. Allora mi diressi verso la rientranza della finestra. Mentre sedevo lì, guardando gli alberi immobili e il prato buio, si udì una dolce melodia cantata con toni armoniosi.
+
+“L’amore più vero che il cuore abbia mai provato,
+Nel suo nucleo infuocato,
+Ha invaso ogni vena, con un flusso rapido e intenso,
+Riversando la forza della vita.”
+
+La sua venuta era la mia [[Hope|speranza]] ogni giorno;  
+la sua partenza era il mio [[Pain|)dolore]]».  
+La possibilità che i suoi passi si ritardassero.
+era come il ghiaccio nelle mie vene.
+
+Sognavo che fosse una felicità senza nome,
+Poiché amavo, amavo essere così;
+E verso quell’obiettivo mi dirigevo,
+Cieco e pieno di desiderio.
+
+Ma vasto e inaccessibile era lo spazio
+che separava le nostre vite,
+Pericoloso quanto le onde schiumose
+del mare verde e impetuoso.
+
+E infestato come un sentiero per i ladri,  
+attraverso lande desolate o foreste;  
+perché Potere e Giustizia, Dolore e Rabbia,  
+si frapponevano tra i nostri spiriti.
+
+Osavo affrontare i pericoli, disprezzavo gli ostacoli;
+Defiedevo ogni presagio negativo;
+Qualunque cosa minacciasse, disturbasse o avvertisse,
+La superavo con determinazione.
+
+Inviai la mia arcobalena, veloce come la luce;  
+volai come in un [[A Dream|sogno]];  
+perché davanti ai miei occhi apparve una gloriosa [[Rose|rosa]],  
+quella [[Child|bambina]] di pioggia e luci.
+
+Ancora luminosa tra le nuvole del [[Suffering|sofferimento]],  
+brilla quella gioia dolce e solenne;  
+ormai non mi curo più, quanto densi e cupi  
+siano i disastri che si avvicinano.
+
+In questo momento non mi importa nulla,  
+Anche se tutto ciò che ho fatto fosse necessario,  
+Per realizzare la mia vendetta, rapida e decisa.
+
+Anche se l'orgoglioso Odio volesse abbattermi,  
+la Giustizia non dovrebbe avvicinarsi a me;  
+e la Potenza, con il suo sguardo furioso,  
+non potrebbe giurare un'odio eterno contro di me.
+
+Il mio [[Love|amore]] ha messo la sua piccola mano,
+Con nobile [[Faith|fede]], nella mia,
+E ha giurato che il sacro legame del matrimonio
+Intreccierà le nostre [[Nature|nature]].
+
+Il mio [[Love|amore]] ha giurato, con un bacio sacro,
+Di vivere e morire con me;
+Finalmente ho trovato la mia felicità senza nome.
+Poiché amo, anch’io sono amato!
+
+
+Lui si avvicinò a me con un sorriso, e vidi il suo viso illuminarsi di emozione; i suoi occhi brillavano intensamente, e in ogni tratto del suo volto si leggevano tenerezza e passione. Per un momento ebbi paura, poi ripresi coraggio. Quella scena così tenera, ma al contempo così audace, non avrei mai dovuto permetterla; rischiavo molto in entrambi i casi. Dovevo prepararmi a difendermi: affilai la mia lingua e, quando lui fu vicino a me, gli chiesi con asprezza: “Con chi si sarebbe sposato ora?”
+
+“Che strana domanda da parte della sua adorata Jane…”
+
+“Certo! L’ho considerato qualcosa di molto naturale e necessario: aveva detto che la sua futura moglie sarebbe morta con lui. Cosa intendeva con un’idea così pagana? Io non avevo affatto intenzione di morire con lui. Forse ci contava.”
+
+“Oh, tutto ciò che desiderava, tutto ciò per cui pregava, era che io potessi vivere con lui! La [[Death|Morte]] non era destinata a persone come me.”
+
+“Infatti era così: avevo tanto diritto di morire quando fosse arrivato il mio [[Time|tempo]] quanto lui; ma aspetterò quel [[Time|tempo]] e non verrò portato via prematuramente in un suttee.”
+
+# Lo perdonerei per quell’idea egoistica… e dimostrerei il mio perdono con un bacio di riconciliazione?
+
+"No: Preferirei essere scusato."
+
+Qui ho sentito qualcuno riferirsi a me con l’apostrofo, definendomi una “ragazza decisa e coraggiosa”; inoltre è stato aggiunto: “Qualsiasi altra donna si sarebbe sciolta nel cuore all’ascolto di versi così dolci dedicati alla sua lode”.
+
+Gli assicurai che ero naturalmente duro, molto rigido, e che spesso mi avrebbe trovato così; inoltre, gli dissi che ero deciso a fargli vedere diversi aspetti duri del mio carattere prima che trascorressero le quattro settimane successive: volevo che sapesse esattamente di che tipo di “accordo” si trattava, finché c'era ancora [[Time|tempo]] per annullarlo.
+
 
 
 <span class="atom-split" data-atom="chapter_24--part_07" data-title="Jane Eyre — Chapter 24 (part 7)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/clock,motif/cross,motif/lamb,motif/love,motif/night,motif/well,concept/doubt,concept/hope,character/jane_eyre"></span>
@@ -36896,6 +39510,7 @@ hall simultaneously struck ten.
 
 # CAPITOLO XXV
 
+
 Il mese di corteggiamento era ormai trascorso; le sue ultime ore venivano contate una per una. Non si poteva più rimandare quel giorno che avanzava inesorabilmente, il giorno delle nozze; e tutti i preparativi per la sua arrivata erano completati. Io, almeno, non avevo più nulla da fare: i miei bagagli erano stati impacchettati, chiusi a chiave e allineati lungo la parete della mia piccola stanza; il giorno dopo, a quest’ora, sarebbero già partiti per [[London|Londra]]. E lo stesso avrei dovuto fare io (D.V.), o meglio, non io, ma una certa Jane Rochester, una persona che ancora non conoscevo. Restavano soltanto da attaccare le carte di indirizzo; erano lì, quattro piccoli quadratini nel cassetto. Il signor Rochester aveva scritto personalmente su ognuna: “Signora Rochester, —— Hotel, [[London|Londra]]”. Non riuscivo a convincermi ad attaccarle, o a farle attaccare da qualcun altro. Signora Rochester. Lei non esisteva ancora; sarebbe nata solo il giorno dopo, dopo le otto di mattina. E avrei aspettato di essere certa che fosse davvero venuta al mondo prima di affidarle tutti quei beni. Era già abbastanza che, in quel armadio di fronte al mio comodino, i vestiti che dicevano appartenerle avessero ormai sostituito il mio abito nero da Lowood e il cappello di paglia. Quell’abito da sposa color perla, quel velo vaporoso appeso al baule usurpato. Chiusi l’armadio per nascondere quegli strani indumenti, simili a fantasmi. Che, in quell’ora serale – le nove di sera – emettevano certamente un bagliore sinistro nell’oscurità della mia stanza. “Ti lascio sola, bianco sogno, ”, dissi. “Ho la febbre. Sento il vento soffiare. Uscirò e lo sentirò anch’io.”
 
 Non era solo la fretta di prepararmi a rendermi febbrile; non era solo l’attesa di quel grande cambiamento, di quella nuova vita che avrebbe iniziato il giorno dopo: entrambe queste circostanze, senza dubbio, contribuivano a creare quell’umore irrequieto e eccitato che mi spinse, a un’ora così tarda, ad addentrarmi in quei luoghi ormai avvolti nell’oscurità. Ma c’era una terza ragione che influenzava la mia mente ancora di più di queste.
@@ -37057,6 +39672,90 @@ I looked up at him to read the signs of bliss in his face: it was
 ardent and flushed.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Che tardi cresce!” dissi. “Correrò fino ai cancelli: c’è la luna che illumina a tratti il cammino; riesco a vedere chiaramente la strada. Potrebbe essere già in arrivo, e incontrarlo ci risparmierebbe alcuni minuti di attesa ansiosa.”
+
+Il [[Wind|>vento]] soffiava forte tra gli alberi imponenti che circondavano le porte; ma la [[Road|strada]], per quanto riuscissi a vedere, sia a destra che a sinistra, era completamente deserta e silenziosa. A parte le ombre delle nuvole che la attraversavano di tanto in tanto quando la [[Moon|luna]] faceva capolino, non c’era nulla che rompesse quella monotonia: solo una lunga linea pallida, priva di alcun movimento.
+
+Una lacrima infantile offuscò il mio sguardo mentre osservavo, una lacrima di delusione e impazienza. Imbarazzata, la asciugai subito. Rimasi lì a guardare; la [[Moon|luna]] si ritirò completamente nel suo “camerino”, chiudendo dietro di sé il velo delle nuvole dense. La [[Night|notte]] divenne sempre più buia; la pioggia iniziò a cadere forte, accompagnata dal vento.
+
+“Vorrei tanto che venisse! Vorrei tanto che venisse!” esclamai, presa da un timore ipocondriaco. Avevo previsto il suo arrivo prima del tè; ora era già buio: cosa poteva trattenerlo? Era successo qualche incidente? L’episodio della scorsa [[Night|notte]] mi tornò in mente; lo interpretai come un presagio di disastro. Temevo che le mie speranze fossero troppo grandi per poter diventare realtà; e, avendo goduto di tanta felicità negli ultimi tempi, immaginavo che la mia fortuna avesse raggiunto il suo apice e ora dovesse iniziare a declinare.
+
+“Beh,” pensai, “non posso tornare in quella [[house|casa]]; non posso sedermi accanto al camino mentre lui è fuori, esposto a condizioni meteorologiche avverse. Meglio stancare i miei muscoli che affaticare il mio cuore; andrò io stesso ad incontrarlo.”
+
+Partii; camminavo velocemente, ma non per molto: prima ancora di aver percorso un quarto di miglio, sentii il rumore degli zoccoli; un cavaliere si avvicinava al galoppo, con un cane che correva al suo fianco. Via, questi cattivi presentimenti. Era lui! Ecco che arrivava, a cavallo di Mesrour, seguito da Pilot. Mi vide; la [[Moon|luna]] aveva aperto uno spazio blu nel cielo, e il suo bagliore era accecante. Si tolse il cappello e lo agitò sopra la testa. Allora corsi incontro a lui.
+
+“Eccola!” esclamò, tendendo la mano e piegandosi in avanti dalla sella: “È evidente che non puoi farne a meno di me. Metti il piede sul mio tacco; dammi entrambe le mani, monta!”
+
+Obbedii: la gioia mi rendeva agile; mi alzai subito davanti a lui. Ricevetti un bacio affettuoso in segno di benvenuto, e anche qualche complimento orgoglioso, che ingoiai il meglio possibile. Lui, però, si trattenne nella sua esultanza e chiese: “Ma c’è qualcosa che non va, Janet? Perché sei venuta a incontrarmi a quest’ora? È successo qualcosa?”
+
+“No, ma pensavo che non saresti mai venuto. Non riuscivo a sopportare l’idea di aspettarti in quella [[house|>casa]], soprattutto con questa pioggia e questo [[Wind|>vento]].”
+
+“Pioggia e [[Wind|vento]], davvero! Sì, sei tutta bagnata come una [[Mermaid|sirena]]; mettiti il mio mantello addosso. Ma penso che tu abbia la febbre, Jane: sia la tua guancia che la tua mano sono molto calde. Ti chiedo di nuovo: c’è qualcosa che non va?”
+
+"Niente ora; non ho paura né sono infelice."
+
+“Allora avete fatto entrambe le cose?”
+
+“Meglio così. Ma vi racconterò tutto più tardi, signore; e sono sicuro che riderete solo delle mie fatiche.”
+
+“Riderò di te a crepapelle quando domani sarà passato; fino ad allora non oso: la mia preda non è ancora certa. Sei tu, vero? Questo ultimo mese sei stato sfuggente come un’anguilla, spinoso come una rosa dei rovi. Non riuscivo a toccarti senza essere pungita; e ora sembra che abbia finalmente trovato un “agnellino smarrito” tra le mie braccia. Sei uscito dal gregge in cerca del tuo pastore, vero, Jane?”
+
+“Ti volevo… ma non vantartene. Ecco, siamo arrivati a Thornfield: ora lasciami scendere.”
+
+Mi fece atterrare sul marciapiede. Mentre John prendeva il suo [[Horse|cavallo]] e mi seguiva nel corridoio, mi disse di sbrigarmi a mettermi qualcosa di asciutto addosso e poi di tornare da lui in biblioteca; mentre mi dirigevo verso le scale, mi fermò per assicurarsi che non sarei rimasta via a lungo. E infatti non ci volle molto: in cinque minuti lo raggiunsi di nuovo. Lo trovai a cena.
+
+“Siediti e accompagnami, Jane. Per favore, Dio voglia che questa sia l’ultima volta che mangi a Thornfield Hall per molto tempo.”
+
+Mi sedetti vicino a lui, ma gli dissi che non potevo mangiare.
+
+“È forse perché hai davanti a te la prospettiva di un [[Journey|viaggio]], Jane? Sono i pensieri legati al viaggio verso [[London|Londra]] che ti fanno perdere l’appetito?”
+
+“Non riesco a vedere chiaramente le mie prospettive fino a [[Night|notte]], signore; e quasi non so quali pensieri abbia nella mia testa. Tutto nella vita sembra irreale.”
+
+“Tranne me: sono abbastanza reale… toccatemi.”
+
+“Lei, signore, è l’essere più simile a un [[Phantom|fantasma]] di tutti: non è altro che un semplice sogno.”
+
+Tese la mano, ridendo. “È forse un [[A Dream|>sogno]]?”, disse, avvicinandola ai miei occhi. Aveva una mano rotonda, muscolosa e vigorosa, proprio come un braccio lungo e forte.
+
+“Sì; anche se la tocco, è solo un [[A Dream|>sogno]]”, dissi mentre la mettevo giù davanti al mio viso. “Signore, ha finito di cenare?”
+
+“Sì, Jane.”
+
+Suonai la campanella e feci portare via il vassoio. Quando fummo di nuovo [[Alone|soli]], ravvivai il [[Fire|fuoco]], poi mi misi seduta vicino alle ginocchia del mio padrone.
+
+“È quasi mezzanotte,” dissi.
+
+“Sì, ma ricorda, Jane, hai promesso di svegliarti con me la [[Night|notte]] prima del mio matrimonio.”
+
+“L’ho fatto; e manterrò la mia promessa, per almeno un’ora o due: non ho alcun desiderio di andare a letto.”
+
+“Hai già fatto tutti i preparativi necessari?”
+
+“Tutti presenti, signore.”
+
+“E anch'io, dal mio canto,” rispose, “ho sistemato tutto; partiremo da Thornfield domani, entro mezz’ora dopo il nostro ritorno dalla chiesa.”
+
+“Molto bene, signore.”
+
+“Con che sorriso straordinario hai pronunciato quella parola, ‘molto bene’, Jane! Che bel rossore hai sulle guance. E i tuoi occhi brillano in modo così particolare. Stai bene?”
+
+“Credo di esserlo.”
+
+#"Credi! Che cos’è successo? Dimmi cosa provi."
+
+“Non potrei, signore: nessuna parola riuscirebbe a esprimere ciò che provo. Vorrei che questo momento non finisse mai. Chi sa con quale destino sarà segnato il prossimo?”
+
+“È solo ipocondria, Jane… Sei semplicemente troppo eccitata o troppo stanca.”
+
+"#Se vi sentite calmi e felici, signore?"
+
+Felice… fino in fondo al cuore.
+
+Alzai lo sguardo verso di lui per leggere i segni della felicità sul suo viso: era arrossato e pieno di gioia.
+
 
 
 <span class="atom-split" data-atom="chapter_25--part_03" data-title="Jane Eyre — Chapter 25 (part 3)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/dreams,motif/home,motif/journey,motif/love,motif/night,motif/pain,motif/poison,motif/road,motif/rose,motif/silence,motif/sleep,motif/time,motif/well,motif/wind,concept/beauty,concept/faith,concept/fear,concept/hope,concept/imagination,concept/pride,concept/providence,concept/self,concept/sublime,concept/truth,form/masque,setting/london,character/jane_eyre,character/witch"></span>
@@ -37168,6 +39867,36 @@ too much as if some spirit were near me. Look wicked, Jane: as you know
 you hate me—tease me, vex me; do anything but move me: I would rather
 be incensed than saddened.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Dai-mi la tua fiducia, Jane,” disse lui: “libera la tua mente da qualsiasi peso la opprima, condividendolo con me. Di cosa hai paura? Che io non possa essere un buon marito?”
+
+“È un’idea lontana quanto mai dai miei pensieri.”
+
+“Ti senti nervoso riguardo alla nuova fase della tua vita a cui stai per entrare?, riguardo a questa nuova vita che stai per iniziare?”
+
+“No.”
+
+“Mi confondi, Jane: il tuo sguardo e il tono di quella tua audacia piena di tristezza mi lasciano perplesso e mi causano [[Pain|dolore]]. Voglio una spiegazione.”
+
+“Allora, signore, ascolti: lei era a [[Home|casa]] la scorsa [[Night|notte]], vero?”
+
+“Lo ero. Lo so; e poco fa hai accennato a qualcosa che è successo in mia assenza. Probabilmente nulla di importante. Ma, in breve, questo ti ha turbato. Dimmelo. Forse la signora Fairfax ha detto qualcosa? O forse hai sentito i domestici parlare. Il tuo sensibile [[Self|rispetto per te stesso è stato offeso]]?”
+
+“No, signore.” Mancavano dodici colpi. Aspettai fino a quando l’[[Time|orologio]] non ebbe terminato i suoi rintocchi d’argento, e l’[[Clock|orologio a molla]] il suo suono roco e vibrante; solo allora proseguii.
+
+“Ieri tutto il giorno sono stata molto occupata, e molto felice nel mio incessante movimento; perché non sono, come voi sembrate pensare, tormentata da alcune paure riguardo al nuovo futuro, eccetera: ritengo che sia una cosa gloriosa avere la [[Hope|>speranza]] di vivere con voi, perché vi [[Love|amo]]. No, signore, non mi accarezzate ora. Lasciate che parli senza interruzioni. Ieri ho avuto grande fiducia nella [[Well|Provvidenza]], e credevo che gli eventi stessero lavorando a nostro vantaggio: è stato un bel giorno. La calma dell’aria e del cielo escludeva qualsiasi preoccupazione riguardo alla vostra sicurezza o comodità durante il vostro [[Journey|viaggio]]. Dopo cena ho camminato un po’ per strada, pensando a voi. Vi immaginavo così vicino a me che quasi non sentivo la mancanza della vostra presenza reale. Pensavo alla vita che mi aspettava, _la vostra_ vita, signore. Un’esistenza molto più vasta e appassionante della mia. Proprio come le profondità del mare sono molto più grandi delle sue rive strette. Mi chiedevo perché i moralisti definiscano questo mondo una desolata landa selvaggia. Per me, invece, fioriva come una [[Rose|>rosa]]. Appena al tramonto, l’aria si è raffreddata e il cielo si è oscurato. Sono entrata in casa; Sophie mi ha chiamato di sopra per mostrarmi l’abito da sposa che avevano appena portato. Nella scatola, sotto di esso, ho trovato il vostro regalo: il velo che, con la vostra aristocratica generosità, avete fatto venire da [[London|>Londra]]. Immagino che abbiate pensato, poiché non volevo gioielli, di costringermi ad accettare qualcosa di così costoso. Ho sorriso mentre lo aprivo. E ho pensato a come scherzare con voi riguardo ai vostri gusti aristocratici, e ai vostri sforzi per “mascherare” la mia condizione plebea con gli attributi di una nobildonna. Pensavo a come vi avrei portato quel fazzoletto di seta bianca che avevo preparato io stessa per coprire la mia testa. E mi chiedevo se non fosse abbastanza adatto per una donna che non poteva offrire al proprio marito né ricchezza, né bellezza, né relazioni importanti. Riuscivo chiaramente a immaginare come sareste apparso. E sentivo le vostre risposte impetuose e repubblicane. E il vostro orgoglioso rifiuto di considerare necessario aumentare la mia ricchezza o elevare la mia posizione sposando qualcuno che possedesse denaro o titoli nobiliari, ”
+
+“Che [[Well|benissimo]] mi hai letto, tu, strega!” intervenne il signor Rochester: “Ma cosa hai trovato sotto quel velo, oltre all’imbottitura? Hai trovato del [[Poison|veleno]], o un pugnale, per cui ora sembri così triste?”
+
+“No, no, signore; oltre alla delicatezza e alla ricchezza del tessuto, non ho trovato nulla se non l’[[Pride|orgoglio]] di Fairfax Rochester. E questo non mi ha spaventata, perché sono abituata a vedere quel ‘demonio’. Ma, signore, man mano che calava la notte, il [[Wind|>vento]] iniziava a soffiare con un suono cupo e lamentoso. Sembrava nascondere qualche segreto sinistro. Avrei voluto che foste a [[Home|>casa]]. Entrando in questa stanza, l’immagine della sedia vuota e del focolare spento mi ha raggelata. Per molto tempo dopo essermi coricata non sono riuscita a dormire. Il vento continuava a soffiare sempre più forte. All’inizio non capivo da dove provenisse quel suono, ma poi ho realizzato che doveva essere il latrato di un cane lontano. Sono stata sollevata quando finalmente è cessato. Nel sonno, continuavo a sognare una notte buia e tempestosa. E desideravo ancora ardentemente essere con voi. Sentivo come se qualcosa ci separasse. Durante tutto il mio primo sonno, ho percorso strade sconosciute; ero avvolta nell’oscurità totale; la pioggia batteva forte. E dovevo portare in braccio un bambino piccolissimo. Troppo debole e fragile per camminare. Tremava tra le mie braccia e piangeva disperatamente. Pensavo che foste molto lontano davanti a me. Ho cercato con tutte le mie forze di raggiungervi, ho provato a chiamarvi. Ma i miei movimenti erano impediti. La mia voce non riusciva ad essere udita. E voi, sentivo, vi allontanavate sempre di più, ”
+
+“E questi [[Dreams|sogni]] pesano ancora sul tuo spirito ora, Jane, quando sono vicino a te? Piccola mia, nervosa e incerta. Dimentica quelle angosie visionarie e pensa solo alla vera felicità! Dicevi di [[Love|amarmi]], Janet: sì, non lo dimenticherò mai; e non puoi negarlo. Quelle parole non sono rimaste inespressive sulle tue labbra. Le ho sentite chiare e dolci: forse un pensiero troppo solenne, ma pur sempre dolce come la musica, ‘Penso che sia una cosa meravigliosa sperare di poter vivere con te, Edward, perché ti [[Love|amo]].’ Mi [[Love|ami]], Jane? Ripetilo.”
+
+“Sì, signore… Sì, con tutto il mio cuore.”
+
+“Beh,” disse dopo alcuni minuti di [[Silence|silenzio]], “è strano. Ma quella frase mi ha colpito profondamente. Perché? Penso perché l’hai detta con tale sincerità, con un’energia così sincera e religiosa; inoltre, il tuo sguardo verso di me è davvero l’esempio più [[Sublime|sublime]] di fede, verità e devozione. È troppo. Sembra quasi che qualche spirito sia vicino a me. Guardami, Jane. Sai bene come farlo: sorridi in quel tuo modo selvaggio, timido, provocante. Dimmi che mi odi. Mettimi alla prova, infastidiscimi. Fa’ qualsiasi cosa tranne che commuovermi. Preferirei essere arrabbiato piuttosto che addolorato.”
 
 
 
@@ -37307,6 +40036,73 @@ wish it more now than ever; since even you cannot explain to me the
 mystery of that awful visitant.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Ti prenderò in giro e ti darò fastidio finché ne avrò voglia, una volta terminata la mia storia. Ma ascoltami fino alla fine.”
+
+“Pensavo, Jane, che mi avessi raccontato tutto. Credevo di aver trovato la causa della tua [[Melancholy|malinconia]] in un [[A Dream|>sogno]].”
+
+Scossi la testa. “Cosa! C’è dell’altro? Ma non credo che possa essere nulla di importante. Vi avverto in anticipo della mia [[Incredulity|incredulità]]. Continua pure.”
+
+L’ansia nel suo sguardo, l’impazienza quasi preoccupata nel suo comportamento mi sorpresero; ma proseguii comunque.
+
+“Ho sognato un altro sogno, signore: che Thornfield Hall fosse una desolata rovina, rifugio di pipistrelli e gufi. Pensavo che di tutto quell’imponente frontespizio non rimanesse nulla se non un muro simile a una conchiglia, molto alto e dall’aspetto estremamente fragile. Vagai, in una notte illuminata dalla luna, all’interno di quel recinto invaso dall’erba: qui inciampai su un focolare di marmo, là su un frammento caduto di cornice. Avvolta in uno scialle, continuavo a portare con me quel piccolo bambino sconosciuto. Non potevo lasciarlo da nessuna parte, per quanto stanche fossero le mie braccia, per quanto il suo peso ostacolasse la mia avanzata. Dovevo tenerlo con me. Sentii in lontananza lo scalpitio di un cavallo sulla strada. Ero sicura che fossi tu. Stavi partendo, per molti anni e verso una terra lontana. Salii quel muro sottile con frenesia e pericolo, desiderosa di vederti anche solo per un attimo dalla cima. Le pietre rotolarono sotto i miei piedi, i rami di edera a cui mi aggrappavo cedettero. Il bambino si strinse al mio collo, terrorizzato. Alla fine raggiunsi la cima. Ti vidi, come un puntino su una strada bianca. Sembravi allontanarti sempre di più. Il vento soffiava con tale forza che non riuscivo a stare in piedi. Mi sedetti sul bordo stretto del muro. Calmai il bambino spaventato tra le mie braccia. Tu svoltasti l’angolo della strada. Mi chinai per guardarti un’ultima volta. Il muro crollò. Caddi. E mi svegliai.”
+
+“Ora, Jane, basta così.”
+
+“Tutta la prefazione, signore; la storia vera deve ancora venire. Al risveglio, un bagliore accecante mi colpì gli occhi; pensai: ‘Oh, è giorno!’ Ma mi sbagliavo: era solo la luce delle candele. Immaginai che Sophie fosse entrata. C’era luce sul comodino, e la porta dell’armadio, dove prima di andare a letto avevo appeso il mio abito da sposa e il velo, era aperta; sentii dei rumori all’interno. Chiesi: ‘Sophie, cosa stai facendo?’ Nessuno rispose. Ma qualcuno emerse dall’armadio; prese la lampada, la sollevò in alto e esaminò gli abiti appesi lì dentro. ‘Sophie! Sophie!’ gridai di nuovo. Ma continuava a non esserci risposta. Mi alzai dal letto, mi avvicinai. Prima sorpresa, poi confusione. E poi il mio sangue iniziò a gelare nelle vene. Signor Rochester, quella non era Sophie. Non era Leah. Non era nemmeno la signora Fairfax. Non era, no, ne sono sicura. Non era nemmeno quella strana donna, Grace Poole.”
+
+“Deve essere stato uno di loro,” interruppe il mio maestro.
+
+“No, signore, vi assicuro solennemente il contrario. Quella figura che ho davanti agli occhi non mi era mai apparsa prima all’interno delle mura di Thornfield Hall; né l’altezza né i contorni mi erano familiari.”
+
+"#Descrivilo, Jane."
+
+“Sembrava, signore, una donna alta e robusta, con capelli folti e scuri che le pendevano lungo la schiena. Non so quale abito indossasse: era bianco e dritto; ma se si trattasse di un vestito, di una coperta o di un lenzuolo, non posso dirlo.”
+
+# Hai visto il suo viso?
+
+“All’inizio no. Ma poi prese il mio velo dal suo posto; lo sollevò, lo guardò a lungo, e poi se lo mise sulla testa e si avvicinò allo [[Mirror|specchio]]. In quel momento vidi chiaramente il riflesso del suo viso nello specchio rettangolare e scuro.”
+
+“E come sono andate le cose?”
+
+“Terribile e spaventoso. Oh, signore, non ho mai visto un volto del genere! Era un viso pallido, un viso selvaggio. Vorrei poter dimenticare quegli occhi rossi e quelle tracce orribili lasciate sul suo volto, ”
+
+“I fantasmi di solito sono pallidi, Jane.”
+
+“Questo, signore, era di colore viola: le labbra erano gonfie e scure; la fronte corrugata; le sopracciglia nere sollevate sopra gli occhi arrossati dal sangue. Devo raccontarvi a cosa mi ha fatto pensare?”
+
+Puoi farlo.
+
+“Del sinistro spettro tedesco: il vampiro.”
+
+“Ah!—che cosa ha fatto?”
+
+“Signore, ha tolto il mio velo dalla sua testa emaciata, l’ha strappato a metà e, gettandoli entrambi per terra, li ha calpestati.”
+
+
+Rimosse il mio velo dalla sua testa emaciata, lo strappò a metà e, gettandoli entrambi per terra, li calpestò.
+
+"Dopo?"
+
+“Scostò la tenda della [[Window|finestra]] e guardò fuori; forse vide avvicinarsi l’[[Dawn|'alba]], perché, prendendo la candela, tornò verso la porta. Proprio accanto al mio letto, quella figura si fermò: i suoi occhi ardenti mi fissarono; avvicinò la candela al mio viso e la spense davanti ai miei occhi. Sentii il suo volto pallido e terribile sopra il mio, e persi i sensi. Per la seconda [[Time|volta]] nella mia vita – soltanto la seconda volta – svenni per il terrore.”
+
+# Chi c’era con te quando ti sei ripreso?
+
+“Nessuno, signore, tranne che durante il giorno. Mi sono alzato, mi sono lavato la testa e il viso con l’[[Water|acqua]], ho bevuto a lungo; ho sentito che, sebbene debolito, non ero malato, e ho deciso di condividere questa visione solo con voi. Ora, signore, ditemi chi fosse quella donna e cosa significasse.”
+
+“Una creatura nata da un cervello eccessivamente stimolato. È certo. Devo stare attento a te, mio tesoro: nervi come i tuoi non sono fatti per essere trattati con brutalità.”
+
+“Signore, può starne certo: i miei nervi non c’entravano nulla; era tutto reale: l’operazione si è davvero svolta.”
+
+“E i tuoi sogni precedenti, erano anche quelli realtà? È davvero Thornfield Hall in rovina? Sono separata da te da ostacoli insormontabili? Ti lascio senza una lacrima, senza un bacio, senza una parola?”
+
+“Non ancora.”
+
+“Sto per farlo davvero? Ma il giorno che ci unirà per sempre è già iniziato. E una volta uniti, non torneranno più questi terribili timori interiori: te lo garantisco.”
+
+“Terrore mentale, signore. Vorrei poter credere che si trattasse solo di questo; lo desidero più che mai ora. Poiché nemmeno voi riuscite a spiegarmi il mistero di quel terribile visitatore.”
+
 
 
 <span class="atom-split" data-atom="chapter_25--part_05" data-title="Jane Eyre — Chapter 25 (part 5)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/innocent,motif/childhood,motif/love,motif/moon,motif/night,motif/rose,motif/silence,motif/sleep,motif/time,motif/well,motif/wind,motif/window,concept/courage,concept/doubt,concept/imagination,concept/truth,concept/union,concept/wonder,character/bottom,character/jane_eyre"></span>
@@ -37391,6 +40187,40 @@ would break her still sound repose. She seemed the emblem of my past
 life; and he, I was now to array myself to meet, the dread, but adored,
 type of my unknown future day.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“E poiché non sono stato in grado di farlo, Jane, deve essersi trattato di qualcosa di irreale.”
+
+“Ma, signore, quando questa mattina mi sono detto queste cose alzandomi dal letto, e quando ho guardato intorno nella stanza nel tentativo di raccogliere [[Courage|coraggio]] e conforto osservando l’aspetto allegro di ogni oggetto familiare alla luce del giorno, lì, sul tappeto, ho visto ciò che confutava decisamente la mia ipotesi: il velo, strappato completamente in due metà!”
+
+Sentii il signor Rochester tremare all'improvviso; mi avvolse rapidamente tra le braccia. “Grazie a Dio!”, esclamò, “se qualcosa di malevolo fosse venuto vicino a te ieri [[Night|notte]], sarebbe stato solo il velo ad essere danneggiato. Oh, pensare a cosa avrebbe potuto succedere!”
+
+Trattenne il respiro e mi attirò così vicino a sé che a malapena riuscivo a respirare. Dopo alcuni minuti di [[Silence|silenzio]], continuò, con allegria.
+
+“Ora, Janet, ti spiegherò tutto. Era metà sogno, metà realtà. Una donna è entrata nella tua stanza: ne sono sicuro. Quella donna doveva essere Grace Poole. Tu stessa la definisci un essere strano. Secondo quanto sai, hai tutte le ragioni per farlo. Cosa le ha fatto a me? Cosa ha fatto a Mason? Nello stato intermedio tra sonno e veglia, hai notato il suo ingresso e le sue azioni. Ma essendo febbricitante, quasi delirante, le hai attribuito un aspetto orribile, frutto della tua immaginazione. Il strappo malvagio al velo è stato reale. E tutto corrisponde a ciò che ho detto. Capisci ora perché tengo una donna del genere nella mia casa? Quando saranno trascorsi un anno e un giorno dal nostro matrimonio, te lo spiegherò. Ma non adesso. Sei soddisfatta, Jane? Accetti la mia spiegazione di questo mistero?”
+
+Riflettei, e in [[Truth|verità]] mi sembrò l’unica possibilità possibile: non ero soddisfatta, ma per compiacerlo cercai di apparire tale; certo, mi sentivo sollevata. Così gli risposi con un sorriso soddisfatto. Ora che era già passata l’una, mi preparai ad andarmene.
+
+“Sophie non dorme con Adèle nella cameretta della bambina?” chiese lui, mentre accendevo la mia candela.
+
+“Sì, signore.”
+
+“C’è abbastanza spazio nel lettino di Adèle anche per te. Dovrai condividerlo con lei di [[Night|notte]], Jane: non c’è da [[Wonder|meravigliarsi]] che l’incidente di cui hai parlato ti faccia sentire nervosa, e preferisco che tu non [[Sleep|)dorma]] [[Alone|da sola]]: promettimi che andrai nella nursery.”
+
+“Con piacere lo farò, signore.”
+
+“E chiudi bene la porta dall’interno. Quando sali di sopra, svegli Sophie fingendo di chiederle di aiutarti ad alzarti in tempo domani; devi essere pronta e aver finito la colazione prima delle otto. Ora basta pensieri cupi: scaccia via quelle tristezze, Janet. Non senti quei dolci sussurri del [[Wind|vento]]? E non c’è più il rumore della pioggia contro i vetri della finestra. Guarda qui” (sollevò la tenda) “È una bella [[Night|notte]]”!”.
+
+Era così. Metà del cielo era pura e immacolata: le nuvole, che ora si muovevano davanti al [[Wind|>vento]], che aveva cambiato direzione verso ovest, si allontanavano in lunghe colonne argentee verso est. La [[Moon|luna]] brillava serenamente.
+
+“Beh,” disse il signor Rochester, guardandomi negli occhi con aria interrogativa, “come sta ora la mia Janet?”
+
+“La [[Night|notte]] è serena, signore. E lo sono anch’io.”
+
+“E non sognarete separazione e dolore di notte, ma felice amore e beata unione.”
+
+Questa previsione si realizzò solo in parte: infatti non sognai tristezza, ma nemmeno gioia; perché in realtà non dormii affatto. Con la piccola Adèle tra le braccia, osservavo il sonno della [[Childhood|infanzia]] – così tranquillo, così privo di passioni, così [[Innocent|innocente]] – e aspettavo l’arrivo del giorno seguente. Tutta la mia vita era sveglia e attiva dentro di me; non appena il sole [[Rose|>sorgeva]], anch’io mi alzavo. Ricordo che Adèle si aggrappò a me quando la lasciai; ricordo di averla baciata mentre le scioglievo le manine dal mio collo. E piansi per lei con emozioni strane, lasciandola perché temevo che i miei singhiozzi interrompessero il suo tranquillo riposo. Lei sembrava l’emblema della mia vita passata; mentre lui, era l’incarnazione terribile, ma adorata, del mio futuro sconosciuto.
 
 
 
@@ -37530,6 +40360,69 @@ intonation. Presently Mr. Wood said—
 “I cannot proceed without some investigation into what has been
 asserted, and evidence of its [[Truth|truth]] or falsehood.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XXVI
+
+
+Sophie arrivò alle sette per vestirmi: impiegò davvero molto tempo nel compiere il suo compito. Così tanto che, immagino, il signor Rochester, ormai impaziente a causa del mio ritardo, mandò qualcuno a chiedere perché non fossi ancora pronta. Lei stava appena fissando il mio velo (quello semplice, quadrato e di colore biondo) ai miei capelli con un broccio; io mi affrettai a liberarmi dalla sua assistenza non appena ne ebbi l’opportunità.
+
+“Basta!” gridò in francese. “Guardati nello [[Mirror|specchio]]: non hai nemmeno dato un’occhiata.”
+
+Mi voltai verso la porta: vidi una figura avvolta in un abito e con il velo, così diversa dal mio solito [[Self|io]] che sembrava quasi l’immagine di uno sconosciuto. “Jane!” chiamò una voce, e io mi affrettai a scendere le scale. Fui accolta in fondo alle scale da Mr. Rochester.
+
+“Presto!”, disse, “la mia mente brucia di impazienza, e tu ci metti così tanto tempo!”
+
+Mi portò in sala da pranzo, mi esaminò attentamente dappertutto, dichiarò che ero “bella come un giglio” e non solo l’[[Pride|orgoglio]] della sua vita, ma anche il suo più grande [[Desire|desiderio]], poi mi disse che avevo soltanto dieci minuti per fare colazione e suonò la campanella. Rispose uno dei suoi servitori appena assunti, un valletto.
+
+“John sta preparando la carrozza?”
+
+“Sì, signore.”
+
+“È stata portata giù la valigia?”
+
+“Stanno abbattendolo, signore.”
+
+“Vai in chiesa: vedi se il signor Wood (il prete) e l’assistente sono lì; torna poi a dirmelo.”
+
+La chiesa, come il lettore sa, si trovava appena oltre le porte; il valletto tornò presto.
+
+“Il signor Wood è nella sacrestia, sta indossando la veste sacerdotale.”
+
+“E la carrozza?”
+
+“I cavalli stanno essere attaccati alle slitte.”
+
+“Non vorremmo che andasse in chiesa; ma deve essere pronto non appena torniamo: tutte le scatole e i bagagli devono essere sistemati e legati, e il cocchiere deve essere al suo posto.”
+
+“Sì, signore.”
+
+“Jane, sei pronta?”
+
+Le [[Rose|rose]]. Non c'erano testimoni di nozze, né damigelle d'onore, né parenti ad aspettare o a guidarci: solo il signor Rochester e io. La signora Fairfax era nella hall mentre passavamo. Avrei voluto parlarle, ma la mia mano era stretta con forza; venivo trascinata via a un passo così veloce che a malapena riuscivo a seguirlo; e guardare il viso del signor Rochester significava capire che non sarebbe stata tollerata alcuna esitazione, per nessun motivo. [[Wonder|Mi chiedo]] se qualche altro sposo abbia mai avuto quell’aspetto: così concentrato nel proprio obiettivo, così risoluto e deciso. O se qualcuno, sotto occhi così fermi e determinati, abbia mai mostrato uno sguardo così ardente e scintillante.
+
+Non so se quel giorno fosse bello o brutto; scendendo lungo il viale, non guardai né il cielo né la terra: il mio cuore era nei miei occhi. E sembrava che entrambi si fossero trasferiti nel corpo di Mr. Rochester. Volevo vedere quella cosa invisibile a cui, mentre camminavamo, lui pareva rivolgere sguardi intensi e cupi; volevo percepire i pensieri contro cui, apparentemente, lottava e resisteva.
+
+Alla porta del cimitero si fermò; si rese conto che ero senza fiato. “Sono crudele nel mio [[Love|amore]]?” disse. “Aspetta un attimo, appoggiati a me, Jane.”
+
+E ora riesco a ricordare quell’immagine della vecchia, grigia [[house|chiesa]] di Dio che si ergeva davanti a me, di un corvo che volteggiava intorno alla torre, del cielo mattutino rosato al di là. Ricordo anche le verdi tombe; e non ho dimenticato nemmeno due estranei che si aggiravano tra quelle basse colline, leggendo i ricordi incisi sulle poche pietre tombali coperte di muschio. Li notai perché, quando ci videro, girarono intorno alla chiesa e probabilmente intendevano entrare dalla porta laterale per assistere alla cerimonia. Il signor Rochester non li notò; era intento a guardarmi in faccia. Il sangue, forse, per un momento se n’era andato: sentivo la fronte umida di rugiada, le guance e le labbra fredde. Quando ripresi i sensi, lui mi accompagnò dolcemente lungo il sentiero fino al portico.
+
+Entrammo nel tempio silenzioso e umile; il sacerdote aspettava nella sua veste bianca all’altare semplice, con l’assistente al suo fianco. Tutto era immobile: solo due ombre si muovevano in un angolo lontano. La mia supposizione era corretta: quegli sconosciuti erano entrati prima di noi e ora stavano vicino alla tomba dei Rochester, con le spalle rivolte verso di noi, osservando attraverso le sbarre la vecchia tomba in marmo segnata dal tempo, dove un angelo inginocchiato custodiva i resti di Damer de Rochester, ucciso a Marston Moor durante i [[Time|tempi]] delle guerre civili, e di Elizabeth, sua moglie.
+
+Il nostro posto era stato occupato vicino alle panche per la comunione. Sentendo dei passi cauti dietro di me, mi voltai: uno degli sconosciuti – evidentemente un gentiluomo – stava avvicinandosi alla parte anteriore della chiesa. La cerimonia iniziò. Fu spiegato il significato del matrimonio; poi il prete fece un passo avanti e, chinandosi leggermente verso il signor Rochester, continuò con la sua predica.
+
+“Esigo e vi impongo entrambi (poiché dovrete rispondere nel terribile giorno del giudizio, quando i [[Secrets|segreti]] di tutti i cuori saranno rivelati), che se uno di voi conosce qualche impedimento che vi impedisca di unirvi legalmente in matrimonio, lo confessi ora stesso; poiché sappiate bene che coloro che si uniscono al di fuori della Parola di Dio non sono uniti da Dio, e il loro matrimonio non è legittimo.”
+
+Si fermò, come è consuetudine. Quando mai, dopo una frase del genere, la pausa viene interrotta da una risposta? Forse, una volta ogni cento anni. E il prete, che non aveva alzato gli occhi dal suo libro e aveva trattenuto il respiro solo per un momento, continuò: la sua mano era già tesa verso il signor Rochester, mentre le sue labbra si aprirono per chiedere: “Vuoi prendere questa donna come tua moglie?”, quando una voce chiara e vicina disse.
+
+“Il [[Marriage|matrimonio]] non può continuare: dichiaro l’esistenza di un ostacolo.”
+
+Il prete alzò lo sguardo verso l’oratore e rimase in silenzio; lo scrivano fece lo stesso; il signor Rochester si mosse leggermente, come se un terremoto fosse scosso la terra sotto i suoi piedi: prendendo più saldamente appoggio sul terreno, senza girare la testa né guardare altrove, disse: “Prosegua.”
+
+Un profondo [[Silence|silenzio]] calò nel momento in cui pronunciò quella parola, con un tono profondo ma sommesso. Dopo un po', il signor Wood disse.
+
+“Non posso procedere senza prima indagare su quanto è stato affermato, e verificare se le affermazioni corrispondono alla [[Truth|verità]] o meno.”
 
 
 
@@ -37683,6 +40576,70 @@ was fair and legal; and never dreamt she was going to be entrapped into
 a feigned [[Union|union]] with a defrauded wretch, already bound to a bad, mad,
 and embruted partner! Come all of you—follow!”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“La cerimonia è stata interrotta”, aggiunse la voce dietro di noi. “Sono in grado di provare le mie accuse: esiste un ostacolo insormontabile a questo [[Marriage|matrimonio]].”
+
+Il signor Rochester ascoltò, ma non prestò attenzione: rimase fermo e rigido, senza fare alcun movimento se non quello di afferrare la mia mano. Che stretta calda e forte aveva. E il suo viso pallido, solido, massiccio, in quel momento, assomigliava davvero a marmo scolpito! I suoi occhi brillavano, attenti eppure selvaggi.
+
+Il signor Wood sembrava perplesso. “Di che [[Nature|tipo]] è questo ostacolo?” chiese. “Forse si può superare, forse si può spiegare, ”
+
+“Assolutamente no”, fu la risposta. “L’ho definito insormontabile, e lo dico con cognizione di causa.”
+
+Il relatore si avvicinò e appoggiò le mani sul parapetto. Continuò a parlare, pronunciando ogni parola chiaramente, con calma e fermezza, ma senza alzare la voce.
+
+“Si tratta semplicemente dell’esistenza di un precedente [[Marriage|mattrimonio]]. Il signor Rochester ha attualmente una moglie ancora viva.”
+
+I miei nervi vibravano per quelle parole sussurrate, come non avevano mai vibrato per il tuono; il mio [[Blood|sangue]] percepiva la loro violenza sottile, come non l’aveva mai percepita né per il [[Frost|gelo]] né per il [[Fire|fuoco]]; ma rimasi calma, senza alcun rischio di svenire. Guardai il signor Rochester: lo costrinsi a guardarmi. Tutto il suo viso era come roccia priva di colore; i suoi occhi erano allo stesso tempo scintille e pietra focaia. Non negò nulla; sembrava pronto a sfidare qualsiasi cosa. Senza parlare, senza sorridere, senza nemmeno riconoscere in me un essere umano, mi avvolse semplicemente con il braccio e mi attirò a sé.
+
+“Chi sei?” chiese all’intruso.
+
+“Mi chiamo Briggs, sono un avvocato di —— Street, [[London|Londra]].”
+
+“E vorresti impormi una moglie?”
+
+“Vorrei ricordarle l’esistenza della sua signora, signore, una realtà riconosciuta dalla legge, se lei non lo facesse.”
+
+# Raccontami di lei: il suo nome, le sue origini, il luogo dove vive.
+
+“Certamente.” Il signor Briggs prese con calma un foglio di carta dalla tasca e lo lesse ad alta voce, con un tono ufficiale e nasale.
+
+“‘Affermo e posso provare che il 20 ottobre dell’anno Domini 1860 – cioè quindici anni fa – Edward Fairfax Rochester, di Thornfield Hall, nella contea di ——, e di Ferndean Manor, nella contea di ——, in Inghilterra, sposò mia sorella Bertha Antoinetta Mason, figlia di Jonas Mason, mercante, e di Antoinetta sua moglie, di origine creola. I registri relativi a questo [[Marriage|matrimonio]] si trovano presso la chiesa di Spanish Town, in Giamaica; ne possiedo una copia attualmente. Firma: [[Richard]] Mason.’”
+
+“Quel documento, se davvero è autentico, potrebbe provare che sono stato sposato, ma non dimostra che la donna menzionata come mia moglie sia ancora viva.”
+
+“Viveva tre mesi fa,” rispose l’avvocato.
+
+“Come fai a saperlo?”
+
+“Ho un testimone di questo fatto, il cui resoconto nemmeno voi, signore, potrete facilmente confutare.”
+
+#"Producetelo… o andate all’inferno."
+
+“Lo farò venire fuori prima; si trova proprio lì. Signor Mason, per favore faccia un passo avanti.”
+
+Il signor Rochester, sentendo quel nome, strinse i denti; anche lui provò una sorta di convulsione violenta; essendo così vicina a lui, percepii chiaramente il movimento spasmodico della rabbia o del [[Despair|dispero]] che attraversava il suo corpo. L’altro straniero, che fino ad allora era rimasto in disparte, si avvicinò ora; un viso pallido apparve dietro la spalla dell’avvocato. Sì, era proprio Mason. Il signor Rochester si girò e lo fissò con occhi pieni di furia. Il suo sguardo, come ho detto molte volte, era davvero “un occhio nero”: ora brillava di un bagliore giallastro, quasi sangueoso; il suo viso arrossì. Le guance olivastre e la fronte pallida assunsero un colore acceso, come se un fuoco ardente si stesse diffondendo in tutto il suo corpo. Lui fece per alzare il braccio forte. Avrebbe potuto colpire Mason, scaraventarlo a terra davanti alla chiesa, ucciderlo con un pugno spietato. Ma Mason indietreggiò e mormorò debolmente: “Dio mio, ” Il disprezzo calò su Mr. Rochester; la sua passione si estinse, come se fosse stata distrutta da una malattia mortale. Lui chiese soltanto: “Cosa hai da dire?”
+
+Una risposta inudibile sfuggì dalle labbra bianche di Mason.
+
+“Se non riesci a rispondere chiaramente, allora c’è il diavolo di mezzo. Chiedo ancora una volta: cosa hai da dire tu?”
+
+“Signore, signore,” intervenne il prete, “non dimentichi che si trova in un luogo sacro.” Poi, rivolgendosi gentilmente a Mason, chiese: “Lei sa, signore, se la moglie di questo gentiluomo sia ancora viva?”
+
+“[[Courage|Coraggio]],” incitò l’avvocato, “parla apertamente.”
+
+“Ora vive a Thornfield Hall,” disse Mason, con toni più chiari e distinti: “L’ho vista lì lo scorso aprile. Sono suo fratello.”
+
+“Al castello di Thornfield Hall!” esclamò il prete. “Impossibile! Sono un vecchio residente di questo quartiere, signore, e non ho mai sentito parlare di una signora Rochester al castello di Thornfield Hall.”
+
+“Vidi un sorriso cupo deformare le labbra del signor Rochester; mormorò…”
+
+“No, per Dio! Ho fatto in modo che nessuno venisse a saperlo, né di lei, con quel nome,” rifletté. Per dieci minuti rimase immerso nei suoi pensieri; poi prese una decisione e la annunciò.
+
+“Basta! Tutti dovranno andarsene immediatamente, come una pallottola che esce dal cannone. Wood, chiudi il tuo libro e togliiti la veste sacra; John Green, lascia la chiesa: oggi non ci sarà nessun matrimonio.” L’uomo obbedì.
+
+Il signor Rochester continuò, con determinazione e imprudenza: “Bigamia, è una parola orribile! Intendevo dire che avrei commesso bigamia; ma il destino mi ha preceduto, o forse la Provvidenza me l’ha impedito. Forse per l’ultima volta. In questo momento non sono molto diverso da un diavolo; e, come mi direbbe il mio pastore, merito senza dubbio i giudizi più severi di Dio, persino il fuoco eterno e la dannazione eterna. Signori, il mio piano è fallito: quello che dice questo avvocato e il suo cliente è vero. Sono stato sposato, e la donna con cui mi sono unito è ancora viva! Dite di non aver mai sentito parlare di una signora Rochester in quella casa lì in alto, Wood. Ma scommetto che molte volte avete prestato orecchio alle chiacchiere su quella misteriosa pazza tenuta sotto custodia lì dentro. Alcuni hanno sussurrato che sia mia sorella illegittima; altri, che sia stata la mia amante abbandonata. Ora vi dico che è mia moglie. L’ho sposata quindici anni fa. Si chiama Bertha Mason. Sorella di questa donna risoluta che, con le sue gambe tremanti e le guance pallide, vi dimostra quanto possano essere forti i cuori umani. Coraggio, Dick. Non temetemi mai! Preferirei colpire una donna come voi piuttosto che. Bertha Mason è pazza. E proviene da una famiglia di pazzi. Idioti e maniaci per tre generazioni! Sua madre, quella creola, era sia una donna pazza che una ubriacona. Lo scoprii solo dopo aver sposato sua figlia. Perché prima non mi avevano rivelato i segreti della loro famiglia. Bertha, come una figlia obbediente, ha ereditato queste caratteristiche dai suoi genitori. Avevo una compagna incantevole. Pura, saggia, modesta. Potete immaginare che fossi un uomo felice. Ho vissuto momenti meravigliosi. Oh! La mia esperienza è stata davvero straordinaria, se solo lo sapeste. Ma non ho bisogno di darvi altre spiegazioni. Briggs, Wood, Mason. Vi invito tutti a venire in quella casa e a conoscere la “paziente” della signora Poole. E mia moglie! Vedrete che tipo di persona sono stato costretto ad assumermi. E giudicherete se avessi il diritto di rompere quel patto e cercare comprensione da qualcuno, almeno umano. Questa ragazza,” continuò, guardandomi, “non sapeva nulla di questo orribile segreto. Pensava che tutto fosse legale e onesto. E non immaginava affatto che sarebbe stata trascinata in un falso matrimonio con una persona ingannatrice, già legata a un partner malvagio, pazzo e corrotto. Venite tutti. Seguitemi!”
 
 
 
@@ -37946,6 +40903,22 @@ bitter hour cannot be described: in [[Truth|truth]], “the waters came into my
 the floods overflowed me.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Lo sentii andare mentre stavo davanti alla porta semiaperta della mia stanza, nella quale mi ero ritirata. Quando la [[house|casa]] fu vuota, mi chiusi dentro, abbassai il chiavistello per impedire a nessuno di entrare, e poi, non per piangere, né per lamentarmi – ero ancora troppo calma per farlo – ma semplicemente, in modo meccanico, tolsi l’abito da sposa e lo sostituii con il vestito che indossavo ieri, pensando che fosse l’ultima volta. Poi mi sedetti: mi sentivo debole e stanca. Appoggiai le braccia su un tavolo e lasciai cadere la testa su di esse. E ora pensai, fino ad ora avevo solo ascoltato, visto, reagito agli eventi che si susseguivano; ma _ora_, pensai davvero.
+
+La mattina era stata abbastanza tranquilla, tranne per quella breve scena con il pazzo: l’intera procedura in chiesa non aveva causato alcun rumore; nessuna esplosione di passione, nessun litigio acceso, nessuna disputa, nessuna sfida o provocazione, nessun pianto, nessun singhiozzo. Sono state dette solo poche parole, un’obiezione calma e chiara riguardo al [[Marriage|matrimonio]]; il signor Rochester ha posto alcune domande severe e brevi; sono seguite risposte, spiegazioni e prove presentate; infine, il mio padrone ha ammesso apertamente la [[Truth|verità]]. Poi gli intrusi se ne sono andati, e tutto è finito.
+
+Ero nella mia stanza, come al solito: solo io, senza alcun cambiamento evidente; nulla mi aveva colpito, ferito o mutilato. Eppure, dove era finita la [[Jane Eyre]] di ieri? Dove erano la sua vita, le sue prospettive?
+
+[[Jane Eyre]], che un tempo era stata una donna appassionata e piena di speranze – quasi una sposa – adesso era di nuovo una ragazza fredda e solitaria: la sua vita sembrava spenta, il suo futuro desolato. Una gelida [[Frost|bora]] invernale era arrivata a metà estate; una tempesta di neve aveva distrutto i campi fioriti; ghiaccio ricopriva le mele mature, i fiori venivano schiacciati dal vento gelido; i sentieri, che la notte precedente erano pieni di fiori, ora erano inaccessibili a causa della neve; e i boschi, un’ora prima ancora rigogliosi e profumati, ora apparivano desolati e bianchi come le foreste norvegesi in inverno. Tutte le mie speranze erano distrutte, colpite da una sorte crudele, simile a quella che un tempo colpì tutti i primogeniti nel paese d’[[Egypt|Egitto]]. Guardavo i miei desideri più cari: un tempo così fioriti e luminosi, ora erano solo cadaveri freddi e senza vita. Guardavo il mio [[Love|amore]]: quell’affetto che era stato tutto per me, tremava nel mio cuore, come un bambino sofferente in una culla gelida; malattia e angoscia lo avevano distrutto, non poteva più cercare conforto tra le braccia di Mr. Rochester. Oh, non avrebbe mai più potuto farlo, perché la [[Faith|fede]] era morta, la fiducia era andata perduta! Mr. Rochester non era più ciò che avevo pensato fosse. Non potevo accusarlo di vizi, né dire che mi avesse tradita. Ma l’attributo della [[Truth|verità]] era scomparso dalla sua persona, e io dovevo andarmene. Lo capivo chiaramente. Quando, come, dove, non lo sapevo ancora. Ma lui, ne ero certa, mi avrebbe fatto lasciare Thornfield al più presto. Sembrava che non potesse provare per me un vero affetto. Era stata solo una passione effimera, e ora quella passione era finita. Non voleva più avermi accanto. Ora temevo persino di incrociarne la strada. Il mio aspetto doveva essere orribile ai suoi occhi. Oh, quanto ero stata cieca. Quanto debole nella mia condotta!
+
+Avevo gli occhi coperti e chiusi; l’oscurità vorticosa sembrava circondarmi completamente, e i riflessi che ne derivavano apparivano neri e confusi. Abbandonato a me stesso, rilassato e senza alcuno sforzo, mi sentivo come se fossi disteso nel letto prosciugato di un grande [[River|fiume]]; udivo il rumore di una piena che si stava scatenando in lontane [[Mountains|montagne]] e sentivo il torrente avvicinarsi. Non avevo la forza di alzarmi, né quella di fuggire. Giacevo privo di sensi, desideroso solo di morire. Un’unica idea continuava a pulsare dentro di me come se fosse ancora viva: il ricordo di Dio. Da quel ricordo nacque una preghiera inespressa; quelle parole vagavano nella mia mente senza luce, come qualcosa che avrebbe dovuto essere sussurrato. Ma non trovavo la forza per esprimerle.
+
+Non allontanarti da me, poiché il pericolo è vicino… Non c’è nessuno che possa aiutare.
+
+Era vicino. E poiché non avevo inviato alcuna preghiera al Cielo per evitarlo – poiché né avevo unito le mani, né piegato le ginocchia, né mosso le labbra – arrivò: con tutta la sua forza, il diluvio si abbatté su di me. Tutta la consapevolezza della mia vita perduta, il mio [[Love|amore]] distrutto, la mia [[Hope|>speranza]] spenta, la mia [[Faith|>fede]] annientata, tutto ciò si riversò su di me in un’unica, cupa massa. Quell’orribile momento è indescrivibile: con sincerità, “le acque invasero la mia anima”; affondai in un abisso senza fondo; non sentivo più forze per resistere. Ero sommerso dalle onde del disastro.
+
 
 
 <span class="atom-split" data-atom="chapter_27--part_01" data-title="Jane Eyre — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/tyrant,motif/blood,motif/death,motif/desire,motif/dreams,motif/fire,motif/lamb,motif/love,motif/rose,motif/silence,motif/summer,motif/tears,motif/time,motif/water,motif/well,concept/conscience,concept/honour,concept/self,concept/solitude,concept/suffering,character/bertha_mason,character/jane_eyre"></span>
@@ -38084,6 +41057,7 @@ consider is of no use. I know you—I am on my guard.”
 <span class="qlang-split" data-lang="it"></span>
 
 # CAPITOLO XXVII
+
 
 A un certo momento del pomeriggio alzai lo sguardo e, vedendo il sole tramontare che illuminava la parete, mi chiesi: “Cosa devo fare?”
 
@@ -38245,6 +41219,38 @@ and endless trouble! By God! I long to exert a fraction of Samson’s
 strength, and break the entanglement like tow!”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Signore, non desidero agire contro di voi,” dissi; e la mia voce incerta mi avvertì di abbreviare la frase.
+
+“Non nel senso che tu intendi, ma nel mio. Stai architettando di distruggermi. Hai detto chiaramente che sono un uomo sposato; quindi mi eviterai, starai lontana da me. Proprio adesso hai rifiutato di baciarmi. Intendi comportarti con me come se fossimo completamente estranei: vivere sotto questo tetto soltanto nel ruolo di governante di Adèle. Se mai ti rivolgessi una parola gentile, se mai un sentimento affettuoso mi facesse tornare vicino a te, diresti, ‘Quell’uomo quasi mi ha resa sua amante: devo essere per lui ghiaccio e roccia, ’ E così diventerai davvero.”
+
+Risposi con voce chiara e ferma: “Tutto in me è cambiato, signore; anch’io devo cambiare. Non c’è alcun [[Doubt|>dubbio]] al riguardo. E per evitare fluttuazioni emotive e continue lotte con i ricordi e le associazioni mentali, c’è un solo modo: Adèle deve avere una nuova governante, signore.”
+
+“Oh, Adèle andrà a scuola. L’ho già deciso; non intendo nemmeno tormentarti con le orribili associazioni e i ricordi legati a Thornfield Hall. Questo maledetto posto. Questa prigione oscura dove si offre la mostruosità di una vita simile alla morte, sotto il cielo aperto. Questo angusto inferno di pietra, con il suo vero mostro, peggiore di un esercito di persone come quelle che immaginiamo. Jane, non resterai qui, e nemmeno io. Ho commesso un errore a portarti a Thornfield Hall, sapendo bene quanto fosse infestato. Ho ordinato loro di nasconderti ogni informazione riguardante la maledizione di quel luogo. Solo perché temevo che Adèle non avrebbe mai trovato una governante disposta a restare lì, se avesse saputo con chi condividesse la casa. E i miei piani non mi permettevano di trasferire quel pazzo altrove. Anche se possiedo una vecchia casa, Ferndean Manor, più isolata e nascosta di questa, dove avrei potuto sistemarla in sicurezza. Se non fosse stato per il timore che la situazione, così umida e isolata nel cuore di un bosco, potesse rivelarsi dannosa per la sua salute. Probabilmente quelle pareti umide avrebbero presto risolto il problema. Ma ogni [[Villain|malvagio]] ha i suoi vizi. E il mio non è certo quello di compiere assassinii indiretti, nemmeno nei confronti di ciò che odio di più, ”
+
+“Tuttavia, nascondervi il quartiere dove vive quella donna pazza è come coprire un [[Child|>bambino]] con un mantello e posizionarlo vicino a un albero velenoso: quel luogo è maledetto, lo è sempre stato. Ma chiuderò Thornfield Hall. Incollerò la porta d’ingresso e sigillerò le finestre inferiori; darò a Mrs. Poole duecento sterline all’anno affinché viva qui con _mia moglie_, come voi chiamate quella strega spaventosa. Grace sarà disposta a fare molto per denaro, e avrà suo figlio, il custode di Grimsby Retreat, che le farà compagnia e l’aiuterà nei suoi attacchi di follia. Quando _mia moglie_, spinta da quella forza oscura, vorrà bruciare le persone nei loro letti di notte, pugnalarle, morderne la carne fino alle ossa, e così via, ”
+
+“Signore,” lo interruppi, “siete spietato verso quella sfortunata signora: parlate di lei con odio, con un'antipatia vendicativa. È crudele. Non può fare a meno di impazzire.”
+
+“Jane, mia piccola adorata (così ti chiamerò, perché lo sei davvero), non sai di cosa stai parlando; mi giudichi male ancora una volta: non è perché lei sia pazza che la odio. Se tu fossi pazza, pensi che ti odierei?”
+
+“Certamente, signore.”
+
+“Allora ti sbagli: non sai nulla di me, né del tipo di [[Love|amore]] di cui sono capace. Ogni singolo atomo della tua carne è per me tanto caro quanto il mio stesso corpo; anche nel dolore e nella malattia rimarrebbe prezioso. La tua mente è il mio tesoro: anche se fosse distrutta, continuerebbe a esserlo. Se tu delirassi, sarebbero le mie braccia ad accoglierti, non una stretta cintura. Anche nel tuo furore, la tua presenza avrebbe per me un fascino irresistibile; anche se mi assalissi con la stessa furia di quella donna questa mattina, ti accoglierei tra le mie braccia, con lo stesso affetto, anche se fosse necessario limitare i nostri movimenti. Non mi allontanerei da te con disgusto, come ho fatto con lei. Nei tuoi momenti di tranquillità, non avresti altra guardiana né altro “infermiere” che me; potrei prendermi cura di te con instancabile tenerezza, anche se non mi sorridessi mai in risposta. E non mi stancherei mai di fissare i tuoi occhi, anche se ormai non contenessero più alcun riconoscimento per me. Ma perché seguo questo filo di pensieri? Stavo parlando del fatto di portarti via da Thornfield. Tutto è pronto per una partenza immediata: domani partirai. Ti chiedo solo di sopportare un’altra [[Night|notte]] sotto questo tetto, Jane. E poi addio, per sempre, alle sue miserie e ai suoi terrori! Ho un posto dove tornare. Un rifugio sicuro, lontano da ricordi odiosi, da intrusioni indesiderate. Persino dalla menzogna e dalla calunnia.”
+
+“E porti con voi anche Adèle, signore”, interruppi io; “le farà da compagna.”
+
+“Cosa intendi dire, Jane? Ti ho detto che avrei mandato Adèle a scuola; e cosa potrei volere da una [[Child|bambina]] come compagna, non dalla mia stessa [[Child|figlia]], una bastarda di una ballerina francese? Perché insisti così su di lei! Dico, perché mi assegni Adèle come compagna?”
+
+“Avete parlato di ritiro, signore; ma il ritiro e la [[Solitude|solitudine]] sono noiosi, troppo noiosi per voi.”
+
+“[[Solitude|Solitudine]]! [[Solitude|solitudine]]!” ripeté con irritazione. “Capisco che devo ricevere una spiegazione. Non so quale espressione enigmatica si stia formando sul tuo volto, _Tu_ dovresti condividere la mia [[Solitude|solitudine]]. Capisci?”
+
+Scossi la testa: richiedeva un certo grado di [[Courage|coraggio]], considerando quanto fosse diventato eccitato in quel momento. Anche solo rischiare quel silenzioso segno di dissenso significava dimostrare coraggio. Stava camminando velocemente per la stanza, quando si fermò, come se fosse improvvisamente piantato lì dove si trovava. Mi guardò a lungo e intensamente; io distolsi lo sguardo da lui e lo fissai sul [[Fire|fuoco]], cercando di mantenere un’aria calma e composta.
+
+“Ora veniamo al punto critico nel carattere di Jane,” disse finalmente, con voce molto più calma di quanto mi aspettassi, considerando il suo aspetto. “Finora tutto è andato abbastanza liscio; ma sapevo che sarebbe arrivato un momento di difficoltà. Ecco qui. Ora iniziano problemi, frustrazioni e infinite complicazioni! Per Dio. Vorrei disporre anche solo di una frazione della forza di Samson per risolvere questo groviglio!”
+
 
 
 <span class="atom-split" data-atom="chapter_27--part_03" data-title="Jane Eyre — Chapter 27 (part 3)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/fool,archetype/innocent,motif/blood,motif/desire,motif/love,motif/marriage,motif/nature,motif/storm,motif/tears,motif/time,motif/well,concept/beauty,concept/fear,concept/madness,concept/nature,concept/truth,concept/union,character/jane_eyre"></span>
@@ -38404,6 +41410,64 @@ grovelling, mole-eyed blockhead that I was! With less sin I might
 have—But let me remember to whom I am speaking.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Riprese a camminare, ma presto si fermò di nuovo, e questa volta proprio davanti a me.
+
+“Jane! Vuoi ascoltare la ragione?” (si chinò e avvicinò le labbra al mio orecchio); “perché, se non lo farai, proverò a usare la forza.” La sua voce era rauca; il suo sguardo quello di un uomo sul punto di rompere un legame insopportabile e di precipitarsi nella follia. Capivo che in un altro istante, con un’altra folle impulso, non avrei potuto fare nulla contro di lui. Quel momento, quel singolo secondo dell’[[Time|tempo]], era tutto ciò che avevo per controllarlo e trattenerlo: un gesto di repulsione, una fuga, l’[[Fear|paura]] avrebbe segnato la mia rovina, e anche la sua. Ma non avevo paura: affatto. Sentivo una forza interiore, una sensazione di potere che mi sosteneva. La crisi era pericolosa, ma non priva di fascino: come quello che proviene forse agli indiani quando attraversano le rapide con la loro canoa. Presi la sua mano stretta a pugno, allentai le dita contorte e gli dissi, con voce tranquillizzante.
+
+“Siediti; parlerò con te per tutto il tempo che vuoi e ascolterò tutto ciò che hai da dire, sia che sia ragionevole o meno.”
+
+Si sedette; ma non gli fu permesso di parlare direttamente. Da un po’ di tempo lottavo contro le [[Tears|lacrime]]: avevo fatto di tutto per reprimerle, perché sapevo che a lui non sarebbe piaciuto vedermi piangere. Ora, invece, pensai fosse meglio lasciarle scorrere liberamente, per quanto tempo volessero. Se questa “inondazione” lo infastidiva, tanto meglio. Così cedetti e piansi a dirotto.
+
+Poco dopo lo sentii supplicarmi con sincerità di calmarmi. Gli dissi che non potevo farlo finché lui era così agitato.
+
+“Ma non sono arrabbiata, Jane: ti amo semplicemente troppo; e tu avevi il tuo visino pallido e delicato irrigidito da un'espressione così decisa e fredda. Non ce l’ho fatta a sopportarlo. Ora sta zitta e asciuga le lacrime.”
+
+La sua voce più dolce indicava che si era calmato; così anch'io, a mia volta, mi rilassai. Poi cercò di appoggiare la testa sulla mia spalla, ma io non glielo permisi. Allora provò ad attirarmi a sé. No.
+
+“Jane! Jane!” disse lui, con un tono di amara tristezza che mi fece tremare fino alle ossa; “Allora non mi [[Love|ami]]? Era solo la mia posizione sociale e il mio rango di marito quelli che contavano per te? Ora che pensi che io non sia adatto a diventare tuo marito, ti allontani dal mio tocco come se fossi qualche rospo o scimmia.”
+
+Queste parole mi hanno ferito profondamente. Ma cosa avrei potuto fare o dire? Probabilmente avrei dovuto non fare nulla, né dire nulla; tuttavia, il senso di rimorso per avergli ferito i sentimenti era così forte che non riuscivo a trattenere il desiderio di “ungere” le ferite che avevo causato.
+
+“Ti _amo_ davvero,” dissi, “più che mai. Ma non devo mostrare né indulgere in questo sentimento. E questa è l’ultima volta che lo esprimo.”
+
+“L’ultima volta, Jane. Cosa credi di poter fare: vivere con me, vedermi ogni giorno, eppure, se mi ami ancora, comportarti sempre in modo freddo e distante?”
+
+“No, signore; sono certo di non poterlo fare; quindi vedo che c’è solo un modo. Ma sarete furioso se lo menziono.”
+
+“Ah, parlatene pure! Se io faccio un’[[Storm|tempesta]], voi possedete l’arte di piangere.”
+
+“Signor Rochester, devo lasciarvi.”
+
+“Per quanto tempo, Jane? Per qualche minuto, mentre ti sistemhi i capelli che sono un po’ scompigliati, e ti lavi il viso che sembra arrossato, ”
+
+“Devo lasciare Adèle e Thornfield. Devo separarmi da te per tutta la vita: devo iniziare una nuova esistenza tra volti sconosciuti e ambienti estranei.”
+
+“Certo: te l’avevo detto che dovevi farlo. Ignoro quella [[Madness|pazzia]] legata all’idea di separarmi da te. Intendi dire che devi diventare parte di me. Per quanto riguarda questa nuova vita, va tutto bene: sarai ancora mia moglie. Non sono sposato. Sarai la signora Rochester, sia di fatto che di nome. Ti terrò solo per me finché vivremo insieme. Andrai in un posto che ho nel sud della Francia: una villa imbiancata sulle rive del Mediterraneo. Lì vivrai una vita felice, protetta e, molto [[Innocent|innocente]]. Non temere mai che io voglia ingannarti, farti diventare la mia amante. Perché scuoti la testa? Jane, devi essere ragionevole. Altrimenti, in [[Truth|verità]], impazzirò di nuovo.”
+
+La sua voce e la sua mano tremavano; le sue narici si dilatarono; il suo sguardo ardeva. Eppure osai parlare.
+
+“Signore, sua moglie è ancora viva: questo è un fatto che lei stessa ha ammesso questa mattina. Se io vivessi con voi come lei desidera, allora sarei la vostra amante; affermare il contrario è una sofisticazione, è falso.”
+
+“Jane, non sono un uomo dal carattere mite. Lo dimentichi? Non sono paziente, né freddo e distaccato. Per pietà verso di me e verso di te, metti la mano sul mio polso, senti come batte. E stai attenta!”
+
+Si tolse il polso e me lo offrì: il [[Blood|sangue]] stava abbandonando le sue guance e le sue labbra, che diventavano sempre più pallide; ero profondamente angosciato. Turbarlo così profondamente, con un gesto che odiava tanto, era crudele. Arrendersi era assolutamente fuori discussione. Feci ciò che gli esseri umani fanno istintivamente quando vengono spinti all’estremo: cercai aiuto in qualcuno più alto dell’uomo. Le parole “Dio aiutami!” mi uscirono involontariamente dalle labbra.
+
+“Sono un [[Fool|idiota]]!” esclamò improvvisamente il signor Rochester. “Continuo a dirle che non sono sposato, ma non le spiego mai il motivo. Dimentico che lei non sa nulla riguardo al carattere di quella donna, né delle circostanze che hanno portato a quel mio maledetto [[Union|matrimonio]] con lei. Oh, sono certo che Jane sarà d’accordo con me quando saprà tutto ciò che so io! Metti solo la tua mano nella mia, Janet, così potrò sentire il contatto della tua mano come posso vedere, per dimostrarti che sei vicina a me. E in poche parole ti spiegherò la vera situazione. Puoi ascoltarmi?”
+
+“Sì, signore; per ore, se lo desidera.”
+
+“Chiedo solo pochi minuti. Jane, hai mai sentito o saputo che non ero il figlio maggiore della mia [[house|>famiglia]]? Che un tempo avevo un fratello più grande di me?”
+
+“Ricordo che una volta la signora Fairfax me lo disse.”
+
+“E hai mai sentito dire che mio padre fosse un uomo avaro e avido?”
+
+“Ho capito più o meno così.”
+
+“Beh, Jane, essendo così le cose, la sua decisione fu quella di mantenere l’intera proprietà unita; non poteva sopportare l’idea di dividere il proprio patrimonio e lasciarmi una parte equa: tutto, decise, sarebbe andato a mio fratello, Rowland. Tuttavia, non poteva nemmeno tollerare che un figlio suo diventasse povero. Dovevo quindi essere sistemata attraverso un matrimonio vantaggioso. Mi cercò una compagna adatta in tempi opportuni. Il signor Mason, un coltivatore e commerciante delle Indie Occidentali, era un suo vecchio conoscente. Era certo che le sue proprietà fossero reali e vaste. Fece delle indagini. Scoprì che il signor Mason aveva un figlio e una figlia; seppe da lui che avrebbe potuto – e in effetti lo fece – dare alla figlia una dote di trentamila sterline: questo era sufficiente. Quando lasciai l’università, fui mandata a Giamaica per sposare una donna che già mi corteggiava. Mio padre non parlò mai del suo patrimonio; ma mi disse che la signorina Mason era considerata la più bella di Spanish Town. E questo non era affatto una bugia. La trovai davvero una donna bellissima, nel tipico stile di Blanche Ingram: alta, bruna e maestosa. Sua famiglia desiderava assicurarsi che io diventassi sua moglie perché provenivo da una buona famiglia; lo stesso valeva per lei. Mi la presentarono in diverse occasioni, vestita splendidamente. Raramente la vedevo da sola, e non avevamo quasi mai conversazioni private. Mi lusingava, e mostrava generosamente i suoi pregi e le sue qualità. Tutti gli uomini del suo ambiente sembravano ammirarla e invidiarmi. Ero abbagliata, eccitata. Essendo ignorante, inesperta e immatura, pensavo di amarla. Non esiste follia più totale di quella che spinge un uomo, sotto l’influenza delle rivalità sociali, della curiosità, dell’impulsività e della cecità della gioventù, a compiere atti così stupidi. I suoi parenti mi incoraggiavano; i miei concorrenti mi stimolavano; lei mi attirava. Il matrimonio fu concluso quasi prima che io capissi cosa stesse succedendo. Oh, quando penso a quell’atto, non ho alcun rispetto per me stessa. Un dolore profondo e un disprezzo interno mi dominano. Non l’amavo mai, non la stimavo affatto. Non conoscevo nemmeno le sue qualità positive. Non avevo notato né modestia, né bontà, né onestà, né raffinatezza nel suo carattere o nei suoi modi. Eppure l’ho sposata. Che stupida, ignorante e meschina che ero! Con meno colpe avrei potuto comportarmi diversamente. Ma lasciate che ricordi a chi sto parlando, ”
+
 
 
 <span class="atom-split" data-atom="chapter_27--part_04" data-title="Jane Eyre — Chapter 27 (part 4)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/love,motif/moon,motif/nature,motif/night,motif/pain,motif/sleep,motif/time,motif/window,concept/despair,concept/nature,concept/self,concept/suffering,character/bertha_mason,character/jane_eyre"></span>
@@ -38506,6 +41570,26 @@ than she: though two rooms off, I heard every word—the thin partitions
 of the West India [[house]] opposing but slight obstruction to her wolfish
 cries.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Non avevo mai visto la madre di mia moglie: capii che era morta. Dopo la luna di miele, scoprii il mio errore: lei era solo arrabbiata e rinchiusa in un manicomio. C’era anche un fratello minore, un vero idiota. Quello maggiore, che avete visto (e che non riesco a odiare, anche se detesto tutta la sua famiglia; perché nel suo debole cervello esistono ancora alcuni sprazzi di affetto: si vede dal continuo interesse che mostra per sua sorella sventurata, e anche dall’affetto quasi animale che un tempo provava per me), probabilmente finirà nello stesso stato un giorno. Mio padre e mio fratello Rowland sapevano tutto questo, ma pensavano solo a quei trentamila sterline, e così si unirono alla cospirazione contro di me.”
+
+“Queste erano scoperte vergognose; ma a parte la tradizione derivante dal fatto che venivano nascoste, non avrei dovuto farne oggetto di rimproveri per mia moglie, anche quando mi resi conto che la sua [[Nature|>natura]] era completamente diversa dalla mia, i suoi gusti mi erano odiosi, il suo modo di pensare banale, meschino e assolutamente incapace di elevarsi a qualcosa di più nobile o di ampliarsi verso qualcosa di più grande. Anche quando capii che non potevo trascorrere nemmeno una serata, né un solo momento della giornata con lei in armonia; che non era possibile mantenere tra noi conversazioni cordiali, perché qualsiasi argomento affrontassi veniva immediatamente deviato da lei verso direzioni volgari, banali, perverse e stupide. Anche allora mi controllai: evitai di rimproverarla, ridussi al minimo le mie rimostranze; cercai di reprimere in segreto il mio rimorso e il mio disgusto; soffocai la profonda avversione che provavo per lei.”
+
+“Jane, non voglio tormentarti con dettagli orribili: alcune parole dure saranno sufficienti per esprimere ciò che ho da dire. Ho vissuto con quella donna al piano di sopra per quattro anni, e già prima di allora aveva tentato di sedurmi. Il suo carattere si è sviluppato con una rapidità spaventosa; i suoi vizi sono emersi in modo immediato e violento. Erano così forti che solo la crudeltà avrebbe potuto fermarli, ma io non volevo ricorrere alla crudeltà. Che intelletto meschino aveva. E che tendenze mostruose! Quanto terribili sono state le conseguenze di quelle tendenze per me. [[Bertha Mason]], vera figlia di una madre infame, mi ha trascinato attraverso tutte le sofferenze orrende e degradanti che toccano un uomo legato a una moglie al tempo stesso intemperante e immorale.”
+
+“Mio fratello morì durante quel periodo, e alla fine di quei quattro anni anche mio padre morì. Ora ero abbastanza ricco, ma allo stesso tempo povero fino all’orribile miseria. Una [[Nature|>natura]] la più grossolana, impura, depravata che abbia mai visto era legata a me; per legge e per società, costituiva parte di me. E non riuscivo in alcun modo a liberarmene, perché i medici scoprirono che _mia moglie_ era pazza: i suoi eccessi avevano fatto sviluppare precocemente i germi della follia. Jane, non ti piace questa mia storia, sembri quasi malata. Devo rimandare il resto a un altro giorno?”
+
+"No, signore, finisca subito; mi dispiace per lei… Mi dispiace davvero molto."
+
+“Pietà, Jane, per alcuni rappresenta un tipo di omaggio nocivo e offensivo; si può giustamente ribatterla in faccia a coloro che la offrono. Ma quella è una pietà tipica di cuori insensibili e egoisti: un misto di egoistico [[Pain|dolore]] nel sentire parlare di sofferenze, mescolato con ignorante disprezzo per chi le ha vissute. Ma questa non è la tua pietà, Jane. Non è il sentimento che si legge sul tuo viso in questo momento, che quasi trabocca dai tuoi occhi, che fa tremare la tua mano nella mia. La tua pietà, cara mia, è la madre della [[Suffering|sofferenza]] e dell’[[Love|amore]]: il suo dolore è proprio il segno originario di quella passione divina. Io la accetto, Jane. Lascia che questa “figlia” possa nascere liberamente; le mie braccia sono pronte ad accoglierla.”
+
+“Ora, signore, proceda; cosa ha fatto quando si è reso conto che lei era pazza?”
+
+“Jane, ero sull’orlo dello [[Despair|dispero]]; l’unica cosa che mi impediva di cadere nel baratro era un residuo di [[Self|rispetto per me stesso]]. Ai occhi del mondo, senza dubbio ero coperto di disonore; ma decisi di rimanere pulito ai miei stessi occhi. Fino all’ultimo momento rifiutai di essere contaminato dai suoi crimini e mi liberai da ogni legame con i suoi difetti mentali. Eppure, la società associava il mio nome al suo; la vedevo e la sentivo ogni giorno: qualcosa del suo respiro (ahimè, ) si mescolava con l’aria che respiravo. Inoltre, ricordavo di essere stato suo marito. Quel ricordo allora, e ora ancora, è per me insopportabilmente odioso. Sapevo anche che, finché lei fosse viva, non avrei mai potuto diventare il marito di un’altra donna, migliore di lei. E sebbene fossi più vecchio di cinque anni (sua famiglia e suo padre mi avevano mentito persino riguardo alla sua età), era probabile che vivesse tanto quanto me. Essendo lei fisicamente robusta, ma mentalmente debole. Così, all’età di ventisei anni, ero senza speranza.”
+
+“Una [[Night|notte]], fui svegliato dai suoi urla. Poiché i medici l’avevano dichiarata pazza, naturalmente era stata rinchiusa in una stanza isolata. Era una notte torrida delle Indie Occidentali, tipica di quelle regioni prima degli uragani. Non riuscendo a dormire, mi alzai e aprii la [[Window|finestra]]. L’aria era densa di vapori sulfurei; non c’era alcun sollievo intorno a me. I moscerini ronzavano cupamente per la stanza; il mare, che si udiva in lontananza, rumoreggiava sommessamente come durante un terremoto. Nubi nere si addensavano sul suo superficie; la [[Moon|luna]] tramontava tra le onde, rossa e vasta come una palla di cannone incandescente. Gettava il suo ultimo sguardo su un mondo scosso da tempeste violente. L’atmosfera e quella vista mi influenzavano profondamente; le mie orecchie erano piene dei suoi urli. Di tanto in tanto, pronunciava il mio nome con toni pieni di odio demoniaco. Nessuna prostituta professionista avrebbe mai usato un vocabolario più osceno del suo. Nonostante fossi a due stanze di distanza, riuscivo a sentire ogni parola. Le sottili pareti della casa delle Indie Occidentali non rappresentavano alcun ostacolo ai suoi urli disperati, ”
 
 
 
@@ -38613,6 +41697,30 @@ be loved, I never doubted some woman might be found willing and able to
 understand my case and accept me, in spite of the curse with which I
 was burdened.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“‘Questa vita,’ dissi infine, ‘è l’inferno: quest’aria, quei suoni, sono quelli dell’abisso senza fondo! Ho il diritto di liberarmene, se posso. Le sofferenze di questo stato mortale mi lasceranno con questo corpo pesante che ora opprime la mia [[Soul|'anima]]. Non ho alcuna [[Fear|paura]] della fanatica [[Eternity|eternità]] del fanatico: non esiste uno stato futuro peggiore di questo. Lasciatemi andare, tornare a [[Home|Dio]]’!”
+
+“Lo dissi mentre mi inginocchiavo e aprivo un baule che conteneva due pistole cariche: intendevo spararmi. Quell’intenzione durò solo un momento; infatti, non essendo pazzo, la crisi di estrema e pura [[Despair|disperazione]] che aveva generato quel desiderio di autodistruzione passò in un istante.”
+
+“Un [[Wind|>vento]] fresco proveniente dall’Europa soffiò sull’oceano e penetrò attraverso le finestre aperte: la [[Storm|>tempesta]] scoppiò, si scatenò con tuoni e fulmini, e l’aria divenne pura. In quel momento presi una decisione e la attuai. Mentre camminavo sotto gli alberi di arancio del mio giardino bagnato dalla pioggia, tra i grappoli di melograni e le ananas fradici, mentre l’alba splendente dei tropici rischiarava tutto intorno a me, ragionai così, Jane. Ora ascolta: fu proprio la vera Saggezza ad consolarmi in quel momento e a indicarmi la strada giusta da seguire.”
+
+“La dolce [[Wind|vento]] d’Europa continuava a sussurrare tra le fresche [[Leaves|foglie]], e l’Atlantico rimbombava nella sua maestosa libertà; il mio cuore, per lungo tempo asciutto e arso, si riempì di vita e di sangue caldo. Il mio essere anelava alla rinascita, la mia [[Soul|anima]] bramava una bevanda pura. Vidi la [[Hope|speranza]] risorgere, e sentii che la [[Regeneration|rigenerazione]] era possibile. Dall’arco fiorito in fondo al mio [[Garden|giardino]] guardai il mare: più azzurro del cielo. Il vecchio mondo era ormai alle mie spalle; si aprivano davanti a me prospettive chiare, ”
+
+“‘Vai,’ disse [[Hope|>Speranza]], ‘e vivi di nuovo in Europa: lì nessuno conoscerà il nome infamato che porti, né il peso osceno che ti opprime. Puoi portare quella donna pazzesca in Inghilterra; rinchiudila a Thornfield, con le dovute cure e precauzioni, e poi viaggia dove desideri, e stabilisci i nuovi legami che vuoi. Quella donna, che ha così abusato delle tue lunghe sofferenze, che ha infangato il tuo nome, offeso la tua onore e rovinato la tua giovinezza, non è tua moglie, né tu suo marito. Assicurati che venga curata secondo le sue esigenze. E avrai fatto tutto ciò che Dio e l’umanità ti chiedono. Lascia che la sua identità, il suo legame con te, siano sepolti nell’oblio: non devi rivelarli a nessuno. Mettila in un luogo sicuro e confortevole. Nascondi la sua degradazione nel segreto, e lasciala andare.’”
+
+“Ho agito esattamente secondo questo suggerimento. Mio padre e mio fratello non avevano ancora reso noto il mio [[Marriage|matrimonio]] ai loro conoscenti; infatti, nella prima lettera che scrissi per informarli dell’[[Union|-unione]] – poiché già iniziavo a provare un profondo disgusto per le sue conseguenze, e considerando il carattere e la natura della famiglia, vedevo davanti a me un futuro orribile – aggiunsi l’esortazione urgente di mantenere il segreto. Ben presto, il comportamento infame di quella moglie che mio padre aveva scelto per me fu tale da farlo arrossire al solo pensiero di doverla considerare sua nuora. Lontano dall’aver desiderio di rendere pubblica questa relazione, divenne altrettanto ansioso di nasconderla quanto lo ero io.”
+
+“Quindi la portai in Inghilterra; fu un viaggio terribile, con una tale [[Monster|mostro]] a bordo. Fui felice quando finalmente la raggiunsi a Thornfield e la vidi al sicuro nella stanza al terzo piano, quella stessa stanza la cui cabina segreta è ormai da dieci anni diventata un rifugio per una bestia selvaggia, una prigione per uno spirito maligno. Fu difficile trovare qualcuno che potesse prendersi cura di lei: dovevo scegliere qualcuno di cui potessi essere certa della fedeltà, i suoi deliri avrebbero inevitabilmente rivelato i miei segreti; inoltre, aveva periodi di lucidità, giorni, a volte settimane, durante i quali mi maltrattava. Alla fine assunsi Grace Poole dal Grimbsy Retreat. Lei e il chirurgo Carter (che curò le ferite di Mason quella [[Night|notte]] in cui fu pugnalato) sono le uniche persone a cui abbia mai confidato i miei segreti. La signora Fairfax forse sospettava qualcosa, ma non avrebbe potuto conoscere i fatti con precisione. Nel complesso, Grace si è rivelata una buona custode, anche se, a causa di un difetto proprio suo – che sembra incurabile e legato alla sua professione – la sua attenzione è stata più volte messa alla prova. Quella donna è astuta e malvagia, non ha mai mancato di approfittare dei momenti di distrazione della sua custode: una volta nascose il coltello con cui aveva pugnalato suo fratello, altre due volte rubò la chiave della sua cella e ne uscì di notte. La prima volta tentò di bruciarmi nel letto; la seconda volta ti fece quella visita orribile. Ringrazio la [[Providence|Provvidenza]] che vegliava su di te, quel giorno distrusse i tuoi vestiti da sposa, forse perché quegli abiti le ricordavano i suoi giorni nuziali. Ma non oso nemmeno pensare a cosa sarebbe potuto accadere. Quando penso a quella cosa che stamattina è volata verso il mio collo, con quel viso nero e scarlatto sopra il “nido” della mia “dove”, il mio [[Blood|sangue]] si gela, ”
+
+“E poi, signore,” chiesi mentre lui faceva una pausa, “cosa ha fatto quando l’ha sistemata qui? Dove è andato?”
+
+“Cosa ho fatto, Jane? Mi sono trasformato in un fantasma errante. Dove sono andato? Ho vagabondato in modo selvaggio, come lo spirito del marzo. Ho cercato il Continente, attraversando tutte le sue terre. Il mio desiderio più profondo era trovare una donna buona e intelligente da amare. Una contrapposizione alla furia che avevo lasciato a Thornfield, ”
+
+“Ma non poteva sposarsi, signore.”
+
+“Ero convinto e sicuro di poterlo fare, e che fosse anche mio dovere. Non era mia intenzione originale ingannarvi, come invece ho fatto. Volevo raccontare la mia storia chiaramente e presentare le mie proposte apertamente: mi sembrava qualcosa di assolutamente razionale, e quindi pensavo di avere il diritto di [[Love|amare]] e di essere amato. Non dubitavo affatto che potesse esistere una donna disposta e in grado di comprendere la mia situazione e accettarmi, nonostante la maledizione che mi opprimeva.”
 
 
 
@@ -39058,6 +42166,70 @@ Go up to your own room; think over all I have said, and, Jane, cast a
 glance on my sufferings—think of me.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“I do.”
+
+“Jane”, che ti avvicini e mi abbracci, “dici davvero sul serio ora?”
+
+“I do.”
+
+“E ora?” mi sussurrò dolcemente baciandomi la fronte e la guancia.
+
+“Sì,” dissi, liberandomi rapidamente e completamente dalle restrizioni.
+
+“Oh, Jane, questo è amaro. Questo è davvero malvagio. Non sarebbe affatto malvagio [[Love|amarmi]].”
+
+“Obbedirei volentieri a te.”
+
+Un'espressione selvaggia gli sollevò le sopracciglia; i suoi tratti del viso si contrassero. Si alzò in piedi, ma esitò ancora. Appoggiai la mano sullo schienale di una sedia per sostenermi: tremavo, avevo paura, ma decisi comunque di procedere.
+
+“Solo un istante, Jane. Dà un’occhiata alla mia orribile vita quando te ne sarai andata. Tutta la felicità scomparirà con te. Cosa mi resterà allora? Come moglie ho soltanto quel pazzo di sopra. Potresti benissimo definirmi un cadavere in quel cimitero laggiù. Cosa devo fare, Jane? Dove posso cercare compagnia e un po’ di [[Hope|>speranza]]?”
+
+“Fai come faccio io: fidati di Dio e di te stesso. Credi nel cielo. [[Hope|>Spera]] di rivederci lì.”
+
+“Allora non cederai mai?”
+
+“No.”
+
+“Allora mi condanni a vivere in miseria e a morire maledetto?” La sua voce [[Rose|si alzò]].
+
+“Vi consiglio di vivere senza peccati e vi auguro di morire in pace.”
+
+“Allora mi strappi via l’[[Love|amore]] e l’[[innocence|innocenza]]? Mi getti di nuovo tra le braccia della lussuria, trasformando la passione in vizio, un’occupazione invece di qualcosa di puro?”
+
+“Signor Rochester, non vi attribuisco questo destino più di quanto io stesso lo desideri per me. Siamo nati per lottare e sopportare, voi tanto quanto me: fatelo. Dimenticherete me prima che io dimentichi voi.”
+
+“Con un linguaggio del genere mi fai diventare un bugiardo: macchi la mia [[Honour|onore]]. Ho dichiarato di non poter cambiare; tu, davanti a me, dici che cambierò presto. E quale distorsione nel tuo giudizio, quale perversità nelle tue idee, dimostra il tuo comportamento! È forse meglio spingere un essere umano verso la [[Despair|-disperazione]] piuttosto che violare una semplice legge umana, senza che nessuno ne subisca conseguenze negative? Perché tu non hai parenti né conoscenti di cui dovresti aver paura di offendere, vivendo con me, ”
+
+Era la verità: e mentre parlava, la mia stessa [[Conscience|conscienza]] e la ragione diventavano traditrici nei miei confronti, accusandomi di crimine per avergli resistito. Parlavano quasi ad alta voce quanto i sentimenti. E questi gridavano disperatamente: “Oh, obbedisci! Pensa alla sua sofferenza, al suo pericolo. Guarda in quale stato si trova quando è lasciato [[Alone|da solo]]; ricorda la sua natura impulsiva; considera l’irresponsabilità che deriva dalla [[Despair|disperazione]]. Consolalo, salvalo. [[Love|Amalo]], e digli che lo ami e che sarai al suo fianco. A chi importa di te, in questo mondo? E a chi potrebbe far male ciò che fai?”
+
+Ancora indomabile era la sua risposta: “Mi preoccupo solo di me stesso. Più sono solitario, più privo di amici, più senza sostegno, più rispetterò me stesso. Rispetterò le leggi date da Dio e approvate dall’uomo. Mi atterrerò ai principi che ho accettato quando ero sano, e non pazzo come lo sono ora. Le leggi e i principi non servono nei momenti in cui non c’è alcuna [[Temptation|tentazione]]; servono proprio in momenti come questo, quando il [[Body|corpo]] e l’[[Soul|'anima]] si ribellano alla loro severità. Sono rigorosi, ma devono essere rispettati. Se potessi infrangerli a mio piacimento, quale sarebbe il loro valore? Hanno un valore, così ho sempre creduto; e se ora non riesco più a crederci, è perché sono pazzo, completamente pazzo: con le vene piene di [[Fire|fuoco]] e il cuore che batte più velocemente di quanto possa contarne i battiti. Opinioni preconcette, decisioni prese in precedenza, queste sono tutto ciò su cui posso contare in questo momento: su queste mi fermo.”
+
+Sì, l’ho fatto. Il signor Rochester, osservando il mio volto, capì che l’avevo fatto. La sua furia raggiunse il culmine: doveva cederle per un momento, qualunque cosa ne derivasse; attraversò la stanza, afferrò il mio braccio e strinse la mia vita. Sembrava che volesse “digerirmi” con quello sguardo feroce. Fisicamente, in quel momento, mi sentivo indifeso, come paglia esposta al vento e al calore di un forno; mentalmente, però, possedevo ancora la mia [[Soul|'anima]] e, con essa, la certezza di una salvezza definitiva. Fortunatamente, l’[[Soul|'anima]] ha un interprete, spesso inconsapevole, ma comunque fedele alla verità: il mio sguardo. Lo fissai negli occhi; mentre lo guardavo in quel volto feroce, emisi un sospiro involontario. La sua stretta era dolorosa, e la mia forza, già esaurita, rischiava di cedere del tutto.
+
+“Mai,” disse lui, stringendo i denti, “mai qualcosa è stato allo stesso tempo così fragile e così indomabile. È solo un filo d’erba nelle mie mani!” (E mi scosse con la forza della sua stretta.) “Potrei piegarla con il dito e l’indice. Ma a che servirebbe? Quell’occhio. Quella creatura risoluta, selvaggia, libera. Mi sfida, con più di coraggio, con una vittoria schiacciante. Qualunque cosa faccia alla sua gabbia, non riesco ad arrivare a lei. Quella creatura selvaggia e bellissima! Se strappo quella debole prigione, la mia furia non farà che liberarla. Potrei essere il conquistatore di questa “casa”, ma l’abitante fuggirà in cielo prima che io possa considerarmi padrone del suo rifugio di argilla. E sono te, spirito, con volontà ed energia, virtù e purezza, che desidero. Non solo il tuo fragile corpo. Tu stessa potresti venire da me, con un movimento leggero, e riposarti contro il mio cuore, se lo volessi. Ma se ti costringessi contro la tua volontà, sfuggiresti alla mia presa come un’essenza, scompariresti prima che io possa assaporare il tuo profumo. Oh!Vieni, Jane, vieni!”
+
+Mentre lo diceva, mi lasciò andare e mi guardò soltanto. Quello sguardo era ancora più difficile da resistere della tensione frenetica che c'era prima. Tuttavia, solo un idiota avrebbe ceduto in quel momento. Avevo osato sfidare la sua rabbia; ora dovevo evitare anche il suo dolore. Mi allontanai verso la porta.
+
+“Te ne vai davvero, Jane?”
+
+“Me ne vado, signore.”
+
+“Mi stai lasciando?”
+
+“Sì, davvero.”
+
+“Non verrai? Non sarai il mio conforto, il mio salvatore? Il mio profondo [[Love|amore]], la mia disperazione, le mie preghiere disperate, per te non significano nulla?”
+
+Quanto straziante pathos c'era nella sua voce. Quanto fosse difficile ripetere con fermezza: “Me ne vado”.
+
+“Jane!”
+
+“Signor Rochester!”
+
+“Allora ritirati, – concordo; ma ricorda che mi lasci qui nella sofferenza. Vai nella tua stanza, rifletti su tutto ciò che ho detto e, Jane, guarda un attimo alle mie sofferenze, pensa a me.”
+
 
 
 <span class="atom-split" data-atom="chapter_27--part_09" data-title="Jane Eyre — Chapter 27 (part 9)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/birds,motif/blood,motif/childhood,motif/dawn,motif/death,motif/fire,motif/flowers,motif/grave,motif/love,motif/moon,motif/nature,motif/night,motif/pain,motif/road,motif/rose,motif/sleep,motif/spring,motif/summer,motif/tears,motif/water,motif/well,concept/conscience,concept/courage,concept/despair,concept/fear,concept/hope,concept/nature,concept/pride,concept/self,concept/temptation,character/jane_eyre"></span>
@@ -39213,6 +42385,51 @@ that hour left my lips; for never may you, like me, dread to be the
 instrument of evil to what you wholly [[Love|love]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Si girò e si gettò a faccia in giù sul divano. “Oh, Jane, la mia [[Hope|speranza]], il mio [[Love|amore]], la mia vita!” esclamò con angoscia. Poi seguì un singhiozzo profondo e forte.
+
+Avevo già raggiunto la porta; ma, lettore, tornai indietro, con la stessa determinazione con cui ero fuggito prima. Mi inginocchiai accanto a lui, girai il suo viso verso di me, baciai la sua guancia e sistemai i suoi capelli con la mano.
+
+“Dio ti benedica, mio caro padrone!” dissi. “Che Dio ti protegga da ogni male e ingiustizia, che ti guidi, ti consoli e ti ricompensi adeguatamente per la tua gentilezza verso di me in passato.”
+
+“L’[[Love|amore]] di piccola Jane sarebbe stata la mia migliore ricompensa,” rispose;  
+“senza di esso, il mio cuore è spezzato. Ma Jane mi darà il suo [[Love|amore]]:  
+sì, nobilmente, generosamente.”
+
+Il sangue gli affluì al viso; un fuoco brillò nei suoi occhi; si alzò in piedi di scatto, tese le braccia. Ma io evitai il suo abbraccio e lasciai immediatamente la stanza.
+
+“Addio!” fu il grido del mio cuore quando lo lasciai. La [[Despair|disperazione]] aggiunse: “Addio per sempre!”
+
+
+Quella [[Night|notte]] non pensavo affatto di dormire; ma appena mi misi a letto, mi addormentai immediatamente. I miei pensieri si rivolsero alle scene della mia [[Childhood|infanzia]]: sognai di trovarmi nella stanza rossa di Gateshead; quella notte era buia, e la mia mente era invasa da strani timori. La luce che una volta mi aveva fatto svenire, ricordata in quel sogno, sembrava salire lentamente sul soffitto, fermandosi tremolante al centro di esso. Alzai lo sguardo: il soffitto si era trasformato in nuvole alte e scure; quella luce assomigliava a quella che la [[Moon|luna]] irradia dalle nuvole che sta per attraversare. La osservavo avvicinarsi con una strana attesa, come se su quel suo disco dovesse essere scritto qualche presagio funesto. All’improvviso apparve, come nessuna [[Moon|luna]] era mai apparsa prima: prima una mano penetrò tra le sue pieghe nere e le scostò; poi, invece di una luna, apparve una forma umana bianca, che con un sopracciglio splendente si chinò verso di me. Mi fissava, e parlava al mio spirito: il suo tono era infinitamente lontano, eppure così vicino, sembrava sussurrarmi nel cuore.
+
+“Mia figlia, fuggi dalla [[Temptation|tentazione]].”
+
+“Mamma, lo farò.”
+
+So che ho risposto dopo essermi svegliata da quel sogno simile a un’estasi. Era ancora [[Night|notte]], ma le notti di luglio sono brevi: poco dopo mezzanotte arriva [[Dawn|l’alba]]. “Non può essere troppo presto per iniziare la missione che devo compiere”, pensai. Mi alzai, ero già vestita; avevo tolto solo le scarpe. Sapevo dove trovare nella mia cassettiera della biancheria, un portagioielli e un anello. Mentre cercavo queste cose, mi imbattei nelle perle di un collare che il signor Rochester mi aveva costretta ad accettare alcuni giorni prima. Lasciai perdere quel collare; non era mio: apparteneva alla sposa visionaria che era svanita nel nulla. Gli altri oggetti li misi in un pacco; la mia borsa, contenente venti scellini (era tutto ciò che avevo), la infilai nella tasca; mi misi il cappello di paglia, fissai lo scialle addosso, presi il pacco e le pantofole che non avrei indossato subito, e uscii dalla mia stanza di nascosto.
+
+“Addio, cara signora Fairfax!” sussurrai mentre passavo davanti alla sua porta.  
+“Addio, mia adorata Adèle!” dissi guardando verso la nursery.  
+Non potevo permettermi il pensiero di entrare per abbracciarla. Dovevo ingannare un orecchio attento: chissà, forse in quel momento lei stava ascoltando.
+
+Avrei potuto superare la stanza del signor Rochester senza esitazione; ma il mio cuore, per un momento, smise di battere davanti a quella soglia, e anche i miei passi furono costretti a fermarsi. Non c'era alcun [[Sleep|sonno]] nella stanza: l’occupante camminava avanti e indietro con inquietudine; e più volte sospirava mentre io ascoltavo. In quella stanza, se solo lo avessi voluto, esisteva un paradiso, un paradiso temporaneo: bastava entrare e dire.
+
+“Signor Rochester, vi amerò e vivrò con voi per tutta la vita, fino alla [[Death|morte]]”, e una fonte di estasi sarebbe sgorgata dalle mie labbra. Pensavo proprio a questo.
+
+Quel tipo di padrone, che ora non riusciva a [[Sleep|)dormire]], aspettava con impazienza l’arrivo del giorno. Mi avrebbe fatto chiamare la mattina; io sarei dovuta andarmene. Avrebbe cercato di trovarmi, invano. Si sarebbe sentito abbandonato; il suo [[Love|amore]] rifiutato. Avrebbe sofferto, forse sarebbe diventato disperato. Anche io ci pensavo. La mia mano si avvicinò alla serratura. Ma la ritirai subito e continuai a scrivere.
+
+Con aria stanca scesi le scale: sapevo cosa dovevo fare e lo feci meccanicamente. Cercai la chiave della porta laterale in cucina; cercai anche una fiala d’olio e una piuma; unsi la chiave e la serratura. Presi un po’ d’[[Water|acqua]] e del pane: forse avrei dovuto camminare a lungo; e le mie forze, gravemente indebolite negli ultimi tempi, non dovevano cedere. Feci tutto questo senza emettere un suono. Aprii la porta, uscii e la chiusi dolcemente. Una debole [[Dawn|'alba]] brillava nel cortile; le grandi porte erano chiuse e sbarrate; ma una delle feritoie era solo accostata. Attraverso quella me ne andai; anche quella la chiusi, e ora ero fuori da Thornfield.
+
+A un miglio di distanza, oltre i campi, c'era una [[Road|strada]] che si estendeva in direzione opposta a Millcote; una [[Road|strada]] che non avevo mai percorso, ma che spesso notavo e mi chiedevo dove portasse. Verso di essa dirizzai i miei passi. Ora non c'era tempo per riflettere: nessun sguardo indietro, né uno in avanti; nessun pensiero al passato o al futuro. Il passato era una pagina così dolce, e allo stesso tempo così terribilmente triste, che leggere anche solo una riga di essa avrebbe distrutto il mio [[Courage|coraggio]] e annientato le mie forze. Il futuro, invece, era un vuoto assoluto, qualcosa come il mondo dopo la fine del [[deluge|diluvio]].
+
+Attraversai campi, siepi e sentieri fino all’alba. Credo fosse una bellissima mattina d’estate: so che le mie scarpe, indossate quando ero uscita di casa, si bagnarono presto di rugiada. Ma non guardai né al sole nascente, né al cielo sorridente, né alla natura che si risvegliava intorno a me. Chi viene condotto attraverso un paesaggio incantevole verso il patibolo non pensa alle fioriture che adornano la sua strada, ma al ceppo e all’ascia; al distacco di ossa e vene; alla tomba che lo aspetta. E io pensavo a una fuga desolata, a un vagabondaggio senza meta. Oh, con angoscia pensavo a ciò che avevo lasciato indietro. Non potevo farne a meno. Ora pensavo a lui: nella sua stanza, mentre osservava l’alba; sperando che io arrivassi presto per dirgli che sarei rimasta con lui e sarei diventata sua. Desideravo ardentemente essere sua; ansimavo dal desiderio di tornare indietro. Non era ancora troppo tardi. Avrei potuto risparmiargli il dolore amaro della perdita. Per ora, ero sicura che la mia fuga non fosse stata scoperta. Avrei potuto tornare e essere la sua consolazione. La sua orgoglio. Il suo salvatore dalla miseria, forse anche dalla rovina. Oh, quella paura del proprio abbandono. Molto peggiore del mio. Quanto mi spingeva avanti! Era come una freccia acuminata nel mio petto; mi lacerava quando cercavo di estrarla. Mi nauseava ogni volta che il ricordo la riportava dentro di me. Gli uccelli iniziarono a cantare nei boschi. Gli uccelli erano fedeli ai loro compagni. Gli uccelli erano simboli d’amore. Che cosa ero io? Nel mezzo del dolore nel mio cuore e degli sforzi disperati per mantenere le mie convinzioni, mi odiavo. Non trovavo conforto nell’approvazione di me stessa. Né nemmeno nel rispetto di me stessa. Avevo ferito. Abbandonato il mio padrone. Ero odiosa ai miei occhi. Eppure non potevo tornare indietro. Dio doveva avermi guidata avanti. Quanto alla mia volontà o alla mia coscienza. Il dolore folle le aveva calpestate entrambe. Piangevo disperatamente mentre percorrevo la mia strada solitaria. Camminavo velocemente, come una persona in delirio. Una debolezza, che iniziava dentro di me e si estendeva alle mie membra, mi colpì improvvisamente. Caddi a terra. Rimasi sdraiata per alcuni minuti, premendo il viso contro l’erba umida. Ebbi paura. O forse speranza. Che potessi morire lì. Ma presto mi rialzai. Strisciai sulle mani e sulle ginocchia. Poi mi alzai in piedi. Con lo stesso desiderio e la stessa determinazione di prima. Per raggiungere quella strada.
+
+Quando arrivai lì, fui costretto a sedermi per riposare sotto la siepe; mentre ero seduto, sentii il rumore di ruote e vidi arrivare una carrozza. Mi alzai e sollevai la mano; la carrozza si fermò. Chiesi dove stesse andando: il cocchiere menzionò un luogo lontano, dove sicuramente il signor Rochester non aveva alcuna connessione. Chiesi a quale prezzo mi avrebbe portato lì; lui rispose trenta scellini; io dissi di avere solo venti; beh, avrebbe provato a farcela andare con quei venti. Inoltre, mi permise di salire dentro, poiché la carrozza era vuota: entrai, fui chiuso dentro e la carrozza proseguì il suo viaggio.
+
+Caro lettore, possa mai tu non provare ciò che io provai allora! Possano mai i tuoi occhi non versare lacrime così violente, ardenti e strazianti come quelle che sgorgarono dai miei. Possa mai tu non rivolgerti al Cielo con preghiere così disperate e angosciose come quelle che uscirono dalle mie labbra in quell’ora; perché mai tu, come me, possa temere di diventare lo strumento del male per ciò che ami profondamente.
+
 
 
 <span class="atom-split" data-atom="chapter_28--part_01" data-title="Jane Eyre — Chapter 28 (part 1)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/hill,motif/nature,motif/night,motif/noon,motif/prayer,motif/rose,motif/silence,motif/sleep,motif/spring,motif/summer,motif/time,motif/well,motif/wheel,motif/wind,concept/charity,concept/fear,concept/hope,concept/longing,concept/nature,concept/wonder,form/inscription,setting/mountains,character/hamlet,character/jane_eyre"></span>
@@ -39326,6 +42543,7 @@ long in [[Sleep|sleep]] forgot sorrow.
 
 # CAPITOLO XXVIII
 
+
 Sono passati due giorni. È una sera d’estate; il cocchiere mi ha lasciato in un posto chiamato Whitcross; con i soldi che gli avevo dato non poteva portarmi oltre, e io non possedevo più nemmeno uno scellino al mondo. In questo momento il calesse si trova a un miglio di distanza; sono completamente solo. Mi rendo conto ora di aver dimenticato di prendere il mio pacchetto dalla tasca del calesse, dove l’avevo messo per sicurezza. Lì rimane, e lì dovrà rimanere. Ora sono davvero senza nulla.
 
 Whitcross non è una città, né nemmeno un piccolo borgo; è soltanto un pilastro di pietra eretto nel punto in cui si incrociano quattro strade. Immagino sia stato imbiancato per essere più visibile da lontano e al buio. Dalla sua cima partono quattro diramazioni: la città più vicina, secondo l’iscrizione, dista dieci miglia; quella più lontana, oltre venti. Dai nomi di queste città capisco in quale contea mi trovo: una regione degli Midlands settentrionali, con brughiere e montagne. Dietro di me e su entrambi i lati ci sono vaste distese di brughiera; lontano, al di là di quella profonda valle ai miei piedi, si estendono catene di montagne. La popolazione in quest’area deve essere scarsa. Non vedo alcun viaggiatore su queste strade: si estendono verso est, ovest, nord e sud, bianche, ampie, desolate. Tutto è tagliato nella brughiera; l’erica cresce rigogliosa fino ai loro bordi. Eppure, qualche viandante potrebbe passare di qui. Vorrei che nessuno mi vedesse in questo momento: gli estranei si chiederebbero cosa sto facendo, fermandomi qui davanti al cartello, senza alcun scopo apparente. Potrebbero farmi domande. Ma non saprei dare risposte credibili, solo cose che susciterebbero sospetti. In questo momento, nessun legame mi unisce alla società umana. Nessuna attrazione, nessuna speranza mi spinge verso i miei simili. Nessuno che mi vedesse avrebbe per me un pensiero gentile o un desiderio positivo. Non ho parenti se non la madre universale. La Natura. Cercherò il suo abbraccio e chiederò riposo.
@@ -39337,6 +42555,7 @@ Trascorse del tempo prima che potessi sentirmi tranquillo anche qui: provavo una
 Cosa dovevo fare? Dove andare? Oh, domande insopportabili, quando non potevo fare nulla e andare da nessuna parte! Quando ancora una lunga distanza doveva essere percorsa con i miei stanchi, tremanti arti prima di raggiungere un luogo abitato dagli esseri umani. Quando dovevo chiedere pietà per ottenere alloggio. Quando solo dopo aver suscitato simpatia a malincuore e rischiato rifiuti mi veniva dato ascolto o una delle mie necessità veniva soddisfatta!
 
 Toccai l’erica: era secca, eppure calda a causa del calore della giornata estiva. Guardai il cielo: era limpido; una stella gentile brillava proprio sopra la cresta della gola. La rugiada cadeva, ma con dolcezza; nessuna brezza sussurrava. [[Nature|La Natura]] mi sembrava benevola e gentile; pensai che mi amasse, nonostante fossi un esiliato. E io, che dall’uomo potevo aspettarmi solo diffidenza, rifiuto e insulti, mi aggrappai a lei con affetto filiale. Almeno per la notte, sarei stato suo ospite, come ero stato suo [[Child|figlio]]: mia madre mi avrebbe accolto senza denaro, senza alcun prezzo. Avevo ancora un pezzetto di pane: il resto di una pagnotta che avevo comprato in una città che avevamo attraversato a [[Noon|mattina]], con l’ultimo penny che possedevo. Vidi mirtilli maturi brillare qua e là sull’erica; ne raccolsi un po’ e li mangiai insieme al pane. La mia fame, prima intensa, era ora placata, se non completamente saziata. Dopo aver recitato le mie preghiere serali, scelsi il mio “letto”.
+
 
 # Ho recitato le mie preghiere serali
 
@@ -39639,6 +42858,65 @@ As the wet twilight deepened, I stopped in a solitary bridle-path,
 which I had been pursuing an hour or more.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“No,” disse lei; “non abbiamo una domestica.”
+
+“Potete dirmi dove potrei trovare lavoro, di qualsiasi tipo sia?”, continuai. “Sono uno straniero, senza conoscenti in questo posto. Voglio un lavoro, qualunque cosa sia.”
+
+Ma non spettava a lei pensare al mio posto, né cercarmi un rifugio: inoltre, ai suoi occhi, il mio carattere, la mia posizione, tutto doveva sembrarle molto dubbi. Scosse la testa, disse di “rammaricarsi di non potermi fornire alcuna informazione”, e la porta bianca si chiuse, con dolcezza e cortesia. Ma mi tenne fuori. Se fosse rimasta aperta anche solo un po’ più a lungo, credo che avrei supplicato per un pezzo di pane. Perché ormai ero ridotto in condizioni molto difficili.
+
+Non riuscivo a sopportare l’idea di tornare in quel villaggio squallido, dove, inoltre, non c’era alcuna possibilità di ricevere aiuto. Avrei preferito deviare verso un bosco che vedevo non lontano da lì; il suo fitto fogliame sembrava offrire un rifugio accogliente. Ma ero così malato, così debole, sopraffatto dalle esigenze impellenti della [[Nature|>natura]], che l’istinto mi spingeva a cercare cibo ovunque ci fosse una possibilità di trovarlo. La [[Solitude|solitudine]] non sarebbe stata affatto una solitudine. E nessun riposo avrei potuto trovare, finché il “avvoltoio” della fame continuava ad affondarmi il becco e gli artigli nel corpo.
+
+Mi avvicinai alle case; le lasciai e poi tornai indietro, vagando ancora e ancora. Sempre respinto dal pensiero di non avere alcun diritto di chiedere aiuto, nessun motivo per aspettarmi interesse per la mia situazione isolata. Nel frattempo, il pomeriggio avanzava; io continuavo a girovagare come un cane perso e affamato. Attraversando un campo, vidi davanti a me la guglia della chiesa: mi diressi subito verso di essa. Vicino al cimitero, in mezzo a un [[Garden|giardino]], c’era una piccola ma ben costruita [[house|casa]]; non avevo alcun dubbio che fosse la canonica. Ricordai che gli stranieri che arrivano in un luogo dove non hanno amici e cercano lavoro a volte si rivolgono al prete per ottenere aiuto o raccomandazioni. È compito del prete aiutare, almeno con i suoi consigli, coloro che desiderano aiutarsi da soli. Sembrava quindi che avessi un certo diritto di chiedere consiglio lì. Rinnovando il mio [[Courage|coraggio]] e raccogliendo le mie ultime forze, proseguii verso la casa. Arrivato lì, bussai alla porta della cucina: mi aprì una vecchia donna. Le chiesi se quella fosse la canonica.
+
+“Sì, davvero.”
+
+# “Era presente il clérigo?”
+
+“No.”
+
+“Tornerà presto?”
+
+“No, se n'era andato da [[Home|casa]].”
+
+“A distanza?”
+
+“Non ancora, l’evento si è verificato a tre miglia di distanza. Era stato chiamato via a causa della improvvisa [[Death|morte]] di suo padre; in quel momento si trovava a Marsh End e molto probabilmente vi rimarrà per altre due settimane.”
+
+“C’era qualche signora in quella [[house|>casa]]?”
+
+“No, non c'era nessun altro se non lei, e lei era la governante di casa”; e riguardo a lei, lettore, non riuscivo a sopportare l’idea di chiederle il soccorso di cui avevo bisogno; non potevo ancora implorarla. E così me ne andai di nuovo.
+
+Ancora una volta tirai fuori il mio fazzoletto; ancora una volta pensai ai dolci e al pane nella piccola bottega. Oh, se solo avessi potuto avere un pezzo di pane, anche solo un boccone per alleviare la fame! Istintivamente rivolsi di nuovo lo sguardo verso il villaggio; riconobbi la bottega e vi entrai; e anche se c'erano altre persone oltre a quella donna, osai fare la mia richiesta: “Mi darebbe un rotolo di pane in cambio di questo fazzoletto?”
+
+Mi guardò con evidente sospetto: “No, lei non ha mai venduto roba in quel modo.”
+
+Quasi disperato, chiesi metà della torta; lei rifiutò di nuovo. “Come potrebbe sapere da dove ho preso quel fazzoletto?” disse.
+
+“Prenderebbe i miei guanti?”
+
+“No! Cosa avrebbe potuto farne?”
+
+Lettore, non è piacevole soffermarsi su questi dettagli. Alcuni dicono che ci sia del piacere nel ricordare esperienze dolorose passate; ma oggi fatico a rivivere quei tempi: la degradazione morale, mescolata alle sofferenze fisiche, costituisce un ricordo troppo angoscioso per essere volentieri rievocato. Non ho incolpato nessuno di coloro che mi hanno respinto; ritenevo fosse ciò che si poteva aspettare, e che non si potesse evitare: un mendicante comune è spesso oggetto di sospetto; uno ben vestito lo è inevitabilmente altrettanto. Certo, ciò che chiedevo era lavoro, ma chi aveva il dovere di fornirmelo? Di certo non le persone che mi vedevano per la prima volta e che non conoscevano nulla del mio carattere. E riguardo alla donna che rifiutò di accettare il mio fazzoletto in cambio del pane, beh, aveva ragione: se quell’offerta le sembrava sospetta o lo scambio insoddisfacente, non poteva fare altrimenti. Lasciate che riassuma ora. Ne ho abbastanza di questo argomento.
+
+Poco prima del tramonto passai davanti a una fattoria; la porta era aperta e il contadino sedeva lì, mangiando la sua cena di pane e [[cheese|formaggio]]. Mi fermai e dissi.
+
+“Mi dareste un pezzo di pane? Ho molto fame.” Lui mi lanciò uno sguardo sorpreso, ma senza rispondere tagliò una fetta spessa dal suo pane e me la diede. Immagino che non pensasse che fossi una mendicante, ma solo una donna un po’ eccentrica che aveva preso in simpatia il suo pane marrone. Non appena fui fuori dalla sua [[house|casa]], mi sedetti e lo mangiai.
+
+Non potevo sperare di trovare un rifugio sotto il tetto, quindi cercai riparo nella foresta di cui ho già parlato. Ma la mia notte fu terribile: il terreno era umido, l’aria fredda; inoltre, più volte degli intrusi passarono vicino a me, e dovetti spostarmi continuamente. Non provavo alcuna sensazione di sicurezza o tranquillità. Verso l’alba iniziò a piovere; l’intera giornata successiva fu trascorsa nell’umidità. Non chiedetemi, lettore, di descrivere nei dettagli quella giornata. Come prima, cercai lavoro; come prima, fui rifiutato; come prima, soffrii la fame. Ma una volta, almeno, mangiai qualcosa. Alla porta di una capanna vidi una bambina sul punto di gettare un mucchio di porridge freddo nel porcile, “Me lo dareste?” chiesi.
+
+
+“Me lo darai?” chiesi.
+
+Mi fissò. “Mamma!”, esclamò, “c’è una donna che vuole che le dia questa pappa.”
+
+“Beh, ragazza,” rispose una voce dentro di lei, “dallele se è una mendicante. A quel maiale non serve comunque.”
+
+La ragazza versò il materiale indurito nel mio palmo, e io lo divorai con avidità.
+
+Man mano che il crepuscolo si approfondiva, mi fermai su un sentiero solitario che stavo percorrendo da un’ora o più.
+
 
 
 <span class="atom-split" data-atom="chapter_28--part_04" data-title="Jane Eyre — Chapter 28 (part 4)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="motif/clock,motif/cross,motif/death,motif/fire,motif/frost,motif/grave,motif/hill,motif/leaves,motif/nature,motif/night,motif/road,motif/rose,motif/summer,motif/well,motif/wind,motif/window,motif/winter,concept/fear,concept/hope,concept/nature,concept/providence,character/jane_eyre"></span>
@@ -39743,6 +43021,28 @@ bombazeen, which sombre garb singularly set off very fair necks and
 faces: a large old pointer dog rested its massive head on the knee of
 one girl—in the lap of the other was cushioned a black cat.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Le forze mi vengono meno del tutto», dissi in un soliloquio. «Sento di non poter andare molto più lontano. Dovrò essere di nuovo una reietta questa [[Night|notte]]? Mentre la pioggia scende così, dovrò posare il capo sulla terra fredda e fradicia? [[Fear|Temo]] di non poter fare altrimenti: chi mai mi accoglierà? Ma sarà terribile, con questo senso di fame, di spossatezza, di gelo, e questo senso di desolazione — questa totale prostrazione della [[Hope|speranza]]. Con ogni probabilità, però, morirò prima del mattino. E perché non riesco a rassegnarmi alla prospettiva della [[Death|morte]]? Perché lotto per conservare una vita senza valore? Perché so, o credo, che il signor Rochester è vivo: e poi, morire di stenti e di freddo è una sorte a cui la [[Nature|natura]] non può sottomettersi passivamente. Oh, [[Providence|Provvidenza]]! sostienimi ancora un poco! Aiutami!—guidami!»
+
+Il mio occhio vitreo vagava sul paesaggio fioco e nebbioso. Vidi che mi ero allontanata molto dal villaggio: era ormai del tutto fuori vista. Perfino le coltivazioni che lo circondavano erano scomparse. Ero giunta di nuovo, per vie [[Cross|traverse]] e per sentieri, vicino al tratto di brughiera; e ora soltanto pochi campi, selvatici e improduttivi quasi quanto l’erica da cui erano stati a stento strappati, si stendevano fra me e la [[Hill|collina]] scura.
+
+«[[Well|Bene]], preferirei morire laggiù che in una via o su una [[Road|strada]] frequentata», riflettei. «E assai meglio che i corvi e i corvi imperiali—se pure ve ne sono, in queste regioni—mi spolpino la carne dalle ossa, piuttosto che essa sia imprigionata in una bara da ospizio e imputridisca nella [[Grave|fossa]] di un pezzente.»
+
+Alla [[Hill|collina]], dunque, mi volsi. La raggiunsi. Restava ormai soltanto da trovare una conca dove potermi sdraiare, e sentirmi almeno nascosta, se non al sicuro. Ma tutta la superficie della landa pareva piatta. Non mostrava altra variazione che di tinta: verde, dove giunchi e muschio invadevano le paludi; nera, dove il suolo asciutto portava soltanto erica. Per quanto si facesse buio, potevo ancora vedere questi mutamenti, benché come mere alternanze di luce e d’ombra; ché il colore era svanito con la luce del giorno.
+
+Il mio occhio errava ancora sul cupo ondeggiare e lungo il margine della brughiera, che svaniva in mezzo al paesaggio più selvaggio, quando in un punto indistinto, lontano fra le paludi e i crinali, sorse una luce. «È un _ignis fatuus_», fu il mio primo pensiero; e mi aspettavo che presto svanisse. Continuò a bruciare, invece, del tutto ferma, senza allontanarsi né avvicinarsi. «È allora un falò appena acceso?» mi domandai. Stetti a guardare se si sarebbe allargata: ma no; come non diminuiva, così non si ingrandiva. «Può essere una candela in una [[house|casa]]», congetturai allora; «ma se è così, non potrò mai raggiungerla. È troppo lontana: e fosse anche a un passo da me, a che mi gioverebbe? Non farei che bussare alla porta per vedermela chiudere in faccia.»
+
+E mi accasciai dov’ero, e nascosi il viso contro il suolo. Rimasi immobile un poco: il [[Wind|vento]] [[Night|notturno]] spazzò la [[Hill|collina]] e me, e morì gemendo in lontananza; la pioggia cadeva fitta, ribagnandomi fino alla pelle. Avessi potuto irrigidirmi nel [[Frost|gelo]] immobile—l’amichevole torpore della [[Death|morte]]—avrebbe potuto battere quanto voleva; non l’avrei sentita; ma la mia carne ancora viva rabbrividiva al suo influsso agghiacciante. Mi [[Rose|levai]] non molto dopo.
+
+La luce era ancora là, che brillava fioca ma costante attraverso la pioggia. Provai a camminare di nuovo: trascinai lentamente verso di essa le membra sfinite. Mi condusse di traverso sulla [[Hill|collina]], attraverso un’ampia torbiera, che sarebbe stata impraticabile d’[[Winter|inverno]], ed era fangosa e tremula perfino ora, nel colmo dell’[[Summer|estate]]. Qui caddi due volte; ma altrettante mi [[Rose|rialzai]] e radunai le mie facoltà. Quella luce era la mia disperata [[Hope|speranza]]: dovevo raggiungerla.
+
+Attraversata la palude, vidi una traccia bianca sulla brughiera. Mi ci accostai; era una [[Road|strada]] o un sentiero: portava dritto alla luce, che ora raggiava da una specie di poggio, in mezzo a un gruppo di alberi—abeti, a quanto pareva, da ciò che riuscivo a distinguere del carattere delle loro forme e del fogliame attraverso l’oscurità. La mia stella svanì mentre mi avvicinavo: qualche ostacolo si era frapposto fra me ed essa. Tesi la mano per tastare la massa scura che avevo davanti: distinsi le pietre grezze di un muretto—sopra di esso, qualcosa come una palizzata, e dentro, una siepe alta e spinosa. Andai avanti a tastoni. Di nuovo un oggetto biancastro brillò davanti a me: era un cancello—un cancelletto; girò sui cardini appena lo toccai. Ai due lati stava un cespuglio nerastro—agrifoglio o tasso.
+
+Varcato il cancello e oltrepassati gli arbusti, la sagoma di una [[house|casa]] [[Rose|sorse]] alla vista, nera, bassa e piuttosto lunga; ma la luce che mi aveva guidata non splendeva da nessuna parte. Tutto era oscurità. Si erano ritirati a riposare, gli abitanti? Temetti che fosse così. Cercando la porta, girai un angolo: ne balzò fuori di nuovo il bagliore amico, dai vetri a losanga di una piccolissima [[Window|finestra]] a graticcio, a un piede da terra, resa ancora più piccola dalla crescita dell’edera o di qualche altra pianta rampicante, le cui [[Leaves|foglie]] si affollavano fitte sulla porzione del muro della [[house|casa]] in cui era incastonata. L’apertura era così schermata e stretta che tenda o imposta erano state giudicate superflue; e quando mi chinai e scostai il ramo di fogliame che vi spuntava sopra, potei vedere tutto l’interno. Potevo vedere chiaramente una stanza dal pavimento cosparso di sabbia, lavato di fresco; una credenza di noce, con piatti di peltro disposti in file, che riflettevano il rossore e lo splendore di un [[Fire|fuoco]] di torba ardente. Potevo vedere un [[Clock|orologio]], un tavolo di abete bianco, alcune sedie. La candela, il cui raggio era stato il mio faro, ardeva sul tavolo; e alla sua luce una donna anziana, d’aspetto un po’ rozzo, ma scrupolosamente pulita, come tutto ciò che la circondava, lavorava a maglia una calza.
+
+Notai questi oggetti solo di sfuggita—in essi non c’era nulla di straordinario. Un gruppo di maggiore interesse appariva presso il focolare, immobile in mezzo alla pace rosata e al tepore che lo pervadevano. Due giovani donne aggraziate—signore sotto ogni riguardo—sedevano, una in una bassa sedia a dondolo, l’altra su uno sgabello più basso; entrambe portavano lutto stretto di crespo e bombasina, e quella veste cupa faceva risaltare in modo singolare colli e visi bianchissimi: un grosso e vecchio cane da ferma posava la testa massiccia sul ginocchio di una delle ragazze—in grembo all’altra era acciambellato un gatto nero.
 
 
 
@@ -40119,6 +43419,121 @@ thanked God—experienced amidst unutterable exhaustion a glow of
 grateful joy—and slept.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Cosa vuoi?” chiese lei, con voce sorpresa, mentre mi osservava alla luce della candela che teneva in mano.
+
+“Posso parlare con le vostre amanti?” chiesi.
+
+“Meglio che mi dica cosa ha da dirgli… Da dove viene?”
+
+“Sono uno straniero.”
+
+“Cosa ci fa qui a quest’ora?”
+
+“Voglio un rifugio per la notte in una casa isolata o ovunque sia possibile, e anche un pezzetto di pane da mangiare.”
+
+Diffidenza, proprio quel sentimento che temevo, apparve sul viso di Hannah. “Ti darò un pezzo di pane,” disse dopo una pausa; “ma non possiamo ospitare un vagabondo qui. Non è possibile.”
+
+#"Lasciate che parli con le vostre amanti."
+
+“No, non io. Cosa possono fare per te? Non dovresti più girovagare in questo modo; sembri davvero molto malato.”
+
+“Ma dove andrò se mi cacciate via? Cosa farò?”
+
+“Oh, ti assicuro che sai dove andare e cosa fare. Solo stai attento a non sbagliare, nient’altro. Ecco una moneta; ora vai, ”
+
+“Un penny non mi basta a vivere, e non ho più la forza per andare avanti. Per favore, non chiudete la porta. Oh, per l’amor di Dio, non fatelo!”
+
+#Devo farlo; la pioggia sta entrando…
+
+"Dite alle giovani signore… Lasciate che le veda."
+
+“Infatti, non lo farò. Non sei ciò che dovresti essere, altrimenti non faresti tutto questo rumore. Vattene.”
+
+“Ma devo morire se vengo rifiutato…”
+
+“Non tu. Temo che tu abbia qualche cattivo piano in mente, qualcosa che ti spinga ad entrare nelle case delle persone a quest’ora di notte. Se hai dei seguaci – ladri o simili – nei dintorni, puoi dir loro che non siamo soli in questa casa: abbiamo un gentiluomo, e anche cani e armi.” Dopo aver detto questo, il servitore onesto ma testardo chiuse la porta a chiave.
+
+Questo fu il culmine. Un dolore intenso, una vera e propria angoscia di disperazione lacerarono il mio cuore. Ero davvero esausto; non riuscivo più a muovermi. Mi accasciai sul gradino umido: gemetti, strinsi le mani, piansi nel dolore più profondo. Oh, questo spettro della morte. Oh, quest’ultima ora che si avvicinava con tanta orrore! Ahimè, questa solitudine. Questo esilio lontano dai miei simili. Non solo l’ancora della speranza, ma anche le fondamenta della mia forza interiore erano scomparse. Almeno per un momento; ma cercai subito di riacquistarle.
+
+“Posso solo morire,” dissi, “e credo in Dio. Lasciate che tenti di attendere la Sua volontà nel [[Silence|silenzio]].”
+
+Queste parole non le ho solo pensate, ma anche pronunciate; e riponendo tutta la mia miseria nel cuore, ho cercato di costringerla a rimanervi, silenziosa e immobile.
+
+“Tutti gli uomini devono morire,” disse una voce molto vicina; “ma non tutti sono condannati a una morte lenta e prematura, come quella che vi attenderebbe se moriste qui di fame.”
+
+“Chi o cosa sta parlando?” chiesi, terrorizzato da quel suono inaspettato, e ormai incapace di trarre alcuna [[Hope|>speranza]] di aiuto da qualsiasi evento potesse verificarsi. C'era qualcosa vicino, ma quale forma avesse, l'oscurità totale della [[Night|notte]] e la mia vista indebolita mi impedivano di distinguerlo. Con un forte colpo alla porta, il nuovo arrivato cercò di attirare l’attenzione.
+
+“È lei, signor St. John?”, gridò Hannah.
+
+“Sì… sì, apri in fretta.”
+
+“Beh, devi essere davvero bagnato e freddo, con una notte così selvaggia. Entra pure: tue sorelle sono molto preoccupate per te, e credo ci siano persone pericolose in giro. C’è stata una mendicante. Giuro che non se n’è ancora andata! Alzati, per l’amor del cielo. Vattene!”
+
+“Taci, Hannah! Ho qualcosa da dire a questa donna. Hai adempiuto al tuo dovere escludendola, ora lascia che io adempia al mio permettendole di entrare. Ero lì e ho ascoltato sia te che lei. Penso che si tratti di un caso particolare. Devo almeno indagare. Giovane donna, alzati e vieni avanti con me nella [[house|casa]].”
+
+
+#"Shhh, Hannah… ho qualcosa da dire a quella donna."
+
+Con difficoltà gli obbedii. Poco dopo mi trovai in quella cucina pulita e luminosa, proprio accanto al focolare; tremavo, mi sentivo male. Ero consapevole di un aspetto estremamente orribile, selvaggio e devastato dal tempo. Le due signore, loro fratello, il signor St. John e la vecchia domestica fissavano tutti me.
+
+“San Giovanni, chi è?” sentii qualcuno chiedere.
+
+“Non posso dirlo: l’ho trovata alla porta,” fu la risposta.
+
+“Sembra davvero bianca,” disse Hannah.
+
+“ bianca come la creta o come la [[Death|morte]]”, fu la risposta. “Cadrà: lasciatela stare”.
+
+E infatti mi girò la testa: caddi, ma fui accolto da una sedia. Possedevo ancora i sensi, anche se poco fa non riuscivo a parlare.
+
+“Forse un po’ d’[[Water|acqua]] potrebbe aiutarla. Hannah, vai a prendere dell’acqua. Ma è davvero esausta. Così magra, e così pallida, ”
+
+“Solo un fantasma…”
+
+“È malata, o semplicemente affamata?”
+
+“Affamato, credo… Hannah, è quel latte? Dammelo, insieme a un pezzo di pane.”
+
+[[Diana]] (la conoscevo per le lunghe onde dei suoi capelli che vedevo pendere tra me e il [[Fire|fuoco]] mentre si chinava su di me) spezzò del pane, lo immerse nel latte e me lo mise sulle labbra. Il suo viso era vicino al mio: vi lessi compassione, e percepii emozioni di solidarietà nel suo respiro affrettato. Anche nelle sue parole semplici c'era la stessa sensazione lenitiva: “Prova a mangiare.”
+
+“Sì, provaci,” ripeté dolcemente Mary; poi la sua mano mi tolse il cappello bagnato e sollevò la mia testa. Assaggiai ciò che mi offrivano: all’inizio con esitazione, poi con avidità.
+
+“All’inizio non troppo, controllatela,” disse il fratello; “ne ha già avuto abbastanza.” E ritirò la tazza di latte e il piatto di pane.
+
+“Un po’ di più, San Giovanni… guarda quanta avidità ci sono nei suoi occhi.”
+
+“Per il momento no, sorella. Prova a vedere se riesce a parlare ora… chiedile il nome.”
+
+Sentii di poter parlare, quindi risposi: “Il mio nome è Jane Elliott”. Ansiosa, come sempre, di evitare che qualcuno scoprisse la verità, avevo già deciso di utilizzare un _pseudonimo_.
+
+"#Dove vivi? Dove sono i tuoi amici?"
+
+Rimasi in silenzio.
+
+“Possiamo chiamare qualcuno che conosci?”
+
+Scossi la testa.
+
+"#Che racconto puoi fare di te stesso?"
+
+In qualche modo, ora che avevo varcato la soglia di questa [[house|casa]] e mi ero trovato faccia a faccia con i suoi proprietari, non mi sentivo più un escluso, un vagabondo, abbandonato dal resto del mondo. Osai smettere di comportarmi come un mendicante e riprendere il mio modo naturale di essere. Iniziai nuovamente a conoscere me stesso; e quando il signor St. John mi chiese spiegazioni – cosa che in quel momento non ero affatto in grado di fornire – dopo una breve pausa risposi.
+
+“Signore, non posso fornirvi alcun dettaglio, di notte.”
+
+“Ma allora,” disse lui, “cosa si aspetta che io faccia per voi?”
+
+“Niente,” risposi. La mia forza era sufficiente solo per risposte brevi. [[Diana]] prese la parola.
+
+“Intendi dire,” chiese lei, “che ora ti abbiamo fornito tutto l’aiuto di cui hai bisogno, e che possiamo lasciarti andare nel brulloio, sotto la pioggia della [[Night|notte]]?”
+
+La guardai. Pensai che avesse un volto straordinario, un volto che esprimeva sia potere che bontà. Presi all’improvviso [[Courage|coraggio]] e, rispondendo al suo sguardo compassionevole con un sorriso, dissi: “Mi fiderò di te. Anche se fossi un cane senza padrone e smarrito, so che non mi scaccieresti dalla tua casa per la [[Night|notte]]; e comunque, davvero non ho alcuna [[Fear|paura]]. Fai di me ciò che vuoi; ma perdonami se parlo poco. Il mio respiro è affannoso, e mi viene un crampo ogni volta che parlo.” Tutti e tre mi osservarono in silenzio.
+
+“Hannah,” disse finalmente il signor St. John, “lasciala sedere lì per ora e non farle domande; tra dieci minuti, dale il resto di quel latte e del pane. Mary e [[Diana]], andiamo nel salotto a parlare della questione.”
+
+Si ritirarono. Poco dopo una delle signore tornò. Non riuscii a capire quale fosse. Mentre sedevo accanto al caldo [[Fire|fuoco]], una sorta di piacevole stordimento mi avvolgeva. Sottovoce, lei diede alcune istruzioni a Hannah. Presto, con l’aiuto della serva, riuscii ad salire le scale; i miei vestiti bagnati furono tolti e presto mi trovai in un letto caldo e asciutto. Ringraziai Dio. Provavo una gioia immensa, nonostante la totale stanchezza. E poi dormii.
+
 
 
 <span class="atom-split" data-atom="chapter_29--part_01" data-title="Jane Eyre — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/desire,motif/fire,motif/nature,motif/night,motif/noon,motif/sleep,motif/soul,motif/time,motif/well,concept/beauty,concept/education,concept/nature,concept/truth,concept/wonder,character/diana,character/jane_eyre"></span>
@@ -40246,6 +43661,7 @@ After a pause she said, “I dunnut understand that: you’ve like no
 <span class="qlang-split" data-lang="it"></span>
 
 # Capitolo XXIX
+
 
 I ricordi di quei tre giorni e tre notti successivi sono molto vaghi nella mia memoria. Ricordo alcune sensazioni provate in quel periodo, ma poche riflessioni e nessuna azione concreta che abbia compiuto. Sapevo di trovarmi in una piccola stanza, su un letto stretto; sembrava che fossi cresciuto insieme a quel letto: giacevo immobile come una pietra, e sollevarmi sarebbe stato quasi fatale per me. Non prestavo attenzione al passare del [[Time|tempo]] – né al cambio dalle mattine ai pomeriggi, o dai pomeriggi alle sere. Notavo quando qualcuno entrava o usciva dalla stanza; riuscivo persino a capire chi fossero e a comprendere ciò che veniva detto quando si avvicinavano a me; ma non ero in grado di rispondere: aprire le labbra o muovere le membre era altrettanto impossibile. Hannah, la serva, era la persona che veniva più spesso da me. La sua presenza mi disturbava; avevo l’impressione che desiderasse che me ne andassi, che non mi capisse né comprendesse la mia situazione, e che fosse prevenuta contro di me. [[Diana]] e Mary venivano nella stanza un paio di volte al giorno. Sussurravano frasi del genere accanto al mio letto.
 
@@ -40887,6 +44303,69 @@ soon withdrew, for I had talked as much, and sat up as long, as my
 present strength would permit.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#"Non ho ancora diciannove anni… e non sono sposata. No."
+
+Sentii un calore intenso diffondersi sul mio viso; allusioni al [[Marriage|matrimonio]] avevano risvegliato ricordi amari e angosciosi. Tutti notarono il mio imbarazzo e le mie emozioni. [[Diana]] e Mary mi consolarono distogliendo lo sguardo dal mio viso arrossito; ma il fratello, più freddo e severo, continuò a fissarmi fino a quando l’angoscia che aveva suscitato non mi fece versare [[Tears|lacrime]] insieme al colore sulle guance.
+
+“Dove hai vissuto l’ultima volta?”, chiese ora.
+
+“Sei troppo curioso, San Giovanni,” mormorò Mary a bassa voce; ma lui si chinò sopra il tavolo e, con un secondo sguardo deciso e penetrante, esigette una risposta.
+
+“Il nome del luogo in cui ho vissuto, e della persona con cui l’ho fatto, è il mio segreto,” risposi brevemente.
+
+“Quello, se volete, è un diritto che, a mio parere, avete il diritto di mantenere, sia riguardo a San Giovanni che a qualsiasi altro interlocutore,” osservò [[Diana]].
+
+“Tuttavia, se non so nulla di te o della tua [[history|storia]], non posso aiutarti,” disse. “E tu hai bisogno di aiuto, vero?”
+
+“Ne ho bisogno, e la cerco con tanta determinazione che, signore, qualche vero filantropo sicuramente mi aiuterà a trovare un lavoro adatto alle mie capacità, il cui compenso mi permetterà di soddisfare almeno le più elementari esigenze della vita.”
+
+“Non so se io sia davvero un filantropo; tuttavia sono disposto ad aiutarvi nel limite delle mie possibilità per uno scopo così nobile. Prima di tutto, ditemi cosa avete abitudine a fare e cosa siete in grado di fare.”
+
+A quel punto avevo già bevuto il mio tè. Quel liquido mi aveva rinfrescato notevolmente; proprio come un gigante che beve vino: aveva restituito tono ai miei nervi, ormai tesi e senza forza, e mi aveva permesso di affrontare con calma quel giovane giudice così perspicace.
+
+“Signor Rivers,” dissi, rivolgendomi a lui e guardandolo negli occhi, mentre anche lui mi fissava apertamente e senza diffidenza, “lei e le sue sorelle mi avete reso un grande servizio. Il più grande che un uomo possa rendere ai suoi simili. Con la vostra nobile ospitalità, mi avete salvato dalla [[Death|morte]]. Questo favore vi dà il diritto illimitato alla mia gratitudine, e, in una certa misura, anche al mio affidamento. Vi racconterò tutto ciò che so sulla [[history|storia]] di questo viaggiatore che avete accolto, nella misura in cui posso farlo senza compromettere la mia tranquillità mentale, né la mia sicurezza, sia morale che fisica, né quella degli altri.”
+
+“Sono un’[[Orphan|orfana]], figlia di un clérigo. I miei genitori sono morti prima che potessi conoscerli. Sono stata cresciuta in condizioni di povertà; ho ricevuto un'educazione in un istituto di beneficenza. Vi dirò persino il nome di quell’istituto: ho trascorso sei anni come studentessa e due anni come insegnante presso il Lowood [[Orphan]] Asylum. Avrete sicuramente sentito parlare di esso, signor Rivers. Il reverendo Robert Brocklehurst ne è il tesoriere.”
+
+#Ho sentito parlare del signor Brocklehurst e ho visto la scuola.
+
+“Ho lasciato Lowood quasi un anno fa per diventare una tata privata. Ho trovato un buon lavoro e ero felice. Ma sono stata costretta ad andarmene quattro giorni prima di arrivare qui. Il motivo della mia partenza non posso né devo spiegarlo: sarebbe inutile, pericoloso e sembrerebbe incredibile. Nessuna colpa ricade su di me; sono altrettanto innocente quanto voi tre. Sono infelice, e lo sarò ancora per un po’. La catastrofe che mi ha costretta a lasciare quella casa, che sembrava un paradiso, aveva una natura strana e terribile. Nel pianificare la mia fuga ho tenuto conto solo di due cose: velocità e segretezza. Per ottenerle, ho dovuto lasciarmi indietro tutto ciò che possedevo, tranne un piccolo pacchetto. Ma nella mia fretta e nel mio stato d’animo confuso, l’ho dimenticato sul carro che mi ha portata a Whitcross. Così sono arrivata in questa zona, completamente senza nulla. Ho dormito due notti all’aperto e ho vagabondato per due giorni senza entrare in nessuna casa. Ma in quel lasso di tempo ho mangiato solo due volte. Quando la fame, l’esaurimento e la disperazione mi avevano portata quasi alla morte. È stato allora che voi, signor Rivers, mi avete impedito di morire di fame sotto il vostro tetto. So che tutte le vostre sorelle hanno fatto molto per me, perché non sono stata completamente incosciente durante quel periodo. E debbo loro una gratitudine profonda, sincera e generosa, tanto quanto la devo alla vostra carità evangelica.”
+
+“Non farla parlare più adesso, San Giovanni,” disse [[Diana]] quando feci una pausa;  
+“è evidente che non sia ancora in grado di sopportare emozioni intense. Venga qui sul divano e si sieda, signorina Elliott.”
+
+Sentendo quel _alias_, reagii istintivamente: avevo dimenticato il mio nuovo nome. Il signor Rivers, che sembrava notare tutto, se ne accorse immediatamente.
+
+“Hai detto che il tuo nome è Jane Elliott”, osservò lui.
+
+“Lo avevo detto; ed è il nome con cui ritengo sia opportuno chiamarlo al momento attuale, ma non è il mio vero nome. Quando lo sento, mi sembra strano.”
+
+“Non vuoi rivelare il tuo vero nome?”
+
+“No: temo soprattutto la scoperta di certe cose; evito qualsiasi azione che possa portarvi.”
+
+“Hai assolutamente ragione, ne sono sicura,” disse [[Diana]]. “Ora, fratello, lasciala in pace per un po’.”
+
+Ma dopo aver riflettuto per un momento, San Giovanni riprese il suo discorso con la stessa imperturbabilità e acutezza di sempre.
+
+“Non vorresti dipendere a lungo dalla nostra ospitalità, vero? Vorresti, evidentemente, liberarti il prima possibile della compassione delle mie sorelle, e soprattutto della mia _carità_ (so bene la distinzione che viene fatta, e non me ne offendo: è giusta). Vuoi essere indipendente da noi, insomma?”
+
+“Lo farò: l’ho già detto. Mostratemi come lavorare, o come cercare lavoro. Questo è tutto ciò che chiedo ora; poi lasciatemi andare, anche solo in una capanna molto semplice. Ma fino ad allora, permettetemi di rimanere qui: temo un altro [[Essay|tentativo]] di affrontare le orrori della povertà e dell’essere senza fissa dimora.”
+
+“Certamente dovrai rimanere qui,” disse [[Diana]], posando la sua mano bianca sulla mia testa. “Dovrai proprio,” ripeté Mary, con quel tono di sincera naturalezza che le sembrava del tutto spontaneo.
+
+“Mie sorelle, vedete,” disse il signor St. John, “trovano piacere nel tenervi con loro, proprio come troverebbero piacere nel tenere e coccolare un uccellino semicongelato che qualche freddo [[Wind|>vento]] invernale potrebbe aver portato dentro la loro finestra. _Io_, invece, preferirei che cercaste di badare a voi stesse da sole e farò del mio meglio per aiutarvi; ma tenete presente: le mie possibilità sono molto limitate. Sono soltanto il parroco di una povera parrocchia rurale. Il mio aiuto può essere solo di natura molto umile. E se siete disposte a disprezzare ciò che rappresentano le piccole cose quotidiane, cercate allora un sostegno più efficace di quello che io posso offrirvi.”
+
+“Ha già detto che è disposta a fare qualsiasi cosa onesta sia in suo potere,” rispose per me [[Diana]]; “e sai, San Giovanni, non ha altra scelta di aiutanti: è costretta a sopportare persone così sgarbate come te.”
+
+“Diventerò una sarta; diventerò una lavoratrice di tessuti semplici; diventerò una serva, una ragazza infermiera, se non posso fare di meglio,” risposi.
+
+“Giusto,” disse il signor St. John con estrema calma. “Se questo è lo spirito con cui affronti le cose, prometto di aiutarti, nel mio modo e nel mio momento.”
+
+Ora riprese il libro con cui stava occupato prima di bere il tè. Io me ne andai presto, perché avevo parlato abbastanza e ero rimasto seduto per tutto il tempo che le mie attuali forze mi permettevano.
+
 
 
 <span class="atom-split" data-atom="chapter_30--part_01" data-title="Jane Eyre — Chapter 30 (part 1)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="motif/flowers,motif/garden,motif/home,motif/love,motif/nature,motif/night,motif/silence,motif/time,motif/well,motif/wind,motif/window,concept/friendship,concept/loneliness,concept/nature,concept/truth,concept/wonder,character/diana,character/jane_eyre"></span>
@@ -41002,6 +44481,7 @@ thousand peaceful delights they could yield.
 <span class="qlang-split" data-lang="it"></span>
 
 # CAPITOLO XXX
+
 
 Più conoscevo gli interni della casa di Moor, più iniziavo ad apprezzarli. In pochi giorni la mia salute si era ripresa a tal punto che potevo stare seduto tutto il giorno e anche uscire qualche volta. Potevo unirmi a [[Diana]] e Mary nelle loro attività, conversare con loro quanto desideravano e aiutarle quando me lo permettevano. In queste interazioni c’era una gioia che non provavo da molto tempo: la gioia derivante da una perfetta affinità di gusti, sentimenti e principi.
 
@@ -41305,6 +44785,66 @@ right, noble, Christian: yet it breaks my heart!” And the [[Tears|tears]] gush
 to her fine eyes. Mary bent her head low over her work.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“[[Well|Beh]]?” dissi, mentre lui si fermava di nuovo, “Prosegui pure.”
+
+Mi guardò prima di continuare; sembrava davvero prendersi il tempo necessario per osservare i miei tratti facciali, come se le loro linee e caratteristiche fossero dei simboli su una pagina. Le conclusioni a cui arrivò dopo questa attenta analisi le esprimette in parte nelle osservazioni successive.
+
+“Credo che accetterete la posizione che vi propongo,” disse lui, “e la ricoprirete per un certo periodo di tempo: ma non in modo permanente. Non più di quanto io possa rimanere permanentemente nella tranquilla e appartata posizione che occupo nel mondo letterario inglese; perché nella vostra [[Nature|>natura]] c’è qualcosa che, sebbene diverso dal mio, è altrettanto dannoso per la tranquillità.”
+
+“Devi spiegarmelo,” insistetti quando si fermò di nuovo.
+
+“Lo farò; e allora sentirete quanto sia povera questa proposta, quanto banale, quanto restrittiva. Ora che mio padre è morto e sono padrone di me stesso, non rimarrò a lungo a Morton. Probabilmente lascerò il posto entro dodici mesi; ma finché ci sarò, farò del mio meglio per migliorarlo. Quando sono arrivato qui due anni fa, a Morton non c’era nessuna scuola: i bambini poveri erano esclusi da qualsiasi possibilità di progresso. Ho aperto una scuola per i ragazzi; ora intendo aprire un’altra scuola per le ragazze. Ho affittato un edificio a questo scopo, insieme a una casetta di due stanze annessa, che servirà come abitazione per l’insegnante. Il suo stipendio sarà di trenta sterline all’anno; la sua casa è già arredata, in modo molto semplice ma sufficiente, grazie alla gentilezza di una signora. Miss Oliver, unica figlia dell’unico uomo ricco della mia parrocchia: il signor Oliver, proprietario di una fabbrica di aghi e di una fonderia nel valle. Stessa questa signora paga l’istruzione e i vestiti di un orfano proveniente dall’ospizio, a condizione che quest’ultimo aiuti l’insegnante in compiti umili legati alla casa e alla scuola. Compiti che, data la sua attività di insegnante, non le permetterebbero comunque di occuparsene personalmente. Volete essere voi questa insegnante?”
+
+Pose la domanda in modo piuttosto affrettato; sembrava quasi aspettarsi un rifiuto indignato, o almeno sprezzante, di quell’offerta. Non conoscendo tutti i miei pensieri e sentimenti, anche se ne intuiva alcuni, non poteva capire in che luce quella proposta mi sarebbe apparsa. In [[Truth|verità]], era un lavoro umile, ma offriva riparo, e io avevo bisogno di un rifugio sicuro; era un compito noioso, ma, rispetto a quello di una governante in una ricca [[house|casa]], era indipendente. Inoltre, la [[Fear|paura]] di sottomettermi al servizio di estranei mi penetrava nell’[[Soul|'anima]] come il ferro. Non era un lavoro ignobile, né indegno, né umiliante dal punto di vista mentale. Così presi la mia decisione.
+
+“Grazie mille per la sua proposta, signor Rivers; l’accetto con tutto il mio cuore.”
+
+“Ma mi capisci?” disse. “È una scuola di villaggio: le tue alunne saranno soltanto ragazze povere, figlie di contadini, nel migliore dei casi. Cosa insegnerai? A fare maglia, a cucire, a leggere, a scrivere. Che ne farai delle tue competenze? E di quella parte più importante della tua mente, i tuoi sentimenti, i tuoi gusti?”
+
+# Salvali finché non saranno necessari… Li terrai con te.
+
+“Quindi sai bene cosa ti aspetta…”
+
+“I do.”
+
+Ora sorrideva: non un sorriso amaro o triste, ma uno di profonda soddisfazione e gratitudine.
+
+“E quando inizierete ad adempiere alle vostre funzioni?”
+
+“Domani andrò nella mia [[house|>casa]] e aprirò la scuola, se vi va bene, la prossima settimana.”
+
+Molto bene: sia così allora.
+
+Si alzò in piedi e camminò per la stanza. Fermandosi di nuovo, mi guardò ancora una volta. Scosse la testa.
+
+“Di cosa si disapprova, signor Rivers?”, chiesi.
+
+“Non resterai a Morton a lungo… No, no!”
+
+“Perché? Qual è la tua ragione per dirlo?”
+
+“L’ho letto nei tuoi occhi: non si tratta di quella sorta di carattere che promette di mantenere un tono equilibrato nella vita.”
+
+"#Non sono ambizioso."
+
+Iniziò dalla parola “ambizioso”. Ripeté: “No. Perché hai pensato a [[Ambition|ambizione]]? Chi è ambizioso? So di esserlo io. Ma come l’hai capito?”
+
+“Stavo parlando di me stesso.”
+
+“Beh, se non sei ambizioso, allora sei, ” Si interruppe.
+
+“Cosa?”
+
+“Stavo per dire ‘appassionatamente’, ma forse avreste frainteso quella parola e vi sareste offesi. Intendo dire che gli affetti umani e le emozioni hanno su di voi un ascendente molto forte. Sono sicuro che non possiate accontentarvi a lungo di trascorrere il vostro tempo libero in [[Solitude|solitudine]] e di dedicare le ore lavorative a un compito monotono, completamente privo di stimoli. Proprio come io non posso accontentarmi”, aggiunse con enfasi, “di vivere qui, sepolto nel fango, intrappolato tra [[Mountains|montagne]]: la mia [[Nature|>natura]], che Dio mi ha dato, viene violata; le mie facoltà, donate dal cielo, vengono paralizzate e rese inutili. Ora capite come io stesso mi contraddica. Io, che predicavo il contentamento con una sorte umile e giustificavo persino la vocazione di chi tagliava legna o tirava acqua al servizio di Dio. Io, suo ministro designato, quasi impazzisco per la mia inquietudine. Beh, bisogna trovare un modo per conciliare inclinazioni e principi.”
+
+Uscì dalla stanza. In questo breve lasso di tempo avevo imparato di lui più di quanto avessi fatto in tutto il mese precedente; eppure continuava a lasciarmi perplesso.
+
+[[Diana]] e Mary Rivers diventavano sempre più tristi e silenziose man mano che si avvicinava il giorno in cui avrebbero dovuto lasciare il loro fratello e la loro [[Home|>casa]]. Entrambe cercavano di comportarsi come al solito; ma il dolore con cui dovevano lottare era un dolore che non poteva essere completamente vinto o nascosto. [[Diana]] fece capire che questa sarebbe stata una separazione diversa da tutte quelle che avevano mai vissuto prima. Per quanto riguardava St. John, probabilmente si trattava di una separazione che avrebbe durato anni, o forse per sempre.
+
+“Sacrificherà tutto per le sue risoluzioni ferme e decise,” disse lei: “affetti naturali e sentimenti ancora più potenti. San Giovanni sembra tranquillo, Jane; ma nasconde una febbre profonda dentro di sé. Potresti pensare che sia gentile, invece in alcune cose è spietato come [[Death|la morte]]. E la cosa peggiore è che la mia [[Conscience|coscienza]] quasi non mi permette di dissuaderlo da questa decisione severa. Certo, non posso biasimarlo nemmeno per un momento. È giusto, nobile, cristiano. Ma mi spezza il cuore, ” E le [[Tears|lacrime]] iniziarono a scorrere dai suoi bei occhi. Mary abbassò lo sguardo sul suo lavoro.
+
 
 
 <span class="atom-split" data-atom="chapter_30--part_04" data-title="Jane Eyre — Chapter 30 (part 4)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="motif/death,motif/home,motif/silence,motif/window,concept/truth,concept/wonder,character/diana,character/jane_eyre"></span>
@@ -41529,6 +45069,7 @@ scholars very [[Well|well]].”
 
 # CAPITOLO XXXI
 
+
 La mia [[Home|>casa]], allora, quando finalmente ne trovo una, è una capanna; una piccola stanza con muri imbiancati e pavimento levigato, contenente quattro sedie dipinte e un tavolo, un[[Clock|>orologio]], un armadio con due o tre piatti e stoviglie, e un set da tè in ceramica. Al piano di sopra, una camera delle stesse dimensioni della cucina, con un letto semplice e un comodino; piccola, ma troppo grande per contenere il mio misero guardaroba, sebbene la gentilezza dei miei amici gentili e generosi abbia aumentato quel poco che possiedo di vestiti necessari.
 
 È sera. Ho congedato, in cambio di un’arancia, la piccola [[Orphan|orfana]] che mi serve come ancella. Siedo [[Alone|da sola]] davanti al camino. Questa mattina è iniziata la scuola del villaggio: avevo venti studenti. Ma solo tre di loro sanno leggere; nessuno sa scrivere o fare calcoli. Alcuni confezionano oggetti a maglia, altri cuciono un po’. Parlano con l’accento più marcato della zona. Al momento, abbiamo difficoltà a capirci a vicenda. Alcuni di loro sono scortesi, rozzi e indomabili, oltre che ignoranti; altri invece sono docili, desiderosi di imparare e mostrano un atteggiamento che mi piace molto. Non devo dimenticare che questi piccoli contadini, vestiti in modo semplice, hanno carne e [[Blood|%sangue]] tanto buoni quanto i discendenti delle famiglie più nobili. E che i semi dell’eccellenza, della raffinatezza, dell’intelligenza e del buon cuore possono esistere nei loro cuori tanto quanto in quelli dei nati nelle famiglie più prestigiose. Il mio compito sarà coltivare questi semi. Sicuramente troverò gioia nel svolgere questo ruolo. Non mi aspetto grandi piaceri nella vita che mi attende. Tuttavia, se regolerò la mia mente e userò al meglio le mie capacità, senza dubbio avrò abbastanza per vivere giorno dopo giorno.
@@ -41542,6 +45083,7 @@ Sì; ora sento di aver avuto ragione ad attenermi ai principi e alla legge, igno
 Avendo portato i miei pensieri serali fino a questo punto, mi alzai, andai alla mia porta e osservai il tramonto di quel giorno di raccolto, nonché i campi tranquilli davanti alla mia capanna, che, insieme alla scuola, si trovavano a mezzo miglio di distanza dal villaggio. Gli [[Birds|uccelli]] cantavano le loro ultime canzoni.
 
 L’aria era dolce, la rugiada un balsamo.
+
 
 Mentre guardavo intorno, mi sentivo felice, ma presto scoprii di stare piangendo. E perché? A causa della sorte che mi aveva separato dal mio padrone: non avrei più potuto vederlo; a causa del dolore disperato e della rabbia fatale derivanti dalla mia partenza, sentimenti che forse ora lo stavano allontanando dal sentiero della rettitudine, portandolo troppo lontano da ogni speranza di un ritorno alla giustizia. A questo pensiero, distolsi lo sguardo dal bellissimo cielo serale e dalla solitaria valle di Morton, la chiamavo “solitaria”, perché in quella parte della valle non si vedeva alcuna costruzione, se non la chiesa e la canonica, semi-nascoste tra gli alberi; in lontananza, si intravedeva soltanto il tetto di Vale Hall, dove vivevano il ricco signor Oliver e sua figlia. Nascosi gli occhi e appoggiai la testa contro lo stipite di pietra della porta. Ma presto un lieve rumore vicino al cancello che separava il mio piccolo giardino dal prato oltre di esso mi fece alzare lo sguardo. Un cane, vecchio Carlo, il pointer del signor Rivers, stava spingendo il cancello con il naso; accanto a lui c’era St. John, con le braccia incrociate e un’espressione cupa sul viso. Il suo sguardo era fisso su di me. Gli chiesi di entrare.
 
@@ -41982,6 +45524,7 @@ despite his reserve, had the daring to make on his confidence.
 
 # Capitolo XXXII
 
+
 Continuai a svolgere il mio lavoro nella scuola del villaggio con la massima dedizione e impegno possibile. All’inizio fu davvero un lavoro arduo: ci vollero diversi mesi prima che, grazie ai miei sforzi, riuscissi a comprendere i miei alunni e la loro natura. Del tutto ignoranti e con capacità intellettive piuttosto atrofizzate, mi sembravano tutti estremamente noiosi; ma presto scoprii di sbagliarmi: esistevano differenze tra di loro, proprio come tra le persone istruite. Man mano che li conoscevo meglio e loro conoscevano me, queste differenze iniziarono ad emergere chiaramente. La loro meraviglia nei miei confronti, per il mio modo di parlare, per le regole che imponevo e per i metodi che utilizzavo, una volta svanita, mi fece scoprire che alcune di quelle ragazze dall’aspetto semplice e un po’ goffo erano in realtà molto intelligenti. Molte si dimostrarono gentili e affabili; tra loro trovai anche molte esempi di naturale cortesia, di innato rispetto per se stesse, nonché di notevoli capacità, che conquistarono sia la mia simpatia che il mio ammirazione. Presto iniziarono a prendere gusto nel svolgere bene i loro compiti, a mantenere un aspetto pulito e ordinato, ad imparare con regolarità e ad acquisire comportamenti tranquilli e rispettabili. In alcuni casi, il loro progresso fu addirittura sorprendente; ne provai grande orgoglio. Inoltre, iniziai personalmente a simpatizzare per alcune di queste ragazze, e anche loro mi apprezzavano. Tra i miei alunni c’erano anche le figlie di alcuni contadini: giovani donne ormai quasi adulte che già sapevano leggere, scrivere e cucire; a loro insegnai i fondamenti della grammatica, della geografia, della storia e delle tecniche più avanzate di sartoria. Tra di loro trovai persone davvero meritevoli, desiderose di conoscenza e disposte a migliorare; trascorsi molte piacevoli serate nelle loro case con loro. I loro genitori, il contadino e sua moglie, mi dimostrarono grande gentilezza. Fu un vero piacere accettare le loro semplici attenzioni e ricambiarle con considerazione, rispettando i loro sentimenti nel modo più scrupoloso possibile; questo li rese felici e li incoraggiò a cercare di meritare il trattamento rispettoso che ricevevano.
 
 Sentivo di essere diventato il preferito del quartiere. Ogni volta che uscivo, sentivo ovunque saluti cordiali e venivo accolto con sorrisi amichevoli. Vivere tra l’approvazione generale, anche se si tratta solo dell’approvazione delle persone comuni, è come “sedersi al sole, in pace e serenità”; sentimenti tranquilli e positivi fioriscono sotto i suoi raggi. In questo periodo della mia vita, il mio cuore si riempiva spesso di gratitudine piuttosto che di tristezza. Eppure, lettore, devo dirvi che, nonostante questa serenità, questa vita utile – dopo una giornata trascorsa a lavorare onestamente con i miei studenti, o una sera passata a disegnare o leggere in solitudine – di notte mi immaginavo strani sogni. Sogni colorati, intensi, pieni di ideali, di emozioni forti e di situazioni avventurose. In quei sogni, sempre più volte incontravo il signor Rochester, sempre in momenti di crisi. Sentivo di essere tra le sue braccia, udivo la sua voce, incrociavo il suo sguardo, toccavo la sua mano e la sua guancia. Amarlo, essere amato da lui. La speranza di trascorrere tutta la vita al suo fianco rinacqueva, con tutta la sua forza originale. Poi mi svegliavo. Ricordavo dove mi trovavo, in quale situazione. Mi alzavo dal mio letto senza tende, tremante e scosso. E poi la notte silenziosa e buia assisteva alle mie angoscie, ai miei impeti di passione. Alle nove del mattino seguente, aprivo puntualmente la scuola. Calmo, sereno, pronto ad affrontare le mansioni quotidiane con determinazione.
@@ -42111,6 +45654,32 @@ their divine influence spread everywhere, you would be in hell—the hell
 of your own meanness.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La signorina [[Oliver]] mi onorava già con frequenti visite alla mia capanna. Avevo conosciuto appieno il suo carattere, che non presentava alcun mistero o inganno: era civettuola, ma non spietata; esigente, ma non egoista in modo gratuito. Era stata viziata fin dalla nascita, ma non completamente rovinata. Era impaziente, ma di buon umore; vanitosa (non poteva farci nulla, visto che ogni sguardo allo specchio le rivelava la sua grande bellezza), ma non affettata; generosa; priva della [[Pride|orgoglio]] derivante dalla ricchezza; sincera; abbastanza intelligente; allegra, vivace e spensierata. In breve, era molto attraente, anche per un osservatore freddo del suo stesso sesso come me; tuttavia, non era profondamente interessante né particolarmente impressionante. Il suo modo di pensare era molto diverso da quello, ad esempio, delle sorelle di San Giovanni. Comunque, le volevo bene quasi quanto la mia allieva Adèle; solo che, per una [[Child|bambina]] che abbiamo seguito e educato fin dall’inizio, si sviluppa un affetto più profondo di quello che possiamo provare per un conoscente adulto altrettanto attraente.
+
+Aveva preso l’abitudine di trattarmi con affetto e gentilezza. Diceva che assomigliavo al signor Rivers, anche se ammetteva che “non ero nemmeno un decimo della sua bellezza”; tuttavia aggiungeva che anch’io ero una “carina e ordinata piccola creatura”, mentre lui era davvero un angelo. Ero comunque buona, intelligente, composta e risoluta, proprio come lui. Un vero “lusus naturæ”, affermava lei, come insegnante di scuola elementare in campagna: era certa che la mia precedente “storia”, se conosciuta, potesse diventare una deliziosa “romanzo”.
+
+Una sera, mentre, con la sua solita attività tipica di una bambina e con quella curiosità spensierata ma non offensiva, frugava nel mobile della cucina e nell’armadietto del tavolo, scoprì prima due libri in francese, un volume di Schiller, un dizionario e una grammatica tedesca, e poi i miei materiali da disegno e alcuni schizzi, tra cui il ritratto a matita di una graziosa bambina dall’aspetto angelico, uno dei miei “studenti”, oltre a diverse vedute della [[Nature|>natura]] scattate nella Valle di Morton e nelle brughiere circostanti. All’inizio rimase sbalordita, poi fu invasa dalla gioia.
+
+“Le ho fatte io queste immagini? Conoscevo il francese e il tedesco? Che [[Love|amore]], che miracolo ero! Disegnavo meglio del maestro di lei nella prima scuola di S—. Vorrei fare un ritratto suo da mostrare a papà, ”
+
+“Con piacere,” risposi; e provai un brivido di gioia artistica all’idea di copiare da un modello così perfetto e radioso. Indossava in quel momento un abito di seta blu scuro; le braccia e il collo erano scoperti; l’unico ornamento era la sua chioma castana, che ondeggiava sulle spalle con tutta la grazia selvaggia delle onde naturali. Presi un foglio di cartone fine e tracciai con cura i contorni del disegno. Mi promisi il piacere di colorarlo; e poiché stava facendo tardi, le dissi che doveva tornare un altro giorno.
+
+Lei fece un resoconto così positivo su di me a suo padre, che il signor [[Oliver]] stesso venne a trovarla la sera seguente: un uomo alto, dall’aspetto imponente, di mezza età e con i capelli grigi; al suo fianco, sua figlia sembrava un fiore brillante accanto a una torre grigiastra. Sembrava una persona taciturna, forse anche orgogliosa; ma fu molto gentile con me. Il [[Sketch|schizzo]] del ritratto di Rosamond gli piacque moltissimo: disse che dovevo realizzarne un dipinto completo. Insistette anche affinché andassi da lui il giorno dopo per trascorrere la serata a Vale Hall.
+
+Ci sono andato. L’ho trovata una residenza grande e bellissima, che mostrava chiaramente le ricchezze del suo proprietario. Durante tutto il mio soggiorno, Rosamond era piena di gioia e felicità. Suo padre era molto affabile; e quando iniziò a conversare con me dopo il tè, esprimette in termini forti la sua approvazione per ciò che avevo fatto alla scuola di Morton, aggiungendo che temeva, da quanto vedeva e sentiva, che fossi troppo adatto per quel posto e che presto lo avrei lasciato per uno più adatto a me.
+
+“Davvero,” esclamò Rosamond, “è abbastanza intelligente da poter fare la tata in una famiglia nobile, papà.”
+
+Pensavo che preferissi di gran lunga essere dove sono piuttosto che far parte di una famiglia nobile di questo paese. Il signor [[Oliver]] parlava del signor Rivers, della famiglia Rivers, con grande rispetto. Disse che si trattava di un nome molto antico in quella zona; che gli antenati di quella famiglia erano stati ricchi; che un tempo tutto il territorio di Morton apparteneva a loro; e che anche ora riteneva che il rappresentante di quella famiglia potesse, se lo desiderasse, stringere alleanze con le persone più nobili. Trovava davvero un peccato che un giovane così talentuoso avesse deciso di dedicarsi alla vita missionaria: era come gettare via una vita preziosa. Quindi, sembrava che suo padre non avrebbe posto alcun ostacolo al matrimonio di Rosamond con St. John. Il signor [[Oliver]] considerava chiaramente il nobile lignaggio, il nome antico e la professione sacra del giovane prete una compensazione sufficiente alla mancanza di ricchezze.
+
+Era il 5 novembre, una festa. La mia piccola serva, dopo avermi aiutato a pulire la casa, se n'era andata, molto soddisfatta della ricompensa di un penny per il suo lavoro. Tutto intorno a me era pulito e luminoso: pavimenti lavati, griglie lucide e sedie ben strofinate. Anche io mi ero sistemata in modo ordinato, e ora avevo l’intera pomeriggia davanti a me da trascorrere come volevo.
+
+La [[Translation|traduzione]] di poche pagine in tedesco richiese un’ora; poi presi la mia palette e i miei matite e mi dedicai all’occupazione più rilassante e, al contempo, più semplice: completare la miniatura di Rosamond [[Oliver]]. La testa era già pronta; mancavano solo il fondo da colorare e le pieghe dei vestiti da sfumare; inoltre, un tocco di carminio per aggiungere colore alle labbra. Una leggera curvatura ai capelli. Un tono più scuro all’[[Shadow|ombra]] delle ciglia sotto l’iride azzurra. Ero completamente immersa nella realizzazione di questi dettagli quando, dopo un colpo rapido alla porta, questa si aprì, facendo entrare St. John Rivers.
+
+“Sono venuto a vedere come trascorri le tue vacanze,” disse. “Non, spero che tu non sia troppo assorto nei tuoi pensieri, vero? No, questo è positivo: mentre disegni, non ti sentirai solo. Vedi, non mi fido ancora di te, anche se finora hai resistito meravigliosamente. Ti ho portato un libro per il tuo tempo libero serale,” e posò sul tavolo una nuova pubblicazione: una poesia, uno di quei veri capolavori che all’epoca venivano offerti al fortunato pubblico dell’[[Golden Age|età d’oro]] della letteratura moderna. Ahimè! I lettori del nostro tempo sono meno fortunati. Ma [[Courage|coraggio!]] Non mi soffermerò né ad accusare né a lamentarmi. So che la poesia non è morta, né il genio perduto; e nemmeno Mammono ha ottenuto il potere di sopprimerli: un giorno entrambi ristabiliranno la loro esistenza, la loro presenza, la loro libertà e la loro forza. Potenti angeli, al sicuro in cielo, sorridono quando le anime meschine trionfano, mentre quelle deboli piangono per la loro distruzione. La poesia distrutta? Il genio esiliato? No! La mediocrità, nemmeno quella: non lasciate che l’invidia vi spinga a pensarlo. No, non solo sopravvivono, ma regnano e redimono il mondo; senza la loro influenza divina, tutto sarebbe un inferno, l’inferno della vostra stessa meschinità.
+
 
 
 <span class="atom-split" data-atom="chapter_32--part_03" data-title="Jane Eyre — Chapter 32 (part 3)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/love,motif/poison,motif/rose,motif/spring,motif/time,motif/well,concept/self,concept/solitude,concept/union,character/jane_eyre,character/oliver"></span>
@@ -42237,6 +45806,56 @@ hers—this present life and passing world suffice to me. Hush! say
 nothing—my heart is full of delight—my senses are entranced—let the
 [[Time|time]] I marked pass in peace.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mentre io fissavo con impazienza le pagine luminose di “Marmion” (poiché si trattava proprio di “Marmion”), San Giovanni si chinò per esaminare il mio disegno. La sua alta figura si raddrizzò all’improvviso, come se avesse ricevuto una scossa: non disse nulla. Alzai lo sguardo su di lui: evitò il mio contatto visivo. Conoscevo bene i suoi pensieri e potevo leggere chiaramente nel suo cuore; in quel momento mi sentivo più calmo e padrone di me stesso di lui. Avevo temporaneamente il vantaggio su di lui, e provai l’impulso di fargli del bene, se solo ne avessi avuto la possibilità.
+
+“Con tutta la sua fermezza e il suo [[Self|autocontrollo]]”, pensai, “si impegna troppo: trattiene dentro di sé ogni sentimento e dolore, non esprime nulla, non confida nulla. Sono sicura che gli farebbe bene parlare un po’ di questa dolce Rosamond, di cui pensa di non dover sposarsi. Lo farò parlare.”
+
+Dissevo prima: “Si sieda, signor Rivers.” Ma lui rispose, come faceva sempre, che non poteva restare. “Benissimo,” pensai tra me, “resti pure se vuole; ma non andrà via subito, ne sono deciso: la [[Solitude|solitudine]] è per lei tanto dannosa quanto lo è per me. Cercherò di scoprire il segreto della sua fiducia in me e di trovare un modo per farle arrivare anche solo una goccia del balsamo della comprensione.”
+
+“Questo ritratto è simile a, ” chiesi senza mezzi termini.
+
+“Come! Come chi? Non l’ho osservato attentamente.”
+
+“Lo ha fatto davvero, signor Rivers.”
+
+Quasi si arrabbiò per la mia improvvisa e strana reazione: mi guardò, stupito. “Oh, questo non è ancora niente, ”, mormorai tra me. “Non intendo lasciarmi confondere da una piccola freddezza da parte tua; sono pronto a fare di tutto.” Continuai: “L’hai osservato attentamente e chiaramente. Ma non ho nulla in contrario se lo guardi di nuovo”, e così presi la [[Rose|rosa]] e la misi nella sua mano.
+
+“Un dipinto ben eseguito,” disse; “colori molto morbidi e chiari; disegno molto grazioso e accurato.”
+
+“Sì, sì; lo so tutto. Ma che dire della somiglianza? Con chi assomiglia?”
+
+Superando un po’ di esitazione, rispose: “Presumo che si tratti della signorina [[Oliver]].”
+
+“Certo. E ora, signore, per ricompensarvi per la vostra indovinazione accurata, vi prometto di dipingervi una copia precisa e fedele di questo stesso quadro, a condizione che ammettiate che tale dono sia accettabile per voi. Non vorrei sprecare il mio [[Time|tempo]] e le mie fatiche per un regalo che riteneste inutile.”
+
+Continuava a fissare il dipinto: più lo guardava, più lo stringeva forte tra le mani, più sembrava desiderarlo ardentemente. “È davvero straordinario!”, mormorò; “l’uso dei colori, della luce, dell’espressione è impeccabile. Sorride!”
+
+“Ti consolerebbe, o ti ferirebbe avere un dipinto simile? Dimmelo. Quando sarai in Madagascar, al Capo o in India, sarebbe un conforto possederlo, oppure la sua vista susciterebbe ricordi capaci di renderti debole e infelice?”
+
+Ora alzò furtivamente lo sguardo: mi lanciò un'occhiata incerta, turbato; poi osservò di nuovo il dipinto.
+
+“Che io desideri averlo è certo; se sia saggio o prudente, invece, è un’altra questione.”
+
+Poiché avevo accertato che Rosamond lo preferiva davvero e che suo padre probabilmente non si sarebbe opposto al loro matrimonio, io – meno presuntuoso di San Giovanni – ero sinceramente propenso a sostenere la loro [[Union|unione]]. Mi sembrava infatti che, se fosse diventato proprietario della grande fortuna del signor [[Oliver]], avrebbe potuto fare molto di buono con essa, invece di sprecarla o lasciare che il proprio talento andasse perduto in un ambiente inadatto. Con questa [[Persuasion|convincenza]] risposi quindi.
+
+“Per quanto ne so, sarebbe più saggio e opportuno se tu prendessi subito in tuo possesso l’originale.”
+
+A quell’[[Time|ora]], si era già seduto: aveva posato il dipinto sul tavolo davanti a sé e, appoggiando la fronte sulle mani, lo osservava con affetto. Notai che ormai non era né arrabbiato né scioccato dalla mia audacia. Vidi persino che essere così apertamente affrontato su un argomento che aveva ritenuto inaccessibile, e sentirlo trattare con tanta libertà, iniziava a procurargli una nuova forma di piacere, un sollievo inaspettato. Le persone riservate spesso hanno davvero bisogno di parlare apertamente dei propri sentimenti e delle proprie sofferenze più di quanto non ne abbiano bisogno coloro che sono espansivi. Anche lo stoico più severo, in fondo, è un essere umano; e permettere a qualcuno di “irrompere” con coraggio e buona volontà nel “mare silenzioso” delle loro anime significa spesso offrire loro il primo dei veri piaceri, un sollievo inaspettato.
+
+“Le piaci, ne sono sicuro,” dissi mentre mi trovavo dietro la sua sedia, “e suo padre ti rispetta. Inoltre, è una ragazza gentile, un po’ impulsiva, forse; ma tu avresti abbastanza buon senso per prendervi cura sia di lei che di te stesso. Dovresti sposarla.”
+
+“Le piaccio davvero?” chiese lui.
+
+“Certo; molto più di qualsiasi altro le piaccia. Parla continuamente di te: non c’è argomento che le piaccia di più o su cui si soffermi più spesso.”
+
+“È molto piacevole ascoltare queste cose,” disse, “davvero molto. Continua ancora per un quarto d’ora.” E infatti tirò fuori l’orologio e lo posò sul tavolo per controllare il [[Time|tempo]].
+
+“Ma a che serve continuare così,” chiesi, “se probabilmente stai preparando qualche argomento contraddittorio, o forgiando un’altra catena per legare il tuo cuore?”
+
+“Non immaginare cose così difficili. Immagina che io ceda e mi scioglia, proprio come sto facendo: l’amore umano si risveglia nella mia mente come una fontana appena aperta, sommergendo tutto ciò che ho preparato con tanta cura e sforzo. Tutto ciò che ho seminato con i semi delle buone intenzioni, dei progetti di auto-sacrificio. Ora tutto viene sommerso da un diluvio di nettare. I giovani germogli vengono distrutti. Un delizioso ‘veleno’ li corrompe. Ora mi vedo sdraiato su un divano nel salotto di Vale Hall, ai piedi della mia sposa Rosamond Oliver. Lei parla con me con la sua voce dolce, mi guarda con quegli occhi che la tua abile mano ha riprodotto così bene. Mi sorride con quelle labbra coralline. Lei è mia. Io sono suo. Questa vita e questo mondo bastano a me. Taci. Non dire nulla. Il mio cuore è pieno di gioia. I miei sensi sono incantati. Lascia che il tempo passi in pace, ”
 
 
 
@@ -42387,6 +46006,64 @@ pondered the mystery a minute or two; but finding it insolvable, and
 being certain it could not be of much moment, I dismissed, and soon
 forgot it.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Gli diedi retta: l’orologio ticchettava; respirava velocemente e a bassa voce; rimasi in silenzio. In mezzo a questo silenzio il quartetto continuò a suonare; lui ripose l’orologio, posò il dipinto e la [[Rose|rosa]], poi si fermò davanti al camino.
+
+“Ora,” disse, “quello piccolo spazio è stato invaso dal delirio e dall’illusione. Ho appoggiato le tempie sul petto di [[Temptation|tentazione]] e ho volontariamente messo il mio collo sotto il suo giogo di [[Flowers|>fiori]]; ho assaporato il suo vino. Ma il cuscino bruciava; nella ghirlanda c’è un aspide; il vino ha un sapore amaro. Le sue promesse sono vuote, le sue offerte false. Lo vedo e lo so tutto.”
+
+Lo fissavo con [[Wonder|stupore]].
+
+“È strano,” continuò, “che mentre amo Rosamond Oliver con tale intensità, con tutta la passione di un primo amore, e lei è davvero incantevole, elegante e affascinante, allo stesso tempo provo una calma consapevolezza del fatto che non potrebbe essere una buona moglie per me; che non è la persona adatta a me; che scoprirò tutto questo entro un anno dal matrimonio. E che a dodici mesi di felicità seguirà tutta una vita di rimpianti. Lo so con certezza.”
+
+“Davvero strano!” Non potei fare a meno di esclamare.
+
+“Mentre una parte di me,” continuò, “è profondamente sensibile ai suoi pregi, un'altra parte è altrettanto colpita dai suoi difetti: sono tali che lei non potrebbe mai condividere nulla di ciò a cui io aspiro, né collaborare in nulla di ciò che intraprendo. Rosamond, una sofferente, una lavoratrice, un’apostola femminile? Rosamond, la moglie di un missionario? No!”
+
+“Ma non è necessario che tu diventi un missionario… Potresti abbandonare quell’idea.”
+
+“Abbandonare tutto ciò? La mia vocazione? Il mio grande lavoro? Le basi che ho gettato sulla terra per costruire qualcosa di meraviglioso nel regno dei cieli? La speranza di far parte di coloro che hanno unito tutte le loro ambizioni nell’unico scopo glorioso: migliorare la propria razza, diffondere la conoscenza tra gli ignoranti, sostituire la guerra con la pace, la schiavitù con la libertà, la superstizione con la religione. La speranza del cielo al posto della paura dell’inferno? Devo davvero abbandonare tutto questo? È più prezioso del sangue che scorre nelle mie vene. È ciò per cui vivo e verso cui tendo.”
+
+Dopo un lungo silenzio, dissi: “E la signorina [[Oliver]]? Il suo delusione e il suo dolore non le interessano affatto?”
+
+“La signorina [[Oliver]] è sempre circondata da corteggiatori e adulatori: in meno di un mese, la mia immagine scomparirà dal suo cuore. Mi dimenticherà, e probabilmente sposerà qualcuno che la renderà molto più felice di quanto potrei farlo io.”
+
+“Parli con freddezza, ma soffri dentro questo conflitto… Stai consumandoti.”
+
+“No. Se sto un po’ dimagrendo, è a causa dell’ansia per le mie prospettive future. Tuttavia, la mia partenza continua ad essere rinviata. Solo stamattina ho ricevuto notizie secondo cui il successore, il cui arrivo aspettavo da tanto tempo, non sarà pronto per sostituirmi prima di tre mesi; e forse questi tre mesi potrebbero prolungarsi fino a sei.”
+
+“Tremi e arrossisci ogni volta che la signorina [[Oliver]] entra nell’aula.”
+
+Di nuovo un'espressione di sorpresa apparve sul suo viso. Non avrebbe mai immaginato che una donna osasse parlare in quel modo con un uomo. Per me, invece, questo tipo di conversazione mi faceva sentire a mio agio. Non potevo mai trovare pace nella comunicazione con persone forti, discrete e raffinate, sia uomini che donne, finché non superavo le barriere della riservatezza convenzionale, varcavo la soglia della fiducia e conquistavo un posto nel loro cuore stesso.
+
+“Sei davvero originale,” disse lui, “e non timido. C’è qualcosa di coraggioso nel tuo spirito, così come uno sguardo profondo nei tuoi occhi; ma permettimi di assicurarti che interpreti in modo errato i miei sentimenti. Li consideri più profondi e intensi di quanto non siano in realtà. Mi attribuisci un grado di simpatia maggiore di quello che io abbia realmente meritato. Quando arrossisco o tremo davanti a Miss Oliver, non provo pietà per me stesso. Disprezzo la debolezza; so che è ignobile: solo un effetto passeggero del corpo, e non certo una convulsione dell’anima. Quella, invece, è immutabile, solida come una roccia nelle profondità di un mare in tempesta. Conosciami per ciò che sono: un uomo freddo e duro.”
+
+Sorrisi, incredulo.
+
+“Mi avete strappato la fiducia in me con una [[Storm|tempesta]],” continuò, “e ora essa è completamente a vostra disposizione. Sono semplicemente tornato al mio stato originale: privo di quella veste bianca, tinta dal sangue, con cui il [[Christianity|Cristianesimo]] nasconde le deformità umane. Un uomo freddo, duro, ambizioso. Tra tutti i sentimenti, solo l’affetto naturale ha su di me un potere duraturo. La ragione, e non i sentimenti, è la mia guida; la mia [[Ambition|ambizione]] è senza limiti. Il mio desiderio di salire più in alto, di fare di più degli altri, è insaziabile. Rispetto la [[Endurance|resistenza]], la perseveranza, l’impegno, il talento, perché sono questi gli strumenti con cui gli uomini raggiungono grandi obiettivi e raggiungono vette elevate. Seguo con interesse la vostra carriera, perché vi considero un esempio di donna diligente, ordinata, energica, non perché provi davvero compassione per ciò che avete passato, o per ciò che ancora soffrite.”
+
+“Ti descriveresti come un semplice filosofo pagano,” dissi.
+
+“No. C’è questa differenza tra me e i filosofi deisti: io credo; e credo nel Vangelo. Avete mancato il vostro epiteto. Non sono un pagano, ma un filosofo cristiano, un seguace della setta di Gesù. Come suo discepolo, adotto le sue dottrine pure, misericordiose e benevole. Le difendo; ho giurato di diffonderle. La religione, che mi ha conquistato nella giovinezza, ha coltivato le mie qualità innate in questo modo: dalla germoglio naturale dell’affetto umano, ha sviluppato l’albero maestoso della filantropia; dalla radice selvaggia e spinosa dell’integrità umana, ha fatto crescere un senso giusto della giustizia divina. Dall’ambizione di ottenere potere e fama per me stesso, ha formato in me l’ambizione di diffondere il regno del mio Maestro, di conquistare vittorie per lo stendardo della [[Cross|croce]]. Tanto la religione ha fatto per me. Ha trasformato i miei materiali originali nel meglio possibile, li ha potati e plasmati secondo i suoi principi. Ma non è riuscita a eliminare completamente la [[Nature|natura]] umana; né lo sarà mai, finché questo mortale non avrà raggiunto l’[[Immortality|immortalità]].”
+
+Dopo aver detto questo, prese il suo cappello, che era posato sul tavolo accanto alla mia palette. Di nuovo guardò il ritratto.
+
+“È davvero adorabile,” mormorò. “Chiamarla la [[Rose|Rosa]] del Mondo è davvero appropriato!”
+
+“E non potrei dipingerne uno simile per voi?”
+
+“_A chi fa bene_? No.”
+
+Tracciò sopra il dipinto quel foglio di carta sottile su cui ero abituata a appoggiare la mano durante la pittura, per evitare che la cartoncina si sporcasse. Quello che improvvisamente vide su quel foglio bianco, era impossibile per me capirlo; ma qualcosa aveva attirato la sua attenzione. Lo prese in fretta, guardò il bordo del foglio, poi mi lanciò uno sguardo strano, indescrivibilmente particolare e del tutto incomprensibile: uno sguardo che sembrava osservare con attenzione ogni dettaglio della mia figura, del mio viso e del mio abbigliamento; passò su di me rapidamente, con la velocità del [[Lightning|fulmine]]. Le sue labbra si aprirono, come se volesse dire qualcosa, ma trattenne quella frase, qualunque essa fosse.
+
+“Che c’è che non va?” chiesi.
+
+“Niente al mondo”, fu la risposta; e, dopo aver rimesso il foglio al suo posto, lo vidi strappare abilmente un piccolo pezzo di carta dal margine. Quel pezzo scomparve nella sua mano; poi, con un rapido cenno del capo e un “buon pomeriggio”, se ne andò.
+
+“[[Well|Bene]]!”, esclamai, usando un’espressione tipica della zona, “quello che circonda davvero il mondo intero!”
+
+A mia volta esaminai attentamente il foglio di carta; ma non vi vidi nulla se non alcune macchie scure di vernice lasciate dal tentativo di ottenere il colore con la matita. Riflettei per un minuto o due su questo mistero; ma essendone convinto che fosse insolubile e che probabilmente non avesse grande importanza, lo accantonai e presto me ne dimenticai.
 
 
 
@@ -42561,6 +46238,93 @@ in her [[history]] and yours—she left it to be a governess: there, again,
 your fates were analogous; she undertook the [[Education|education]] of the ward of a
 certain Mr. Rochester.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Capitolo XXXIII
+
+
+Quando il signor St. John se ne andò, stava iniziando a [[Snow|nevicare]]; la turbinante [[Storm|tempesta]] continuò per tutta la [[Night|notte]]. Il giorno dopo, un forte [[Wind|>vento]] portò con sé nuove e intense nevicate; al crepuscolo, la valle era completamente coperta di neve e quasi impraticabile. Avevo chiuso le persiane, messo un tappeto davanti alla porta per impedire che la neve entrasse, sistemato il fuoco nel camino. Dopo essere rimasto seduto lì per quasi un’ora ad ascoltare il fragore soffocato della tempesta, accesi una candela e iniziai a leggere “Marmion”.
+
+“Sorse il giorno sulle ripide mura del castello di Norham,
+E il bel fiume [[River|Tweed]] scorreva ampio e profondo,
+E le solitarie montagne di Cheviot si ergevano intorno;
+Le imponenti torri, la fortezza centrale,
+I muri che le circondavano si estendevano a perdita d’occhio,
+Tutti brillavano in un bagliore giallo, ”
+
+
+Ben presto dimenticai l’aspetto “tempestoso” della musica.
+
+Sentii un rumore: pensai fosse il [[Wind|>vento]] che scuoteva la porta. No; era San Giovanni Rivers, che, sollevando il chiavistello, entrò da quel gelido inferno di buio e si fermò davanti a me: il mantello che copriva la sua alta figura era bianco come un ghiacciaio. Ero quasi in preda al panico, poiché non mi aspettavo affatto alcun visitatore in quella notte di oscurità totale.
+
+“Qualche cattiva notizia?”, chiesi. “È successo qualcosa?”
+
+“No. Come siete facilmente allarmabili!” rispose, togliendosi il mantello e appoggiandolo contro la porta; poi, con calma, rimise a posto la stuoia che il suo ingresso aveva spostato. Si pulì la neve dalle scarpe.
+
+“Macchierò la purezza del tuo pavimento,” disse, “ma devi scusarmi questa volta.” Poi si avvicinò al [[Fire|fuoco]]. “Ho faticato molto per arrivare qui,” osservò mentre scaldava le mani sulle fiamme. “Una valanga mi ha trascinato fino alla vita; fortunatamente la [[Snow|neve]] è ancora molto morbida.”
+
+“Ma perché sei venuto?” Non riuscii a trattenermi dal chiedere.
+
+“È piuttosto una domanda inopportuna da porre a un visitatore; ma poiché la poni, rispondo semplicemente perché voglio fare due chiacchiere con te. Mi sono stancato dei miei libri muti e delle stanze vuote. Inoltre, da ieri ho sperimentato l’emozione di una persona a cui è stata raccontata solo metà della storia e che non vede l’ora di conoscere il seguito.”
+
+Si sedette. Ricordai il suo comportamento insolito di ieri e iniziai davvero a [[Fear|temere]] che la sua mente fosse turbata. Tuttavia, se era pazzo, lo era in modo molto calmo e composto: non avevo mai visto quel suo viso così bello e dai tratti regolari assomigliare di più al marmo scolpito di quanto non facesse in quel momento, mentre si scostava i capelli bagnati dalla neve dalla fronte e lasciava che la luce del fuoco illuminasse liberamente le sue sopracciglia e guance pallide. Mi addolorò scoprire quelle tracce evidenti di preoccupazione o dolore incise sul suo volto. Aspettai, sperando che dicesse qualcosa che almeno potessi comprendere; ma teneva la mano sulla mascella, il dito sulle labbra: stava pensando. Mi sembrò che anche quella sua mano fosse “consumata”, proprio come il suo viso. Un’emozione forse inutile di compassione mi invase il cuore. E fui spinta a dire.
+
+“Vorrei che [[Diana]] o Mary venissero a vivere con te: è davvero un peccato che tu sia così [[Alone|sicuro di te stesso]]; inoltre, sei troppo sconsiderato riguardo alla tua salute.”
+
+“Assolutamente no,” disse lui: “Mi prendo cura di me stesso quando è necessario. Ora sto [[Well|bene]]. Cosa vedi che non va in me?”
+
+Questo fu detto con un'indifferenza superficiale e distaccata, che dimostrava che la mia preoccupazione era, almeno secondo lui, del tutto inutile. Rimasi in silenzio.
+
+Continuava a muovere lentamente il dito sulle sue labbra superiori, e i suoi occhi fissavano ancora con sognazione la grata luminosa; pensando che fosse urgente dire qualcosa, gli chiesi se percepisse qualche corrente d’aria fredda provenire dalla porta alle sue spalle.
+
+“No, no!”, rispose brevemente e con un certo tono di impazienza.
+
+“Beh,” riflettei, “se non vuoi parlare, puoi anche stare in silenzio; ti lascio [[Alone|da solo]] ora e torno al mio libro.”
+
+Spensi la candela e ripresi a leggere “Marmion”. Presto si mosse; i miei occhi furono immediatamente attratti dai suoi movimenti: estrasse soltanto un portafoglio di cuoio, ne tirò fuori una lettera che lesse in [[Silence|silenzio]], la ripiegò e la rimise dentro il portafoglio, per poi tornare a meditare. Era inutile provare a leggere con lui così immerso nei suoi pensieri; inoltre, non potevo, per impazienza, restare in silenzio. Poteva respingermi se voleva, ma io avrei parlato comunque.
+
+“Hai avuto notizie recentemente di [[Diana]] e Mary?”
+
+“Non da quando vi ho mostrato quella lettera una settimana fa.”
+
+“Non è stata fatta alcuna modifica ai tuoi piani personali? Non verrai chiamato a lasciare l’Inghilterra prima del previsto, vero?”
+
+“Non ho affatto paura: un'occasione del genere è troppo bella per potermi capitare.” Essendo rimasto perplesso fino a quel momento, cambiai approccio e decisi di parlare della scuola e dei miei studenti.
+
+“La madre di Mary Garrett sta meglio, e Mary è tornata a scuola stamattina. La prossima settimana avrò quattro nuove studentesse provenienti da Foundry Close; sarebbero arrivate oggi se non fosse stato per la [[Snow|neve]].”
+
+“Certamente!”
+
+“Il signor [[Oliver]] paga per due persone.”
+
+"#Non lo so..."
+
+“Intende regalare a tutta la scuola una sorpresa a Natale.”
+
+“Lo so, davvero.”
+
+# Fu forse tua l’idea?
+
+“No.”
+
+“Di chi, allora?”
+
+“Credo sia di sua figlia.”
+
+“È proprio come lei: è davvero di buon carattere.”
+
+“Sì, davvero.”
+
+Di nuovo calò il silenzio: l’[[Clock|orologio]] batté otto colpi. Questo lo svegliò; aprì le gambe, si sedette dritto e si girò verso di me.
+
+“Lascia un attimo il tuo libro e avvicinati un po’ di più al [[Fire|fuoco]],” disse.
+
+Chiedendomi cosa fosse successo, e non trovando fine alla mia [[Wonder|meraviglia]], decisi di assecondare quella richiesta.
+
+“Mezz’ora fa,” proseguì, “ho parlato della mia impazienza di ascoltare la continuazione di questa storia; riflettendoci, ho deciso che sarà meglio se assumo il ruolo del narratore e ti trasformo in un ascoltatore. Prima di iniziare, è giusto avvertirti che la storia potrebbe sembrarti un po’ banale alle tue orecchie; ma dettagli ormai consuetudinari spesso riacquistano freschezza quando vengono raccontati da nuove bocche. Comunque sia, sia che si tratti di qualcosa di già noto o di qualcosa di nuovo, la storia è breve.”
+
+“Venti anni fa, un povero curato – non importa il suo nome in questo momento – si innamorò della figlia di un uomo ricco; anche lei si innamorò di lui e lo sposò, contro il parere di tutti i suoi amici, che quindi la rinnegarono immediatamente dopo il matrimonio. Prima che trascorressero due anni, quei due giovani imprudenti erano entrambi morti e riposavano fianco a fianco sotto lo stesso tumulo. (Ho visto la loro tomba; faceva parte del pavimento di un enorme cimitero circondante l’antica, cupa e nera cattedrale di una città industriale in declino, situata nel ——shire.) Lasciarono una figlia; appena nata, fu accolta tra le braccia di [[Charity]] – fredda come quella della neve nella quale quasi mi impigliavo la notte scorsa. [[Charity]] portò la bambina presso la casa dei suoi ricchi parenti materni; fu cresciuta da una zia, di nome Mrs. Reed di Gateshead. Aspetta – hai sentito un rumore? Probabilmente è solo un topo che si muove sulle travi dell’aula scolastica accanto. Prima era un fienile; l’ho riparato e ristrutturato, ma i fienili di solito sono infestati dai topi, — A proposito. Mrs. Reed tenne con sé l’[[Orphan|orfana]] per dieci anni; non so se fosse felice con lei, perché nessuno me lo ha mai detto. Alla fine di quel periodo, la affidò a un posto che conosci bene: la scuola di Lowood, dove tu stessa hai vissuto a lungo. Sembra che la sua carriera lì sia stata molto onorevole: da studentessa divenne insegnante, proprio come te. In realtà, ci sono molte somiglianze tra la sua storia e la tua. Poi lasciò quella scuola per diventare istituttrice. Anche in questo caso, i vostri destini furono simili. Si occupò dell’educazione della pupilla di un certo signor Rochester, ”
 
 
 
@@ -42962,6 +46726,7 @@ Naturalmente, queste obiezioni aumentarono ancora di più la mia voglia di raggi
 “Ma vi avevo avvertito che sono una persona difficile da convincere”, disse.
 
 “E sono una donna decisa… impossibile da fermare.”
+
 
 # E sono una donna decisa… impossibile da convincere ad aspettare
 
@@ -43377,6 +47142,7 @@ of wintry waste and [[Desert|desert]] dreariness without.
 <span class="qlang-split" data-lang="it"></span>
 
 # Capitolo XXXIV
+
 
 Era vicino a Natale quando tutto fu sistemato: si avvicinava la stagione delle feste generali. Chiusi quindi la scuola di Morton, facendo in modo che il mio addio non fosse privo di significato per loro. La buona fortuna apre la mano tanto quanto il cuore; donare qualcosa quando si è ricevuto molto non è altro che dare sfogo a quell’insolita effusione di sentimenti. Da tempo sapevo con piacere che molti dei miei studenti mi apprezzavano, e al momento del addio quella sensazione fu ancora più confermata: espressero il loro affetto in modo chiaro e sincero. Fu una grande soddisfazione scoprire di avere davvero un posto nei loro cuori semplici e onesti; promisi loro che non sarebbe passata nemmeno una settimana senza che andassi a trovarli, dedicando loro un’ora ogni volta per insegnare nella loro scuola.
 
@@ -44008,6 +47774,50 @@ they were given—to speak Heaven’s message in their ear,—to offer them,
 direct from God, a place in the ranks of His chosen.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Scrissi di nuovo: c'era la possibilità che la mia prima lettera non fosse arrivata. Una nuova [[Hope|>speranza]] nacque insieme a nuovi sforzi; per alcune settimane brillò intensamente, poi, come quella precedente, svanì. Nessuna riga, nessuna parola mi raggiunse. Quando mezzo anno passò in vana attesa, la mia [[Hope|>speranza]] si spense del tutto, e allora mi sentii davvero avvolto nell’oscurità.
+
+Alla fine della [[Spring|primavera]], intorno a me brillava la luce, ma non riuscivo a godermela. Arrivò l’[[Summer|estate]]; [[Diana]] cercò di consolarmi: disse che sembravo malato e volle accompagnarmi in riva al mare. Ma questo San Giovanni si oppose; disse che non volevo divertimenti, ma impegni concreti; la mia vita attuale era troppo priva di scopo, avevo bisogno di un obiettivo preciso. E, forse per colmare questa mancanza, prolungò ulteriormente le mie lezioni di lingua hindi e insistette ancora di più affinché le completassi. Io, come un [[Fool|idiota]], non pensai mai a resistergli. Non avrei potuto farlo comunque.
+
+Un giorno mi recai agli studi in uno stato d’animo più cupo del solito; quella tristezza era causata da una delusione profondamente sentita. Hannah mi aveva detto la mattina che c’era una lettera per me, e quando andai a prenderla, convinto che finalmente avessi ricevuto le notizie tanto attese, trovai soltanto un messaggio insignificante di Mr. Briggs riguardo a questioni lavorative. Quella delusione amara mi aveva fatto versare alcune [[Tears|lacrime]]; e ora, mentre fissavo quelle parole difficili da decifrare e quegli espressioni retoriche tipiche di uno scriba indiano, i miei occhi si riempirono di nuovo di lacrime.
+
+San Giovanni mi chiamò al suo fianco perché leggessi; nel tentativo di farlo, la mia voce mi tradì: le parole si persero tra i singhiozzi. Lui ed io eravamo gli unici presenti nella sala; [[Diana]] stava esercitandosi al pianoforte nel salotto, Mary era in giardino. Era una bellissima giornata di maggio: serena, soleggiata e ventilata. Il mio compagno non mostrò alcuna sorpresa per questa mia emozione, né mi chiese la causa; si limitò a dire.
+
+“Aspetteremo qualche minuto, Jane, finché non ti sarai ripresa.” Mentre cercavo disperatamente di reprimere i singhiozzi, lui rimase seduto tranquillamente e pazientemente, appoggiato alla scrivania, come un medico che osserva con lo sguardo della scienza una crisi prevista e perfettamente compresa nella malattia di un paziente. Dopo essermi calmata, asciugata gli occhi e mormorato qualcosa riguardo al fatto di non stare molto bene quella mattina, ripresi il mio lavoro e riuscii a completarlo. St. John mise via i miei libri e i suoi, chiuse la scrivania e disse.
+
+Ora, Jane, farai una passeggiata… e con me.
+
+“Chiamerò [[Diana]] e Mary.”
+
+“No; stamattina voglio solo un compagno, e quella devi essere tu. Mettiti le tue cose, esci dalla porta della cucina, prendi la [[Road|strada]] che conduce alla parte iniziale di Marsh Glen: ti raggiungerò tra poco.”
+
+Non conosco alcun “medium”: nella mia vita non ho mai incontrato nessuno che potesse aiutarmi nel rapporto con personaggi positivi ma decisi, antagonisti nei miei confronti, tra sottomissione assoluta e ribellione risoluta. Ho sempre osservato fedelmente una linea di condotta, fino al momento in cui, a volte con violenza esplosiva, ne abbandonavo un'altra; poiché né le circostanze del momento né il mio umore mi spingevano a ribellarmi, ho rispettato attentamente le istruzioni di San Giovanni. E dieci minuti dopo ero già sul sentiero selvaggio della valle, al suo fianco.
+
+La brezza soffiava da ovest: arrivava dalle colline, dolce e profumata di erica e giunchi; il cielo era di un blu intenso; il ruscello che scendeva dalla valle, gonfio delle piogge primaverili appena trascorse, scorreva abbondante e limpido, riflettendo i raggi dorati del sole e i toni azzurri del firmamento. Mentre avanzavamo lasciando il sentiero, calpestavamo un tappeto erboso morbido, fine come muschio e di un verde smeraldo; quel prato era ricoperto in modo minuzioso da piccoli fiori bianchi e da boccioli gialli simili a stelle. Le colline, intanto, ci circondavano completamente; la valle, infatti, si snodava fino al loro cuore stesso.
+
+“Riposiamo qui,” disse San Giovanni quando raggiungemmo i primi massi di una formazione rocciosa che custodivano un passo naturale; oltre di esso, il ruscello si gettava in una cascata; ancora più avanti, la montagna, priva di erba e fiori, presentava solo brughiera come “veste” e scogliere come “gemme”. Un luogo che esagerava nella selvaggia bellezza del paesaggio, trasformando ciò che era fresco e sereno in qualcosa di cupo e minaccioso. Un rifugio ultimo per l’[[Hope|>speranza]] perduta dell’[[Solitude|solitudine]] e per il [[Silence|silenzio]].
+
+Mi misi a sedere: San Giovanni stava accanto a me. Alzò lo sguardo verso la cresta della montagna e poi verso la valle; il suo sguardo seguì il corso del ruscello, per poi tornare ad ammirare il cielo sereno che lo illuminava; si tolse il cappello, lasciando che la brezza muovesse i suoi capelli e baciasse sua fronte. Sembrava in comunione con l’essenza stessa di quel luogo: con lo sguardo salutò qualcosa.
+
+“E lo rivedrò ancora,” disse ad alta voce, “nei [[Dreams|>sogni]] quando dormirò vicino al Gange; e ancora una volta, in un momento più lontano, quando un altro sonno mi colpirà, sulla riva di un fiume ancora più oscuro!”
+
+Parole strane di un amore strano. La passione di un patriota austero per la sua patria. Si sedette; per mezz’ora non parlammo affatto, né lui con me né io con lui. Dopo quel lasso di tempo, riprese a parlare.
+
+“Jane, parto tra sei settimane; ho già prenotato il mio posto su una nave delle Indie Orientali che salpa il 20 giugno.”
+
+“Dio ti proteggerà; perché hai intrapreso il Suo compito,” risposi.
+
+“Sì,” disse, “questa è la mia gloria e la mia gioia. Sono il servo di un Maestro infallibile. Non esco sotto la guida degli esseri umani, soggetto alle leggi imperfette e al controllo errato dei miei deboli simili: il mio [[King|re]], colui che stabilisce le leggi, il mio comandante, è l’Infinitamente Perfetto. Mi sembra strano che intorno a me nessuno abbia il desiderio di unirsi a noi sotto lo stesso stendardo, di partecipare alla stessa impresa.”
+
+“Nessuno possiede i tuoi poteri, e sarebbe follia per i deboli desiderare di marciare al fianco dei forti.”
+
+“Non parlo con i deboli, né penso a loro; mi rivolgo soltanto a coloro che sono degni di questo compito e in grado di portarlo a termine.”
+
+“Sono pochi in numero e difficili da individuare.”
+
+“Dici il vero; ma quando vengono scoperti, è giusto stimolarli, incoraggiarli e esortarli ad impegnarsi, far loro comprendere quali siano i loro doni e perché siano stati dati loro, comunicare loro il messaggio del Cielo, offrire loro, direttamente da Dio, un posto tra le file dei Suoi eletti.”
+
 
 
 <span class="atom-split" data-atom="chapter_34--part_06" data-title="Jane Eyre — Chapter 34 (part 6)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/death,motif/dust,motif/grave,motif/love,motif/nature,motif/soul,motif/time,motif/well,concept/doubt,concept/fear,concept/humility,concept/mercy,concept/nature,concept/providence,concept/sublime,character/jane_eyre"></span>
@@ -44184,6 +47994,7 @@ Aveva già previsto queste prime obiezioni; non erano affatto irritanti per lui.
 Il mio “manto di ferro” mi avvolgeva completamente; la [[Persuasion|persuasione]] avanzava con passi lenti ma sicuri. Per quanto chiudessi gli occhi, queste ultime parole sue riuscivano a rendere relativamente chiaro ciò che sembrava bloccato. Il mio lavoro, che prima appariva così vago e disperatamente diffuso, si concentrava man mano che lui procedeva, assumendo una forma definita sotto la sua guida. Lui aspettava una risposta; io chiesi un quarto d’ora per riflettere, prima di osare rispondere di nuovo.
 
 “Con grande piacere,” rispose; poi si alzò e camminò per un po’ lungo il sentiero, si sdraiò su un mucchio di erica e rimase immobile lì.
+
 
 Si gettò su un mucchio di brughiera e rimase immobile lì.
 
@@ -44489,6 +48300,62 @@ And with that answer he left me. I would much rather he had knocked me
 down.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Devo farlo?” dissi brevemente; e osservai i suoi tratti: belli nella loro armonia, ma stranamente imponenti nella loro severità; la sua fronte, autoritaria ma non aperta; i suoi occhi, luminosi, profondi e penetranti, ma mai dolci; la sua figura alta e imponente. E mi immaginai, in quel ruolo, come sua moglie. Oh! Non sarebbe mai andato bene. Come suo curato, come suo compagno, tutto sarebbe stato giusto: avrei attraversato oceani con lui in quella veste; avrei lavorato sotto i soli orientali, nei deserti asiatici, nell’ambito di quel ruolo; avrei ammirato e imitato il suo coraggio, la sua devozione, la sua forza. Avrei accettato silenziosamente la sua autorità; avrei sorriso senza turbamento alla sua ambizione inestinguibile. Avrei distinto tra il cristiano e l’uomo: avrei rispettato profondamente il primo e perdonato liberamente il secondo. Sì, avrei sofferto spesso. Ma legata a lui soltanto in quel ruolo. Il mio corpo sarebbe stato sottoposto a una sorta di “giogo” stretto. Ma il mio cuore e la mia mente sarebbero stati liberi. Avrei ancora avuto me stessa, intatta. I miei sentimenti naturali, con cui comunicare nei momenti di solitudine. Ci sarebbero stati angoli del mio cuore soltanto miei. A cui lui non avrebbe mai potuto accedere. Sentimenti che la sua severità non avrebbe mai potuto distruggere. Ma essere sua moglie. Essere sempre al suo fianco. Ma dover reprimere costantemente il “fuoco” della mia natura. Costringerlo a bruciare dentro di me, senza mai emettere un grido. Anche se quella fiamma imprigionata consumava tutto ciò che era più prezioso in me. Questo. Sì, questo sarebbe stato insopportabile.
+
+“San Giovanni!” esclamai quando fui giunto a quel punto nella mia meditazione.
+
+“[[Well|Beh]]?” rispose lui con tono gelido.
+
+“Ripeto: acconsento liberamente ad andare con te come tua compagna di missione, ma non come tua moglie; non posso sposarti e diventare parte di te.”
+
+“Una parte di me devi diventare tu,” rispose con fermezza; “altrimenti l’intero accordo è nullo. Come posso io, un uomo che non ha ancora trent’anni, portare in India una ragazza di diciannove anni, se non siamo sposati? Come possiamo stare insieme per sempre – a volte da soli, a volte tra tribù selvagge – senza essere sposati?”
+
+“Molto bene,” dissi brevemente; “date le circostanze, altrettanto bene come se fossi tua sorella biologica, o un uomo e un prete come te.”
+
+“È noto che tu non sei mia sorella; non posso presentarti come tale: tentare di farlo significherebbe suscitare sospetti dannosi su entrambe. E inoltre, anche se possiedi un’intelligenza decisa da uomo, hai un cuore da donna, e questo non andrebbe affatto bene.”
+
+“Sarebbe sufficiente,” affermai con un certo disprezzo, “perfettamente [[Well|bene]]. Ho il cuore di una donna, ma non per quanto ti riguarda; per te ho soltanto la lealtà di un compagno, la franchezza e la fedeltà di un soldato, se vuoi. Il rispetto e la sottomissione di un neofita verso il suo maestro: nient’altro. Non [[Fear|temere]].”
+
+“È esattamente ciò che voglio,” disse, parlando da solo; “è proprio quello che desidero. E ci sono degli ostacoli sul cammino: devono essere eliminati. Jane, non te ne pentirai di avermi sposato. Ne sei sicura? Dobbiamo assolutamente sposarci. Lo ripeto: non c’è altra via; e senza dubbio, l’[[Love|amore]] che seguirà all’[[Marriage|matrimonio]] renderà questa unione giusta anche ai tuoi occhi.”
+
+“Disprezzo la tua idea di [[Love|amore]]”, non potei fare a meno di dire, mentre mi alzavo e mi fermai davanti a lui, appoggiandomi alla roccia. “Disprezzo quel sentimento falso che offri: sì, San Giovanni, e ti disprezzo anche quando lo offri tu.”
+
+Mi guardava fissamente, stringendo le sue labbra ben disegnate mentre lo faceva.  
+Se fosse stato arrabbiato o sorpreso, o qualcos'altro, non era facile capirlo: riusciva a controllare completamente il proprio volto.
+
+“Non mi aspettavo affatto di sentire quell’espressione da parte tua,” disse: “Penso di non aver fatto né detto nulla che meriti disprezzo.”
+
+Fui commosso dal suo tono gentile e affascinato dal suo aspetto sereno e dignitoso.
+
+“Perdonami queste parole, San Giovanni; ma è colpa tua se mi sono sentito spinto a parlare in modo così imprudente. Hai sollevato un argomento su cui le nostre nature sono in disaccordo: un argomento che non dovremmo mai discutere. Il solo nome di [[Love|amore]] rappresenta già una fonte di discordia tra noi. Se dovesse essere necessario affrontare la realtà di ciò che significa l’amore, cosa dovremmo fare? Come dovremmo sentirci? Mio caro cugino, abbandona il tuo progetto di [[Marriage|matrimonio]], dimenticalo.”
+
+“No,” disse lui; “è un piano a lungo desiderato, l’unico che possa realizzare il mio grande obiettivo. Ma per ora non insisterò ulteriormente. Domani lascio la [[Home|casa]] per Cambridge: ho molti amici lì con cui vorrei salutarmi. Sarò assente per due settimane. Prenditi questo tempo per riflettere sulla mia proposta. E non dimenticare che, se la rifiuti, non sei tu a negarmi, ma Dio. Attraverso i miei mezzi, Lui ti apre una nobile strada nella vita; solo come mia moglie puoi percorrerla. Rifiutare di diventare mia moglie significa condannarti per sempre a una vita di egoismo e oscurità. Tremi: in quel caso saresti tra coloro che hanno rinnegato la [[Faith|fede]], e sono peggio degli infedeli!”
+
+#Si era girato e se n’era andato. Di nuovo, mi aveva voltato le spalle…
+
+“Guardò verso il [[River|fiume]], guardò verso la [[Hill|collina]].”
+
+
+Ma questa [[Time|volta]] i suoi sentimenti rimasero tutti chiusi nel suo cuore: non ero degna di ascoltare le parole che avrebbe potuto pronunciare. Mentre camminavo al suo fianco verso casa, lessi chiaramente nella sua ferrea [[Silence|silenzio]] tutto ciò che provava per me: la delusione di una natura austera e dispotica che aveva incontrato resistenza laddove si aspettava sottomissione; il disapprovamento di un giudizio freddo e inflessibile che scopriva in un altro essere sentimenti e opinioni con cui non poteva simpatizzare. In breve, come uomo, avrebbe voluto costringermi all’obbedienza; ma solo come sincero cristiano sopportava così pazientemente la mia perversità, concedendomi tanto tempo per riflettere e pentirmi.
+
+Quella [[Night|notte]], dopo aver baciato le sue sorelle, pensò fosse opportuno dimenticarsi persino di stringermi la mano e lasciò la stanza in [[Silence|silenzio]]. Io – che, sebbene non provassi [[Love|amore]] per lui, nutrivo grande [[Friendship|amicizia]] nei suoi confronti – fui ferito da questa palese omissione: così ferito che mi vennero le [[Tears|lacrime]] agli occhi.
+
+“Vedo che tu e San Giovanni avete litigato, Jane,” disse [[Diana]], “durante la vostra passeggiata sulla brughiera. Ma vai da lui: adesso è ancora nel corridoio ad aspettarti; si rimetterà tutto a posto.”
+
+In circostanze del genere non provo molta [[Pride|orgoglio]]; preferirei sempre essere felice piuttosto che dignitoso. E l’ho inseguito: stava ai piedi delle scale.
+
+“Buona [[Night|notte]], San Giovanni,” dissi io.
+
+“Buona [[Night|notte]], Jane,” rispose lui con calma.
+
+“Allora stringetevi la mano,” aggiunsi.
+
+Che tocco freddo e distaccato. Quanto mi ha fatto male sulle dita! Era profondamente scontento di ciò che era accaduto quel giorno; né la cordialità né le [[Tears|lacrime]] avrebbero potuto commuoverlo. Non c’era alcuna possibilità di una felice [[Reconciliation|riconciliazione]] con lui: nessun sorriso gioioso, nessuna parola generosa. Eppure il cristiano rimase paziente e sereno; quando gli chiesi se mi perdonasse, rispose che non aveva l’abitudine di ricordare i dispiaceri subiti. Non c’era nulla da perdonare, poiché non era stato offeso.
+
+E con quella risposta se ne andò. Avrei preferito che mi colpisse, piuttosto.
+
 
 
 <span class="atom-split" data-atom="chapter_35--part_01" data-title="Jane Eyre — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/blood,motif/desire,motif/fire,motif/garden,motif/home,motif/love,motif/moon,motif/nature,motif/night,motif/tears,motif/time,concept/conscience,concept/fear,concept/friendship,concept/hope,concept/nature,concept/pride,concept/reconciliation,concept/suffering,character/jane_eyre"></span>
@@ -44618,6 +48485,63 @@ tenacious surface another and far deeper impression: I had burnt it in.
 “Now you will indeed hate me,” I said. “It is useless to attempt to
 conciliate you: I see I have made an eternal enemy of you.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XXXV
+
+
+Non partì per Cambridge il giorno seguente, come aveva detto che avrebbe fatto. Rimandò la sua partenza di un’intera settimana, e in quel [[Time|periodo]] fece sì che io comprendessi quale severa punizione un uomo buono ma rigoroso, coscienzioso ma implacabile possa infliggere a chi lo ha offeso. Senza alcun atto ostile evidente, senza una parola di rimprovero, riuscì a farmi sentire in ogni momento che ero stato escluso dalla sua considerazione favorevole.
+
+Non che San Giovanni nutrisse un animo vendicativo non cristiano. Non che avrebbe mai fatto del male anche solo a un capello della mia testa, se ne fosse stato completamente in suo potere. Sia per natura che per principio, era al di sopra di quella meschina soddisfazione derivante dalla vendetta: mi aveva perdonato per aver detto che lo disprezzavo e il suo [[Love|amore]], ma non aveva dimenticato quelle parole; e finché lui e io fossimo vissuti, non le avrebbe mai dimenticate. Nei suoi sguardi, quando si rivolgeva a me, si poteva vedere che quelle parole erano sempre presenti nell’aria tra di noi; ogni volta che parlavo, risuonavano nella mia voce alle sue orecchie, e il loro eco modulava ogni sua risposta.
+
+Non si astenne dal conversare con me: anzi, come al solito, ogni mattina mi chiamava per che lo raggiungessi alla sua scrivania; e temo che quell’uomo corrotto dentro di lui provasse un piacere che il cristiano puro non avrebbe mai potuto condividere: il piacere di riuscire, con grande abilità, a far emergere da ogni azione e da ogni frase lo spirito di interesse e approvazione che in passato conferivano un certo fascino austero al suo modo di parlare e di comportarsi. Per me, in realtà, non era più carne, ma marmo; i suoi occhi erano pietre preziose fredde e luminose; la sua lingua, nient’altro che uno strumento per parlare.
+
+Tutto questo rappresentava per me una tortura – una tortura lenta e persistente. Continuava a alimentare in me un fuoco lento di indignazione e un dolore tremendo che mi tormentava e mi distruggeva completamente. Pensavo: se fossi sua moglie, quest’uomo buono, puro come una sorgente profonda e senza luce, potrebbe uccidermi facilmente, senza che nemmeno una goccia del mio [[Blood|sangue]] venisse versata, né che la sua cristallina [[Conscience|conscienza]] venisse macchiata anche solo minimamente dal peccato. Questo sentimento si rafforzava ogni volta che cercavo di compiacerlo. Ma la mia compassione non trovava riscontro nella sua. Lui non provava alcun [[Suffering|dolore]] a causa della nostra distanza, nessun desiderio di [[Reconciliation|riconciliazione]]; e anche se più volte le mie lacrime bagnavano la pagina su cui entrambi leggevamo, esse non avevano su di lui alcun effetto. Come se il suo cuore fosse davvero fatto di pietra o metallo. Con le sue sorelle, invece, era un po’ più gentile del solito. Forse temeva che una semplice freddezza non fosse sufficiente a dimostrarmi quanto fossi completamente esclusa dalla sua vita; quindi aggiungeva ulteriore evidenza al contrasto. E sono sicura che lo facesse non per malizia, ma per principio.
+
+La [[Night|notte]] prima che partisse da [[Home|casa]], lo vidi per caso camminare nel [[Garden|giardino]] al tramonto, e ricordai che quell’uomo, ormai così distante da me, un tempo mi aveva salvato la vita e che eravamo quasi parenti. Così decisi di fare un ultimo tentativo per riconquistare la sua [[Friendship|amicizia]]. Uscii e mi avvicinai a lui mentre stava appoggiato al piccolo cancello; andai subito al punto.
+
+“San Giovanni, sono infelice perché sei ancora arrabbiato con me. Siamo amici, per favore.”
+
+“Spero che siamo amici,” fu la risposta impassibile; mentre continuava a osservare l’alba della [[Moon|luna]], su cui aveva riflettuto mentre mi avvicinavo.
+
+“No, San Giovanni, non siamo più amici come una volta… Lo sai bene.”
+
+“Non è così… Per quanto mi riguarda, non desidero nulla di male per voi, ma solo il meglio.”
+
+“Credo in te, San Giovanni; sono certa che tu non sappia augurare del male a nessuno; ma poiché sono tua parente, vorrei ricevere un po’ più di affetto di quella sorta di generosità che dimostri verso semplici estranei.”
+
+“Certo,” disse lui. “Il tuo desiderio è ragionevole, e non ti considero affatto uno sconosciuto.”
+
+Queste parole, pronunciate con un tono freddo e tranquillo, erano sufficientemente umilianti e confusive. Se avessi ascoltato i suggerimenti dell’[[Pride|orgoglio]] e della rabbia, lo avrei lasciato immediatamente; ma qualcosa dentro di me era più forte di quei sentimenti. Rispettavo profondamente il talento e i principi del mio cugino; la sua [[Friendship|amicizia]] aveva per me un grande valore: perderla mi avrebbe colpito duramente. Non avrei rinunciato così facilmente al tentativo di riconquistarla.
+
+“Dobbiamo davvero separarci in questo modo, San Giovanni? E quando andrai in India, mi lascerai così, senza una parola gentile da parte tua?”
+
+Ora si era completamente girato lontano dalla [[Moon|luna]] e mi stava di fronte.
+
+“Quando andrò in India, Jane… ti lascerò? Ma che dici… non vai in India?”
+
+“Hai detto che non potevo farlo se non mi sposavo con te.”
+
+“E non mi sposerai mai! Mantieni davvero questa decisione?”
+
+Lettore, sai anche tu, come lo so io, quale terrore possano suscitare quelle persone fredde con le loro domande gelide? Quanto della caduta di una valanga sia dovuta alla loro rabbia? Quanto dello scioglimento del mare ghiacciato sia causato dal loro disappunto?
+
+“No, San Giovanni, non ti sposerò. Mantengo la mia decisione.”
+
+L’avalanche si era mosso leggermente in avanti, ma non era ancora crollata.
+
+“Un'altra volta, perché questo rifiuto?” chiese.
+
+“In passato,” risposi, “perché non mi [[Love|_amavi]]; ora, invece, perché quasi mi odi. Se ti sposassi, mi uccideresti. E già ora, mi stai uccidendo.”
+
+Le sue labbra e le sue guance divennero bianche, molto bianche.
+
+“Dovrei ucciderti. Invece ti sto uccidendo? Le tue parole sono indegne di essere pronunciate: violente, disumane e false. Rivelano uno stato mentale infelice; meritano una severa condanna. Sembrirebbero inescusabili, ma è dovere dell’uomo perdonare il proprio prossimo, anche settantasette volte.”
+
+Ora avevo concluso quella faccenda. Anche se desideravo ardentemente cancellare dalla sua mente ogni traccia del mio precedente errore, in realtà avevo lasciato su di essa un'impronta ancora più profonda e indelebile: l’avevo “bruciata” dentro di lui.
+
+“Ora mi odierai davvero,” dissi. “È inutile cercare di riconciliarci: capisco di avermi fatto un nemico per l’eternità.”
 
 
 
@@ -44762,6 +48686,84 @@ you force yourself to perform. I am astonished you found [[Courage|courage]] to
 refuse his hand. You do not [[Love|love]] him then, Jane?”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Un nuovo errore fu causato da queste parole; il peggio era che toccavano la [[Truth|_verità]]. Quel labbro inespressivo tremò per un attimo. Sapevo quale furia intensa avevo suscitato. Ero distrutto.
+
+“Interpreti completamente male le mie parole,” dissi, afferrandogli immediatamente la mano:  
+“Non ho alcuna intenzione di rattristarti o di farti soffrire. Anzi, non l’ho affatto.”
+
+Sorrise con amarezza; poi, con decisione, ritirò la sua mano dalla mia.  
+“E ora ricordi la tua promessa, e non andrai affatto in India, presumo?” disse, dopo una lunga pausa.
+
+“Sì, lo farò, come tua assistente,” risposi.
+
+Seguì un lungo [[Silence|silenzio]]. Quale lotta interiore avvenisse in lui in quel momento tra la [[Nature|>Natura]] e la Grazia, non posso dirlo: solo strani bagliori lampeggiavano nei suoi occhi, e ombre misteriose passavano sul suo viso. Alla fine parlò.
+
+“Già una volta vi ho dimostrato l’assurdità del fatto che una donna della vostra età proponga di accompagnare all’estero un uomo come me. Vi l’ho spiegato in termini tali da ritenere che avrebbero dovuto impedirvi per sempre di menzionare di nuovo quell’idea. Mi dispiace che lo abbiate fatto, per vostro bene.”
+
+Lo interruppi. Qualsiasi forma di rimprovero concreto mi diede immediatamente [[Courage|coraggio]]. “Rimani con i piedi per terra, San Giovanni: stai quasi dicendo sciocchezze. Fingi di essere scioccato da ciò che ho detto, ma in realtà non lo sei; con la tua intelligenza superiore, non potresti mai essere così ottuso o presuntuoso da fraintendere il mio significato. Ripeto: posso essere la tua curatrice, se vuoi, ma mai tua moglie.”
+
+Di nuovo impallidì terribilmente; ma, come prima, riuscì a controllare perfettamente la propria passione. Rispose in modo deciso, ma con calma.
+
+“Una curatrice donna, che non sia mia moglie, non mi sarebbe mai adatta. Quindi, a quanto pare, tu non puoi venire con me. Ma se il tuo invito è sincero, parlerò, mentre sono in città, con un missionario sposato la cui moglie ha bisogno di un aiutante. La tua stessa fortuna ti renderà indipendente dall’aiuto della Società; e così potrai evitare l’umiliazione di rompere la tua promessa e abbandonare il gruppo al quale avevi deciso di unirti.”
+
+Ora, come il lettore sa, non avevo mai ricevuto alcuna promessa formale né assunto alcun impegno; inoltre, quel linguaggio era decisamente troppo difficile e troppo autoritario per l’occasione. Risposi.
+
+“In questo caso non c’è alcuna mancanza di onore, nessun tradimento di promesse, nessuna abbandono. Non ho la minima obbligazione di andare in India, soprattutto con degli sconosciuti. Con te avrei osato molto di più, perché ti ammiro, mi fido di te e, come sorella, [[Love|ti amo]]; ma sono convinta che, qualunque sia il momento o la persona con cui andassi, non sopravviverei a lungo in quel clima.”
+
+“Ah! Hai paura di te stesso,” disse, arricciando le labbra.
+
+“Lo sono. Dio non mi ha dato la vita per buttarla via; e agire come vorresti che facessi, comincio a pensare, sarebbe quasi equivalente a commettere [[suicide|suicidio]]. Inoltre, prima di decidere definitivamente di lasciare l’Inghilterra, voglio essere sicuro che rimanendovi non possa essere più utile di andandomene.”
+
+“Cosa intendi dire?”
+
+“Sarebbe inutile tentare di spiegare; ma c’è una questione riguardo alla quale da tempo soffro di dolorosi [[Doubt|>dubbi]], e non posso andare avanti finché questi dubbi non verranno eliminati in qualche modo.”
+
+“So dove si dirige il tuo cuore e a cosa si attacca. L’interesse che nutri è illegittimo e non consacrato. Da tempo avresti dovuto distruggerlo; ora dovresti arrossire solo a menzionarlo. Pensi al signor Rochester?”
+
+Era vero. Lo ammisi attraverso il [[Silence|silenzio]].
+
+# Cercherai il signor Rochester?
+
+Devo scoprire cosa ne è stato di lui.
+
+“Allora tocca a me,” disse, “ricordarti nelle mie preghiere e implorare Dio con tutto il cuore affinché tu non diventi davvero un naufrago. Pensavo di aver riconosciuto in te uno dei prescelti. Ma Dio non vede come l’uomo: la Sua volontà si compirà.”
+
+Aprì il cancello, lo attraversò e si allontanò lungo la valle. Presto scomparve dalla vista.
+
+Rientrando nel salotto, trovai [[Diana]] in piedi vicino alla [[Window|finestra]], con un'espressione molto pensierosa. [[Diana]] era molto più alta di me: mi mise una mano sulla spalla e, chinandosi, esaminò il mio viso.
+
+“Jane,” disse lei, “ora sei sempre agitata e pallida. Sono sicura che ci sia qualcosa che non va. Dimmi di cosa vi occupate tu e St. John. Ti ho osservata per mezz’ora dalla [[Window|finestra]]; devi scusarmi se mi comporto come una spia, ma da molto tempo ho l’impressione di non sapere davvero nulla. St. John è un uomo strano, ”
+
+Si fermò; io non dissi nulla: presto riprese a parlare.
+
+“Quel mio fratello nutre sicuramente opinioni particolari su di te: da tempo ti ha riservato attenzione e interesse che non ha mai mostrato per nessun altro. Ma a quale scopo? Vorrei che ti amasse. Ti ama davvero, Jane?”
+
+“Posai la sua mano fresca sulla mia fronte calda; ‘No, non morire… per niente.’”
+
+“Allora perché ti segue con lo sguardo in quel modo, perché ti fa restare così spesso [[Alone|da sola]] con lui e perché ti tiene sempre al suo fianco? Sia Mary che io avevamo concluso che desiderasse che tu lo sposassi.”
+
+“Mi ha chiesto di diventare sua moglie.”
+
+[[Diana]] batté le mani. “È esattamente ciò che speravamo e pensavamo! E tu sposerai lui, Jane, vero? Così lui rimarrà in Inghilterra.”
+
+“Niente affatto, [[Diana]]; l’unica sua intenzione nel chiedermi di sposarlo è quella di trovare un compagno adatto per aiutarlo nei suoi lavori in India.”
+
+“Cosa? Vuole che tu vada in India?”
+
+“Sì, davvero.”
+
+“[[Madness|Pazzia]]!”, esclamò. “Non sopravvivresti nemmeno tre mesi lì, ne sono certa. Non andrai mai: non hai dato il tuo consenso, vero, Jane?”
+
+# Ho rifiutato di sposarlo…
+
+“E quindi l’ho offeso?” suggerì lei.
+
+“Profondamente. Lui non mi perdonerà mai; ho [[Fear|>paura]], ma ho comunque offerto di accompagnarlo come sua sorella.”
+
+“È stata una follia estrema farlo, Jane. Pensa al compito che ti sei assunta: uno sforzo continuo e incessante, un lavoro che uccide persino i più forti. E tu sei debole. San Giovanni, lo conosci bene, ti spingerebbe sempre verso impossibilità; con lui non ci sarebbe mai il permesso di riposare nelle ore più calde. E purtroppo, ho notato che, qualunque cosa ti chiedesse, tu ti sforzi comunque di farla. Sono sorpresa che tu abbia trovato il [[Courage|coraggio]] di rifiutare la sua proposta. Allora, non lo [[Love|ami]] davvero, Jane?”
+
 
 
 <span class="atom-split" data-atom="chapter_35--part_03" data-title="Jane Eyre — Chapter 35 (part 3)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/city,motif/death,motif/fire,motif/garden,motif/journey,motif/lamb,motif/love,motif/marriage,motif/moon,motif/night,motif/pain,motif/prayer,motif/rose,motif/tears,motif/time,motif/well,motif/window,concept/doubt,concept/greatness,concept/honour,concept/longing,concept/pride,concept/suffering,histref/bible,character/diana,character/jane_eyre"></span>
@@ -44885,6 +48887,48 @@ give you strength to choose that better part which shall not be taken
 from you!”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Non come marito.”
+
+“Eppure è un bell’uomo.”
+
+“E sono così ordinaria, capisci… Non potremmo mai andare d’accordo.”
+
+“Semplice. Tu? Assolutamente no. Sei troppo bella, e anche troppo gentile, per essere arrostita viva a Calcutta.” E ancora una volta mi esortò con sincerità ad abbandonare l’idea di uscire con suo fratello.
+
+“Devo davvero farlo,” dissi; “perché poco fa, quando ripetei l’offerta di servirlo come diacono, lui si mostrò scioccato dalla mia mancanza di decoro. Sembrava pensasse che avessi commesso un errore proponendomi di accompagnarlo senza essere sposata: come se fin dall’inizio non avessi sperato di trovarci in lui un fratello e lo considerassi sempre tale.”
+
+“Perché dici che lui non ti [[Love|ama]], Jane?”
+
+“Dovresti sentire come parla sull’argomento. Ha ripetutamente spiegato che non è lui stesso, ma il suo ufficio ciò che desidera ‘accoppiare’. Mi ha detto che sono fatta per il lavoro, non per l’[[Love|amore]]. Il che è vero, senza alcun [[Doubt|>dubbio]]. Ma, a mio parere, se non sono fatta per l’[[Love|amore]], allora significa anche che non sono fatta per il [[Marriage|mattrimono]]. Non sarebbe strano, Dio mio, essere incatenata per tutta la vita a un uomo che considera una donna soltanto uno strumento utile?”
+
+“Inaccettabile… innaturale… assolutamente impossibile!”
+
+“E poi,” continuai, “anche se ora provo per lui solo affetto fraterno, tuttavia, se fossi costretta a diventare sua moglie, potrei immaginare di sviluppare verso di lui un tipo di [[Love|amore]] inevitabile, strano e tormentoso, perché è davvero molto talentuoso; nel suo aspetto, nei suoi modi e nelle sue conversazioni c’è spesso una certa grandezza eroica. In quel caso, la mia sorte diventerebbe indescrivibilmente tragica. Lui non vorrebbe che lo [[Love|amassi]]; e se mostrassi tale sentimento, lui mi farebbe capire che è superfluo, non necessario per lui e inappropriato da parte mia. Lo so che lo farebbe.”
+
+“Eppure San Giovanni è un uomo buono,” disse [[Diana]].
+
+“È un uomo buono e grande; ma, spietatamente, dimentica i sentimenti e le esigenze delle persone comuni nel perseguire i propri grandi obiettivi. Pertanto, è meglio che coloro che non contano nulla evitino di intralciarlo, affinché, nel suo cammino, non li calpesti. Ecco che arriva! Vi lascio, [[Diana]].” E mi affrettai a salire le scale non appena lo vidi entrare nel [[Garden|>jardino]].
+
+Ma fui costretta a incontrarlo di nuovo a cena. Durante quel pasto sembrava altrettanto composto come al solito. Pensavo che difficilmente avrebbe parlato con me e ero certa che avesse abbandonato ogni intenzione riguardo al suo piano matrimoniale; invece, le cose si rivelarono diverse in entrambi i casi. Mi rivolse esattamente nel solito modo, o meglio, nel modo che di recente era diventato il suo solito modo: estremamente educato e cortese. Non c’era alcun dubbio che avesse chiesto l’aiuto dello Spirito Santo per reprimere la rabbia che gli avevo suscitato, e ora credeva di avermi perdonata nuovamente.
+
+Per la lettura serale prima delle preghiere, scelse il ventunesimo capitolo dell’Apocalisse. Era sempre piacevole ascoltarlo mentre dalle sue labbra uscivano le parole della [[Bible|Bibbia]]: mai la sua bella voce suonò così dolce e piena; mai il suo modo di esprimersi fu più incisivo nella sua nobile semplicità, come quando recitava gli oracoli di Dio. Di notte, quella voce assumeva un tono ancora più solenne; quel modo di esprimersi, un significato ancora più commovente. Mentre sedeva al centro del suo circolo familiare (la luna di maggio brillava attraverso la finestra aperta, rendendo quasi inutile la luce della candela sul tavolo), mentre si chinava sulla vecchia e maestosa [[Bible|Bibbia]] e ne descriveva le visioni del nuovo cielo e della nuova terra, raccontava di come Dio sarebbe venuto a vivere con gli uomini, di come avrebbe cancellato tutte le [[Tears|lacrime]] dai loro occhi, e prometteva che non ci sarebbero più stata [[Death|morte]], né dolore né pianto, né alcun altro [[Pain|dolore]], perché tutto ciò che era stato prima era ormai passato.
+
+Le parole che seguirono mi emozionarono in modo strano mentre le pronunciava; soprattutto perché, attraverso quel lieve e indescrivibile cambiamento nel tono della voce, percepii che, mentre le diceva, i suoi occhi si erano rivolti verso di me.
+
+“Colui che vince erediterà tutte le cose; e io sarò il suo Dio, e lui sarà mio figlio. Ma,” fu letto lentamente e chiaramente, “quelli che temono, quelli che non credono, ecc., avranno la loro parte nel lago che arde di [[Fire|fuoco]] e zolfo, che è la seconda [[Death|morte]].”
+
+Da quel momento in poi, capii quale destino San Giovanni temesse per me.
+
+Un trionfo calmo e sobrio, mescolato con una sincera [[Longing|desiderio]], caratterizzava la sua recitazione degli ultimi versi gloriosi di quel capitolo. Il lettore credeva che il suo nome fosse già scritto nel libro della vita del [[Lamb|>Agnello]], e anelava all’ora in cui gli sarebbe stato concesso l’ingresso nella [[City|>città]] verso la quale i re della terra portano la loro gloria e il loro [[Honour|'onore]]; una città che non ha bisogno di sole o [[Moon|luna]] per brillare, perché la gloria di Dio la illumina, e l’[[Lamb|>Agnello]] ne è la luce.
+
+Nella [[prayer|preghiera]] che seguiva quel capitolo, tutta la sua energia si concentrò; tutto il suo fervore si risvegliò: era profondamente sincero, lottava con Dio e si era deciso a raggiungere il proprio scopo. Pregò per ottenere forza per coloro dal cuore debole, guida per coloro che si erano allontanati dalla retta via; chiese che coloro che venivano tentati dal mondo e dalla carne tornassero sulla strada giusta, anche all’ultimo momento. La sincerità nella preghiera è sempre profondamente solenne: all’inizio, ascoltandola, ne fui meravigliato; poi, man mano che proseguiva e si intensificava, ne fui commosso, fino a essere finalmente colpito dalla sua profonda sincerità. Lui sentiva con tanta convinzione la [[Greatness|grandezza]] e la bontà del proprio scopo; anche coloro che lo ascoltavano non potevano fare a meno di sentirlo anch’essi.
+
+La [[prayer|preghiera]] finita, ci congedammo da lui: doveva partire molto presto la mattina. [[Diana]] e Mary lo baciarono, poi lasciarono la stanza – credo in risposta a un sussurro da parte sua. Gli porsi la mano e gli augurai un piacevole [[Journey|viaggio]].
+
+“Grazie, Jane. Come ho detto, tornerò da Cambridge tra due settimane: quindi hai ancora quel tempo per riflettere. Se ascoltassi la [[Pride|orgoglio]] umana, non ti parlerei più di un [[Marriage|matrimonio]] con me; ma seguo il mio dovere e tengo sempre a mente il mio obiettivo principale: fare tutto ciò che possa glorificare Dio. Il mio Maestro ha sofferto a lungo, anch’io soffrirò. Non posso abbandonarti al pericolo, come se fossi un vaso di ira; pentiti, decidi, finché c’è ancora [[Time|tempo]]. Ricorda: ci è stato detto di lavorare mentre c’è luce, e siamo avvertiti che ‘la [[Night|notte]] arriverà quando nessuno potrà più lavorare’. Ricorda anche la sorte di quegli uomini che avevano tutto ciò che desideravano in questa vita. Che Dio ti dia la forza di scegliere quella parte migliore, che non ti sarà mai tolta!”
+
 
 
 <span class="atom-split" data-atom="chapter_35--part_04" data-title="Jane Eyre — Chapter 35 (part 4)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="archetype/fool,archetype/lover,motif/death,motif/garden,motif/love,motif/marriage,motif/nature,motif/pain,motif/prayer,motif/rose,motif/soul,motif/time,motif/well,motif/wind,concept/deception,concept/eternity,concept/loneliness,concept/nature,concept/sublime,character/jane_eyre"></span>
@@ -44990,6 +49034,38 @@ penetrate very near a Mighty Spirit; and my [[Soul|soul]] rushed out in
 gratitude at His feet. I [[Rose|rose]] from the thanksgiving—took a resolve—and
 lay down, unscared, enlightened—eager but for the daylight.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Posò la sua mano sulla mia testa mentre pronunciava le ultime parole. Aveva parlato seriamente, con dolcezza; il suo sguardo non era certo quello di un [[Lover|amante]] che guarda la sua amata, ma piuttosto quello di un pastore che ricorda le sue pecore smarrite, o meglio ancora, quello di un angelo custode che veglia sulla [[Soul|'anima]] per cui è responsabile. Tutti gli uomini di talento, che siano sensibili o meno, fanatici, aspiranti o dittatori – purché siano sinceri – hanno i loro momenti [[Sublime|sublimi]], in cui riescono a dominare e guidare gli altri. Provai una profonda venerazione per San Giovanni, una venerazione così intensa che mi spinse immediatamente verso il punto che avevo sempre evitato. Ero tentato di smettere di lottare contro di lui, di lasciarmi trascinare dal flusso della sua volontà nel abisso della sua esistenza, e perdere così la mia identità. Ora ero quasi altrettanto sopraffatto da lui quanto lo fossi stato in passato, ma in modo diverso. Entrambe le volte ero stato un [[Fool|stupido]]. Arrendermi allora sarebbe stato un errore di principio; arrendermi ora sarebbe stato un errore di giudizio. Così penso ora, ripensando a quella crisi attraverso il tranquillo filtro del [[Time|tempo]]: in quel momento non mi rendevo conto dell’errore che stavo commettendo.
+
+Rimasi immobile sotto il tocco del mio hierofante. Le mie rifiutazioni furono dimenticate, le mie paure superate, i miei tentativi di resistenza paralizzati. L’Impossibile – cioè il mio [[Marriage|matrimonio]] con San Giovanni – stava rapidamente diventando possibile. Tutto cambiava improvvisamente. La religione chiamava, gli Angeli inviavano segnali, Dio comandava. La vita si dispiegava davanti a me come un rotolo di pergamena; le porte della [[Death|morte]] si aprivano, rivelando l’[[Eternity|eternità]] al di là. Sembrava che, per ottenere sicurezza e beatitudine laggiù, tutto ciò che avevo qui potesse essere sacrificato in un istante. La stanza buia era piena di visioni.
+
+“Potresti decidere ora?” chiese il missionario. La domanda fu posta con toni gentili; mi attirò a sé con la stessa dolcezza. Oh, quella gentilezza, quanto più potente è rispetto alla forza! Avrei potuto resistere alla rabbia di San Giovanni; sotto la sua bontà diventai docile come un giunco. Eppure sapevo bene che, se avessi ceduto ora, in futuro non avrei smesso comunque di pentirmi della mia ribellione passata. La sua natura non era cambiata nemmeno dopo un’ora di preghiera solenne, anzi, era solo diventata ancora più nobile.
+
+“Potrei decidere se lo volessi davvero,” risposi, “se solo fossi sicura che sia la volontà di Dio sposarti. Allora potrei giurare di sposarti qui e ora, senza curarmi di ciò che accadrebbe dopo!”
+
+“Le mie preghiere sono state ascoltate!“ esclamò San Giovanni. Posò la sua mano più fermamente sulla mia testa, come se volesse rivendicarmi; mi avvolse con il suo braccio, quasi, come se mi amasse (dico “quasi” perché conoscevo la differenza: avevo già sperimentato cosa significasse essere amati; ma, proprio come lui, ormai avevo escluso l’idea dell’amore e pensavo soltanto al dovere). Lottai contro quella mia oscurità interiore, davanti alla quale ancora si addensavano nuvole. Desideravo ardentemente, con sincerità e profondità, fare ciò che era giusto, e nient’altro. “Mostrami la strada!“ pregai il Cielo. Ero più eccitato di quanto mai lo fossi stato prima; se ciò che accadde dopo fu effetto di quell’eccitazione, spetterà al lettore giudicarlo.
+
+Tutta la [[house|>casa]] era silenziosa; credo che tutti, tranne San Giovanni e me stesso, fossero ormai andati a riposare. Quella singola candela stava per spegnersi: la stanza era piena di luce lunare. Il mio cuore batteva velocemente e forte; ne sentivo il pulsare. All’improvviso tutto si fermò, per un sentimento indescrivibile che mi attraversò interamente, raggiungendo immediatamente la testa e le estremità del corpo. Quel sentimento non assomigliava a una scossa elettrica, ma era altrettanto intenso, strano e sorprendente: agiva sui miei sensi come se fino ad allora la loro massima attività fosse stata soltanto torpore, dal quale ora venivano risvegliati e costretti a funzionare pienamente. I miei sensi si destarono in attesa; occhio e orecchio erano tesi nell’ascolto, mentre la mia pelle tremava sulle ossa.
+
+“Cosa hai sentito? Cosa vedi?” chiese San Giovanni. Non ho visto nulla, ma ho sentito una voce da qualche parte che gridava.
+
+“Jane! Jane! Jane!”, nient’altro.
+
+“Dio mio! Che cos’è?” esclamai, senza fiato.
+
+Avrei potuto chiedere: “Dove è?”, perché non sembrava essere nella stanza, né in [[house|casa]], né nel [[Garden|giardino]]; non proveniva dall’aria, né dal sottosuolo, né dall’alto. L’avevo sentita, ma dove, o da dove? Era impossibile saperlo! E quella voce apparteneva a un essere umano, una voce conosciuta, amata, ben ricordata, la voce di Edward Fairfax Rochester. Parlava con dolore e angoscia, in modo folle, inquietante, urgente.
+
+“Sto arrivando!” gridai. “Aspettami! Oh, sicuramente arriverò!” Corsi verso la porta e guardai nel corridoio: era buio. Uscii nel [[Garden|giardino]]: era deserto.
+
+“Dove sei?” esclamai.
+
+Le colline al di là di Marsh Glen rispondevano debolmente: “Dove sei?” Ascoltavo. Il [[Wind|>vento]] sospirava sommessamente tra i pini; tutto intorno c'era solo solitudine e silenzio a mezzanotte.
+
+“Via, superstizione!” commentai quando quel fantasma apparve, nero come la notte, accanto al tasso nero alla porta. “Non è una tua [[Deception|truffa]], né un tuo incantesimo: è l’opera della [[Nature|natura]]. È stata svegliata e ha fatto, non un miracolo, ma il suo meglio.”
+
+Mi allontanai da San Giovanni, che mi aveva seguito e avrebbe cercato di trattenermi. Era il _mio_ momento di assumere il controllo; i miei poteri stavano agendo con forza. Gli dissi di non fare domande né commenti; volevo che mi lasciasse in pace: dovevo e avrei voluto essere [[Alone|solo]]. Obbedì immediatamente. Laddove c’è energia sufficiente per comandare [[Well|ben]], l’obbedienza non fallisce mai. Salii nella mia stanza, mi chiusi dentro, mi inginocchiai e pregai. A modo mio, diverso da quello di San Giovanni, ma efficace nel suo genere. Sembrava che riuscissi a entrare in contatto con un Potente Spirito; la mia [[Soul|anima]] si riversò fuori piena di gratitudine ai suoi piedi. Mi alzai dopo aver ringraziato, presi una decisione e mi sdraiai, senza paura, illuminata. E aspettavo con impazienza l’alba.
 
 
 
@@ -45111,6 +49187,47 @@ they can solve your doubts at once. Go up to that man, and inquire if
 Mr. Rochester be at [[Home|home]].”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Capitolo XXXVI
+
+
+Sorse il giorno. Mi alzai all’[[Dawn|'alba]]. Passai un’ora o due ad organizzare le mie cose nella mia stanza, negli armadietti e nell’armadio, in modo che fossero disposte esattamente come avrei voluto lasciarle in caso di una breve assenza. Nel frattempo, sentii St. John uscire dalla sua stanza. Si fermò davanti alla mia porta: temevo che bussasse, ma no; mi fu passato un foglietto di carta sotto la porta. Lo presi e su di esso c’erano queste parole.
+
+“Mi hai lasciato troppo all’improvviso la scorsa [[Night|notte]]. Se fossi rimasto anche solo un po’ di più, avresti potuto toccare il [[Cross|croce]] del cristiano e la [[Crown|corona]] dell’angelo. Aspetterò la tua decisione definitiva quando tornerò tra due settimane. Nel frattempo, fai attenzione e prega affinché non cadca nella [[Temptation|tentazione]]: so che lo spirito è disposto, ma la carne, beh, è debole. Pregherò per te ogni ora. —Tuo, SANTO GIOVANNI.”
+
+“Il mio spirito,” risposi mentalmente, “è disposto a fare ciò che è giusto; e il mio corpo, spero, sia abbastanza forte da realizzare la volontà del Cielo, non appena essa mi sarà chiaramente rivelata. In ogni caso, sarà abbastanza forte da cercare, indagare, tentare di trovare una via d’uscita da questa nebbia di [[Doubt|>dubbi]] e scoprire quel giorno di certezza.”
+
+Era il primo giugno; tuttavia la mattina era nuvolosa e fredda: la pioggia batteva forte contro la mia finestra. Sentii la porta d’ingresso aprirsi e vidi St. John uscire. Guardando attraverso la [[Window|finestra]], lo vidi attraversare il [[Garden|>jardino]]. Prese la strada che attraversava i brumosi campi in direzione di Whitcross: lì avrebbe incontrato la carrozza.
+
+“Tra poche ore prenderò il tuo posto su quel treno, cugino,” pensai: “Anch'io devo incontrare un treno a Whitcross. Anch'io ho alcune persone da vedere e di cui informarmi in Inghilterra, prima di partire per sempre.”
+
+Voleva ancora due ore di tempo per colazione. Passai quel lasso di tempo camminando silenziosamente per la mia stanza, riflettendo su quell’incontro che aveva dato alle mie intenzioni quella direzione particolare. Ricordavo quella sensazione interiore che avevo provato: riuscivo a ricordarla, con tutta la sua stranezza inesprimibile. Ricordavo anche quella voce che avevo sentito; ancora una volta mi chiesi da dove provenisse, invano, come prima: sembrava provenire _da me_, non dal mondo esterno. Mi chiesi se fosse solo un’impressione nervosa, un’illusione. Non riuscivo a concepirlo né a crederci: era più simile a un’ispirazione. Quel meraviglioso shock emotivo era stato come il terremoto che aveva scosso le fondamenta della prigione di Paolo e Silas; aveva aperto le porte della “cella dell’anima” e ne aveva sciolto i legami. L’aveva risvegliata dal suo sonno, facendola tremare, ascoltare, inorridire. Poi, per tre volte, quella voce vibrò nelle mie orecchie, nel mio cuore tremante e attraverso il mio spirito. Un spirito che non temeva né vacillava, ma esultava, come se fosse felice del “successo” di uno sforzo che aveva avuto la fortuna di compiere, indipendentemente dal pesante “corpo”.
+
+“Sono trascorsi molti giorni,” dissi, interrompendo i miei pensieri, “e finalmente saprò qualcosa di lui, di colui la cui voce sembrava chiamarmi l’ultima [[Night|notte]]. Le lettere non sono servite a nulla; sarà una ricerca personale a fornirmi le risposte.”
+
+A colazione ho annunciato a [[Diana]] e Mary che stavo partendo per un [[Journey|viaggio]], e che sarei assente almeno per quattro giorni.
+
+“[[Alone|Da sola]], Jane?”, chiesero.
+
+“Sì; volevo vedere o sentire notizie di un amico per il quale da qualche tempo ero preoccupato.”
+
+Probabilmente avrebbero detto, e non ho alcun [[Doubt|>dubbio]] che lo pensassero davvero, di aver creduto che io non avessi altri amici se non loro; infatti, spesso lo avevo detto anch'io. Ma, per la loro vera delicatezza naturale, si astennero dal fare commenti, tranne che [[Diana]] mi chiese se fossi sicura di essere abbastanza [[Well|>sana]] per viaggiare. Notò che sembravo molto pallida; risposi che non avevo alcun problema, se non l'ansia nello spirito, che speravo di poter alleviare presto.
+
+Fu facile per me fare i miei ulteriori preparativi; infatti non fui assillato da alcuna domanda, né da alcuna congettura. Dopo aver spiegato loro che al momento non potevo rivelare nei dettagli i miei piani, acconsentirono gentilmente e saggiamente al [[Silence|silenzio]] con cui li portai avanti, rispettando così, a mio parere, il diritto alla libertà d’azione che in circostanze simili avrei dovuto concedere anche a loro.
+
+Lasciai la casa dei Moor alle tre di [[Clock|pomeriggio]], e poco dopo le quattro mi trovai ai piedi del cartello di Whitcross, in attesa dell’arrivo della carrozza che avrebbe dovuto portarmi lontano, a Thornfield. Nel silenzio di quelle strade desolate e di quei colli solitari, ne sentii avvicinarsi da lontano. Era lo stesso veicolo dal quale, un anno prima, in una serata estiva, ero sceso proprio in questo luogo, quanto desolato, senza speranza e privo di scopo! Si fermò non appena gli feci segno. Salii a bordo: questa volta non dovevo più sacrificare tutta la mia fortuna per poter viaggiare. Ancora una volta sulla strada verso Thornfield, mi sentivo come un piccione viaggiatore che torna [[Home|>a casa]].
+
+Fu un [[Journey|viaggio]] di sessanta ore e trenta minuti. Partii da Whitcross un martedì pomeriggio, e la mattina seguente, di [[thursday|giovedì]], il treno si fermò in una locanda situata lungo la strada per far bere gli cavalli; il paesaggio circostante – con i suoi siepi verdi, i vasti campi e le basse colline pastorali (quanto erano dolci i loro contorni e freschi i loro colori, rispetto alle dure brughiere del Nord-Midland di Morton, ) – mi sembrava il volto di una persona un tempo conosciuta. Sì, riconoscevo bene questo paesaggio: ero sicuro che fossimo vicini alla mia destinazione.
+
+“Quanto dista Thornfield Hall da qui?”, chiesi all’ostiere.
+
+Solo due miglia, signora, attraverso i campi.
+
+“Il mio [[Journey|viaggio]] è finito,” pensai tra me. Scesi dal carro, affidai una scatola all’ostiere affinché la tenesse fino a quando non l’avrei richiesta; pagai il mio biglietto, ringraziai il cocchiere e stavo per andarmene. La luce del giorno iniziava ad illuminare l’insegna dell’osteria; lessi, scritto in caratteri dorati: “The Rochester Arms”. Il mio cuore si gonfiò di gioia: ero finalmente nelle terre del mio padrone. Poi, però, un pensiero mi colpì.
+
+“Tuo padrone potrebbe ben essere al di là della Manica, chissà. E poi, anche se si trovasse a Thornfield Hall, verso cui tu stai correndo, chi altro ci sarebbe? Sua moglie pazza. Tu non hai nulla a che fare con lui: non osi nemmeno parlargli o cercare il suo incontro. Hai perso inutilmente il tuo tempo. È meglio che non vada oltre,” insistette l’ispettore. “Chiedi informazioni alle persone all’ostello; loro possono darti tutto ciò che cerchi, possono risolvere subito i tuoi dubbi. Vai da quell’uomo e chiedigli se il signor Rochester sia a [[Home|>casa]].”
+
 
 
 <span class="atom-split" data-atom="chapter_36--part_02" data-title="Jane Eyre — Chapter 36 (part 2)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/lover,motif/death,motif/hill,motif/love,motif/rose,motif/silence,motif/spring,motif/well,motif/window,motif/winter,concept/beauty,concept/despair,concept/doubt,concept/hope,concept/solitude,concept/wonder,character/jane_eyre"></span>
@@ -45218,6 +49335,30 @@ the spectacle of desolation I had just left prepared me in a measure
 for a tale of misery. The host was a respectable-looking, middle-aged
 man.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La proposta era sensata, eppure non riuscivo a costringermi ad agire in base ad essa. Temevo così tanto una risposta che avrebbe potuto schiacciarmi nel [[Despair|dispero]]. Prolungare il [[Doubt|dubbio]] significava prolungare anche la [[Hope|speranza]]. Forse un giorno avrei ancora potuto vedere quella sala illuminata dal raggio della sua stella. Lì c’era lo steccato davanti a me; quei campi attraverso i quali avevo corso, cieco, sordo, distratto da una furia vendicativa che mi inseguiva e tormentava. La mattina in cui fuggii da Thornfield, prima ancora di decidere con certezza quale strada prendere, mi trovavo già in mezzo a loro. Quanto correvo velocemente! A volte correvo addirittura a perdifiato. E quanto aspettavo con impazienza il momento in cui avrei potuto vedere per la prima volta quei boschi così familiari. Con quale emozione accoglievo ogni albero che riconoscevo, e ogni vista familiare di prati e colline tra di essi!
+
+Finalmente i boschi iniziarono a sbocciare; il nido degli uccelli si profilava scuro contro il cielo; un forte gracchiare ruppe la quiete mattutina. Una strana gioia mi invase: mi affrettai verso quel luogo. Attraversai un altro campo, una stradina serpeggiante. E lì c’erano le mura del cortile, gli uffici posteriori. La stessa [[house|>casa]]; il nido degli uccelli era ancora nascosto. “La mia prima vista di essa dovrà essere da davanti”, decisi, “lì dove i suoi imponenti merli colpiranno immediatamente l’occhio, e dove potrò individuare esattamente la finestra del mio padrone. Forse in quel momento è proprio lì; si alza presto. Forse ora sta passeggiando nel frutteto o sul vialetto davanti alla casa. Se solo potessi vederlo! Ma un attimo. Sicuramente, in tal caso, non sarei così folle da corrergli incontro, vero? Non lo so. Non ne sono certo. E se lo facessi. Che cosa succederebbe? Dio lo benedica! Chi potrebbe rimetterci per il fatto che io assapori ancora una volta la vita che il suo sguardo può donarmi? Sto delirando. Forse in questo momento lui sta osservando il sorgere del sole sulle Pyrenee, o sul mare immobile del sud, ”
+
+Avevo seguito il bordo inferiore del frutteto, girando intorno all’angolo che formava: lì c’era un cancello che conduceva al prato, tra due pilastri di pietra sormontati da sfere di pietra. Da dietro uno dei pilastri potevo spiare in silenzio tutta la facciata anteriore della residenza. Spinsi la testa avanti con cautela, desideroso di verificare se le tende delle finestre delle camere da letto fossero ancora tirate su: le mura merlate, le finestre, l’intera facciata, tutto era a mia disposizione da quel punto nascosto.
+
+I corvi che volavano sopra di me forse mi osservavano mentre effettuavo questo sopralluogo. Mi [[Wonder|chiedo]] cosa pensassero. All’inizio devono aver creduto che fossi molto cauto e timido, per poi notare come gradualmente diventassi sempre più audace e sconsiderato. Un’occhiata furtiva, poi uno sguardo attento; infine il distacco dal mio nido e l’avvicinamento al prato. E poi un improvviso arresto proprio davanti alla grande dimora, accompagnato da uno sguardo prolungato e intenso. “Che falsa timidezza era quella all’inizio?”, si saranno chiesti, “E che stupida spensieratezza ora?”
+
+Ascolta un'esempio, lettore.
+
+Un [[Lover|amante]] trova la sua amata addormentata su una riva ricoperta di muschio; desidera intravedere il suo bel viso senza svegliarla. Si avvicina silenziosamente, attento a non fare rumore; si ferma, pensando che lei possa essersi mossa. Si ritira: a nessun costo vuole essere visto. Tutto è immobile; riprende ad avanzare, si china su di lei. Un leggero velo copre i suoi tratti; lo solleva, si china ancora di più. I suoi occhi incontrano la bellezza di lei: calda, radiosa, incantevole nel sonno. Quanto è stato affrettato il loro primo sguardo! E ora, come rimangono fissi l’uno sull’altra. Come lui si agita, come improvvisamente e con forza avvolge tra le braccia quella figura che un attimo prima non osava nemmeno toccare con un dito. Come grida il suo nome, lascia cadere il peso che portava sulle spalle e la guarda con occhi folli. La stringe, grida, la guarda ancora, perché ormai non teme più di svegliarla con alcun suono, con alcun movimento che possa fare. Pensava che la sua [[Love|amore]] dormisse serenamente. Invece scopre che è morta.
+
+Guardai con timida gioia verso una maestosa [[house|>casa]]. Vidi solo rovine annerite.
+
+Non c’è bisogno di nascondersi dietro un cancello, davvero! Non c’è bisogno di spiare attraverso le sbarre delle finestre, temendo che la vita si stia muovendo là dietro. Non c’è bisogno di ascoltare il rumore delle porte che si aprono, né di immaginare passi sul marciapiede o sulla ghiaia. Il prato, i giardini erano tutti calpestati e in disordine; l’ingresso era spalancato e vuoto. La facciata, era proprio come l’avevo vista una volta in un [[A Dream|>sogno]]: un muro simile a una conchiglia, molto alto e dall’aspetto estremamente fragile, perforato da finestre senza vetri. Nessun tetto, nessune merlature, nessuna ciminiera. Tutto era distrutto.
+
+E c'era il [[Silence|silenzio]] della [[Death|morte]] intorno a tutto ciò: la [[Solitude|solitudine]] di una landa desolata e selvaggia. Non era da meravigliarsi che le lettere indirizzate alle persone qui non ricevessero mai risposta: proprio come inviare lettere in un archivio situato nell’altare di una chiesa senza aspettarsi alcuna risposta. L’oscurità cupa delle pietre raccontava quale sorte avesse colpito quel luogo, un incendio, ma come era scoppiato? Quale storia si nascondeva dietro a questo disastro? Quali perdite, oltre a malta, marmo e legno, ne erano derivate? Era stata distrutta anche la vita, così come le proprietà? E, in tal caso, di chi? Una domanda terribile. Non c’era nessuno qui per rispondere: nemmeno un segno, né un indizio.
+
+Vagando tra le mura distrutte e attraverso l’interno devastato, raccolsi prove che quella calamità non era avvenuta di recente. Pensai che nevicate invernali fossero penetrate attraverso quell’arco vuoto, e piogge invernali si fossero riversate in quelle finestre cieche; infatti, tra i mucchi di rifiuti bagnati, cresceva ancora vegetazione primaverile: erba e erbacce spuntavano qua e là tra le pietre e le travi cadute. E oh, dove mai si trovava il sfortunato proprietario di questo rovino? In quale terra? Sotto quali circostanze? Il mio sguardo si posò involontariamente sulla torre grigia della chiesa vicino alle porte, e mi chiesi: “È forse con Damer de Rochester, a condividere l’ombra della sua stretta casa di marmo?”
+
+Deve esserci una risposta a queste domande. Non riuscii a trovarla da nessuna parte se non all’osteria, e così tornai lì poco dopo. Lo stesso padrone di casa mi portò la colazione nel salotto. Gli chiesi di chiudere la porta e di sedersi: avevo alcune domande da fargli. Ma quando lo fece, quasi non sapevo da dove cominciare. Avevo così paura delle possibili risposte. Eppure, la scena di desolazione che avevo appena visto mi aveva in qualche modo preparato ad ascoltare una storia di miseria. Il padrone di casa era un uomo di mezza età, dall’aspetto rispettabile.
 
 
 
@@ -45344,6 +49485,52 @@ I have often wished that Miss Eyre had been sunk in the sea before she
 came to Thornfield Hall.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Conosci certo Thornfield Hall, vero?” riuscii finalmente a dire.
+
+"Sì, signora; ci ho vissuto una volta."
+
+“L’hai fatto davvero?” Non nella mia [[Time|epoca]], ”, pensai: “Sei uno sconosciuto per me”.
+
+“Ero il maggiordomo del defunto signor Rochester,” aggiunse.
+
+Il colpo fatale. Sembra che abbia ricevuto, con tutta la sua forza, proprio il colpo che cercavo di evitare.
+
+“Il defunto…”, esclamai. “È morto?”
+
+“Intendo dire il signore attuale, il padre di Mr. Edward,” spiegò. Respirai di nuovo: il mio [[Blood|>sangue]] riprese a scorrere. Con queste parole fui completamente certa che Mr. Edward – _il mio_ Mr. Rochester (che Dio lo benedica, ovunque si trovasse!) – fosse almeno vivo. In altre parole, “il signore attuale”. Parole rassicuranti! Sembrava che potessi affrontare qualsiasi rivelazione futura con relativa tranquillità. Poiché non era nella [[Grave|>tomba]], pensai di poter sopportare anche il fatto che si trovasse agli Antipodi.
+
+“Il signor Rochester vive ora a Thornfield Hall?”, chiesi, sapendo benissimo quale sarebbe stata la risposta, ma desiderando comunque rimandare la domanda diretta su dove si trovasse realmente.
+
+“No, signora, oh, no! Nessuno vive lì. Immagino che sia una straniera in queste zone, altrimenti avrebbe sicuramente sentito parlare di ciò che è accaduto lo scorso [[Autumn|autunno]]: Thornfield Hall è ridotta a rovine; è stata distrutta proprio durante la stagione dei raccolti. Una calamità terribile, una quantità enorme di beni preziosi andata persa: quasi nessuno degli arredi è sopravvissuto all’incendio. L’[[Fire|fuoco]] è scoppiato nel cuore della [[Night|notte]], e prima che arrivassero gli autopompi da Millcote, l’edificio era già avvolto dalle fiamme. È stato uno spettacolo orribile. L’ho visto con i miei occhi.”
+
+“A mezzanotte fonda, ” mormorai. Sì, quella era sempre l’ora della morte a Thornfield. “Si sapeva come fosse iniziato tutto?” chiesi.
+
+“Hanno indovinato, signora: hanno semplicemente indovinato. In realtà, dovrei dire che è stato accertato al di là di ogni [[Doubt|>dubbio]]. Forse non sa,” continuò, avvicinando leggermente la sedia al tavolo e parlando a bassa voce, “che in quella [[house|>casa]] c'era una signora, una donna pazza.”
+
+“Ne ho sentito parlare.”
+
+“Era tenuta in condizioni di stretta reclusione, signora; per alcuni anni nessuno era assolutamente certo della sua esistenza. Nessuno la vedeva: si sapeva soltanto per voci che una persona del genere si trovasse nella residenza; e chi fosse o cosa fosse, era difficile indovinare. Si diceva che il signor Edward l’avesse portata dall’estero, e alcuni credevano che fosse stata la sua amante. Ma è successo qualcosa di molto strano un anno fa.”
+
+Ora temevo di ascoltare la mia stessa storia. Cercai di fargli ricordare il fatto principale.
+
+“E questa signora?”
+
+“Questa signora, signora,” rispose lui, “si rivelò essere la moglie di Mr. Rochester! La scoperta avvenne in modo molto strano. C’era una giovane donna, un’insegnante che lavorava nella residenza. Mr. Rochester si innamorò di lei, ”
+
+“Ma il [[Fire|fuoco]], ”, suggerii.
+
+“Sto per arrivarci, signora. Quel signor Edward si è innamorato di lei. I servitori dicono che non abbiano mai visto nessuno così perdutamente innamorato: la seguiva ovunque. Li piaceva osservarlo. I servitori, sa com’è, signora. Lui teneva molto a lei; anzi, secondo loro, nessun altro la trovava così bella. Dicevano che fosse una ragazza piccola, quasi come una [[Child|bambina]]. Io non l’ho mai vista di persona, ma ho sentito Leah, la cameriera di casa, parlarne. A Leah piaceva abbastanza. Il signor Rochester aveva circa quarant’anni, mentre questa insegnante ne aveva meno di venti. E sa com’è: quando gli uomini della sua età si innamorano di ragazze giovani, spesso sembrano davvero incantati. Beh, lui avrebbe voluto sposarla.”
+
+“Mi racconterai questa parte della storia un’altra [[Time|volta]],” dissi; “ma ora ho un motivo particolare per voler sapere tutto riguardo a quell’[[Fire|incendio]]. Si sospettava che quella donna pazzesca, la signora Rochester, avesse qualcosa a che fare con esso?”
+
+“Ha indovinato, signora: è assolutamente certo che sia stata lei, e nessun altro se non lei ad averlo fatto. Aveva una donna che si prendeva cura di lei, chiamata Mrs. Poole, una donna competente nel suo lavoro e molto affidabile, ma con un difetto comune a molte infermiere e governanti: teneva nascosta una bottiglia di gin in camera sua, e di tanto in tanto ne beveva troppo. Si può perdonare, visto che aveva vissuto una vita dura, ma comunque era pericoloso. Quando Mrs. Poole si addormentava profondamente dopo aver bevuto il gin con l’acqua, quella donna pazza, astuta come una strega, prendeva le chiavi dalla sua tasca, usciva dalla sua stanza e girovagava per la casa, combinando ogni sorta di disastri. Si dice che una volta abbia quasi bruciato suo marito a letto, ma non ne so nulla con certezza. Comunque, quella notte ha innescato il fuoco prima nelle tende della stanza accanto alla sua, poi è scesa al piano inferiore e si è recata nella stanza dove aveva vissuto la governante, come se sapesse già cosa era successo in passato, e provasse rancore verso di lei. Ha appiccato il fuoco al letto, ma per fortuna non c’era nessuno dentro. La governante se n’era andata due mesi prima; e nonostante il signor Rochester la cercasse disperatamente, come se fosse la cosa più preziosa del mondo, non si è mai saputo nulla di lei. A causa della sua delusione, è diventato, un animale selvaggio. Si chiudeva in casa da solo, mandava via la governante di casa, Mrs. Fairfax, dai suoi parenti lontani, ma lo faceva generosamente, concedendole una pensione per tutta la vita: se la meritava davvero, era una donna molto buona. La signorina Adèle, una sua pupilla, è stata mandata a scuola. Ha interrotto ogni rapporto con la gente del posto e si è isolato come un eremita nella sua casa.”
+
+“Che! Non è mai lasciato l’Inghilterra?”
+
+“Lasciare l’Inghilterra? Per carità, no! Non avrebbe mai attraversato la soglia di quella casa, se non di notte, quando camminava come un fantasma per i giardini e nell’orto, come se avesse perso il senno. E a mio parere, era proprio così. Non era certo un uomo incline al vino, ai giochi d’azzardo o alle corse, come alcuni; non era nemmeno molto attraente. Ma aveva un coraggio e una volontà propria davvero unici. Lo conoscevo da quando era bambino. E, a dire il vero, spesso avrei voluto che la signorina Eyre fosse sprofondata in mare prima di arrivare a Thornfield Hall.”
+
 
 
 <span class="atom-split" data-atom="chapter_36--part_04" data-title="Jane Eyre — Chapter 36 (part 4)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/home,motif/marriage,motif/spring,motif/well,concept/body,concept/courage,character/jane_eyre"></span>
@@ -45441,6 +49628,67 @@ down, they say.”
 Ferndean before dark this day, I’ll pay both you and him twice the hire
 you usually demand.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Allora il signor Rochester si trovava a [[Home|casa]] quando è scoppiato l’[[Fire|incendio]]?”
+
+“Sì, proprio lui; e quando tutto intorno stava bruciando, salì sul tetto, fece alzare i servitori dai letti e li aiutò a scendere, poi tornò a prendere sua moglie dalla sua stanza. Poi qualcuno gli gridò che lei si trovava sul tetto: stava lì in piedi, agitando le braccia sopra le merlature e urlando così forte che la si poteva sentire a un miglio di distanza. L’ho vista e l’ho sentita con i miei occhi. Era una donna alta, con lunghi capelli neri; li si potevano vedere ondeggiare al vento delle fiamme mentre stava lì in piedi. Io stesso, e altre persone ancora, abbiamo visto il signor Rochester salire sul tetto attraverso la finestra del soffitto; lo abbiamo sentito chiamare ‘Bertha!’, l’abbiamo visto avvicinarsi a lei. E poi, signora, lei ha urlato, è saltata giù, e il minuto dopo giaceva distrutta sul selciato.”
+
+
+Nel minuto successivo giaceva distrutta sul marciapiede.
+
+"Morto?"
+
+“Morta! Ah, morta come le pietre su cui i suoi cervelli e il suo [[Blood|sangue]] sono stati sparsi.”
+
+“Mio Dio!”
+
+“Potete anche dirlo, signora. Ma è stato terribile!”
+
+Si ritrasse, rabbrividendo.
+
+“E poi?” insistetti.
+
+“Beh, signora, in seguito la [[house|casa]] fu completamente distrutta dal fuoco: adesso rimangono solo alcune parti dei muri”.
+
+# Altre vite sono andate perse?
+
+“No… forse sarebbe stato meglio se ci fosse stata.”
+
+“Cosa intendi dire?”
+
+“Povero signor Edward!” esclamò, “Non avrei mai pensato di doverlo vedere! Alcuni dicono che sia stata una giusta punizione per aver tenuto nascosta la sua prima [[Marriage|matrimonio]] e voler prendere un’altra moglie mentre ne aveva ancora una viva. Ma personalmente, provo compassione per lui.”
+
+“Hai detto che era vivo?”, esclamai.
+
+“Sì, sì: è vivo… ma molti pensano che sarebbe meglio se fosse morto.”
+
+“Perché? Come?” Il mio [[Blood|>sangue]] si raffreddò di nuovo. “Dove è?” chiesi con insistenza. “È in Inghilterra?”
+
+“Ah… è in Inghilterra; immagino che non riesca a lasciare il paese… ormai fa parte della “scena” locale, insomma.”
+
+Che agonia era questa. E quell’uomo sembrava deciso a prolungarla ancora.
+
+“È completamente cieco”, disse infine. “Sì, il signor Edward è completamente cieco”.
+
+Avevo temuto qualcosa di peggio. Avevo temuto che fosse impazzito. Raccolsi tutte le mie forze per chiedergli cosa avesse causato questa calamità.
+
+“Fu tutto il risultato del suo coraggio e, in un certo senso, anche della sua gentilezza, signora: non lasciava la [[house|casa]] finché tutti gli altri non fossero usciti prima di lui. Quando finalmente scese la grande scalinata, dopo che la signora Rochester si era gettata dalle mura, ci fu un enorme rumore, tutti caddero. Fu estratto dalle macerie vivo, ma gravemente ferito: un trave lo aveva parzialmente protetto; tuttavia, uno dei suoi occhi fu distrutto e una delle sue mani così frantumata che il dottor Carter dovette amputarla sul posto. L’altro occhio si infiammò, perse anche la vista di quello. Ora è davvero indifeso: cieco e paralizzato.”
+
+"Dove è? Dove vive adesso?"
+
+“A Ferndean, una tenuta situata in una fattoria che possiede, a circa trenta miglia di distanza: un posto davvero desolato.”
+
+“Chi è con lui?”
+
+“Vecchio John e sua moglie: non voleva nessun’altra. Dicono che sia completamente distrutto…”
+
+“Avete qualche mezzo di trasporto a disposizione?”
+
+“Abbiamo una chaise, signora… una chaise davvero molto bella.”
+
+“Facciate in modo che sia pronto immediatamente; e se il vostro cocchiere riesce a portarmi a Ferndean prima del tramonto di oggi, pagherò sia voi che lui il doppio dell’affitto che di solito chiedete.”
 
 
 
@@ -45566,6 +49814,7 @@ should stay. Just at this moment the parlour-bell rang.
 <span class="qlang-split" data-lang="it"></span>
 
 # CAPITOLO XXXVII
+
 
 La dimora di Ferndean era un edificio di notevole antichità, di dimensioni moderate e privo di pretese architettoniche; si trovava immersa nella foresta. Ne avevo già sentito parlare: il signor Rochester ne parlava spesso e a volte vi andava. Suo padre aveva acquistato quella tenuta proprio per le aree adatte alla caccia. Avrebbe voluto affittare la casa, ma non riusciva a trovare nessun inquilino a causa della sua posizione inadatta e insalubre. Di conseguenza, Ferndean rimaneva disabitata e senza arredi, fatta eccezione per due o tre stanze allestite per l’ospitalità del signor Rochester quando andava lì durante la stagione di caccia.
 
@@ -45768,6 +50017,104 @@ gently to withdraw myself from his arms—but he eagerly snatched me
 closer.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Quando entri,” dissi, “di’ al tuo padrone che c’è qualcuno che vuole parlargli, ma non menzionare il mio nome.”
+
+“Non credo che ti riceverà”, rispose lei; “rifiuta tutti”.
+
+Quando tornò, le chiesi cosa avesse detto.
+
+“Dovete indicare il vostro nome e l’oggetto della vostra richiesta,” rispose lei. Poi versò dell’[[Water|acqua]] in un bicchiere e lo posizionò su un vassoio, insieme alle candele.
+
+“È per questo che ha chiamato?” chiesi.
+
+“Sì: lui fa sempre portare delle candele al buio, anche se è cieco.”
+
+#"Dammi il vassoio, lo porterò io dentro."
+
+Glielo presi dalla mano: lei mi indicò la porta del salotto. Il vassoio tremava mentre lo tenevo in mano; l’[[Water|acqua]] si versò dal bicchiere; il mio cuore batteva forte e velocemente contro le costole. Mary aprì la porta per me e la chiuse alle mie spalle.
+
+Questo salotto sembrava cupo: un po’ di [[Fire|fuoco]], trascurato, ardeva debolmente nel camino; appoggiato al alto e vecchio caminetto, si intravedeva il padrone cieco della stanza. Il suo vecchio cane, Pilot, giaceva da una parte, tenendosi alla larga, avvolto su se stesso come se temesse di essere calpestato per errore. Quando entrai, Pilot sollevò le orecchie; poi balzò in piedi con un ululato e si precipitò verso di me, rischiando quasi di far cadere il vassoio dalle mie mani. Lo posai sul tavolo, lo accarezzai e dissi dolcemente: “Stai giù!” Il signor Rochester si girò meccanicamente per vedere cosa stesse succedendo; ma non vedendo nulla, tornò indietro e sospirò.
+
+“Dammi l’[[Water|acqua]], Mary,” disse lui.
+
+Mi avvicinai a lui con il bicchiere ormai solo parzialmente pieno; Pilot mi seguì, ancora eccitato.
+
+“Che cosa c’è?” chiese lui.
+
+“Giù, Pilota!” dissi di nuovo. Controllò l’[[Water|acqua]] mentre gli arrivava alle labbra e sembrò ascoltarmi: bevve e poi posò il bicchiere. “È tu, Mary, vero?”
+
+“Mary è in cucina,” risposi.
+
+Tese la mano con un gesto rapido, ma non vedendo dove mi trovavo, non mi toccò. “Chi è questa persona? Chi è?” chiese, cercando, a quanto pare, di “vedere” con quegli occhi ciechi. Un tentativo vano e angoscioso! “Rispondimi. Parla di nuovo!” ordinò, con autorità e ad alta voce.
+
+“Vuole un altro po’ d’[[Water|acqua]], signore? Ho versato via metà di quella che c’era nel bicchiere,” dissi.
+
+“Chi è? Che cos’è? Chi parla?”
+
+“Il pilota mi conosce, e anche John e Mary sanno che sono qui. Sono arrivato solo stasera,” risposi.
+
+“Dio mio! Che illusione mi ha colpito. Quale dolce [[Madness|follia]] si è impadronita di me?”
+
+“Nessuna delusione, nessuna [[Madness|pazzia]]: la vostra mente è troppo forte per essere ingannata, la vostra salute troppo salda per cadere nella follia.”
+
+“E dove si trova chi parla? È solo una voce? Oh! Non riesco a vedere, ma devo percepire. Altrimenti il mio cuore smetterà di battere e il mio cervello esploderà. Chiunque tu sia, fatti sentire attraverso il tatto. Altrimenti non posso vivere!”
+
+Cercava a tentoni; afferrai la sua mano errante e la trattenni tra le mie.
+
+“I suoi stessi dita!” gridò; “quelle sue piccole, sottili dita. Se è così, allora deve esserci ancora qualcosa di lei.”
+
+La mano muscolosa mi sfuggì dalla presa; il mio braccio fu afferrato, la mia spalla, il mio collo, la mia vita, fui avvolto e trascinato verso di lui.
+
+“È Jane? Che cos’è? Ha questa forma, queste dimensioni…”
+
+“E questa è la sua voce,” aggiunsi. “Tutta lei è qui: anche il suo cuore. Dio ti benedica, signore! Sono felice di essere di nuovo così vicina a te.”
+
+“[[Jane Eyre]]! — [[Jane Eyre]],” fu tutto ciò che disse.
+
+“Mio caro padrone,” risposi, “sono [[Jane Eyre]]: vi ho scoperto. Sono tornata da voi.”
+
+“Nella [[Truth|verità]]?. In carne e ossa? La mia vera Jane?”
+
+“Mi tocchi, signore. Mi tenete stretto, vero? Non sono freddo come un cadavere, né vuoto come l’aria, giusto?”
+
+“Mia adorata! Queste sono sicuramente le sue braccia, questi i suoi tratti. Ma non posso essere così fortunato, dopo tutta la mia sofferenza. È un [[A Dream|sogno]]. Uno di quei sogni che faccio di notte, quando riesco finalmente ad abbracciarla di nuovo e a baciarla, sentendo che mi ama e che non mi lascerà mai.”
+
+“Non lo farò mai più, signore, da oggi in poi.”
+
+“Mai, dice la visione? Ma ogni volta mi svegliavo e trovavo tutto solo un vuoto scherzo; ero desolato e abbandonato. La mia vita era oscura, solitaria, senza speranza. La mia [[Soul|'anima]] aveva sete, ma non le era permesso bere. Il mio cuore era affamato, ma mai avrebbe ricevuto cibo. Dolce, tenero sogno che ora riposi tra le mie braccia. Anche tu volerai via, proprio come tutte le tue “sorelle” prima di te. Ma baciami prima di andartene. Abbracciami, Jane, ”
+
+“Eccolo lì, signore… proprio lì!”
+
+Premetti le mie labbra sui suoi occhi un tempo brillanti e ora privi di luce; spostai i suoi capelli dalla fronte e baciai anche quelli. All’improvviso sembrò riprendersi: la consapevolezza della realtà di tutto ciò lo colpì profondamente.
+
+“Sei tu… vero, Jane? Quindi sei tornata da me?”
+
+“I am.”
+
+“E non giaci morto in qualche fossato sotto un ruscello? E non sei un esiliato che soffre tra estranei?”
+
+"No, signore! Ora sono una donna indipendente."
+
+“Indipendente? Cosa intendi dire, Jane?”
+
+“Mio zio di Madeira è morto e mi ha lasciato cinquemila sterline.”
+
+“Ah! Questo è pratico, questo è reale!” esclamò: “Non avrei mai potuto sognarlo. Inoltre, c’è quella sua voce particolare, così vivace e incisiva, ma anche dolce. Rinfresca il mio cuore appassito, gli restituisce la vita. Ehi, Janet! Sei una donna indipendente? Una donna ricca?”
+
+“Abbastanza ricco, signore. Se non mi permettete di vivere con voi, posso costruirmi una casa vicino alla vostra porta, e potrete venire a sedervi nel mio salotto quando desidererete un po’ di compagnia la sera.”
+
+“Ma poiché sei ricca, Jane, ora sicuramente hai amici che si prenderanno cura di te e non permetteranno che tu ti dedichi a un povero cieco come me.”
+
+“Gliel’ho detto, signore: sono indipendente e, per di più, ricca; sono padrona di me stessa.”
+
+"E resterai con me?"
+
+“Certo – a meno che non vi opporrete. Sarò la vostra vicina, la vostra [[Nurse|infermiera]], la vostra domestica. Vi trovo solo: sarò la vostra compagna, per leggervi, per passeggiare con voi, per sedermi con voi, per prendervi cura di voi. Sarò i vostri occhi e le vostre mani. Smettete di sembrare così [[Melancholy|melanconici]], mio caro padrone; non sarete mai lasciato solo, finché io vivrò.”
+
+Non rispose nulla; sembrava serio, assorto nei suoi pensieri; sospirò, aprì appena le labbra come se volesse parlare, poi le richiuse subito. Mi sentii un po’ imbarazzata. Forse avevo superato troppo precipitosamente i limiti della convenzione; e lui, come San Giovanni, vedeva nell’imprudenza mia qualcosa di inappropriato. Infatti, avevo fatto la mia proposta partendo dall’idea che desiderasse e mi chiedesse di diventare sua moglie. Un’aspettativa, per quanto non espressa apertamente, che mi aveva dato coraggio. Ma poiché non emerse alcun segno in tal senso e il suo volto divenne ancora più cupo, improvvisamente capii di potermi essere completamente sbagliata. Forse stavo commettendo un errore senza nemmeno rendermene conto. E allora iniziai dolcemente a allontanarmi dalle sue braccia. Ma lui mi strinse ancora più forte.
+
 
 
 <span class="atom-split" data-atom="chapter_37--part_03" data-title="Jane Eyre — Chapter 37 (part 3)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/shadow,motif/birds,motif/desert,motif/desire,motif/fire,motif/lion,motif/nature,motif/night,motif/silence,motif/soul,motif/time,motif/water,motif/well,concept/courage,concept/doubt,concept/fear,concept/nature,setting/desert,character/jane_eyre,character/nurse"></span>
@@ -45901,6 +50248,71 @@ at some fatal moment, you will again [[Desert|desert]] me—passing like a [[Sha
 whither and how to me unknown, and for me remaining afterwards
 undiscoverable?”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“No, no, Jane; non devi andare. No, ti ho toccata, ti ho sentita, ho provato il conforto della tua presenza, la dolcezza delle tue parole di consolazione: non posso rinunciare a queste gioie. Non mi resta molto dentro di me, devo averti. Il mondo può ridere, può definirmi assurda, egoista, ma non ha importanza. La mia stessa [[Soul|'anima]] ti chiede: sarà soddisfatta, o si vendicherà in modo terribile.”
+
+“Beh, signore, rimarrò con voi: l’ho già detto.”
+
+“Sì, ma tu devi capire una cosa se decidi di restare con me; e anch’io capisco qualcos’altro. Forse potresti decidere di prenderti cura di me, di assistermi come una gentile e premurosa [[Nurse|infermiera]] (dopotutto hai un cuore affettuoso e uno spirito generoso che ti spinge a fare sacrifici per coloro che provi compassione per loro), e questo dovrebbe bastarmi senza alcun [[Doubt|>dubbio]]. Immagino che ora dovrei provare per te solo sentimenti paterni. Che ne pensi? Dimmelo.”
+
+“Penserò a ciò che desiderate, signore: mi basta essere solo la vostra [[Nurse|infermiera]], se questo vi sembra meglio.”
+
+“Ma non puoi sempre essere la mia [[Nurse|infermiera]], Janet: sei giovane, un giorno dovrai sposarti.”
+
+“Non mi interessa sposarmi.”
+
+“Dovresti preoccuparti, Janet: se fossi ancora quella che ero una volta, cercherei di farti preoccupare. Ma ora sono solo un essere cieco e inutile!”
+
+Tornò di nuovo sommerso nella tristezza. Io, al contrario, diventai più allegro e raccolsi nuove [[Courage|forze]]; quelle ultime parole mi permisero di capire dove risiedesse il problema; poiché non si trattava di un ostacolo per me, mi sentii completamente sollevato dal disagio precedente. Ripresi quindi una conversazione più vivace.
+
+“È arrivato il momento che qualcuno si impegni a riamanitizzare te,” dissi, separando i suoi folti e lunghi capelli non tagliati; “vedo infatti che stai venendo trasformato in un [[Lion|leone]] o qualcosa del genere. Hai davvero un aspetto, ‘simile’ a quello di Nabucodonosor: i tuoi capelli mi ricordano le piume degli aquili; per quanto riguarda le tue unghie, non ho ancora notato se siano diventate come gli artigli degli [[Birds|uccelli]], ”
+
+“Su questo braccio non ho né mani né unghie,” disse, tirando fuori il membro mutilato dal petto e mostrandomelo. “È solo un moncone. Una vista orribile! Non pensi anche tu, Jane?”
+
+“È un peccato vederlo. E è un peccato vedere i tuoi occhi. E la cicatrice lasciata dal [[Fire|fuoco]] sulla tua fronte. Il peggio è che si rischia di iniziare ad amarti troppo, per tutto questo. E di dare troppa importanza a te.”
+
+“Pensavo che saresti rimasta inorridita, Jane, vedendo il mio braccio e il mio volto segnato dalle cicatrici…”
+
+“Davvero? Non dirmelo, altrimenti potrei dire qualcosa che metta in dubbio il tuo giudizio. Ora, lasciami andare per un momento: devo accendere meglio il fuoco e spazzare la stanza. Riesci a capire quando c’è un buon fuoco?”
+
+“Sì; con l’occhio destro vedo un bagliore… una nebbia rossastra.”
+
+“E vedi le candele?”
+
+“Molto vagamente… ognuno di essi è una nuvola luminosa.”
+
+“Riesci a vedermi?”
+
+“No, mia fata… Ma sono davvero troppo grato di poterti sentire e percepire vicina a me.”
+
+“Quando mangi la cena?”
+
+“Non mangio mai la cena.”
+
+“Ma stanotte ne avrai un po’. Ho fame. Anche tu, immagino, solo che te ne sei dimenticato.”
+
+Chiamando Mary, in poco tempo riuscii a mettere la stanza in ordine e a creare un'atmosfera più allegra; preparai anche per lui un pasto confortevole. Ero piena di entusiasmo e conversai con lui con piacere e disinvoltura durante la cena, e anche per molto tempo dopo. Non c'erano alcuna restrizione né alcun tentativo di reprimere la sua gioia e vivacità; con lui mi sentivo completamente a mio agio, perché sapevo di piacergli. Tutto ciò che dicevo o facevo sembrava confortarlo o rinvigorirlo. Che meravigliosa sensazione! In sua presenza tutta la mia natura veniva risvegliata e illuminata; vivevo appieno in quel momento, e lui viveva dentro di me. Anche se era cieco, sul suo viso comparivano sorrisi, sulla sua fronte si diffondeva la gioia. I suoi tratti diventavano più morbidi e caldi.
+
+Dopo cena, iniziò a farmi molte domande: dove fossi stata, cosa avessi fatto, come fossi riuscita a scoprirlo; ma gli rispondevo solo in modo molto vago: era troppo tardi per entrare nei dettagli di quella [[Night|notte]]. Inoltre, non volevo toccare alcuna corda profondamente commovente, né aprire nuove fonti di emozione nel suo cuore; il mio unico scopo era quello di rallegrarlo. Come ho detto, ci riuscii, ma solo a tratti. Se per un momento calava il [[Silence|silenzio]] durante la conversazione, diventava irrequieto, mi toccava e poi diceva: “Jane”.
+
+“Sei davvero una persona umana, Jane? Ne sei sicura?”
+
+
+Sei davvero una persona umana, Jane? Ne sei sicura?
+
+“Lo credo sinceramente, signor Rochester.”
+
+“Eppure, in questa sera buia e triste, come hai potuto apparire così all’improvviso davanti al mio focolare solitario? Ho teso la mano per prendere un bicchiere d’[[Water|acqua]] da uno straniero, ma è stato tu a darmelo; ho posto una domanda, aspettandomi che fosse la moglie di John a rispondermi, e invece è stata la tua voce ad echeggiare alle mie orecchie.”
+
+“Perché ero entrata al posto di Mary, portando il vassoio.”
+
+“E c’è davvero incanto nell’ora che sto ora trascorrendo con te. Chi può dire quale vita oscura, desolata e senza speranza abbia trascorso negli ultimi mesi? Non facendo nulla, non aspettando nulla; confondendo la [[Night|notte]] con il giorno; sentendo solo il freddo quando spegnevo il [[Fire|fuoco]], la fame quando dimenticavo di mangiare. E poi una tristezza incessante, e a volte un delirio di [[Desire|desiderio]] di rivedere ancora Jane. Sì: per il suo ritorno anelavo molto più che per la restituzione della mia vista perduta. Come è possibile che Jane sia con me e dica di amarmi? Non se ne andrà forse altrettanto improvvisamente come è arrivata? Domani, temo, non la troverò più.”
+
+Una risposta banale e pratica, nata dal flusso delle sue stesse idee turbate, era sicuramente la migliore e la più rassicurante per lui in quel momento. Passai un dito sulle sue sopracciglia e notai che erano bruciate; gli dissi che avrei applicato qualcosa che le avrebbe fatte ricrescere larghe e nere come prima.
+
+“A che serve farmi del bene in qualsiasi modo, o nobile spirito benefattore, se, in un momento fatale, mi abbandonerai di nuovo, scomparendo come un’[[Shadow|ombra]], senza che io sappia dove né come, e rimanendo per sempre irrintracciabile?”
 
 
 
@@ -46308,6 +50720,172 @@ fondness. He sees nothing attractive in me; not even youth—only a few
 useful mental points.—Then I must leave you, sir, to go to him?”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Quindi questo San Giovanni è tuo cugino?”
+
+“Sì, davvero.”
+
+# Lo hai menzionato spesso… Ti piace davvero?
+
+“Era davvero un uomo molto buono, signore; non ho potuto fare a meno di simpatizzarci con lui.”
+
+“Un uomo buono. Vuol dire un uomo rispettabile, di cinquant’anni, che si comporta in modo onesto e corretto? O cosa significa esattamente?”
+
+“St John aveva solo ventinove anni, signore.”
+
+“‘Ancora giovane,’ dicono i francesi. È una persona di statura bassa, flemmatica e semplice? Una persona la cui bontà risiede piuttosto nella sua assenza di vizi che nel suo impegno nelle virtù?”
+
+“È instancabilmente attivo; le grandi imprese e le azioni nobili sono ciò per cui vive.”
+
+“Ma il suo cervello? Probabilmente è abbastanza morbido. Voglio dire, quando parla, tu ti limiti a scrollare le spalle, ”
+
+“Parla poco, signore; ma ciò che dice è sempre diretto al punto. Penso che il suo cervello sia di prim'ordine, non facilmente influenzabile, ma piuttosto energico.”
+
+“Allora, è davvero un uomo capace?”
+
+# Davvero eccezionale.
+
+“Un uomo davvero istruito?”
+
+“San Giovanni è uno studioso eccezionale e profondo.”
+
+“I suoi modi, mi pare, non sono di vostro gusto… troppo presuntuosi e pedanti, vero?”
+
+“Non ho mai menzionato i suoi modi; ma, a meno che non abbia un gusto molto cattivo, devono essere adeguati. Sono raffinati, calmi e da gentiluomo.”
+
+“Il suo aspetto, —mi scordo quale descrizione mi avete dato del suo aspetto— una sorta di curato goffo e impacciato, quasi soffocato dal colletto bianco, e che camminava con quelle scarpe a suole spesse, eh?”
+
+“San Giovanni è molto attraente. È un uomo alto, biondo, con occhi blu e un profilo greco.”
+
+(#Di sguardo.) “Maledetto lui…” — (“A te è piaciuto, Jane?”)
+
+“Sì, signor Rochester, mi piaceva… Ma me lo avevate già chiesto prima.”
+
+Naturalmente percepii la direzione verso cui si stava sviluppando il discorso del mio interlocutore. La [[Jealousy|Invidia]] lo aveva afferrato: lo tormentava; ma quel tormento era salutare, poiché gli dava un po’ di tregua dal morso corrosivo della [[Melancholy|melanconia]]. Pertanto, non avrei voluto “incantare” immediatamente quella “serpente”.
+
+“Forse preferireste non sedervi più sulle mie ginocchia, signorina Eyre, ” fu la seguente osservazione, piuttosto inaspettata.
+
+“Perché no, signor Rochester?”
+
+“Il ritratto che avete appena disegnato suggerisce un contrasto piuttosto eccessivo tra i personaggi raffigurati. Le vostre parole hanno descritto con grande bellezza un grazioso [[Apollo]]: alto, biondo, dagli occhi azzurri e con un profilo greco. I vostri occhi, invece, si soffermano su un personaggio simile a Vulcano, un vero fabbro di ferro, bruno, dalle spalle larghe, ma cieco e zoppo.”
+
+“Non ci avevo mai pensato prima, ma lei assomiglia davvero molto a Vulcano, signore.”
+
+“Beh, può lasciarmi, signora, ma prima di andarsene” (e mi tenne stretta con una presa più decisa del solito), “le farà piacere rispondere a una o due domande, almeno.” Fece una pausa.
+
+“Quali domande, signor Rochester?”
+
+Poi seguì questo [[Cross|esame]] approfondito.
+
+“San Giovanni ti ha nominata insegnante a Morton prima ancora di scoprire che eri sua cugina?”
+
+“Sì, davvero.”
+
+Lo vedevi spesso? Veniva a scuola di tanto in tanto?
+
+“ quotidiano”.
+
+“Gli piacerebbero i tuoi piani, Jane? So che sarebbero intelligenti, perché sei davvero una persona talentuosa!”
+
+“Li approvava… sì.”
+
+“Scoprirebbe in te molte cose che non si aspettava di trovare. Alcuni dei tuoi successi non sono affatto ordinari.”
+
+“Non ne so nulla.”
+
+“Avevi una piccola casetta vicino alla scuola, hai detto… Lui è mai venuto lì a trovarti?”
+
+“A volte.”
+
+“Di una sera…”
+
+“Una o due volte.”
+
+Una pausa.
+
+# Quanto tempo sei rimasta con lui e sue sorelle dopo che il legame di parentela è stato scoperto?
+
+"Cinque mesi."
+
+“Ha trascorso molto [[Time|tempo]] con le donne della sua famiglia, Rivers?”
+
+“Sì; il salotto sul retro era sia il suo studio che il nostro: lui sedeva vicino alla [[Window|finestra]], e noi intorno al tavolo.”
+
+#Ha studiato molto?
+
+“Un ottimo affare.”
+
+“Cosa?”
+
+“Hindostanee.”
+
+“E intanto, cosa hai fatto tu?”
+
+“All’inizio ho imparato il tedesco.”
+
+“Te l’ha insegnato lui?”
+
+#Non capiva il tedesco.
+
+“Non ti ha insegnato nulla?”
+
+“Un piccolo indiano dell’Hindustan”.
+
+# Hai imparato il hindi dai fiumi?
+
+“Sì, signore.”
+
+“E anche le sue sorelle?”
+
+“No.”
+
+Solo tu?
+
+Solo io.
+
+# Hai mai chiesto di imparare?
+
+“No.”
+
+“Voleva insegnarti qualcosa?”
+
+“Sì, davvero.”
+
+Un’altra pausa.
+
+# Perché lo desiderava? A che ti sarebbe servita la lingua hindi?
+
+“Voleva che lo accompagnassi in India.”
+
+“Ah! Ecco arrivato alla radice del problema: voleva che tu lo sposassi, vero?”
+
+“Mi ha chiesto di sposarlo.”
+
+“È una pura invenzione… un’audace falsità creata solo per infastidirmi.”
+
+“Mi scusi, ma è la letterale [[Truth|verità]]: mi l’ha chiesto più di una volta, e si è dimostrato altrettanto insistente nel sottolineare il suo punto quanto lei possa essere.”
+
+“Signorina Eyre, ripeto: può andarsene. Quante volte devo dirlo ancora? Perché insiste nel rimanere seduta sul mio ginocchio, se le ho già chiesto di andarsene?”
+
+“Perché mi ci sento a mio agio.”
+
+“No, Jane, tu non sei felice lì, perché il tuo cuore non è con me: è con questo cugino, questo St. John. Oh, fino a questo momento pensavo che la mia piccola Jane fosse tutta mia! Credevo che mi amasse anche quando mi ha lasciato. Quella era un’oasi di dolcezza in mezzo a tanta amarezza. Per tutto il tempo in cui siamo stati separati, non ho mai pensato che, mentre io piangevo la nostra lontananza, lei stesse amando un altro! Ma è inutile continuare a soffrire. Jane, lasciami: vai e sposa Rivers.”
+
+#"Scacciatemi via, allora, signore… spingetemi lontano, perché non vi lascerò andare di mia volontà."
+
+“Jane, mi piace sempre molto il tuo tono di voce: rinnova ancora la [[Hope|speranza]], suona così sincero. Quando te lo sento, mi riporta indietro di un anno. Dimentico che tu abbia stretto nuove relazioni. Ma non sono uno [[Fool|idiota]]. Vai pure.”
+
+“Dove devo andare, signore?”
+
+“Il tuo modo… con l’uomo che hai scelto.”
+
+“Chi è quella persona?”
+
+“Sai… questo St. John Rivers.”
+
+“Lui non è mio marito, e mai lo sarà. Non mi [[Love|ama]]: io non lo [[Love|amo]] nemmeno lui. Lui ama (perché _può_ amare, e questo non è come voi [[Love|amate]]) una bella giovane donna di nome Rosamond. Voleva sposarmi solo perché pensava che fossi adatta a diventare la moglie di un missionario, qualcosa che lei mai avrebbe fatto. È buono e nobile, ma severo; per me, freddo come un iceberg. Non è come voi, signore: non sono felice al suo fianco, né vicino a lui, né con lui. Non ha alcuna indulgenza verso di me, nessun affetto. Non vede nulla di attraente in me, nemmeno la mia giovinezza, solo alcuni aspetti mentali utili. Allora, devo lasciarvi, signore, per andare da lui.”
+
 
 
 <span class="atom-split" data-atom="chapter_37--part_06" data-title="Jane Eyre — Chapter 37 (part 6)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/shadow,motif/clock,motif/death,motif/decay,motif/home,motif/lightning,motif/love,motif/nature,motif/night,motif/prayer,motif/wind,concept/exile,concept/guilt,concept/hope,concept/loneliness,concept/nature,character/jane_eyre"></span>
@@ -46474,6 +51052,104 @@ be taken from this life, and admitted to that world to come, where
 there was still [[Hope|hope]] of rejoining Jane.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Rabbrividii involontariamente e mi avvicinai istintivamente di più al mio padrone cieco, ma amato. Lui sorrise.
+
+“Cosa? Jane… È davvero vero? È davvero così la situazione tra te e Rivers?”
+
+“Assolutamente, signore! Oh, non dovete essere gelosi. Volevo solo prendervi in giro un po’ per farvi stare meno tristi: pensavo che la rabbia fosse meglio del dolore. Ma se desiderate che vi [[Love|ammi]], potreste vedere quanto vi [[Love|amo]] davvero. Allora sareste orgogliosi e soddisfatti. Tutto il mio cuore è vostro, signore: appartiene a voi, e rimarrà con voi anche se il destino dovesse allontanarmi per sempre dalla vostra presenza.”
+
+Di nuovo, mentre mi baciava, pensieri dolorosi offuscarono il suo volto.
+
+“La mia vista offuscata. La mia forza indebolita, ” mormorò con rimpianto.
+
+Lo accarezzai per consolarlo. Sapevo a cosa stava pensando e volevo parlare al suo posto, ma non osavo farlo. Quando distolse il viso per un momento, vidi una lacrima scivolare sotto le palpebre chiuse e scorrere lungo la sua guancia virile. Il mio cuore si gonfiò di commozione.
+
+“Non sono migliore di quel vecchio castagno colpito dal fulmine nel frutteto di Thornfield,” osservò poco dopo. “E quale diritto avrebbe quella rovina di pretendere che una giovane pianta di gelsomino copra la sua [[Decay|decadenza]] con freschezza?”
+
+“Non siete una rovina, signore, non un albero colpito dal [[Lightning|fulmine]]: siete ancora verdi e rigogliosi. Le piante cresceranno intorno alle vostre radici, che lo vogliate o no, perché trovano gioia nella vostra abbondante ombra; e crescendo, si inclineranno verso di voi e il [[Wind|vento]] le farà avvolgersi intorno a voi, poiché la vostra forza offre loro un sostegno sicuro.”
+
+Di nuovo sorrise: gli ho dato conforto.
+
+“Parli di amici, Jane?”, chiese lui.
+
+“Sì, di amici,” risposi con qualche esitazione: perché sapevo che intendevo qualcosa di più di semplici amici, ma non riuscivo a trovare un'altra parola per esprimerlo. Lui mi aiutò.
+
+“Ah! Jane… Ma voglio una moglie.”
+
+“Davvero, signore?”
+
+“Sì… è una notizia nuova per te?”
+
+"Certo: non ne hai mai parlato prima."
+
+“Sono notizie sgradite?”
+
+“Dipende dalle circostanze, signore… dalla sua scelta.”
+
+“Deciderai tu per me, Jane… Accetterò qualunque tua scelta.”
+
+Scelga dunque, signore… _quella che lo ama di più_.
+
+“Almeno sceglierò, lei, che è la persona che amo di più. Jane, mi sposerai?”
+
+“Sì, signore.”
+
+“Un povero uomo cieco, che dovrete guidare tenendolo per la mano…”
+
+“Sì, signore.”
+
+“Un uomo disabile, vent’anni più vecchio di te… di cui dovrai prenderti cura?”
+
+“Sì, signore.”
+
+“Davvero, Jane?”
+
+“Con tutto il rispetto, signore.”
+
+“Oh, mio caro… Che Dio ti benedica e ti ricompensi!”
+
+“Signor Rochester, se mai nella mia vita ho compiuto un atto buono, se mai ho avuto un pensiero gentile, se mai ho recitato una preghiera sincera e senza peccato, se mai ho espresso un desiderio giusto, ora sono ricompensata. Essere vostra moglie significa per me essere la più felice possibile in questa vita.”
+
+“Perché ti compiaci nel sacrificio.”
+
+“Sacrificio. Cosa dovrei sacrificare? La fame per il cibo, le aspettative per la soddisfazione. Avere il privilegio di abbracciare ciò che ho valore, di posare le mie labbra su ciò che [[Love|amo]], di riposarmi su ciò in cui ho fiducia: è questo considerarsi un sacrificio? Se sì, allora certamente mi compiaccio nel fare sacrifici.”
+
+“E soprattutto, Jane… avere pazienza con le mie debolezze, ignorare i miei difetti.”
+
+“Nessuna di queste cose conta per me, signore. Ora che posso davvero esservi utile, vi amo ancora di più rispetto a quando eravate in quello stato di orgogliosa indipendenza, quando disdegnavate ogni ruolo tranne quello di donatore e protettore.”
+
+“Fino ad ora ho odiato essere aiutato, essere guidato; da ora in poi, sento che non lo odierò più. Non mi piaceva mettere la mia mano nelle mani di uno straniero, ma è piacevole sentirla circondata dalle piccole dita di Jane. Preferivo l’assoluta [[Loneliness|solitudine]] alla costante presenza dei servitori; ma le premure dolci di Jane saranno una gioia perpetua. Jane mi si addice. Ma io mi addico a lei?”
+
+“Con tutte le migliori qualità della mia [[Nature|>natura]], signore.”
+
+“Visto che le cose stanno così, non abbiamo nulla al mondo che ci trattenga: dobbiamo sposarci immediatamente.”
+
+Guardava e parlava con entusiasmo: la sua vecchia impulsività stava riemergendo.
+
+“Dobbiamo diventare una cosa sola senza indugiare, Jane: ci manca soltanto il permesso, poi ci sposeremo.”
+
+“Signor Rochester, ho appena scoperto che il sole si trova molto lontano dal suo meridiano, e Pilot è in realtà già tornato a [[Home|>casa]] per cena. Lasciate che controlli il vostro orologio.”
+
+“Legatelo alla cintura, Janet, e tenetelo da ora in poi: non ne ho più bisogno.”
+
+“Sono quasi le quattro del pomeriggio, signore. Non ha fame?”
+
+“Il terzo giorno da oggi dovrà essere il nostro giorno di nozze, Jane. Lascia perdere abiti eleganti e gioielli: tutto ciò non ha alcun valore.”
+
+“Il sole ha asciugato tutte le gocce di pioggia, signore. La brezza è ferma; fa davvero caldo.”
+
+“Sai, Jane, in questo momento il tuo piccolo collare di perle è attaccato al mio collo, sotto la cravatta. Lo indosso da quando ho perso il mio unico tesoro, come ricordo di lei.”
+
+“Torneremo a [[Home|casa]] passando per il bosco: sarà il percorso più ombreggiato.”
+
+Continuò a seguire i propri pensieri, ignorandomi completamente.
+
+“Jane! Forse tu mi consideri un uomo irreligioso. Ma in questo momento il mio cuore si riempie di gratitudine verso il benevolo Dio di questa terra. Lui non vede come vediamo noi, ma molto più chiaramente; non giudica come giudichiamo noi, ma con molta maggiore saggezza. Ho commesso un errore: avrei contaminato la mia [[Innocent|innocenza]], avrei sovraffatto la sua purezza con il [[Guilt|peccato]]; l’Onnipotente me l’ha strappata via. Nella mia testarda ribellione, ho quasi maledetto questa punizione. Invece di sottomettermi al suo volere, l’ho sfidato. La giustizia divina ha seguito il suo corso; disastri si sono abbattuti su di me. Sono stato costretto a passare attraverso la valle dell’[[Shadow|ombra]] della [[Death|morte]]. Le sue punizioni sono terribili. Una in particolare mi ha umiliato per sempre. Sai quanto fossi orgoglioso della mia forza. Ma ora, che devo affidarmi ad altri per guidarmi, come un [[Child|bambino]] si affida alla propria debolezza. Solo di recente ho iniziato a riconoscere la mano di Dio nella mia sventura. Ho provato rimorso, pentimento. Il desiderio di riconciliarmi con il mio Creatore. A volte ho pregato. Preghiere brevi, ma sincere.”
+
+“Sono trascorsi alcuni giorni, no, posso persino contarli: quattro. Fu lunedì sera scorso che un sentimento strano mi invase: il dolore sostituì la follia, tristezza, malinconia. Da tempo avevo l’impressione che, poiché non riuscivo a trovarti da nessuna parte, tu dovessi essere morto. Quella sera, forse tra le undici e le dodici, prima di ritirarmi nel mio triste riposo, pregai Dio affinché, se fosse stato suo volere, mi portasse presto via da questa vita e mi facesse entrare in quel mondo futuro, dove c’era ancora la [[Hope|>speranza]] di riunirmi a Jane.”
+
 
 
 <span class="atom-split" data-atom="chapter_37--part_07" data-title="Jane Eyre — Chapter 37 (part 7)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/blood,motif/hill,motif/moon,motif/night,motif/rose,motif/silence,motif/sleep,motif/soul,motif/stars,motif/supernatural,motif/time,motif/wind,motif/window,concept/doubt,concept/humility,concept/mercy,concept/wonder,setting/mountains,character/jane_eyre"></span>
@@ -46549,6 +51225,32 @@ it a moment to my lips, then let it pass round my shoulder: being so
 much lower of stature than he, I served both for his prop and guide. We
 entered the wood, and wended homeward.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Ero nella mia stanza, seduto vicino alla [[Window|finestra]], che era aperta: sentire l’aria fresca e profumata della [[Night|notte]] mi rasserenava; anche se non riuscivo a vedere le [[Stars|stelle]], solo attraverso una nebbia luminosa potevo intuire la presenza della [[Moon|luna]]. Mi mancavi tanto, Janet. Oh, mi mancavi con tutto il mio [[Soul|cuore]] e con ogni fibra del mio essere! Chiesi a Dio, con angoscia e [[Humility|umiltà]], se non avessi già sofferto abbastanza, se non potessi presto assaporare di nuovo felicità e pace. Ammettevo di meritare tutto ciò che avevo sopportato; pregavo che mi fosse concesso di resistere ancora un po’. E le parole “Jane! Jane! Jane!” uscirono involontariamente dalle mie labbra, esprimendo tutti i desideri del mio cuore.”
+
+# Hai pronunciato queste parole ad alta voce?
+
+“L’ho fatto, Jane. Se qualcuno mi avesse ascoltato, avrebbe pensato che fossi pazza: le ho pronunciate con tale energia frenetica.”
+
+“E fu l’ultima domenica sera, verso mezzanotte, vero?”
+
+“Sì; ma il [[Time|tempo]] non ha alcuna importanza: ciò che è seguito è la parte strana della storia. Potreste pensare che io sia superstizioso, una sorta di superstizione che ho nel mio [[Blood|sangue]], e che ho sempre avuto; tuttavia, questo è vero, almeno è vero che ho sentito ciò che ora vi sto raccontando.”
+
+“Mentre gridavo ‘Jane! Jane! Jane!’, una voce – non so da dove provenisse, ma so di chi fosse – rispose: ‘Sto arrivando; aspettami’. Un attimo dopo, quella voce sussurrò nel [[Wind|>vento]] le parole: ‘Dove sei?’”
+
+“Vi dirò, se ci riesco, l’idea, l’immagine che queste parole hanno suscitato nella mia mente: tuttavia è difficile esprimere ciò che voglio dire. Ferndean è sepolto, come vedete, in una fitta foresta, dove i suoni si attenuano e muoiono senza echeggiare. ‘Dove sei?’ sembrava essere detto tra le [[Mountains|montagne]]; infatti sentii un eco provenire da una [[Hill|collina]] ripetere quelle parole. In quel momento, il vento pareva più fresco e leggero. Avrei potuto pensare che, in qualche luogo selvaggio e solitario, io e Jane ci stessimo incontrando. Nell’anima, credo che ci siamo davvero incontrati. Non dubitate affatto, Jane: in quell’ora eravate certamente immersa in un sonno profondo. Forse la vostra [[Soul|anima]] si era allontanata dal suo “cello” per consolare la mia. Perché quelle erano davvero le vostre parole. Ne sono certo!”
+
+Lettore, fu lunedì sera – vicino a mezzanotte – che anch’io ricevetti quell’appello misterioso; con quelle stesse parole risposi ad esso. Ascoltai il racconto del signor Rochester, ma non rivelai nulla in cambio. Quella coincidenza mi sembrava troppo orribile e inspiegabile per essere condivisa o discussa. Se avessi detto qualcosa, la mia storia avrebbe sicuramente suscitato un’impressione profonda nell’animo di chi l’avesse ascoltata; ma quell’animo, già troppo incline alla tristezza a causa delle sue sofferenze, non aveva bisogno dell’ombra ancora più cupa del [[Supernatural|sovrannaturale]]. Così tenni per me queste cose e le riflettei nel mio cuore.
+
+“Ora non puoi più [[Wonder|meravigliarti]],” continuò il mio maestro, “del fatto che quando sei apparsa davanti a me in modo così inaspettato la scorsa [[Night|notte]], ho avuto difficoltà a credere che tu fossi qualcosa di reale, e non soltanto una voce o un’immagine effimera, qualcosa che sarebbe svanito nel [[Silence|silenzio]] come erano scomparsi il sussurro di mezzanotte e l’eco delle montagne. Ora, ringrazio Dio! So che non è così.”
+
+Mi mise in ginocchio, mi porse una [[Rose|rosa]], sollevò rispettosamente il cappello dalla fronte e, abbassando i suoi occhi non vedenti verso la terra, rimase in silenziosa devozione. Si udirono solo le ultime parole di quella preghiera.
+
+“Ringrazio il mio Creatore per aver, nel mezzo del giudizio, ricordato della [[Mercy|miserizia]]. Umilmente supplico il mio Redentore di darmi la forza di condurre da ora in poi una vita più pura di quella che ho vissuto finora!”
+
+Poi tese la mano per farsi guidare. Presi quella cara mano, la portai un attimo alle mie labbra, poi la posizionai sul mio collo: essendo molto più bassa di lui, fungevo sia da sostegno che da guida. Entrammo nel bosco e iniziammo il cammino verso casa.
 
 
 
@@ -46740,6 +51442,7 @@ respond,—‘Amen; even so come, Lord Jesus!’”
 
 #CAPITOLO XXXVIII – CONCLUSIONE
 
+
 Lettore, l’ho sposato. Abbiamo avuto un matrimonio tranquillo: solo lui, io, il parroco e il cancelliere eravamo presenti. Tornati dalla chiesa, sono entrata in cucina della residenza padronale; Mary stava preparando la cena e John puliva i coltelli. E allora ho detto.
 
 “Mary, stamattina ho sposato il signor Rochester.” La cameriera e suo marito appartenevano a quel tipo di persone perbene e tranquille, con cui si può sempre comunicare una notizia straordinaria senza rischiare di essere assordati da esclamazioni acute o sopraffatti da un diluvio di commenti meravigliosi. Mary alzò lo sguardo e mi fissò: la paletta con cui stava condendo due polli arrostiti sul [[Fire|forno]] rimase sospesa in aria per circa tre minuti; nello stesso lasso di tempo, anche i coltelli di John smisero di essere lucidati. Ma Mary, riprendendo a occuparsi dei polli, disse soltanto:
@@ -46773,6 +51476,7 @@ Una mattina, alla fine di quei due anni, mentre scrivevo una lettera seguendo le
 Avevo una catena d’orologio d’oro: risposi “Sì”.
 
 “E hai addosso un vestito di colore blu pallido?”
+
 
 E hai addosso un vestito di colore blu pallido?
 

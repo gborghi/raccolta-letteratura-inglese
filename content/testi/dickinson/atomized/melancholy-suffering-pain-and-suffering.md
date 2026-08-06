@@ -2,13 +2,13 @@
 title: "To the Rev. F. F. Emerson"
 author: "Dickinson"
 unitType: work
-parentWork: "works/melancholy-·-suffering-·-pain-and-suffering-(keats)"
+parentWork: "works/melancholy-·-suffering-·-pain-and-suffering-(dickinson)"
 tags:
   - graph/excerpt
   - author/Dickinson
 ---
 
-<div class="atom-reader" data-work="testi/dickinson/atomized/melancholy-suffering-pain-and-suffering" data-author="Dickinson" data-workhref="works/melancholy-·-suffering-·-pain-and-suffering-(keats)"></div>
+<div class="atom-reader" data-work="testi/dickinson/atomized/melancholy-suffering-pain-and-suffering" data-author="Dickinson" data-workhref="works/melancholy-·-suffering-·-pain-and-suffering-(dickinson)"></div>
 
 
 <span class="atom-split" data-atom="0305_the_difference_between_despair" data-title="305. The difference between Despair" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,motif/the_sea,concept/melancholy,concept/terror_and_horror,concept/self_and_soul,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>

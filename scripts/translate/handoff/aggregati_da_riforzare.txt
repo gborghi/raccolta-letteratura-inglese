@@ -1,0 +1,45 @@
+Opere da riassemblare con --force (task #14). Da lanciare SOLO a code ferme:
+assemblare mentre le foglie vengono scritte tronca in silenzio.
+
+Blocco 1 -- le 19 originali: contenevano blocchi di cache corrotti.
+VaultEnglish/Authors/Belloc/Atomized/A_Moral_Alphabet
+VaultEnglish/Authors/Belloc/Atomized/Europe_and_the_Faith
+VaultEnglish/Authors/Belloc/Atomized/Marie_Antoinette
+VaultEnglish/Authors/Belloc/Atomized/Six_British_Battles
+VaultEnglish/Authors/Belloc/Atomized/Sonnets_and_Verse
+VaultEnglish/Authors/Belloc/Atomized/The_Hedge_and_the_Horse
+VaultEnglish/Authors/Belloc/Atomized/The_Jews
+VaultEnglish/Authors/Belloc/Atomized/The_Mercy_of_Allah
+VaultEnglish/Authors/Belloc/Atomized/The_Path_to_Rome
+VaultEnglish/Authors/Belloc/Atomized/The_Romance_of_Tristan_and_Iseult
+VaultEnglish/Authors/Dickens/Atomized/American_Notes
+VaultEnglish/Authors/Dickens/Atomized/Bleak_House
+VaultEnglish/Authors/Dickens/Atomized/Dombey_and_Son
+VaultEnglish/Authors/Dickens/Atomized/Little_Dorrit
+VaultEnglish/Authors/Dickens/Atomized/Martin_Chuzzlewit
+VaultEnglish/Authors/Dickens/Atomized/Our_Mutual_Friend
+VaultEnglish/Authors/Dickens/Atomized/Sketches_by_Boz
+VaultEnglish/Authors/Dickens/Atomized/The_Mystery_of_Edwin_Drood
+VaultEnglish/Authors/Dickens/Atomized/The_Pickwick_Papers
+
+Blocco 2 -- aggiunte il 2026-08-04: l'aggregato diverge dalle sue foglie.
+Due prove indipendenti che concordano sui Dickens:
+  (a) l'aggregato porta una ]] orfana che NESSUNA foglia contiene;
+  (b) la riga-firma di almeno una foglia non compare nell'aggregato.
+VaultEnglish/Authors/Dickens/Atomized/A_Tale_of_Two_Cities
+VaultEnglish/Authors/Dickens/Atomized/David_Copperfield
+VaultEnglish/Authors/Dickens/Atomized/Oliver_Twist
+VaultEnglish/Authors/Dickens/Atomized/The_Cricket_on_the_Hearth
+VaultEnglish/Authors/Sayers/Atomized/The_Mind_of_the_Maker
+
+NON in lista, di proposito:
+- I 162 aggregati Chesterton che la prova (b) segnala. Non sono assemblati dalle foglie:
+  furono tradotti dal modello come blocco unico. Riassemblarli non e' una riparazione,
+  e' una decisione editoriale che spetta all'utente (i "139 aggregati" gia' in sospeso).
+- I 15 file con la ]] orfana NON vanno corretti a mano: sono tutti aggregati o libri,
+  nessuna foglia, e il --force li rigenera puliti dalle foglie che sono gia' a posto.
+  Ritoccarli ora nasconderebbe soltanto se il riassemblaggio ha funzionato davvero.
+
+Nota su mtime: NON usarlo come rivelatore di stantio. Pickwick, Oliver_Twist,
+The_Cricket_on_the_Hearth e Martin_Chuzzlewit hanno l'aggregato piu' RECENTE delle foglie
+e contengono lo stesso un'orfana che le foglie non hanno.

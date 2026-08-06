@@ -1,0 +1,670 @@
+{
+  "generated": "2026-08-04T22:25:52.427Z",
+  "author": "Eliot",
+  "finals": [
+    {
+      "label": "Satire of Society · Epigram · Satire",
+      "slug": "satire-of-society-epigram-satire",
+      "members": [
+        {
+          "note": "A Cooking Egg (Eliot).md",
+          "title": "A Cooking Egg",
+          "atom": "Authors/Eliot/Atomized/satire-of-society-epigram-satire/018_A_Cooking_Egg.md"
+        },
+        {
+          "note": "Coriolan (Eliot).md",
+          "title": "Coriolan",
+          "atom": "Authors/Eliot/Atomized/satire-of-society-epigram-satire/050_Coriolan.md"
+        },
+        {
+          "note": "Cousin Nancy (Eliot).md",
+          "title": "Cousin Nancy",
+          "atom": "Authors/Eliot/Atomized/satire-of-society-epigram-satire/009_Cousin_Nancy.md"
+        },
+        {
+          "note": "Defence of the Islands (Eliot).md",
+          "title": "Defence of the Islands",
+          "atom": "Authors/Eliot/Atomized/satire-of-society-epigram-satire/074_Defence_of_the_Islands.md"
+        },
+        {
+          "note": "Landscapes (Eliot).md",
+          "title": "Landscapes",
+          "atom": "Authors/Eliot/Atomized/satire-of-society-epigram-satire/055_Landscapes.md"
+        },
+        {
+          "note": "Le Directeur (Eliot).md",
+          "title": "Le Directeur",
+          "atom": "Authors/Eliot/Atomized/satire-of-society-epigram-satire/019_Le_Directeur.md"
+        },
+        {
+          "note": "Mélange Adultère de Tout (Eliot).md",
+          "title": "Mélange Adultère de Tout",
+          "atom": "Authors/Eliot/Atomized/satire-of-society-epigram-satire/020_Mélange_Adultère_de_Tout.md"
+        },
+        {
+          "note": "Mr. Apollinax (Eliot).md",
+          "title": "Mr. Apollinax",
+          "atom": "Authors/Eliot/Atomized/satire-of-society-epigram-satire/010_Mr_Apollinax.md"
+        },
+        {
+          "note": "The Boston Evening Transcript (Eliot).md",
+          "title": "The Boston Evening Transcript",
+          "atom": "Authors/Eliot/Atomized/satire-of-society-epigram-satire/007_The_Boston_Evening_Transcript.md"
+        },
+        {
+          "note": "The Hippopotamus (Eliot).md",
+          "title": "The Hippopotamus",
+          "atom": "Authors/Eliot/Atomized/satire-of-society-epigram-satire/022_The_Hippopotamus.md"
+        },
+        {
+          "note": "Y, Z (Eliot).md",
+          "title": "Y, Z",
+          "atom": "Authors/Eliot/Atomized/satire-of-society-epigram-satire/124_Y_Z.md"
+        }
+      ]
+    },
+    {
+      "label": "Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet",
+      "slug": "unrequited-frustrated-love-unattainable-beloved-petrarchan",
+      "members": [
+        {
+          "note": "A Dedication to my Wife (Eliot).md",
+          "title": "A Dedication to my Wife",
+          "atom": "Authors/Eliot/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/078_A_Dedication_to_my_Wife.md"
+        },
+        {
+          "note": "Circe’s Palace (Eliot).md",
+          "title": "Circe’s Palace",
+          "atom": "Authors/Eliot/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/108_Circes_Palace.md"
+        },
+        {
+          "note": "Conversation Galante (Eliot).md",
+          "title": "Conversation Galante",
+          "atom": "Authors/Eliot/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/012_Conversation_Galante.md"
+        },
+        {
+          "note": "Humouresque (Eliot).md",
+          "title": "Humouresque",
+          "atom": "Authors/Eliot/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/112_Humouresque.md"
+        },
+        {
+          "note": "La Figlia Che Piange (Eliot).md",
+          "title": "La Figlia Che Piange",
+          "atom": "Authors/Eliot/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/013_La_Figlia_Che_Piange.md"
+        },
+        {
+          "note": "Nocturne (Eliot).md",
+          "title": "Nocturne",
+          "atom": "Authors/Eliot/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/111_Nocturne.md"
+        },
+        {
+          "note": "On a Portrait (Eliot).md",
+          "title": "On a Portrait",
+          "atom": "Authors/Eliot/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/109_On_a_Portrait.md"
+        },
+        {
+          "note": "Sweeney Erect (Eliot).md",
+          "title": "Sweeney Erect",
+          "atom": "Authors/Eliot/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/017_Sweeney_Erect.md"
+        },
+        {
+          "note": "The wind sprang up at four o’clock (Eliot).md",
+          "title": "The wind sprang up at four o’clock",
+          "atom": "Authors/Eliot/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/053_The_wind_sprang_up_at_four_oclock.md"
+        },
+        {
+          "note": "To Walter de la Mare (Eliot).md",
+          "title": "To Walter de la Mare",
+          "atom": "Authors/Eliot/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/077_To_Walter_de_la_Mare.md"
+        }
+      ]
+    },
+    {
+      "label": "Joy · Animals · Comic Verse Song",
+      "slug": "joy-animals-comic-verse-song",
+      "members": [
+        {
+          "note": "A Fable for Feasters (Eliot).md",
+          "title": "A Fable for Feasters",
+          "atom": "Authors/Eliot/Atomized/joy-animals-comic-verse-song/102_A_Fable_for_Feasters.md"
+        },
+        {
+          "note": "Bustopher Jones the Cat About Town (Eliot).md",
+          "title": "Bustopher Jones: the Cat About Town",
+          "atom": "Authors/Eliot/Atomized/joy-animals-comic-verse-song/091_Bustopher_Jones_the_Cat_About_Town.md"
+        },
+        {
+          "note": "Cat Morgan Introduces Himself (Eliot).md",
+          "title": "Cat Morgan Introduces Himself",
+          "atom": "Authors/Eliot/Atomized/joy-animals-comic-verse-song/094_Cat_Morgan_Introduces_Himself.md"
+        },
+        {
+          "note": "Growltiger’s Last Stand (Eliot).md",
+          "title": "Growltiger’s Last Stand",
+          "atom": "Authors/Eliot/Atomized/joy-animals-comic-verse-song/082_Growltigers_Last_Stand.md"
+        },
+        {
+          "note": "Gus the Theatre Cat (Eliot).md",
+          "title": "Gus: the Theatre Cat",
+          "atom": "Authors/Eliot/Atomized/joy-animals-comic-verse-song/090_Gus_the_Theatre_Cat.md"
+        },
+        {
+          "note": "Macavity the Mystery Cat (Eliot).md",
+          "title": "Macavity: the Mystery Cat",
+          "atom": "Authors/Eliot/Atomized/joy-animals-comic-verse-song/089_Macavity_the_Mystery_Cat.md"
+        },
+        {
+          "note": "Mr. Mistoffelees (Eliot).md",
+          "title": "Mr. Mistoffelees",
+          "atom": "Authors/Eliot/Atomized/joy-animals-comic-verse-song/088_Mr_Mistoffelees.md"
+        },
+        {
+          "note": "Mungojerrie and Rumpelteazer (Eliot).md",
+          "title": "Mungojerrie and Rumpelteazer",
+          "atom": "Authors/Eliot/Atomized/joy-animals-comic-verse-song/085_Mungojerrie_and_Rumpelteazer.md"
+        },
+        {
+          "note": "Of the Awefull Battle of the Pekes and the Pollicles (Eliot).md",
+          "title": "Of the Awefull Battle of the Pekes and the Pollicles",
+          "atom": "Authors/Eliot/Atomized/joy-animals-comic-verse-song/087_Of_the_Awefull_Battle_of_the_Pekes_and_the_Pollicles.md"
+        },
+        {
+          "note": "Old Deuteronomy (Eliot).md",
+          "title": "Old Deuteronomy",
+          "atom": "Authors/Eliot/Atomized/joy-animals-comic-verse-song/086_Old_Deuteronomy.md"
+        },
+        {
+          "note": "Skimbleshanks the Railway Cat (Eliot).md",
+          "title": "Skimbleshanks: the Railway Cat",
+          "atom": "Authors/Eliot/Atomized/joy-animals-comic-verse-song/092_Skimbleshanks_the_Railway_Cat.md"
+        },
+        {
+          "note": "Song ‘The moonflower opens to the moth’ (Eliot).md",
+          "title": "Song: ‘The moonflower opens to the moth’",
+          "atom": "Authors/Eliot/Atomized/joy-animals-comic-verse-song/110_Song_The_moonflower_opens_to_the_moth.md"
+        },
+        {
+          "note": "The Ad-dressing of Cats (Eliot).md",
+          "title": "The Ad-dressing of Cats",
+          "atom": "Authors/Eliot/Atomized/joy-animals-comic-verse-song/093_The_Ad-dressing_of_Cats.md"
+        },
+        {
+          "note": "The Naming of Cats (Eliot).md",
+          "title": "The Naming of Cats",
+          "atom": "Authors/Eliot/Atomized/joy-animals-comic-verse-song/080_The_Naming_of_Cats.md"
+        },
+        {
+          "note": "The Old Gumbie Cat (Eliot).md",
+          "title": "The Old Gumbie Cat",
+          "atom": "Authors/Eliot/Atomized/joy-animals-comic-verse-song/081_The_Old_Gumbie_Cat.md"
+        },
+        {
+          "note": "The Rum Turn Tugger (Eliot).md",
+          "title": "The Rum Turn Tugger",
+          "atom": "Authors/Eliot/Atomized/joy-animals-comic-verse-song/083_The_Rum_Turn_Tugger.md"
+        },
+        {
+          "note": "The Song of the Jellicles (Eliot).md",
+          "title": "The Song of the Jellicles",
+          "atom": "Authors/Eliot/Atomized/joy-animals-comic-verse-song/084_The_Song_of_the_Jellicles.md"
+        }
+      ]
+    },
+    {
+      "label": "Memory and Time · Memory · Nostalgia",
+      "slug": "memory-and-time-memory-nostalgia",
+      "members": [
+        {
+          "note": "A Lyric ‘If Time and Space, as Sages say’ (Eliot).md",
+          "title": "(A Lyric): ‘If Time and Space, as Sages say’",
+          "atom": "Authors/Eliot/Atomized/memory-and-time-memory-nostalgia/103_A_Lyric_If_Time_and_Space_as_Sages_say.md"
+        },
+        {
+          "note": "Aunt Helen (Eliot).md",
+          "title": "Aunt Helen",
+          "atom": "Authors/Eliot/Atomized/memory-and-time-memory-nostalgia/008_Aunt_Helen.md"
+        },
+        {
+          "note": "Before Morning (Eliot).md",
+          "title": "Before Morning",
+          "atom": "Authors/Eliot/Atomized/memory-and-time-memory-nostalgia/107_Before_Morning.md"
+        },
+        {
+          "note": "Burbank with a Baedeker Bleistein with a Cigar (Eliot).md",
+          "title": "Burbank with a Baedeker: Bleistein with a Cigar",
+          "atom": "Authors/Eliot/Atomized/memory-and-time-memory-nostalgia/016_Burbank_with_a_Baedeker_Bleistein_with_a_Cigar.md"
+        },
+        {
+          "note": "Dans le Restaurant (Eliot).md",
+          "title": "Dans le Restaurant",
+          "atom": "Authors/Eliot/Atomized/memory-and-time-memory-nostalgia/023_Dans_le_Restaurant.md"
+        },
+        {
+          "note": "Five-Finger Exercises (Eliot).md",
+          "title": "Five-Finger Exercises",
+          "atom": "Authors/Eliot/Atomized/memory-and-time-memory-nostalgia/054_Five-Finger_Exercises.md"
+        },
+        {
+          "note": "Lune de Miel (Eliot).md",
+          "title": "Lune de Miel",
+          "atom": "Authors/Eliot/Atomized/memory-and-time-memory-nostalgia/021_Lune_de_Miel.md"
+        },
+        {
+          "note": "Ode (Eliot).md",
+          "title": "Ode",
+          "atom": "Authors/Eliot/Atomized/memory-and-time-memory-nostalgia/114_Ode.md"
+        },
+        {
+          "note": "Rhapsody on a Windy Night (Eliot).md",
+          "title": "Rhapsody on a Windy Night",
+          "atom": "Authors/Eliot/Atomized/memory-and-time-memory-nostalgia/005_Rhapsody_on_a_Windy_Night.md"
+        },
+        {
+          "note": "Song ‘If space and time, as sages say’ (Eliot).md",
+          "title": "Song: ‘If space and time, as sages say’",
+          "atom": "Authors/Eliot/Atomized/memory-and-time-memory-nostalgia/104_Song_If_space_and_time_as_sages_say.md"
+        },
+        {
+          "note": "Song ‘When we came home across the hill’ (Eliot).md",
+          "title": "Song: ‘When we came home across the hill’",
+          "atom": "Authors/Eliot/Atomized/memory-and-time-memory-nostalgia/106_Song_When_we_came_home_across_the_hill.md"
+        },
+        {
+          "note": "Whispers of Immortality (Eliot).md",
+          "title": "Whispers of Immortality",
+          "atom": "Authors/Eliot/Atomized/memory-and-time-memory-nostalgia/024_Whispers_of_Immortality.md"
+        }
+      ]
+    },
+    {
+      "label": "Self-Knowledge · Immortality · Self-Reliance",
+      "slug": "self-knowledge-immortality-self-reliance",
+      "members": [
+        {
+          "note": "A Note on War Poetry (Eliot).md",
+          "title": "A Note on War Poetry",
+          "atom": "Authors/Eliot/Atomized/self-knowledge-immortality-self-reliance/075_A_Note_on_War_Poetry.md"
+        },
+        {
+          "note": "A, B, C (Eliot).md",
+          "title": "A, B, C",
+          "atom": "Authors/Eliot/Atomized/self-knowledge-immortality-self-reliance/116_A_B_C.md"
+        },
+        {
+          "note": "Animula (Eliot).md",
+          "title": "Animula",
+          "atom": "Authors/Eliot/Atomized/self-knowledge-immortality-self-reliance/045_Animula.md"
+        },
+        {
+          "note": "At Graduation 1905 (Eliot).md",
+          "title": "(At Graduation 1905)",
+          "atom": "Authors/Eliot/Atomized/self-knowledge-immortality-self-reliance/105_At_Graduation_1905.md"
+        },
+        {
+          "note": "G, H, I (Eliot).md",
+          "title": "G, H, I",
+          "atom": "Authors/Eliot/Atomized/self-knowledge-immortality-self-reliance/118_G_H_I.md"
+        },
+        {
+          "note": "I The Eagle soars in the summit of Heaven (Eliot).md",
+          "title": "I The Eagle soars in the summit of Heaven",
+          "atom": "Authors/Eliot/Atomized/self-knowledge-immortality-self-reliance/058_I_The_Eagle_soars_in_the_summit_of_Heaven.md"
+        },
+        {
+          "note": "J, K, L (Eliot).md",
+          "title": "J, K, L",
+          "atom": "Authors/Eliot/Atomized/self-knowledge-immortality-self-reliance/119_J_K_L.md"
+        },
+        {
+          "note": "M, N, O (Eliot).md",
+          "title": "M, N, O",
+          "atom": "Authors/Eliot/Atomized/self-knowledge-immortality-self-reliance/120_M_N_O.md"
+        },
+        {
+          "note": "P, Q, R (Eliot).md",
+          "title": "P, Q, R",
+          "atom": "Authors/Eliot/Atomized/self-knowledge-immortality-self-reliance/121_P_Q_R.md"
+        },
+        {
+          "note": "S, T, U (Eliot).md",
+          "title": "S, T, U",
+          "atom": "Authors/Eliot/Atomized/self-knowledge-immortality-self-reliance/122_S_T_U.md"
+        },
+        {
+          "note": "The Cultivation of Christmas Trees (Eliot).md",
+          "title": "The Cultivation of Christmas Trees",
+          "atom": "Authors/Eliot/Atomized/self-knowledge-immortality-self-reliance/047_The_Cultivation_of_Christmas_Trees.md"
+        }
+      ]
+    },
+    {
+      "label": "Christianity · Faith and Doubt · Doubt",
+      "slug": "christianity-faith-and-doubt-doubt",
+      "members": [
+        {
+          "note": "A Song for Simeon (Eliot).md",
+          "title": "A Song for Simeon",
+          "atom": "Authors/Eliot/Atomized/christianity-faith-and-doubt-doubt/044_A_Song_for_Simeon.md"
+        },
+        {
+          "note": "II Thus your fathers were made (Eliot).md",
+          "title": "II Thus your fathers were made",
+          "atom": "Authors/Eliot/Atomized/christianity-faith-and-doubt-doubt/059_II_Thus_your_fathers_were_made.md"
+        },
+        {
+          "note": "III The Word of the lord came unto me, saying (Eliot).md",
+          "title": "III The Word of the lord came unto me, saying",
+          "atom": "Authors/Eliot/Atomized/christianity-faith-and-doubt-doubt/060_III_The_Word_of_the_lord_came_unto_me_saying.md"
+        },
+        {
+          "note": "IV There are those who would build the Temple (Eliot).md",
+          "title": "IV There are those who would build the Temple",
+          "atom": "Authors/Eliot/Atomized/christianity-faith-and-doubt-doubt/061_IV_There_are_those_who_would_build_the_Temple.md"
+        },
+        {
+          "note": "IX Son of Man, behold with thine eyes, and hear with thine ears (Eliot).md",
+          "title": "IX Son of Man, behold with thine eyes, and hear with thine ears",
+          "atom": "Authors/Eliot/Atomized/christianity-faith-and-doubt-doubt/066_IX_Son_of_Man_behold_with_thine_eyes_and_hear_with_thine_ears.md"
+        },
+        {
+          "note": "Journey of the Magi (Eliot).md",
+          "title": "Journey of the Magi",
+          "atom": "Authors/Eliot/Atomized/christianity-faith-and-doubt-doubt/043_Journey_of_the_Magi.md"
+        },
+        {
+          "note": "Mr. Eliot’s Sunday Morning Service (Eliot).md",
+          "title": "Mr. Eliot’s Sunday Morning Service",
+          "atom": "Authors/Eliot/Atomized/christianity-faith-and-doubt-doubt/025_Mr_Eliots_Sunday_Morning_Service.md"
+        },
+        {
+          "note": "The Death of Saint Narcissus (Eliot).md",
+          "title": "The Death of Saint Narcissus",
+          "atom": "Authors/Eliot/Atomized/christianity-faith-and-doubt-doubt/115_The_Death_of_Saint_Narcissus.md"
+        },
+        {
+          "note": "V O Lord, deliver me from the man of excellent intention and impure heart (Eliot).md",
+          "title": "V O Lord, deliver me from the man of excellent intention and impure heart",
+          "atom": "Authors/Eliot/Atomized/christianity-faith-and-doubt-doubt/062_V_O_Lord_deliver_me_from_the_man_of_excellent_intention_and_impure_heart.md"
+        },
+        {
+          "note": "VI It is hard for those who have never known persecution (Eliot).md",
+          "title": "VI It is hard for those who have never known persecution",
+          "atom": "Authors/Eliot/Atomized/christianity-faith-and-doubt-doubt/063_VI_It_is_hard_for_those_who_have_never_known_persecution.md"
+        },
+        {
+          "note": "VII In the beginning god created the world (Eliot).md",
+          "title": "VII In the beginning god created the world",
+          "atom": "Authors/Eliot/Atomized/christianity-faith-and-doubt-doubt/064_VII_In_the_beginning_god_created_the_world.md"
+        },
+        {
+          "note": "VIII O Father we welcome your words (Eliot).md",
+          "title": "VIII O Father we welcome your words",
+          "atom": "Authors/Eliot/Atomized/christianity-faith-and-doubt-doubt/065_VIII_O_Father_we_welcome_your_words.md"
+        },
+        {
+          "note": "X You have seen the house built, you have seen it adorned (Eliot).md",
+          "title": "X You have seen the house built, you have seen it adorned",
+          "atom": "Authors/Eliot/Atomized/christianity-faith-and-doubt-doubt/067_X_You_have_seen_the_house_built_you_have_seen_it_adorned.md"
+        }
+      ]
+    },
+    {
+      "label": "Alienation · Outsider · Exile",
+      "slug": "alienation-outsider-exile",
+      "members": [
+        {
+          "note": "Eyes that last I saw in tears (Eliot).md",
+          "title": "Eyes that last I saw in tears",
+          "atom": "Authors/Eliot/Atomized/alienation-outsider-exile/052_Eyes_that_last_I_saw_in_tears.md"
+        },
+        {
+          "note": "Gerontion (Eliot).md",
+          "title": "Gerontion",
+          "atom": "Authors/Eliot/Atomized/alienation-outsider-exile/015_Gerontion.md"
+        },
+        {
+          "note": "Hysteria (Eliot).md",
+          "title": "Hysteria",
+          "atom": "Authors/Eliot/Atomized/alienation-outsider-exile/011_Hysteria.md"
+        },
+        {
+          "note": "Lines for an Old Man (Eliot).md",
+          "title": "Lines for an Old Man",
+          "atom": "Authors/Eliot/Atomized/alienation-outsider-exile/056_Lines_for_an_Old_Man.md"
+        },
+        {
+          "note": "Marina (Eliot).md",
+          "title": "Marina",
+          "atom": "Authors/Eliot/Atomized/alienation-outsider-exile/046_Marina.md"
+        },
+        {
+          "note": "Morning at the Window (Eliot).md",
+          "title": "Morning at the Window",
+          "atom": "Authors/Eliot/Atomized/alienation-outsider-exile/006_Morning_at_the_Window.md"
+        },
+        {
+          "note": "Portrait of a Lady (Eliot).md",
+          "title": "Portrait of a Lady",
+          "atom": "Authors/Eliot/Atomized/alienation-outsider-exile/003_Portrait_of_a_Lady.md"
+        },
+        {
+          "note": "Preludes (Eliot).md",
+          "title": "Preludes",
+          "atom": "Authors/Eliot/Atomized/alienation-outsider-exile/004_Preludes.md"
+        },
+        {
+          "note": "Spleen (Eliot).md",
+          "title": "Spleen",
+          "atom": "Authors/Eliot/Atomized/alienation-outsider-exile/113_Spleen.md"
+        },
+        {
+          "note": "Sweeney Among the Nightingales (Eliot).md",
+          "title": "Sweeney Among the Nightingales",
+          "atom": "Authors/Eliot/Atomized/alienation-outsider-exile/026_Sweeney_Among_the_Nightingales.md"
+        },
+        {
+          "note": "The Love Song of J. Alfred Prufrock (Eliot).md",
+          "title": "The Love Song of J. Alfred Prufrock",
+          "atom": "Authors/Eliot/Atomized/alienation-outsider-exile/002_The_Love_Song_of_J_Alfred_Prufrock.md"
+        },
+        {
+          "note": "To the Indians who Died in Africa (Eliot).md",
+          "title": "To the Indians who Died in Africa",
+          "atom": "Authors/Eliot/Atomized/alienation-outsider-exile/076_To_the_Indians_who_Died_in_Africa.md"
+        },
+        {
+          "note": "V, W, X (Eliot).md",
+          "title": "V, W, X",
+          "atom": "Authors/Eliot/Atomized/alienation-outsider-exile/123_V_W_X.md"
+        }
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "noteFile": "APPENDIX POEMS WRITTEN IN EARLY YOUTH (Eliot).md",
+      "rawFile": "101_APPENDIX_POEMS_WRITTEN_IN_EARLY_YOUTH.md",
+      "title": "APPENDIX POEMS WRITTEN IN EARLY YOUTH"
+    },
+    {
+      "noteFile": "ARIEL POEMS (Eliot).md",
+      "rawFile": "042_ARIEL_POEMS.md",
+      "title": "ARIEL POEMS"
+    },
+    {
+      "noteFile": "ASH-WEDNESDAY 1930 (Eliot).md",
+      "rawFile": "035_ASH-WEDNESDAY_1930.md",
+      "title": "ASH-WEDNESDAY 1930"
+    },
+    {
+      "noteFile": "Also by T. S. Eliot (Eliot).md",
+      "rawFile": "125_Also_by_T_S_Eliot.md",
+      "title": "Also by T. S. Eliot"
+    },
+    {
+      "noteFile": "Burnt Norton 1935 (Eliot).md",
+      "rawFile": "069_Burnt_Norton_1935.md",
+      "title": "Burnt Norton 1935"
+    },
+    {
+      "noteFile": "CHORUSES FROM ‘THE ROCK’ 1934 (Eliot).md",
+      "rawFile": "057_CHORUSES_FROM_THE_ROCK_1934.md",
+      "title": "CHORUSES FROM ‘THE ROCK’ 1934"
+    },
+    {
+      "noteFile": "COLLECTED POEMS 1909–1962 (Eliot).md",
+      "rawFile": "000_COLLECTED_POEMS_19091962.md",
+      "title": "COLLECTED POEMS 1909–1962"
+    },
+    {
+      "noteFile": "East Coker 1940 (Eliot).md",
+      "rawFile": "070_East_Coker_1940.md",
+      "title": "East Coker 1940"
+    },
+    {
+      "noteFile": "FOUR QUARTETS (Eliot).md",
+      "rawFile": "068_FOUR_QUARTETS.md",
+      "title": "FOUR QUARTETS"
+    },
+    {
+      "noteFile": "I Because I do not hope to turn again (Eliot).md",
+      "rawFile": "036_I_Because_I_do_not_hope_to_turn_again.md",
+      "title": "I Because I do not hope to turn again"
+    },
+    {
+      "noteFile": "I. The Burial of the Dead (Eliot).md",
+      "rawFile": "028_I_The_Burial_of_the_Dead.md",
+      "title": "I. The Burial of the Dead"
+    },
+    {
+      "noteFile": "II Lady, three white leopards sat under a juniper-tree (Eliot).md",
+      "rawFile": "037_II_Lady_three_white_leopards_sat_under_a_juniper-tree.md",
+      "title": "II Lady, three white leopards sat under a juniper-tree"
+    },
+    {
+      "noteFile": "II. A Game of Chess (Eliot).md",
+      "rawFile": "029_II_A_Game_of_Chess.md",
+      "title": "II. A Game of Chess"
+    },
+    {
+      "noteFile": "III At the first turning of the second stair (Eliot).md",
+      "rawFile": "038_III_At_the_first_turning_of_the_second_stair.md",
+      "title": "III At the first turning of the second stair"
+    },
+    {
+      "noteFile": "III. The Fire Sermon (Eliot).md",
+      "rawFile": "030_III_The_Fire_Sermon.md",
+      "title": "III. The Fire Sermon"
+    },
+    {
+      "noteFile": "IV Who walked between the violet and the violet (Eliot).md",
+      "rawFile": "039_IV_Who_walked_between_the_violet_and_the_violet.md",
+      "title": "IV Who walked between the violet and the violet"
+    },
+    {
+      "noteFile": "IV. Death by Water (Eliot).md",
+      "rawFile": "031_IV_Death_by_Water.md",
+      "title": "IV. Death by Water"
+    },
+    {
+      "noteFile": "Little Gidding (Eliot).md",
+      "rawFile": "072_Little_Gidding.md",
+      "title": "Little Gidding"
+    },
+    {
+      "noteFile": "MINOR POEMS (Eliot).md",
+      "rawFile": "051_MINOR_POEMS.md",
+      "title": "MINOR POEMS"
+    },
+    {
+      "noteFile": "MURDER IN THE CATHEDRAL (Eliot).md",
+      "rawFile": "096_MURDER_IN_THE_CATHEDRAL.md",
+      "title": "MURDER IN THE CATHEDRAL"
+    },
+    {
+      "noteFile": "Notes on the Waste Land (Eliot).md",
+      "rawFile": "033_Notes_on_the_Waste_Land.md",
+      "title": "Notes on the Waste Land"
+    },
+    {
+      "noteFile": "OCCASIONAL VERSES (Eliot).md",
+      "rawFile": "073_OCCASIONAL_VERSES.md",
+      "title": "OCCASIONAL VERSES"
+    },
+    {
+      "noteFile": "OLD POSSUM’S BOOK OF PRACTICAL CATS (Eliot).md",
+      "rawFile": "079_OLD_POSSUMS_BOOK_OF_PRACTICAL_CATS.md",
+      "title": "OLD POSSUM’S BOOK  OF PRACTICAL CATS"
+    },
+    {
+      "noteFile": "PLAYS (Eliot).md",
+      "rawFile": "095_PLAYS.md",
+      "title": "PLAYS"
+    },
+    {
+      "noteFile": "PRUFROCK and Other Observations 1917 (Eliot).md",
+      "rawFile": "001_PRUFROCK_and_Other_Observations_1917.md",
+      "title": "PRUFROCK  and Other Observations  1917"
+    },
+    {
+      "noteFile": "Sweeney Agonistes (Eliot).md",
+      "rawFile": "049_Sweeney_Agonistes.md",
+      "title": "Sweeney Agonistes"
+    },
+    {
+      "noteFile": "THE COCKTAIL PARTY (Eliot).md",
+      "rawFile": "098_THE_COCKTAIL_PARTY.md",
+      "title": "THE COCKTAIL PARTY"
+    },
+    {
+      "noteFile": "THE CONFIDENTIAL CLERK (Eliot).md",
+      "rawFile": "099_THE_CONFIDENTIAL_CLERK.md",
+      "title": "THE CONFIDENTIAL CLERK"
+    },
+    {
+      "noteFile": "THE ELDER STATESMAN (Eliot).md",
+      "rawFile": "100_THE_ELDER_STATESMAN.md",
+      "title": "THE ELDER STATESMAN"
+    },
+    {
+      "noteFile": "THE FAMILY REUNION (Eliot).md",
+      "rawFile": "097_THE_FAMILY_REUNION.md",
+      "title": "THE FAMILY REUNION"
+    },
+    {
+      "noteFile": "THE HOLLOW MEN 1925 (Eliot).md",
+      "rawFile": "034_THE_HOLLOW_MEN_1925.md",
+      "title": "THE HOLLOW MEN 1925"
+    },
+    {
+      "noteFile": "THE WASTE LAND 1922 (Eliot).md",
+      "rawFile": "027_THE_WASTE_LAND_1922.md",
+      "title": "THE WASTE LAND  1922"
+    },
+    {
+      "noteFile": "The Dry Salvages 1941 (Eliot).md",
+      "rawFile": "071_The_Dry_Salvages_1941.md",
+      "title": "The Dry Salvages 1941"
+    },
+    {
+      "noteFile": "UNFINISHED POEMS (Eliot).md",
+      "rawFile": "048_UNFINISHED_POEMS.md",
+      "title": "UNFINISHED POEMS"
+    },
+    {
+      "noteFile": "V If the lost word is lost, if the spent word is spent (Eliot).md",
+      "rawFile": "040_V_If_the_lost_word_is_lost_if_the_spent_word_is_spent.md",
+      "title": "V If the lost word is lost, if the spent word is spent"
+    },
+    {
+      "noteFile": "V. What the Thunder said (Eliot).md",
+      "rawFile": "032_V_What_the_Thunder_said.md",
+      "title": "V. What the Thunder said"
+    },
+    {
+      "noteFile": "VI Although I do not hope to turn again (Eliot).md",
+      "rawFile": "041_VI_Although_I_do_not_hope_to_turn_again.md",
+      "title": "VI Although I do not hope to turn again"
+    }
+  ]
+}

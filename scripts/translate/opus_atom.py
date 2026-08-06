@@ -33,7 +33,7 @@ def cmd_mask(rel):
     print(json.dumps({"atom": rel, "n": len(blocks), "blocks": blocks}, ensure_ascii=False))
 
 
-def cmd_write(rel, it_json):
+def cmd_write(rel, it_json, verse=False):
     en_path = _abs(rel)
     body = open(en_path, encoding="utf-8").read()
     it_list = json.load(open(it_json, encoding="utf-8"))
@@ -72,7 +72,7 @@ def cmd_write(rel, it_json):
         out.append(lead + it.strip() + trail)
 
     it_body = "".join(out)
-    problems = dt.validate(body, it_body, verse=False)
+    problems = dt.validate(body, it_body, verse=verse)
     if problems:
         print(json.dumps({"atom": rel, "status": "REJECT", "problems": problems}, ensure_ascii=False))
         sys.exit(3)
@@ -88,11 +88,15 @@ def cmd_write(rel, it_json):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) < 3:
-        print("usage: opus_atom.py mask <rel> | write <rel> <it.json>"); sys.exit(1)
-    if sys.argv[1] == "mask":
-        cmd_mask(sys.argv[2])
-    elif sys.argv[1] == "write":
-        cmd_write(sys.argv[2], sys.argv[3])
+    argv = [a for a in sys.argv[1:] if a != "--verse"]
+    verse = "--verse" in sys.argv[1:]
+    if len(argv) < 2:
+        print("usage: opus_atom.py mask <rel> | write [--verse] <rel> <it.json>"); sys.exit(1)
+    if argv[0] == "mask":
+        cmd_mask(argv[1])
+    elif argv[0] == "write":
+        # --verse tightens is_fabricated from 2x to 1.5x the source length: a line of
+        # verse must stay a line, so the margin prose needs would hide a fabrication.
+        cmd_write(argv[1], argv[2], verse=verse)
     else:
         print("unknown cmd"); sys.exit(1)

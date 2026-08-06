@@ -4862,6 +4862,8 @@ Sherlock Holmes sat down beside him on the couch and patted him kindly on the sh
 
 <span class="qlang-split" data-lang="it"></span>
 
+Le avventure di Sherlock Holmes – l’uomo dal labbro contorto
+
 L’UOMO CON LE LABBRA STORTE  
 Isa Whitney, fratello del defunto Elias Whitney, preside del Collegio Teologico di St. George’s, era profondamente dipendente dall’oppio. Questa abitudine gli si era insinuata durante i suoi anni di università; avendo letto la descrizione dei sogni e delle sensazioni fornita da De Quincey, aveva iniziato a impregnare il tabacco con laudano al fine di provare gli stessi effetti. Come molti altri, scoprì che abbandonare questa pratica era molto più difficile che iniziarla, e per molti anni rimase schiavo della droga, oggetto di orrore e compassione da parte dei suoi amici e parenti. Ora riesco a immaginarlo: con il viso giallastro e pallido, le palpebre pendule e le pupille ridotte a puntini, seduto in una sedia, l’ombra di un uomo un tempo nobile. Una notte – era giugno del 1889 – qualcuno bussò alla mia porta, proprio all’ora in cui si ha il primo sbadiglio e si guarda l’orologio. Mi alzai dalla sedia e mia moglie posò il lavoro a maglia sulle ginocchia, con un’espressione di delusione.  
 “Un paziente! Dovrai andare,” disse.  

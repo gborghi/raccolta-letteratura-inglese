@@ -636,8 +636,14 @@ async function publishUnits(rawSourceToWork, translations = new Map(), sourceTag
 
       for (const [workDir, relList] of byWork) {
         // Resolve the parent work note (by raw-source basename, else normalized).
+        // Author-qualified first (see addKey): same-named cluster dirs across poets.
+        const aKey = authorName.toLowerCase()
         const parentWorkHref =
-          rawSourceToWork.get(workDir) || rawSourceToWork.get(normWorkKey(workDir)) || null
+          rawSourceToWork.get(`${aKey}|${workDir}`) ||
+          rawSourceToWork.get(`${aKey}|${normWorkKey(workDir)}`) ||
+          rawSourceToWork.get(workDir) ||
+          rawSourceToWork.get(normWorkKey(workDir)) ||
+          null
         // Order units: the work-level file first, then by (path, order).
         const items = relList.map((relU) => {
           const segs = relU.split("/")
@@ -1047,8 +1053,17 @@ async function main() {
       // work's href so unit pages can breadcrumb back to their parent work.
       // Register several normalized keys so Atomized/Plays/Long work-dir names
       // (which may differ in casing, numeric prefixes or articles) still match.
+      // Cluster work-dirs are NOT unique across authors ("friendship-tears" exists
+      // for Keats, Coleridge and Dickinson alike), so a bare key lets the last work
+      // note written win and every other poet's cluster page breadcrumbs to it.
+      // Register an author-qualified key too; the bare one stays as the fallback.
+      const wAuthor = typeof data.author === "string" ? data.author.toLowerCase() : ""
       const addKey = (k) => {
         if (!k) return
+        if (wAuthor) {
+          rawSourceToWork.set(`${wAuthor}|${k}`, href)
+          rawSourceToWork.set(`${wAuthor}|${normWorkKey(k)}`, href)
+        }
         rawSourceToWork.set(k, href)
         rawSourceToWork.set(normWorkKey(k), href)
       }

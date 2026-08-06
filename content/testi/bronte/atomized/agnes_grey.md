@@ -7120,6 +7120,7 @@ stinted: but he, for once, was incorrigible.
 # CAPITOLO I.  
 LA CASA DEL PASTORE
 
+
 Tutte le vere storie contengono insegnamenti; tuttavia, in alcune di esse, quel “tesoro” potrebbe essere difficile da trovare, e quando finalmente si trova, spesso è così scarso che il contenuto stesso sembra non valere la pena del tempo e dello sforzo necessari per ottenerlo. Che ciò valga anche per la mia [[history|storia]] o meno, non sono certo in grado di giudicarlo. A volte penso che possa risultare utile per alcuni e divertente per altri; ma lascio che sia il mondo a decidere. Protetto dall’oscurità del mio nome, dal trascorrere degli anni e da alcuni nomi fittizi, non ho paura di osare condividere ciò che non rivelerei nemmeno al mio più intimo amico. E lo farò apertamente, davanti al pubblico.
 
 Mio padre era un clérigo del nord dell’Inghilterra, rispettato meritatamente da tutti coloro che lo conoscevano; nei suoi anni giovani viveva abbastanza agiato grazie al reddito derivante da una piccola parrocchia e da una modesta proprietà personale. Mia madre, che lo sposò contro il volere dei suoi amici, era figlia di un gentiluomo e donna dal carattere forte. Fu inutile cercare di farle capire che, diventando la moglie di quel povero parroco, avrebbe dovuto rinunciare alla sua carrozza, alla sua cameriera personale e a tutti i lussi e le comodità della vita agiata; per lei, queste cose rappresentavano quasi delle necessità essenziali. Una carrozza e una cameriera personale erano certamente grandi comodità, ma, grazie al cielo, lei aveva piedi per camminare e mani per provvedere alle proprie esigenze. Una casa elegante e terreni vasti non andavano certo sottovalutati, ma avrebbe preferito vivere in una capanna con [[Richard]] Grey piuttosto che in un palazzo con qualsiasi altro uomo al mondo.
@@ -7468,6 +7469,7 @@ Fui zittita quel giorno, e per molti giorni successivi; ma non abbandonai del tu
 —Compito delizioso!  
 Insegnare ai giovani come sparare.
 
+
 Coltivare queste piante tenere e osservare i loro boccioli aprirsi giorno dopo giorno.
 
 Influenzato da tanti incentivi, decisi comunque di perseverare; sebbene la paura di deludere mia madre o di ferire i sentimenti di mio padre mi impedisse per diversi giorni di riprendere l’argomento. Alla fine ne parlai nuovamente in privato con mia madre e, con qualche difficoltà, riuscii a convincerla ad aiutarmi con i suoi sforzi. Poi ottenni anche il consenso riluttante di mio padre; e così, sebbene Mary continuasse a esprimere il suo disaccordo, mia cara e gentile madre iniziò a cercare una soluzione per me. Scrisse alle parenti di mio padre e consultò gli annunci sui giornali. Le sue stesse parenti, con cui da tempo non aveva più alcun contatto: un semplice scambio occasionale di lettere era tutto ciò che c’era stato tra loro dal suo [[Marriage|matrimonio]], e lei non avrebbe mai chiesto il loro aiuto in una situazione del genere. Ma poiché i miei genitori erano da molto tempo isolati dal mondo, trascorsero molte settimane prima di trovare una soluzione adatta. Alla fine, con grande gioia, mi fu deciso che avrei dovuto prendere in carico la giovane famiglia della signora Bloomfield: mia cara zia Grey l’aveva conosciuta da giovane e sosteneva fosse una donna molto gentile. Suo marito era un commerciante in pensione che aveva accumulato una fortuna considerevole; tuttavia non fu possibile convincerlo a offrirmi uno stipendio superiore alle venticinque sterline. Comunque, ero felice di accettare questa opportunità, piuttosto che rifiutarla. Un’opzione che i miei genitori ritenevano la migliore.
@@ -7553,6 +7555,26 @@ implored a blessing on its inhabitants, and hastily turned away; for I
 saw the sunshine was departing; and I carefully avoided another glance,
 lest I should see it in gloomy [[Shadow|shadow]], like the rest of the landscape.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma mancavano ancora alcune settimane di preparativi. Quanto lunghe, quanto noiose mi sembravano quelle settimane! Eppure, nel complesso, furono settimane felici: piene di speranze luminose e aspettative ardenti. Con quanta particolare gioia assistetti alla realizzazione dei miei nuovi vestiti, e in seguito al riempimento delle mie valigie! Tuttavia, anche in quel momento provavo un senso di amarezza; e quando tutto fu pronto per la mia partenza del giorno seguente, e si avvicinò l’ultima [[Night|notte]] a [[Home|casa]], una improvvisa angoscia sembrò invadere il mio cuore. I miei cari amici avevano un aspetto così triste e parlavano con tanta gentilezza che faticavo a trattenere le lacrime; ma cercai comunque di apparire felice. Avevo fatto l’ultima passeggiata con Mary nei campi, l’ultimo giro nel [[Garden|jardino]] e intorno alla [[house|casa]]; avevo dato da mangiare, per l’ultima volta, ai nostri piccoli pappagalli. Quei adorabili animali che avevamo educato a prendere il cibo direttamente dalle nostre mani. Avevo accarezzato dolcemente le loro soffici code bianche mentre si raccoglievano sulle mie ginocchia; avevo baciato i miei preferiti, quel paio di pappagalli dai codini bianchi come la neve; avevo suonato l’ultima melodia al vecchio pianoforte e cantato l’ultima canzone a mio padre. Non l’ultima, speravo, ma l’ultima per un periodo che mi sembrava molto lungo. Forse, se avessi ripetuto quelle cose in futuro, lo avrei fatto con sentimenti diversi: le circostanze potevano cambiare, e quella [[house|casa]] forse non sarebbe mai più stata la mia dimora stabile. Il mio caro gattino, sicuramente, sarebbe cambiato: stava già diventando un bellissimo gatto adulto; e quando fossi tornata, anche solo per una visita veloce a Natale, probabilmente avrebbe dimenticato sia il suo compagno di giochi che le sue buffe scherzose. Avevo giocato con lei per l’ultima volta; e mentre accarezzavo il suo morbido pelo lucido, mentre si addormentava felice sulle mie ginocchia, provavo una tristezza che non riuscivo a nascondere facilmente. Poi, a letto, quando mi ritirai nella nostra tranquilla camera, dove i miei cassetti erano già vuoti e la mia parte dell’armadio libera, e dove, da quel momento in poi, lei avrebbe dovuto dormire [[Alone|da sola]], nella solitudine, il mio cuore si strinse ancora di più: mi sembrava di essere stata egoista e sbagliata a insistere nel lasciarla. E quando mi inginocchiai nuovamente accanto al nostro lettino, pregai per lei e per i miei genitori con più fervore che mai. Per nascondere le mie emozioni, nascosi il viso tra le mani, e presto esse furono bagnate dalle lacrime. Al risveglio, mi resi conto che anche lei aveva pianto. Ma nessuno di noi parlò; e nel [[Silence|silenzio]] ci addormentammo, avvicinandoci ancora di più l’una all’altra, consapevoli che presto ci saremmo separate per sempre.
+
+Ma la mattina portò con sé una rinascita di [[Hope|speranza]] e di spirito. Dovevo partire presto; in modo che il veicolo che mi avrebbe portato via – un calesse noleggiato dal signor [[smith|Smith]], il mercante di stoffe, il negoziante di alimentari e il venditore di tè del villaggio – potesse tornare lo stesso giorno. Mi alzai, mi lavai, mi vestii, mangiucchiai in fretta una colazione, ricevetti gli affettuosi abbracci di mio padre, mia madre e mia sorella, baciai il gatto – con grande scandalo di Sally, la cameriera – strinsi la mano a lei, salii sul calesse, mi coprii il viso con il velo. E solo allora scoppiai in un pianto irrefrenabile. Il calesse proseguì la sua corsa; guardai indietro: mia cara madre e mia sorella erano ancora lì, alla porta, a guardarmi e a salutarmi con la mano. Risposi al loro saluto e pregai Dio di benedirle dal profondo del mio cuore. Scendemmo dalla [[Hill|collina]], e non le vidi più.
+
+“È una mattina piuttosto fredda per voi, signorina Agnes,” osservò [[smith|Smith]]; “e anche abbastanza cupa. Ma siamo riusciti ad arrivare in quel posto prima che piovasse molto.”
+
+“Sì, lo [[Hope|spero]],” risposi con tutta la calma possibile.
+
+“Anche ieri sera abbiamo mangiato una buona zuppa.”
+
+“Sì, davvero.”
+
+“Ma questo freddo [[Wind|vento]] continuerà a soffiare. Dobbiamo proteggerci.”
+
+“Forse sì.”
+
+Ecco come terminò il nostro colloquio. Attraversammo la valle e iniziammo a salire l’opposta  collina. Mentre ci sforzavamo di avanzare, guardai indietro: c’era ancora la torre del villaggio e, oltre di essa, la vecchia canonica grigia, illuminata da un raggio obliquo di sole. Era solo un debole bagliore, ma il villaggio e le colline circostanti erano avvolti nell’oscurità; considerai quel raggio come un presagio favorevole per la mia  casa. Con le mani giunte pregai fervidamente che gli abitanti fossero benedetti, poi mi girai rapidamente, perché vedevo che il sole stava per tramontare. Evitai di guardare ancora, per non trovarlo avvolto nell’oscura  ombra, come tutto il resto del paesaggio.
 
 
 
@@ -7673,6 +7695,7 @@ that I coveted more than all the rest—but with her I had nothing to do.
 
 CAPITOLO II.
 PRIME LEZIONI NELL'ARTE DI INSEGNARE
+
 
 Mentre procedevamo in carrozza, il mio animo si risollevò di nuovo, e mi volsi con piacere alla contemplazione della nuova vita in cui stavo entrando. Ma sebbene non fosse trascorsa da molto la metà di settembre, le nubi pesanti e il forte [[Wind|vento]] di nord-est si univano a rendere la giornata estremamente fredda e tetra; e il [[Journey|viaggio]] parve lunghissimo, perché, come osservò [[smith|Smith]], le strade erano «molto pesanti»; e di certo anche il suo [[Horse|cavallo]] era molto pesante: arrancava su per le salite, scendeva a passo lento e si degnava di scuotere i fianchi al trotto solo dove la [[Road|strada]] era perfettamente piana o in dolcissima pendenza, il che accadeva di rado in quelle contrade aspre; sicché era quasi l'una all'[[Clock|orologio]] quando raggiungemmo il luogo di destinazione. Eppure, dopotutto, quando varcammo l'alto cancello di ferro, quando risalimmo dolcemente la liscia [[Road|strada]] carrozzabile [[Well|ben]] battuta, con il verde prato ai due lati, punteggiato di alberi giovani, e ci avvicinammo alla nuova ma imponente dimora di Wellwood, che si ergeva al di sopra dei suoi boschetti di pioppi cresciuti come funghi, il cuore mi venne meno, e desiderai che fosse un miglio o due più lontana. Per la prima [[Time|volta]] nella mia vita dovevo stare [[Alone|sola]]: ora non c'era più modo di ritirarsi. Dovevo entrare in quella [[house|casa]] e presentarmi da me ai suoi sconosciuti abitanti. Ma come fare? È vero, avevo quasi diciannove anni; ma, grazie alla mia vita ritirata e alle cure protettive di mia madre e di mia sorella, sapevo [[Well|bene]] che più di una fanciulla di quindici anni, o meno, era dotata di un contegno più femminile, di maggiore disinvoltura e di maggiore [[Self|padronanza]] di sé di quanta ne avessi io. Eppure, se la signora Bloomfield fosse stata una donna gentile e materna, forse me la sarei cavata molto [[Well|bene]], dopotutto; e con i bambini, naturalmente, avrei presto preso confidenza — e con il signor Bloomfield, speravo, avrei avuto ben poco a che fare.
 
@@ -8070,6 +8093,61 @@ my pupils; for I never felt so ashamed and uncomfortable in my life for
 anything that was not my own fault.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#CAPITOLO III. ALTRE LEZIONI
+
+
+Le [[Rose|rose]] il mattino seguente, con un senso di eccitazione piena di speranza, nonostante le delusioni già vissute; ma scoprii che preparare Mary Ann non era affatto una cosa semplice: i suoi capelli abbondanti dovevano essere spalmati di pomata, intrecciati in tre lunghe trecce e legati con nastri. Un compito che le mie dita inesperte trovarono molto difficile da eseguire. Mi disse che la sua [[Nurse|nutrice]] avrebbe potuto farlo in metà del tempo. E, con il suo continuo nervosismo e impazienza, riuscì solo a rendere tutto ancora più complicato. Quando finalmente tutto fu pronto, entrammo nella sala di studio, dove incontrai l’altra mia alunna e chiacchierammo insieme fino all’[[Time|ora]] di pranzo. Dopo aver mangiato e scambiato alcune parole cordiali con la signora Bloomfield, tornammo in aula e iniziammo le attività quotidiane. Scoprii che i miei alunni erano davvero molto indietro. Tuttavia, Tom, sebbene avesse una forte avversione per qualsiasi tipo di sforzo mentale, non era del tutto privo di capacità. Mary Ann, invece, riusciva a malapena a leggere una parola; era così negligente e distratta che faticavo molto ad insegnarle. Comunque, grazie a grande impegno e pazienza, riuscii comunque a portare avanti il mio lavoro.
+Qualcosa fu fatto durante la mattinata, e poi accompagnai il mio giovane incarico nel [[Garden|giardino]] e nelle aree adiacenti, per un po’ di svago prima di cena. Lì ci trovammo abbastanza d’accordo, tranne che mi resi conto che non avevano la minima idea di seguirmi: dovevo seguirli io, ovunque scegliessero di portarmi. Dovevo correre, camminare o stare fermo, esattamente come loro desideravano. Questo, pensai, era ribaltare completamente l’ordine naturale delle cose; e lo trovavo doppiamente sgradevole, perché in quell’occasione così come in molte altre successive, sembravano preferire i luoghi più sporchi e le attività più deprimenti. Ma non c’era rimedio: o dovevo seguirli, oppure starmene completamente separato da loro, rischiando di apparire negligente nei miei doveri. Oggi dimostrarono un particolare affetto per una  fontana situata in fondo al prato, dove insistettero nel giocare con bastoncini e pietre per oltre mezz’ora. Ero costantemente [[Fear|preoccupato]] che loro madre li vedesse dalla  finestra e mi rimproverasse per averli lasciati sporcarsi i vestiti, bagnarsi piedi e mani, invece di farli fare esercizio; ma nessun argomento, comando o supplica riuscì a convincerli a smettere.
+Li portò via. Se _lei_ non li aveva visti, qualcun altro sì: un gentiluomo a cavallo era entrato nel cancello e stava avanzando lungo la [[Road|strada]]; a qualche passo da noi si fermò e, chiamando i bambini con tono acuto e irritante, li esortò a “non avvicinarsi a quell’[[Water|acqua]]”.  
+“Signorina Grey,” disse, “(suppongo che sia davvero la signorina Grey), mi sorprende che permetta loro di sporcarsi i vestiti in quel modo! Non vede come la signorina Bloomfield si è rovinata il grembiule? E che le calze del signor Bloomfield sono completamente bagnate? E poi, nessuno dei due indossa i guanti. Cara, la prego: in futuro, si assicuri che si comportino in modo decente.”
+“Almeno!” disse, poi si allontanò e continuò il suo viaggio verso la [[house|casa]]. Quell’uomo era il signor Bloomfield. Fui sorpresa che nominasse i suoi figli “Master” e “Miss Bloomfield”; ancora di più mi sorprese il modo così scortese in cui si rivolgeva a me, la loro governante, e a una perfetta sconosciuta per lui. Poco dopo suonò la campanella che ci chiamava dentro. Pranzai con i bambini alle undici, mentre lui e sua moglie mangiavano il pranzo allo stesso tavolo. Il suo comportamento in quell’occasione non aumentò affatto la mia stima nei suoi confronti. Era un uomo di statura media, piuttosto magro che robusto, apparentemente tra i trenta e i quaranta anni: aveva una bocca grande, un viso pallido e scuro, occhi di colore azzurro chiaro e capelli del colore di una corda di canapa. Davanti a lui c’era una coscia di montone arrosto; aiutò la signora Bloomfield, i bambini e me, chiedendomi di tagliare la carne per loro; poi, dopo averla esaminata da tutte le parti, dichiarò che non era adatta al consumo e ordinò il manzo freddo.
+
+“Cosa c’è che non va con la carne d’agnello, caro mio?” chiese il suo compagno.
+
+“È davvero troppo cotto. Non sente che tutta la bontà è stata distrutta dal processo di cottura, signora Bloomfield? E non vede che quella deliziosa salsa rossa è completamente evaporata?”
+
+“Beh,” penso che quella carne ti piaccia molto.
+
+La carne di manzo gli fu servita davanti, e lui iniziò a tagliarla, ma con espressioni di profondo disappunto.
+
+“Che c’è che non va con quella carne, signor Bloomfield? Mi pareva davvero molto buona…”
+
+“E quindi è stato davvero molto bello. Non ci poteva essere un posto migliore; ma ora è, piuttosto rovinato,” rispose lui, con tristezza.
+
+“Come mai?”
+
+“Ma come! Non vedi com’è tagliato? Caro… caro, è davvero scioccante!”
+
+“Devono averlo tagliato male in cucina, allora. Perché sono sicuro di averlo tagliato correttamente anch’io ieri.”
+
+“Non c’è dubbio che l’hanno cucinato male in cucina, quei selvaggi! Caro, caro.
+Qualcuno ha mai visto una carne così buona rovinata completamente in questo modo?  
+Ma ricordate: da ora in poi, quando un piatto decente lascerà questa tavola, loro non dovranno nemmeno toccarlo in cucina. Ricordatelo bene, signora Bloomfield!”
+
+Nonostante lo stato devastante della carne di manzo, il signore riuscì comunque a tagliarsi alcune fette delicate, di cui ne mangiò una parte in [[Silence|silenzio]]. Quando parlò di nuovo, lo fece con un tono meno lamentoso, chiedendo cosa ci fosse per cena.
+
+“Turco e fagiano,” fu la risposta concisa.
+
+“E cosa altro ancora?”
+
+“Pesce.”
+
+# Che tipo di pesce?
+
+"#Non lo so."
+
+“Non lo sai?” esclamò, alzando lo sguardo con serietà dal proprio piatto e posando forchetta e coltello per la sorpresa.
+
+“No. Ho detto al cuoco di prendere del pesce… Non ho specificato quale tipo.”
+
+“Beh, questa è davvero la cosa più incredibile! Una signora afferma di gestire una casa, eppure non sa nemmeno a cosa serve il pesce per cena. Dice di voler ordinare del pesce, ma non specifica nemmeno quale tipo!”
+
+“Forse, signor Bloomfield, in futuro ordinerà da solo la cena.”
+
+Non si disse più nulla; e fui molto contento di poter uscire dalla stanza con i miei studenti, perché non mi ero mai sentito così imbarazzato e a disagio in vita mia per qualcosa che non fosse stata colpa mia.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_02" data-title="Agnes Grey — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/desire,motif/garden,motif/home,motif/night,motif/tears,motif/time,concept/body,concept/doubt,concept/faith,concept/fear,concept/grotesque,concept/hope,concept/self,character/agnes_grey"></span>
@@ -8451,6 +8529,7 @@ Mi lusingavo di giovare ai miei genitori e a mia sorella rimanendo qui; perché,
 Potranno schiacciarmi, ma non mi piegheranno!
 È a te che penso, non a loro.
 
+
 Verso Natale mi fu concesso di tornare a [[Home|casa]]; ma la mia vacanza durò soltanto quindici giorni: “Perché,” disse la signora Bloomfield, “ho pensato che, avendo veduto i suoi da così poco tempo, non le sarebbe importato di un soggiorno più lungo.” La lasciai continuare a pensarlo: ma ben poco sapeva quanto lunghe, quanto tediose fossero state per me quelle quattordici settimane di assenza; quanto intensamente avessi bramato le mie vacanze, quanto grande fosse stata la mia delusione nel vederle accorciate. Eppure in questo non era da biasimare. Non le avevo mai confidato i miei sentimenti, e non ci si poteva aspettare che li indovinasse; non ero stata con lei un trimestre intero, ed era giustificata nel non concedermi una vacanza intera.
 
 
@@ -8576,6 +8655,7 @@ Do you think, my dear, she’s a _proper person_? Take my word for it—”
 
 CAPITOLO IV.
 LA NONNA
+
 
 Risparmio ai miei lettori il racconto della gioia che provai nel tornare a [[Home|casa]], della mia felicità mentre ero là—godendo di un breve spazio di riposo e di libertà in quel caro luogo familiare, tra chi amavo e da cui ero amata—e del mio dolore nel dover dire loro, ancora una volta, un lungo addio.
 
@@ -9026,6 +9106,7 @@ to-morrow.”
 CAPITOLO V.
 LO ZIO
 
+
 Oltre alla vecchia signora, c'era un altro parente della famiglia le cui visite erano per me un grande fastidio: si trattava dello «zio Robson», fratello della signora Bloomfield; un tipo alto e pieno di [[Self|sé]], con i capelli scuri e la carnagione olivastra come la sorella, un naso che pareva sdegnare la terra e piccoli occhi grigi, spesso socchiusi, in cui si mescolavano una stupidità autentica e un disprezzo affettato per tutto ciò che lo circondava. Era un uomo tarchiato, di robusta corporatura, ma aveva trovato il modo di comprimere la vita in uno spazio straordinariamente ridotto; e questo, insieme all'innaturale rigidità della sua figura, mostrava che l'altezzoso e virile signor Robson, sprezzatore del sesso femminile, non era al di sopra della vanità del busto. Di rado si degnava di notarmi; e quando lo faceva, era con un certo tono e con modi di sprezzante insolenza che mi convincevano che non fosse un gentiluomo, benché l'intento fosse l'opposto. Ma non era per questo che mi dispiaceva la sua venuta, quanto per il male che faceva ai bambini, incoraggiando tutte le loro cattive inclinazioni e disfacendo in pochi minuti quel poco di bene che a me era costato mesi di fatica.
 
 Fanny e la piccola Harriet si degnava di rado di notarle; ma Mary Ann era in qualche modo la sua favorita. Incoraggiava di continuo la sua tendenza all'affettazione (che io avevo fatto il possibile per soffocare), parlando del suo bel visetto e riempiendole la testa di ogni sorta di idee vanitose sul proprio aspetto (che io le avevo insegnato a considerare come [[Dust|polvere]] sulla bilancia rispetto alla coltivazione della mente e dei modi); e non ho mai visto una [[Child|bambina]] tanto sensibile alle lusinghe quanto lei. Qualunque cosa fosse sbagliata, in lei o nel fratello, egli la incoraggiava ridendone, se non addirittura lodandola: la gente non sa quanto danno faccia ai bambini ridendo dei loro difetti e facendo piacevole scherzo di ciò che i loro veri amici si sono sforzati di insegnare loro a detestare con [[Grave|grave]] orrore.
@@ -9427,6 +9508,7 @@ services I might render them by my continuance there.
 CAPITOLO VI.
 DI NUOVO ALLA CANONICA
 
+
 Per alcuni mesi rimasi tranquillamente a [[Home|casa]], nel quieto godimento della libertà, del riposo e di un'[[Friendship|amicizia]] sincera, di tutte cose di cui ero rimasta digiuna così a lungo; e nella diligente ripresa dei miei studi, per recuperare quanto avevo perduto durante il mio soggiorno a [[house|Casa]] Wellwood e per fare nuove provviste in vista del futuro. La salute di mio padre era ancora molto malferma, ma non sensibilmente peggiore di quando l'avevo lasciato l'ultima volta; ed ero lieta di poterlo rallegrare col mio ritorno e di divertirlo cantando le sue [[songs|canzoni]] predilette.
 
 Nessuno trionfò sul mio fallimento, né disse che avrei fatto meglio a seguire il suo consiglio e a restarmene tranquilla a [[Home|casa]]. Tutti erano contenti di riavermi con loro e mi colmarono di più affetto che mai, per compensare le sofferenze che avevo patito; ma nessuno volle toccare uno scellino di quanto avevo guadagnato con tanta gioia e risparmiato con tanta cura, nella [[Hope|speranza]] di dividerlo con loro. A forza di lesinare qua e raschiare là, i nostri debiti erano già quasi estinti. Mary aveva avuto buon [[success|successo]] con i suoi disegni; ma nostro padre aveva insistito perché anche _lei_ tenesse per sé tutto il frutto della propria industria. Tutto ciò che potevamo risparmiare sul nostro umile guardaroba e sulle nostre piccole spese occasionali, ci ordinò di depositarlo alla cassa di risparmio, dicendo che non sapevamo quanto presto avremmo potuto dover contare su quella [[Alone|sola]] per vivere: perché sentiva di non aver più molto da restare con noi, e che cosa sarebbe stato di nostra madre e di noi quando lui non ci fosse più stato, lo sapeva solo Dio!
@@ -9604,6 +9686,7 @@ with a world of waters between himself and all that knew him.
 # CAPITOLO VII.  
 HORTON LODGE
 
+
 Il 31 gennaio fu una giornata selvaggia e tempestuosa: soffiava un forte [[Wind|>vento]] del nord, accompagnato da una continua [[Storm|Tempesta]] di [[Snow|-neve]] che si accumulava a terra e vorticava nell’aria. I miei amici avrebbero voluto che rimandassi la partenza, ma temendo che tale mancanza di puntualità potesse nuocere alla mia reputazione presso i miei datori di lavoro all’inizio del mio incarico, ho insistito per rispettare l’appuntamento.
 
 Non intendo raccontare ai miei lettori di come abbia lasciato la mia [[Home|casa]] quella cupa mattina d’inverno: gli affettuosi addii, il lungo, interminabile [[Journey|viaggio]] verso O——, le solitarie attese nelle locande in attesa di carrozze o treni – poiché all’epoca esistevano già alcune ferrovie – e infine l’incontro a O—— con il servitore del signor Murray, che era stato inviato con la vettura per portarmi da lì fino a Horton Lodge. Dirò soltanto che la fitta [[Snow|neve]] aveva creato tanti ostacoli sia per i cavalli che per le locomotive, che fu buio ancora per diverse ore prima che raggiungessi la fine del mio [[Journey|viaggio]]; inoltre scoppiò una tempesta terribile, che trasformò quei pochi chilometri tra O—— e Horton Lodge in un percorso lungo e difficile da affrontare. Seduta lì, immersa nel freddo pungente della neve che mi si insinuava sotto il velo e riempiva le mie ginocchia, non riuscivo a vedere nulla e mi chiedevo come il povero cavallo e il suo conducente riuscissero comunque a procedere. Il loro avanzamento era lento e faticoso, per dire il minimo. Alla fine ci fermammo; su richiesta del conducente, qualcuno aprì i cancelli del parco, che si muovevano con un cigolio. Poi proseguimmo lungo una strada più agevole; di tanto in tanto, intravedevo qualche enorme massa bianca che brillava nell’oscurità. Pensavo fossero alberi coperti di neve. Dopo molto tempo, ci fermammo nuovamente davanti all’elegante portico di una grande [[house|casa]] con finestre lunghe che arrivavano fino a terra.
@@ -9734,6 +9817,7 @@ Non dimenticherò mai facilmente quella strana sensazione che provai quando alza
 
 I deserti erano coperti di [[Snow|neve]],  
 e anche gli alberi erano carichi di neve.
+
 
 Scesi nella sala di studio senza alcun particolare desiderio di unirmi ai miei alunni, anche se non privo di curiosità riguardo a ciò che una maggiore conoscenza avrebbe potuto rivelarmi. Una cosa, tra tante altre di importanza più evidente, decisi per me stesso: dovevo iniziare chiamandoli “Signorina” e “Signorino”. Mi sembrava un atteggiamento freddo e innaturale tra i figli di una famiglia e il loro insegnante e compagno di vita quotidiano; soprattutto considerando che erano ancora molto giovani, come a Wellwood House. Ma anche lì, chiamare i piccoli Bloomfield con i loro nomi semplici era stato considerato un atto di sfida: i loro genitori avevano infatti cura di indicarmi sempre come “Signorino” e “Signorina” Bloomfield quando mi parlavano. Avevo impiegato molto tempo a capire il messaggio, perché tutta la situazione mi sembrava assurda. Ma ora decisi di essere più saggio e iniziare immediatamente seguendo tutte le formalità che qualsiasi membro della famiglia avrebbe potuto richiedere. In effetti, dato che i bambini erano più grandi, ci sarebbero state meno difficoltà. Anche se quelle semplici parole come “Signorina” e “Signorino” sembravano avere l’effetto di soffocare ogni forma di affetto spontaneo e cordialità tra noi.
 
@@ -10255,6 +10339,7 @@ example.”
 #CAPITOLO VIII.  
 “L’uscita allo scoperto”
 
+
 All’età di diciotto anni, la signorina Murray avrebbe lasciato l’oscurità tranquilla dell’aula scolastica per entrare nel fulgore del mondo alla moda – almeno per quanto ciò fosse possibile a [[London|Londra]]; infatti, suo padre non poteva essere convinto ad abbandonare i suoi piaceri e le sue attività rurali, nemmeno per poche settimane di soggiorno in città. Il suo _debutto_ avrebbe avuto luogo il terzo gennaio, durante un magnifico ballo che sua madre aveva deciso di organizzare per tutta la nobiltà e l’alta società di O—— e dei dintorni, per un raggio di venti miglia. Naturalmente, lei aspettava con impazienza incredibile e con le più esagerate aspettative di gioia quell’evento.
 
 “Signorina Grey,” disse una sera, un mese prima di quella giornata così importante, mentre stavo leggendo una lunga e estremamente interessante lettera di mia sorella – che avevo solo dato un’occhiata al mattino per verificare che non contenesse notizie troppo cattive, e l’avevo tenuta da allora, senza trovare mai il momento giusto per leggerla attentamente – “Signorina Grey, metta da parte quella noiosa e stupida lettera e ascolti me! Sono sicura che ciò che ho da dirle sia molto più interessante.”
@@ -10515,6 +10600,7 @@ old-maidenhood.”
 
 #CAPITOLO IX.  
 LA BALLETTA
+
 
 “Ora, signorina Grey,” esclamò la signorina Murray. Appena entrai nell’aula scolastica, dopo essermi tolta i vestiti da esterno al ritorno dalle mie quattro settimane di riposo, “Ora, chiuda la porta, siediti e ti racconterò tutto sul ballo.”
 
@@ -10800,6 +10886,7 @@ carriage-door, and letting down the steps for our descent.
 #CAPITOLO X.  
 LA CHIESA
 
+
 “Beh, signorina Grey, che ne pensa del nuovo curato?”, chiese la signorina Murray il [[Sunday|)domenica]], dopo il nostro ritorno dalla chiesa e il riprendere dei nostri doveri.
 
 “Non riesco quasi a dirlo”, risposi: “Non l’ho nemmeno mai sentito predicare”.
@@ -10983,6 +11070,7 @@ part she should like me to read, she answered—
 
 #CAPITOLO XI.  
 I ABITANTI DELLA CASA DI CAMPO
+
 
 Ora che avevo soltanto una studentessa regolare – anche se riusciva a causarmi tanti problemi quanti ne avrebbero causati tre o quattro studentesse normali, e anche se sua sorella continuava a prendere lezioni di tedesco e disegno – avevo molto più [[Time|tempo]] a mia disposizione di quanto non ne avessi mai avuto prima di assumere il ruolo di tutrice; quel tempo lo dedicavo in parte alla corrispondenza con gli amici, in parte alla lettura, allo studio e all’pratica della musica, del canto, ecc., e in parte a passeggiare nei giardini o nei campi circostanti, con le mie studentesse se me lo chiedevano,  da sola se non lo volevano.
 
@@ -11731,6 +11819,7 @@ the stables, and left me to the quiet enjoyment of my solitary meal.
 #CAPITOLO XII.  
 LA PIoggia
 
+
 La mia prossima visita a [[Nancy]] Brown ebbe luogo nella seconda settimana di marzo: sebbene durante il giorno avessi molto tempo libero, raramente riuscivo a dedicare un’ora intera esclusivamente a me stesso; infatti, poiché tutto dipendeva dai capricci della signorina Matilda e di sua sorella, non c’era alcun ordine né regolarità. Qualunque attività scegliessi di svolgere, se non ero impegnato direttamente con loro o con le loro faccende, dovevo comunque essere sempre pronto all’azione; altrimenti, il fatto di non rispondere immediatamente alle chiamate veniva considerato un errore grave e inescusabile. Non solo dai miei studenti e dalla loro madre, ma anche dal servitore stesso, che arrivava di corsa ansimante per chiamarmi, esclamando: “Deve andare subito in aula, signora. Le ragazze stanno aspettando!!” Un vero e proprio culmine dell’orrore. Le ragazze stavano davvero aspettando la loro insegnante!!!
 
 Ma questa volta ero abbastanza sicura di avere un’ora o due tutta per me; infatti Matilda si stava preparando per un lungo viaggio, mentre Rosalie si vestiva per una cena a casa della Lady Ashby: così ne approfittai per recarmi nella capanna della vedova, dove la trovai molto preoccupata per la sua gatta, che era assente tutto il giorno. La consolai raccontandole tutte le storie che riuscii a ricordare riguardo alle abitudini erranti di quell’animale. “Temo quei cacciatori,” disse lei; “è l’unica cosa a cui penso. Se quei giovani signori fossero stati a casa, avrei pensato che stessero mandando i loro cani contro di lei, e l’avrebbero spaventata. Povera creatura. Ma ora non ho più questo timore.” Gli occhi di [[Nancy]] erano un po’ meglio, ma ancora lontani dal migliorare completamente: aveva cercato di cucire una camicia per suo figlio, ma mi disse che riusciva a lavorarci solo di tanto in tanto, quindi i progressi erano molto lenti. Nonostante il povero ragazzo la desiderasse tantissimo. Così proposi di aiutarla un po’, dopo averle letto qualcosa; quella sera avevo molto tempo a disposizione e non dovevo tornare prima del tramonto. Accettò con gratitudine la mia offerta. “E mi farete anche un po’ di compagnia, signorina,” disse, “Mi sento così sola senza la mia gatta, ” Ma quando finii di leggere e completai metà della cucitura, con l’aiuto del grosso dito di ottone di [[Nancy]] che mi serviva da ago, fui disturbata dall’arrivo del signor Weston, con quella stessa gatta tra le braccia. Allora capii che sapeva anche sorridere, e che sorrideva molto piacevolmente, per di più.
@@ -11898,6 +11987,7 @@ for him.
 
 CAPITOLO XIII.
 LE PRIMULE
+
 
 La signorina Murray andava ormai sempre due volte in chiesa, perché amava tanto l'ammirazione da non poter sopportare di perdere una sola occasione di ottenerla; ed era così certa di riceverla ovunque si mostrasse, che, ci fossero o no Harry Meltham e il signor Green, non poteva mancare qualcuno che non restasse insensibile alle sue attrattive, oltre al Rettore, che il suo ufficio obbligava di solito a essere presente. Di regola, inoltre, se il tempo lo permetteva, tanto lei quanto la sorella tornavano a [[Home|casa]] a piedi; Matilda perché detestava la costrizione della carrozza; lei perché ne detestava l'isolamento, e godeva della compagnia che animava di solito il primo miglio del [[Journey|viaggio]] nel tragitto a piedi dalla chiesa ai cancelli del parco del signor Green: lì presso cominciava la [[Road|strada]] privata per Horton Lodge, che si trovava in direzione opposta, mentre la via maestra proseguiva dritta verso la dimora ancor più lontana di Sir Hugh Meltham. Vi era così sempre la possibilità di essere accompagnate, fin là, o da Harry Meltham, con o senza la signorina Meltham, o dal signor Green, magari con una o entrambe le sorelle, e con qualunque ospite gentiluomo potessero avere.
 
@@ -12337,6 +12427,7 @@ see you again, Miss Murray?”
 
 CAPITOLO XIV.
 IL RETTORE
+
 
 Il giorno seguente fu bello quanto il precedente. Poco dopo la colazione
 la signorina Matilda, dopo aver galoppato e arrancato attraverso qualche
@@ -13208,6 +13299,7 @@ even he would be better than nothing.”
 #CAPITOLO XV.  
 LA Passeggiata
 
+
 “Oh, cara! Vorrei che Hatfield non fosse stato così affrettato!” disse Rosalie il giorno dopo alle quattro del pomeriggio, mentre, con un sonoro sbadiglio, posava il suo lavoro a maglia e guardava con indifferenza verso la [[Window|finestra]]. “Ora non c’è alcun motivo per uscire; e niente che mi aspetti con impazienza. I giorni saranno così lunghi e noiosi, senza feste che li rendano più vivaci. E questa settimana, né la prossima, a quanto so, ci sono feste.”
 
 “Peggio che tu fossi così [[Cross|ostile]] nei suoi confronti,” osservò Matilda, a cui era rivolta questa lamentela. “Non tornerà mai più. E sospetto che in realtà ti piacesse. Speravo che lo prendessi come tuo amante e lasciassi caro Harry a me.”
@@ -13614,6 +13706,7 @@ condescension, &c. &c.
 CAPITOLO XVI.
 LA SOSTITUZIONE
 
+
 La [[Sunday|domenica]] seguente fu una delle giornate d'aprile più cupe—un giorno di nuvole fitte e scure e di rovesci violenti. Nessuno dei Murray era disposto ad andare in chiesa nel pomeriggio, eccetto Rosalie: era decisa ad andarvi come al solito; così ordinò la carrozza, e io l'accompagnai: niente affatto controvoglia, naturalmente, perché in chiesa potevo guardare senza [[Fear|timore]] di scherno o di censura una figura e un volto per me più graditi della più bella delle creazioni di Dio; potevo ascoltare senza turbamento una voce più incantevole per le mie orecchie della musica più dolce; potevo parermi di comunicare con quell'[[Soul|anima]] alla quale mi sentivo così profondamente interessata, e assorbirne i pensieri più puri e le aspirazioni più sante, senza altra lega a tale felicità se non i segreti rimproveri della mia [[Conscience|coscienza]], che troppo spesso mi sussurravano che stavo ingannando [[Self|me stessa]] e prendendomi gioco di Dio con il servizio di un cuore più volto alla creatura che al Creatore.
 
 A volte simili pensieri mi davano non poco tormento; ma a volte riuscivo a placarli pensando—non è l'uomo, è la sua bontà che io [[Love|amo]]. «Tutto quello che è puro, tutto quello che è amabile, tutto quello che è onesto e di buona fama, a queste cose pensate.» Facciamo [[Well|bene]] ad adorare Dio nelle Sue opere; e non ne conosco alcuna in cui tanti dei Suoi attributi—tanto del Suo stesso spirito—risplendano quanto in questo Suo fedele servitore; conoscerlo e non apprezzarlo sarebbe in me ottusa insensibilità, io che ho così poco altro a occuparmi il cuore.
@@ -13773,6 +13866,7 @@ from deceiving and injuring others the better.”
 
 CAPITOLO XVII.
 CONFESSIONI
+
 
 Dato che sono in vena di confessioni, posso [[Well|bene]] riconoscere che, in quel [[Time|tempo]], curavo il mio abbigliamento più di quanto avessi mai fatto prima. Il che non è dir molto—perché fino ad allora ero stata un poco trascurata in quel particolare; ma ora, per di più, non era cosa insolita spendere fino a due minuti nella contemplazione della mia immagine allo specchio; benché non riuscissi mai a trarre alcuna consolazione da un simile studio. Non sapevo scoprire alcuna [[Beauty|bellezza]] in quei lineamenti marcati, in quella guancia pallida e scavata, in quei capelli castano scuro e comunissimi; poteva esservi intelletto nella fronte, poteva esservi espressione negli occhi grigio scuro, ma che importava?—una bassa fronte greca e due grandi occhi neri privi di sentimento sarebbero stati stimati assai preferibili. È sciocco desiderare la [[Beauty|bellezza]]. Le persone assennate non la [[Desire|desiderano]] mai per sé né se ne curano negli altri. Purché la mente sia [[Well|bene]] coltivata e il cuore [[Well|ben]] disposto, nessuno bada mai all'esteriore. Così dicevano i maestri della nostra [[Childhood|infanzia]]; e così diciamo noi ai fanciulli d'oggi. Tutto molto giudizioso e conveniente, senza [[Doubt|dubbio]]; ma sono simili affermazioni sostenute dall'esperienza reale?
 
@@ -14194,6 +14288,7 @@ un tesoro è ancora mio,—
 un cuore che ama pensare a te,
 e sente quanto vale il tuo.
 
+
 Sì, almeno di questo non potevano privarmi: potevo pensare a lui
 giorno e [[Night|notte]]; e potevo sentire che era degno di essere pensato.
 Nessuno lo conosceva come me; nessuno sapeva apprezzarlo come me; nessuno
@@ -14341,6 +14436,7 @@ her watchful mother’s knowledge.
 
 # CAPITOLO XVIII.  
 NASCITA E LUTTO
+
 
 Finalmente arrivò il 1° giugno: e [[Rosalie Murray]] divenne Lady Ashby. Sembrava davvero incantevole nel suo abito da sposa. Al suo ritorno dalla chiesa, dopo la cerimonia, entrò di corsa nell’aula scolastica, rossa in viso per l’eccitazione, ridendo, metà per gioia, metà, a mio parere, per una disperazione folle.
 
@@ -14828,6 +14924,7 @@ left to our wealthy unknown cousins.
 #CAPITOLO XIX.  
 LA LETTERA
 
+
 I resti mortali di mio padre erano stati sepolti; e noi, con volti tristi e abiti scuri, sedevamo attorno al semplice tavolo della colazione, riflettendo sui piani per la nostra vita futura. La forte volontà di mia madre non aveva ceduto nemmeno di fronte a questa sofferenza: il suo spirito, sebbene spezzato, non era distrutto. Mary desiderava che io tornassi a Horton Lodge e che nostra madre andasse a vivere con lei e il signor Richardson nella canonica; affermava che anche lui lo desiderava tanto quanto lei stessa, e che un tale accordo avrebbe giovato a tutti: l’esperienza e la compagnia di mia madre sarebbero state di inestimabile valore per loro, e avrebbero fatto di tutto per renderla felice. Ma nessuna argomentazione o supplica riuscì a convincerla: mia madre era decisa a non andare. Non che mettesse in dubbio, nemmeno per un momento, le buone intenzioni di sua figlia; ma sosteneva che, finché Dio le avesse concesso salute e forza, avrebbe utilizzato entrambe per guadagnarsi da vivere senza dipendere da nessuno. Se avesse potuto permettersi di soggiornare nella canonica, avrebbe scelto quella casa più di qualsiasi altra; ma non essendo in quelle condizioni, non avrebbe mai messo piede sotto il suo tetto, se non come visitatrice occasionale, a meno che una malattia o un disastro non rendesse davvero necessaria la sua assistenza, o finché l’età o le infermità non le impedissero di provvedere da sola a se stessa.
 
 “No, Mary,” disse lei, “se Richardson e tu avete qualcosa da risparmiare, dovete metterlo da parte per la vostra famiglia; io e Agnes dobbiamo invece raccogliere il miele da sole. Grazie al fatto che ho avuto delle figlie da educare, non ho dimenticato le mie competenze. Se Dio vuole, smetterò di rimpiangere inutilmente,” disse, mentre le [[Tears|lacrime]] le scorrevano lungo le guance nonostante i suoi sforzi; ma se le asciugò e, scuotendo risolutamente la testa, continuò: “Mi impegnerò a trovare una piccola [[house|casa]], situata in un quartiere popoloso ma salubre, dove potremo ospitare alcune giovani signorine per dar loro istruzione, se riusciremo a trovarle, e accettare quante più allieve possiamo prendere, o quanti studenti riusciremo ad educare. I parenti e gli vecchi amici di tuo padre sicuramente ci aiuteranno a trovare delle allieve o ci forniranno raccomandazioni: non ho [[Doubt|dubbi]] al riguardo. Che ne dici, Agnes? Saresti disposta a lasciare la tua attuale situazione e provare?”
@@ -15060,6 +15157,7 @@ looked up and asked what she had been saying.
 CAPITOLO XX.
 L'ADDIO
 
+
 Fu presa in affitto una [[house|casa]] ad A——, l'elegante località balneare, per il nostro collegio; e si ottenne la promessa di due o tre allieve per cominciare. Tornai a Horton Lodge verso la metà di luglio, lasciando mia madre a concludere l'affare per la [[house|casa]], a procurarsi altre allieve, a vendere i mobili della nostra vecchia dimora e ad arredare la nuova.
 
 Spesso compiangiamo i poveri, perché non hanno agio di piangere i loro parenti defunti, e la necessità li obbliga a faticare anche nelle afflizioni più dure: ma un'occupazione attiva non è forse il miglior rimedio a un dolore che ci sopraffà—il più sicuro antidoto alla [[Despair|disperazione]]? Può essere un consolatore rude: può sembrare duro essere tormentati dalle cure della vita quando non ne gustiamo più le gioie; essere spronati al lavoro quando il cuore sta per spezzarsi, e lo spirito angustiato implora riposo solo per piangere in [[Silence|silenzio]]: ma il lavoro non è forse migliore del riposo che bramiamo? e quelle piccole, assillanti preoccupazioni non sono forse meno dannose del rimuginare continuo sulla grande afflizione che ci opprime? Del resto, non possiamo avere preoccupazioni, ansie e fatiche senza [[Hope|speranza]]—foss'anche solo la [[Hope|speranza]] di portare a termine il nostro compito senza gioia, di realizzare qualche progetto necessario, o di sfuggire a qualche ulteriore fastidio. In ogni caso, ero contenta che mia madre avesse tanto da fare per ogni facoltà del suo temperamento amante dell'azione. I nostri buoni vicini si dolevano che lei, un tempo così elevata per ricchezza e condizione, dovesse ridursi a tale estremità nel suo [[Time|tempo]] di dolore; ma sono convinta che avrebbe sofferto tre volte tanto se fosse stata lasciata nell'agiatezza, con la libertà di restare in quella [[house|casa]], teatro della sua felicità di un tempo e della sua recente afflizione, senza alcuna dura necessità che le impedisse di rimuginare e lamentare senza posa il suo lutto.
@@ -15228,6 +15326,7 @@ little.”
 CAPITOLO XXI.
 LA SCUOLA
 
+
 Lasciai Horton Lodge e andai a raggiungere mia madre nella nostra nuova dimora ad A——. La trovai [[Well|bene]] in salute, rassegnata nello spirito e perfino allegra, benché pacata e sobria nel suo contegno generale. Avevamo soltanto tre convittrici e una mezza dozzina di alunne esterne per cominciare; ma con la debita cura e diligenza speravamo di accrescere presto il numero delle une e delle altre.
 
 Mi accinsi con adeguata energia ad assolvere i doveri di questo nuovo modo di vivere. Lo chiamo _nuovo_, perché c'era, in verità, una differenza considerevole tra il lavorare con mia madre in una scuola nostra e il lavorare come salariata tra estranei, disprezzata e calpestata da vecchi e giovani; e per le prime settimane non fui affatto infelice. «È possibile che ci incontriamo di nuovo», e «avrà per lei qualche importanza che ciò accada o no?» — Quelle parole mi risuonavano ancora nell'orecchio e mi restavano sul cuore: erano il mio segreto conforto e sostegno. «Lo rivedrò. — Verrà; oppure scriverà.» Nessuna promessa, in effetti, era troppo luminosa o troppo stravagante perché la [[Hope|Speranza]] me la sussurrasse all'orecchio. Non credevo alla metà di ciò che mi diceva: fingevo di riderne; eppure ero assai più credula di quanto io stessa supponessi; altrimenti, perché il cuore mi balzava in petto quando si udiva bussare alla porta d'ingresso, e la domestica, che andava ad aprire, veniva a dire a mia madre che un signore desiderava vederla? e perché restavo di cattivo [[Humour|umore]] per tutto il resto della giornata, quando si scopriva trattarsi di un maestro di musica venuto a offrire i suoi servigi alla nostra scuola? e che cosa mi mozzò il fiato per un istante, quando, avendo il postino portato un paio di lettere, mia madre disse: «Ecco, Agnes, questa è per te», e me ne gettò una? e che cosa fece salire il [[Blood|sangue]] caldo al mio viso, quando vidi che era indirizzata da una mano di gentiluomo? e perché — oh! perché quel freddo, nauseante senso di delusione mi piombò addosso, quando ebbi strappato la busta e scoprii che era _soltanto_ una lettera di Mary, che, per una ragione o per l'altra, suo marito aveva indirizzato per lei?
@@ -15349,6 +15448,7 @@ Ai primi di giugno ricevetti una lettera da Lady Ashby, già Miss Murray. Mi ave
 
 «La tua affezionatissima,
 «ROSALIE ASHBY.»
+
 
 Mostrai questa strana epistola a mia madre, e la consultai su ciò che dovevo fare. Mi consigliò di andare; e andai — abbastanza volentieri, per rivedere Lady Ashby, e anche la sua bambina, e per fare tutto quello che potevo a suo vantaggio, con una consolazione o con un consiglio; perché immaginavo che dovesse essere infelice, altrimenti non si sarebbe rivolta a me in quel modo — ma sentendo, come è facile immaginare, che accettando l'invito facevo per lei un gran sacrificio, e facevo violenza ai miei sentimenti in molti modi, invece di essere lusingata dall'onorevole distinzione di essere pregata dalla moglie del baronetto di andarla a trovare come amica. Tuttavia, decisi che la mia visita sarebbe durata al massimo pochi giorni; e non negherò che traessi qualche consolazione dall'idea che, non essendo Ashby Park molto lontano da Horton, avrei forse potuto vedere il signor Weston, o almeno sentir dire qualcosa di lui.
 
@@ -15478,6 +15578,7 @@ insatiate demands.
 
 CAPITOLO XXII.
 LA VISITA
+
 
 Ashby Park era senza dubbio una residenza deliziosa. La dimora era imponente all'esterno, comoda ed elegante all'interno; il parco era vasto e bello, soprattutto per via dei suoi magnifici alberi antichi, dei suoi maestosi branchi di cervi, del suo ampio specchio d'[[Water|acqua]] e degli antichi boschi che si stendevano al di là: non c'era infatti alcun terreno accidentato a dare varietà al paesaggio, e ben poco di quel dolce ondeggiare che tanto aggiunge al fascino di uno scenario di parco. E dunque era questo il luogo che [[Rosalie Murray]] aveva tanto desiderato poter chiamare proprio, al punto che doveva averne una parte, a qualunque condizione le fosse offerta — qualunque prezzo si dovesse pagare per il titolo di padrona, e chiunque dovesse essere il suo compagno nell'[[Honour|onore]] e nella beatitudine di un simile possesso! [[Well|Ebbene]], ora non sono disposta a biasimarla.
 
@@ -15897,6 +15998,7 @@ have half her heart’s [[Desire|desire]].
 
 #CAPITOLO XXIII. IL PARCO
 
+
 Scesi un po’ prima delle otto, la mattina seguente, poiché conoscevo l’orario di un orologio lontano. Non c’era traccia di colazione; aspettai per oltre un’ora prima che venisse servita, continuando invano a desiderare poter accedere alla biblioteca. Dopo aver terminato quel pasto solitario, attesi ancora circa un’ora e mezza in grande ansia e disagio, incerto su cosa fare. Alla fine Lady Ashby venne a salutarmi; mi disse di aver appena fatto colazione e che voleva che andassi a fare una passeggiata con lei nel parco. Mi chiese da quanto tempo fossi sveglio e, dopo aver ricevuto la mia risposta, esprimette il suo più profondo rammarico, promettendomi di nuovo di mostrarmi la biblioteca. Le suggerii di farlo subito, così non ci sarebbero stati ulteriori problemi legati a ricordi o dimenticanze. Acconsentì, a condizione che per il momento non pensassi a leggere né mi occupassi dei libri; voleva infatti mostrarmi i giardini e fare una passeggiata con me prima che facesse troppo caldo. Naturalmente accettai volentieri, e così facemmo.
 
 Mentre passeggiavamo nel parco, discutendo di ciò che la mia compagna aveva visto e sentito durante i suoi viaggi, un gentiluomo a cavallo ci superò. Mentre ci passava accanto, girò la testa e mi fissò dritto negli occhi; così ebbi l’opportunità di osservarlo bene. Era alto, magro e smunto, con le spalle leggermente curve; il viso era pallido, ma con macchie scure, e le palpebre erano inquietantemente rosse. I tratti del suo volto erano ordinari, e nel complesso dava l’impressione di una persona stanca e apatica. Il tutto però veniva mitigato da un’espressione sinistra sulla bocca e da quegli occhi spenti e privi di vita.
@@ -16045,6 +16147,7 @@ steps; and he walked beside me.
 
 #CAPITOLO XXIV.  
 Le sabbie
+
 
 La nostra scuola non si trovava nel cuore della città: entrando da A——, dal nord-ovest si vedeva una fila di case dall’aspetto rispettabile, situate su entrambi i lati della larga strada bianca; davanti ad ognuna c’era un piccolo giardino, le finestre erano dotate di persiane veneziane e ogni porta aveva maniglie di bronzo. In una di queste case più grandi vivevamo mia madre ed io, insieme a giovani signorine che i nostri amici e il pubblico decidevano di affidarci. Di conseguenza, eravamo piuttosto lontani dal mare, separati da un labirinto di strade e case. Ma il mare era la mia grande passione; spesso ero felice di attraversare tutta la città per godermi una passeggiata al suo fianco, sia con le studentesse che, durante le vacanze, da sola con mia madre. Era delizioso in qualsiasi momento e in qualsiasi stagione, ma soprattutto nel tumulto selvaggio di una brezza marina forte, o nella freschezza abbagliante di una mattina estiva.
 
@@ -16493,3 +16596,94 @@ And now I think I have said sufficient.
 
 
 _Spottiswode & Co. Ltd._, _Printers_, _London_. _Colchester and Eton_.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XXV. CONCLUSIONE
+
+
+“Beh, Agnes, non dovresti più fare lunghe passeggiate prima di colazione,” disse mia madre, notando che avevo bevuto un’altra tazza di caffè e non avevo mangiato nulla; scusandomi con il caldo del tempo e la stanchezza della lunga passeggiata. Certo, mi sentivo febbricitante e stanca.
+
+“Sei sempre estremo nelle tue azioni: se ogni mattina facessi una _passeggiata breve_ e continuassi a farlo, ti farebbe bene.”
+
+“Beh, mamma, lo farò.”
+
+“Ma questa situazione è ancora peggiore che stare a letto o chinarsi sui libri: ti sei davvero messo in pericolo.”
+
+“Non lo farò più,” dissi.
+
+Mi struggevo il cervello cercando un modo per dirle di Mr. Weston, perché doveva assolutamente sapere che sarebbe arrivato domani. Tuttavia, aspettai finché non furono portati via i piatti della colazione; ero più calma e tranquilla. Poi, sedutami a disegnare, iniziai: “Oggi ho incontrato un vecchio amico sulla spiaggia, mamma.”
+
+“Un vecchio amico… Chi può essere?”
+
+“Due vecchi amici, davvero. Uno era un cane”; poi le ricordai di Snap, la cui [[history|storia]] avevo già raccontato in precedenza, e le descrissi l’episodio della sua improvvisa apparizione e del suo straordinario riconoscimento; “e l’altro,” continuai, “era il signor Weston, il curato di Horton.”
+
+“Signor Weston… Non l’ho mai sentito nominare prima.”
+
+“Sì, l’hai già sentito: ne ho parlato diverse volte, credo… ma non te lo ricordi.”
+
+# Ho sentito parlare di Mr. Hatfield.
+
+“Il signor Hatfield era il rettore, e il signor Weston il curato: a volte lo menzionavo per distinguerlo dal signor Hatfield, poiché ritenevo che fosse un clero più competente. Tuttavia, stamattina presto si trovava sulla spiaggia con quel cane. Immagino l’avesse comprato dal cacciatore di ratti; lui mi conosceva bene, proprio come il cane. Probabilmente grazie al cane stesso. Ho avuto una breve conversazione con lui: quando ha chiesto notizie della nostra scuola, ho parlato di te e del tuo ottimo modo di gestirla. Ha detto che gli piacerebbe conoscerti e mi ha chiesto se potessi presentarglielo, nel caso si permettesse di venire domani. Così ho accettato. Ho fatto bene?”
+
+"Certo. Che tipo di uomo è?"
+
+“Un uomo molto _rispettabile_, credo. Ma lo vedrete domani. È il nuovo vescovo di F——, e poiché è arrivato solo da poche settimane, immagino che non abbia ancora fatto amicizia con nessuno, quindi desidera un po’ di compagnia.”
+
+Arrivò il giorno seguente. Che febbre di ansia ed aspettativa provai dal breakfast fino a [[Noon|mattina]], proprio in quel momento apparve! Dopo averlo presentato a mia madre, andai alla [[Window|finestra]] e mi sedetti ad attendere il risultato dell’incontro. Si intesero estremamente bene, il che mi rallegrò molto, poiché ero molto preoccupata per l’opinione di mia madre su di lui. Non rimase a lungo quella volta; ma quando si alzò per andarsene, lei disse che le sarebbe piaciuto rivederlo ogni volta che avesse trovato comodo tornare. E quando se ne fu andato, fui felice di sentirla dire: “Bene! Penso che sia un uomo molto sensato. Ma perché sei rimasta lì seduta in disparte, Agnes”, aggiunse, “e hai parlato così poco?”
+
+“Perché parlavi così [[Well|benissimo]], mamma, ho pensato che non avessi bisogno del mio aiuto; inoltre, lui era tuo ospite, non mio.”
+
+Dopo quel momento, ci chiamava spesso: diverse volte alla settimana. Di solito, gran parte della sua conversazione era rivolta a mia madre; e non c’è da meravigliarsi, perché lei sapeva parlare con disinvoltura. Quasi invidiavo la fluidità e la vivacità delle sue parole, così come il senso profondo che trasmettevano. Eppure non lo facevo davvero; perché, anche se a volte mi rammaricavo delle mie carenze per amor suo, mi dava grande piacere ascoltare quelle due persone che amavo e rispettavo più di chiunque altro al mondo conversare insieme in modo così amichevole, saggio e, così armonioso. Tuttavia, non ero sempre in silenzio; né venivo affatto trascurata. Ricevevo tutta l’attenzione che desideravo: non mancavano parole gentili né sguardi premurosi, né attenzioni delicate, troppo fini e sottili per essere espresse a parole. Eppure indescrivibili, ma profondamente sentite nel cuore.
+
+La cerimonia tra di noi fu rapidamente abbandonata: il signor Weston arrivò come ospite atteso, sempre benvenuto e mai disturbante nelle nostre faccende domestiche. Anzi, mi chiamava addirittura “Agnes”: quel nome era stato pronunciato all’inizio con timidezza, ma poiché non suscitava alcun dispiacere da parte di nessuno, sembrava che a lui piacesse molto più di “Miss Grey”; e lo stesso valeva per me. Quanto noiosi e tristi erano quei giorni in cui non veniva! Eppure non ero infelice, poiché avevo ancora il ricordo della sua ultima visita e la speranza che ne arrivasse un’altra a rallegrarmi. Ma quando passavano due o tre giorni senza vederlo, provavo sicuramente molta ansia, in modo assurdo, irragionevole; perché, ovviamente, lui aveva le sue faccende da sbrigare e gli affari della sua parrocchia a cui dedicarsi. E temevo la fine delle vacanze, quando anche _le mie_ occupazioni avrebbero iniziato, e a volte non sarei potuta vederlo, o addirittura – quando mia madre era in aula – sarei stata costretta ad essere con lui da [[Alone|sola]]: una situazione che affatto non desideravo, anche se incontrarlo all’aperto e camminare al suo fianco non risultava affatto sgradevole.
+
+Una sera, tuttavia, nell'ultima settimana delle vacanze, arrivò, inaspettatamente: poiché un forte e prolungato temporale pomeridiano aveva quasi distrutto le mie speranze di vederlo quel giorno; ma ora la [[Storm|tempesta]] era finita e il sole splendeva intensamente.
+
+“Che bella serata, signora Grey!” disse entrando. “Agnes, vorrei che venissi a fare una passeggiata con me fino a, ” (menzionò un certo luogo sulla costa: una maestosa  collina sul lato terrestre, e verso il mare una scogliera ripida; dalla cima si godeva di un panorama meraviglioso). “La pioggia ha rimosso la [[Dust|polvere]], ha raffreddato e purificato l’aria. Il paesaggio sarà davvero splendido. Verrai con me?”
+
+“Posso andare, mamma?”
+
+“Sì; senza dubbio.”
+
+Mi sono preparata e in pochi minuti ero di nuovo pronta; naturalmente, però, mi sono presa più cura del mio abbigliamento rispetto a quando avrei semplicemente fatto una commissione da sola. La pioggia temporalesca aveva sicuramente avuto un effetto molto positivo sul tempo: la serata era davvero incantevole. Il signor Weston mi chiese di prendere il suo braccio; durante il cammino per le strade affollate non disse quasi nulla, ma camminava molto velocemente e sembrava pensieroso e distaccato. Mi chiesi cosa gli fosse successo e provai un vago timore che avesse qualcosa di spiacevole in mente; alcune supposizioni vaghe su ciò che potesse essere mi turbavano non poco, rendendomi anch’io molto seria e silenziosa. Ma tutte queste preoccupazioni svanirono non appena arrivammo nei tranquilli dintorni della città: non appena vedemmo la venerabile vecchia chiesa e quella collina con il cielo azzurro sullo sfondo, mio compagno tornò ad essere di buon umore.
+
+“Temo di aver camminato troppo velocemente per te, Agnes,” le disse: “Nella mia impazienza di lasciare la città, ho dimenticato di considerare le tue esigenze; ma ora cammineremo quanto vorrai tu. Vedo, da quelle nuvole chiare a ovest, che ci sarà un tramonto splendido. E avremo il tempo di ammirarne l’effetto sul mare, procedendo a una velocità moderata.”
+
+Quando eravamo arrivati a metà della salita della [[Hill|collina]], cademmo di nuovo nel [[Silence|silenzio]]; e, come al solito, fu lui il primo a romperlo.
+
+“La mia [[house|casa]] è desolata, signorina Grey,” osservò lui sorridendo, “e ormai conosco tutte le donne della mia parrocchia, e anche alcune di questa città; ne conosco molte altre di vista o per sentito dire. Ma nessuna di loro mi sembra adatta come compagna; in realtà, c’è solo una persona al mondo che lo sia: ed è lei. Vorrei sapere quale sarà la sua decisione.”
+
+“È davvero serio, signor Weston?”
+
+“Davvero? Come avresti potuto pensare che scherzassi su un argomento del genere?”
+
+Posò la sua mano sulla mia, che era appoggiata sul suo braccio; sicuramente se ne accorse che tremava, ma ormai non aveva più importanza.
+
+“Spero di non essere stato troppo affrettato,” disse con tono serio. “Dovevi sapere che non è nel mio carattere lusingare, dire cose dolci o esprimere adulatoriamente i miei sentimenti; e che una mia singola parola o uno sguardo significano molto di più delle frasi melliflue e delle dichiarazioni appassionate della maggior parte degli uomini.”
+
+Ho detto che non mi piace lasciare mia madre e che non faccio nulla senza il suo consenso.
+
+“Ho risolto tutto con la signora Grey mentre tu indossavi il tuo cappello,” rispose lui. “Lei ha detto che avrei potuto ottenere il suo consenso, se fossi riuscito a ottenerne anche il tuo; e le ho chiesto, nel caso fossi stato così fortunato, di venire a vivere con noi, perché ero sicuro che a te sarebbe piaciuto di più. Ma lei ha rifiutato, dicendo che ora poteva permettersi di assumere un'assistente e avrebbe continuato ad insegnare finché non fosse riuscita ad acquistare un’annuità sufficiente per mantenersi in una sistemazione confortevole; nel frattempo, avrebbe trascorso le vacanze alternativamente con noi e tua sorella, e sarebbe stata più che soddisfatta se tu fossi stato felice. E così ora ho ignorato le tue obiezioni riguardo a lei. Hai altre obiezioni?”
+
+"Nessuno."
+
+“Allora mi [[Love|ami]]?” disse lui, stringendo con forza la mia mano.
+
+“Sì, davvero.”
+
+
+Qui mi fermo. Il mio Diario, da cui ho tratto queste pagine, non va molto oltre. Potrei continuare per anni, ma mi accontenterò di aggiungere che non dimenticherò mai quella meravigliosa serata estiva, e che ricorderò sempre con gioia quel ripido pendio e il bordo del precipizio dove ci trovavamo insieme, a osservare lo splendido tramonto riflettersi nel tumultuoso mondo delle acque ai nostri piedi. Con i cuori pieni di gratitudine verso il cielo, felicità e [[Love|amore]], quasi troppo pieni per poterli esprimere a parole.
+
+Qualche settimana dopo, quando mia madre si procurò un assistente, diventai la moglie di [[Edward Weston]]; e non ho mai trovato motivo per pentirmene, né sono certa che lo farò mai. Abbiamo affrontato delle difficoltà, e sappiamo che ne incontreremo ancora; ma le superiamo insieme, cercando di rafforzarci a vicenda contro quella separazione definitiva, la più grande sofferenza per chi sopravvive. Tuttavia, se ricordiamo il glorioso cielo che ci aspetta lì fuori, dove entrambi potremo riunirci di nuovo, e dove il peccato e il dolore non esistono più, anche quella sofferenza può essere sopportata. Nel frattempo, cerchiamo di vivere per la gloria di Colui che ha disperso tante benedizioni sul nostro cammino.
+
+Edward, con i suoi sforzi instancabili, ha attuato riforme sorprendenti nella sua parrocchia ed è stimato e amato dai suoi abitanti, come merita; poiché, per quanto possano esserci dei difetti in lui come uomo (e nessuno è del tutto senza), sfido chiunque a biasimarlo nel suo ruolo di pastore, marito o padre.
+
+I nostri figli, Edward, Agnes e la piccola Mary, sono davvero promettenti; per il momento, la loro [[Education|istruzione]] ricade principalmente su di me, e non mancherà loro nulla di ciò che l’attenzione di una madre può offrire. Il nostro modesto reddito è più che sufficiente alle nostre esigenze; e praticando l’economia che abbiamo imparato in tempi difficili, senza mai cercare di emulare i nostri vicini più ricchi, riusciamo non solo a godere di comodità e soddisfazione, ma anche ad accumulare ogni anno qualcosa per i nostri figli e per coloro che ne hanno bisogno.
+
+E ora credo di aver detto abbastanza.
+
+
+
+_Spottiswode & Co. Ltd._, tipografi, Londra. Colchester ed Eton.

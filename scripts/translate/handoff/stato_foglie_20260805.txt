@@ -1,0 +1,16 @@
+AUTORE                  LEAF      IT   MANCA       %
+Bronte                   966     221     745   22.9%
+Whitman                  738       0     738    0.0%
+Dickinson               1730    1192     538   68.9%
+Poe                      452       0     452    0.0%
+Austen                   673     368     305   54.7%
+Hemingway                197       0     197    0.0%
+Wilde                     55      11      44   20.0%
+Conan_Doyle             1017     983      34   96.7%
+Dickens                 4132    4129       3   99.9%
+Belloc                  3022    3021       1  100.0%
+Chesterton              3568    3568       0  100.0%
+Keats                    134     134       0  100.0%
+Sayers                    65      65       0  100.0%
+Shakespeare              154     154       0  100.0%
+TOTALE                 16903   13846    3057   81.9%

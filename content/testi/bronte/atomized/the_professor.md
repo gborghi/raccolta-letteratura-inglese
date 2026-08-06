@@ -15977,7 +15977,7 @@ La pubblicazione di “[[The Professor|Il Professore]]”, poco dopo la sua comp
 
 “[[Shirley]].” Dopo essere stata dissuasa dal realizzare il suo progetto, l’autrice modificò leggermente il testo.
 
-L’uso di tali materiali in un’opera successiva – “[[Villette|Villa]]”. Tuttavia, come.
+L’uso di tali materiali in un’opera successiva – “[[Villette|Villette]]”. Tuttavia, come.
 
 Queste due storie sono, sotto molti aspetti, diverse; così è stato rappresentato.
 
@@ -16173,6 +16173,184 @@ into trade, and pursued his calling with such diligence, ability, and
 Of this I was apprised by the occasional short letters I received from
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO I. INTRODUTTIVO.
+
+# Un giorno, mentre rivedevo i miei documenti, ho trovato sulla mia scrivania…
+
+# Copia di una lettera che ho inviato un anno fa a una mia vecchia scuola
+
+Conoscenza:--
+
+# Cara Charles,
+
+“Credo che quando tu ed io eravamo a Eton insieme, nessuno dei due…”
+
+Personaggi che potremmo definire “popolari”: tu eri uno di quelli sarcastici…
+
+Creatura osservante, astuta e fredda di sangue… Il mio stesso ritratto, in altre parole.
+
+Non tento di descriverlo, ma non ricordo che fosse particolarmente evidente…
+
+Un essere attraente… Riesci davvero a resistergli? Qual è stato quel “magnetismo animale” che ci ha uniti?
+
+Non lo so; di certo non ho mai vissuto nulla del genere…
+
+# Orestesi e i tuoi sentimenti… e ho motivo di credere che anche tu…
+
+Il tuo ruolo, in ogni caso, sarebbe del tutto privo di qualsiasi sentimento romantico nei miei confronti. Comunque…
+
+Durante gli orari fuori dalla scuola, camminavamo e parlavamo continuamente insieme; quando…
+
+Il tema della conversazione era se i nostri compagni fossero o meno dei veri “maestri” per noi…
+
+L'uno per l'altro… e quando ritornavo a provare qualche sentimento di affetto, qualche…
+
+Un vago [[Love|amore]] per un oggetto eccellente o bello, sia esso animato che inanimato.
+
+Nelle inanimate [[Nature|>nature]], la tua fredda sarcasmo non riuscì a commuovermi. Mi sentii.
+
+Superiore a quel controllo, allora, proprio come faccio adesso.
+
+È trascorso molto tempo da quando vi ho scritto, e ancora di più da allora.
+
+Ho visto te… Un giorno, per caso, ho preso in mano un giornale della tua contea.
+
+# Il mio sguardo si posò sul tuo nome… E iniziò a ricordare i tempi passati.
+
+Gli eventi che si sono verificati da quando ci siamo separati… e io mi sono seduto.
+
+#E così ho iniziato questa lettera… Non so cosa tu abbia fatto, ma…
+
+Ascolterete, se vorrete prestare attenzione, come il mondo abbia cambiato intorno a me.
+
+“Prima di lasciare Eton, ho avuto un colloquio con i miei zii materni…”
+
+# Lord Tynedale e l’onorevole John Seacombe: Mi chiesero se volessi partecipare
+
+La Chiesa… e mio zio, il nobile, mi offrì la tenuta di Seacombe.
+
+“Quello che è nel suo dono… se lo volessi; poi c’è mio altro zio, il signor Seacombe…”
+
+Il titolo suggeriva che, una volta diventato rettore di Seacombe-cum-Scaife, forse avrei potuto…
+
+È permesso a me, in qualità di padrona di casa mia e capo della mia parrocchia, di prendere una.
+
+Dei miei sei cugini, le sue figlie, tutte persone che non mi piacciono affatto.
+
+“Ho rifiutato sia la Chiesa che il matrimonio. Un buon clerco è davvero una persona meritevole…”
+
+Cosa… ma avrei dovuto fare una cosa davvero terribile. Per quanto riguarda la moglie… oh, come…
+
+Come un mare notturno oscuro è il pensiero di dover trascorrere tutta la vita legato a uno di loro.
+
+I miei cugini! Non ho alcun [[Doubt|>dubbio]] che siano capaci e carini, ma nessuno di loro è.
+
+Un risultato concreto, non certo uno dei loro pregi, riesce a toccare una corda nel mio cuore.
+
+Pensare di trascorrere le serate invernali accanto al camino, nel salotto.
+
+La canonica di Seacombe, [[Alone|solitaria]], con uno di loro, ad esempio, quello grande e.
+
+Una statua ben scolpita. Sarah, no; sotto queste circostanze, dovrei essere considerato un cattivo marito.
+
+In qualsiasi circostanza, sia che si tratti di un ecclesiastico buono o cattivo.
+
+“Quando rifiutai le offerte dei miei zii, mi chiesero ‘cosa intendevo fare’”.
+
+“Cosa devo fare?”, dissi che avrei dovuto riflettere. Mi ricordarono che non possedevo alcuna fortuna.
+
+# E senza alcuna aspettativa… Dopo una lunga pausa, il Lord…
+
+“Tynedale chiese con fermezza: ‘Se avevo intenzione di seguire le sue orme…’”
+
+“Seguire le orme del padre e dedicarsi al commercio? Beh, in quel momento non avevo affatto considerato questa possibilità…”
+
+# Non credo che il mio modo di pensare mi renda idoneo a farlo bene
+
+Commerciante. Il mio gusto, la mia [[Ambition|ambizione]] non si orientano in quella direzione; ma era proprio così.
+
+#Lo sdegno evidente sul volto di Lord Tynedale mentre pronunciava…
+
+#La parola “commercio”… con quel tono pieno di disprezzo e sarcasmo…
+
+Deciso all’istante. Mio padre per me non era altro che un nome… Eppure, quel nome contava molto.
+
+Non mi piace affatto che si parli di me con disprezzo, proprio davanti a me. Ho risposto…
+
+“Allora, con fretta e calore, dissi: ‘Non posso fare di meglio che seguire le sue orme.’”
+
+“Seguendo le orme di mio padre… sì, diventerò un artigiano.” Miei zii non erano d’accordo.
+
+# Ci lamentammo a vicenda; poi ci separammo con reciproco disgusto. Ripensandoci ora…
+
+Titolo:  
+“Trasazione… Scopro di aver avuto perfettamente ragione a liberarmi di quel peso.”
+
+Il patrocinio di Tynedale, ma che sciocco da offrire subito le mie spalle per questo.
+
+La sopportazione di un altro fardello… uno che potrebbe rivelarsi ancora più insopportabile.
+
+Che certamente non era mai stato provato prima.
+
+“Ho scritto immediatamente a Edward… sai, Edward… mio unico fratello…”
+
+Di molti anni più anziano di me, sposato con la figlia di un ricco proprietario di mulini… e ora…
+
+Titolo:  
+Il possessore della mulina e dell’attività commerciale che appartenevano a mio padre prima di…
+
+Fallito… Sai bene che mio padre… un tempo considerato un vero “Creso”…
+
+La ricchezza, lo portò alla bancarotta poco prima della sua [[Death|morte]], e questo mio.
+
+La madre visse nella povertà per circa sei mesi dopo la sua morte, senza alcun aiuto.
+
+I suoi fratelli aristocratici, che aveva offeso gravemente con la sua [[Union|unione]].
+
+Con Crimsworth, il produttore dello ----shire… Alla fine di quei sei mesi
+
+# Lei mi ha portato al mondo, e poi se n’è andata senza di me…
+
+Dovrebbe pensarci con molto rimorso, poiché conteneva ben poca [[Hope|>speranza]] o conforto.
+
+lei.
+
+“Le relazioni di mio padre si presero cura di Edward, proprio come avevano fatto con me, fino a quando…”
+
+Aveva nove anni. In quel periodo capitò che…
+
+Un importante distretto della nostra contea è rimasto vacante; il signor Seacombe si è candidato.
+
+# Mio zio Crimsworth, un astuto uomo d’affari, colse l’occasione…
+
+#"Scrivere una lettera furiosa al candidato, dichiarando che se lui e Lord..."
+
+# Tynedale non acconsentì ad intraprendere alcuna azione per sostenerli
+
+I figli orfani di sua sorella, li espose a un’aggressione spietata e malvagia.
+
+Comportarsi in modo corretto verso quella sorella e fare del proprio meglio per cambiare le circostanze.
+
+Contro l’elezione del signor Seacombe. Quel gentiluomo e il lord T. lo sapevano molto bene.
+
+“Il fatto che i Crimsworth fossero una famiglia spietata e determinata…”
+
+Sapevano anche di esercitare influenza nel distretto di X----; e,
+
+# Trasformando la necessità in virtù, acconsentirono a sostenere le spese…
+
+La mia [[Education|istruzione]]. Fui mandato a Eton, dove rimasi per dieci anni.
+
+In quale periodo di [[Time|tempo]] Edward ed io non ci siamo mai incontrati. Lui, quando è cresciuto, è entrato nel.
+
+Intrapreso la sua attività professionale con tale diligenza, abilità e…
+
+[[success|Successo]]: ormai, all'età di trent'anni, stava facendo rapidamente fortuna.
+
+Di ciò fui informato attraverso le brevi lettere che ricevevo di tanto in tanto.
+
 
 
 <span class="atom-split" data-atom="chapter_02_introductory--part_02" data-title="The Professor — Chapter 1: INTRODUCTORY (part 2)" data-chapter="INTRODUCTORY" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/fire,motif/home,motif/rose,motif/time,motif/well,concept/education,concept/union"></span>
@@ -16356,6 +16534,187 @@ scanned me again.
 
 meeting, betrayed any warmth, any enthusiasm; that I had saluted this
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lo incontrava, più o meno tre o quattro volte all’anno; ma quelle lettere non mai finivano…
+
+Senza alcuna manifestazione di ostilità decisa verso la [[house|casa]] di.
+
+**#Seacombe e le critiche per il mio modo di vivere…**
+
+Di quella [[house|casa]]. All’inizio, quando ero ancora ragazzo, non riuscivo a capirlo.
+
+# Perché, non avendo genitori, non dovevo essere in debito con i miei zii Tynedale
+
+E Seacombe per la mia [[Education|istruzione]]; ma man mano che crescevo, ho iniziato a capire.
+
+L’ostilità tenace, l’odio che mostrarono fino alla [[Death|morte]] contro.
+
+# Il mio padre… le sofferenze di mia madre… tutte le ingiustizie, in breve…
+
+Della nostra [[house|>casa]]. Fu allora che provai vergogna per quella dipendenza nella quale mi trovavo.
+
+Titolo:  
+Visse, e prese la risoluzione di non accettare più il pane dalle mani di coloro che…
+
+#Rifiutato di provvedere alle necessità della mia madre morente. Fu così…
+
+# Questi sentimenti nacquero quando rifiutai la carica di parroco a Seacombe
+
+e l’[[Union|unione]] con uno dei miei cugini patrizi.
+
+“Un irreparabile divario si è creato tra i miei zii e me…”
+
+Ho scritto a Edward; gli ho raccontato ciò che era accaduto e gli ho comunicato la mia situazione.
+
+Intenzione di seguire le sue orme e diventare un artigiano… Inoltre, chiesi anche se…
+
+“Potrebbe darmi un lavoro… La sua risposta, però, non esprimeva alcun accordo con le mie idee.”
+
+Conducere, ma disse che potevo venire nel ----shire, se volevo…
+
+“Vedremo cosa si può fare per fornirmi del lavoro.”
+
+# Ho represso ogni pensiero, anche quelli mentali riguardo al suo messaggio… Ho fatto i bagagli e…
+
+Prese il suo bagaglio e partì direttamente per il Nord.
+
+Dopo due giorni di viaggio (all’epoca non esistevano ancora le ferrovie), io…
+
+Arrivò, un pomeriggio umido di ottobre, nella città di X----. Io l’avevo sempre…
+
+Ho capito che Edward viveva in questa città, ma dopo aver indagato ho scoperto che…
+
+Solo il mulino e il magazzino del signor Crimsworth si trovavano in quel luogo.
+
+L’atmosfera fumosa di Bigben Close; la sua residenza si trovava a quattro miglia di distanza.
+
+In campagna.
+
+“Era tardi nella serata quando scesi alle porte…”
+
+#Abitazione designata per me come quella di mio fratello… Mentre mi avvicinavo…
+
+#Via, riuscivo a vedere attraverso le ombre del crepuscolo e l’oscurità cupa…
+
+Nebbie che rendevano ancora più scure quelle ombre; la [[house|casa]] era grande, e.
+
+“Terreni circostanti ampi a sufficienza… Mi fermai un attimo lì.”
+
+Il prato davanti a me; mi appoggiai contro un albero alto che fioriva di [[Rose|rosi]].
+
+Dal centro, osservai con interesse l’esterno di Crimsworth Hall.
+
+“Edward è ricco”, pensai tra me. “Credetti che stesse facendo…”.
+
+“Beh, ma non sapevo che fosse il proprietario di una dimora del genere.” – concluse.
+
+# Senza indugiare in meraviglie o speculazioni, procedetti immediatamente…
+
+# Bussò alla porta d’ingresso e qualcuno la aprì: mi presentai…
+
+Mi ha tolto il mantello bagnato e la borsa di stoffa, poi mi ha fatto entrare in…
+
+Una stanza arredata come biblioteca, con un bel [[Fire|fuoco]] acceso e delle candele.
+
+“Bruciante sulla tavola… Mi ha detto che il suo padrone non era ancora arrivato.”
+
+Tornato dal mercato di X----, ma sicuramente sarebbe stato a [[Home|casa]] entro.
+
+Durata di mezz’ora.
+
+#"Rimasto solo, mi misi nella poltrona imbottita, ricoperta di rosso..."
+
+#Marocco, accanto al fuoco… mentre i miei occhi osservavano…
+
+# Fiamme scaturiscono dalle braci ardenti, e le ceneri cadono di tanto in tanto…
+
+#Il focolare… la mia mente era occupata da congetture riguardo a quell’incontro.
+
+È sul punto di verificarsi… Tra tante incertezze riguardo all’argomento in questione…
+
+# Queste congetture… c’era una cosa almeno certa: io non ero in nessun luogo.
+
+# Pericolo di incorrere in profonde delusioni: da ciò, la moderazione
+
+“Di ciò che mi aspettavo, nulla andò oltre le mie previsioni. Non avevo previsto alcun imprevisto.”
+
+#Tenerezza fraterna: le lettere di Edward erano sempre piene di questo tipo di affetto
+
+Prevenire la nascita o il sostegno di delusioni di questo tipo. Comunque…
+
+Mentre aspettavo il suo arrivo, ero pieno di impazienza… davvero molto impaziente; non so come descriverlo.
+
+# Perché mai… La mia mano, così estranea al contatto di una mano affine…
+
+"#Si strinse forte per trattenere il tremito che l’impazienza avrebbe voluto far emergere."
+
+L’ho scosso.
+
+“Ho pensato ai miei zii… e mentre mi chiedevo…”
+
+#L’indifferenza di Edward equivaleva al disprezzo freddo che io avevo sempre provato…
+
+Dall’esperienza che ne avevo, sentii i cancelli del viale aprirsi: le ruote si avvicinavano…
+
+La [[house|casa]]; il signor Crimsworth era arrivato; e dopo un po’ di tempo.
+
+“Minuti… e un breve dialogo tra lui e il suo servitore…”
+
+Nel corridoio, i suoi passi si avvicinavano alla porta della biblioteca; quei passi, [[Alone|solo]], ne annunciavano l’arrivo.
+
+Il padrone della [[house|casa]].
+
+“Ricordo ancora confusamente di Edward quando aveva dieci anni…”
+
+Anni fa, un giovane alto, snello, ancora inesperto; OGGI, mentre mi alzavo dal mio posto.
+
+# Diretti verso la porta della biblioteca, vidi un uomo di bell’aspetto e dal portamento imponente.
+
+Di pelle chiara, ben proporzionato e dalle forme atletiche; il primo.
+
+Un’occhiata mi ha fatto notare un atteggiamento deciso e prontezza nel comportamento di quella persona.
+
+Nel suo modo di muoversi, nel suo portamento, nel suo sguardo e nel complesso del suo aspetto.
+
+L’espressione sul suo viso… Mi salutò brevemente, e in quell’istante…
+
+# Un’occhiata attenta…
+
+Un divano a bracci rivestiti in velluto marocchino; mi fece segno di sedermi su un altro posto.
+
+“‘Mi aspettavo che venissi alla casa dove si contano i voti, nel quartiere del Close.’”
+
+Disse così; e notai che la sua voce aveva un accento piuttosto marcato… probabilmente.
+
+Per lui era del tutto naturale; parlava anche con quel tono rauco tipico delle regioni settentrionali…
+
+“Suonava duro alle mie orecchie, abituate al suono argenteo di…”
+
+Sud.
+
+“Il proprietario dell’ostello in cui si fermò la carrozza mi ha indirizzato qui.”
+
+“Disse io: ‘All’inizio dubitai dell’accuratezza delle sue informazioni, poiché…”
+
+“Consapevole che possedessi una residenza del genere…”
+
+“‘Oh, va tutto bene!’ rispose, ‘solo che sono rimasto indietro di mezz’ora…’”
+
+[[Time|tempo]], aspettarti, è tutto ciò che faccio. Pensavo che sicuramente saresti passato di qui.
+
+Otto in punto, il treno parte.
+
+“Espressi rammarico per il fatto che avesse dovuto aspettare; non rispose nulla, ma…”
+
+Rimestò nel [[Fire|fuoco]], come se volesse nascondere un segno di impazienza; poi.
+
+Mi ha scansionato di nuovo.
+
+“Provai una soddisfazione interiore nel constatare che, nel primo momento…
+
+#Incontro privo di calore, senza entusiasmo… L’augurio che avevo espresso era stato completamente ignorato.
 
 
 
@@ -16565,6 +16924,211 @@ of their own. The above letter will serve as an introduction. I now
 proceed.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Un uomo dal carattere calmo e sereno.
+
+“‘Hai davvero rotto ogni legame con Tynedale e Seacombe?’ chiese lui in fretta.”
+
+“Non credo che avrò più alcun contatto con loro; il mio…”
+
+La rifiutazione delle loro proposte, immagino, fungerà da ostacolo…
+
+“Tutti i futuri rapporti…”
+
+“‘Perché,’ disse lui, ‘posso benissimo ricordartelo fin dall’inizio della nostra, ’”
+
+Titolo:  
+“Connessione… e il principio che ‘nessuno può servire due padroni’”. L’incontro con Lord…
+
+“Tynedale non sarà compatibile con l’aiuto da parte mia… C’era una sorta di…”
+
+“Minaccia gratuita nel suo sguardo mentre mi fissava…”
+
+osservazione.
+
+"#Non avendo alcuna voglia di rispondergli, mi accontentai di..."
+
+# Speculazioni interne sulle differenze esistenti nella costituzione
+
+Nel cuore degli uomini… Non so quale conclusione abbia tratto il signor Crimsworth da ciò.
+
+Il mio [[Silence|silenzio]] – che lui lo considerasse un sintomo di ribellione o no.
+
+“Evidenza del fatto che io sia stato intimidito dal suo modo autoritario… Dopo una lunga…”
+
+Non riuscendo a sopportare di guardarmi, si alzò bruscamente dalla sedia.
+
+“Domani,” disse, “vi farò notare qualcos’altro…”
+
+Punti, ma ora è ora di cena, e probabilmente la signora Crimsworth.
+
+“Aspettando… verrai?”
+
+“Uscì dalla stanza e io lo seguii. Attraversando il corridoio…”
+
+Mi chiedevo chi potesse essere la signora Crimsworth… “È forse”, pensai, “davvero così diversa da tutti noi?”
+
+“Tynedale, Seacombe, le signorine Seacombe… come li chiamo io.”
+
+“Una parente affettuosa che ora mi sta davanti… o forse è qualcosa di più?”
+
+#Questi? Devo forse mostrarglieli liberamente durante la nostra conversazione?
+
+La mia vera [[Nature|natura]]; oppure. Ulteriori congetture furono interrotte dal mio arrivo.
+
+Nel salone da pranzo.
+
+“Una lampada, posta sotto una griglia di vetro opaco, proiettava una luce piacevole…”
+
+Appartamento con rivestimento in quercia; la cena era già pronta sul tavolo…
+
+Nella sala da pranzo, come se stesse aspettando il nostro arrivo, apparve una signora.
+
+Era giovane, alta e di [[Well|bella]] figura; il suo abito era molto elegante.
+
+“Moderno… Basta un’occhiata per capirlo. Davvero accattivante.”
+
+Saluto scambiato tra lei e il signor Crimsworth; lei lo rimproverò, in parte…
+
+“Con aria scherzosa, un po’ imbronciata per essere in ritardo… La sua voce… Io la ascolto sempre.”
+
+Voci che contribuiscono alla valutazione del carattere erano vivaci…
+
+Come indicato, pensai, si trattasse di un individuo dal buon carattere e dall’ottimo umore… Ma il signor Crimsworth presto cambiò atteggiamento.
+
+#Il suo rimprovero animato… accompagnato da un bacio… un bacio che continuava a raccontare tutto.
+
+# Lo sposo (non erano ancora sposati da un anno); lei prese il suo posto
+
+“Alla tavola da cena, di ottimo umore… Vedendomi, mi pregò…”
+
+“Perdonatemi se non mi avevate notato prima… Poi mi ha stretto la mano.”
+
+Le signore lo fanno quando un flusso di buon [[Humour|umorismo]] le spinge ad essere allegramente disponibili.
+
+Tutti, persino i più indifferenti tra loro… Ora era ancora peggio.
+
+A mio parere, aveva una bella carnagione e tratti facciali piuttosto attraenti.
+
+“Markata, ma piacevole; i suoi capelli erano rossi… davvero rossi. Lei ed Edward…”
+
+Parlava molto, sempre in tono di scherzosa disputa; lei ne era infastidita…
+
+Fingeva di essere infastidito, dicendo di aver quel giorno cavalcato un terribile [[Horse|cavallo]].
+
+Si occupava lui del lavoro, e minimizzava le sue paure. A volte si rivolgeva a me per chiedere aiuto.
+
+“Ora, signor William, non è assurdo che Edward parli in questo modo? Dice…”
+
+Sarà Jack a guidare quel cavallo, e nessun altro; inoltre, quell’animale selvaggio l’ha già fatto cadere due volte.
+
+Già.
+
+“Parlava con una sorta di balbuzio, non sgradevole, ma piuttosto infantile.”
+
+#Ben presto si rese conto che c’era qualcosa di più di una semplice ragazza… qualcosa di quasi infantile.
+
+Espressione che non manca affatto nei suoi tratti facciali; quel balbettio e quell’espressione…
+
+Sono sicura che ci fosse un fascino negli occhi di Edward, e lo sarebbe stato davvero.
+
+“Di molti uomini… ma non di me. Cercai il suo sguardo, con desiderio…”
+
+#Leggere l’intelligenza che non riuscivo a scorgere nel suo volto
+
+Nella sua conversazione si udivano risate allegre; il tono era spensierato, un po’ scherzoso… A tratti la vedevo ridere.
+
+Vivacità, [[Vanity|vanità]], civetteria. Guarda attraverso i suoi occhi iridescenti, ma io ho osservato attentamente.
+
+Vano tutti questi sforzi per intravedere un barlume dell’[[Soul|'anima]]. Non sono un orientale; colli bianchi, labbra rosse come il corallo.
+
+# Seni e guance, ciocche di capelli ricci e luminosi… ma non bastano senza di più
+
+Scintilla prometea che sopravviverà anche quando rose e gigli saranno appassiti.
+
+I capelli lucidi erano ormai diventati grigi. Al sole, nella prosperità, le [[Flowers|>fiori]].
+
+Stanno molto bene; ma quanti giorni di pioggia ci sono nella vita, nelle stagioni di novembre.
+
+Di disastro, quando il focolare di un uomo e la sua [[Home|>casa]] diventano davvero freddi, senza.
+
+Quel chiaro, radioso splendore dell’intelligenza.
+
+“Dopo aver ammirato il bel viso della signora Crimsworth…”
+
+Un sospiro involontario rivelò la mia delusione; lei lo interpretò come un segno di rispetto…
+
+La sua [[Beauty|bellezza]], e Edward, che ovviamente era orgoglioso della sua ricchezza e del suo aspetto attraente.
+
+La giovane moglie mi lanciò uno sguardo: metà derisione, metà rabbia.
+
+“Mi allontanai da entrambi e, guardandomi intorno con stanchezza nella stanza, vidi due…”
+
+Dipinti incorniciati in legno di quercia: uno su ciascun lato del caminetto.
+
+Smettere di partecipare alla conversazione scherzosa che proseguiva…
+
+# Tra il signor e la signora Crimsworth, rivolsi i miei pensieri all’esame
+
+Di queste immagini… Erano ritratti: una signora e un gentiluomo, entrambi…
+
+Costumato secondo la moda di vent’anni fa… Il gentiluomo era…
+
+Ombra. Non riuscivo a vederlo chiaramente. La signora, invece, aveva la luce piena a disposizione.
+
+Dalla luce soffusa della lampada, la riconobbi subito: l’avevo già vista prima.
+
+Quella foto risale alla mia [[Childhood|infanzia]]; era mia madre. E c’era anche quel compagno.
+
+# L’unico ereditario delle tradizioni familiari: l’immagine
+
+Proprietà.
+
+“Quel volto, ricordo, mi piaceva da ragazzo… ma all’epoca non ci avevo fatto caso.”
+
+Capisco ora quanto sia rara quella tipologia di volto nel mondo…
+
+# E ne apprezzai profondamente l’espressione riflessiva, ma al contempo delicata.
+
+Un serio sguardo grigio possedeva un forte fascino per me, così come certe linee del suo viso…
+
+# Nei tratti tipici di un vero e sincero sentimento… Mi dispiaceva.
+
+Era solo un’immagine.
+
+“Ben presto lasciai il signor e la signora Crimsworth da soli; un servitore…”
+
+Mi portò nella mia camera da letto; chiudendo la porta della stanza, esclusi tutto ciò che mi circondava…
+
+Gli intrusi, tu, Charles, così come gli altri.
+
+Addio, per il momento…
+
+“[[William Crimsworth]].”
+
+A questa lettera non ho mai ricevuto risposta; prima che il mio vecchio amico la ricevesse…
+
+Aveva accettato un incarico governativo in una delle colonie, e.
+
+Già in viaggio verso il luogo dove dovrà svolgere i suoi compiti ufficiali… Cosa ne sarà?
+
+Di lui, da allora, non so nulla.
+
+Il tempo libero che ho a disposizione, e che intendevo utilizzare.
+
+Per il suo beneficio personale, ora lo dedicherò a quello del pubblico.
+
+“Non è un racconto avvincente, e soprattutto non meraviglioso…”
+
+#Ma potrebbe interessare alcune persone che, avendo lavorato sodo nello stesso campo…
+
+# La vocazione che è me stesso si rifletterà spesso nella mia esperienza
+
+“Di loro stessi… La lettera sopra menzionata servirà da introduzione. Ora…”
+
+Procedi.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_01" data-title="The Professor — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/fool,archetype/rebel,motif/autumn,motif/fire,motif/hill,motif/horse,motif/lion,motif/mirror,motif/nature,motif/night,motif/river,motif/road,motif/time,motif/well,concept/nature,concept/self"></span>
@@ -16740,6 +17304,180 @@ remained standing near the hearth; he said presently--
 
 “Steighton, you may leave the room; I have some business to transact
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO II.
+
+Una bella mattina di ottobre seguì la nebbiosa serata che aveva visto…
+
+#La mia prima visita a Crimsworth Hall: arrivato presto e già entrato all’interno
+
+Il vasto prato simile a un parco che circonda la [[house|>casa]]. Il sole d’[[Autumn|autunno]], che sorge.
+
+#Sopra le colline dello ----shire, si apriva una piacevole campagna; boschi marroni e…
+
+“Mellow” rendeva più variegati i campi da cui la raccolta era stata appena effettuata.
+
+Sul [[River|fiume]], che scorreva tra i boschi, si posava qualcosa sul suo pelo d'acqua.
+
+# Il freddo bagliore del sole e del cielo di ottobre; a intervalli regolari lungo…
+
+Le rive del [[River|fiume]], i comuni camini cilindrici, quasi simili a steli sottili.
+
+# Torri rotonde che indicavano le fabbriche parzialmente nascoste dagli alberi
+
+# Casae sparse, simili a Crimsworth Hall, abitate da persone piacevoli
+
+Luoghi situati sul versante della [[Hill|collina]]; nel complesso, la campagna presentava un aspetto allegramente.
+
+# Aspetto attivo e fecondo… Vapore, commercio, macchinari avevano da tempo bandito tutto ciò che poteva ostacolare tale aspetto.
+
+Tutto era pervaso da romanticismo e solitudine. A una distanza di cinque miglia, c'era una valle.
+
+Un varco tra le basse colline custodiva, come in delle “coppie”, la grande città di X----.
+
+Una densa e persistente nebbia avvolgeva questa zona… Lì giaceva Edward.
+
+“Preoccupazione.”
+
+# Esaminai attentamente questa prospettiva, costrinsi la mia mente a soffermarsi su di essa
+
+Ci ho provato per un po', ma quando ho scoperto che non procurava alcun piacere.
+
+# Un’emozione che tocca il cuore… ma che non suscita in me alcuna delle speranze che un uomo dovrebbe avere
+
+“Per poter comprendere, quando si trova di fronte alla rappresentazione della propria vita e della propria carriera…”
+
+Mi dissi: “William, sei un [[Rebel|ribelle]] contro le circostanze; sei, ”
+
+Un [[Fool|idiota]], che non sa nemmeno ciò che vuole; hai scelto di intraprendere un mestiere, e così sarà.
+
+“Diventa un artigiano… Guarda!” continuai a pensare… “Guarda quel fumo nero…”
+
+“Quella cavità… e sai che lì c’è il tuo posto! Lì non puoi nemmeno sognare.”
+
+“Non si può mai speculare o teorizzare: bisogna semplicemente mettersi al lavoro!”
+
+Così, dopo essermi istruito da solo, tornai a casa. Mio fratello era lì.
+
+# Sala da pranzo. Lo incontrai con calma… Non potevo incontrarlo in modo allegro.
+
+Stava in piedi sul tappeto, con le spalle rivolte verso il [[Fire|fuoco]]. Quanto ne avevo letto, in realtà?
+
+L’espressione dei suoi occhi quando i miei sguardi si incrociarono mentre mi avvicinavo
+
+Per salutarlo con un buongiorno. Quanto fosse contrario alla mia [[Nature|>natura]]!
+
+“Buongiorno”, disse bruscamente, annuì e poi… afferrò qualcosa con rapidità.
+
+# Prese un giornale dal tavolo e iniziò a leggerlo con quell’aria…
+
+#Di un maestro che trova una scusa per evitare la noia delle conversazioni
+
+Un subalterno. In fondo, avevo preso la decisione di sopportarlo per un certo periodo di tempo.
+
+O il suo comportamento avrebbe reso insopportabile quel disgusto.
+
+# Avevo appena cercato di domarlo… Lo guardai: lo valutai attentamente.
+
+#"Corpo robusto e proporzioni potenti; vidi il mio riflesso dentro di esso."
+
+Lo [[Mirror|specchio]] sopra il caminetto. Mi divertivo a confrontarli.
+
+“Rispetto all’aspetto esteriore, assomigliavo a lui, anche se non ero altrettanto attraente; i miei…”
+
+Le caratteristiche fisiche erano meno regolari; avevo un occhio più scuro e una fronte più larga…
+
+#Ero molto più inferiore: più magro, più esile, meno alto…
+
+#Animal: Edward mi superava di gran lunga; chissà se anche nel carattere si rivelerà altrettanto eccezionale…
+
+Come persona, devo essere uno schiavo, perché non posso aspettarmi da lui nulla di simile alla forza e al coraggio di un [[Lion|leone]].
+
+# Generosità verso chi è più debole di lui… il suo sguardo freddo e avaro…
+
+Un atteggiamento severo e minaccioso mi fece capire che non avrebbe esitato a colpire. Se solo allora avessi avuto la forza…
+
+Hai la forza di affrontarlo? Non lo sapevo. Non ero mai stata messa alla prova prima d’ora.
+
+L’ingresso della signora Crimsworth distolse per un momento i miei pensieri… Lei sembrava…
+
+Bene vestita di bianco, il suo viso e i suoi abiti brillavano al mattino.
+
+#E la freschezza della sposa… Le parlai con quella stessa naturalezza che avevo mostrato l’ultima volta…
+
+La spensierata allegria della [[Night|notte]] sembrava giustificata, ma lei rispose con freddezza.
+
+# Moderazione e riservatezza: suo marito le aveva insegnato come comportarsi; non doveva mai essere troppo…
+
+Familiare con il suo impiegato.
+
+Non appena la colazione fu finita, il signor Crimsworth mi fece capire che…
+
+Titolo:  
+Stavano portando il carrozzone davanti alla porta… e in cinque minuti lui…
+
+Non dovreste aspettarvi che io sia disposto ad andare con lui a X----… Non lo farò.
+
+#Farlo aspettare… Presto ci saremmo mossi a grande velocità lungo…
+
+[[Road|strada]]. Il [[Horse|cavallo]] che guidava era lo stesso animale ferocissimo di cui aveva parlato la signora.
+
+Crimsworth aveva espresso le sue paure la [[Night|notte]] precedente. Una o due volte.
+
+Jack sembrava propenso ad agitarsi, ma con un atteggiamento energico e deciso…
+
+Applicazione della frusta dalla mano spietata del suo padrone… presto.
+
+#Costrinse Edward alla sottomissione; le narici dilatate di Edward ne testimoniavano lo stato d’animo.
+
+Vittoria nel risultato della competizione; durante quel periodo quasi non mi ha parlato.
+
+Durante l’intera breve corsa, aprì le labbra solo di tanto in tanto per maledire…
+
+[[Horse|cavallo]].
+
+# Un luogo pieno di movimento e confusione quando vi entrammo; lasciammo quel posto pulito e ordinato…
+
+# Strade dove si trovavano abitazioni e negozi, chiese e luoghi pubblici
+
+# Edifici… Li abbiamo lasciati tutti indietro e ci siamo diretti verso una zona piena di mulini.
+
+# Magazzini; da lì attraversammo due imponenti porte per entrare in un vasto spazio…
+
+# Cortile lastricato, e ci trovavamo in Bigben Close; davanti a noi c’era il mulino.
+
+#Sputando fuliggine dal suo lungo camino, e tremando per via del suo spesso…
+
+“Muri di mattoni e il rumore dei suoi intestini di ferro… I lavoratori…”
+
+Titolo:  
+Andirivieni incessanti; un carro veniva caricato di pezzi… Il signor Crimsworth
+
+Guardò da una parte all’altra e, in un solo sguardo, sembrò capire tutto.
+
+Quello che stava accadendo. Lui scese da cavallo e lasciò il suo [[Horse|cavallo]] e la sua carrozza lì.
+
+“Curato da un uomo che si affrettò a prendere le redini dalle sue mani, egli mi disse…”
+
+Seguilo fino alla casa dove si contano i voti. Siamo entrati, un posto molto diverso.
+
+#Dalle sale di Crimsworth Hall… un luogo per gli affari, spoglio e senza fronzoli.
+
+# Arredi semplici: pavimento in assi, un armadio sicuro, due scrivanie alte e sgabelli, oltre ad alcune sedie.
+
+Una persona era seduta davanti a uno dei banchi; quando si tolse il cappello quadrato…
+
+#Il signor Crimsworth entrò e, in un istante, tornò a immergersi nei suoi pensieri
+
+L’occupazione di scrivere o di calcolare. Non so quale sia la più importante.
+
+Il signor Crimsworth, dopo essersi tolto il mantello impermeabile, si sedette vicino al [[Fire|focolare]]. Io.
+
+Rimase fermo vicino al camino; dopo un po’ disse…
+
+“Steighton, puoi lasciare la stanza; devo sbrigare qualche affare.”
 
 
 
@@ -16957,6 +17695,223 @@ of the fireplace; having glanced at my translations--he could read both
 French and German--he went out again in [[Silence|silence]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Con questo signore… Tornate quando sentite suonare la campanella.”
+
+La persona alla scrivania prese la sua rossa e se ne andò, chiudendo la porta dietro di sé.
+
+Uscì. Il signor Crimsworth ravvivò il [[Fire|fuoco]], poi incrociò le braccia e si sedette.
+
+“Un momento di riflessione… Le sue labbra si contrassero, la fronte si corrugò. Non avevo nulla da…”
+
+Basta guardarlo, quanto siano ben definiti i suoi tratti! Che uomo attraente.
+
+#Era proprio così! Da dove, allora, proveniva quell’aspetto cupo e teso… quella rigidità nel suo comportamento?
+
+Quell’aspetto sul suo viso, in tutti i suoi tratti.
+
+Si rivolse a me all’improvviso e disse:
+
+“Sei venuto nel ----shire per imparare a diventare un artigiano?”
+
+"Sì, lo sono."
+
+# Hai già preso una decisione al riguardo? Fammi saperlo subito.
+
+“Sì, davvero.”
+
+“Beh, non sono obbligato ad aiutarti, ma ho un posto libero qui, se, ”
+
+#Non puoi fare nulla.
+
+# Conosci qualcosa di utile, oltre a quella roba inutile che si impara all’università… come il greco?
+
+“Latino, e così via?”
+
+# Ho studiato matematica.
+
+“Bah! Ne sono sicuro che ne abbiate.”
+
+So leggere e scrivere in francese e tedesco.
+
+“Hmm…”, rifletté per un momento, poi aprì un cassetto su uno scrittoio vicino a lui.
+
+Prese fuori una lettera e me la diede.
+
+“Riesci a leggerlo?” chiese.
+
+# Era una lettera commerciale tedesca; l’ho tradotta… ma non sono riuscita a capirne il contenuto.
+
+Che fosse soddisfatto o meno, il suo volto rimase immobile.
+
+“È davvero bene,” disse dopo una pausa, “che tu conosca, ”
+
+# Qualcosa di utile… qualcosa che possa aiutarti a ottenere il tuo diploma.
+
+Titolo:  
+Alloggio: visto che parli francese e tedesco, ti prenderò come secondo…
+
+Un impiegato incaricato di gestire la corrispondenza estera della [[house|casa]]. Glielo darò.
+
+“Ti offro un buon stipendio: 90 sterline all’anno… E ora,” continuò, alzando la voce.
+
+#"Ascolta una volta per tutte ciò che ho da dire sulla nostra relazione..."
+
+"Tutta quella roba sciocca! Non posso permettermi assolutamente niente del genere in questo campo."
+
+“Non mi sarebbe mai adatto… Non ti perdonerò nulla, nemmeno sotto la scusa di essere mio…”
+
+#"Fratello… se ti trovo stupido, negligente, dissipato, ozioso o posseduto…"
+
+Di qualsiasi difetto possa essere dannoso agli interessi della [[house|casa]], mi assicurerò di eliminarlo.
+
+“Tu, come qualsiasi altro impiegato… Novanta sterline all’anno sono un ottimo stipendio…”
+
+“Mi aspetto di ottenere il pieno valore dei miei soldi da te; ricorda…”
+
+“Anche questo dimostra che le cose sono su una base concreta e pratica nel mio caso…”
+
+I comportamenti, i sentimenti e le idee tipici di un ambiente aziendale mi si adattano meglio.
+
+“Capisci?”
+
+“In parte,” risposi. “Immagino che tu intenda dire che devo svolgere il mio lavoro…”
+
+#Salari… Non aspettarsi favori da te, e non contare su di te per nulla.
+
+Aiuto, ma solo quello che guadagno… Questo mi va perfettamente, e sotto queste condizioni accetterò.
+
+“Consento a essere il tuo segretario.”
+
+Mi girai di scatto e mi avvicinai alla [[Window|finestra]]; questa volta, però, non lo feci.
+
+# Guarda il suo viso per capire cosa pensi… Ma cosa fosse, non lo so nemmeno io.
+
+Allora, perché avrei dovuto curarmene? Dopo un [[Silence|silenzio]] di alcuni minuti, riprese:–
+
+Titolo:  
+“Forse vi aspettate di essere alloggiati in appartamenti a Crimsworth…”
+
+“Vieni con me in questo viaggio… Tuttavia, desidero che tu…”
+
+Consapevole che un tale accordo sarebbe piuttosto scomodo per me…
+
+Titolo:  
+“Preferisco lasciare il posto libero nel mio spettacolo per qualsiasi gentiluomo che lo desideri…”
+
+Per motivi lavorativi, potrei voler trascorrere una notte o più nell’atrio.
+
+“Troverai alloggio a X----.”
+
+Uscendo dalla [[Window|finestra]], tornai vicino al camino.
+
+"Certo che cercherò una sistemazione a X----," risposi. "Sarebbe..."
+
+“Neppure a me conviene soggiornare a Crimsworth Hall.”
+
+Il mio tono era tranquillo; parlo sempre in modo pacato. Eppure, l’occhio blu del signor Crimsworth…
+
+Si infuriò; si vendicò in un modo piuttosto strano. Girandosi verso di me, disse.
+
+# Direttamente…
+
+Titolo:  
+“Devi essere abbastanza povero, immagino… Come pensi di farcela fino a quando…”
+
+“Quando scade il pagamento di un quarto dello stipendio?”
+
+“Salirò a bordo,” dissi.
+
+“Come pensi di poter vivere così?” ripeté ad alta voce.
+
+“Come posso, signor Crimsworth.”
+
+“Finire in debito è a proprio rischio… nient’altro”, rispose. “Per quanto ne so io…”
+
+# Abbandona quelle abitudini aristocratiche eccessive…
+
+# Non tollero nulla del genere qui, e non vi darò mai nulla di ciò che desiderate.
+
+“Un scellino in più… ma fai attenzione alle eventuali responsabilità che potresti assumerti.”
+
+“Sì, signor Crimsworth, vedrà che ho una buona [[Memory|memoria]].”
+
+Non dissi più nulla. Non ritenevo che fosse giunto il momento per molte discussioni. Io.
+
+Avevo un istinto che mi diceva sarebbe stato folle lasciarsi dominare dall’ira…
+
+“Effervesce spesso in compagnia di un uomo come Edward… Mi dissi: ‘Lo farò.’”
+
+#Metti la mia tazza sotto questa pioggia incessante… rimarrà lì immobile.
+
+E costante; quando è pieno, traboccherà, intanto, pazienza.
+
+Ci sono due cose certe: sono in grado di svolgere il lavoro che il signor.
+
+"Crimsworth mi ha dato un lavoro stabile; posso guadagnarmi da vivere onestamente, e questo è ciò che conta."
+
+“Il mio stipendio è sufficiente per permettermi di vivere. Per quanto riguarda mio fratello…”
+
+# Assumendo verso di me l’atteggiamento di un padrone orgoglioso e severo… il problema è…
+
+“Non è suo, ma mio… E forse la sua ingiustizia, i suoi cattivi sentimenti, mi faranno cambiare idea all’istante…”
+
+“Oltre al percorso che ho scelto… No; almeno, prima di deviare, farò…”
+
+“Avanzare abbastanza da capire verso dove si dirige la mia carriera… Per ora, però, sono ancora solo all’inizio.”
+
+“Pressing in all at once alla porta d’ingresso… una soglia stretta, davvero; avrebbe dovuto essere…”
+
+“Un buon termine finale…” Mentre riflettevo in questo modo, il signor Crimsworth suonò una campanella; lui…
+
+Primo impiegato: la persona licenziata prima della nostra riunione.
+
+Rientrò nuovamente.
+
+“Signor Steighton,” disse, “mostri al signor William le lettere di Voss.”
+
+Fratelli, dategli delle copie in inglese delle risposte; lui le tradurrà.
+
+“Loro.”
+
+# Il signor Steighton, un uomo di circa trentacinque anni, con un volto al tempo stesso astuto e…
+
+#Si affrettò ad eseguire questo ordine; posò le lettere sul…
+
+# Alla scrivania, e presto mi misi all’opera per tradurre il testo inglese…
+
+Titolo:  
+Risposte in tedesco… Un profondo senso di piacere accompagnò questo primo momento.
+
+#Lo sforzo per guadagnarmi da vivere: un sentimento né corrotto né indebolito
+
+Con la presenza di quel caposquadra che stava lì in piedi a osservarmi…
+
+Il [[Time|tempo]], come l'ho descritto io. Pensavo che stesse cercando di comprendere il mio personaggio, ma.
+
+Mi sentivo completamente al sicuro dal suo esame, come se indossassi un elmo protettivo…
+
+“Visore abbassato… o meglio, gli ho mostrato il mio volto con tutta la fiducia possibile.”
+
+# Uno che mostrerebbe a un ignorante una lettera scritta in greco… forse potrebbe…
+
+"Vede le linee e traccia i caratteri, ma non riesce a comprenderne il significato; io..."
+
+La [[Nature|natura]] non faceva parte della sua vera natura; i suoi segni, per lui, erano come delle parole.
+
+# Una lingua sconosciuta. Poco dopo si allontanò bruscamente, come se fosse rimasto perplesso.
+
+Lasciò la casa dove si svolgevano i conteggi; vi tornò, ma due volte nel corso di.
+
+Quel giorno, ogni volta che mescolava e beveva un bicchiere di brandy con acqua.
+
+I materiali necessari per realizzarli li prese da un armadio situato su un lato della stanza.
+
+Davanti al camino; dopo aver dato un’occhiata alle mie traduzioni… riusciva a leggerle entrambe.
+
+Francese e tedesco, uscì di nuovo in [[Silence|silenzio]].
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_01" data-title="The Professor — Chapter 3 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/nature,motif/time,motif/well,concept/beauty,concept/freedom,concept/honour,concept/nature,concept/self"></span>
@@ -17134,6 +18089,183 @@ fastidious-looking RETROUSSE nose; these observations, few in number,
 
 and general in character (the last excepted), sufficed, for they enabled
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO III.
+
+Ho servito Edward come suo secondo segretario con fedeltà, puntualità e diligenza.
+
+# Il potere e la determinazione per fare ciò che mi era stato chiesto di fare
+
+[[Well|Benissimo]]. Il signor Crimsworth esaminò attentamente alla ricerca di eventuali difetti, ma non ne trovò alcuno; quindi procedette.
+
+# Timothy Steighton, il suo preferito e il capo del team… Da non perdere assolutamente. Tim era…
+
+Baffled… Ero altrettanto preciso di lui, e anche più veloce. Il signor Crimsworth rimase perplesso.
+
+Indagini su come vivevo, se mi fossi indebitato… no, i miei conti bancari.
+
+Con la mia padrona di casa le cose sono sempre state chiare. Avevo affittato piccole stanze…
+
+Riuscii a pagare grazie a un piccolo fondo: i risparmi accumulati…
+
+Il mio denaro di tasca ricevuto a Eton, poiché era sempre stato profondamente odioso alla mia [[Nature|>natura]].
+
+Per chiedere aiuto finanziario, avevo fin da giovane sviluppato l’abitudine di [[Self|autoimporre rinunce]].
+
+Titolo:  
+Gestire con attenzione la mia mensilità, per poter…
+
+Evitare il pericolo di essere costretti, in un momento futuro di emergenza.
+
+per chiedere aiuto aggiuntivo. Ricordo che molti mi definivano avaro in quel [[Time|periodo]].
+
+#E io solitamente accompagnavo queste rimproveri con questo conforto: è meglio così…
+
+Ora frainteso, in futuro forse respinto… In quel giorno ricevetti la mia ricompensa.
+
+#Una volta già mi era successo, quando mi sono separato dai miei irritabili zii…
+
+# Mi misero davanti una banconota da 5 litri… che riuscii a prendere.
+
+Lascia stare, dicendo che le mie spese di viaggio erano già state coperte.
+
+Titolo:  
+Per conto del signor Crimsworth, Tim fu incaricato di scoprire se la mia padrona di casa…
+
+“Qualsiasi lamentela riguardo alla mia morale… lei rispose che…”
+
+Si credeva che fossi una persona molto religiosa, e così chiese a Tim, a sua volta, se…
+
+“Pensavo di avere alcuna intenzione di entrare in Chiesa un giorno… perché, lei…”
+
+Disse che aveva avuto giovani curati che soggiornavano nella sua [[house|>casa]], ma che non erano affatto nulla di speciale.
+
+Uguale a me per fermezza e tranquillità… Tim era “un uomo religioso”.
+
+#Un metodista convinto…
+
+Capito: impedirgli di essere, allo stesso [[Time|tempo]], anche un vero furfante.
+
+E se ne andò molto compiaciuto, dopo aver ascoltato questa descrizione della mia pietà…
+
+Lo comunicò al signor Crimsworth, quel gentiluomo che spesso viaggiava…
+
+Nessun luogo di culto, e non adorava altro che Mammon… trasformò queste informazioni in…
+
+“Usato come arma per attaccare l’equilibrio del mio carattere.”
+
+Iniziò una serie di sorrisi beffardi e subdoli, che all’inizio non riuscii a percepire…
+
+Percepire la direzione in cui stava andando le cose… finché la mia padrona di casa non raccontò quella conversazione.
+
+#Le sue esperienze con il signor Steighton mi hanno illuminato; in seguito ho capito…
+
+La casa per il conteggio era pronta, e riuscì a ricevere i fondi del proprietario della mulina.
+
+# Blasfemose sarcasmi, quando vengono rivolti contro di me…
+
+Indifferenza impenetrabile. Presto si stancò di sprecare la sua “munizione”.
+
+Su una statua, ma non gettò via i supporti in legno: li tenne semplicemente con sé.
+
+Silenzioso nella sua faretra.
+
+Durante il mio periodo di tirocinio, ricevetti un invito a Crimsworth Hall;…
+
+Si trattava dell’occasione di una grande festa organizzata in [[Honour|onore]] del maestro.
+
+# Compleanno: era abituato ad invitare i suoi impiegati in occasioni simili
+
+Anniversari, e non potevano semplicemente ignorarmi; tuttavia, sono stato tenuto con loro.
+
+“In secondo piano, ma con grande eleganza… La signora Crimsworth, vestita di seta.”
+
+“E merletti… Fioriti nella giovinezza e nella salute, non mi concessero più alcuna attenzione.”
+
+Titolo:  
+Un movimento distante fu l’unica espressione possibile… Naturalmente, Crimsworth non disse mai nulla.
+
+Mi parlò; non fui presentato a nessuna delle giovani signore che facevano parte del gruppo.
+
+Avvolta nelle nuvole argentee di garza e mussola bianca, sedeva in ordine perfetto…
+
+All’altro lato di una stanza lunga e vasta… In realtà, ero lì.
+
+Piuttosto isolato, poteva soltanto ammirarli da lontano, quei luoghi splendenti…
+
+#E quando vi stancherete di una scena così abbagliante, provate qualcosa di diverso…
+
+#Considerazione del disegno del tappeto. Il signor Crimsworth, in piedi…
+
+Il gomito appoggiato al caminetto di marmo… e intorno a lui…
+
+Un gruppo di ragazze molto carine, con le quali chiacchierò allegramente, il signor.
+
+# Crimsworth, così posto, mi guardò; sembravo stanco, solo…
+
+Giù, come un qualche tutore o governante solitario. Era soddisfatto.
+
+Iniziò la danza; avrei dovuto volerlo abbastanza bene da farmi presentare a qualcuno.
+
+Una ragazza piacevole e intelligente, e avere [[Freedom|libertà]] e opportunità.
+
+#Per dimostrare di essere in grado sia di provare che di condividere la gioia della convivialità
+
+**Relazioni interpersonali… In breve, non ero certo un pezzo di mobilia, né una massa inanimata.**
+
+# Un uomo che agisce, pensa, è consapevole… Molti volti sorridenti e movimenti aggraziati.
+
+“Figure si muovevano intorno a me, ma i sorrisi erano rivolti ad altri occhi…”
+
+#"Figure sostenute da mani diverse dalle mie… Mi sono allontanato, attratto ma anche frustrato."
+
+#Si allontanò dai ballerini e si diresse nella sala da pranzo rivestita di pannelli di quercia. No
+
+Filamenti di simpatia mi univano a qualsiasi essere vivente in questa [[house|casa]]; guardavo.
+
+“Prese una candela di cera da un supporto…”
+
+E lo sollevò in alto. Lo fissai a lungo, con attenzione; il mio cuore si allargò per corrispondere a quell’immagine.
+
+# Le caratteristiche di mia madre…
+
+Il suo viso: la fronte, gli occhi, il colorito della pelle. Nessuna bellezza regolare.
+
+# Come piace agli esseri umani egoisti una versione più morbida e raffinata di qualcosa…
+
+# Somiglianza con se stessi; per questo motivo, i padri la considerano con soddisfazione
+
+“I tratti dei volti delle loro figlie, che spesso riflettono anche i loro stessi tratti…”
+
+# Similitudine associata, in modo lusinghiero, alla dolcezza dei toni
+
+La delicatezza dei contorni… Mi chiedevo solo come quella immagine potesse apparire a me…
+
+Interessante… colpirebbe certamente un osservatore imparziale, quando una voce vicina…
+
+“Dietro di me… pronunciò quelle parole…”
+
+“Humph! C’è davvero del senso in quel commento.”
+
+# Mi voltai: accanto al mio gomito c’era un uomo alto, giovane… anche se probabilmente aveva già cinque o sei anni di più.
+
+Sei anni più grande di me… per il resto, nell’aspetto esteriore, è l’opposto.
+
+“Tanto comune da diventare banale… anche se, in questo momento, non ho alcuna intenzione di descriverlo.”
+
+#Ritratto nei dettagli: il lettore dovrà accontentarsi della silhouette…
+
+“Ho appena visto quel momento… Quello è tutto ciò che ho potuto osservare di lui in quell’istante.”
+
+Non si preoccupò di osservare il colore delle sue sopracciglia, né quello dei suoi occhi.
+
+# Vidi la sua statura e le linee del suo corpo; vidi anche…
+
+Naso retruso dall’aspetto esigente; queste osservazioni, poche in numero…
+
+# E caratterialmente generici (con l’ultima eccezione), erano sufficienti, poiché permettevano…
 
 
 
@@ -17332,6 +18464,200 @@ Crimsworth; Hunsden whirled her through the waltz with spirit; he kept
 
 at her side during the remainder of the evening, and I read in her
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non riuscivo a riconoscerlo.
+
+“Buonasera, signor Hunsden,” mormorai inchinandomi, e poi… come se…
+
+Timido com'ero, iniziai ad allontanarmi. E perché? Semplicemente perché il signor.
+
+Hunsden era un produttore e proprietario di mulini, mentre io ero soltanto un impiegato.
+
+Il mio istinto mi spinse lontano dal mio superiore… Avevo spesso visto Hunsden…
+
+In Bigben Close, dove andava quasi ogni settimana per svolgere affari.
+
+# Mr. Crimsworth… ma non avevo mai parlato con lui, né lui con me, e io gli dovevo qualcosa
+
+# Un certo rancore involontario nei suoi confronti, perché più di una volta…
+
+“Testimone silenzioso degli insulti che Edward mi ha rivolto… Ero convinta di ciò.”
+
+# Un schiavo dal cuore debole
+
+Decise di evitare la sua presenza e di non intrattenersi con lui in conversazioni.
+
+“Dove stai andando?” mi chiese mentre io mi allontanavo di lato. Ormai avevo già…
+
+Notai che il signor Hunsden aveva l’abitudine di utilizzare frasi brevi e secche nel suo modo di parlare…
+
+“Perversamente detto a me stesso…”
+
+“Lui pensa di poter parlare come vuole con un povero impiegato; ma io non sono d’accordo.”
+
+Forse, così flessibile come lui lo ritiene, ma la sua rozza [[Freedom|libertà]] non mi piace affatto.
+
+“Assolutamente no.”
+
+Ho risposto in modo piuttosto indifferente, più che cortese…
+
+Continuò ad allontanarsi, ma poi si fermò di colpo, piazzandosi freddamente davanti a me.
+
+“Resta qui un attimo,” disse lui: “fa troppo caldo nella sala da ballo; inoltre…”
+
+Non sai ballare; inoltre, non hai avuto un partner per tutta la sera.
+
+Aveva ragione, e mentre parlava, né il suo sguardo, né il tono della sua voce, né il modo in cui si comportava lasciavano dubbi al riguardo.
+
+Mi ha dispiaciuto; il mio amor proprio è stato soddisfatto… Lui non si era rivolto a me in quel modo.
+
+#Per disprezzo, ma perché, dopo essersi ripreso…
+
+Aveva bisogno di qualcuno con cui parlare, in quel momento…
+
+Solo per un divertimento temporaneo. Detesto essere trattato con condiscendenza, ma mi piace davvero molto.
+
+Aveva abbastanza per costringermi ad accettare; quindi rimasi.
+
+“È un bel ritratto,” continuò, fissando di nuovo il dipinto.
+
+“Pensi che il viso sia bello?” chiesi.
+
+“Bella, no, come può essere bella, con occhi infossati e guance scavate?”
+
+Ma è strano… sembra quasi che pensi. Potresti provare a parlare con quella cosa.
+
+Donna… se fosse ancora viva, parlerebbe di altre cose, oltre che di abiti, visite e…
+
+# Complimenti.
+
+Ero d'accordo con lui, ma non lo dissi. Lui continuò.
+
+“Non che apprezzi quel tipo di testa… Ha bisogno di carattere e forza.”
+
+# Troppa sensibilità…
+
+Le sue labbra, nello stesso [[Time|istante]], in quella bocca. Inoltre, c’è anche un [[aristocrat|Aristocratico]].
+
+“Scritto sulla fronte e definito dalla figura… Odio i vostri aristocratici.”
+
+“Quindi, signor Hunsden, ritiene che un’origine nobile possa essere intuita…”
+
+“Un cast caratteristico di forme e tratti distintivi…”
+
+“Che vada al diavolo la discendenza patrizia! Chi dubita che i vostri signori possano…”
+
+“La loro peculiare combinazione di forme e caratteristiche, proprio come la nostra…”
+
+“Il meglio non è certo il loro… Ma quale sia il migliore, allora?”
+
+Per le loro donne, è un po’ diverso: esse coltivano la [[Beauty|bellezza]].
+
+Dalla [[Childhood|infanzia]] in poi, con cura e allenamento si può raggiungere un certo livello.
+
+Un grado di eccellenza in quel campo, proprio come le odalische orientali.
+
+# Ancora questa superiorità è dubbia… Confronta quella figura in quel quadro.
+
+Con la signora [[Edward Crimsworth]], quale è l’animale più nobile?
+
+Risposi in silenzio: “Confrontatevi con il signor [[Edward Crimsworth]], signore, ”
+
+“Hunsden.”
+
+“Ah, so Crimsworth è più pieno di me… So anche che ha…”
+
+Naso dritto, sopracciglia arcuate… e tutte queste caratteristiche positive; ma questi vantaggi… se
+
+# Vantaggi che non ha ereditato dalla madre, la nobildonna…
+
+Ma da suo padre, il vecchio Crimsworth, che, secondo mio padre, era…
+
+# Un vero e proprio “a----shire blue-dyer”: ancora una volta, ha immerso l’indaco in un tino…
+
+Il più affascinante uomo dei tre distretti… Sei tu, William, il prescelto.
+
+L’[[aristocrat|aristocratico]] della tua famiglia, e tu non sei certo una persona altrettanto nobile come lui.
+
+Fratello plebeo, separato da me da molto tempo.
+
+C’era qualcosa nel modo diretto e deciso di parlare del signor Hunsden che…
+
+Mi ha piaciuto molto, perché mi ha fatto sentire a mio agio.
+
+Continuò la conversazione con un certo interesse.
+
+“Come fa a sapere che sono il fratello del signor Crimsworth? Pensavo…”
+
+#Voi e tutti gli altri mi guardavate solo come una persona povera
+
+“Clerk.”
+
+“Beh, è proprio così che facciamo; e tu, non sei forse solo un povero impiegato?”
+
+“Il lavoro di Crimsworth… e vi paga uno stipendio, anche se molto misero.”
+
+# Rimasi in silenzio. Il modo di parlare di Hunsden era ormai quasi irrispettoso… ancora.
+
+Il suo modo di comportarsi non mi ha affatto offeso, anzi ha soltanto stimolato la mia curiosità.
+
+Volevo che continuasse, e dopo un po’ lo fece.
+
+“Questo mondo è assurdo,” disse lui.
+
+“Perché mai, signor Hunsden?”
+
+“Mi chiedo se dovresti chiederti: tu stesso sei una forte dimostrazione di, ”
+
+“L’assurdità di cui parlo…”
+
+#Che si spiegasse da solo, senza che io intervenissi.
+
+Pressandolo affinché lo facesse, ripresi il mio [[Silence|silenzio]].
+
+“Hai l’intenzione di diventare un artigiano?” chiese dopo un po’.
+
+“Era davvero mia intenzione seria tre mesi fa.”
+
+“Humph! Più che uno [[Fool|idiota]], sembri proprio un commerciante. Che praticità, ”
+
+“Che faccia così seria e professionale hai…”
+
+“Il mio viso è così come il Signore l’ha creato, signor Hunsden.”
+
+“Il Signore non ha mai creato né il tuo viso né la tua testa per scopi del genere… A che serve tutto ciò?”
+
+Le tue caratteristiche legate all’idealismo, al confronto con gli altri, all’auto-stima, alla coscienza.
+
+“Se vi piace Bigben Close, restateci… È vostro.”
+
+“Non è affar mio.”
+
+“Forse non ho altra scelta.”
+
+“Beh, non mi interessa affatto. Non farà alcuna differenza per me, ”
+
+Fai ciò che vuoi, vai dove vuoi. Ma ora sto bene: voglio ballare di nuovo. E.
+
+#Vedo una ragazza così carina seduta nell’angolo del divano là…
+
+“Lei è proprio come sua madre… Vedrete se non riesco a farla diventare mia compagna in un attimo!”
+
+“Waddy… Sam Waddy che cerca di rimediare ai suoi errori… Non dovrei tagliarlo fuori dalla mia vita?”
+
+# E il signor Hunsden se ne andò a grandi passi. Lo osservai mentre si allontanava…
+
+#Porte pieghevoli; superò Waddy e chiese la mano di…
+
+Una ragazza perbene, che la portò via trionfante. Era alta, di [[Well|buona]] figura.
+
+Una giovane donna completamente formata, vestita con eleganza, molto nel stile della signora E.
+
+#Crimsworth; Hunsden la guidò con passione nella danza del valzer…
+
+Al suo fianco per il resto della serata… e lessi nei suoi occhi.
 
 
 
@@ -18029,6 +19355,190 @@ Starting from his silent fit, he began:--
 [[King]]’s, when you might take rooms here in Grove Street, and have a
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Il diavolo?”
+
+"#Contrariamente, intendo scrivere a lui."
+
+“È davvero [[Well|benissimo]], sei solo fortunato: è martedì sera, quindi ci sono, ”
+
+Decine di commissioni di mercato e carri che tornavano a Dinneford di notte. E lui.
+
+O alcuni dei suoi seguaci hanno sempre un posto a sedere nelle riunioni regolari; quindi, se volete partecipare…
+
+#E se vi sedete per mezz’ora nella mia stanza da scapolo, potrete sorprenderlo mentre…
+
+Procede senza troppi problemi. Penso però che sia meglio lasciarlo [[Alone|da solo]].
+
+Di notte, avrà così tanti clienti da servire. Martedì è il suo giorno più impegnativo.
+
+“Nel regno di X---- e a Dinneford… In ogni caso, vieni pure.”
+
+Mentre parlava, aprì la porta con un movimento deciso.
+
+“Vuoi davvero che entri?” chiesi.
+
+“Come vuoi. Sono [[Alone|solo]]; la tua compagnia per un’ora o due mi farebbe molto piacere.”
+
+Mi sembra accettabile… Ma se non desideri favorirmi in questo modo, allora non lo farò.
+
+“Vado subito al dunque… Non mi piace annoiare nessuno.”
+
+Mi conveniva accettare l’invito, così come a Hunsden conveniva inviarmelo.
+
+#Attraversai il cancello e lo seguii fino alla porta d’ingresso, dove lui…
+
+#Aperto; da lì attraversammo un corridoio ed entrammo nel suo salotto; la porta…
+
+“Essendo stato chiuso dentro, mi indicò una poltrona accanto al camino; mi sedetti…”
+
+Guardò intorno a me.
+
+# Una stanza confortevole, al tempo stesso accogliente e elegante; la grata luminosa…
+
+Era pieno di un vero e proprio fuoco tipico dello [[Fire|Shire]], rosso, chiaro e generoso, niente di più.
+
+Braci miserevoli del sud dell’Inghilterra, ammucchiate nell’angolo di una grata…
+
+#La luce soffusa di una lampada illumina la tavola, creando un’atmosfera morbida, piacevole e uniforme
+
+#Luce: arredi quasi lussuosi per un giovane scapolo
+
+#"Comprendendo un divano e due poltrone molto comode; gli scaffali erano pieni di..."
+
+Niche su entrambi i lati del caminetto; erano ben arredate e.
+
+Ordinato con perfetta precisione. La pulizia della stanza si adattava perfettamente al mio gusto.
+
+# Odio le abitudini irregolari e disordinate. Da ciò che ho visto, ho concluso…
+
+Le idee di Hunsden su quel punto corrispondevano alle mie. Anche se lui…
+
+Dalla tavola centrale al comodino, alcuni opuscoli e riviste.
+
+# Scorrei con lo sguardo lungo gli scaffali dell’armadio dei libri più vicino a me… Libri francesi e…
+
+Opere tedesche prevalevano; gli antichi drammaturghi francesi e vari autori moderni…
+
+Autori: Thiers, Villemain, Paul de Kock, George Sand, Eugène Sue; in
+
+Titolo:  
+Letteratura tedesca – Goethe, Schiller, Zschokke, Jean Paul Richter; in inglese…
+
+Titolo:  
+Studiavo opere di Economia Politica; non ho approfondito ulteriormente, poiché il signor Hunsden…
+
+Fu lui stesso a richiamare la mia attenzione.
+
+“Avrai qualcosa”, disse, “dopotutto dovresti essere disposto ad accettarlo…”
+
+Un rinfrescamento dopo aver camminato chissà per quanto in una notte canadese del genere.
+
+Così; ma non dovrà essere brandy mescolato con [[Water|acqua]], e non dovrà essere.
+
+Nessuna bottiglia di Porto, né tantomeno di sherry. Non tengo nessun tipo di [[Poison|)veleno]] del genere. Io ho.
+
+#Rhein-wein per il mio consumo personale… e tu puoi scegliere tra quello e altro.
+
+“Caffè.”
+
+Ancora una volta, Hunsden mi andava a genio: se c’era qualcosa che veniva generalmente accettato…
+
+# L’abitudine che odiavo di più era quella di bere alcolici con eccessiva frequenza
+
+“Spirit e vini robusti… Tuttavia, non avevo alcun interesse per quei vini tedeschi dall’acidità particolare.”
+
+“Nectar… ma a me piaceva il caffè, quindi ho risposto…”
+
+#"Dammi un po’ di caffè, signor Hunsden."
+
+#Risposi in modo che gli piacesse; senza dubbio si aspettava di ricevere una risposta diversa.
+
+Titolo:  
+L’effetto inquietante derivante dalle sue continue dichiarazioni su ciò che avrebbe fatto
+
+“Né vino né alcolici… Mi lanciò solo uno sguardo attento.”
+
+Titolo:  
+“Un incontro faccia a faccia per verificare se la mia cordialità fosse sincera o solo una finzione”
+
+# Della cortesia. Sorrisi, perché lo capivo perfettamente; e, mentre…
+
+#La sua fermezza coscienziosa mi divertì… ma anche la sua diffidenza.
+
+Sembrava soddisfatto, suonò il campanello e ordinò del caffè, che gli fu subito portato.
+
+Portò con sé, per sé stesso, un mazzo di uva e mezza pinta di qualcosa…
+
+“Sufficiently sour… Il mio caffè era eccellente; gliel’ho detto e l’ho anche espresso apertamente.”
+
+#Con compassione tremante, il suo stile di vita eremita mi ispirò… Lui non fece…
+
+“Risposta… e credo che nemmeno abbia sentito il mio commento. In quel momento, uno di loro…”
+
+Quei momentanei “oscuramenti” del suo volto di cui avevo parlato prima…
+
+#Spegnendo il suo sorriso, e sostituendolo con uno sguardo distaccato e estraneo
+
+“Guarda… quel suo sguardo solitamente astuto e scherzoso.” Lo utilizzai.
+
+Il momento di [[Silence|silenzio]] durante l’attenta osservazione del suo volto. Lo avevo notato.
+
+Non l’avevo mai osservato attentamente prima; inoltre, poiché la mia vista è piuttosto debole, non riuscivo a…
+
+Riuscii a formarmi solo un’idea vaga e generale del suo aspetto; fui sorpreso.
+
+Ora, esaminandolo attentamente, si può notare quanto fosse piccolo… e persino delicato nel suo aspetto.
+
+Lineamenti; la sua alta statura, i lunghi capelli scuri, la sua voce e il suo aspetto in generale…
+
+# Impressione profonda
+
+Massiccio; per niente: i miei tratti facciali erano più duri e squadrati.
+
+“Più duttile del suo… Intuivo che ci sarebbero stati contrasti tra lui e…”
+
+L’uomo interiore ed esteriore; anche le controversie, perché sospettavo della sua [[Soul|'anima]].
+
+Aveva più volontà e [[Ambition|ambizione]] di quanto il suo [[Body|corpo]] avesse di fibra e muscoli.
+
+Forse, in queste incompatibilità tra il “fisico” e la “moralità”…
+
+# Rivelare il segreto di quella cupa malinconia… Lui voleva, ma non riusciva.
+
+“Mente atletica guardava con disprezzo la sua compagna più debole…”.
+
+Buona figura… Avrei voluto sentire l’opinione di una donna al riguardo.
+
+# Il suo volto sembrava poter produrre lo stesso effetto
+
+#Su una signora piuttosto vivace e interessante, anche se non proprio bella…
+
+# Un volto femminile su un uomo… Ho menzionato i suoi capelli scuri… erano…
+
+# Sopra una fronte bianca e abbastanza ampia…
+
+La sua guancia aveva una freschezza piuttosto vivace; i suoi tratti facciali probabilmente erano davvero belli.
+
+Sul tela, ma con indifferenza nel marmo: erano plastiči; carattere…
+
+# Modellava ogni espressione a suo piacimento…
+
+# Strane trasformazioni che operò su di lui, facendogli assumere ora un aspetto malinconico
+
+“Un ragazzo testardo e impulsivo… e, più spesso ancora, una ragazza birichina e dispettosa.”
+
+Le due sembianze si fusero, creando un volto strano e composto…
+
+Fatto.
+
+Partendo da quel suo silenzio improvviso, iniziò a dire:–
+
+“William! Che [[Fool|idiota]] sei ad abitare in quegli squallidi alloggi della signora, ”
+
+Di quello del [[King|Re]], potreste anche prendere delle stanze qui in Grove Street e, avere una.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_03" data-title="The Professor — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/bells,motif/blood,motif/dawn,motif/fire,motif/garden,motif/nature,motif/night,motif/silence,motif/sleep,motif/soul,motif/water,motif/well,concept/freedom,concept/nature,concept/solitude,concept/truth,concept/wonder"></span>
@@ -18251,6 +19761,227 @@ got no [[Sleep|sleep]]; my head burned, my feet froze; at last the factory [[Bel
 rang, and I sprang from my bed with other slaves.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Un [[Garden|giardino]] come il mio!”
+
+“Dovrei essere abbastanza lontano dalla mulina…”
+
+“E allora? Vi farebbe bene camminare avanti e indietro due o tre volte…”
+
+## Più volte al giorno… E inoltre, sei davvero così arretrato da non voler mai vedere nulla di nuovo?
+
+“Fioro o foglia verde?”
+
+“Non sono un fossile.”
+
+“Allora, chi sei? Sei seduto a quel tavolo nella casa di contabilità di Crimsworth, ”
+
+#Giorno dopo giorno, settimana dopo settimana, scrivendo con una penna su carta… proprio come un…
+
+Automato: non ti alzi mai, non dici mai di essere stanco, non chiedi mai nulla…
+
+Per una vacanza… Non ti prendi mai il tempo per rilassarti o divertirti; sempre cedi il passo agli altri.
+
+“Nessun eccesso nelle serate: né frequentare compagnie poco affidabili, né indulgere in…”
+
+“Bevande alcoliche forti”.
+
+“Lo farebbe davvero, signor Hunsden?”
+
+#"Non provare nemmeno a porre domande brevi: la tua situazione e la mia..."
+
+# Sono completamente diversi, e è assurdo cercare di stabilire un legame tra loro
+
+“Parallel… Dico che quando un uomo sopporta con pazienza ciò che dovrebbe essere…”
+
+“Intollerabile… è un fossile.”
+
+# Da dove trai la conoscenza della mia pazienza?
+
+“Perché mai pensi di essere un mistero, amico? Quella [[Night|notte]] sembravi, ”
+
+# Sorpreso che io sappia a quale famiglia appartieni… Ora lo scopri anche tu.
+
+“Un motivo di meraviglia nel chiamarvi pazienti… Cosa credete che faccia?”
+
+Con i miei occhi e le mie orecchie. Sono stato nella tua “casa del contare” più di una volta.
+
+# Quando Crimsworth ti tratta come un cane…
+
+# Un esempio… e quando gli hai dato quello sbagliato, o quello che lui stesso ha scelto…
+
+# Considerato il sbagliato… lo hai scagliato indietro quasi in faccia a te; desideravi che accadesse…
+
+Chiudere o aprire la porta come se si fosse il suo lacchè… Non dire nulla.
+
+Titolo:  
+Della tua posizione alla festa di circa un mese fa, dove non avevi né…
+
+Senza luogo né compagno, vagava intorno come un povero e squallido parassita…
+
+“Che pazienza dimostravi in tutte queste circostanze…”
+
+“Allora, signor Hunsden, cosa facciamo?”
+
+Titolo:  
+“Non so proprio cosa dire… La conclusione che si può trarre è…”
+
+Il tuo carattere dipende dalla [[Nature|>natura]] dei motivi che ti guidano.
+
+Il tuo comportamento… se sei paziente è perché ti aspetti di ottenere qualcosa in cambio.
+
+Alla fine, nonostante la sua tirannia, Crimsworth venne lasciato… o forse fu lui stesso ad andarsene.
+
+Con altri termini, si può dire che sei quella che il mondo definisce una persona interessata e motivata soltanto dai vantaggi personali.
+
+#Un uomo molto saggio; se sei paziente, è perché lo ritieni tale…
+
+"Dovere di subire le offese in silenzio… Sei solo un insignificante verme, e nient’altro."
+
+Quell’uomo non è affatto il tipo adatto, secondo me. Se sei paziente, è solo perché la tua [[Nature|>natura]] te lo impone.
+
+# Freddo e indifferente, incapace di emozionarsi…
+
+# Resistenza inutile… Perché Dio vi ha creati proprio per essere schiacciati… E per giacere passivamente sotto il dominio altrui.
+
+Significa che devi sdraiarti completamente e lasciare che il Juggernaut passi sopra di te senza problemi.
+
+Il fascino oratorio del signor Hunsden non era, come si potrà facilmente intuire, di quel tipo fluido e persuasivo…
+
+Ordine oleoso… Mentre parlava, mi dava fastidio. Sembra che lo riconosca in lui…
+
+Uno di quei personaggi che, essendo abbastanza sensibili, sono però egoisti…
+
+#Spietato verso la sensibilità altrui. Inoltre, sebbene…
+
+Non assomigliava né a Crimsworth né a Lord Tynedale, eppure era aspro… e, io…
+
+Sospettato, autoritario nel suo modo di comportarsi: c’era un tono di dispotismo nella sua voce.
+
+#L'urgenza delle stesse accuse che egli utilizzava per provocare
+
+#Schiacciati alla ribellione contro gli oppressori… E ancora lo guardano.
+
+# Più fermamente di quanto avessi mai fatto prima, vidi scritto nei suoi occhi e nel suo comportamento…
+
+La determinazione ad arrogarsi per sé una [[Freedom|libertà]] così illimitata da poter.
+
+Spesso viola la legittima libertà dei suoi vicini… Lo lessi velocemente.
+
+# Questi pensieri… e poi risi, una risata bassa e involontaria…
+
+Attraverso una lieve rivelazione interiore dell’incoerenza umana.
+
+Era proprio come pensavo: Hunsden si aspettava che io accettassi con calma la situazione…
+
+# Supposizioni errate e offensive, i suoi sarcasmi amari e arroganti; e…
+
+Anche lui fu infastidito da una risata, appena più forte di un sussurro.
+
+La sua fronte si oscurò, le sue sottili narici si dilatarono leggermente.
+
+“Sì,” iniziò, “vi ho detto che siete un [[aristocrat|aristocratico]], e chi altro se non, ”
+
+Un [[aristocrat|aristocratico]] riderebbe in quel modo e guarderebbe con quell'espressione?
+
+# Un riso freddamente beffardo; uno sguardo pigramente ribelle; ironia da gentiluomo
+
+# Rancore di un patrizio… Che nobile saresti diventato, William.
+
+Crimsworth! Sei proprio il tipo adatto per farlo. Peccato che la Fortuna abbia ostacolato i piani della [[Nature|[Natura]]!
+
+# Osserva i tratti del viso, la figura, persino le mani… Tutte caratteristiche distintive.
+
+“Che orribile distinzione… Ah, se solo avessimo una tenuta e una residenza magnifica…”
+
+# Un parco, un titolo… come si può giocare in esclusiva, mantenere il controllo…
+
+# Diritti della tua classe: insegna ai tuoi inquilini ad avere rispetto…
+
+Titolo:  
+La nobiltà, che si oppone ad ogni passo al potere crescente del popolo, lo sostiene…
+
+# Il tuo ordine miserabile… e preparati ad affrontarne le conseguenze fino alle ginocchia
+
+Il sangue di quei plebei. Così com’è, non avete alcun potere; non potete fare nulla. Siete semplicemente.
+
+Distrutto e abbandonato sulle rive del commercio; costretto ad entrare in collisione
+
+“Con uomini pratici, con cui non puoi farcela… perché TU NON SARAI MAI IN GRADO.”
+
+“Commerciante”.
+
+La prima parte del discorso di Hunsden non mi ha affatto commosso; anzi, se per caso l’ha fatto…
+
+Si poteva solo stare a [[Wonder|stupirsi]] di fronte alla distorsione a cui i pregiudizi avevano portato le cose.
+
+Il suo giudizio sul mio carattere; tuttavia, la frase conclusiva… non solo
+
+Mi commosse, ma anche scosse profondamente; il colpo che inflisse fu molto duro, perché si trattava della [[Truth|Verità]].
+
+Impugnava quell’arma. Se ora sorridessi, sarebbe solo per disprezzo verso me stesso.
+
+Hunsden vide il proprio vantaggio e lo sfruttò al massimo.
+
+“Non guadagnerai nulla con questo mestiere“, continuò; “nient’altro che…”
+
+La crosta di pane secco e l’acqua fresca e limpida su cui ora vivete.
+
+La tua unica possibilità di ottenere successo sta nel sposare una vedova ricca.
+
+“O fuggire con un’ereditiera…”
+
+“Lascio che siano coloro che le hanno ideate ad applicarle concretamente.”
+
+“Così dissi”, alzandomi in piedi.
+
+“E anche questo è senza speranza,” proseguì freddamente. “Quale vedova lo accetterebbe…”
+
+#Tu? E poi, quale ereditiera… Non sei abbastanza audace e intraprendente per qualcosa del genere.
+
+“Né abbastanza attraente né affascinante per l’una, né per l’altra…” Pensi…
+
+“Forse sembri intelligente e raffinato… Ma fai attenzione a come esprimi il tuo intelletto.”
+
+"Raffinamento per il mercato… e ditemi in una nota privata a quale prezzo è stata fatta l’offerta."
+
+“Per loro.”
+
+Il signor Hunsden aveva adottato quel tono per quella [[Night|notte]]; la corda che suonò era.
+
+“Fuori tono… non avrebbe mai suonato nessun altro strumento. Avverso alla discordia… proprio come me.”
+
+Abbastanza ogni giorno, tutto il giorno. Alla fine, conclusi che il [[Silence|silenzio]].
+
+E la [[Solitude|solitudine]] era preferibile a conversazioni spiacevoli; gli augurai una buona [[Night|notte]].
+
+“Che cosa! Te ne vai già, ragazzo? Beh, buona [[Night|notte]], troverai la porta da solo.” E
+
+Se ne stava fermo davanti al [[Fire|fuoco]], mentre io lasciavo la stanza e la [[house|>casa]].
+
+# Avevo già percorso un bel tratto sulla strada del ritorno al mio alloggio quando mi resi conto…
+
+# Camminavo molto velocemente, respiravo affannosamente… e le mie unghie…
+
+“Quasi intrappolato tra le mie mani strette… e i miei denti…”
+
+# Fermati subito; dopo aver fatto questa scoperta, ho rallentato il passo, ho rilassato i pugni…
+
+“Mascelle… ma non riuscivo ancora a placare i rimpianti che mi assalivano con forza…”
+
+# Perché ho deciso di diventare un artigiano? Perché…
+
+Ho entrato nella casa di Hunsden stasera? Perché, all’alba di domani, dovrò.
+
+Torno alla fabbrica di Crimsworth? Quella [[Night|notte]], non facevo altro che chiedermelo.
+
+Domande, e tutto ciò che, di [[Night|notte]], esigeva con forza una risposta dalla mia [[Soul|'anima]]. Io.
+
+Non riuscivo a dormire; la testa mi bruciava, i piedi erano congelati. Alla fine suonarono le campane della fabbrica.
+
+Rintoccò la campanella, e io saltai giù dal letto insieme agli altri schiavi.
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_01" data-title="The Professor — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/king,motif/clock,motif/dawn,motif/desert,motif/fire,motif/home,motif/night,motif/noon,motif/silence,motif/soul,motif/time,motif/water,motif/well,concept/conscience,concept/endurance,concept/friendship,concept/hope,concept/self,concept/slavery,concept/solitude,concept/union,setting/desert,setting/egypt,character/edward_crimsworth,character/william_crimsworth"></span>
@@ -18430,6 +20161,184 @@ no longer.”
 
 “What! do you dare to give me notice? Stop at least for your wages.” He
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO V.
+
+Ogni cosa, ogni stato d’animo, anche il più [[Well|positivo]], ha il suo culmine.
+
+“Ogni posizione nella vita… Ho riflettuto a lungo su questo principio, mentre…”
+
+All’alba gelida di una mattina di gennaio, mi affrettai lungo il ripido sentiero.
+
+Una strada ghiacciata che scendeva dalla casa della signora [[King]] fino al vicolo. La fabbrica.
+
+“I lavoratori erano arrivati quasi un’ora prima di me, e la fabbrica era già piena…”
+
+“Acceso e completamente funzionante quando ci sono arrivato… Me ne sono occupato personalmente.”
+
+Postato come al solito nella [[house|casa del conteggio]]; la [[Fire|fiamma]] c'era, ma appena accesa.
+
+# Ancora nessuno aveva fumato; Steighton non era ancora arrivato. Chiusi la porta e mi sedetti.
+
+Seduto alla scrivania; le mie mani, appena lavate in acqua semi-gelata, erano.
+
+Ancora intorpidito… Non riuscivo a scrivere finché non avevano ripreso vitalità… Quindi…
+
+Continuavo a riflettere, e l’argomento principale dei miei pensieri rimaneva il “climax”.
+
+L’insoddisfazione verso me stesso disturbava profondamente il flusso delle mie riflessioni.
+
+“Come, [[William Crimsworth]],” disse la mia [[Conscience|coscienza]], o qualunque cosa fosse quella che.
+
+# Dentro di noi stessi ci mettiamo sotto pressione… “Dai, cerca di capire chiaramente…”
+
+Ciò che avresti voluto avere… o ciò che non avresti voluto affatto. Parli di un culmine…
+
+Prego, la tua [[Endurance|resistenza]] ha già raggiunto il suo apice? Non è nemmeno passato un mese.
+
+Che bravo e deciso individuo ti immaginavi di essere quando hai detto…
+
+# Tynedale… seguiresti le orme di tuo padre, e un cammino davvero bello da percorrere.
+
+Probabilmente ce la farai! Quanto ti piace X----. Proprio in questo momento.
+
+# Le strade e i negozi di quella città sono così pieni di piacevoli ricordi…
+
+“I suoi magazzini, le sue fabbriche! Quanto sia gioiosa la prospettiva di questo giorno…”
+
+Tu! Copiare lettere fino a [[Noon|mattina]], cenare da solo nel tuo alloggio.
+
+Copiare lettere fino a sera, nella [[Solitude|solitudine]]. Per te non c’è alcun piacere in tutto ciò.
+
+Né nella compagnia di Brown, né in quella di [[smith|Smith]], né in quella di Nicholl, né in quella di Eccle; e così via.
+
+# A Hunsden… pensavi che ci fosse piacere nel comportarsi così con lui
+
+La società, eh, eh! Come ti è piaciuto il sapore che hai provato di lui l’ultima [[Night|notte]]?
+
+#Fu dolce? Eppure è un uomo talentuoso, con una mente originale… e anche…
+
+A lui non piaci; il tuo [[Self|rispetto di te stessa]] ti impone di non provare interesse per lui. Lui, invece.
+
+Sempre ti ha visto in svantaggio… E sempre lo farà.
+
+“I vostri ruoli sono diseguali; e se fossero sullo stesso livello…”
+
+Le menti non riuscivano ad assorbirlo; quindi, non c’era mai alcuna [[Hope|>speranza]] di poter raccogliere il “miele” che esso offriva.
+
+Un’[[Friendship|amicizia]] nata da quella pianta protetta dai rovi. Ciao, Crimsworth! Dove sei?
+
+“Il tuo pensiero è altrove? L’immagine di Hunsden svanisce dalla tua memoria, come una ape che si allontana…”
+
+Una roccia, come un uccello nel deserto. E le tue aspirazioni si diffondono con fervore.
+
+“Ali verso una terra di visioni… dove, ora che il giorno avanza…”
+
+X----luce del giorno--osate sognare di armonia, riposo, [[Union|unione]]. Quelle cose.
+
+Tre persone che non incontrerai mai in questa vita… sono angeli. Le anime di…
+
+Gli uomini giusti e perfetti potranno incontrarli in cielo, ma la tua [[Soul|'anima]].
+
+Non si può mai raggiungere la perfezione. Le otto in punto, le tue mani sono ormai sciolte, vai.
+
+“Al lavoro!”
+
+“Lavorare? Perché dovrei lavorare?” dissi in tono cupo, “Non riesco comunque a compiacere nessuno…”
+
+“Lavora come uno schiavo… Lavora, lavora!” ripeteva la voce interiore. “Forse posso…”
+
+“Lavorare non servirà a nulla,” ringhiai; ma comunque presi in mano…
+
+“Un pacco di lettere… e iniziai il mio compito: un compito ingrato e amaro.”
+
+Quello dell’israelita che strisciava sui campi arsi dal sole d’[[Egypt|>Egitto]].
+
+Cercare paglia e stoppia per poter completare la sua storia di mattoni.
+
+Intorno alle dieci di [[Clock|ore]], sentii il calesse del signor Crimsworth fermarsi nel cortile.
+
+In un minuto o due entrò nella casa dove si contavano i voti. Era sua abitudine farlo.
+
+“Lancia uno sguardo verso Steighton e me, poi appende il suo mantello e si alza.”
+
+Per un minuto, con le spalle rivolte verso il [[Fire|fuoco]], poi è uscito. Oggi l’ha fatto davvero.
+
+Non deviare dalle sue abitudini consuete; l’unica differenza era che…
+
+Mi guardò, e la sua fronte, invece di essere semplicemente dura, era cupa e ostile.
+
+Lo sguardo, invece di essere freddo, era feroce. Mi studiò per un minuto o due.
+
+Più lungo del solito, ma si concluse in [[Silence|silenzio]].
+
+Erano le dodici in punto; suonò la campanella che annunciava la sospensione del lavoro.
+
+“Il personale andò a cena; anche Steighton se ne andò, desideroso…”
+
+Devo chiudere a chiave la porta della [[house|casa]] dove si fa il conteggio e portare via la chiave con me. Io.
+
+# Stava legando un mazzo di documenti e mettendoli al loro posto.
+
+#Prima di chiudere la scrivania, Crimsworth ricomparve alla porta
+
+E, entrando, lo chiuse alle sue spalle.
+
+“Rimarrai qui un attimo,” disse lui con una voce profonda e brutale.
+
+Le sue narici erano dilatate e i suoi occhi sprigionavano una scintilla di sinistro [[Fire|fuoco]].
+
+[[Alone|Da solo]], con Edward, ripensai alla nostra relazione, e ricordando tutto ciò.
+
+#Dimenticato la differenza di posizione… Ho abbandonato rispetto e cautela.
+
+Forme di espressione verbale. Risposi con semplicità e concisione.
+
+“È arrivato l’[[Time|orario]] di tornare a [[Home|casa]]”, dissi, girando la chiave nel cassetto della mia scrivania.
+
+“Rimarrai qui!” ripeté. “E togli la mano da quella chiave!”
+
+“Lascialo nella cassaforte!”
+
+“Perché?”, chiesi. “Qual è il motivo per cui cambiare i miei soliti piani?”
+
+“Fai ciò che ti ordino”, fu la risposta, “e senza domande! Sei il mio servo.”
+
+“Obbedisci a me! Cosa diavolo hai fatto…?” continuò a dire, sempre nello stesso tono.
+
+Titolo:  
+Un respiro… quando un improvviso silenzio annunciò che la rabbia, per il momento, era stata soppressa.
+
+Una migliore capacità di articolazione.
+
+“Potete guardare, se volete saperlo,” risposi. “Ecco la scrivania aperta.”
+
+“Ecco i documenti.”
+
+#"Che sfida alla tua insolenza! Cosa hai fatto in tutto questo tempo?"
+
+“Il tuo lavoro, ed è stato svolto davvero [[Well|benissimo]].”
+
+#"Ipocrita e buffone! Viso liscio, lacrimone facile!" (Questo)"
+
+Il titolo è: “L’ultimo termine, credo, sia puramente legato a ----shire e fa riferimento al corno…”
+
+# Olio di balena nero e rancido, solitamente visibile appeso a ruote di carri
+
+e veniva utilizzato per ungere lo stesso.
+
+“Ma che dici, [[Edward Crimsworth]], basta così. È arrivato il momento che tu e io finiamo questa faccenda.”
+
+Titolo:  
+“Ho ora concesso il vostro servizio in prova per tre mesi e devo dire…”
+
+È la schiavitù più disgustosa che esista al mondo. Cerca un altro impiegato. Io me ne vado.
+
+“Non più.”
+
+“Cosa! Osi darmi le dimissioni? Almeno aspetta di ricevere il tuo stipendio…” Lui
 
 
 
@@ -18658,6 +20567,234 @@ eye and feeling satisfied, I quitted the wall and once more turned my
 
 face towards X----.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Prese giù il pesante frustino appeso accanto al suo cappotto.
+
+Mi permisi di ridere con un certo disprezzo, senza nemmeno sforzarmi…
+
+“Tempera o nasconditi… La sua rabbia scoppiò in pieno; dopo aver pronunciato mezza dozzina di imprecazioni…”
+
+# Imprecazioni volgari e irriverenti, ma senza mai osare alzare la frusta…
+
+Continuato…
+
+#"Ti ho scoperto e ti conosco bene… Voglio dire, quel tuo continuo lamentarti…"
+
+#"Servile adulatore! Cosa hai detto in giro su di me a X----? Rispondi!"
+
+“Non dire mai una cosa del genere!”
+
+“Tu? Non ho né l’interesse né la [[Temptation|tentazione]] di parlare di te.”
+
+“Menti! È tua abitudine parlare di me… è una cosa che fai costantemente.”
+
+Non avete l’abitudine di fare pubbliche lamentele riguardo al trattamento che ricevete dalle mie mani.
+
+# Hai raccontato in giro che vi pago pochi soldi…
+
+# Ti picchierei come un cane… Vorrei che fossi un cane! Te la darei davvero una lezione.
+
+“Un minuto… e non muoverti da lì finché non avrò tagliato ogni striscia di carne.”
+
+“Con questo frustino, ti farò sentire il dolore fino nelle ossa.”
+
+Lui fece scorrere la sua arma. La punta della frusta mi sfiorò appena la fronte.
+
+Un caldo brivido di eccitazione percorse le mie vene; sembrava che il mio [[Blood|>sangue]] stesse vibrando di emozione.
+
+“Legato e poi lanciato velocemente lungo i suoi canali… Mi alzai agilmente.”
+
+Si avvicinò al punto in cui si trovava e gli si parò di fronte.
+
+“Giù il tuo frustino!”, dissi, “e spiega immediatamente cosa intendi.”
+
+“Ehi tu! A chi stai parlando?”
+
+“Tu… Non c’è nessun altro qui, penso. Dici che io…”
+
+# Denigrandoti... lamentando i tuoi bassi salari e il cattivo trattamento che ricevi.
+
+“I tuoi argomenti a sostegno di queste affermazioni.”
+
+"Crimsworth non aveva alcuna dignità, e quando gli chiesi severamente una spiegazione..."
+
+Lo disse con voce alta e severa.
+
+#"Terreni! Li avrai; e rivolgiti alla luce, affinché io possa vedere te..."
+
+# Volto di bronzo arrossisce al nero, quando si scopre di essere dei bugiardi…
+
+“Un ipocrita… Ieri, durante una riunione pubblica nel Town Hall, ho avuto modo di…”
+
+# Il piacere di sentirmi insultare dal parlante che mi è contrario
+
+Titolo:  
+Una questione al centro della discussione, attraverso allusioni alle mie faccende personali… e con un linguaggio banale.
+
+# Mostri senza affetto naturale, dittatori familiari e simili
+
+Rifiuti. E quando mi alzai per rispondere, fui accolto da un urlo proveniente da quel posto sporco.
+
+Titolo:  
+“Gang… Il semplice menzionare il tuo nome mi ha permesso di individuarti all’istante…”
+
+Il quarto in cui è avvenuto questo attacco di base… Quando ho guardato intorno, ho visto…
+
+Vidi quel traditore di [[Villain|villano]], Hunsden, che agiva da corriere per gli altri. Ti ho scoperto.
+
+Un mese fa, nella mia [[house|>casa]], ho avuto una lunga conversazione con Hunsden, e lo so.
+
+Che tu fossi nelle stanze di Hunsden la scorsa [[Night|notte]]. Negalo, se ne hai il coraggio.
+
+“Ah, non lo negherò certo… E se Hunsden continuerà a perseguitare la gente fino a farla sibilare…”
+
+# Mai meritate l’odio del pubblico… per qualcosa di ancora peggiore.
+
+#"Un padrone più severo, un fratello più crudele di te… ci sono stati pochi casi del genere."
+
+“Esisteva.”
+
+“Sirrah! sirrah!” ripeté Crimsworth; e per completare il suo rimprovero…
+
+Schiaffeggiò forte proprio sopra la mia testa.
+
+“Un minuto fu sufficiente per strapparglielo di mano, romperlo in due pezzi e…”
+
+#"Get lost!" gridai, schivandolo appena in tempo."
+
+E disse–
+
+#"Toccami, e ti farò portare davanti al magistrato più vicino."
+
+Uomini come Crimsworth, se affrontati con fermezza e calma, finiscono sempre per arrendersi.
+
+# Una traccia della loro insolenza eccessiva; non aveva alcuna intenzione di lasciarsi manipolare
+
+Davanti a un magistrato, e suppongo che capisse che parlavo sul serio. Dopo…
+
+Un’strana e lunga occhiata verso di me: allo stesso tempo minacciosa e sorpresa… sembrava.
+
+“Per riflettere sul fatto che, dopotutto, i suoi soldi gli hanno fornito tutto ciò di cui aveva bisogno…”
+
+# Superiorità su uno come me, un mendicante… e lui aveva qualcosa di molto più sicuro nelle sue mani.
+
+E un modo di [[Revenge|vendetta]] più nobile di quello, piuttosto rischioso, di.
+
+Punizione personale.
+
+“Prendi il tuo cappello,” disse lui. “Prendi ciò che ti appartiene e vattene.”
+
+“Quella porta… Vai pure nella tua parrocchia, poveraccio: mendica, ruba, muori di fame…”
+
+#Trasportato… fai pure ciò che vuoi; ma a tuo rischio, se osi avventurarti di nuovo…
+
+“Mia vista… Se mai dovesse capitarmi di sentire che hai messo piede su un solo centimetro di terra…”
+
+“Se appartiene a me, assumerò qualcuno per picchiarti con un bastone.”
+
+“È improbabile che tu abbia l’opportunità; non appena esci dai tuoi locali, cosa…”
+
+La [[Temptation|tentazione]]. Devo forse tornare da loro? Esco da una [[Prison|prigione]], esco da.
+
+[[Tyrant|tiranno]]; Lascio ciò che è peggiore del peggio che potrebbe presentarsi davanti a me, quindi.
+
+Nessuna [[Fear|>paura]] del mio ritorno.
+
+“Vai, altrimenti te ne farò pentire!”, esclamò Crimsworth.
+
+# Camminai con calma verso la mia scrivania e presi gli oggetti che vi erano contenuti.
+
+“Mia proprietà personale… li ho messi nella mia tasca, chiuso la scrivania e poi…”
+
+Tasto in alto.
+
+“Cosa stai prendendo da quel tavolo?” chiese il proprietario della fabbrica di farina.
+
+#"Lascia tutto al suo posto, altrimenti chiamerò la polizia per far fare una perquisizione."
+
+“Tu, davvero.”
+
+“Allora, fai attenzione,” dissi, e mi tolsi il cappello, poi me lo rimisi.
+
+Guanti in mano, uscì con calma dalla casa della contabilità, uscì davvero da lì.
+
+per non entrarvi più.
+
+Ricordo che quando la campanella del mulino suonava per annunciare l’ora di cena, prima che il signor.
+
+“Crimsworth entrò, e si svolse la scena descritta sopra; io ero presente.”
+
+# Un appetito piuttosto robusto… e aspettava con una certa impazienza di iniziare.
+
+Ascoltare il segnale che indica l’ora del pasto. Ora però me ne sono dimenticato; le immagini.
+
+Il ricordo delle patate e della carne arrosto di montone è stato cancellato dalla confusione che regnava intorno a me…
+
+Il tumulto scatenato dalle operazioni svoltesi nell’ultimo quarto d’ora…
+
+Solo pensavo a camminare… che l’azione dei miei muscoli potesse armonizzarsi con il resto del mio corpo.
+
+Con l’effetto delle mie nervose reazioni, camminai… velocemente e per lunghe distanze. Come avrei potuto fare altrimenti?
+
+“Che cosa avrei potuto fare altrimenti? Un peso enorme mi è stato sollevato dal cuore; mi sentivo leggero…”
+
+Liberato… Ero riuscito a fuggire da Bigben Close senza subire alcun danno.
+
+Risoluzione, senza danneggiare il mio [[Self|rispetto di me stesso]]. Non avevo forzato nulla.
+
+# Circostanze… circostanze che mi avevano liberato. La vita era di nuovo aperta davanti a me.
+
+Il suo orizzonte non era più delimitato dalla alta parete nera che lo circondava.
+
+# Il mulino di Crimsworth  
+Erano trascorse due ore prima che le mie sensazioni si ripristinassero in qualche modo…
+
+Si è placata, permettendomi di ritrovare la calma necessaria per osservare con maggiore chiarezza e ampiezza…
+
+I confini che avevo stabilito erano stati sostituiti da quella “cintura di fuliggine”. Quando finalmente alzai lo sguardo, eccolo lì!
+
+Proprio davanti a me si estendeva Grovetown, un villaggio di ville situato a circa cinque miglia…
+
+A causa del breve periodo invernale, come potei notare dallo scarso avanzamento della luce.
+
+Il sole stava ormai per tramontare; si alzava una fredda nebbia di brina.
+
+Dall’[[River|>fiume]] su cui sorge X----, e lungo le sue rive si estende la [[Road|strada]] che io percorro.
+
+# Aveva avvolto la terra in una luce tenue; offuscava il paesaggio, ma non nascondeva quella chiara e gelida luminosità.
+
+Il blu del cielo di gennaio… Una grande quiete, lontano e vicino…
+
+Quell’[[Time|ora]] della giornata favoriva la tranquillità, poiché tutti erano impegnati nelle loro attività.
+
+Titolo:  
+“Dentro le mura, l’ora del rilascio serale dalle fabbriche… non essendo ancora arrivata.”
+
+Era ancora arrivato; solo il suono dell’[[Water|acqua]] che scorreva liberamente riempiva l’aria.
+
+Il [[River|>fiume]] era profondo e pieno d'acqua, gonfiato dallo scioglimento della neve tardiva.
+
+Mi fermai per un po’, appoggiato a un muro, e guardai verso il corso d’acqua…
+
+Guardavo l’impetuoso movimento delle sue onde. Desideravo che la [[Memory|memoria]] potesse conservare con chiarezza.
+
+E conservare un'impressione permanente di quella scena, per tenerla con sé negli anni a venire.
+
+L’orologio della chiesa di Grovetown suonò le quattro; alzando lo sguardo, vidi l’ultima.
+
+Il sole di quel giorno, che brillava di un rosso intenso tra i rami spogli…
+
+# Alti querce secolari che circondano la chiesa… di colore chiaro e…
+
+“Ho descritto la scena esattamente come desideravo. Ho fatto una pausa ancora un attimo, fino a quando…”
+
+Il dolce suono lento della campana era ormai completamente svanito nell’aria… Poi, l’orecchio…
+
+“Soddisfatto di ciò che avevo visto e provato, mi allontanai dal muro e mi voltai di nuovo…”
+
+rivolto verso X----.
 
 
 
@@ -19243,6 +21380,213 @@ for five or six pounds, if you know how to manage with economy.”
 know Brussels almost as [[Well|well]] as I know X----, and I am sure it would
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il momento… nonostante la sua precisazione secondo cui ciò che aveva fatto non fosse…
+
+Per rispetto verso di me. Ma la natura umana è perversa. È impossibile rispondere.
+
+#La sua domanda diretta fu accettata affermativamente; quindi dichiarai di non avere alcuna intenzione in quel senso.
+
+“Verso la gratitudine… e gli suggerii che, se si aspettava qualche ricompensa per il suo…”
+
+Titolo:  
+“Campionato… da cercare in un mondo migliore, poiché era improbabile che si potesse trovarlo qui.”
+
+“Per incontrarlo qui… In risposta, mi definì ‘un aristocratico dal cuore arido’.”
+
+“Mascalzone”, e allora lo accusai di nuovo di aver preso il pane…
+
+La mia bocca.
+
+“Il tuo pane era sporco, amico!” gridò Hunsden – “sporco e insalubre!”
+
+Passò attraverso le mani di un [[Tyrant|tiranno]], perché vi dico: Crimsworth è un.
+
+Un [[Tyrant|tiranno]], un tiranno verso i suoi lavoratori, un tiranno verso i suoi impiegati, e così via.
+
+“Un giorno diventerà un [[Tyrant|tiranno]] per sua moglie.”
+
+“Sciocchezze! Il pane è pane, e lo stipendio è uno stipendio. Ne ho perso uno… e…”
+
+“Con i tuoi mezzi.”
+
+“Dopo tutto, c’è del senso in quello che dici,” ribatté Hunsden. “Devo ammetterlo.”
+
+# Dico che sono piuttosto sorpreso di sentirti esprimere un punto di vista così pratico
+
+#Un’osservazione del genere… Ora, sulla base di quanto precedente, avevo iniziato a immaginare…
+
+# La osservazione del tuo carattere rivela che il piacere sentimentale che provi…
+
+# Approfittare della libertà appena riconquistata… per almeno un po’.
+
+#Hanno cancellato ogni pensiero di previdenza e prudenza… Penso meglio così.
+
+“Per aver sempre guardato verso ciò che è necessario.”
+
+“Guardando sempre verso ciò che è necessario… Come potrei fare altrimenti? Devo vivere.”
+
+#Per vivere devo avere ciò che voi chiamate “le cose necessarie”, e queste posso ottenerle solo…
+
+“Guadagnarsi da vivere lavorando… Lo ripeto: mi avete rubato il lavoro.”
+
+“Cosa intendi fare?”, chiese freddamente Hunsden. “Hai molte influenze…”
+
+“Relazioni… Immagino che presto vi forniranno un altro posto dove stare.”
+
+“Relazioni influenti? Chi? Vorrei sapere i loro nomi.”
+
+“I Seacombes”.
+
+“Che sciocchezza! Li ho tagliati io stesso.”
+
+Hunsden mi guardò con incredulità.
+
+“L’ho fatto,” dissi, “e in modo definitivo.”
+
+“Devi intendere che ti hanno tagliato…”
+
+“Come desideri. Mi hanno offerto il loro sostegno a condizione che io…”
+
+“Entrare nella Chiesa… Rifiutai sia le condizioni che la ricompensa offerte…”
+
+Si allontanò dai miei freddi zii, e preferì gettarsi tra le braccia…
+
+#"Le braccia del mio fratello maggiore… da cui ora vengo strappato via con dolore."
+
+“L’invadenza crudele di uno sconosciuto… In altre parole, l’intromissione di te stesso.”
+
+Non riuscii a trattenere un mezzo sorriso mentre lo dicevo… Una situazione simile…
+
+“Una semimanifestazione di sentimenti apparve nello stesso istante a Hunsden…”
+
+labbra.
+
+“Ah, ora capisco!”, disse, guardandomi negli occhi, ed era evidente che davvero capisse.
+
+“Vede dritto nel mio cuore… Dopo essere rimasto seduto lì per un minuto o due, con il mento…”
+
+# Appoggiato al gomito, immerso nella lettura attenta del mio…
+
+“Esaminando il suo volto…”, proseguì.
+
+“Sul serio, allora non avete nulla da aspettarvi dai Seacombes?”
+
+“Sì, rifiuto e repulsione… Perché mi chiedi due volte? Come possono le mani…”
+
+Tintato con l’inchiostro di una casa da contabilità, imbrattato con il grasso di.
+
+# Un magazzino di lana… che possa nuovamente entrare in contatto con…
+
+“Palme aristocratiche?”
+
+“Ci sarebbe una difficoltà, senza alcun [[Doubt|dubbio]]; tuttavia sei davvero così completo, ”
+
+Seacombe, per aspetto, caratteristiche, linguaggio, quasi anche nel modo di comportarsi, io mi [[Wonder|chiedo]].
+
+“Dovrebbe rinnegarti.”
+
+“Mi hanno rinnegato; quindi non ne parliamo più.”
+
+“Te ne penti, William?”
+
+“No.”
+
+“Perché no, ragazzo?”
+
+#Perché non sono persone con cui avrei mai potuto avere nulla in comune
+
+“Simpatia”.
+
+“Dico che sei uno di loro.”
+
+“Quello dimostra soltanto che non ne sai assolutamente nulla… Io sono me stesso.”
+
+“Figlio di mia madre, ma non nipote dei miei zii.”
+
+“Comunque… uno dei tuoi zii è un lord, anche se piuttosto sconosciuto e non molto importante…”
+
+Un uomo estremamente ricco, e l’altro un vero gentiluomo: dovresti prendere in considerazione questa possibilità.
+
+“Interesse mondano”.
+
+“Sciocchezze, signor Hunsden. Sa o forse sa che anche se avessi voluto…”
+
+# Obbedire ai miei zii… Non avrei mai potuto umiliarmi così tanto
+
+“Che grazia aver mai conquistato il loro favore… Avrei dovuto sacrificare me stesso.”
+
+“Consolazione senza, in cambio, ottenere il loro sostegno o la loro protezione.”
+
+“Molto probabilmente… quindi hai concluso che il piano più saggio fosse seguire le tue stesse indicazioni.”
+
+“Dispositivi tutti insieme?”
+
+“Esattamente. Devo seguire le mie decisioni… Devo farlo, fino al giorno della mia…”
+
+La [[Death|morte]]; perché non riesco né a comprenderla, né ad adottarne i principi, né a risolvere i problemi che essa solleva.
+
+“Gli altri.”
+
+Hunsden sbadigliò. “Beh,” disse, “in tutto questo, vedo una sola cosa, ”
+
+“Chiaramente… cioè, che tutta questa faccenda non ha nulla a che fare con me.” Lui
+
+Si stiracchiò e sbadigliò di nuovo. “Mi chiedo che ore siano,” disse.
+
+“Ho un appuntamento alle sette in punto.”
+
+“Le sei e tre quarti, secondo il mio orologio.”
+
+“Allora, me ne andrò,” disse alzandosi. “Non ti intrometterai più nel commercio, vero?”
+
+Disse questo, appoggiando il gomito al caminetto.
+
+"No; non credo proprio."
+
+“Saresti un [[Fool|idiota]] se lo facessi. Probabilmente, alla fine, penseresti, ”
+
+“Meglio accettare la proposta di tuo zio e entrare in chiesa.”
+
+“Deve avvenire una singolare [[Regeneration|rigenerazione]] in tutto il mio essere, sia interno che esterno.”
+
+“Prima di farlo… Un buon prete è uno degli uomini migliori.”
+
+“Certamente! Lo pensi davvero?” interruppe Hunsden, con tono derisorio.
+
+“Sì, senza dubbio. Ma non possiedo quelle caratteristiche particolari che…”.
+
+Diventare un buon clerco… piuttosto che intraprendere una professione per la quale non sono adatto.
+
+Non avendo alcuna vocazione, sopporterei estreme difficoltà a causa della [[Poverty|povertà]].
+
+“Sei davvero un cliente difficile da accontentare… Non sarai certo un cliente ideale per un commerciante.”
+
+O un pastore… Non puoi essere avvocato, né medico, né gentiluomo… Perché…
+
+#"Non hai soldi… Ti consiglierei di viaggiare."
+
+“Cosa? Senza soldi?”
+
+“Devi viaggiare alla ricerca di denaro, amico… Sai parlare francese…”
+
+Con quel disgustoso accento inglese, nessuna [[Doubt|>dubbio]], comunque, puoi parlare così. Continua pure.
+
+“Continente… e vediamo cosa ti aspetta lì.”
+
+“Dio sa quanto mi piacerebbe andare!”, esclamai con un entusiasmo involontario.
+
+#"Vai: cosa diavolo ti impedisce di farlo? Potresti anche arrivare a Bruxelles, per esempio..."
+
+“Per cinque o sei sterline, basta saper gestire le spese in modo economico.”
+
+“La necessità mi insegnerebbe se non lo facesse già.”
+
+“Allora vai, e lascia che sia la tua intelligenza a trovare la strada quando arriverai lì.”
+
+Conosco Bruxelles quasi altrettanto bene quanto conosco X----, e sono sicuro che.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_03" data-title="The Professor — Chapter 6 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/clock,motif/well,concept/hope,setting/london"></span>
@@ -19614,6 +21958,177 @@ of that room, I first saw THE dome, looming through a [[London]] mist. I
 suppose the sensations, stirred by those first sounds, first sights, are
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VII.
+
+#Lettore, forse non sei mai stato in Belgio… Magari non ne conosci nemmeno l’esistenza.
+
+# La fisionomia del paese… Le sue caratteristiche non sono ancora definite.
+
+La tua [[Memory|memoria]], proprio come le mie?
+
+Tre… anzi quattro… quadri adornano la cella chiusa da mura su tutti i lati, dove vengono conservati…
+
+“Le registrazioni del passato… Prima di tutto, Eton. Tutto ciò che è rappresentato in quell’immagine…”
+
+# Prospettiva, lontananza, riduzione… ma ancora vivacemente colorata, di verde, umida di rugiada.
+
+Con un cielo chiaro e sereno, punteggiato da nuvole scintillanti ma ancora piene di pioggia. Per me.
+
+L’[[Childhood|infanzia]] non è stata solo serenità: ci sono stati momenti di tristezza, di freddo.
+
+Ore tempestose… Secondo, X----: enorme, squallido; la tela era crepata e fumante…
+
+Un cielo giallo, nuvole fuligginose; nessun sole, nessun blu cobalto; la verdeggia dei sobborghi…
+
+Distrutto e contaminato, una scena davvero desolata.
+
+Terzo, il Belgio… E mi fermerò davanti a questo paesaggio. Per quanto riguarda…
+
+# Quarto, una tenda lo copre; potrò rivelarla in futuro… o forse no.
+
+Come meglio conviene e risponde alle mie possibilità. Per il momento, comunque…
+
+“Deve pendere inosservato… Belgio: nome poco romantico e privo di poesia, ma…”
+
+“Che ogni volta che viene pronunciato risuona nelle mie orecchie con un certo suono, nel mio cuore con un certo eco…”
+
+Come nessun altro insieme di sillabe, per quanto dolci o classici, possa…
+
+Producete. Belgio! Ripeto la parola, ora che sono seduto [[Alone|da solo]] vicino a mezzanotte.
+
+Scuote il mio mondo del passato, come se fosse un richiamo alla [[Resurrection|risurrezione]]; le tombe.
+
+#"Non chiudere mai: i morti risorgono; pensieri, sentimenti, ricordi che dormivano..."
+
+Vengono visti da me mentre salgono dalle nuvole… la maggior parte di loro è avvolta in un alone luminoso… ma mentre…
+
+# Contemplo le loro forme evanescenti, cercando di stabilirne con certezza la natura…
+
+# Il suono che li ha svegliati svanisce… e tutti, uno dopo l’altro, ricadono nel sonno.
+
+Come un leggero ghirlando di nebbia, assorbito nella forma originale, richiamato nelle urne…
+
+Rimessi al sicuro nei monumenti. Addio, fantasmi luminosi!
+
+# Questo è il Belgio, lettore… Guardate: non chiamate questa immagine “piatta” o “noiosa”.
+
+# La prima volta che lo vidi… non mi sembrò né noioso né banale.
+
+Lasciai Ostenda in una mattina mite di febbraio e mi ritrovai sulla [[Road|strada]].
+
+“Verso Bruxelles, nulla mi sembrava banale o insipido… Il mio senso del piacere era intatto.”
+
+Possedeva un filo affilato al massimo grado, intatto, tagliente, squisito.
+
+Ero giovane; avevo una buona salute; non conoscevo ancora il piacere…
+
+La sua indulgenza aveva indebolito o saziato una delle mie facoltà naturali.
+
+Per la prima volta, strinsi Liberty tra le mie braccia. E l’influenza di.
+
+Il suo sorriso e il suo abbraccio hanno rianimato la mia vita, proprio come il sole e il vento occidentale.
+
+Sì, in quell’epoca mi sentivo come un viaggiatore mattutino che non ha alcun dubbio…
+
+Dalla [[Hill|collina]] su cui sta salendo, vedrà un splendido sorgere del sole. Che meraviglia.
+
+“Se il sentiero è dritto, ripido e pieno di pietre… Lui non lo vede; i suoi occhi…”
+
+#Fissato su quella cima, già arrossito, rosso e dorato…
+
+“Ne è certo: conosce ciò che lo aspetta oltre quella scena. Sa che il sole sorgerà…”
+
+Affrontalo: il suo carro sta appunto arrivando dall’orizzonte orientale.
+
+#E che la brezza leggera che sente sul viso segna l’inizio di qualcosa…
+
+La carriera di Dio: un sentiero chiaro e vasto, color azurro, tra nuvole morbide come perle
+
+# Caldo come il fuoco… Difficoltà e fatica sarebbero stati il mio destino, ma li avrei affrontati con determinazione.
+
+Con l’energia tratta dalle speranze, per quanto vaghe e incerte, ritenevo che tutto ciò fosse possibile.
+
+Nessuna difficoltà. Ora ho scalato la [[Hill|collina]] all’ombra; c'erano dei ciottoli.
+
+"Ineguaglianze: rovi sul mio cammino, ma i miei occhi erano fissi sul rosso sangue..."
+
+Si elevava al di sopra di tutto; la mia [[Imagination|immaginazione]] era rivolta verso quel cielo splendente lontano.
+
+Non ho dato importanza alle pietre che si trovavano sotto i miei piedi, né ai rovi…
+
+Mi grattavo il viso e le mani.
+
+Guardavo spesso, e sempre con piacere, dal [[Window|finestra]] della diligenza.
+
+(Ricordiamo che in quei tempi non esistevano treni né ferrovie.)
+
+[[Well|Beh]]! E cosa ho visto? Ve lo dirò fedelmente. Verde, rigoglioso.
+
+Titolo:  
+Paludi; campi fertili ma piatti, coltivati a macchie…
+
+Sembrano giardini da cucina ingranditi; strisce di alberi tagliati, ordinatissimi…
+
+Pioppi tagliati a metà, che si estendono all’orizzonte; stretti canali, che scorrono lentamente accanto…
+
+Il lato della [[Road|strada]]; case di campagna fiamminghe dipinte; alcune capanne molto sporche; un.
+
+Cielo grigio, morto; strade bagnate, campi bagnati, tetti di case bagnati: niente di bello.
+
+Lungo tutto il percorso, non vidi quasi nessun oggetto pittoresco; eppure…
+
+“Me… tutto era bello, tutto superava i limiti della bellezza pittoresca. Continuava così, incantevole.”
+
+Finché durava la luce del giorno, nonostante l’umidità di molte giornate precedenti…
+
+I giorni avevano inzuppato l’intera nazione; tuttavia, con l’avvicinarsi della notte, la pioggia…
+
+Ripreso… e fu attraverso la trasmissione in streaming e l’oscurità senza stelle che il mio sguardo…
+
+#Colpito dal primo bagliore delle luci di Bruxelles… Vidi poco di ciò che mi circondava.
+
+[[City|città]], ma sono le sue luci che brillano di [[Night|notte]]. Dopo essere sceso dal calesse.
+
+“Un fiacre mi portò all’Hotel de ----, dove qualcuno mi aveva consigliato di andare.”
+
+Compagno di viaggio con cui condividere l’alloggio; dopo aver mangiato la cena tipica dei viaggiatori, mi ritirai.
+
+Andò a letto e dormì il sonno profondo di un viaggiatore.
+
+Il giorno dopo, al risveglio da un lungo e sonno riposante, ebbi l’impressione…
+
+“Che fossi ancora a X----, e che si fosse pieno giorno…”
+
+#Iniziato tutto, pensando di essermi addormentato troppo tardi e di dovermi affrettare…
+
+[[Time|Ora]] nella casa della conteggio. Quel senso momentaneo e doloroso di restrizione.
+
+Scomparve prima che la coscienza della [[Freedom|libertà]] si risvegliasse completamente, come.
+
+“Scostando le tende bianche del mio letto, guardai fuori verso un ampio…”
+
+# Camera straniera ma nobile… quanto diversa da quelle piccole e squallide…
+
+Non era scomodo; l’appartamento che avevo occupato per una o due [[Night|notti]] era.
+
+Un rispettabile ostello a [[London|Londra]], dove aspettare la partenza della nave postale.
+
+Ma non oso mai profanare la [[Memory|memoria]] di quella piccola stanza squallida!
+
+Anche quello è caro alla mia [[Soul|'anima]]; perché lì, mentre giacevo in silenzio e nell'oscurità.
+
+La prima volta sentii il grande campanone di St. Paul annunciare a [[London|Londra]] che.
+
+Mezzanotte. E ricordo bene quelle voci profonde, calme e ponderate, così piene di significato.
+
+Carico di un'enorme quantità di forza e vigore. Da quella piccola, stretta [[Window|finestra]].
+
+Di quella stanza, vidi per prima cosa la cupola, che si profilava attraverso la nebbia di [[London|Londra]]. Io.
+
+#Supponiamo che quelle sensazioni, suscitate da quei primi suoni, prime immagini…
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_02" data-title="The Professor — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/grave,motif/memory,motif/mirror,motif/nature,motif/rose,motif/time,motif/well,concept/body,concept/doubt,concept/nature,character/monsieur_pelet"></span>
@@ -19800,6 +22315,190 @@ him.”
 The word “professor” struck me. “I am not a professor,” said I.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Le ho provate solo una volta; custoditele bene, [[Memory|Memoria]]; sigillatele nelle urne e conservatele.
+
+In nascondigli sicuri. [[Well|Bene]]»—ho trovato la rosa. I viaggiatori parlano di questi appartamenti.
+
+“Le abitazioni straniere sono spoglie e scomode… Pensavo che la mia stanza…”
+
+Sembrava maestosa e allegra… Aveva finestre così grandi… Finestre ad arco.
+
+“Aperte come porte, con vetri così ampi e trasparenti… davvero imponenti.”
+
+Sul mio comodino c'era uno specchio, un bellissimo [[Mirror|specchio]] che brillava.
+
+Sopra la mensola del camino… il pavimento dipinto sembrava così pulito e lucido.
+
+# Quando mi fui vestito e stavo scendendo le scale, i larghi gradini di marmo…
+
+Mi lasciò quasi senza parole, così come l'imponente sala in cui mi portarono.
+
+# In quel primo piano incontrai una domestica fiamminga: indossava scarpe di legno…
+
+# Pettigotto rosso corto, camicia da notte in cotone stampato… il suo viso era largo.
+
+La sua fisionomia denotava una stupidità evidente; quando le parlavo in francese, lei…
+
+Mi rispose in fiammingo, con un tono tutt’altro che cortese… Eppure io pensai…
+
+“La sua grazia incantevole: se non fosse stata bella o gentile, allora, immaginavo, sarebbe stata comunque…”
+
+Molto pittoresco; mi ha ricordato le figure femminili presenti in alcuni dipinti olandesi.
+
+Dipinti che avevo visto negli anni precedenti alla Seacombe Hall.
+
+Mi recai nella sala pubblica; anch’essa era molto grande e molto alta.
+
+E riscaldato da un camino; il pavimento era nero, e il camino era nero…
+
+La maggior parte dei mobili era nera… Eppure non ho mai provato una sensazione di libertà maggiore.
+
+Un senso di eccitazione maggiore di quando mi sedevo attorno a un lungo tavolo nero…
+
+Coperto, tuttavia, in parte da un panno bianco, e dopo aver dato l’ordine…
+
+Per colazione, iniziai a versarmi il caffè da una piccola caffettiera nera.
+
+La stufa potrebbe apparire poco attraente agli occhi di alcuni, ma non ai miei.
+
+Il clima era indubbiamente molto caldo, e c'erano due signori seduti lì…
+
+Parla francese… È impossibile seguire il ritmo veloce delle sue parole.
+
+# Comprendere gran parte del significato di ciò che hanno detto… ma il francese, in questo contesto…
+
+“Bocche di francesi o belgi… all’epoca non comprendevo ancora le terribili conseguenze…”
+
+Il suo accento belga era davvero una musica per le mie orecchie… Uno di questi signori…
+
+Subito dopo, si rese conto che ero un inglese; non c’era alcun dubbio, a giudicare dal mio modo di comportarmi.
+
+“Which I addressed to the waiter; for I insisted on speaking French.”
+
+Il mio orribile stile tipico del Sud dell’Inghilterra, anche se quell’uomo capiva l’inglese.
+
+Il gentiluomo, dopo avermi guardato un paio di volte, mi si avvicinò cortesemente.
+
+“Me in very good English; I remember I wished to God that I could speak”
+
+Il francese di lui era davvero ottimo; la sua fluidità e la pronuncia corretta mi hanno colpito molto.
+
+La prima [[Time|volta]] che si comprese appieno il carattere cosmopolita di.
+
+# La mia prima esperienza di quella abilità nella vita
+
+lingue che in seguito scoprii essere molto diffuse a Bruxelles.
+
+Ho indugiato con la colazione il più a lungo possibile… finché non è stata finita.
+
+“Sul tavolo… e mentre quel estraneo continuava a parlarmi, io…”
+
+Libero viaggiatore, indipendente… Ma alla fine tutte quelle cose furono rimosse.
+
+Due signori lasciarono la stanza; all’improvviso l’illusione scomparve, e tornò la realtà.
+
+Il business è tornato… Io, un schiavo appena liberato dal giogo, finalmente libero…
+
+# Una settimana prima di ventuno anni di restrizioni… Devo necessariamente riprendere.
+
+#I ceppi della dipendenza. Appena avevo assaporato la gioia di essere…
+
+Senza un padrone, quando il dovere le impartì l’ordine severo: “Vai e cerca”.
+
+“Un altro compito…”. Non mi soffermo mai su un lavoro doloroso ma necessario; lo eseguo semplicemente.
+
+Mai prendersi piacere prima di occuparsi degli affari: non è nella mia [[Nature|>natura]] farlo.
+
+È impossibile godersi una tranquilla passeggiata per la [[City|città]], anche se me ne rendevo conto.
+
+La mattina era davvero bella, fino a quando non ho presentato per la prima volta il signor Hunsden…
+
+Lettera di presentazione… e finalmente sono riuscito a imboccare la strada giusta per iniziare qualcosa di nuovo.
+
+#"La situazione… Strappandomi la mente dalla libertà e dal piacere, afferrai il mio cappello."
+
+E costrinse il mio riluttante [[Body|-corpo]] ad uscire dall’Hotel de ---- e andare in quel luogo straniero.
+
+Viale.
+
+# Era una bella giornata, ma non volevo guardare il cielo blu… né nulla di tutto ciò che mi circondava.
+
+Case maestose intorno a me; la mia mente era concentrata su una sola cosa: scoprire chi fosse “il signor”.
+
+“Brown, numero –, Rue Royale”, così era indirizzato la mia lettera. Grazie a questo…
+
+# Con successo portai a termine le mie indagini; finalmente mi trovai davanti alla porta desiderata e bussai.
+
+Chiese di parlare con il signor Brown e fu ammesso.
+
+# Condotto in una piccola sala da pranzo, mi ritrovai…
+
+La presenza di un anziano signore, molto [[Grave|serio]], professionale e.
+
+“Di aspetto rispettabile… Presentai la lettera del signor Hunsden; mi ricevette.”
+
+# Molto cortesemente. Dopo una breve conversazione un po’ casuale, mi chiese se…
+
+Qualsiasi situazione in cui il suo consiglio o la sua esperienza potessero essere utili… Dissi:
+
+“Sì”, e poi gli spiegai che non ero un gentiluomo…
+
+Fortuna, viaggiare per piacere, ma un ex impiegato di una famiglia nobiliare, che.
+
+Aveva bisogno di un lavoro, e subito. Rispose così.
+
+Titolo:  
+In qualità di amico del signor Hunsden, sarebbe disposto ad aiutarmi…
+
+[[Well|Benissimo]], per quanto potesse. Dopo un po’ di meditazione, diede un nome a un luogo situato in una zona commerciale.
+
+Una casa a Liegi, e un'altra in un negozio di libri a Lovanio.
+
+“Clerco e commesso…” mormorai tra me. “No.” Scossi la testa.
+
+#Avevo provato il “tavolino alto”; lo odiavo… Credetti che ci fossero altre possibilità.
+
+Occupazioni che mi si addicono di più; inoltre, non volevo andarmene.
+
+Bruxelles.
+
+“Non conosco alcun luogo a Bruxelles”, rispose il signor Brown, “a meno che… forse…”
+
+Titolo:  
+Sono disposto a rivolgere la vostra attenzione all’insegnamento. Conosco…
+
+# Il direttore di un’istituzione importante che ha bisogno di un professore…
+
+“Inglese e latino”.
+
+Ci pensai per due minuti, poi afferrai quell’idea con entusiasmo.
+
+“Proprio quello, signore!” dissi io.
+
+“Ma,” chiese lui, “capisci il francese abbastanza bene da poter insegnare il belga?”
+
+“Giovanotti inglesi…”
+
+Fortunatamente sono riuscito a rispondere a questa domanda affermativamente.
+
+# Studiando il francese con un francese, sono riuscito a parlare la lingua
+
+In modo comprensibile, anche se non fluentemente; riuscivo anche a leggerlo bene e a scrivere.
+
+Si comportava in modo decente.
+
+“Allora,” proseguì il signor Brown, “penso di potervi garantire quel posto…”
+
+[[Monsieur Pelet|>Monsieur Pelet]] non rifiuterà un professore raccomandato da me; ma venite pure.
+
+Di nuovo qui alle cinque di questa pomeriggio; vi presenterò.
+
+“Lui.”
+
+La parola “professore” mi colpì. “Non sono un professore”, dissi.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_03" data-title="The Professor — Chapter 7 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/clock,motif/silence,motif/time,motif/well,concept/conscience,concept/doubt,concept/melancholy,concept/suffering,character/edward_crimsworth"></span>
@@ -19977,6 +22676,185 @@ by hesitation, so I just stepped to [[The Professor|the professor]]’s desk nea
 
 stood, and faced the circle of my pupils. I took a moment to collect
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Ah,” rispose il signor Brown, “in Belgio, ‘professore’ significa semplicemente insegnante.”
+
+“E basta.”
+
+Con la mia [[Conscience|coscienza]] finalmente in pace, ringraziai il signor Brown e, per il momento.
+
+Si ritirò. Questa volta uscii in strada con il cuore sollevato.
+
+La missione che mi ero imposto per quel giorno è stata portata a termine. Ora posso…
+
+Prenditi qualche ora di vacanza. Mi sentivo libero di guardare in alto. Per la prima [[Time|volta]].
+
+Ho notato la limpidezza cristallina dell’aria, il blu intenso del cielo…
+
+Il lato pulito e luminoso delle case imbiancate o dipinte; ho visto cosa…
+
+La Rue Royale era una strada elegante; camminando con calma lungo la sua ampia superficie…
+
+“Pavimento… Continuai ad osservare i suoi maestosi hotel, fino alle recinzioni…”
+
+“Le porte e gli alberi del parco che apparivano all’orizzonte offrivano alla mia vista…”
+
+Nuova attrazione… Ricordo che, prima di entrare nel parco, mi sono fermato un attimo per…
+
+# Contemplare la statua del generale Belliard, e poi proseguii…
+
+“Sul gradino più alto della grande scalinata, proprio oltre… Guardai in basso verso uno spazio stretto.”
+
+Vicolo laterale, che in seguito scoprii essere chiamato Rue d’Isabelle.
+
+Ricordo bene che il mio sguardo si soffermò sulla porta verde di una casa abbastanza grande.
+
+La [[house|casa]] di fronte, su cui era inciso in una targa di bronzo: “Pensionnat de, ”
+
+“Demoiselles… Pensionnat!” Quella parola suscitava in loro una sensazione di disagio.
+
+“Mia mente… sembrava parlare di moderazione. Alcune delle signorine…”
+
+Gli internati, senza alcun [[Doubt|>dubbio]], stavano uscendo in quel momento dalla porta. Li guardai.
+
+Tra di loro c’era anche una ragazza dal viso bellissimo… ma indossava quei piccoli cappelli francesi stretti e attillati.
+
+Nascosero i loro volti; in un attimo se ne andarono.
+
+Avevo già percorso gran parte di Bruxelles quando arrivò l’ora delle cinque.
+
+Ma appena suonò quell’ora, fui di nuovo in Rue Royale.
+
+#Ri-ammesso nella sala da pranzo del signor Brown, lo trovai, come prima…
+
+Seduto al tavolo, non era [[Alone|da solo]]: un gentiluomo stava accanto a lui.
+
+Caminetto. Due parole introduttive lo designarono come il mio futuro maestro.
+
+“M. Pelet, signor Crimsworth; signor Crimsworth, M. Pelet”, un inchino da entrambi.
+
+“La cerimonia è finita… Non so proprio che tipo di inchino abbia fatto…”
+
+Un titolo ordinario, suppongo… poiché mi trovavo in un ambiente tranquillo e del tutto comune.
+
+Titolo:  
+Non provavo affatto l’agitazione che aveva caratterizzato il mio primo colloquio.
+
+con [[Edward Crimsworth]]. Il inchino di M. Pelet era estremamente cortese, ma non.
+
+# Teatrale, appena francese… Lui e io ci sedemmo subito di fronte
+
+“L’uno per l’altro… Con una voce piacevole, bassa, e per rispetto verso di me…”
+
+“Orecchie estranee… molto distinte e deliberatamente utilizzate: il signor Pelet fece intendere che…”
+
+Avevo appena ricevuto da “il rispettabile signor Brown” un resoconto relativo a me…
+
+Titolo:  
+Realizzazioni e carattere, che lo liberarono da ogni rimorso riguardo a…
+
+Titolo:  
+La convenienza di assumermi come professore di inglese e latino
+
+#La sua attività commerciale; tuttavia, per pura formalità, avrebbe inserito comunque alcune informazioni…
+
+Domande per mettere alla prova le mie capacità… Lo fece, e lo fece in termini lusinghieri.
+
+La sua soddisfazione per le mie risposte… Poi venne il discorso sullo stipendio;
+
+Il compenso era fissato a mille franchi all’anno, oltre vitto e alloggio.
+
+“E inoltre,” suggerì il signor Pelet, “poiché ci saranno alcune ore…”
+
+# In ogni giorno in cui i tuoi servizi non saranno necessari…
+
+Entro un certo [[Time|periodo]], è possibile ottenere un lavoro in altri seminari.
+
+“E così trasformate i vostri momenti di inattività in opportunità proficue.”
+
+# Pensavo fosse molto gentile… e in effetti, dopo ho constatato che quelle condizioni…
+
+Il compenso che il signor Pelet mi aveva offerto per il lavoro da svolgere a Bruxelles era davvero generoso.
+
+#L'instruzione è estremamente economica laggiù, a causa del numero elevato…
+
+#Insegnanti… Fu inoltre deciso che io fossi sistemato nella mia nuova posizione.
+
+Il giorno dopo, esattamente, io e il signor Pelet ci separammo.
+
+Beh, com'era? E quali furono le mie impressioni su di lui?
+
+# Un uomo di circa quarant’anni, di statura media e piuttosto…
+
+Figura emaciata; il suo viso era pallido, le guance erano incavate e i suoi occhi…
+
+# Vuoti… i suoi tratti erano piacevoli e regolari; avevano un certo carattere “francese”…
+
+#Turn… poiché il signor Pelet non era un flemmingo, ma francese per nascita
+
+#Origini e lignaggio… ma una durezza intrinseca alla cultura gallica
+
+In suo caso, i tratti del viso erano mitigati da un dolce sguardo bluastro.
+
+[[Melancholy|Melanconia]], quasi un segno di [[Suffering|sofferenza]] nel suo volto; la sua fisionomia.
+
+Titolo:  
+“Era fine ed elegante… Utilizzo due parole francesi perché sono proprio queste a definirla così.”
+
+“Meglio di qualsiasi termine inglese, esprime perfettamente il tipo di intelligenza che possiede…”
+
+# Caratteristiche straordinarie. Era davvero una persona interessante e affascinante.
+
+Personaggio… Mi chiedevo soltanto perché fosse assente completamente tutto ciò che è ordinario in lui.
+
+Titolo:  
+Le caratteristiche della sua professione… e temeva quasi che non fosse in grado di farcela.
+
+Sufficientemente severo e risoluto da poter essere un insegnante… Almeno in apparenza.
+
+# M. Pelet rappresentava un contrasto totale con il mio defunto maestro, Edward
+
+Crimsworth.
+
+#Influenzato dall’impressione che avevo ricevuto della sua gentilezza, ero…
+
+# Sorpreso di scoprire…
+
+La [[house|casa]], e dopo essere stato ammesso a vederla per la prima volta, si rese conto di cosa sarebbe diventata.
+
+Ambito delle mie future attività, ovvero qualcosa di vasto, imponente e ben illuminato.
+
+# Aule scolastiche: vidi un numeroso gruppo di studenti, ovviamente ragazzi.
+
+# Il cui aspetto collettivo mostrava tutti i segni di una crescita rigogliosa e prospera
+
+e un seminario molto ben disciplinato. Mentre percorrevo i corridoi insieme agli altri.
+
+Con il signor Pelet, un profondo [[Silence|silenzio]] regnava ovunque; e se per caso.
+
+# Un mormorio, o forse un sussurro, si levò… uno sguardo dallo sguardo pensieroso di quest’uomo…
+
+“Il più gentile pedagogo lo placò all’istante. Era sorprendente…”
+
+“Pensai come un controllo così moderato potesse rivelarsi così efficace… Quando lo ebbi…”
+
+“Percorse in lungo e in largo tutte le aule, il signor Pelet si girò…”
+
+Mi dissero…
+
+# “Non avreste obiezioni ad accettare i ragazzi così come sono e a metterli alla prova?”
+
+“Proficienza nell’inglese?”
+
+La proposta è stata inaspettata. Pensavo che mi fosse stato concesso di partecipare.
+
+Almeno tre giorni per prepararsi… ma iniziare qualsiasi attività è un cattivo presagio.
+
+Con esitazione, mi avvicinai alla scrivania del [[The Professor|professore]], vicino alla quale ci trovavamo.
+
+“Mi fermai e mi trovai di fronte al cerchio formato dai miei studenti. Presi un momento per riprendermi…”
 
 
 
@@ -20164,6 +23042,191 @@ at [[Night|night]] the tapping of branches against the panes. In the daytime,
 when I listened attentively, I could hear, even through the boards, the
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“I miei pensieri… e allo stesso modo, tradurre in francese la frase con cui…”
+
+# Apertura dell’attività commerciale proposta
+
+“Signori, prendete i vostri libri da leggere.”
+
+“Inglese o francese, signore?” chiese un giovane dall’aspetto robusto, con il viso pallido come la luna.
+
+# Flamand in una camicetta… La risposta, fortunatamente, fu semplice:–
+
+“Anglais.”
+
+#Decisi di causarmi il minor numero possibile di problemi in questa situazione.
+
+#Lezione: non è ancora il momento di affidare alle mie parole inesperte questo compito…
+
+#"La fornitura di spiegazioni: il mio accento e il mio modo di esprimersi sarebbero troppo evidenti..."
+
+#"Critiche ai giovani signori davanti a me, riguardo ai quali ho provato..."
+
+# Già allora sarebbe stato necessario assumere immediatamente una posizione vantaggiosa
+
+Posizione, e ho quindi adottato i mezzi necessari in base a essa.
+
+“Iniziate!” gridai quando tutti ebbero tirato fuori i loro libri.
+
+Un giovane dal viso pallido come la luna (il cui nome era Jules Vanderkelkov, come seppi in seguito).
+
+# Prese la prima frase… Il “libro da leggere” era il “Vicario di…”
+
+“Wakefield”, molto utilizzato nelle scuole straniere perché si ritiene che…
+
+Contiene esempi rappresentativi dell’inglese parlato nella vita di tutti i giorni; tuttavia…
+
+Titolo:  
+“Un rotolo runico… per qualsiasi somiglianza con le parole pronunciate…”
+
+# Jules, nome comune tra la popolazione autoctona della Gran Bretagna
+
+“Gran Bretagna… Mio Dio, quanto sniffava, sternutiva e ansimava! Tutto quello che diceva era…”
+
+“Detto con la voce rauca e attraverso il naso… perché è così che parlano i fiamminghi.”
+
+# Ascoltai fino alla fine il suo paragrafo senza pronunciare una parola
+
+Correzione: in quel momento sembrava estremamente compiaciuto di sé, convinto delle proprie capacità.
+
+Nessun [[Doubt|>dubbio]]: si era comportato come un vero uomo, nato e cresciuto per questo scopo.
+
+“Anglais.” Nello stesso immutabile [[Silence|silenzio]], ascoltai una dozzina di persone parlare.
+
+Rotazione… e quando il dodicesimo fu terminato con sputi, fischi e…
+
+Mormorando tra me, posai solennemente il libro.
+
+“Fermatevi!”, dissi. Ci fu un momento di silenzio; in quel lasso di tempo li osservai tutti attentamente.
+
+Con uno sguardo fermo e piuttosto severo… un cane, se fissato abbastanza a lungo.
+
+E, dopo abbastanza tempo, cominceranno ad apparire segni di imbarazzo… e alla fine…
+
+“Ho fatto il mio lavoro con quei belgi… Notando che alcuni di quei volti davanti a me…”
+
+#Iniziavano ad apparire cupi, altri imbarazzati… Lentamente mi unii a loro.
+
+# Mani… e un grido profondo, gutturale…
+
+“Che cosa orribile!”
+
+Si guardarono l’un l’altro, fecero il broncio, arrossirono, mossero i tacchi…
+
+Non sembravano molto soddisfatti, ma erano impressionati… e in un certo senso…
+
+#Volevo che fossero così… Dopo averli abbassati di un gradino nella loro autostima…
+
+L’arroganza verso se stessi: il passo successivo era quello di aumentare la mia stima agli occhi loro; non.
+
+Una cosa molto semplice, considerando che a malapena osavo parlare per paura.
+
+Rivelando le mie stesse debolezze.
+
+“Ascoltate, signori!” dissi, cercando di imprimere nella mia voce un tono deciso e autoritario.
+
+Titolo:  
+Sottolinea il tono compassionevole di un essere superiore che, commosso…
+
+# Estremo della disperazione, che all’inizio suscitò solo il suo disprezzo
+
+“Decide finalmente di prestare aiuto… Allora iniziai dal principio stesso.”
+
+“Il vicario di Wakefield”… e lesse ad alta voce, con un tono lento e chiaro, alcune pagine del libro.
+
+#Venti pagine… In tutto quel tempo, rimasero seduti in silenzio, ascoltando attentamente.
+
+Attenzione: nel momento in cui avevo finito, era già trascorso quasi un’ora. Poi.
+
+Una [[Rose|rosa]] e disse:–
+
+“Basta per oggi, signori; domani riprenderemo.”
+
+“Spero che tutto vada bene.”
+
+Con questa frase oracolare mi inchinai e, insieme al signor Pelet…
+
+Uscì dall’aula scolastica.
+
+“Bene! Molto bene!” disse il mio preside quando entrammo nel suo ufficio.
+
+Sala da pranzo. “Vedo che il signore ha buone maniere; questo mi piace, perché…”
+
+“L’insegnamento e l’educazione contano tanto quanto la conoscenza stessa.”
+
+# Dalla sala da pranzo, il signor Pelet mi accompagnò nel mio appartamento, nella mia “stanza”.
+
+“Come disse il signore, con un certo tono di compiacimento… Era davvero molto piccolo.”
+
+# Stanza con un letto eccessivamente piccolo, ma il signor Pelet mi ha fatto capire…
+
+Che avrei dovuto occuparlo completamente [[Alone|da solo]], il che ovviamente era una grande opportunità.
+
+# Comfort… Eppure, nonostante le sue dimensioni limitate, possedeva due finestre… Luce.
+
+# Non essendo tassato in Belgio, la gente non si lamenta mai della sua adesione…
+
+Le loro case… Tuttavia, in questo caso, questa osservazione non è molto pertinente.
+
+Per uno di questi finestri erano state applicate assi per chiuderlo; i finestrini aperti si affacciavano su…
+
+Il parco giochi dei ragazzi… Lanciai un’occhiata all’altro, chiedendomi quale aspetto fosse più interessante.
+
+“Si presenterebbe così se fosse privo di quei pannelli… Lesse M. Pelet.”
+
+“Supponiamo… l’espressione dei miei occhi”; spiegò.
+
+"#La finestra chiusa si affaccia su un giardino appartenente a un collegio."
+
+“Riguardo alle signorine,” disse, “e le convenienze richiedono… insomma, voi…”
+
+“Capisce, vero, signore?”
+
+“Sì, sì”, fu la mia risposta, e ovviamente sembravo molto soddisfatto…
+
+# Quando il signor Pelet si ritirò e chiuse la porta dietro di sé, la prima cosa…
+
+Ho esaminato attentamente le assi inchiodate, nella speranza di trovarvi qualcosa…
+
+“Qualche fessura o crepa che potrei allargare per dare un’occhiata dentro…”
+
+Terreno sacro. Le mie ricerche furono vane, poiché le tavole erano state ben nascoste.
+
+“Unito e saldamente fissato… È sorprendente quanto fossi deluso.”
+
+# Avrei trovato davvero piacevole poter godere di una vista del genere…
+
+Un [[Garden|giardino]] pieno di [[Flowers|>fiori]] e alberi. Era davvero divertente osservarlo.
+
+Le giovani dame al loro spettacolo: uno studio sulle caratteristiche femminili in diverse situazioni
+
+Titolo:  
+Nascosto alla vista da un semplice velo di mussola…
+
+“Cortina… mentre, senza dubbio, a causa delle assurde remore di alcuni anziani…”
+
+"#La dama di compagnia di una direttrice… Ora non mi restava altra scelta se non quella di guardare soltanto qualcosa di nudo."
+
+Il cortile lastricato, con un enorme “pas de géant” al centro, e il.
+
+Muri e finestre monotoni di un [[house|-edificio]] scolastico per ragazzi. Non solo.
+
+Poi, ma molte volte dopo, soprattutto nei momenti di stanchezza.
+
+# Malumore… Ho guardato con occhi delusi quella tentazione così allettante…
+
+Il cartone, con un’[[Longing|ansia]] tale da volerlo strappare via per intravedere quella regione verde.
+
+“Qualcosa che immaginavo si trovasse al di là… Sapevo che c’era un albero cresciuto proprio lì vicino…”
+
+La [[Window|finestra]]; perché anche se non c'erano ancora [[Leaves|foglie]] che frusciavano, spesso sentivo.
+
+Di [[Night|notte]],] il rumore dei rami che battevano contro i vetri. Durante il giorno.
+
+# Quando ascoltavo con attenzione, riuscivo a sentire, anche attraverso le assi…
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_05" data-title="The Professor — Chapter 7 (part 5)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/road,motif/window,concept/history,concept/solitude,concept/truth,form/history,character/zoraide_reuter"></span>
@@ -20305,6 +23368,148 @@ looked at my boys and remembered the political [[history]] of their
 
 ancestors. Pelet’s school was merely an epitome of the Belgian nation.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Voci delle signorine nei loro momenti di svago… e, per dirlo in altre parole…
+
+La sincera [[Truth|verità]]; le mie riflessioni sentimentali, a volte, erano un po’ troppo.
+
+Disordinato da quel colore che non è proprio argenteo… anzi, troppo spesso rossastro.
+
+Titolo:  
+Suoni che, provenienti dal paradiso invisibile sottostante, penetravano nell’aria…
+
+In modo clamoroso, nella mia [[Solitude|solitudine]]. Per non sottovalutare la situazione, sembrava davvero così.
+
+# Un caso dubbiale: se siano i polmoni delle ragazze di Mademoiselle Reuter o quelli…
+
+I ragazzi di M. Pelet erano i più forti… e quando si trattava di urlare, loro erano i primi.
+
+Le ragazze hanno senza dubbio battuto i ragazzi. Ah, quasi me ne scordavo…
+
+Quel nome, Reuter, era quello della vecchia signora che aveva fatto crescere la barba sulla mia [[Window|finestra]].
+
+“Up… Dico ‘vecchia’, perché ovviamente così la consideravo, giudicando da…”
+
+Le sue azioni caute e protettive; inoltre, nessuno ne parlava mai.
+
+“Ricordo che mi divertì molto la prima volta che la sentii…”
+
+Nome di battesimo: era Zoraide – Mademoiselle [[Zoraide Reuter]]. Ma il.
+
+Le nazioni continentali si permettono spesso variazioni nella scelta dei loro nomi.
+
+Titolo:  
+Cose del genere non capitano mai ai sobri inglesi… Penso proprio che noi ne siamo troppo esposti.
+
+Si tratta di un elenco limitato da cui è possibile scegliere.
+
+Mentre così, il mio cammino diventava gradualmente più facile da percorrere davanti a me… Io, nel frattempo…
+
+#Qualche settimana dopo, superò le difficoltà insite in quelle situazioni provocatorie…
+
+Titolo:  
+Il punto di partenza di quasi ogni carriera… Presto acquisii molte cose.
+
+La facilità con cui parlo francese mi permette di relazionarmi facilmente con i miei studenti; e
+
+Come avevo avuto modo di conoscerli fin dall’inizio, su basi amichevoli e sincere…
+
+Continuarono con tenacia nel mantenere il vantaggio ottenuto all’inizio.
+
+# Mai tentato di ammutinamento: una circostanza che tutti coloro che ne sono coinvolti…
+
+"#Familiari con quanto avviene nelle scuole belghe..."
+
+# Una relazione nella quale professori e studenti spesso si trovano in questo rapporto
+
+“Si considereranno reciprocamente importanti in quei luoghi…”
+
+Un titolo insolito… Prima di concludere questo capitolo, vorrei dire una parola su…
+
+# Il sistema che adottai per le mie lezioni: la mia esperienza potrebbe essere utile…
+
+essere utile agli altri.
+
+Non occorreva una grande attenzione per notare il carattere di…
+
+“I giovani del Brabante… ma era necessario un certo grado di delicatezza per adottarne uno.”
+
+“Misure adeguate alle loro capacità: le loro facoltà intellettive, in generale…”
+
+#Deboli, le loro inclinazioni animali forti; così, immediatamente…
+
+“Impotenza e una sorta di forza inerente nella loro natura: erano insipidi…”
+
+Ma erano anche estremamente testardi, pesanti come il piombo… e, proprio come il piombo,
+
+“La cosa più difficile da spostare… In tal caso, sarebbe stato davvero…”
+
+È assurdo pretendere da loro un grande sforzo mentale…
+
+# Memorie brevi, intelligenza elevata, capacità riflessive deboli…
+
+Si ritraeva con orrore da qualsiasi attività che richiedesse uno studio approfondito.
+
+O riflessioni profonde… Se quel sforzo odioso fosse stato estorto loro con la forza…
+
+Misure inadeguate e arbitrarie da parte di [[The Professor|il Professore]]; esse.
+
+Avrebbe resistito con la stessa ostinazione, lo stesso clamore, la stessa disperazione di un maiale…
+
+E sebbene non fossero coraggiosi individualmente, agivano con tenacia quando erano in gruppo.
+
+Ho capito che, prima del mio arrivo presso l’attività di M. Pelet,
+
+# La ribellione collettiva degli studenti ha portato alla loro espulsione
+
+#Più di un maestro inglese… Allora era necessario richiedere soltanto…
+
+La più moderata applicazione da parte di esseri naturali così poco qualificati per farlo…
+
+Aiutare, con ogni mezzo praticabile, a rendere comprensibili concetti così oscuri…
+
+#Sempre gentile, premuroso e accomodante… fino a un certo punto.
+
+Titolo:  
+Punto, con disposizioni così irrazionalmente perverse; ma, una volta raggiunto…
+
+“Quel punto culminante di indulgenza… devi fissare i tuoi passi, stabilizzarli lì.”
+
+"Radicarsi nella roccia: diventare immutabili come le torri di Ste. Gudule..."
+
+#"Un passo… ma mezzo passo in più, e ti troveresti catapultato dentro…"
+
+“Golfo dell’imbecillità: lì si trovano le prove che riceveresti in fretta…”
+
+# Di gratitudine e magnanimità fiamminghe… tra gocce di saliva del Brabante
+
+“Manciate di fango della regione paludosa… Forse potresti rendere il percorso il più liscio possibile…”
+
+Imparare significa rimuovere ogni sassolino dal sentiero… ma poi, alla fine, bisogna procedere comunque.
+
+#Insistere sulla decisione di farsi prendere il braccio dal proprio allievo e permettergli di farlo
+
+essere guidato silenziosamente lungo la preparata [[Road|strada]]. Quando avevo abbassato il mio.
+
+#"Lezione per il livello più basso della capacità del mio studente più noioso… quando io"
+
+#Un padrone tra i più gentili e tolleranti… una parola soltanto…
+
+“L’impertinenza, un atto di disobbedienza, mi cambiò all’istante…”
+
+Un despota… Allora offrii soltanto un’alternativa: la sottomissione.
+
+“Riconoscimento dell’errore… o espulsione ignominiosa. Questo sistema rispose…”
+
+#E la mia influenza, gradualmente, si stabilì su una base solida. “Il”
+
+“Il ragazzo è il padre dell’uomo”, si dice; ed è proprio ciò che spesso pensavo…
+
+Guardai i miei ragazzi e ricordai la [[history|storia]] politica del loro.
+
+Antenati. La scuola di Pelet era soltanto un esempio rappresentativo della nazione belga.
 
 
 
@@ -20485,6 +23690,184 @@ old Frenchwomen doing odd things in that line; and the gouter? They
 
 generally begin such affairs with eating and drinking, I believe.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VIII.
+
+E Pelet stesso? Come ho fatto a continuare ad apprezzarlo? Oh, estremamente bene!
+
+"Niente poteva essere più fluido, gentile e addirittura cordiale di..."
+
+Il suo comportamento verso di me… Ho dovuto sopportare da lui sia l’indifferenza che il disprezzo.
+
+Interferenze irritanti, né presunzioni arroganti di superiorità. Niente di tutto ciò.
+
+Tuttavia, c'era la [[Fear|>paura]], due poveri e laboriosi camerieri belgi di quell'istituto.
+
+Non si sarebbe potuto esprimere meglio: per loro, il modo di comportarsi del regista era proprio quello che desideravano.
+
+# Invariabilmente asciutto, severo e freddo… Credo che l’abbia percepito una o due volte.
+
+Titolo:  
+Sono rimasto un po’ sorpreso dalla differenza che ha fatto tra loro…
+
+“Me… e lo spiegò con un sorriso sarcastico e tranquillo…”
+
+“Sono solo fiamminghi… andate via!”
+
+#E poi tolse delicatamente il sigaro dalle labbra e sputò sopra la vernice…
+
+Il pavimento della stanza in cui eravamo seduti… Sicuramente erano fiamminghi.
+
+# Erano entrambi caratterizzati dalla vera fisionomia flamenca, tipica di chi possiede un’intelligenza…
+
+“L’inferiorità è evidente in tratti inequivocabili; eppure erano uomini…”
+
+# Uomini onesti, per lo più… E non riuscivo a capire perché la loro esistenza…
+
+“Il popolo indigeno di questa terra piatta e monotona dovrebbe costituire un pretesto per…”
+
+Trattarli con una severità e un disprezzo perpetui… Questa idea…
+
+L'ingiustizia ha un po' rovinato il piacere che altrimenti avrei potuto provare.
+
+Dalla gentilezza e dall’affabilità di Pelet verso di me… Certamente era piacevole.
+
+# Quando il lavoro della giornata era finito, scoprire che il proprio datore di lavoro era intelligente…
+
+Un compagno allegro e gioioso… anche se a volte poteva essere un po’ sarcastico.
+
+E a volte un po’ troppo insinuante… E se davvero lo scoprissero…
+
+La sua dolcezza era più una questione di apparenza che di realtà… se solo lo avessi capito.
+
+A volte si sospetta l’esistenza di selce o acciaio sotto un rivestimento esterno…
+
+“Copertura di velluto… eppure nessuno di noi è perfetto; e nonostante fossi stanco…”
+
+#Di quell’atmosfera di brutalità e insolenza in cui mi trovavo costantemente immerso
+
+#Viveva a X----, ma ora, con la situazione finalmente tranquilla…
+
+Regioni… per avviare immediatamente una ricerca approfondita alla ricerca di eventuali difetti.
+
+Tenuto scrupolosamente nascosto e accuratamente celato dalla mia vista… Ero disposto ad accettarlo.
+
+Credere in Pelet per ciò che sembrava essere… ritenere lui benevolo e amichevole
+
+#Fino a quando qualche evento imprevisto non dovesse dimostrare il contrario… Lui, no.
+
+#"Sposato… e presto mi resi conto che possedeva tutte le caratteristiche di un francese, di un parigino…"
+
+#Nozioni sul matrimonio e sulle donne… Sospettavo che ci fosse una certa lassità in questo ambito.
+
+Il suo codice morale… c’era qualcosa di così freddo e insensibile nel suo tono.
+
+Ogni volta che menzionava ciò che chiamava “il bel sesso”, ma lui era troppo…
+
+"#Un comportamento da gentiluomo… introdurre argomenti che non avevo richiesto; e in effetti, lui lo era davvero."
+
+# Intelligente e davvero appassionato di argomenti intellettuali…
+
+#E sempre trovavo abbastanza argomenti di cui parlare, senza dover cercare appositamente temi specifici…
+
+Mio Dio. Odiavo il suo modo di parlare dell’[[Love|amore]]; lo detestavo con tutto il mio essere.
+
+# Mera licenziosità… Percepiva la differenza tra le nostre concezioni, e…
+
+Con il consenso reciproco, abbiamo evitato dibattiti su questioni discutibili.
+
+La casa di Pelet era curata e la sua cucina gestita dalla madre, una vera.
+
+# Vecchia francese… Era stata bella: almeno così mi disse lei, e io…
+
+Cercò di crederle… Ora era brutta, come solo le vecchie donne continentali possono essere.
+
+Titolo:  
+Forse sì… ma forse il suo stile di abbigliamento la faceva sembrare ancora più brutta.
+
+“Proprio così. In casa non indossava mai il cappello; i suoi capelli grigi…”
+
+Stranamente in disordine; poi, quando era a [[Home|>casa]], raramente indossava un abito da sera – solo.
+
+Una camicia di cotone logora; anche le scarpe non le erano adatte ai piedi…
+
+# Indossava pantofole spaziose, con i tacchi consumati.
+
+D'altra parte, ogni volta che le piaceva apparire all'estero, come in quel caso…
+
+Domeniche e giorni di festa, indossava abiti dai colori molto vivaci.
+
+Un abito, solitamente di tessuto sottile, un cappello di seta decorato con un mazzo di [[Flowers|>fiori]].
+
+#E un bellissimo scialle… Nel complesso, non era una vecchia di cattivo carattere.
+
+Donna, ma una chiacchierona instancabile e assai indiscreta; parlava soprattutto…
+
+#In cucina e dintorni… sembrava proprio evitare il figlio suo “augusto”.
+
+#La sua presenza… Di lui, infatti, lei sembrava davvero intimidita. Quando lui la rimproverò…
+
+Le sue rimproveri erano duri e senza pietà; ma raramente si rimproverava lui stesso.
+
+Quel problema.
+
+Madame Pelet aveva il suo proprio circolo di persone selezionate, i suoi ospiti prediletti.
+
+“Tuttavia, la vedevo raramente, poiché di solito li intratteneva in…”.
+
+La chiamava il suo “cabinetto”: un piccolo rifugio situato accanto alla cucina.
+
+“E scendendo in esso con uno o due gradini… A proposito, questi gradini…”
+
+#Madame Pelet seduta con un piatto da portata…
+
+# La sua gamba, impegnata nella triplice attività di mangiare la cena…
+
+“Chiacchierando con la sua serva preferita, la cameriera, e rimproverandola…”
+
+L’antagonista… la cuoca: non pranzava mai, e raramente mangiava affatto.
+
+Con suo figlio; e quanto a farsi vedere al tavolo dei ragazzi… beh, quella era un’altra questione.
+
+Assolutamente fuori discussione. Questi dettagli suonerebbero molto strani in inglese.
+
+Orecchie, ma il Belgio non è l’Inghilterra, e i suoi modi non sono i nostri.
+
+Tenendo conto delle abitudini di vita della signora Pelet…
+
+Fui piuttosto sorpreso quando, una sera di [[thursday|>Giovedì]] (il [[thursday|>Giovedì]] in questione era, ),
+
+Sempre un mezzo-festivo. Mentre ero seduto tutto [[Alone|da solo]] nel mio appartamento.
+
+#Correggere un enorme mucchio di esercizi in inglese e latino… un compito noioso.
+
+Bussò alla porta e, quando questa si aprì, le presentò Madame Pelet.
+
+# Complimenti… e sarebbe felice di vedermi per il mio “pasto serale”.
+
+Un pasto che corrisponde al nostro “tè” inglese, consumato insieme a lei in sala da pranzo.
+
+“Plait-il?”, dissi, perché pensavo di aver capito male.
+
+Messaggio e invito erano così insoliti… Le stesse parole venivano ripetute più volte. Io
+
+Accettato, naturalmente… Mentre scendevo le scale, mi chiedevo cosa…
+
+Una follia aveva preso il sopravvento nella mente della vecchia signora; suo figlio era uscito… se n’era andato per sempre.
+
+Serata alla Salle de la Grande Harmonie o in qualche altro locale del genere…
+
+#Era un membro… Proprio mentre posavo la mano sulla maniglia della porta del salone da pranzo…
+
+Mentre stavo davanti alla porta, mi balenò in mente un'idea strana.
+
+“Di certo lei non inizierà una relazione d’amore con me,” dissi. “Ne ho sentito parlare, ”
+
+“Donne francesi anziane che fanno cose strane… E il dessert? Loro…”
+
+“Di solito, queste cose iniziano con mangiare e bere, credo.”
 
 
 
@@ -20671,6 +24054,190 @@ French, only laughed again.
 
 compliments at that rate, Zoraide will positively be afraid of you; but
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+In questa immaginazione eccitata, c'era un senso di terrore e disperazione.
+
+E se mi fossi concesso il [[Time|tempo]] di rifletterci sopra, non avrei alcun [[Doubt|>dubbio]].
+
+# Sono corso subito nella mia stanza e mi sono chiuso dentro a chiave
+
+“Ma quando un pericolo o un orrore sono avvolti nell’incertezza…”
+
+Il desiderio principale della mente è quello di stabilire innanzitutto la pura [[Truth|verità]].
+
+Titolo:  
+“Riservare l’opzione della fuga per il momento in cui diventerà davvero necessaria…”
+
+“L’attesa verrà soddisfatta. Girai la maniglia della porta, e…”
+
+Non appena avevo superato quel limite fatale e chiuso la porta alle mie spalle…
+
+Si trovava davanti a Madame Pelet.
+
+Cielo misericordioso… La prima volta che l’ho vista, tutto sembrava confermare le mie peggiori previsioni.
+
+Apprensioni… Lì sedeva, vestita con un abito di mussola verde chiaro.
+
+Sulla testa portava un cappello di pizzo con rosse rose fiorite sul bordo…
+
+La tavola era stata imbandita con cura: c’erano frutta, torte e caffè.
+
+“Una bottiglia di chissà cosa… Non lo sapevo nemmeno io. Già iniziavo a sudare freddo.”
+
+#Sul mio viso… già avevo lanciato uno sguardo alle mie spalle verso quella porta chiusa.
+
+# Porta… quando, con mio indescrivibile sollievo, il mio sguardo, vagando lentamente…
+
+# Direzione del camino, appoggiata su una seconda figura, seduta in un grande…
+
+Il dondolo accanto a esso… Anche questa era una donna, e per di più, una donna anziana.
+
+#E mentre Madame Pelet era grassa e rossa in viso, io ero magra e gialla; lei…
+
+Anche l’abbigliamento era molto elegante; inoltre, c'erano[[Spring|primavera]] e[[Flowers|>fiori]] di svariati colori.
+
+La [[Crown|corona]] di velluto viola era circondata da un brillante ghirlando.
+
+cappello.
+
+Avevo solo un po’ di [[Time|tempo]] per fare queste osservazioni generali quando Madame Pelet.
+
+Presentando ciò che intendeva fosse qualcosa di elegante e flessibile…
+
+“Step… così mi si avvicinò.”
+
+“Monsieur è davvero molto gentile nel mettere da parte i suoi libri e i suoi studi, al…”
+
+#La richiesta di una persona insignificante come me… completerà Monsieur il suo compito?
+
+# Gentilezza: avermi permesso di presentarlo alla mia cara amica Madame Reuter
+
+Chi abita nella casa vicina, la scuola per giovani signorine.
+
+“Ah!”, pensai, “Sapevo che era anziana, ”, quindi mi inchinai e tornai al mio posto.
+
+Madame Reuter si sedette al tavolo di fronte a me.
+
+“Come le piace il Belgio, signore?”, chiese lei con un accento particolare…
+
+I più autentici abitanti di Bruxelles. Ora riuscivo a distinguere chiaramente la differenza tra loro.
+
+Ad esempio, il purissimo e raffinato modo di parlare parigino del signor Pelet…
+
+La pronuncia gutturale dei fiamminghi… Risposi educatamente, e poi…
+
+Mi chiedevo come una donna anziana così ruvida e goffa come quella davanti a me…
+
+# Dovrebbe dirigere un seminario per signore, di cui avevo sempre sentito parlare…
+
+Parlato con grandi lodi. In [[Truth|verità]], c'era qualcosa.
+
+Da [[Wonder|stupore]]. Madame Reuter sembrava più una vecchia donna allegra e libera nel suo modo di vivere.
+
+Un contadino fiammingo, o addirittura una locandiera, piuttosto che un uomo serio e [[Grave|serio]].
+
+Direttrice rigida di un collegio… In generale, il tipo tipico del continente, o almeno così si potrebbe dire.
+
+# Le anziane belghe si concedono alcune libertà nel comportamento e nel modo di parlare
+
+# Aspetto e caratteristiche che farebbero certamente ritrarre le nostre rispettabili nonne…
+
+# Assolutamente disonorevole… e il viso sorridente di Madame Reuter ne era la prova evidente
+
+#Non era un’eccezione alla regola del suo paese; esisteva una…
+
+“Scintilla e luccichio nel suo occhio sinistro; il destro, invece, lo teneva abitualmente semi-…“
+
+“Chiuso… il che mi sembrò davvero molto strano. Dopo diversi tentativi falliti…”
+
+Comprendere i motivi di queste due strane vecchie creature nel invitarmi…
+
+# Alla fine ho rinunciato del tutto e mi sono arreso.
+
+Rimasto preda di un’inevitabile [[Mystification|mistero]], mi sedetti e osservai prima l’uno, poi l’altro.
+
+Dall’altra parte, facendo attenzione nel frattempo a rendere giustizia alle conserve…
+
+Cotti e caffè: mi hanno fornito abbondantemente di entrambi. Anche loro hanno mangiato.
+
+#E senza alcun appetito particolare… dopo aver divorato una grande quantità di cibo…
+
+“Una piccola porzione di solidi… proposero un ‘petit verre’. Rifiutai.”
+
+“Così le signore Pelet e Reuter: ognuna si mescolò… beh, secondo me in modo piuttosto strano.”
+
+“Una robusta coppa di punch, posizionata su un supporto vicino al camino…”
+
+Avvicinarono le loro sedie per facilitare la conversazione e mi invitarono a fare lo stesso.
+
+Obbedii; e una volta seduto tra loro, mi fu rivolto il seguente discorso…
+
+Prima da Madame Pelet, poi da Madame Reuter.
+
+“Ora parleremo di affari”, disse Madame Pelet, e proseguì…
+
+Tenere un discorso elaborato, il cui contenuto, una volta interpretato, aveva questo significato…
+
+Titolo:  
+Che quella sera aveva chiesto il piacere della mia compagnia…
+
+# Ordine di dare alla sua amica Madame Reuter l’opportunità di affrontare la questione
+
+Una proposta importante, che potrebbe rivelarsi molto vantaggiosa per me.
+
+“Speriamo che siate saggio,” disse Madame Reuter, “e a dire il vero…”
+
+“Sembrate proprio il tipo adatto… Provate una goccia di questo punch.”
+
+“Lo si pronuncia così; è una bevanda piacevole e salutare da consumare dopo un pasto abbondante.”
+
+“Pasto.”
+
+#Rifiutai ancora una volta. Lei continuò…
+
+“Mi sento…”, disse lei dopo aver bevuto con solennità, “mi sento profondamente…”
+
+L'importanza della commissione affidatami dalla mia cara figlia
+
+#Me, poiché come sapete, signore, è mia figlia a dirigere…
+
+“Un insediamento nella prossima [[house|>casa]]?”
+
+“Ah! Pensavo fosse lei, signora… Anche se, in realtà, in quel momento…”
+
+Mi ricordai che si chiamava Mademoiselle, e non Madame Reuter…
+
+convitto.
+
+“Ah! No. Io gestisco la [[house|casa]] e mi prendo cura dei servitori, proprio come fa mio amico, ”
+
+Madame Pelet fa per il signor suo figlio… nient’altro. Ah! Pensavate che io…
+
+“Insegnava durante le lezioni… vero?”
+
+E rise in una risata forte e lunga, come se quell’idea le fosse piaciuta molto.
+
+In modo sorprendente.
+
+“Madame ha torto a ridere”, osservai; “se non smette…”
+
+“Lezioni… Sicuramente non è perché non sia in grado di farlo…” e così ho tirato fuori…
+
+# Bianco fazzoletto da tasca e lo agitai con grazia francese, davanti a me…
+
+Naso, che si inchinava nello stesso [[Time|momento]].
+
+“Quel delizioso giovane uomo, ” mormorò Madame Pelet a bassa voce.
+
+Madame Reuter, essendo meno sentimentale – essendo infatti fiamminga e non…
+
+Il francese rise di nuovo.
+
+“Sei una persona pericolosa, ne ho paura,” disse lei; “se sei in grado di falsificare, ”
+
+“Con que complimenti… Zoraide finirà davvero per aver paura di te!”
 
 
 
@@ -21581,6 +25148,196 @@ somewhat too low I murmured--
 
 Not so had I bid the boys at Pelet’s take their reading-books. A
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO X.
+
+Il giorno seguente, le ore mattutine sembravano trascorrere molto lentamente a casa del signor Pelet…
+
+Volevo che arrivasse il pomeriggio, così da poter andare di nuovo dal vicino…
+
+Scuola femminile e darò la mia prima lezione in quei piacevoli ambienti…
+
+Mi sembravano piacevoli. Alle [[Noon|mattine]], l’ora del riposo arrivò.
+
+Alle undici in punto abbiamo pranzato; è arrivata l’ora giusta, e finalmente, la chiesa di Santa Gudula.
+
+“Un profondo suono di campana, che risuonava lentamente due volte, segnò il momento per cui avevo atteso…”
+
+Aspettando.
+
+Alla base delle strette scale posteriori che conducevano dalla mia stanza, mi imbattei…
+
+Il signor Pelet.
+
+“Sembrate così radiosa!”, disse lui. “Non vi ho mai vista in questo stato.”
+
+“Anche loro felici… Ma cosa è successo?”
+
+“A quanto pare mi piacciono i cambiamenti,” risposi io.
+
+“Ah! capisco… è proprio questo… sia solo saggio. Tu sei davvero…”
+
+giovane… troppo giovane per il ruolo che andrai a interpretare; bisogna scegliere qualcuno più adatto
+
+“Garde… lo sai?”
+
+“Ma quale pericolo c’è?”
+
+"Non ne so nulla... non lasciatevi prendere da emozioni intense."
+
+“Impressioni… ecco tutto.”
+
+Risi: una sensazione di estrema piacere attraversò ogni parte di me.
+
+La possibilità che venissero create “impressioni vivide”.
+
+La monotonia, la ripetitività delle attività quotidiane della vita che fino ad allora…
+
+“È stata la mia rovina… I miei ‘alunni’ vestiti di bluse nel seminario maschile…”
+
+# Ha suscitato in me alcune impressioni vivide, anche se talvolta solo occasionalmente…
+
+“Un po’ di rabbia… Mi allontanai da M. Pelet e, camminando lungo il corridoio…”
+
+Mi seguì con una delle sue risate… molto francesi, disinvolte, sarcastiche.
+
+Suono.
+
+Di nuovo mi trovai davanti alla porta adiacente, e presto fui riammesso all’interno.
+
+Il corridoio allegra, con le sue pareti in marmo color pesco chiaramente imitate.
+
+Seguii la cameriera; scendendo un gradino e svoltando, mi…
+
+Mi ritrovai in una sorta di corridoio; si aprì una porta laterale, la signorina Reuter…
+
+# Una piccola figura, graziosa nonostante fosse un po’ paffuta, apparve… Ora riuscivo a vederla chiaramente.
+
+Il suo abito, sotto la luce del giorno: un semplice e grazioso vestito di mussolina e lana, ben confezionato.
+
+La sua forma compatta e rotonda raggiunge la perfezione: un delicato colletto…
+
+Titolo:  
+Maniche di pizzo e delicati stivali parigini rivelavano il suo collo e i suoi polsi…
+
+E piedi, un vantaggio decisivo; ma quanto [[Grave|serio]] era il suo viso mentre lei.
+
+Mi colpì all’improvviso! Nel suo sguardo c’erano preoccupazione e impegni…
+
+Fronte corrugata; sembrava quasi severa. Il suo “Buongiorno, signore” suonò piuttosto…
+
+# Ordinato e banale… fino al punto di trasmettere una sensazione di freddo e monotonia.
+
+“Towel over my ‘vives impressions’… Il servitore tornò indietro quando lei…”
+
+La padrona di casa apparve e io camminai lentamente lungo il corridoio, fianco a fianco con lei.
+
+con la signorina Reuter.
+
+“Oggi il signore terrà una lezione nella prima classe”, disse lei.
+
+“La dattilografia o la lettura potrebbero essere le migliori opzioni per iniziare…”
+
+“Queste sono le forme più semplici per trasmettere istruzioni in una lingua straniera.”
+
+# Linguaggio; e, inizialmente, un maestro naturalmente prova una certa…
+
+“Instabile”.
+
+Aveva assolutamente ragione, come avevo scoperto personalmente attraverso l’esperienza; non restava altro da fare…
+
+Affinché io acconsentissi. Proseguimmo ora in [[Silence|silenzio]]. Il corridoio.
+
+Terminato in una sala grande, maestosa e quadrata; con una porta di vetro su un lato.
+
+# Mostrato all’interno di un lungo e stretto refettorio, con tavoli, un armadio e…
+
+Due lampade; era vuoto; grandi porte di vetro, davanti, si aprivano su…
+
+Il parco giochi e il [[Garden|giardino]]; una larga scalinata saliva in spirale lungo.
+
+Lato opposto; il muro rimanente presentava una coppia di grandi porte pieghevoli.
+
+Ora chiuso, e senza dubbio aperto alle classi.
+
+# Signorina Reuter mi lanciò uno sguardo di lato, probabilmente per verificare qualcosa…
+
+Se fossi stato abbastanza composto per essere ammesso nel suo santuario più segreto.
+
+Suppongo che abbia ritenuto che fossi in uno stato tollerabile di [[Self|autosufficienza]] e [[government|autocontrollo]].
+
+“Perché aprì la porta e io la seguii all’interno… Un suono fruscante…”
+
+Un’insurrezione ci accolse non appena entrammo; senza guardare a destra né a sinistra, io…
+
+# Camminò dritto lungo la corsia tra due file di banchi e scrivanie
+
+#E prese possesso della sedia vuota e del tavolo isolato posizionati su…
+
+Titolo:  
+“Due gradini più alti, per comandare un intero reggimento… l’altro.”
+
+La divisione era sotto la sorveglianza di una padrona altrettanto influente.
+
+Alla fine della processione, attaccato a una parete divisoria mobile
+
+# Una grande tela separava questa aula da un’altra al di là…
+
+Legno dipinto di nero e lucidato; c'era un grosso pezzo di [[chalk|gesso]] bianco sopra.
+
+#Il mio tavolo da lavoro: per facilitare la spiegazione di qualsiasi aspetto grammaticale o verbale
+
+# Oscurità che potrebbe sorgere nelle mie lezioni scrivendola su…
+
+Un quadro. Accanto alla [[chalk|gesso]] apparve una spugna umida, per permettermi di cancellare.
+
+Le tracce rimasero lì, dopo aver svolto lo scopo per cui erano state create.
+
+# Con attenzione e deliberazione ho effettuato queste osservazioni prima di procedere.
+
+“Mi sono permesso di dare un’occhiata ai banchi davanti a me… dopo averli esaminati attentamente.”
+
+# Crayon, guardò indietro la scena, accarezzò la spugna…
+
+“Per verificare che fosse nella giusta umidità, mi resi conto di essere calmo…”
+
+A sufficienza per poter alzare lo sguardo con calma e osservare attentamente ciò che mi circonda.
+
+# E prima di tutto notai che la signorina Reuter se n’era già andata…
+
+Non era visibile da nessuna parte; una maestra o un’insegnante, quella che occupava quel ruolo…
+
+Le strade corrispondenti alle mie, [[Alone|da solo]], rimasero a vegliare su di me.
+
+# Era un po’ nell’ombra… e, a causa della mia miopia, riuscivo a vederla solo vagamente.
+
+“Vedeva che aveva una corporatura snella e ossuta, con una pelle piuttosto untuosa.”
+
+E il suo atteggiamento, mentre sedeva, rifletteva sia apatia che…
+
+Affermazione. Più evidente, più marcata, risplendeva sotto la luce piena…
+
+La grande [[Window|finestra]]; i passeggeri seduti sui banchi proprio davanti a me.
+
+Alcune erano ragazze di quattordici, quindici, sedici anni; altre giovani donne.
+
+Dai diciotto (come mi sembrava) ai venti… i più umili.
+
+L'acconciatura, il modo più semplice di pettinare i capelli, era evidente in tutti.
+
+# Visi rossi e sani, carnagioni luminose, grandi e splendenti
+
+# Occhi pieni di forma, quasi solidi… sembravano essercene in abbondanza. Non riuscivo a sopportarli.
+
+#La prima vista… come uno stoico: fui abbagliato, i miei occhi si chiusero… e con una voce…
+
+“Un po’ troppo basso…”, mormorai.
+
+“Prendete i vostri quaderni di dictato, signorine.”
+
+“Non è così che ho detto ai ragazzi di Pelet di prendere i loro libri di lettura…”
 
 
 
@@ -22728,6 +26485,381 @@ lettres to his pupils. He did not wait for my answer, but rising, left
 
 the room, humming as he went some gay strain of Beranger’s.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XI.
+
+Avevo davvero avuto una lunga conversazione con quel astuto piccolo politico…
+
+# Tornato nelle mie stanze, scoprii che la cena era già a metà terminata… Essere in ritardo…
+
+Durante i pasti, tale comportamento era contrario alle regole stabilite dall’istituto… e così doveva essere.
+
+# Uno dei camerieri fiamminghi che entrarono dopo la rimozione…
+
+#Zuppa e l’inizio del primo piatto… probabilmente il signor Pelet avrebbe detto così
+
+Lo hanno accolto con una pubblica rimprovera e sicuramente avrebbero preteso un risarcimento.
+
+Gli diede sia zuppa che pesce; dopotutto, era una persona gentile, anche se un po’ parziale…
+
+Il gentiluomo scosse semplicemente la testa; mentre mi sistemavo al mio posto, lui aprì quello che aveva con sé.
+
+“Fazzoletto… e poi disse qualcosa di assurdo riguardo a sé stesso; dopodiché si congedò in modo educato.”
+
+"#Servitore della cucina, portami un piatto di ‘purè di carote’."
+
+(#Un giorno di magra…) E prima ancora di servire il primo piatto…
+
+Mi fu riservata una porzione del pesce in scatola di cui era composto.
+
+Dopo aver finito di cenare, i ragazzi corsero fuori per giocare la sera; Kint e…
+
+Naturalmente, Vandam e gli altri due camerieri li seguirono. Poveri di loro…
+
+Non sembrava affatto così pesante, così privo di anima, così indifferente…
+
+“Tutte le cose, sia nel cielo sopra di noi che sulla terra sotto di noi, avrebbero potuto suscitare la mia compassione…”
+
+Li ringrazio molto per l’obbligo che avevano di seguirli.
+
+“Rudi ragazzi ovunque e in ogni momento… Anche così, mi sentivo incline…”
+
+#Un privilegiato presuntuoso… quando cercai di salire più in alto
+
+#Cameretta… Lì sicuramente si troverà, se non divertimento, almeno libertà.
+
+#Stasera sera… (come era già accaduto molte volte in passato), avrei dovuto andare ancora più lontano.
+
+distinto.
+
+“Ebbene, un cattivo soggetto!” disse la voce di Monsieur Pelet dietro di me, mentre io…
+
+“Appena ho messo il primo piede sul gradino… ‘Andate via? Venite qui.’”
+
+“Sala da pranzo… vi rimprovero un po’.”
+
+“Mi scusi, signore,” dissi seguendolo nella sua stanza privata.
+
+#Salotto: “Per essere tornato così tardi… non è stata colpa mia.”
+
+“Ecco esattamente quello che voglio sapere”, riprese il signor Pelet, mentre mi accompagnava…
+
+Nella confortevole sala, con un bel fuoco di legna, perché il camino aveva.
+
+#Rimosso per la stagione… Dopo aver suonato il campanello, ordinò: “Caffè”.
+
+“Per due”, e poco dopo ci trovammo seduti, quasi nel massimo comfort… all’inglese.
+
+# Uno su ciascun lato del focolare, un piccolo tavolo rotondo tra di noi…
+
+Una caffettiera, un vaso per lo zucchero e due grandi tazze di porcellana bianca. Mentre…
+
+# M. Pelet si dedicava alla scelta di un sigaro da una scatola… i miei pensieri
+
+Ritornato ai due uscieri esclusi, le cui voci riesco ancora ad udire oggi.
+
+Gridavo con voce rauca chiedendo ordine nel parco giochi.
+
+“La sorveglianza rappresenta una grande responsabilità,” osservò I.
+
+“Dovrei intrecciarlo?” chiese il signor Pelet.
+
+Ho osservato che probabilmente i signori Vandam e Kint a volte debbano…
+
+Poco stanchi a causa dei loro sforzi.
+
+“Bestie da denaro… bestie da denaro,” mormorò con disprezzo.
+
+Direttore. Nel frattempo, gli offrii la sua tazza di caffè.
+
+“Serviti pure, ragazzo mio,” disse lui con indifferenza, quando avevo messo da parte un paio di…
+
+“Metti enormi quantità di zucchero nel tuo caffè… E ora dimmi perché.”
+
+Sono rimasto troppo a lungo da Madame Reuter… So che le lezioni finiscono, lì.
+
+Un istituto come il mio, alle quattro di [[Clock|ore]]. E quando tu lo hai restituito.
+
+“Oltre le cinque.”
+
+“La signorina desidera parlarmi, signore.”
+
+“Certamente! Su quale argomento, si può chiedere…”
+
+“La signorina non ha parlato di nulla, signore.”
+
+“Un argomento interessante… E ne ha parlato in aula?”
+
+“Prima degli studenti?”
+
+“No; proprio come lei ha fatto con voi, signore, mi ha chiesto di entrare nel suo salotto.”
+
+“E Madame Reuter… quella vecchia dama di compagnia… la pettegola di mia madre… era lì, insomma.”
+
+“Corso?”
+
+“No, signore; ho avuto l’[[Honour|onore]] di trovarmi completamente [[Alone|da solo]] con la signorina.”
+
+“È bello… davvero”, osservò il signor Pelet, sorridendo e guardando dentro…
+
+[[Fire|fuoco]].
+
+“Onore a chi ci pensa male,” mormorai, con significato.
+
+“Conosco abbastanza bene la mia piccola vicina… capite?”
+
+"In quel caso, monsieur potrà aiutarmi a scoprire cosa sia successo."
+
+Il motivo per cui la signorina mi ha fatto sedere davanti al suo divano per un’ora intera…
+
+# Ascoltando la dissertazione più lunga e fluente sul tema più banale…
+
+“Frivolezze”.
+
+# Lei stava interpretando il tuo personaggio.
+
+“Già pensavo che fosse così, signore.”
+
+“Ha scoperto il tuo punto debole?”
+
+# Qual è il mio punto debole?
+
+“Che sentimentale… Qualsiasi donna che si impegni abbastanza a fondo, riuscirà…”
+
+Finalmente, nel tuo petto si trova una fonte inesauribile di sensibilità.
+
+“Crimsworth”.
+
+Sentii il sangue agitarsi nel mio cuore e scaldarmi le guance.
+
+“Alcune donne potrebbero farlo, signore.”
+
+“È la signorina Reuter il numero che cerchi? Vieni, parla francamente, figliolo… lei è…”
+
+Ancora giovane… più anziana di te forse, ma pronta ad unire le nostre forze.
+
+#La tenerezza di una piccola mamma e l’amore di una moglie devota… non è forse questo ciò che conta davvero?
+
+“Non è che questo ti interesserebbe in qualche modo particolare?”
+
+"No, signore; vorrei che mia moglie fosse davvero mia moglie, e non solo metà di me..."
+
+“Madre”.
+
+“Quindi è un po’ troppo vecchia per te?”
+
+“No, signore: non è affatto troppo vecchia, se per il resto mi soddisfa.”
+
+“Cosa non ti piace di lei, William? È davvero una persona gradevole…”
+
+“Non è così, vero?”
+
+“Molto; i suoi capelli e il suo incarnato sono esattamente ciò che ammiro; inoltre, il modo in cui si comporta…”
+
+“La forma, sebbene decisamente belga, è piena di grazia.”
+
+“Bravo! E il suo viso? I suoi tratti? Come vi sembrano?”
+
+“Un po’ troppo dura, soprattutto la sua bocca…”
+
+“Ah, sì… la sua bocca,” disse il signor Pelet, ridacchiando tra sé. “C’è…”
+
+# Un sorriso piacevole… e una determinazione evidente nel modo in cui parla.
+
+“Non pensi anche tu?”
+
+“Abbastanza astuto.”
+
+“Vero, ma quell’espressione di abilità artistica è dovuta soprattutto alle sue sopracciglia… L’hai notato?”
+
+“Ha notato le sue sopracciglia?”
+
+Ho risposto che non l’avevo fatto.
+
+“Quindi non l’hai vista mentre guardava giù?” disse lui.
+
+“No.”
+
+“È davvero un piacere, nonostante tutto… Guardatela quando lavora a maglia.”
+
+# Con un lavoro altrui tra le mani, lei incarna l’immagine della pace… con calma.
+
+# Concentrata sulle sue aguglie e sulla seta, mentre intorno si svolgeva una qualche discussione…
+
+Intorno a lei, nel corso del quale vengono evidenziate alcune particolarità del suo carattere…
+
+Interessi sviluppati o rilevanti vengono esaminati, ma lei non vi partecipa.
+
+Il suo umile e femminile spirito è completamente dedicato al suo lavoro a maglia; nulla altro le interessa…
+
+# Movimenti del viso: né si permette di sorridere in segno di approvazione, né di aggrottare la fronte
+
+# Disapprovazione: le sue piccole mani si muovono con diligenza, senza alcuna pretesa…
+
+Titolo:  
+Se solo riuscisse a completare questa borsa… o questo cappello greco…
+
+Completato… È sufficiente per lei. Se i signori si avvicinano alla sua sedia…
+
+Una quiete più profonda; una umiltà e un rispetto maggiore si riflettono nei suoi tratti e nel suo modo di vestirsi.
+
+# Il suo atteggiamento generale… Osservate poi le sue sopracciglia, e ditemi se non c’è nulla di particolare in esse…
+
+“Il gatto in uno e il lupo nell’altro.”
+
+“Prenderò attentamente in considerazione la prima opportunità che si presenterà,” dissi.
+
+“E poi,” continuò il signor Pelet, “la palpebra batterà…”.
+
+“Le ciglia di colore chiaro si sollevano per un istante, e uno sguardo blu appare…”
+
+#Dall’altra parte dello schermo, effettuerà la sua rapida, astuta e attenta ispezione…
+
+“Ritirarsi di nuovo.”
+
+Risi anch'io, così fece anche Pelet; dopo alcuni minuti di [[Silence|silenzio]], chiesi:
+
+“Pensi che si sposerà mai?”
+
+“Sposarsi! Le [[Birds|uccelline]] si accoppiano forse? Certo che sia sia sua intenzione sia, ”.
+
+# Risoluzione di sposarsi non appena troverà un partner adatto… e nessun altro.
+
+Più consapevole di quanto non creda lei stessa dell’impressione che è in grado di suscitare…
+
+#"Nessuno ama di più incantare in modo silenzioso… Io lo faccio."
+
+# Un errore se non lascia ancora traccia dei suoi passi furtivi…
+
+“Il tuo cuore, Crimsworth…”
+
+“Dei suoi passi? Mio Dio, no! Il mio cuore non è un pezzo di legno su cui qualcuno possa camminare…”
+
+on.”
+
+“Ma una leggera carezza con un panno morbido non gli farà del male.”
+
+#Nessuna dolcezza da parte sua; è solo formalità e riservatezza…
+
+me.”
+
+“Prima di tutto: che il rispetto sia la base, l’affetto il primo passo.”
+
+Il pavimento, ammiro la sovrastruttura; la signorina Reuter è un’architetta molto abile.
+
+“E l’interesse, signor Pelet… L’interesse. Non penserà forse la signorina…”
+
+“Punto?”
+
+“Sì, sì, senza alcun [[Doubt|dubbio]]; sarà il legame che unirà tutte le parti. E ora, ”
+
+# E i ragazzi? Non ci sono novità su di loro?
+
+“Belle ricerche tra queste giovani menti…”
+
+“Studi sui caratteri? Sì… almeno curiosi, immagino; ma uno…”
+
+“Non si può trarre molte informazioni da un primo colloquio.”
+
+“Ah, fai finta di essere discreto… Ma dimmi: non eri forse un po’…”
+
+“Imbarazzato di fronte a queste giovani creature così vivaci e attraenti?”
+
+“All’inizio sì, ma mi sono ripreso e ho portato a termine tutto con la dovuta calma.”
+
+“Non ti credo.”
+
+“È vero, nonostante tutto… All’inizio pensavo che fossero angeli, ma…”
+
+Non mi lasciò credere in quell’illusione per molto tempo: tre dei più anziani…
+
+“L’uomo più gentile si incaricò di sistemare le cose per me, e ci riuscì.”
+
+“Così abilmente che in cinque minuti li conoscevo già, almeno per ciò che erano…”
+
+“Tre audaci civette…”
+
+“Le conosco bene!”, esclamò il signor Pelet. “Sono sempre al primo posto…”
+
+“Suonava alle chiese e lungo i viali; una bionda stupenda, una bella…”
+
+“Spiega, una bella bruna…”
+
+“Esattamente.”
+
+“Creaturi adorabili… ideali per gli artisti; che gruppo meraviglioso.”
+
+Titolo:  
+Se messi insieme… Eulalie (so i loro nomi), con lei…
+
+# Capelli lisci e intrecciati, sopracciglia calme e dorate… Hortense, con i suoi ricchi capelli castani…
+
+Titolo:  
+Legami così intricati, intrecciati e contorti… come se lei stessa non ne conoscesse la ragione.
+
+# Come disfarsi di tutta quella abbondanza… con le sue labbra vermiglie e il suo abito di damasco
+
+# Occhio malizioso e riso birichino… E Caroline de Blemont! Ah, che figura…
+
+[[Beauty|bellezza]]! Una bellezza assoluta. Che cascata di riccioli neri intorno al viso.
+
+“Di una hurì… Che labbra affascinanti… Quegli occhi neri meravigliosi… Il tuo Byron…”
+
+#L’avreste adorata tutti, e tu… tu freddo, gelido isolano… tu!
+
+Intitolato: “Recitare il ruolo dell’austero, del insensibile di fronte a un’Afrodite…”
+
+“Raffinato?”
+
+#Avrei potuto ridere dell’entusiasmo del regista se ci avessi creduto
+
+# È vero, ma c’era qualcosa nel suo tono che indicava… una certa affettazione.
+
+# Estasi… Pensavo che fingesse quell’entusiasmo soltanto per distrarmi.
+
+“Guarda… per indurmi ad uscire a mia volta… quindi quasi non sorrisi nemmeno.” Lui
+
+Continuò…
+
+“Confessa, William. Non ti sembrano forse attraenti anche solo gli aspetti esteriori di [[Zoraide Reuter]]?”
+
+Rispetto ai meravigliosi fascini di alcuni… poco elegante e banale.
+
+“Gli alunni di lei?”
+
+Il problema mi ha sconvolto, ma ora sono certo che la mia principale…
+
+Stava cercando di farlo (per motivi solo a lui noti, in quel [[Time|momento]] io, )
+
+#Non riuscivo a comprenderli…) per suscitare idee e desideri nella mia mente che erano completamente estranei a…
+
+# Quello che era giusto e onorevole… La malvagità di chi ha incitato a tale comportamento fu evidente.
+
+“La sua antidoto…”, e poi aggiunse:–
+
+“Ognuna di quelle tre bellissime ragazze erediterà una considerevole fortuna; e…”
+
+Con un tocco di gentilezza e intelligenza… un giovane signore davvero nobile.
+
+Potresti prendere il controllo della mano, del cuore e del portafoglio di chiunque tu voglia.
+
+“Del trio.”
+
+Risposi con uno sguardo e un “Monsieur?”, che lo sorprese.
+
+Rise una risata forzata, sostenendo di aver scherzato soltanto…
+
+Chiese se potessi davvero aver pensato che parlasse seriamente. Proprio in quel momento…
+
+La campanella suonò; l’ora dello spettacolo era finita; era una serata in cui il signor.
+
+Pelet era abituata a leggere passaggi dal dramma e dalle opere letterarie.
+
+Lettere ai suoi discepoli. Non attese la mia risposta, ma si alzò e se ne andò.
+
+La stanza riecheggiava del suono allegro di una melodia di Beranger mentre lui camminava.
 
 
 
@@ -23959,6 +28091,187 @@ breezeless. My [[Window|window]] looked directly down upon a certain walk of Mdl
 Reuter’s [[Garden|garden]], called “l’allee defendue,” so named because the pupils
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Una scogliera liscia e nuda, priva sia di rocce sporgenti che di qualsiasi altro ostacolo
+
+# Nessuna radice d'albero, né un ciuffo d’erba che possa aiutare chi cerca di salire… Ora lei lusinga…
+
+Con estrema delicatezza, ora mi dava lezioni di morale, ora cercava di capire fino a che punto fossi arrivato…
+
+#Accessibile ai motivi mercenari… allora si comportò in modo indecoroso sul bordo del…
+
+#Affetto: sapendo che alcuni uomini si conquistano con la debolezza… allora parlò.
+
+Un ottimo senso della realtà, consapevole che altri hanno la follia di ammirare ciò che è semplicemente buon giudizio.
+
+Mi sembrò subito piacevole e facile evitare tutti questi sforzi…
+
+“Dolce… quando pensava che stessi per vincere, si è girata e mi ha sorriso…”
+
+“I suoi stessi occhi, a volte pieni di disprezzo… e poi il modo in cui mostrava apertamente i propri sentimenti…”
+
+# Una silenziosa umiliazione… Ma lei continuò, e alla fine…
+
+Per essere onesta, il suo dito… cercava di dimostrare, di verificare ogni singola parte di quel “cassetto”.
+
+Toccò la sua segreta [[Spring|>sorgente]], e per un momento il coperchio si aprì; lei.
+
+Posò la sua mano sul [[Jewel|>jewello]] che si trovava all’interno; non si sa se lo abbia rubato e rotto, o.
+
+“Se il coperchio si chiuderà di nuovo con un clic… continua a leggere, e poi…”
+
+Lo scoprirà.
+
+# Mi capitò un giorno di dover tenere una lezione, ma non mi sentivo bene…
+
+# Una terribile raffreddatura e la tosse… due ore di conversazione ininterrotta mi hanno lasciato davvero esausto
+
+“Rauco e stanco… Mentre lasciavo l’aula scolastica e proseguivo lungo il corridoio…”
+
+Nel corridoio, incontrai la signorina Reuter; lei osservò, con un tono ansioso, che…
+
+“Sembravo molto pallido e stanco”, dissi. “Sì”, aggiunsi, “ero davvero esausto”.
+
+Con crescente interesse, lei riprese: “Non te ne andrai finché non…”
+
+“Avete potuto riposarvi un po’”, mi disse, convincendomi ad entrare nel salotto.
+
+Era molto gentile e premurosa mentre soggiornavo lì. Il giorno dopo fu ancora più gentile.
+
+# Ancora… lei stessa entrò in aula per controllare che le finestre fossero chiuse.
+
+Chiuso, e senza correnti d’aria; mi esortò con gentilezza…
+
+# Serietà nel non esagerare con gli sforzi; quando me ne andai, lei mi diede…
+
+#La sua mano, offerta senza essere chiesta… e io non potei fare altro che accettarla con rispetto e dolcezza.
+
+#Pressione… Ero consapevole di questo favore e ne ero grato.
+
+Una modesta dimostrazione le fece apparire un leggero sorriso sul viso.
+
+# Pensavo che fosse quasi affascinante… Per il resto della serata, io…
+
+Il cuore era pieno di impazienza in attesa che arrivasse il pomeriggio del giorno seguente.
+
+Per poterla rivedere ancora.
+
+Non sono rimasto deluso, perché è rimasta in aula per tutta la durata della mia…
+
+“Lezione successiva… e spesso mi guardava quasi con affetto. A quattro anni…”
+
+Quell’[[Clock|orologio]] mi accompagnò fuori dall’aula scolastica, chiedendo con premura.
+
+“Dopo avermi chiesto di prendersi cura della mia salute, mi rimproverava dolcemente perché parlavo troppo ad alta voce…”
+
+Mi sono creato troppi problemi… Mi sono fermato davanti alla porta di vetro che conduceva dentro…
+
+Il [[Garden|giardino]], per ascoltare fino alla fine il suo discorso; la porta era aperta.
+
+“Una bellissima giornata… Mentre ascoltavo quelle parole rassicuranti, guardavo intorno…”
+
+Sotto il sole e tra i [[Flowers|>fiori]], si sentiva molto felice. Gli studenti che frequentavano le lezioni diurne iniziarono.
+
+Perfluire dalle aule scolastiche nel corridoio.
+
+“Vorresti andare nel [[Garden|giardino]] per un minuto o due?” chiese lei, “finché non, ”
+
+“Se n’è andato?”
+
+Scesi le scale senza rispondere, ma mi voltai indietro più volte…
+
+# Dì, davvero…
+
+“Verrai con me?”
+
+# In un minuto, io e la direttrice camminavamo fianco a fianco lungo…
+
+#Il vicolo delimitato da alberi di frutto, i cui fiori bianchi erano appena sbocciati
+
+Un colpo deciso, proprio come le loro tenere foglie verdi. Il cielo era blu.
+
+L’aria era immobile; quel pomeriggio di maggio era pieno di luce e profumi.
+
+Liberato dall’atmosfera soffocante della classe, circondato da [[Flowers|>fiori]] e foglie,
+
+Con una donna piacevole, sorridente e affabile al mio fianco… come mi sentivo? Beh…
+
+In modo davvero invidiabile. Sembrava che le visioni romantiche create dalla mia [[Imagination|immaginazione]] si stessero realmente realizzando.
+
+Si faceva riferimento a questo [[Garden|giardino]], anche se ancora nascosto da me a causa della gelosia.
+
+Le aspettative furono ampiamente soddisfatte; e quando una svolta nel vicolo le nascose completamente…
+
+La vista della [[house|casa]] era ostacolata da alcuni cespugli alti, il che impediva a M. Pelet di godersela appieno.
+
+#Casa padronale, che per un momento ci nascose dalle altre abitazioni…
+
+“Intorno a questo spazio verde, a forma di anfiteatro, porsi il braccio alla signorina Reuter.”
+
+E la portò su una sedia da giardino, posizionata sotto alcuni lillà vicini; lei si sedette.
+
+#Giù; mi misi al suo fianco. Continuò a parlarmi con quel tono…
+
+Titolo:  
+Un’aria di serenità che trasmette tranquillità… E mentre ascoltavo, una rivelazione mi si fece strada nella mente.
+
+Nella mia mente, mi sembrava di essere sull’orlo di innamorarmi. Il campanello della cena.
+
+Suonò il campanello, sia a casa sua che da parte di M. Pelet; fummo costretti a separarci; io.
+
+La trattenne un momento mentre si allontanava.
+
+“Voglio qualcosa,” dissi.
+
+“Cosa?”, chiese ingenuamente Zoraide.
+
+Solo un fiore.
+
+"Raccoglilo allora... o due, o venti, se vuoi."
+
+"Nessuno altro può farlo… Devi raccoglierlo e darmelo tu."
+
+“Che capriccio!” esclamò, ma si alzò in punta di piedi.
+
+E, prendendo un bellissimo ramo di lilla, me lo offrì con grazia.
+
+L'ho preso e me ne sono andato, soddisfatto per il momento, e pieno di speranza per il futuro.
+
+futuro.
+
+Certo, quel 1° maggio fu davvero una giornata meravigliosa… e si concluse sotto la luce della luna.
+
+Una [[Summer|notte]] d'estate, calda e serena. Me ne ricordo bene; infatti, ho vissuto quell’esperienza.
+
+#Rimase sveglio fino a tardi quella sera, correggendo i compiti e sentendosi stanco…
+
+“Un po’ soffocato dalla strettezza della mia piccola stanza… ho aperto…”
+
+La tanto menzionata finestra con le assi, delle quali, tuttavia, ero riuscito a convincere qualcuno di rimuoverle.
+
+#Madame Pelet è stata rimossa da quando ho assunto la carica…
+
+Professore nel pensionato per ragazze, da quel [[Time|momento]], infatti.
+
+Il titolo non è stato fornito; pertanto non è possibile tradurlo.
+
+Sport. Mi sedetti nel posto vicino alla finestra, appoggiai il braccio sul davanzale.
+
+#E si sporse in avanti: sopra di me c’era il cielo limpido, privo di nuvole…
+
+Il cielo notturno – la splendida luce della luna attenuava il tremolante scintillio delle.
+
+Le [[Stars|stelle]], sotto di esse si estendeva il [[Garden|giardino]], variegato da un bagliore argenteo e ombre profonde.
+
+# E tutto fresco di rugiada… un profumo gradito che esala dai fiori chiusi…
+
+I fiori degli alberi da frutto, nessuna foglia si muoveva; quella [[Night|notte]] era tranquilla e silenziosa.
+
+Senza brezza. La mia [[Window|finestra]] dava direttamente su un certo vialetto dove passeggiava la signorina.
+
+Il giardino di Reuter, chiamato “l’allea difesa”, così denominato perché gli alunni.
+
 
 
 <span class="atom-split" data-atom="chapter_13--part_05" data-title="The Professor — Chapter 12 (part 5)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/fool,motif/garden,motif/love,motif/memory,motif/night,motif/rose,motif/silence,motif/soul,motif/time,motif/well,concept/doubt,concept/faith,concept/friendship,concept/hope,concept/jealousy,concept/vanity,character/zoraide_reuter"></span>
@@ -24191,6 +28504,237 @@ at length extinguished; so, for a [[Time|time]], was my [[Faith|faith]] in [[Lov
 my veins which prevented me from sleeping much that [[Night|night]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Era vietato entrarvi a causa della sua vicinanza ai ragazzi
+
+Scuola… Era qui che i lillà e i rododendri crescevano particolarmente rigogliosi.
+
+# Questo era l’angolo più riparato dell’area recintata; i cespugli lo proteggevano completamente.
+
+La sedia da giardino su cui quel pomeriggio ero seduto con il giovane.
+
+Direttrice… Non c’è bisogno di dire che i miei pensieri erano principalmente rivolti a lei.
+
+Mi appoggiai alla griglia e lasciai che il mio sguardo si soffermasse sui sentieri…
+
+I confini del [[Garden|giardino]], ora lungo la facciata della [[house|casa]] piena di finestre.
+
+Quella [[Rose|rosa]], bianca al di sopra delle foglie, mi chiesi in quale parte.
+
+L’appartamento si trovava al piano superiore dell’edificio; e una sola luce brillava all’interno…
+
+Attraverso le persiane di un balcone, sembrava che qualcosa mi stesse guidando verso di esso.
+
+“Guarda fino a tardi…”, pensai, “dev’essere ormai quasi mezzanotte”. Lei…
+
+“È una donna davvero affascinante“, proseguii nel mio soliloquio silenzioso; “la sua…”
+
+Quell’immagine forma un piacevole ricordo nella mia [[Memory|memoria]]; so che lei non è proprio ciò che.
+
+Il mondo la definisce bella… Ma non importa: nel suo aspetto c’è armonia, e questo basta.
+
+“Mi piace… i suoi capelli castani, i suoi occhi blu, la freschezza delle sue guance…”
+
+La bianchezza del suo collo… tutto ciò corrisponde perfettamente ai miei gusti. Allora rispetto il suo talento.
+
+L’idea di sposare una bambola o un [[Fool|idiota]] mi è sempre stata odiosa. Lo so.
+
+Che una bella ragazza, un grazioso [[Fool|idiota]], possa andare abbastanza bene per la luna di miele.
+
+Ma quando la passione si placa… che orrore scoprire un pezzo di cera e di legno!
+
+Nel mio grembo, un mezzo idiota stretto tra le mie braccia… e ricordare tutto questo.
+
+# Avevo fatto di lui il mio pari… anzi, il mio idolo… ma ora so che devo superarlo.
+
+# Il resto della mia triste vita con una creatura incapace di comprendere cosa…
+
+Ho detto di apprezzare ciò che pensavo, o di simpatizzare con ciò che provavo…
+
+“Ora,” pensai, “[[Zoraide Reuter]] possiede tatto, carattere e giudizio, ”
+
+“Discrezione… Ha davvero un cuore? Che sorriso così gentile e semplice…”
+
+“Quel sorriso sulle sue labbra quando mi ha dato quel ramo di lillà… L’ho pensata spesso.”
+
+Astuto, dissimulatore, a volte interessato… è vero; ma forse non molto.
+
+# Quello che sembra astuzia e dissimulazione nel suo comportamento non è altro che…
+
+#Gli sforzi di un carattere mite per affrontare situazioni complesse e difficili
+
+Difficoltà? E per quanto riguarda l’interesse… desidera farsi strada in questo campo.
+
+Nessun [[Doubt|>dubbio]] al riguardo. E chi potrebbe biasimarla? Anche se davvero è carente in qualcosa.
+
+“In linea di principio, non è forse più una sfortuna che una colpa sua?”
+
+#È stata cresciuta come cattolica: se fosse nata donna inglese…
+
+Cresciuta una persona protestante, non avrebbe potuto trasmetterle direttamente integrità e onestà?
+
+#Tutte le sue altre qualità… E se dovesse sposare un inglese?
+
+“Marito protestante… Non lo farebbe forse, lei che è così razionale e sensata?”
+
+Riconoscere la superiorità del giusto sull’opportunismo, dell’onestà…
+
+Politica… Valgerebbe la pena provare questo esperimento; domani.
+
+“Rinnoverò le mie osservazioni… Lei sa che la sto osservando: quanto è calma…”
+
+“È sotto esame… Sembra che le piaccia più che infastidirla.”
+
+Una melodia si insinuò nel mio monologo, interrompendolo…
+
+Una tromba suonata con grande abilità, nei pressi del parco…
+
+# Nel pensiero, o nel luogo reale… Così dolci quelle note, così suadenti…
+
+Il loro effetto in quell’istante, nel mezzo del [[Silence|silenzio]] e sotto.
+
+#Il regno silenzioso della luce lunare… smisi di pensare per ascoltare meglio.
+
+#Con attenzione… La tensione diminuì, il suono divenne sempre più debole, fino a scomparire del tutto.
+
+“Gone… il mio orecchio pronto a riposare nel silenzio assoluto di mezzanotte…”
+
+“Mai… Che mormorio è quello… così basso, eppure così vicino, che si avvicina sempre di più…”
+
+Più vicino, frustrando l’attesa di un totale [[Silence|silenzio]]? Era qualcuno.
+
+“Conversando… sì, evidentemente una voce udibile, sebbene sommessa, parlava…”
+
+Il [[Garden|giardino]] proprio sotto di me. Un altro rispose; la prima voce era.
+
+# Uno di un uomo, l’altro di una donna… E io vidi un uomo e una donna.
+
+“Avanzano lentamente lungo il vicolo… All’inizio le loro figure erano avvolte nell’oscurità…”
+
+# Solo un’ombra nel crepuscolo… ma un raggio di luna li illuminava
+
+Li ho colti alla fine del percorso, quando erano proprio sotto il mio naso.
+
+E lo rivelò in modo molto chiaro, senza alcuna ambiguità, la signorina [[Zoraide Reuter]].
+
+Arm-in-arm, o mano nella mano (non ricordo esattamente quale delle due espressioni), con il mio principale…
+
+Confidente e consigliere: il signor François Pelet. E il signor Pelet stava dicendo…
+
+“Quando sarà mai il giorno del nostro matrimonio, mia adorata?”
+
+E la signorina Reuter rispose…
+
+“Ma François, sai bene che per me sarebbe impossibile sposarmi…”
+
+“Prima delle vacanze.”
+
+“Giugno, luglio, agosto… un intero quarto d’anno!”, esclamò il direttore. “Come è possibile…”
+
+#Aspetto così a lungo?... Io che sono pronto, già ora, a morire ai tuoi piedi...
+
+“Impazienza…”
+
+“Ah! Se muori, tutta questa faccenda si risolverà senza alcun problema.”
+
+Titolo:  
+Su notai e contratti… Dovrò semplicemente richiedere qualche modifica minore.
+
+Abito da lutto… che sarà pronto molto prima dell’abito da nozze.
+
+“Cestino da sposa.”
+
+“Crudele Zoraide… ridi della sofferenza di chi ti ama così tanto!”
+
+# Con la stessa devozione con cui lo faccio io… il mio tormento diventa il tuo divertimento; non esiti nemmeno a spingersi oltre…
+
+La mia [[Soul|'anima]] soffre terribilmente a causa della [[Jealousy|invidia]]; perché, per quanto possiate negarlo, ne sono certo.
+
+“Avete rivolto sguardi incoraggianti a quel ragazzo, Crimsworth… Lui ha…”
+
+Si presumeva che si fosse [[Love|innamorato]], ma non avrebbe mai osato farlo se tu non fossi stata presente.
+
+Dandogli spazio per sperare.
+
+“Cosa ne pensi, François? Credi che Crimsworth sia innamorato di me?”
+
+#"Inondato da tutto."
+
+“Te l’ha detto davvero?”
+
+“Mai… ma lo vedo sul suo viso: arrossisce ogni volta che viene menzionato il tuo nome.”
+
+“Menzionato, ” Una piccola risata, carica di civetteria trionfante, annunciò la presenza della signorina.
+
+La soddisfazione di Reuter per questa informazione… che in realtà era una menzogna.
+
+# Mai prima d’ora ero andato così oltre… dopotutto. M. Pelet
+
+Proseguì chiedendo cosa intendesse fare con me, in toni piuttosto insinuanti…
+
+Chiaramente, e non molto galantemente, si disse che era assurdo da parte sua pensarlo.
+
+Titolo:  
+Prendere un marito così insignificante… visto che lei dovrebbe essere almeno…
+
+“Dieci anni più vecchia di me… Allora aveva trentadue anni? Non avrei dovuto…”
+
+#Non ne ho idea. Ho sentito dire che negasse qualsiasi intenzione al riguardo…
+
+Tuttavia, il regista insistette affinché lei desse una risposta definitiva.
+
+“François,” disse lei, “sei geloso…”, e continuò a ridere; poi, mentre…
+
+# Se all’improvviso si ricorda che questo comportamento seducente non è coerente con…
+
+Per dimostrare il proprio senso di modestia e dignità, procedette…
+
+“In un tono modesto: ‘Davvero, mio caro François, non negherò che questo…’”
+
+Un giovane inglese potrebbe aver tentato in qualche modo di farsi apprezzare…
+
+#Ma, invece di incoraggiarlo in alcun modo, l’ho sempre trattato…
+
+Lo trattò con tutta la riservatezza possibile, pur mantenendo un comportamento cortese.
+
+Essendo promessa a te, non darei mai ad alcuno false speranze; credimi.
+
+“Caro amico…” Tuttavia, Pelet continuava a emettere mormori di sfiducia… Almeno così giudicai.
+
+Almeno, a giudicare dalla sua risposta.
+
+Che follia! Come potrei preferire uno sconosciuto straniero a te? E…
+
+Allora, per non lusingare la tua [[Vanity|vanità]]. Crimsworth non poteva essere paragonato a lui.
+
+Ogni tanto è con te, sia fisicamente che mentalmente… Ma in realtà non è affatto un uomo attraente.
+
+Alcuni potrebbero definirlo un uomo gentile e dall’aspetto intelligente, ma per me…
+
+# Parte…
+
+Il resto della frase scomparve nella distanza, mentre la coppia continuava ad avanzare…
+
+Dalla sedia su cui erano seduti, si alzarono e se ne andarono. Aspettai che…
+
+Titolo:  
+“Torno… ma presto il suono di una porta che si apre e si chiude mi fece capire…”
+
+Erano rientrati nella [[house|casa]]; ascoltai ancora per un po’, tutto era tranquillo.
+
+# Perfettamente immobile; ascoltai per più di un’ora… Alla fine sentii il signor Pelet.
+
+“Entra e sali nella sua stanza… Uno sguardo ancora verso quel corridoio lungo…”
+
+Davanti alla casa nel giardino, notai che la sua luce solitaria.
+
+Alla fine si estinse. E così, per un certo [[Time|tempo]], la mia [[Faith|fede]] nell’[[Love|amore]] svanì.
+
+[[Friendship|amicizia]]. Sono andato a letto, ma qualcosa di febbrile e ardente si era insinuato dentro di me.
+
+Le mie vene, che quella [[Night|notte]] mi impedirono di dormire molto.
+
 
 
 <span class="atom-split" data-atom="chapter_14--part_01" data-title="The Professor — Chapter 13 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/clock,motif/dawn,motif/garden,motif/home,motif/leaves,motif/love,motif/memory,motif/moon,motif/nature,motif/night,motif/rose,motif/soul,motif/window,concept/hope,concept/nature,concept/self,concept/union,character/zoraide_reuter"></span>
@@ -24364,6 +28908,181 @@ before, to offer her good sense, her wondrous [[Self|self]]-control, the tribute
 
 of involuntary admiration. She had felt that I had withdrawn from her
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XIII.
+
+La mattina seguente mi alzai con l’[[Dawn|'alba]]; dopo essermi vestito, mi misi in piedi.
+
+Mezz’ora… con il gomito appoggiato sul comodino, riflettendo su cosa…
+
+#"Riposare è l’unica cosa che mi serve per ripristinare le energie, distrutte dalla mancanza di sonno."
+
+“Con il loro tono abituale… poiché non avevo alcuna intenzione di creare una scenata.”
+
+Con M. Pelet, rimproverandolo per la sua infedeltà e inviandogli una sfida…
+
+#Eseguendo altri simili stratagemmi… Alla fine ho trovato la soluzione.
+
+# Uscire al fresco della mattina per recarsi nel vicino…
+
+La costruzione di bagni pubblici, e il piacere di immergermi in acqua fresca.
+
+Il rimedio produsse l’effetto desiderato. Tornai alle sette in punto.
+
+Ripreso fiato e rinvigorito, fu in grado di salutare il signor Pelet quando questi arrivò.
+
+Entrò a colazione con un volto sereno e imperturbabile; proprio così.
+
+# Un caloroso gesto di amicizia e il lusinghiero appellativo di “amico”
+
+“Figlio mio”, pronunciato con quel tono carezzevole con cui il signore…
+
+“Gli ultimi giorni, in particolare, erano abituati a rivolgersi a me… ma questo non ha suscitato alcuna reazione da parte mia.”
+
+Titolo:  
+Segno esterno di un sentimento che, sebbene represso, continua ad ardere dentro
+
+Il mio cuore… Non che nutrissi desiderio di vendetta, no; ma il senso di offesa e…
+
+# Tradimento che viveva in me come brace ancora soffocata… Dio
+
+Sa che per natura non sono vendicativo; non ferirei mai una persona solo perché.
+
+Non posso più fidarmi di lui né provare simpatia per lui… Ma né la mia ragione né i miei sentimenti mi aiutano in questo.
+
+Titolo:  
+Appartengono al tipo incerto e indeciso… non sono di quella natura ferma e stabile come la sabbia.
+
+Titolo:  
+Le impressioni, se create rapidamente, vengono altrettanto rapidamente dimenticate. Una volta convinto che…
+
+La natura del mio amico è incompatibile con la mia; una volta ne essersi reso conto…
+
+Titolo:  
+È indelebilmente macchiato da certi difetti odiosi ai miei principi.
+
+# E io interrompo quel legame… Lo ho fatto con Edward. Per quanto riguarda Pelet…
+
+La scoperta era ancora nuova… Dovrei agire così con lui? Questa era la domanda che mi ponevo.
+
+“Mentre mescolavo la mia tazza di caffè con un mezzo pistoletto, quell’immagine mi rimase impressa nella mente…”
+
+“Non avevamo mai cucchiai…”, mentre Pelet era seduto di fronte a lui, pallido in volto.
+
+# Un volto che sembra sapere troppo… e più segnato del solito; il suo occhio blu…
+
+Ora si rivolgeva con severità ai suoi ragazzi e agli uscieri, e ora con gentilezza a me.
+
+“Le circostanze devono guidarmi“, dissi; e incontrando lo sguardo falso di Pelet…
+
+Con un sorriso insinuante, ringraziai il cielo per aver aperto la scatola la sera precedente.
+
+Dalla mia [[Window|finestra]], alla luce di una piena [[Moon|luna]], lessi il vero significato di quella cosa.
+
+Espressione astuta e ingannevole… Mi sentivo quasi suo padrone, perché la realtà era proprio quella.
+
+La sua [[Nature|>natura]] era ormai nota a me; per quanto sorridesse e lusingasse, io vedevo la vera essenza di lui.
+
+[[Soul|'anima]] si nasconde dietro il suo sorriso; si può percepire in ogni sua frase fluida e gentile.
+
+Una voce che ne interpretava il vero significato traditore.
+
+Ma [[Zoraide Reuter]]? Ovviamente la sua defezione mi aveva profondamente ferito.
+
+Quell’esperienza deve essere stata troppo dura per poter essere consolata dalla [[philosophy|filosofia]].
+
+Per essere utilizzato nella cura delle malattie intelligenti? Assolutamente no. Una volta passata la febbre notturna.
+
+Cercai anche un balsamo per quella ferita e ne trovai uno vicino a [[Home|>casa]].
+
+“Più che a Gilead… La ragione fu il mio medico; iniziò dimostrando che…”
+
+Il premio che avevo perso non aveva grande valore: lo ammise lei stessa, dal punto di vista fisico…
+
+“Zoraide forse sarebbe stata adatta a me, ma ho capito che le nostre anime non erano compatibili…”
+
+Armonia. E quella discordanza deve essere derivata dall’[[Union|unione]] dei suoi pensieri.
+
+“Con i miei sentimenti… Poi insistette affinché ogni rimpianto venisse soppresso.”
+
+“E mi ordinò di rallegrarmi invece per essere scampata a una trappola… Lei.”
+
+#Il farmaco mi ha fatto bene… Ne ho sentito gli effetti positivi quando l’ho utilizzato.
+
+Il giorno dopo ricoprì la carica di direttrice; il suo rigido modo di operare influenzò negativamente i suoi nervi.
+
+Senza tremore, senza esitazione: mi permise di affrontarla con determinazione.
+
+#Facilmente la superai… Lei mi aveva teso la mano… ma io non l’afferrai.
+
+“Scelgi di vedere… Mi ha salutato con un sorriso incantevole… Quel sorriso è caduto su di me…”
+
+#Cuore come luce sulla pietra. Passai sul palco, lei mi seguì.
+
+Il suo sguardo fisso sul mio viso esigeva che ogni tratto del mio volto rivelasse il suo significato.
+
+“Il mio comportamento cambiato e negligente… ‘Le darò una risposta’, pensai.”
+
+# E, incrociando il suo sguardo intenso e affascinante, fissandola negli occhi, parlai d’un fiato…
+
+I suoi occhi, simili ai miei, ma pieni di uno sguardo privo di rispetto, privo di [[Love|amore]].
+
+# Nessuna tenerezza, nessuna galanteria; lì dove anche l’analisi più rigorosa non riuscirebbe a individuarle
+
+Solo disprezzo, coraggio e ironia… L’ho costretta a sopportarli, e a sentirli davvero.
+
+Il suo volto sereno non cambiò espressione, ma il suo viso si [[Rose|rosì]] e lei.
+
+Mi si avvicinò come se fosse affascinata. Salì sul palco e…
+
+# Accanto a me c’era lei; non aveva nulla da dire… E io non intendevo consolarla.
+
+Imbarazzo, e, per distrazione, girò le pagine di un libro.
+
+“Spero che oggi ti senta completamente ripreso,” disse finalmente, con voce bassa.
+
+tono.
+
+“E io, signorina, spero che non vi siate raffreddata la scorsa [[Night|notte]], ”
+
+Conseguenza del tuo tardivo passeggiata nel [[Garden|giardino]].”
+
+“Abbastanza veloce nella comprensione… mi ha capito immediatamente; il suo viso…”
+
+Il viso divenne leggermente pallido… solo un po’, ma nessun muscolo del suo corpo sembrava muoversi.
+
+Le caratteristiche distintive si erano mosse; calma e padrona di sé, si ritirò.
+
+#L’estrada, sedendosi silenziosamente a una certa distanza e occupando il proprio posto…
+
+“Raccolgendo i soldi con una rete… Proseguii con la mia lezione.”
+
+Titolo:  
+“Composizione”: ho dettato alcune domande generali riguardo a questo argomento…
+
+Gli alunni dovevano comporre le risposte basandosi sulla [[Memory|memoria]], poiché non avevano accesso ai libri.
+
+Proibito. Mentre Madame Eulalie, Hortense, Caroline e le altre riflettevano…
+
+#"Tra una serie di domande grammaticali piuttosto complesse che avevo posto..."
+
+Una volta che la proposta fu fatta, ebbi la libertà di utilizzare quei trenta minuti liberi per continuare il mio lavoro.
+
+Osservando la direttrice stessa… La “borsa di seta verde” procedeva senza intoppi.
+
+“Veloce nelle sue mani; i suoi occhi erano fissi su di esso; la sua postura…”.
+
+“Seduta a meno di due metri da me, ancora sotto protezione… nella sua interezza…”
+
+# All’attenzione e alla prudenza furono manifestate contemporaneamente, e con la stessa chiarezza.
+
+Riposò, in un raro [[Union|unione]]! Guardandola, fui costretto, come spesso era accaduto.
+
+Prima di tutto, per lodare il suo buon senso, il suo straordinario [[Self|autocontrollo]], quel tributo.
+
+# Ammirazione involontaria… Lei aveva percepito che mi fossi allontanato da lei.
 
 
 
@@ -24952,6 +29671,176 @@ seeks, but seldom meets; these, if by chance he finds, he would fain
 retain for ever, and when separation deprives him of them he feels as if
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XIV.
+
+# Se fossi stato puntuale nel lasciare l’abitazione di Mademoiselle Reuter…
+
+Arrivati lì con la stessa puntualità; io sono arrivato il giorno dopo, alle cinque minuti.
+
+“Prima delle due… e arrivato davanti alla porta dell’aula, prima ancora di aprirla…”
+
+Ho sentito un suono rapido e confuso che mi ha avvertito del “priere du midi”.
+
+Non era ancora terminato. Aspettai la sua conclusione; sarebbe successo…
+
+# È stato empio interferire con la mia presenza “eretica” durante il suo svolgimento… Come?
+
+Il ripetitore della [[prayer|preghiera]] fece chiacchierare e sputacchiare. Non l’avevo mai visto fare prima, né mai più dopo.
+
+“Nonre Pere” – da quando ho sentito pronunciare queste parole con tale fretta, come se fossero state emesse da una macchina a vapore…
+
+“Qui etes au ciel” esplose come un fulmine; poi seguì un discorso rivolto a…
+
+“Marie, vergine celeste, regina degli angeli, dimora d’oro, torre d’avorio…” e
+
+“Poi un invocazione al santo del giorno; e infine tutti si sedettero.”
+
+# E il solenne rituale fu terminato; entrai, spalancando la porta con forza
+
+# E avanzando a grandi passi, come era mia abitudine allora; perché avevo scoperto…
+
+Con passo deciso e con enfasi, salì sul podio…
+
+Il grande segreto consisteva nel garantire un immediato [[Silence|silenzio]]. Il.
+
+Porte scorrevoli tra le due aule, aperte per la [[prayer|preghiera]], erano.
+
+# immediatamente chiuso; una cortigiana, con la scatola da lavoro in mano, prese il suo posto
+
+# Scrivania adatta; gli alunni sedevano immobili, con penne e libri davanti a sé
+
+loro; le mie tre bellezze in testa alla fila, ora ben umiliate dal comportamento di.
+
+# Costante freddezza, seduti eretti con le mani giunte in silenzio…
+
+# Ginocchia; avevano smesso di ridacchiare e sussurrarsi l’uno all’altro… e basta.
+
+Ora non osano più pronunciare parole audaci davanti a me…
+
+Parlavano con me di tanto in tanto con i loro occhi, attraverso quegli organi…
+
+Ancora così, potevano dire cose molto audaci e seducenti…
+
+# Affetto, bontà, modestia… e vero talento: elementi sempre preziosi
+
+“Orbi come interpreti… Non credo che sarei riuscito a trattenermi dal farlo.”
+
+Una risposta gentile e incoraggiante, forse anche appassionata di tanto in tanto… ma comunque…
+
+Ero, trovavo piacere nel rispondere allo sguardo della [[Vanity|vanità]] con il mio stesso sguardo.
+
+# Di stoicismo. Giovane, bella, brillante… come molte delle mie allieve, posso…
+
+# Mai hanno visto in me nulla altro se non questo tipo di comportamento…
+
+Un guardiano austero, anche se giusto e imparziale, avrebbe potuto osservarli con attenzione… Se solo ci fosse stato qualcuno.
+
+Dubito dell'accuratezza di questa affermazione, poiché dedurne qualcosa di più consapevole.
+
+Un tale grado di auto-negazione o di auto-controllo, simile a quello di Scipione, di cui non si sentono disposti.
+
+#"Dategli il merito che meritano, considerate quanto segue..."
+
+# Circostanze che, sebbene riducano il mio merito, giustificano comunque le mie azioni
+
+Verità.
+
+# Conosci, o lettore incredulo, che un maestro si trova in una posizione leggermente diversa…
+
+#Relazione verso una ragazza carina, un po’ sciocca e probabilmente ignorante…
+
+Quello occupato da un partner durante un ballo, o da un corteggiatore in giro per il lungomare.
+
+Un professore non incontra la sua allieva vestita di seta…
+
+#Muschio e capelli profumati e arricciati, il collo appena ombreggiato dall’aria…
+
+#Braçia bianche e rotonde, avvolte da braccialetti; i piedi preparati per…
+
+La danza fluida e aggraziata. Non spetta a lui farla girare vorticosamente nella valzeria.
+
+Ricoprirla di complimenti, esaltare la sua [[Beauty|bellezza]] attraverso il rossore che ne derivava.
+
+Una [[Vanity|vanità]] soddisfatta. E non la incontra nemmeno su quel terreno liscio e ben curato.
+
+Via alberata e ombreggiata, nel parco verde e soleggiato… verso dove si reca lei.
+
+Vestita con il suo abito da passeggio che le donava bellezza, con il foulard gettato con grazia sulle spalle…
+
+Spalle scoperte, il suo piccolo cappellino a malapena nascondeva i suoi riccioli, la rossa [[Rose|rosa]].
+
+Sotto il bordo del suo viso, aggiungeva un nuovo tono alla più tenue [[Rose|rosa]] sulle sue guance.
+
+# Sorrisi che illuminano il viso e gli occhi… forse altrettanto effimeri quanto la luce stessa.
+
+“La luce splendente di quella giornata festiva… ma anche altrettanto abbagliante; non è certo la sua.”
+
+# Accanto a lei
+
+Ombrello, appena più grande di una larga foglia verde, guidato da un nastro
+
+# Il suo levriero di Blenheim o il suo levriero grigio italiano… No: la trova…
+
+Aula scolastica, vestita semplicemente, con i libri davanti a lei… A causa sua…
+
+I libri sull’[[Education|educazione]] o sulla sua [[Nature|>natura]] rappresentano per lei un fastidio; li apre soltanto perché deve farlo.
+
+Con riluttanza, ma l’insegnante deve comunque farle imparare a memoria il contenuto.
+
+Di questi libri, quella mente si rifiuta di accettare informazioni [[Grave|serie]]; essa.
+
+# Si ritrae, diventa irrequieto, mostra umori cupi e sopracciglia corrugate in modo spiacevole
+
+#Disturbo la simmetria del volto: a volte, gesti grossolani cancellano la grazia
+
+Dalla loro condotta, e dai sussurri che pronunciavano, si percepiva chiaramente la loro origine nativa…
+
+“Vulgarità indelebile… che profana la dolcezza della voce.”
+
+# Temperamento sereno, anche se l’intelligenza è lenta… un carattere indomabile
+
+#La noia ostacola ogni tentativo di insegnare. Laddove c’è astuzia, ma…
+
+# Non energia, dissimulazione, menzogne… migliaia di stratagemmi e trucchi
+
+# Metodi per eludere l’obbligo di presentare domande
+
+"Tutore, giovane donna: i fascini femminili sono come arazzi appesi alle pareti..."
+
+Il lato sbagliato viene costantemente rivolto verso di lui; e anche quando lo vede…
+
+La superficie esterna liscia e ordinata. Lui conosce così bene quali siano i nodi, quelli lunghi.
+
+I punti e le estremità irregolari sono la ragione per cui ha pochissima [[Temptation|tentazione]] di.
+
+#Ammirare troppo affettuosamente le forme eleganti e i colori vivaci esposti al pubblico
+
+Vista.
+
+I nostri gusti sono determinati dalle circostanze in cui ci troviamo. L’[[artist|artista]] preferisce.
+
+Paese collinare perché è pittoresco; l’ingegnere sceglie una zona pianeggiante perché…
+
+“È conveniente… L’uomo che ama il piacere apprezza ciò che definisce ‘una cosa davvero bella’.”
+
+“Donna perfetta per lui… Il giovane gentiluomo alla moda la ammira.”
+
+# Giovane signora alla moda… lei appartiene al suo stesso mondo; mentre quelle altre, stanche e logorate dal lavoro…
+
+Probabilmente un tutore irritabile, quasi cieco di fronte alla [[Beauty|bellezza]], insensibile alle affettazioni e.
+
+Le grazie, le glorie risiedono principalmente in alcune qualità mentali: diligenza, [[Love|amore]].
+
+# Della conoscenza, della capacità naturale, della docilità, della veridicità, della gratitudine
+
+#Sono i tratti che attirano la sua attenzione e conquistano il suo rispetto… Questi, appunto, lui…
+
+Cerca, ma raramente trova; queste, se per caso le trovasse, le desidererebbe ardentemente.
+
+#Per sempre conservarli… E quando la separazione gli li toglie, si sente come se…
+
 
 
 <span class="atom-split" data-atom="chapter_15--part_02" data-title="The Professor — Chapter 14 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/lamb,motif/time,motif/well,motif/window,concept/beauty,concept/conscience,character/bottom"></span>
@@ -25165,6 +30054,219 @@ lift her eyes; she could look at me, it seemed, when perplexed and
 
 bewildered, but not when gratified; I thought that scarcely fair.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Qualche mano spietata gli aveva strappato l’unica sua agnella-[[Lamb|_agnellino]]. In una situazione del genere.
+
+#Il caso… e proprio così è, miei lettori saranno d’accordo con me.
+
+Il titolo non presenta nulla di particolarmente meritevole o straordinario…
+
+# Integrità e moderazione nel mio comportamento presso il pensionato di Mademoiselle Reuter
+
+Signorine.
+
+# La mia prima attività questo pomeriggio è stata leggere l’elenco…
+
+Titolo:  
+“Posti del mese, determinati dalla correttezza relativa…”
+
+Composizioni consegnate il giorno precedente. La lista, come al solito, iniziava con…
+
+Intitolato “Sylvie: quella ragazza semplice e tranquilla di cui ho parlato”.
+
+# Il miglior e il peggiore allievo dell’istituto
+
+Il secondo posto è andato a una certa Leonie Ledru.
+
+# Creatura minuta, dal viso affilato e dalla pelle simile alla pergamena, veloce come il vento
+
+Intelligenza, debole [[Conscience|coscienza]] e sentimenti induriti. Qualcosa di tipico di un avvocato.
+
+# Chi dicevo che, se fosse stata un ragazzo, sarebbe diventata…
+
+# Modello di un avvocato senza principi… Poi arrivò Eulalie, la orgogliosa.
+
+[[Beauty|bellezza]], la “Giunone” della scuola, a cui sei lunghi anni di allenamenti intensivi avevano donato.
+
+# Una semplice grammatica della lingua inglese… nonostante le difficoltà
+
+“La sostanza stagnante del suo intelletto… per acquisire una conoscenza meccanica della maggior parte delle cose.”
+
+“Senza sorrisi, senza alcun segno di piacere o soddisfazione…”
+
+Il viso di Sylvie, pallido e passivo come quello di una suora, quando sentì il proprio nome essere letto per primo.
+
+#Il dolore di quella povera ragazza
+
+“Silenzio in ogni occasione… Era mia abitudine guardarla…”
+
+#"Parlale il meno possibile; la sua estrema sottomissione, la sua diligenza..."
+
+“Perseveranza… l’avrei sicuramente raccomandata con calore alla mia buona considerazione.”
+
+#La sua modestia, la sua intelligenza… mi avrebbero fatto provare sentimenti molto profondi.
+
+#Con affetto sincero e profondo… nonostante tutto…
+
+La terribile banalità dei suoi tratti, la disproporzione delle sue forme…
+
+# Una immobilità simile a quella di un cadavere nel suo volto… se non fossi stato a conoscenza…
+
+Titolo:  
+Che ogni parola gentile, ogni atto di benevolenza venissero sempre raccontati da lei.
+
+“Rivelato al suo confessore, e da lui frainteso e distorto… Una volta ho condiviso con lui…”
+
+“Alzando la mano sulla testa, come segno di approvazione… Pensavo che Sylvie stesse per…”
+
+“Sorridi… il suo sguardo pallido sembrò quasi illuminarsi di tenerezza; ma subito dopo si allontanò da me.”
+
+Ero un uomo e un eretico; lei, povera [[Child|>bambina]], una suora destinata fin da sempre, devota e pura.
+
+Titolo:  
+Cattolico: così una quattro volte maggiore barriera di separazione divideva la sua mente…
+
+“Mia.” Un sorrisetto malizioso e uno sguardo trionfante: ecco il modo in cui Leonie esprimeva ciò che voleva.
+
+Manifestando la sua soddisfazione, Eulalie appariva cupa e invidiosa… lei aveva…
+
+“Speravano di essere le prime… Hortense e Caroline si scambiarono un sorriso malizioso.”
+
+Sentendo i loro nomi letti verso la fine della lista.
+
+“Una sorta di inferiorità mentale veniva considerata da loro non come una vergogna…”
+
+Le speranze per il futuro si basano unicamente sulle attrazioni personali tra le persone.
+
+#Una questione sistemata, la lezione regolare proseguì… Durante un breve lasso di tempo
+
+# Intervallo, utilizzato dagli studenti per segnare le pagine dei loro libri… il mio sguardo si sofferma su di esso.
+
+Distaccandoli con noncuranza dai banchi, notò, per la prima [[Time|volta]], che.
+
+Il posto più lontano, nell’ultima fila… un posto solitamente vuoto… era…
+
+Di nuovo occupato dalla nuova studiosa, la signorina Henri, in modo così vistoso…
+
+Consigliatomi dalla direttrice… Oggi indossavo gli occhiali; lei…
+
+# La verità mi fu immediatamente evidente al primo sguardo; non ebbi bisogno di altro.
+
+Ci si poteva chiedere come fosse possibile… Sembrava giovane; eppure, se mi fosse stato chiesto di darle un nome…
+
+# L’età esatta… Avrei dovuto essere un po’ perplesso; la sua delicatezza…
+
+#Una figura che avrebbe potuto adattarsi bene a diciassette anni… una certa ansia e preoccupazione…
+
+L’espressione del suo volto sembrava indicare anni più maturi… Lei era…
+
+Vestita, come tutte le altre, con un abito scuro e una cravatta bianca… lei.
+
+Le caratteristiche erano diverse da qualsiasi altra esistente: non così arrotondate, ma più definite… eppure…
+
+“Appena regolare… Anche la forma della sua testa era diversa…”
+
+# Una parte più sviluppata, la base molto meno… Mi sentivo tranquillo.
+
+“A prima vista, si capiva che non era belga: il suo incarnato…”
+
+Il suo volto, i suoi tratti, la sua figura… erano tutti diversi dai loro.
+
+# E, evidentemente, di un’altra razza… una razza meno dotata di…
+
+Pienezza di carne e abbondanza di [[Blood|sangue]]; meno gioiosa, più materiale.
+
+Senza pensare… Quando la vidi per la prima volta, era seduta, con lo sguardo fisso davanti a sé.
+
+Con il mento appoggiato sulla mano, non cambiò affatto la sua posizione.
+
+#Fino a quando non iniziai la lezione… Nessuna delle ragazze belghe avrebbe voluto…
+
+# Mantenne una posizione… e una posizione riflessiva, per la stessa durata di tempo.
+
+[[Time|tempo]]. Tuttavia, avendo accennato al fatto che la sua apparizione fosse particolare.
+
+#A differenza delle sue compagne fiamminghe, non ho molto altro da aggiungere
+
+Riguardo a questo, non posso pronunciare alcun elogio per la sua [[Beauty|bellezza]], perché lei era.
+
+Non è bella; né si può offrire conforto per la sua semplicità, poiché nessuna delle due cose è possibile…
+
+# Era semplice d’aspetto… un volto segnato dal tempo, con una fronte solcata dalle preoccupazioni…
+
+La forma della bocca mi suscitò una sensazione simile alla sorpresa.
+
+Ma queste caratteristiche probabilmente sarebbero rimaste inosservate da chiunque meno attento…
+
+Un osservatore malizioso e critico.
+
+Ora, lettore, sebbene abbia dedicato più di una pagina alla descrizione di Mademoiselle.
+
+Henri, conosco te abbastanza bene da sapere che non ho lasciato alcuna immagine nella tua mente.
+
+#Un ritratto distinto di lei… Non ho dipinto il colore della sua pelle, né i suoi tratti…
+
+“Né i suoi occhi, né i suoi capelli… nemmeno il contorno della sua figura è stato disegnato. Non si può…”
+
+# Determinare se il suo naso fosse aquilino o ricurvo all’indietro, se il suo mento…
+
+“Che sia lungo o corto, che il suo viso sia quadrato o ovale… Nemmeno il primo giorno riuscii a capirlo.”
+
+# E non è mia intenzione condividere immediatamente con voi una conoscenza che…
+
+Io stesso ho ottenuto poco a poco ciò che desideravo.
+
+# Ho proposto un breve esercizio: tutti lo hanno scritto giù. Ho notato il nuovo studente…
+
+All’inizio rimase perplesso dalla novità della forma e del linguaggio utilizzati; in seguito…
+
+O due volte mi guardò con una sorta di ansiosa premura… come se non volesse davvero farlo.
+
+“Non riusciva affatto a capire cosa intendevo; quindi non era pronta quando…”
+
+Altri sì, ma lei non riusciva a scrivere le sue frasi con la stessa velocità di loro… Io.
+
+“Non avrebbe mai potuto aiutarla… Continuai senza sosta. Lei mi guardò; i suoi occhi…”
+
+“Non riesco a seguirti”, disse molto chiaramente. Ignorai quel richiamo e…
+
+Appoggiandomi distrattamente allo schienale della sedia, passavo lo sguardo da un [[Time|momento]] all'altro.
+
+Con un tono disinvolto, attraverso la [[Window|finestra]], dettavo un po’ più velocemente. Guardando fuori.
+
+Di nuovo rivolta verso di lei, notai il suo viso offuscato dall’imbarazzo…
+
+#Continuava a scrivere con grande impegno; io mi fermai per qualche secondo… lei…
+
+Utilizzò quel lasso di tempo per rileggere rapidamente ciò che aveva scritto.
+
+# Vergogna e imbarazzo erano evidenti sul suo volto; chiaramente…
+
+Scoprì di averne fatto un gran pasticcio. In altri dieci minuti…
+
+La dettatura era terminata; dopo aver concesso un breve intervallo…
+
+Correggete: ho preso i loro libri; è stato con riluttanza che la signorina me li ha dati.
+
+“Henri le cedette, ma una volta che le fu passata in mio possesso…”
+
+Rimase con un’espressione ansiosa, come se per il momento avesse deciso di…
+
+Scartare i rimpianti e decidersi di essere considerata senza precedenti…
+
+Stupido… Dando un’occhiata al suo compito, ho scoperto che diverse righe erano state cancellate.
+
+# Senza difetti
+
+Scritto “Buono” in fondo alla pagina, lo restituì a lei; lei.
+
+Sorrise, all’inizio con scetticismo, poi come se si fosse rassicurata… ma non disse nulla.
+
+“Alzare lo sguardo… sembrava che potesse guardarmi quando era confusa…”
+
+Confuso, ma non quando mi sentivo soddisfatto. Pensavo che non fosse affatto giusto.
 
 
 
@@ -25516,6 +30618,361 @@ wore off, the real material appeared below, and they laid her aside as a
 [[Deception|deception]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XV.
+
+Trascorsero alcuni [[Time|tempi]] prima che io tenessi di nuovo una lezione nella prima classe; il.
+
+Titolo:  
+Le festività di Pentecoste duravano tre giorni; il quarto giorno…
+
+# Arrivo della seconda divisione per ricevere le mie istruzioni. Mentre mi avvicinavo…
+
+# Il transito del CARRE… come al solito, osservai la banda di condotti fognari
+
+Intorno alla signorina Henri… ce n’erano soltanto una dozzina, ma…
+
+fecero tanto rumore da poter essere sufficienti per cinquanta persone… sembrava proprio così.
+
+Poco sotto il suo controllo; tre o quattro cose la assalirono contemporaneamente…
+
+Richieste insistenti; sembrava turbata, chiese il [[Silence|silenzio]], ma.
+
+Inutilmente. Mi vide, e lessi nei suoi occhi quella [[Pain|dolore]] che solo un estraneo potrebbe provare.
+
+#"Assistere all'insubordinazione dei suoi alunni… sembrava quasi supplicarli."
+
+Titolo:  
+“Ordine… le sue preghiere furono inutili; poi notai che lei stringeva…”
+
+Le sue labbra si contrassero e la sua fronte si corrugò; il suo volto, se ho interpretato correttamente…
+
+Disse correttamente: “Ho fatto del mio meglio; sembra che meriti la mia colpa”.
+
+“Nonostante tutto… allora incolpate me, se volete.” Proseguii il mio cammino; mentre chiudevo la porta…
+
+“La porta dell’aula scolastica…”, disse all’improvviso, con voce decisa, rivolgendosi a qualcuno.
+
+Il più anziano e il più turbolento di tutti…
+
+“Amelie Mullenberg: non pormi domande e non chiedermi aiuto.”
+
+Per tutta la prossima settimana, in quel lasso di [[Time|tempo]], non parlerò con nessuno.
+
+“Né tu né nessun altro puoi aiutarmi.”
+
+Le parole furono pronunciate con enfasi… anzi, con veemenza… e un
+
+Seguì un [[Silence|silenzio]] relativamente più tranquillo; se questa calma fosse duratura, non lo so.
+
+No; ora ci sono due porte chiuse tra me e il CARRE.
+
+Il giorno seguente fu dedicato alle attività della prima classe; al mio arrivo, trovai…
+
+La direttrice, come al solito, era seduta su una sedia tra le due tribune…
+
+Di fronte a lei c’era la signorina Henri, nella posizione che sembrava…
+
+# Una attenzione un po’ riluttante… La direttrice stava facendo il punto.
+
+Parlando tutti contemporaneamente. Tra il rumore di un grande aula scolastica, era.
+
+# Facile da dire, per chi ascolta…
+
+[[Alone|da sola]], ed è così che la signorina Reuter parlò con il suo insegnante. Il viso.
+
+Il volto di quest’ultimo era leggermente arrossito, non poco turbato… c’era qualcosa che lo preoccupava.
+
+# Vexazione nell’atto stesso… da dove derivasse, non lo so; la direttrice sembrava…
+
+“Davvero molto tranquilla… Non poteva certo rimproverarla con voce così dolce e sommessa.”
+
+#E con un atteggiamento così sereno… No, in seguito si dimostrò che lei…
+
+Il discorso aveva un tono estremamente amichevole; ne sono stato testimone.
+
+# Parole finali
+
+“Basta così, mia cara amica; adesso non voglio trattenerti più.”
+
+“Un vantaggio maggiore.”
+
+Senza ricevere risposta, la signorina Henri si allontanò; era evidente il suo disappunto.
+
+Si leggeva sul suo viso… e un sorriso, lieve e breve, ma amaro.
+
+Scettica, e forse anche sprezzante, arricciò le labbra mentre lo prendeva…
+
+# Un sorriso segreto e involontario… che durò a lungo.
+
+#Un attimo di malinconia… poi, subito dopo, un’altra sensazione.
+
+Titolo di attenzione e interesse: quando ho dato l’ordine a tutti gli studenti di…
+
+“Prendete i vostri libri di lettura… In generale, odiavo le lezioni di lettura.”
+
+Ascoltare le loro parole volgari e incomprensibili era davvero una tortura per l’orecchio…
+
+# La mia lingua madre, e mai alcuno sforzo da parte mia di impararla attraverso l’esempio o gli insegnamenti altrui
+
+Sembrava che non ci fosse il minimo miglioramento nel loro accento… Oggi,
+
+Ognuna secondo il proprio modo caratteristico: balbettando, biascicando, mormorando… e farfugliando.
+
+Titolo:  
+Abbastanza comune… Circa quindici casi mi avevano colpito uno dopo l’altro, e il mio nervo uditivo ne risentiva gravemente.
+
+Aspettando con [[Resignation|rassegnazione]] le discordie del sedicesimo giorno, quando tutto sarebbe stato risolto.
+
+Anche se a bassa voce, leggi ad alta voce, in inglese chiaro e corretto.
+
+“Nel suo viaggio verso Perth, il [[King|re]] incontrò una donna delle Highlands che lo chiamò, ”
+
+# Una profetessa tra loro; lei stava al fianco del traghetto su cui si trovava lui
+
+“Stava per partire verso il nord e gridò ad alta voce: ‘Mio signore…’”
+
+“[[King|Re]], se attraversi quest’acqua, non tornerai mai più in vita, ” – (VEDI)
+
+La [[history|storia]] della Scozia.
+
+Alzai lo sguardo, stupito: quella voce apparteneva ad Albion… e il suo accento era inconfondibile.
+
+Il suono era puro e argenteo; bastava solo fermezza e sicurezza perché potesse diventare…
+
+L’equivalente di ciò che qualsiasi signora ben educata dell’Essex o del Middlesex potrebbe fare.
+
+# Ha proclamato… ma la persona che ha parlato o letto non era altri che la signorina Henri.
+
+Nel suo volto [[Grave|triste]] e privo di gioia, non si vedeva alcun segno che lei fosse ancora cosciente.
+
+Nessun altro compì alcuna impresa straordinaria; nemmeno gli altri mostrarono sorpresa.
+
+#Signorina Reuter lavorava alla maglia con impegno; tuttavia, ero consapevole che…
+
+# Il culmine del paragrafo… lei sollevò le palpebre e lo accolse con rispetto.
+
+“Con uno sguardo di lato… Lei non conosceva tutta la grandezza della mia persona.”
+
+Il modo in cui la maestra leggeva… ma lei si rendeva conto che il suo accento non era adatto…
+
+Come gli altri, anch’io volevo scoprire cosa pensassi… Così mi nascosi dietro una maschera.
+
+Con indifferenza, guardò il viso della ragazza e ordinò alla successiva di procedere.
+
+# Quando la lezione finì, approfittai della confusione che ne derivò…
+
+Mentre si stavano separando, andò ad avvicinarsi a Madame Henri; lei stava in piedi vicino alla [[Window|finestra]].
+
+E si ritirò man mano che io procedevo; lei pensò che volessi fare da guardia, e così fece.
+
+Non riesco nemmeno a immaginare di poterle dire qualcosa… L’ho portata con me.
+
+Lei lasciò cadere il quaderno degli esercizi dalle mani; mentre sfogliavo le [[Leaves|pagine]], le parlai.
+
+#Her:--
+
+“Hai già seguito lezioni di inglese in precedenza?” chiesi.
+
+"No, signore."
+
+“No! L’hai letto bene; sei stato in Inghilterra?”
+
+“Oh, no!” disse con un certo movimento.
+
+#Hai vissuto in famiglie inglesi?
+
+Titolo:  
+“Comunque la risposta era ‘No’”. Qui il mio sguardo si sofferma sulla pagina di guardia del libro…
+
+Libro su cui era scritto: “Frances Evan Henri”.
+
+“Come si chiama?” chiesi.
+
+“Sì, signore.”
+
+Le mie interrogazioni furono interrotte; sentii un leggero fruscio dietro di me.
+
+# E dietro di me c’era la direttrice, che fingeva di starmi esaminando…
+
+L’interno di un tavolo.
+
+“Mademoiselle,” disse lei, alzando lo sguardo e rivolgendosi all’insegnante, “potrebbe…”
+
+#"Vai pure a stare in corridoio, mentre i giovani..."
+
+“Le signore stanno indossando i loro abiti e cercano di mantenere un po’ di ordine…”
+
+La signorina Henri obbedì.
+
+“Che tempo meraviglioso!” osservò allegramente la direttrice, guardandosi intorno.
+
+Nello stesso [[Time|momento]], dalla stessa [[Window|finestra]]. Accettai e stavo per andarmene, “E poi?”
+
+“Il vostro nuovo allievo, signore?” continuò lei, seguendo i miei passi che si allontanavano.
+
+“Riuscirà davvero a migliorare il suo inglese?”
+
+“Infatti, fatico davvero a giudicare… Ha un accento abbastanza buono…”
+
+# La sua vera conoscenza della lingua… di cui finora non ho avuto l’opportunità di fare esperienza
+
+“Formare un’opinione”.
+
+“E la sua capacità naturale, signore? Ne ho avuto paura… può davvero…”
+
+“Mi rassicuri almeno dicendomi qual è la sua potenza media?”
+
+“Non vedo alcun motivo per [[Doubt|dubitare]] della sua potenza media, signorina, ma davvero, ”
+
+La conosco appena e non ho avuto il [[Time|tempo]] di valutare davvero le sue qualità.
+
+“Capacità… Le auguro una molto buona giornata.”
+
+“Mi perseguitava ancora… ‘Noterà, signore, e mi dirà cosa ne pensa’.”
+
+“Penso che potrei fidarmi molto di più del tuo parere che del mio… Le donne.”
+
+Non si possono giudicare queste cose come fanno gli uomini… E, perdonate la mia insistenza…
+
+#Signore, è naturale che io sia interessato a questa povera persona…
+
+#Piccola ragazza… quasi senza parenti, solo lei stessa.
+
+“Gli sforzi sono l’unica cosa su cui può contare; le sue conquiste devono essere la sua unica ragione di vita.”
+
+Fortuna: la sua posizione attuale è stata una volta anche mia, o quasi…
+
+“Allora, è del tutto naturale che io provi simpatia per lei; e a volte, quando la vedo…”
+
+La difficoltà che ha nel gestire gli studenti mi lascia davvero deluso.
+
+Ho dei [[Doubt|>dubbi]] sul fatto che lei faccia del suo meglio, le sue intenzioni sono senz'altro eccellenti; tuttavia.
+
+#Signore, le serve delicatezza e fermezza… Ne ho parlato con lei.
+
+# Non sono fluente nella lingua in questione, e probabilmente non mi sono espresso correttamente.
+
+Con chiarezza… Ma sembra che non riesca mai a capirmi. Ora, vorresti…
+
+A volte, quando si presenta l’occasione, non dimenticate di offrire un consiglio.
+
+#Sull’argomento: gli uomini hanno molto più influenza delle donne
+
+# Essi discutono in modo molto più logico di noi; e voi, signore…
+
+In particolare, possiede un potere così supremo nel far sì che gli altri obbediscano.
+
+Un consiglio da parte tua potrebbe solo farle del bene… anche se lei non lo volesse.
+
+Scontrosa e testarda (e spero davvero che non lo sia), a malapena.
+
+“Rifiuto di ascoltarti; per quanto mi riguarda, posso dire con certezza che io mai l’ho fatto.”
+
+Ascoltare una delle tue lezioni senza trarne alcun beneficio…
+
+#"Gestione degli alunni: gli altri insegnanti rappresentano una fonte costante di..."
+
+“Anxiety for me… They cannot impress the young ladies with such sentiments.”
+
+“Non rispettare né reprimere la leggerezza naturale della gioventù… In voi, signore, io…”
+
+Prova a sentire la massima fiducia in te stesso; poi cerca di aiutare questo povero [[Child|>bambino]].
+
+Nel tentativo di controllare le nostre vivaci e entusiaste ragazze del Brabante.
+
+Ma, signore, vorrei aggiungere ancora una cosa: non allarmate il suo orgoglio.
+
+“Attenti a non infliggere una ferita lì… Ammetto con riluttanza che, in quel caso…”
+
+È particolarmente, e in modo imperdonabile – alcuni direbbero addirittura ridicolo – suscettibile.
+
+Ho toccato involontariamente questo punto sensibile, e lei non riesce a superarlo.
+
+“Basta così.”
+
+Durante la maggior parte di questo discorso, la mia mano era posata sulla serratura…
+
+Porta esterna; ora l’ho girata.
+
+“Addio, signorina,” dissi e me ne andai. Vidi la direttrice…
+
+Il suo repertorio di parole era ancora lontano dall’esaurirsi… Si prendeva cura di me.
+
+Avrebbero voluto trattenermi più a lungo… Il loro modo di comportarsi con me era…
+
+#Da quando ho iniziato a trattarla con durezza, nulla è più rimasto come prima…
+
+Indifferenza: ogni volta mi mostrava chiaramente la sua indifferenza; consultava…
+
+# Il mio volto è costantemente osservato, e sono assillato da innumerevoli piccole…
+
+# Attenzioni ufficiali… La servilità genera dispotismo. Questo omaggio servile…
+
+“Invece di addolcire il mio cuore, ha solo viziato tutto ciò che era rigido e severo…”
+
+Un’atmosfera estremamente esigente… La stessa situazione in cui lei si trova costantemente intorno a me…
+
+Come un uccello affascinato, sembrava trasformarmi in un rigido pilastro di…
+
+Titolo:  
+Le sue lusinghe irritavano il mio disprezzo, i suoi tentativi di compiacermi non facevano che rafforzare la mia indifferenza.
+
+“La mia riserva… A volte mi chiedevo cosa intendesse dicendo di “donarsi” qualcosa del genere…”
+
+“Problemi inutili per conquistarmi… quando Pelet, molto più vantaggiosa, era già sua.”
+
+Titolo:  
+Reti… e quando anche lei si rese conto che conoscevo il suo segreto… perché io…
+
+Non avrei esitato a dirle tutto questo… Ma la verità è che, in realtà…
+
+La sua [[Nature|>natura]] la portava a [[Doubt|>dubitare]] della realtà e a sottovalutare il valore della modestia.
+
+Titolo:  
+Affetto e disinteresse… considerare queste qualità come debolezze?
+
+Carattere. Quindi era anche per lei naturale considerare l’[[Pride|orgoglio]] e la durezza come parte del proprio temperamento.
+
+#egoismo, come prove di forza… Lei calpesterà il collo altrui.
+
+Di [[Humility|umiltà]], si sarebbe inginocchiata ai piedi del disprezzo; avrebbe affrontato.
+
+Titolo:  
+Tenerezza con disprezzo nascosto, indifferenza che lei cercava di conquistare…
+
+# Continui sforzi instancabili. Bontà, devozione, entusiasmo…
+
+Le sue antipatie. Per dissimulazione e interesse personale, lei possedeva.
+
+Preferenza: nella sua espressione c’era vera saggezza, sia morale che fisica.
+
+Degradazione, inferiorità mentale e fisica: lei le considerava con…
+
+# Indulgenza: strumenti capaci di essere utilizzati a fin di bene
+
+“Contromisure per i propri scopi personali… Verso la violenza, l’ingiustizia, la tirannia…”
+
+Cedette… Loro erano i suoi veri padroni; lei non provava alcun sentimento di odio.
+
+Nessun impulso a resisterli; l’indignazione che i loro ordini suscitano in alcuni…
+
+# Cuori sconosciuti nella sua vita… Da tutto ciò derivava che quelle emozioni false e…
+
+#Chiamata sagge da alcuni egoisti, definita caritatevole dai volgari e dagli depravati
+
+“Gli insoleni e ingiusti la definivano affabile, mentre i coscienziosi…”
+
+Titolo:  
+Inizialmente accettata come valida, la sua rivendicazione fu considerata generosamente benevola…
+
+Ritenuti parte di loro stessi… ma presto, la maschera delle pretese si fece strada.
+
+# Si consumò, e il materiale vero e proprio apparve al di sotto; allora la misero da parte…
+
+[[Deception|inganno]].
+
 
 
 <span class="atom-split" data-atom="chapter_17--part_01" data-title="The Professor — Chapter 16 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/nature,motif/night,motif/snow,motif/storm,motif/time,motif/well,motif/winter,concept/fear,concept/history,concept/identity,concept/nature,concept/suffering,form/history"></span>
@@ -25692,6 +31149,179 @@ you hear, stir not, and look not out. The [[Night|night]] will soon fall; this
 forest is most wild and lonely; strange noises are often heard therein
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XVI.
+
+Nel corso di altre due settimane, avevo visto abbastanza di Frances…
+
+# Evans Henri: per permettermi di formare un’opinione più precisa su di lei
+
+#Carattere. Ho trovato che fosse posseduta, in un grado piuttosto notevole…
+
+Almeno due qualità positive: perseveranza e senso del dovere.
+
+Scoprì di essere davvero in grado di dedicarsi allo studio, di affrontare con impegno le difficoltà.
+
+Difficoltà… All’inizio le offrii lo stesso aiuto che avevo sempre fornito in passato.
+
+“Ritenne necessario consultarsi con gli altri; iniziò sciogliendo…”
+
+#Ogni dettaglio complicato veniva affrontato con attenzione, ma presto scoprii che tale aiuto veniva considerato…
+
+“Da parte della mia nuova allieva considerato umiliante… Lei lo rifiutò con una certa fierezza.”
+
+Impazienza… Così le assegnai lunghe lezioni e la lasciai a risolvere da sola.
+
+[[Alone|Da sola]], affrontò tutte le perplessità che potessero sorgere. Si mise all’opera con.
+
+# Un ardore sincero e appassionato… e, una volta completata rapidamente un’impresa, con grande entusiasmo…
+
+“Chiedeva di più… Ecco tutto ciò che restava della sua perseveranza; quanto al suo senso del dovere…”
+
+Si manifestava in questo modo: le piaceva imparare, ma odiava insegnare.
+
+Il progresso di una studentessa dipendeva da lei stessa, e io capii che tutto dipendeva da lei.
+
+Poteva calcolare con certezza; il suo [[success|successo]] come insegnante si basava in parte.
+
+Forse soprattutto per volontà altrui… Le è costato molto dolore.
+
+# Tentativo di entrare in conflitto con questa volontà straniera, di sforzarsi…
+
+#Per sottometterli al proprio potere; perché, per quanto riguarda le persone…
+
+# Molti rimorsi ostacolarono l’attuazione della sua volontà; era come…
+
+Senza alcuna imbarazzo, decisa e forte quando si trattava delle sue faccende personali… E così era.
+
+Avrebbe potuto, in qualsiasi momento, sottomettere la propria inclinazione, se solo quella inclinazione lo avesse permesso.
+
+Contrario alle sue convinzioni di giustizia… eppure quando le viene chiesto di lottare.
+
+Con le inclinazioni, gli abiti, i difetti degli altri… e dei bambini.
+
+In particolare, coloro che sono sordi alla ragione e, nella maggior parte dei casi, del tutto irrazionali…
+
+La [[Persuasion|persuasione]], a volte, quasi rifiutava di far agire la sua volontà; allora interveniva.
+
+# Il senso del dovere e la volontà costretta all’azione… Un spreco inutile
+
+La spesa di energia e lavoro ne era spesso la conseguenza; Frances
+
+#Lavorava sodo per e con i suoi studenti come una schiava, ma ci volle molto tempo prima che…
+
+Le loro sforzi coscienziosi furono ricompensati da una sorta di docilità da parte loro…
+
+# Perché vedevano di avere potere su di lei…
+
+Resistendo ai suoi dolorosi tentativi di convincere, persuadere, controllare…
+
+#Costringerla ad adottare misure coercitive…
+
+Infliggerele un dolore estremamente intenso. Gli esseri umani, i bambini umani.
+
+# In particolare… raramente si negano il piacere di esercitare un potere
+
+Titolo:  
+Di cui sono consapevoli di disporre, anche se tale potere in realtà non esiste…
+
+Solo in grado di rendere gli altri infelici; uno studente le cui sensazioni…
+
+Più lenti di quelli del suo istruttore… ma i suoi nervi sono più resistenti.
+
+#La sua forza fisica, probabilmente maggiore, gli conferisce un enorme vantaggio rispetto agli altri
+
+Insegnante… e di solito lo userà senza pietà, perché proprio…
+
+giovane, molto sano, molto superficiale… che non sa nemmeno come mostrare compassione
+
+Né so come possa risparmiare. Frances, ho paura. Ho sofferto molto; un peso costante mi opprime.
+
+Sembrava opprimere il suo spirito… Ho detto che non viveva lì.
+
+Quella casa, e che si trovasse nella sua dimora personale o altrove, lei indossava sempre.
+
+Lo stesso sguardo assorto, senza sorriso, con una determinazione triste che gli è sempre caratteristica…
+
+Le sue sembianze erano oscurate dall’ombra del tetto della signorina Reuter; non riuscivo a distinguerle chiaramente.
+
+Un giorno raccontai, come dovere, quella banale aneddota su Alfred che si prendeva cura…
+
+"Cake nella capanna del pastore, da collegare con ulteriori dettagli."
+
+“Una questione semplice, alla quale la maggior parte degli studenti rispose in modo diretto e conciso…”
+
+# Aveva studiato principalmente… La maggior parte dei racconti era perfettamente…
+
+Incomprensibile; solo quelli di Sylvie e Leonie Ledru fingevano.
+
+“Qualcosa che assomigli al senso e alla connessione… Infatti, Eulalie aveva davvero trovato qualcosa del genere.”
+
+Un astuto stratagemma per garantire immediatamente l’accuratezza e evitare problemi… lei.
+
+Aveva in qualche modo ottenuto accesso a una versione ridotta della [[history|storia]] d’Inghilterra, e l’aveva letta.
+
+# Trascritto fedelmente l’aneddoto… L’ho annotato sul margine della sua opera.
+
+“Stupido e ingannevole”, poi lo strappò a metà.
+
+#Ultimo nella pila di compiti da svolgere… ne trovai uno tra i tanti.
+
+Fogli, scrivuti con cura e poi cuciti insieme; riconoscevo quella calligrafia…
+
+Non era affatto necessaria la prova rappresentata dalla firma “Frances Evans Henri”.
+
+Confermate la mia congettura riguardo all’[[Identity|identità]] dell’autore.
+
+La [[Night|notte]] era il mio solito momento per correggere i compiti; la mia stanza.
+
+Scena abituale di un compito del genere… un compito finora il più arduo; e sembrava…
+
+“Strano per me sentire nascere in me un primo interesse…”
+
+# Mentre spegnevo la candela, mi misi a leggere quelle pagine povere…
+
+Manoscritto dell’insegnante.
+
+“Ora”, pensai, “vedrò finalmente com’è veramente; scoprirò…”
+
+Cercare di comprendere la [[Nature|>natura]] e l’entità dei suoi poteri, anche se non è certo possibile farlo completamente.
+
+Si aspettava che si esprimesse bene in una lingua straniera, ma comunque, se lei.
+
+“Se una persona ha davvero un pensiero chiaro, questo si rifletterà nelle sue azioni.”
+
+Il racconto inizia con la descrizione di una capanna di un contadino sassone.
+
+Si trovava all'interno dei confini di una vasta foresta invernale, priva di foglie.
+
+Rappresentava una serata di dicembre: i fiocchi di [[Snow|neve]] cadevano, e.
+
+Il pastore predisse l'arrivo di una violenta [[Storm|tempesta]]; chiamò sua moglie perché lo aiutasse.
+
+Raccogliendo il loro stormo, vagavano lontano lungo le rive pastorali del.
+
+“Thone; le avverte che farà tardi prima che possano tornare… Quella brava donna…”
+
+Riluttante ad abbandonare la sua attività di preparazione dei dolci per le serate…
+
+#Cibo… ma riconoscendo l’importanza fondamentale di proteggere le greggi
+
+“Folle come le greggi… indossa il suo mantello di pelle di pecora e, rivolgendosi a uno sconosciuto…”
+
+# Chi riposa semisdraiato su un letto di canne vicino al focolare, lo invita…
+
+Occupati della casa fin al suo ritorno.
+
+“Stai attento, giovane uomo,” continua lei, “assicurati che la porta sia chiusa bene.”
+
+Dopo di noi… e, soprattutto, chiuso a chiunque in nostra assenza; qualsiasi suono…
+
+Ascolta, non muoverti e non guardare fuori. La [[Night|notte]] sta per calare. Questo.
+
+La foresta è il luogo più selvaggio e solitario; spesso si sentono in essa suoni strani.
+
 
 
 <span class="atom-split" data-atom="chapter_17--part_02" data-title="The Professor — Chapter 16 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/king,motif/blood,motif/clock,motif/crown,motif/grave,motif/night,motif/river,motif/snow,motif/time,motif/wind,concept/courage,concept/despair,concept/education,concept/hope"></span>
@@ -25866,6 +31496,180 @@ with diffident, easily embarrassed characters, and with some slight
 manual aid I presently got her placed just where I wanted her to be,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#Dopo il tramonto… lupi infestano queste radure, e guerrieri danesi sono dappertutto.
+
+#Paese; si parlano di cose peggiori… Potresti anche sentirle, visto che…
+
+Era il pianto di un [[Child|bambino]]; aprendo la porta per soccorrerlo, si vide qualcosa di enorme.
+
+# Un toro nero, o un cane goblin dalle sembianze oscure, potrebbe irrompere oltre la soglia…
+
+# O, cosa ancora più terribile, se qualcosa si muovesse agitando delle ali…
+
+“Griglia… e poi un corvo o una colomba bianca entrò e si posò sopra…”
+
+In un ambiente domestico come quello, un simile visitatore sarebbe sicuramente un segno di sfortuna per la [[house|>famiglia]].
+
+“Pertanto, ascoltate il mio consiglio e aprite senza spendere nulla.”
+
+Suo marito la chiama via e entrambi se ne vanno. Lo sconosciuto, rimasto [[Alone|solo]].
+
+Ascolta per un po’ il suono soffocato del [[Snow|neve]] e del [[Wind|>vento]], quel suono lontano e cupo.
+
+Il [[River|>fiume]], e poi parla.
+
+“È la vigilia di Natale,” dice lui, “Segno questa data; qui sono seduto [[Alone|da solo]], ”
+
+Un rozzo giaciglio fatto di canne, riparato dal tetto di paglia di una capanna di pastore.
+
+Io, il cui ereditario patrimonio era un regno, devo la protezione che ho trovato durante la notte a una persona povera.
+
+Schiavo. Il mio trono è stato usurpato, la mia [[Crown|corona]] poggia sulla fronte di un invasore. Io.
+
+#"Senza amici; le mie truppe vagano disperse tra le colline del Galles… Sconsiderato."
+
+#"I ladri rovinano il mio paese; i miei sudditi giacciono prosti, con il petto..."
+
+Schiacciato dal tallone del brutale danese… Destino, hai fatto del tuo peggio.
+
+E ora tu stai davanti a me, con la mano appoggiata sulla tua lama smussata.
+
+“Ah… vedo il tuo sguardo fissarsi sul mio e chiedere perché io continui ancora a vivere…”
+
+ancora [[Hope|>spero]]. O demone pagano, non credo nella tua onnipotenza, e quindi non posso.
+
+Sottomettiamoci al tuo potere. Mio Dio, il cui Figlio, proprio in questa [[Night|notte]], ne assunse l’incarico.
+
+# La forma umana: ciò che è stato concesso all’uomo di soffrire e sanguinare
+
+# La tua mano… e senza il Suo comando non puoi nemmeno muoverla. Mio Dio.
+
+Titolo:  
+Immacolato, eterno, onnisciente… In Lui ripongo la mia fiducia; e sebbene privo di tutto…
+
+# Schiacciato da te… anche se nudo, desolato, privo di ogni risorsa… non mi arrendo.
+
+[[Despair|disperazione]], non posso permettermi di [[Despair|disperare]]: se solo la lancia di Guthrum fosse ora bagnata dal mio sangue.
+
+Con il sangue che scorre in me, non dovrei disperare. Osservo, lavoro sodo, spero, prego. Jehova.
+
+Nel suo proprio [[Time|tempo]], fornirà aiuto.
+
+Non è necessario continuare la citazione: l’intero contenuto del “devoir” era già presente lì.
+
+Strano… Ci sono stati errori di ortografia e l’uso di espressioni straniere.
+
+# Errori di costruzione, verbi irregolari
+
+Titolo:  
+Trasformato in verbi regolari; era per lo più frutto di una composizione artificiale, come detto sopra.
+
+Titolo:  
+Esempi di frasi brevi e piuttosto scurrili… e lo stile che ne deriva.
+
+#In grande bisogno di rifiniture e dignità… Ma così com’era, era già sufficiente.
+
+#Non avevo mai visto nulla del genere nel corso della mia carriera accademica
+
+# Esperienza. Nella mente della ragazza si era formata un’immagine di quella capanna…
+
+Due contadini, del re senza corona. Lei aveva immaginato quella foresta invernale.
+
+Lei aveva ricordato le antiche leggende sui [[Ghost|fantasmi]] sassoni; le erano piaciute molto.
+
+Il coraggio di Alfred in momenti di calamità; lei ricordava la sua fede cristiana.
+
+L’[[Education|educazione]], e gli aveva dimostrato, con la fiducia radicata di coloro che.
+
+# Giorni primitivi: affidarsi al Dio Yahweh delle Scritture per ottenere aiuto
+
+Destino mitologico… L’aveva fatto senza che io le dessi alcun suggerimento: l’aveva fatto da sola.
+
+Considerato l’argomento in discussione, non è stata detta nemmeno una parola riguardo al modo in cui dovrebbe essere affrontato.
+
+“Troverò o creerò un’occasione per parlarle,” dissi.
+
+“Mentre arrotolavo quel foglio, pensai: ‘Imparerò cosa sa lei dell’inglese…’”
+
+#Nella sua vita, oltre al nome di Frances Evans, non è affatto una principiante…
+
+# Lingua… che è ovvia, eppure mi disse di non averla mai usata.
+
+“Non ho mai studiato l’inglese, né vissuto in famiglie inglesihe.”
+
+Durante la mia lezione successiva, ho redatto un rapporto sugli altri compiti da svolgere.
+
+#Distribuire lodi e rimproveri in dosi molto piccole, secondo…
+
+“Il mio modo di fare… poiché non aveva senso rimproverare aspramente, né elogiare eccessivamente.”
+
+# Raramente erano meritati. Non ho detto nulla riguardo all’esercizio di Madame Henri…
+
+Con gli occhiali sul naso, cercai di decifrare l’espressione del suo volto…
+
+Titolo:  
+Sentimenti legati all’omissione… Volevo scoprire se ne esistessero in lei.
+
+Una consapevolezza dei propri talenti… “Se pensa di aver fatto qualcosa di intelligente…”
+
+“Mentre compone quel dovere, sicuramente si sentirà imbarazzata”, pensò.
+
+I. Il suo viso era, come al solito, molto serio, quasi cupo; anche i suoi occhi, come sempre.
+
+Fissata sul quaderno aperto davanti a lei… C’era qualcosa, pensai.
+
+# Aspettative nel suo atteggiamento…
+
+“L’ultimo dovere… E quando lo ebbi compiuto, mi pulii le mani e dissi…”
+
+“Prendano pure le loro regole grammaticali… Un leggero cambiamento è comunque avvenuto nel suo modo di esprimersi.”
+
+#E io, come se ora abbandonasse una debole speranza di qualcosa di piacevole…
+
+# Emozione… Aveva atteso con impazienza che venisse discusso qualcosa di importante.
+
+# Aveva un certo interesse… ma la discussione non sarebbe mai avvenuta.
+
+# Aspettative svanirono, ridotte e tristi… ma l’attenzione, invece, tornò immediatamente.
+
+# Nel vuoto… il collasso effimero viene riparato in un istante.
+
+“Still, I felt, rather than saw…” durante l’intera durata della lezione.
+
+Che una [[Hope|>speranza]] le fosse stata strappata via, e che se non la mostrava.
+
+Distress. Era perché lei non voleva farlo.
+
+Alle quattro in punto, quando suonò la campanella e la stanza si riempì immediatamente.
+
+# Turbolenza… invece di prendere il mio cappello e iniziare dal palco, rimasi seduto.
+
+Ancora un momento… Guardai Frances: stava mettendo i suoi libri nella borsa.
+
+“Cabas… Dopo aver fissato il bottone, alzò lo sguardo e incrociò il mio…”
+
+“Con un gesto silenzioso e rispettoso, le fece un inchino, come per salutare cordialmente.”
+
+E stava per andarsene…
+
+“Vieni qui,” dissi, alzando il dito nello stesso [[Time|istante]]. Lei esitò.
+
+Non riusciva più a sentire quelle parole, sommerse dal clamore che ora dominava tutto intorno.
+
+Aule scolastiche; ripetei il gesto; lei si avvicinò; di nuovo esitò.
+
+A meno di mezzo metro dall’altare, sembrava timida e ancora incerta…
+
+Se avesse frainteso il mio significato.
+
+“Muoviti”, dissi con decisione. È l’unico modo per affrontare la situazione.
+
+Con personaggi timidi e facilmente imbarazzati, e con alcune sfumature…
+
+Aiuto manuale: in quel momento riuscii a posizionarla esattamente dove volevo che fosse.
+
 
 
 <span class="atom-split" data-atom="chapter_17--part_03" data-title="The Professor — Chapter 16 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/child,motif/nature,motif/time,motif/window,concept/courage,concept/fear,concept/nature,concept/suffering"></span>
@@ -25981,6 +31785,118 @@ and, close at my elbow, was the directress, sitting on a low chair,
 
 calmly clipping the tassels of her finished purse.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Cioè, tra la mia scrivania e la [[Window|finestra]], dove lei era nascosta dalla vista di.
+
+Il ritmo incalzante della seconda divisione… e dove nessuno poteva approfittare del momento per superarla.
+
+Ascolta.
+
+“Si sieda,” dissi, posizionando un sgabello e facendola accomodare.
+
+Sapevo che ciò che stavo facendo sarebbe stato considerato qualcosa di molto strano…
+
+Per di più, non mi importava affatto. Anche Frances lo sapeva, e temo che.
+
+# Apparizione di agitazione e tremore: segni che indicavano quanto le importasse. Ne dedussi…
+
+Nel mio taschino c’è il compito arrotolato.
+
+“Questo è suo, immagino?” dissi, rivolgendomi a lei in inglese, perché ormai…
+
+Era sicura di saper parlare inglese.
+
+“Sì”, rispose chiaramente; e mentre lo srotolavo e lo disponevo davanti a me…
+
+“Appoggiato sulla scrivania davanti a lei, con la mia mano sopra e una matita accanto…”
+
+# Il suo viso si illuminò di gioia
+
+Come una nuvola dietro la quale il sole brucia.
+
+“Questo dovere presenta molti difetti”, dissi. “Ti ci vorranno alcuni anni…”
+
+# Un attento studio prima di essere in grado di scrivere in inglese con…
+
+# Correttezza assoluta… Attenzione: evidenzerò alcuni difetti principali.
+
+# E l’ho esaminato attentamente, segnando ogni errore e dimostrandolo.
+
+# Perché erano errori, e come le parole o le frasi avrebbero dovuto essere scritte
+
+Scritto. Nel corso di questo processo di riflessione sobria, lei divenne calma. Ora…
+
+Continuò…
+
+“Per quanto riguarda la sostanza del vostro dovere, signorina Henri, mi ha sorpreso…”
+
+L'ho letto con piacere, perché vi ho visto alcune prove di gusto e…
+
+Fantasia… Il gusto e la fantasia non sono certo i doni più elevati dell’intelligenza umana, ma…
+
+Come sono, li possiedi… anche se probabilmente non nel grado più elevato.
+
+Ma in una misura che va oltre ciò di cui la maggior parte delle persone può vantarsi… Allora potrai procedere.
+
+[[Courage|Coraggio]]; coltivate quelle facoltà che Dio e la [[Nature|natura]] vi hanno donato.
+
+Tu, e non [[Fear|temere]] in alcuna crisi di [[Suffering|sofferenza]], sotto nessuna pressione.
+
+# Ingiustizia: trarre conforto pieno e libero dalla consapevolezza…
+
+“La loro forza e la loro rarità.”
+
+“Forza e rarità!”, ripetei tra me; “ah, queste parole devono certamente significare molto…”
+
+“Vero”, perché alzando lo sguardo vidi che il sole aveva rimosso le sue “barriere” oscuranti.
+
+# Un sorriso apparve sul suo volto…
+
+Un sorriso quasi trionfale; sembrava dire…
+
+“Sono felice che tu sia stato costretto a scoprire così tante cose della mia [[Nature|natura]]; tu, ”
+
+#Non c’è bisogno di moderare così attentamente il proprio linguaggio… Pensi forse che io stesso lo faccia?
+
+# Straniero a me stesso? Quello che mi dici, espresso con tali parole caute… lo sapevo già.
+
+Completamente come un [[Child|bambino]].
+
+Disse queste parole con la stessa chiarezza di uno sguardo sincero e diretto.
+
+In un attimo, il rossore del suo viso e lo splendore del suo aspetto…
+
+Il clamore si era placato; sebbene fosse pienamente consapevole dei propri talenti, lei lo era altrettanto…
+
+Consapevole dei suoi difetti molestivi e del ricordo di essi…
+
+cancellato per un solo istante, ora ritorna con forza improvvisa, all’istante
+
+#"Dominò quei personaggi eccessivamente vivaci nei quali il suo senso delle proprie capacità si manifestava con troppa intensità."
+
+Era stata espressa così rapidamente. Quella repulsione emotiva fu così improvvisa che non ebbi nemmeno il [[Time|tempo]] di.
+
+“Verifica il suo trionfo attraverso le rimproveri… Prima ancora che io possa corrugare la fronte in segno di disapprovazione.”
+
+Aveva assunto un'espressione seria, quasi malinconica.
+
+“Grazie, signore,” disse lei alzandosi. Nel suo tono c’era gratitudine.
+
+Nella voce e nello sguardo con cui lo accompagnava. Era arrivato il [[Time|momento]].
+
+“Infatti, perché la nostra conferenza dovesse concludersi… Poiché, quando ho guardato intorno…”
+
+# Tutti i frequentatori della scuola estiva si erano radunati
+
+A meno di un metro o due dal mio tavolo, stava lì in piedi a fissarmi con occhi e bocca spalancati.
+
+“Aperto a tutti; le tre amanti si riunirono in un angolo, bisbigliando tra loro.”
+
+E, proprio accanto a me, c’era la direttrice, seduta su una sedia bassa.
+
+Con calma, sistemava i nastri della sua borsa ormai pronta.
 
 
 
@@ -26229,6 +32145,252 @@ most ordinary branches of [[Education|education]]; had you known something of [[
 
 and grammar you might, by degrees, have relinquished your lace-[[mending]]
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XVII.
+
+Dopo tutto, avevo tratto beneficio da quell’opportunità… anche se in modo imperfetto.
+
+Con audacia ho cercato di parlare con la signorina Henri; il mio intento era quello di chiederle…
+
+Come mai Frances abbia finito per possedere due nomi battesimali inglesi…
+
+E Evans, oltre al suo cognome francese, da cui derivava…
+
+Il suo bel accento… Avevo dimenticato entrambe queste cose, o meglio, il nostro dialogo.
+
+Era stato così breve che non avevo avuto il [[Time|tempo]] di presentarli.
+
+Inoltre, non avevo nemmeno verificato appieno le sue capacità nel parlare inglese…
+
+Dalle sue parole, pronunciate in quella lingua, erano emerse le parole “Sì” e “Grazie”.
+
+“Voi, signore…” “Non importa”, pensai. “Quello che ora è rimasto incompleto…”
+
+“Si finirà un altro giorno… E io non ho mancato di mantenere la promessa.”
+
+# Realizzato per me stesso… Fu difficile riuscire a trovare anche solo poche parole appropriate…
+
+#Conversazione con uno studente tra tanti… ma, secondo quanto diceva l’antico…
+
+“Proverbo: ‘Dove c’è volontà, ci sono modi’; e ancora e ancora…”
+
+Sono riuscito a trovare l’occasione per scambiare qualche parola con la signorina.
+
+Henri, nonostante l’invidia degli altri e i pettegolezzi che circolavano su di me…
+
+Le si avvicinò.
+
+“Il tuo libro… in un istante.” Era così che spesso iniziavo queste conversazioni.
+
+Brevi dialoghi; il [[Time|tempo]] era sempre appena alla fine di.
+
+“Lezione… e dopo averle fatto segno di alzarsi, mi misi al suo posto.”
+
+Lei stava al mio fianco con rispetto, perché ritenevo fosse saggio così fare.
+
+# E nel suo caso, era del tutto giusto applicare rigorosamente tutte le norme abituali
+
+# Utilizzo tra maestro e discepolo; soprattutto perché percepii che in…
+
+Man mano che il mio modo di comportarmi diventava più austero e autoritario, il suo diveniva più rilassato.
+
+e padrone di sé stesso. Una strana contraddizione, senza dubbio, rispetto alla norma.
+
+Effetto in tali casi, ma era proprio così che accadeva.
+
+“Una penna,” dissi, tendendo la mano senza guardarla. (Io sono…)
+
+Ora sto per redigere un breve resoconto della prima di queste conferenze.
+
+# Mi ne ha dato uno, e mentre evidenziavo alcuni errori grammaticali…
+
+# L'esercizio che aveva scritto… osservai.
+
+“Non sei originario del Belgio?”
+
+“No.”
+
+“Nemmeno della Francia?”
+
+“No.”
+
+“Dove, allora, è la tua città natale?”
+
+#Nato a Ginevra
+
+“Non chiamerete mai Frances ed Evans nomi svizzeri, giusto?”
+
+"No, signore; si tratta di nomi inglesi."
+
+"Just so; e è forse consuetudine dei genovesi dare ai loro figli..."
+
+“Appellativi inglesi?”
+
+“No, signore; ma–”
+
+#"Parla inglese, per favore."
+
+“Ma, davvero...”
+
+# Inglese–
+
+“Ma…” (lentamente e con imbarazzo) “i miei genitori non erano affatto così…”
+
+“Genovese.”
+
+“Dica AMBIE, invece di ‘entrambe le cose’, signorina.”
+
+“Non entrambe svizzere: mia madre era inglese.”
+
+“Ah! E di origine inglese?”
+
+“Sì… i suoi antenati erano tutti inglesi.”
+
+“E tuo padre?”
+
+#Era svizzero.
+
+# “Che altro? Qual era la sua professione?”
+
+# Pastore e chiesa
+
+Titolo:  
+“Poiché tua madre è inglese, perché non parli inglese?”
+
+“Maggior facilità?”
+
+"Mamma è morta dieci anni fa."
+
+“E voi rendete omaggio alla sua [[Memory|memoria]] dimenticando la sua lingua. Avete forse, ”
+
+Titolo:  
+Per l’amor del cielo, metti da parte il francese finché parlo con te…
+
+“Tu… continua a parlare in inglese.”
+
+“È così difficile, signore, quando non ci si è più abituati…”
+
+“Suppongo che in passato avessi questa abitudine… Ora rispondimi con le parole di tua madre.”
+
+“La lingua”.
+
+“Sì, signore, da bambino parlavo più inglese che francese.”
+
+“Perché non lo parli ora?”
+
+“Perché non ho amici inglesi.”
+
+“Vivi con tuo padre, giusto?”
+
+"Mio padre è morto."
+
+"Hai fratelli e sorelle?"
+
+"Nessuno."
+
+“Vivi [[Alone|da solo]]?”
+
+"No--ho un’antenna... ma la mia tante Julienne."
+
+“La sorella di tuo padre?”
+
+“Esatto, signore.”
+
+“È davvero inglese?”
+
+“Mai… ma me ne sono dimenticato…”
+
+“Per questo, signorina, se foste un [[Child|>bambino]], sicuramente troverei il modo, ”
+
+“Una piccola punizione… A quell’età… Devi avere due o tre anni…”
+
+“Venti, direi…”
+
+“Non ancora, signore… tra un mese compirò diciannove anni.”
+
+“Beh, diciannove anni è un’età matura, e una volta raggiunti, si dovrebbe, ”
+
+Essere così attenti al proprio miglioramento da non averne alcun bisogno
+
+“Perché un maestro debba ricordarti due volte l’opportunità di parlare…”
+
+“Utilizzare l’inglese ogni volta che sia possibile.”
+
+A questa saggia dichiarazione non ricevetti alcuna risposta; e quando alzai lo sguardo…
+
+La studentessa sorrideva tra sé con un sorriso significativo, anche se non molto allegra…
+
+“Sembrava dire: ‘Parla di cose che non sa nemmeno cosa siano’…”
+
+Così chiaramente, che decisi di chiedere informazioni al riguardo.
+
+In merito a ciò, la mia ignoranza sembrava essere così tacitamente confermata.
+
+# Ti interessa migliorare?
+
+“Meglio così.”
+
+“Come può provarlo, signorina?”
+
+Una domanda strana, e per dirlo francamente, suscitò un altro sorriso.
+
+“Perché, signore, non sono negligente, vero? Imparo le mie lezioni molto bene, ”
+
+“Oh, un [[Child|bambino]] può farlo! E cosa altro sai fare?”
+
+"Cosa altro posso fare?"
+
+“Oh, certamente, non molto; ma lei è un’insegnante, vero? Come è giusto, ”
+
+“Un allievo?”
+
+“Sì, davvero.”
+
+“Insegni a riparare i merletti?”
+
+“Sì, davvero.”
+
+“Un lavoro noioso e stupido… ti piace?”
+
+“Mai… è noioso davvero.”
+
+“Perché lo persegui? Perché non insegni invece [[history|storia]], geografia, ”
+
+“Grammatica… persino l’aritmetica?”
+
+“È davvero certo, signore, che io conosca appieno queste cose?”
+
+“Studi?”
+
+“Non lo so… Dovresti comportarti in modo appropriato alla tua età.”
+
+“Ma io non sono mai andato a scuola, signore…”
+
+“Certamente! Allora, che fine hanno fatto i tuoi amici… e cosa stava facendo tua zia? Lei…”
+
+“Molto da biasimare.”
+
+“No monsieur, no… mia zia è buona… non è colpa sua… lei fa solo ciò che…”
+
+“Lei può farlo; è lei ad ospitarmi e a provvedere al mio sostentamento” (Riferisco le parole della signorina Henri)
+
+“Letteralmente… ed è così che ha tradotto dal francese: ‘Lei non è’.”
+
+#Povera e ricca
+
+“È impossibile per lei mandarmi a scuola.”
+
+“Meglio di no…”, pensai tra me e me sentendo queste parole, ma continuai comunque…
+
+Tono dogmatico che avevo adottato:–
+
+“È triste, tuttavia, che si cresca nell’ignoranza di…”
+
+Le più comuni branche dell’[[Education|istruzione]]; se avessi conosciuto qualcosa di [[history|storia]].
+
+E forse, gradualmente, avete abbandonato anche l’attività di riparare i merletti.
 
 
 
@@ -26509,6 +32671,287 @@ smiling, with that same bitter, derisive smile I had seen on her lips
 
 once before, she hastily [[Rose|rose]] and made her exit.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Lavori noiosi… e la scalata verso il successo nel mondo.”
+
+“È esattamente ciò che intendo fare.”
+
+“Come? Solo con la conoscenza dell’inglese? Non basterà; no, ”
+
+Una rispettabile famiglia riceverà una governante la cui unica qualifica…
+
+“La conoscenza consiste nella familiarità con una lingua straniera.”
+
+“Signore, so altre cose.”
+
+"Sì, sì, si possono utilizzare le lana di Berlino per ricamare fazzoletti a mano."
+
+“E i colletti… non vi saranno di grande aiuto.”
+
+“Le labbra di Madame Henri erano aperte per rispondere, ma si trattenne…”
+
+Titolo:  
+Ritenendo che la discussione fosse stata sufficientemente approfondita, rimase…
+
+Silenzioso.
+
+“Parla,” continuai, impaziente; “Non mi piace mai quando…”.
+
+Accettazione quando la realtà non esiste… e si vive in contraddizione.
+
+“Sul punto di essere detto…”
+
+“Signore, ho seguito molte lezioni sia di grammatica che di [[history|storia]], geografia, ”
+
+“Matematica e aritmetica… Ho seguito corsi su entrambe le materie.”
+
+“Bravo! Ma come ci sei riuscito, visto che tua zia non aveva i soldi per…
+
+“Mandarti a scuola?”
+
+“Con il ricamo, con quella cosa che il signore disprezza così tanto.”
+
+“Davvero! E ora, signorina, sarà un buon esercizio per voi…”
+
+“Spiegami in inglese come sia stato possibile ottenere un tale risultato con metodi del genere.”
+
+“Signore, ho supplicato mia zia di farmi iniziare a imparare l’arte del rammendo dei merletti il prima possibile.”
+
+Ci siamo recati a Bruxelles perché sapevo che fosse una vera e propria professione, un mestiere serio…
+
+Facilmente imparabile, e con cui avrei potuto guadagnare un po’ di soldi in poco tempo… L’ho imparato.
+
+In pochi giorni… e rapidamente trovai lavoro, per tutte le signore di Bruxelles.
+
+# Vecchi merletti… molto preziosi… che devono essere sistemati ogni volta che si strappano…
+
+Washed… Ho guadagnato un po’ di soldi, e li ho usati per pagare le lezioni.
+
+Nelle ricerche di cui ho parlato, una parte del tempo l’ho trascorsa acquistando libri.
+
+Libri inglesi, soprattutto… Presto proverò a trovare un lavoro come istituttrice.
+
+O insegnante di scuola, quando riuscirò a scrivere e parlare inglese in modo [[Well|buono]]; ma ci vorrà tempo.
+
+Essere difficile… perché coloro che sanno che mi sono dedicata al riparare i merletti…
+
+“Disprezzami, come fanno gli studenti qui a disprezzarmi… Ma ho il mio progetto.”
+
+Lo disse con un tono più basso.
+
+“Che cos’è?”
+
+#Andrò a vivere in Inghilterra: lì insegnerò il francese.
+
+Le parole furono pronunciate con enfasi. Disse “Inghilterra” proprio come si farebbe…
+
+Supponiamo che un israelita dei tempi di Mosè avesse detto “Canaan”.
+
+# Hai il desiderio di vedere l’Inghilterra?
+
+“Sì, e anche un’intenzione.”
+
+E in quel momento, la voce della direttrice intervenne:
+
+“Mademoiselle Henri, credo che stia per piovere; farebbe bene…”
+
+“Buone amiche, devo tornare subito da voi.”
+
+In [[Silence|silenzio]], senza nemmeno una parola di ringraziamento per questo avvertimento premuroso, la signorina.
+
+# Henri raccolse i suoi libri; si avvicinò a me con rispetto, cercando di…
+
+Si rivolse al suo superiore, anche se il tentativo risultò quasi fallito.
+
+La testa sembrava non voler piegarsi, e così se ne andò.
+
+# Dove c’è anche solo un granello di perseveranza o testardaggine…
+
+# Composizione: piccoli ostacoli spesso stimolano piuttosto che…
+
+Non scoraggiarsi. La signorina Reuter avrebbe potuto benissimo risparmiarsi la fatica.
+
+Titolo:  
+Un accenno al tempo… e anche alla sua previsione
+
+# Fu falsificato dall’evento: quella sera non piovve. Alla fine…
+
+Titolo:  
+Nella lezione successiva, mi trovai di nuovo alla scrivania della signorina Henri. Fu così che iniziai la conversazione con lei…
+
+#Her:--
+
+#Qual è la vostra idea dell’Inghilterra, signorina? Perché desiderate andarci?
+
+“Lì, davvero?”
+
+Ormai abituato, a questa [[Time|epoca]], alla bruschezza calcolata del mio modo di comportarmi, non.
+
+La sua reazione non fu né sorpresa né particolarmente turbata; rispose semplicemente in quel modo.
+
+# Molta esitazione, inevitabile data la difficoltà della situazione in cui si trovava…
+
+esperta nell’improvvisare la [[Translation|traduzione]] dei propri pensieri dal francese
+
+In English:
+
+“L’Inghilterra è qualcosa di unico, come ho sentito e letto; la mia idea su di essa è…”
+
+“Vago… e voglio andare lì per rendere la mia idea chiara e definita.”
+
+“Hmm… Quanta parte dell’Inghilterra riusciresti a vedere se andassi lì?”
+
+In qualità di insegnante? Devi avere davvero un’idea strana su come procedere…
+
+Una chiara e definitiva immagine di un paese… Tutto ciò che si poteva vedere della Gran Bretagna…
+
+# Britannia come l’interno di una scuola… o al massimo di una o due
+
+# Abitazioni private
+
+“Sarebbero scuole inglesi; sarebbero abitazioni inglesi.”
+
+“Indiscutibilmente… ma allora? Qual sarebbe il valore di tali osservazioni?”
+
+“Realizzato su una scala così ristretta?”
+
+“Signore, non si potrebbe imparare qualcosa attraverso l’analogia?”
+
+Un campione… Un esempio spesso basta per farsi un’idea del tutto.
+
+Oltre a ciò, “stretto” e “ampio” sono aggettivi comparativi, non è vero? Tutto il mio…
+
+La vita potrebbe sembrarti angusta… tutta la vita di una persona del genere…
+
+“Un piccolo animale sotterraneo… una talpa, si dice…”
+
+“Topo di fogna.”
+
+“Sì… una talpa, che vive sottoterra, sembrerebbe stretta anche a me.”
+
+“Beh, signorina, e poi? Continui pure.”
+
+“Ma certo, signore, mi capisce perfettamente.”
+
+"Nemmeno per sogno; per favore spiegati."
+
+“Ma certo, signore, è proprio così. In Svizzera non ho fatto quasi nulla…”
+
+# Poco imparato, poco visto… La mia vita era confinata in un cerchio ristretto.
+
+# Percorrevo sempre lo stesso percorso ogni giorno… Non riuscivo a uscirne… Se solo avessi potuto…
+
+Rimase lì fino alla mia [[Death|morte]]; non avrei mai dovuto ampliarlo.
+
+# Perché sono povero e non abile, non ho grandi realizzazioni.
+
+# Quando ne ebbi abbastanza di questa situazione, pregai mia zia di andarsene
+
+#Bruxelles: la mia esistenza non è diversa da quella altrove, perché non sono più ricco…
+
+“Più in alto… Entro entro un ambito ristretto, ma la scena cambia…”.
+
+“Cambiare di nuovo se andassi in Inghilterra… Conoscevo qualcosa sui borghesi…”
+
+#Genova, ora conosco qualcosa sui borghesi di Bruxelles… se ci andassi…
+
+A [[London|Londra]], conosceri qualcosa sui borghesi di [[London|Londra]]. Puoi farlo?
+
+“Riuscite a capire qualcosa di ciò che dico, signore, o tutto è troppo oscuro per voi?”
+
+“Capisco, capisco… Ora passiamo ad un altro argomento: tu proponi di…”
+
+Dedicare la propria vita all’insegnamento non significa necessariamente essere un ottimo insegnante…
+
+“Non riesci a mantenere l’ordine tra i tuoi alunni.”
+
+Un’onda di confusione e dolore fu la conseguenza di quel commento crudele; lei…
+
+# Chinò la testa sul banco, ma presto la rialzò e rispose…
+
+"#Monsieur, non sono certo un insegnante abile, è vero… ma la pratica conta."
+
+"Migliora; inoltre, lavoro in condizioni difficili; qui insegno soltanto sartoria."
+
+#Nessuna abilità nel cucito, nessun vantaggio… È solo un compito secondario.
+
+Arte, allora non ho nessuno con cui condividere questa [[house|>casa]]; sono isolato, anch’io lo sono.
+
+“Eretico… un individuo che mi priva di qualsiasi influenza.”
+
+“In Inghilterra saresti considerato uno straniero; anche questo ti priverebbe di…”
+
+Di influenza… e vi separerebbe efficacemente da tutto ciò che vi circonda.
+
+#Inghilterra… avresti poche connessioni, poca importanza…
+
+“Tienilo qui.”
+
+“Ma dovrei imparare qualcosa… Per il resto, probabilmente ci sono altre soluzioni.”
+
+Difficoltà per uno come me ovunque… E se devo lottare, allora lo farò.
+
+Forse potrei essere conquistato, ma preferirei sottomettermi all’[[Pride|orgoglio]] inglese piuttosto che.
+
+“La rozzezza fiamminga… Inoltre, signore…”
+
+Si fermò… non certo a causa di difficoltà nel trovare le parole giuste per continuare.
+
+“Esprimersi liberamente… ma perché la discrezione sembrava suggerire: ‘Hai già detto abbastanza’.”
+
+"Basta."
+
+“Finisci la tua frase,” lo esortai.
+
+“Oltre a ciò, signore, desidero ardentemente vivere di nuovo tra i protestanti; loro sono…”
+
+“Più onesti dei cattolici… Una scuola romana è semplicemente un edificio…”
+
+Muri, pavimento cavo, soffitto finto; ogni stanza di questa [[house|casa]],
+
+Signore, ha fori per gli occhi e per le orecchie. E quello che è la [[house|>casa]], beh.
+
+Gli abitanti sono molto traditori… Tutti ritengono legittimo mentire.
+
+Menti; tutti definiscono “cortesia” il fatto di dichiarare di avere [[Friendship|amicizia]] quando in realtà non la provano.
+
+“Odio”.
+
+“Tutti?” dissi; “intendi quegli studenti… semplici bambini, inesperti…”
+
+Cose vertiginose… quelle che non hanno ancora imparato a distinguere la differenza tra…
+
+“Giusto e sbagliato?”
+
+“Al contrario, signore: i bambini sono quelli più sinceri; loro…
+
+Non avevano ancora avuto il [[Time|tempo]] necessario per diventare abili nella duplicità; loro lo diranno.
+
+#Menti, ma lo fanno in modo naturale… e tu sai che stanno mentendo.
+
+#Gli adulti sono molto falsi: ingannano gli sconosciuti, ingannano…
+
+L'uno con l'altro…
+
+# Un servitore entrò…
+
+# “Signorina Henri… Signorina Reuter, le preghiamo di voler guidare…”
+
+Titolo:  
+Petite De Dorlodot… Vi aspetta nel suo studio.
+
+Titolo:  
+De Rosalie la portiera… cioè perché la sua domestica non è venuta oggi.
+
+“Cercare… capite?”
+
+“Beh, sono davvero la sua buona… io?”, chiese Madame Henri.
+
+Sorridendo, con quel stesso sorriso amaro e derisorio che avevo visto sulle sue labbra…
+
+Una volta, si alzò in fretta e se ne andò.
 
 
 
@@ -27052,6 +33495,190 @@ wriggle, titter, or other flourish of folly.
 
 “Ou donc est Mdlle. Henri?” I said one day as I returned an
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Ribellione nel cuore: possedeva una fonte di conforto che loro non avevano
+
+#"Un pilastro di sostegno che non potevano abbattere: un tempo..."
+
+Offesa, aveva pianto; ora, sorrideva.
+
+Titolo:  
+La lettura pubblica di uno dei suoi doveri portò alla rivelazione di qualcosa su di lei
+
+# Talenti per tutti… Ricordo bene l’argomento: era riguardante gli emigranti.
+
+Una lettera ai suoi amici a [[Home|casa]]. Iniziava in modo semplice, con alcune parole spontanee.
+
+# Scene di foresta vergine rivelata al lettore attraverso descrizioni dettagliate e elementi visivi
+
+E poi c'erano i grandi fiumi del Nuovo Mondo, privi di vele e bandiere, in mezzo a tutto ciò.
+
+L’epistola avrebbe dovuto essere scritta… Le difficoltà e i pericoli che…
+
+Si accennava alla vita di un colono; e nelle poche parole pronunciate…
+
+Titolo:  
+Su quell’argomento, la signorina Henri non poté fare a meno di esprimere il proprio parere ad alta voce…
+
+# Risoluzione, pazienza, impegno: le calamità che lo avevano spinto…
+
+Vi si faceva riferimento al suo paese natale; [[Honour|onore]] intatto, inalterabile.
+
+Indipendenza, un rispetto per se stessi indistruttibile. Fu questa la parola che prevalse in quel momento. Il passato.
+
+Si parlava dei giorni trascorsi; del dolore della separazione, dei rimpianti per l’assenza…
+
+Titolo:  
+Toccato con delicatezza; un sentimento intenso e profondo, espresso con eloquenza in ogni dettaglio…
+
+Periodo. Alla fine venne offerta un po’ di consolazione; la [[Faith|>fede]] religiosa divenne.
+
+Eccola la relatrice: ha parlato molto bene.
+
+# Un dovere espresso con linguaggio purissimo ed elegante
+
+In uno stile animato da vigore e arricchito dall’armonia.
+
+La signorina Reuter conosceva abbastanza bene l’inglese da…
+
+#Capirlo quando letto o detto davanti a lei, anche se lei potesse…
+
+Né lo parla né lo scrive lei stessa. Durante la lettura di questo dovere…
+
+# Sedeva tranquillamente impegnata, con gli occhi e le dita occupate nella realizzazione di qualcosa…
+
+“Di un bordo aperto realizzato con tecniche di ricamo intorno a un fazzoletto di cambrice…”
+
+Non disse nulla; il suo viso e la sua fronte erano coperti da una maschera di pura…
+
+Espressione negativa… tanto vuota quanto i suoi labbii. Proprio come nulla.
+
+Non si manifestò né sorpresa, né piacere, né approvazione, né interesse da parte sua.
+
+Espressione del volto: quindi più nessun segno di disprezzo, invidia, irritazione o stanchezza…
+
+“Quell’atteggiamento enigmatico significava una cosa sola:…”
+
+“La questione è troppo banale per suscitare emozioni o provocare alcuna reazione.”
+
+"Opinione."
+
+Non appena ebbi finito, si udì un ronzio, diverse studentesse si affollarono intorno.
+
+# Signorina Henri iniziò ad assillarla con complimenti; la voce calma e composta di…
+
+Si sentì ora la voce della direttrice:–
+
+“Signorine, voi che avete cappotti e ombrelli, affrettatevi…”
+
+“Tornare a [[Home|casa]] prima che la pioggia diventi più intensa, ” (stava piovendo forte).
+
+“Quelli che sono in minoranza aspetteranno l’arrivo dei rispettivi servitori.”
+
+“Per andarli a prendere.” E la scuola si disperse, perché erano le quattro di [[Clock|ore]].
+
+“Signore, un momento,” disse la signorina Reuter, avvicinandosi al podio.
+
+“Con un gesto della mano, mi fece capire che voleva che io lasciassi andare…”
+
+Per un istante, il castoro che avevo stretto tra le mani.
+
+“Signorina, sono ai suoi ordini.”
+
+“Signore, è certamente un ottimo piano incoraggiare lo sforzo…”
+
+Titolo:  
+“Rendere evidente il progresso di alcuni giovani in modo particolare…”
+
+Alunno diligente… ma non credi che, in questo caso particolare,
+
+#Mademoiselle Henri difficilmente può essere considerata alla stessa pari dei altri
+
+Alunni? È più anziana della maggior parte di loro e ha avuto vantaggi che gli altri non hanno…
+
+Natura esclusiva per l’acquisizione delle conoscenze di inglese; d’altra parte.
+
+#Sfera di vita inferiore
+
+# Una distinzione pubblica conferita alla signorina Henri in circostanze particolari
+
+#I metodi per suggerire confronti e suscitare emozioni del genere
+
+Non è affatto vantaggioso per la persona che lo persegue.
+
+# L’interesse che provo per il vero benessere di Mademoiselle Henri mi spinge a…
+
+“Proteggerla da fastidi del genere; inoltre, signore, poiché…”
+
+Titolo:  
+Come vi ho già accennato in precedenza, il sentimento dell’amor-propre ha una certa…
+
+#Prevalenza marcata nel suo carattere; la celebrità ha la tendenza a…
+
+“Coltivare questo sentimento… ma in lei dovrebbe essere piuttosto represso.”
+
+“Piuttosto bisogna tenerlo sotto controllo che promuoverlo… E poi penso…”
+
+Signore, a mio parere, l’[[Ambition|ambizione]], soprattutto quella letteraria.
+
+“Non è un sentimento da custodire nel cuore di una donna… Non lo farebbe.”
+
+# Signorina Henri sarebbe molto più al sicuro e felice se le venisse insegnato a credere che…
+
+Se il compimento silenzioso e rispettoso dei doveri sociali rappresentasse davvero la sua vera vocazione…
+
+#Spinta ad anelare all’applauso e alla notorietà? Forse non sposerà mai…
+
+scarsa come sono le sue risorse, oscure come sono le sue connessioni, incerta…
+
+# Come è la sua salute… poiché credo che soffra di tubercolosi; sua madre è morta per quella stessa malattia.
+
+# Mai si lamenta… È molto probabile che non lo faccia mai. Non capisco proprio come possa farlo.
+
+Può raggiungere una posizione tale da rendere possibile un simile passo… ma
+
+#Anche nel celibato, per lei sarebbe meglio mantenere quel carattere…
+
+“Istruzioni per una donna rispettabile e dignitosa”.
+
+“Indiscutibilmente, signorina”, fu la mia risposta. “Il suo punto di vista non lascia spazio a dubbi.”
+
+“[[Doubt|>dubbio]]”; temendo che l’invettiva potesse riprendere, mi ritirai.
+
+Risposta piena di cordiale consenso.
+
+Titolo:  
+Venti giorni dopo l’episodio menzionato sopra, riscontro…
+
+“Nel mio diario è annotato che ci fu una pausa nella routine abituale della signorina Henri.”
+
+Assidua frequenza alle lezioni… Nei primi giorni mi chiedevo perché lo facesse.
+
+Assenza… ma non volevo chiedere spiegazioni al riguardo; in effetti, pensavo proprio così.
+
+# Una parola casuale potrebbe fornirmi l’informazione di cui ho bisogno
+
+Volevo ottenerlo senza correre il rischio di suscitare sorrisi sciocchi…
+
+E i pettegolezzi continuavano, insistendo su di esso… Ma quando passò una settimana…
+
+La sedia alla scrivania vicino alla porta era ancora vuota… e quando…
+
+Nessuno menzionò quella circostanza.
+
+Class–quando, al contrario, notai che tutti osservavano un marcato [[Silence|silenzio]].
+
+#Al punto giusto… Decisi, a tutti i costi, di rompere il ghiaccio in questa situazione.
+
+“Silly Reserve… Ho scelto Sylvie come mia fonte d’informazioni, perché da lei…”
+
+Sapevo che avrei dovuto ottenere almeno una risposta sensata, senza alcun commento superfluo.
+
+Contorcimenti, risatine o altre manifestazioni di follia.
+
+“Dove diavolo è la signorina Henri?”, dissi un giorno mentre la riconsegnavo…
 
 
 
@@ -27664,6 +34291,221 @@ low over the citadel. I did not like her thus, so I cut short the
 TETE-A-TETE and departed.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Il coinvolgimento degli insegnanti è spesso vantaggioso per gli interessi di una scuola; permette loro di…”
+
+“Dona vivacità e varietà alle attività; diverte gli studenti e stimola la loro fantasia.”
+
+“Per i genitori: l’importanza dello sforzo e del progresso”.
+
+“Ma quando vi stanchiate di un professore o di una amante, esitate a…”
+
+“Rifiutarli?”
+
+“Non c’è bisogno di ricorrere a misure così estreme, ve lo assicuro.”
+
+“Allons, monsieur le professeur–sediamoci; vi dirò qualcosa…”
+
+"#Una piccola lezione per voi insegnanti..."
+
+Tutto ciò che mi disse in francese… purtroppo, tradotto, perde tutto il suo significato originale.
+
+(In inglese:) Ora eravamo arrivati alla sedia nel giardino; la direttrice si sedette.
+
+# E mi chiese di sedermi accanto a lei, ma io mi limitai ad appoggiare il ginocchio sul sedile.
+
+# Appoggiato con la testa e il braccio contro un ramo che mi offriva riparo…
+
+Un enorme laburno, i cui fiori dorati si mescolavano con le foglie verdi scure.
+
+“Di un cespuglio di lavanda, che formava un arco misto di ombra e luce solare sopra…”
+
+Ritirarsi. La signorina Reuter rimase in silenzio per un momento; alcuni movimenti insoliti.
+
+Evidentemente, queste idee lavoravano nella sua mente, e le mostrarono la loro vera [[Nature|>natura]].
+
+Fronte astuta… Stava riflettendo su qualche strategia fondamentale per il suo futuro. Convinta.
+
+Dalla esperienza di diversi mesi, capì che l’affettazione delle virtù che mostrava…
+
+“Non possederla non fu sufficiente per intrappolarmi… consapevole che avevo già letto la sua vera natura.”
+
+La [[Nature|natura]], e non avrebbe creduto a nulla di ciò che lei presentava come se fosse vero.
+
+#La sua chiave… Alla fine aveva deciso di provare una nuova chiave, per vedere se funzionava con quella serratura.
+
+Qualsiasi parte del mio cuore si arrenderebbe a quello. Un po’ di audacia, una parola di [[Truth|verità]], e.
+
+“Un barlume della realtà… Sì, ci proverò”, fu la sua risoluzione interiore; e poi…
+
+“Il suo occhio blu brillò su di me… non lampeggiò; non c’era alcuna scintilla in esso.”
+
+Si accese con il suo tenue bagliore.
+
+“Monsieur ha paura di sedersi accanto a me?”, chiese lei scherzosamente.
+
+“Non ho alcun desiderio di prendere il posto di Pelet”, risposi, poiché ormai l’avevo ottenuto.
+
+L’abitudine di parlarle con franchezza… un’abitudine nata dalla rabbia, ma che è continuata.
+
+#Perché vidi che, invece di offenderla, la affascinava… Lei lo guardò con interesse.
+
+Abbassò lo sguardo, chiuse le palpebre; sospirò con inquietudine; poi si girò…
+
+Con un gesto ansioso, come se volesse farmi immaginare un uccello…
+
+“Agita le ali nella sua gabbia, desiderando ardentemente liberarsi dalla prigione e dal suo carceriere…”
+
+Cerca il proprio compagno naturale e un nido confortevole.
+
+“[[Well|>Bene]], e la tua lezione?” chiesi brevemente.
+
+“Ah!”, esclamò lei, riprendendosi, “sei così giovane, così schietto…”
+
+# Coraggioso e senza paura, così talentuoso, così sprezzante dell’idiozia…
+
+Vulgarità… hai bisogno di una lezione; eccola dunque: c’è ancora molto da fare.
+
+In questo mondo, la destrezza conta più della forza… Ma forse lo sapevi già.
+
+Che prima d'ora, perché nella tua natura ci sono sia delicatezza che forza.
+
+Carattere, politica, orgoglio, qual è il rapporto tra questi concetti?
+
+“Vai avanti,” dissi; e faticavo a trattenere un sorriso, quella lusinga era davvero troppo evidente.
+
+“Piquant… così delicatamente condito.” Colse quel sorriso proibito… anche se io…
+
+“Passai la mano sopra il mio seno per nasconderlo; e lei, ancora una volta, mi fece spazio…”
+
+Volevo sedermi accanto a lei. Scossi la testa, anche se la [[Temptation|tentazione]] continuava ad influenzarmi.
+
+I miei sensi in quel momento. E ancora una volta le dissi di continuare.
+
+“Allora, se mai dovessi trovarmi a capo di un’organizzazione grande, ”
+
+Non licenziate nessuno. Per dire la [[Truth|verità]], signore, (e a voi parlerò allo stesso modo).
+
+La [[Truth|verità]]. Disprezzo le persone che stanno sempre creando problemi, facendo scenate, inviando messaggi aggressivi.
+
+A destra e a sinistra, incitando e affrettandosi…
+
+Circostanze… Le dirò cosa mi piace fare di più, monsieur, va bene?
+
+Alzò lo sguardo di nuovo; questa volta aveva combinato il suo sguardo in modo molto più efficace.
+
+#Un tocco di grazia, ancora più rispetto, una punta di civetteria… e un pizzico di audacia.
+
+# Consapevolezza delle proprie capacità. Annuii; lei mi trattava come se fossi davvero qualcuno di importante.
+
+Un magnate. Sì, per lei sono diventato un grande magnate.
+
+“Mi piace, signore, prendere il mio lavoro a maglia e sedermi in silenzio…”
+
+# Seduto nella mia sedia… Le circostanze passano accanto a me; le osservo avanzare… così.
+
+“Finché seguono il percorso che desidero, non dico nulla e non faccio nulla…”
+
+Non applaudire e non esclamare “Bravo! Che fortuna ho!” per attirare l’attenzione…
+
+L’attenzione e l’invidia dei miei vicini… Io sono semplicemente passivo; ma quando…
+
+Eventi spiacevoli accadono… quando le circostanze diventano avverse… Io osservo attentamente.
+
+“Con attenzione continuai a lavorare a maglia, e continuai a tenere la bocca chiusa… ma di tanto in tanto…”
+
+#E poi, signore, ho semplicemente messo un piede fuori… e così… ho dato inizio alla ribellione.
+
+# Una spinta silenziosa e discreta che la dirige nella giusta direzione
+
+Vorrei, e alla fine ci riesco; nessuno ha visto il mio stratagemma.
+
+#Quando insegnanti e maestri diventano problematici ed inefficiaci…
+
+In breve, i interessi della scuola ne risentirebbero se li trattenessero.
+
+“Il loro posto… Io mi occupo della mia maglia; gli eventi procedono, le circostanze scorrono lente…”
+
+Titolo:  
+Il passato… Ne vedo uno che, se spinto anche solo di poco fuori strada, potrebbe causare conseguenze irreparabili.
+
+“Un tenibile incarico… Il posto che desidero lasciare è ormai libero… L’operazione è stata completata…”
+
+“L’ostacolo è stato rimosso… e nessuno mi ha visto: non ho fatto nemici.”
+
+“Sono finalmente libero da un onere fastidioso.”
+
+“Un attimo fa la trovavo affascinante… Ma ora che questo discorso è finito…”
+
+La guardò con disprezzo. “Proprio come te,” fu la mia risposta fredda.
+
+“E così avete allontanato la signorina Henri… Volevate il suo ufficio?”
+
+“Quindi l’hai reso insopportabile per lei?”
+
+“Assolutamente no, signore, ero semplicemente preoccupato per la salute di mademoiselle Henri.”
+
+“No, la tua visione morale è chiara e acuta… ma proprio in questo hai fallito.”
+
+Per scoprire la [[Truth|verità]]. Ho sempre mostrato un vero interesse per.
+
+Il benessere di Madame Henri: non mi piaceva che uscisse sotto qualsiasi condizione meteorologica.
+
+# Pensavo che fosse più vantaggioso per lei ottenere una posizione permanente
+
+La situazione… Inoltre, ritenevo che ora fosse qualificata per fare qualcosa di più.
+
+“Insegnare a cucire è meglio che nulla… Ho cercato di convincerla, ma ho lasciato la decisione a lei.”
+
+“Riconobbe la correttezza delle mie opinioni e le adottò.”
+
+“Eccellente! Ora, signorina, le sarei molto grato se potesse…
+
+“La sua indirizzo.”
+
+“Il suo indirizzo!” E un cambiamento cupo e freddo apparve sul suo volto.
+
+La direttrice: “Il suo indirizzo? Ah. Vorrei davvero potervi aiutare.”
+
+“Signore, ma non posso, e le dirò il motivo: ogni volta che sono stato io stesso a chiederlo…”
+
+“Per quanto riguarda il suo indirizzo, lei evitava sempre di rispondere alle domande. Pensavo… forse…”
+
+#Non essere in errore… ma pensavo che il suo movente fosse naturale, anche se…
+
+# Riluttanza errata ad presentarmi a persone probabilmente molto povere
+
+Dimora; i suoi mezzi erano scarsi, le sue origini sconosciute; vive da qualche parte…
+
+“Senza dubbio, nelle zone popolari della città.”
+
+“Non perderò mai di vista la mia migliore allieva, anche se lei…”
+
+"Nato da mendicanti e alloggiato in un seminterrato… Per il resto, è assurdo."
+
+“Farne un problema costante riguardo alle sue origini… In realtà so che lei era…”
+
+# Figlia di un pastore svizzero… e nient’altro.
+
+In altre parole, non mi interessa affatto la [[Poverty|povertà]] del suo portafoglio, purché il suo cuore sia.
+
+“Ricco di abbondanza.”
+
+“I suoi sentimenti sono davvero nobili, signore,” disse la direttrice.
+
+“Cercando di reprimere uno sbadiglio, la sua vivacità era ormai scomparsa…”
+
+“La sincera franchezza temporanea… il piccolo, di colore rosso, dall’aspetto piratesco…”
+
+“La bandiera dell’audacia che aveva permesso di fluttuare per un attimo nell’aria…”
+
+Fu arrotolata, e la larga, dai colori sobri, [[Flag|bandiera]] della dissimulazione fu di nuovo appesa.
+
+#Sotto la fortezza… Non mi piaceva così, quindi ho interrotto tutto.
+
+Si misero faccia a faccia e poi se ne andarono.
+
 
 
 <span class="atom-split" data-atom="chapter_20--part_01" data-title="The Professor — Chapter 19 (part 1)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/death,motif/grave,motif/love,motif/night,motif/pain,motif/spring,motif/tears,motif/time,motif/well,concept/courage,concept/despair,concept/eternity,concept/faith,concept/fear,concept/hope,concept/immortality,concept/jealousy,concept/revenge,concept/suffering"></span>
@@ -27845,6 +34687,187 @@ see again; being in my own apartment and [[Alone|alone]], there was nothing to
 
 prevent my immediately opening it; it contained four five-franc pieces,
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XIX.
+
+#Romanziatori non dovrebbero mai permettersi di stancarsi dello studio della realtà
+
+#Vita. Se adempissero coscienziosamente a questo dovere, ci darebbero…
+
+Più poche immagini caratterizzate da vivaci contrasti di luce e ombra;
+
+# Raramente elevavano i loro eroi ed eroine alle vette dell’ideale…
+
+Il rapimento, ancora una volta, il Seldome li trascina nelle profondità della [[Despair|-disperazione]]; perché se noi.
+
+#"Raramente assaporiamo la piena felicità in questa vita; ancora più raramente ne godiamo appieno i piaceri."
+
+# L’amaro amaro dell’angoscia disperata… a meno che, forse, non ci sia un’altra via.
+
+# Abbandonati alla lussuria come bestie, abusati e logoriati…
+
+#Sforzate oltre i limiti, fino alla distruzione delle nostre capacità
+
+Per il piacere… allora, davvero, potremmo ritrovarci senza alcun sostegno.
+
+Privati di [[Hope|>speranza]]. La nostra agonia è immensa, come potrà finire? Siamo distrutti.
+
+La fonte delle nostre forze. La vita deve essere tutta sofferenza. Troppo deboli per.
+
+Concepire la [[Faith|>fede]] significa riconoscere che la [[Death|>morte]] è oscurità; Dio, gli spiriti, la religione possono offrire conforto in quel momento.
+
+#Nessun posto nelle nostre menti distrutte, dove rimangono solo cose orribili e contaminanti
+
+Ricordi di vizi. E il [[Time|tempo]] ci porta sull’orlo del [[Grave|gravissimo]].
+
+#E la dissoluzione ci getta dentro… un pezzo di stoffa strappato e lacerato in ogni direzione
+
+La malattia, unita al [[Pain|dolore]], fu sepolta nel prato del cimitero.
+
+La spietata morsa della [[Despair|disperazione]].
+
+Ma l’uomo che conduce una vita regolare e possiede una mente razionale non si dispera mai… Lui perde, ma non si arrende.
+
+“La sua proprietà… È un colpo durissimo… Per un momento barcolla; poi, con tutte le sue forze…”
+
+Scossi dall’allarme, si mettono all’opera per trovare una soluzione; l’attività sarà presto in corso.
+
+# Attenua il rimorso. La malattia lo colpisce; lui dimostra pazienza… sopporta tutto ciò che deve.
+
+Non può curare. Un dolore acuto lo tormenta; le sue membra contorte non sanno dove andare.
+
+Per trovare riposo, si appoggia alle “ancore” della [[Hope|>Speranza]]. La [[Death|>Morte]] gli toglie ciò che.
+
+Lui ama; strappa via con violenza il gambo attorno al quale.
+
+Gli affetti si intrecciarono, in un’epoca oscura e triste, con uno strappo terribile, ma.
+
+Una mattina, con l’alba, la Religione guarda dentro la sua desolata [[house|>casa]], e.
+
+Titolo:  
+Si dice che, in un altro mondo, in un’altra vita, incontrerà i suoi simili.
+
+Di nuovo… Lei descrive quel mondo come un luogo immacolato dal peccato…
+
+La vita, come un'epoca priva di amarezze derivanti dal [[Suffering|sofferimento]], si rafforza notevolmente.
+
+Titolo:  
+Il suo conforto deriva dal collegare due idee… che gli esseri umani non possono comprendere.
+
+Comprendono, ma su ciò desiderano riposare: l’[[Eternity|eternità]], l’[[Immortality|immortalità]]; e.
+
+La mente del dolente, colma di un’immagine vaga ma splendida…
+
+# Di colline celesti, piene di luce e pace… di uno spirito che vi riposa in serenità.
+
+# Felicità… di quel giorno in cui anche il suo spirito vi riposerà, libero e sereno.
+
+Svincolato dal corpo, frutto di un ricongiungimento perfezionato dall’[[Love|amore]], purificato dall’[[Fear|paura]], lui.
+
+Prende [[Courage|coraggio]], esce per affrontare le necessità e adempiere ai propri doveri.
+
+# Doveri della vita; e sebbene la tristezza non possa mai alleviare il suo fardello…
+
+Ricorda che [[Hope|[Speranza]]] gli permetterà di sostenerlo.
+
+[[Well|Beh]]. E cosa ha suggerito tutto questo? Qual è la conclusione che si può trarre?
+
+#Da cosa si deduce? Ciò che lo suggerisce è la situazione della mia migliore allieva… la mia…
+
+Il tesoro… mi viene strappato dalle mani e nascosto fuori dalla mia portata.
+
+La conclusione che si può trarre da ciò è… che, essendo qualcosa di stabile e ragionevole…
+
+#"Ma davvero, non ho permesso che rancore, delusione e dolore prendessero il sopravvento..."
+
+Generato nella mia mente da questa sfortunata coincidenza… per crescere lì e prendere forma.
+
+Titolo:  
+Dimensioni mostruose; e non ho permesso loro di monopolizzare tutto lo spazio del mio…
+
+Cuore… Li rinchiudo, al contrario, in un angolo nascosto e segreto.
+
+#Anche di giorno, quando svolgevo le mie mansioni, le indossavo… nel silenzio.
+
+# Sistema… e fu solo dopo aver chiuso la porta della mia stanza che…
+
+Di [[Night|notte]], allentai un po' la mia severità nei confronti di questi malinconici.
+
+“Nurslings, e lasciati liberi di esprimersi attraverso il loro linguaggio di mormori… poi, in…”
+
+La [[Revenge|vendetta,]]. Si sedettero sul mio cuscino, infestarono il mio letto e mi tennero sveglio con.
+
+Il loro lungo grido a mezzanotte.
+
+Una settimana è trascorsa. Non ho più detto nulla a Mademoiselle Reuter… Sono rimasto calmo.
+
+Nel mio comportamento verso di lei, sebbene freddo e distaccato… Quando la guardavo…
+
+# Il suo sguardo era proprio quello che si riserva a qualcuno che conosco bene
+
+Aveva consultato la [[Jealousy|invidia]] come consigliera, e aveva utilizzato la tradimento come mezzo.
+
+# Lo sguardo di disprezzo e sfiducia radicata. Sabato
+
+Quella sera, prima di lasciare la [[house|casa]], entrai nella SALLE-A-MANGER, dove.
+
+Era seduta [[Alone|da sola]]; mi misi davanti a lei e le chiesi.
+
+#Lo stesso tono tranquillo e lo stesso modo in cui avrei dovuto parlare se avessi…
+
+Domanda per la prima [[Time|volta]].
+
+# “Signorina, potrebbe gentilmente darmi l’indirizzo di…”
+
+# "Frances Evans Henri?"
+
+Un po’ sorpresa, ma non turbata, lei sorrise e negò decisamente qualsiasi implicazione.
+
+Conoscenza di quell’indirizzo… aggiungendo: “Forse il signore se n’è dimenticato”.
+
+#Ho già spiegato tutto riguardo a quella situazione… una settimana fa?
+
+“Mademoiselle,” proseguii, “mi fareste un grande favore se mi indicaste…”
+
+“Verso la dimora di quel giovane.”
+
+#Sembrava piuttosto perplessa; e alla fine, alzando lo sguardo con un’espressione davvero ammirevole…
+
+“Con quell’aria falsamente ingenua, chiese: ‘Monsieur ritiene che io sia…’”
+
+“Raccontare una menzogna?”
+
+Ancora evitando di darle una risposta diretta, dissi: “Allora non è tuo…”
+
+“Ha davvero l’intenzione, signorina, di aiutarmi in questa particolare circostanza?”
+
+“Ma, signore, come posso dirvi ciò che non so?”
+
+“Molto bene; vi capisco perfettamente, signorina, e ora ho, ”
+
+Solo due o tre parole da dire… Questa è l’ultima settimana di luglio; in…
+
+#Un altro mese e le vacanze inizieranno… Vi preghiamo di approfittarne.
+
+Occupati tu stesso del tempo libero che avrai a disposizione per cercare qualcun altro.
+
+# Maestro d'inglese – entro la fine di agosto, sarò costretto…
+
+“Di dimettermi dal mio incarico presso la vostra istituzione.”
+
+Non attesi i suoi commenti su questa dichiarazione, ma mi inchinai e…
+
+Si ritirò immediatamente.
+
+Quella stessa sera, poco dopo cena, un servitore mi portò una piccola…
+
+Pacchetto… Era indirizzato a una mano che conoscevo, ma non mi aspettavo di riceverlo così presto.
+
+Rivediamolo: essendo nel mio appartamento e [[Alone|da solo]], non c’era nulla che potesse.
+
+Impedisce che lo apra immediatamente: contiene quattro monete da cinque franchi.
 
 
 
@@ -28038,6 +35061,195 @@ coats and strangely fashioned pantaloons which every [[Sunday]], at the
 English service, filled the choirs of the chapel-royal, and after it,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+e una nota in inglese.
+
+# Monsieur
+
+“Ieri sono andato a casa della signorina Reuter, all’[[Time|ora]] in cui sapevo che tu.
+
+Stavo per finire la mia lezione quando ho chiesto se potessi andarmene.
+
+“Entrò nell’aula e vi parlò. La signorina Reuter uscì e disse…”
+
+#Sei già andata via… Non erano ancora le quattro, quindi ho pensato che lei dovesse essere…
+
+“Si potrebbe sbagliare, ma si è concluso che sarebbe inutile rimandare a un altro giorno…”
+
+Lo stesso incarico. In un certo senso, una nota può andare benissimo – servirà a concludere tutto.
+
+“20 franchi: il prezzo delle lezioni che ho ricevuto da te… E se…”
+
+“Non riuscirà mai a esprimere appieno la gratitudine che ti devo… anzi, forse nemmeno in parte.”
+
+Addio per sempre, come avrei voluto fare… se questo non vi dice nulla.
+
+Come vorrei farlo… quanto mi dispiace che probabilmente non ti rivedrò mai più.
+
+#Più ancora… parole, infatti, difficilmente sarebbero sufficienti per compiere tale compito.
+
+#Ti ho visto… Avrei probabilmente dovuto balbettare qualcosa di insipido e incoerente…
+
+# Insoddisfacente… qualcosa che contraddice i miei sentimenti, piuttosto che spiegarli.
+
+loro; quindi forse è proprio per questo che mi è stato negato l’ingresso nel vostro.
+
+#Presenza. Spesso osservavate, signore, che i miei doveri occupavano gran parte del mio tempo…
+
+#Sulla forza d’animo nel sopportare il dolore… hai detto che anch’io ho trattato questo tema.
+
+Spesso: devo ammettere che sia molto più facile scrivere di un dovere arduo e impegnativo.
+
+“Piuttosto che eseguirlo… perché mi sento oppresso quando vedo e percepisco fino a che punto…”
+
+“La sorte inversa mi ha condannato… Siete stato gentile con me, signore… davvero molto gentile.”
+
+Sono afflitto… Sono distrutto dal dover essere completamente separato da te; presto…
+
+# Non avrò alcun amico su questa terra… Ma è inutile disturbarvi con i miei problemi.
+
+#Distressi… Qual diritto ho alla vostra compassione? Nessuno; allora dirò di no.
+
+Di più.
+
+“Addio, signore.”
+
+“F. E. HENRI.”
+
+“Ho messo il biglietto nel mio portafoglio… Ho infilato le monete da cinque franchi dentro.”
+
+Nella mia borsa, poi feci un giro nella mia piccola stanza.
+
+“La signorina Reuter ha parlato della sua [[Poverty|povertà]]”, dissi, “e lei è davvero povera.”
+
+“Eppure paga i suoi debiti… e anche di più. Io non le ho ancora dato nemmeno un quarto di quello che le spetta.”
+
+Lezioni. E mi ha inviato anche l’importo dovuto per un quarto di mese. Mi chiedo cosa abbia in mente.
+
+Si privò di qualcosa per raccogliere quei venti franchi. Mi chiedo cosa.
+
+Un posto dove deve vivere… e il tipo di donna che è sua zia…
+
+Titolo:  
+Se lo è… e se sarà probabile che riesca a trovare un lavoro per coprire quel ruolo.
+
+Ha perso. Non c’è alcun [[Doubt|>dubbio]] che dovrà camminare a lungo dopo la scuola.
+
+“Andare a scuola, cercare informazioni qui e presentarsi altrove… essere rifiutati in questo luogo…”
+
+Delusa da ciò… Molte sere si addormenta stanca.
+
+E senza successo… E la direttrice non le permise di entrare per salutarmi.
+
+Addio… Forse non avrò l’opportunità di stare al suo fianco ancora per molto tempo.
+
+Minuti trascorsi davanti a una [[Window|finestra]] nell’aula di classe, scambiando alcune parole.
+
+# Approfondire i dettagli sulla sua residenza – avviare le procedure necessarie
+
+“Per aver sistemato tutto secondo i miei desideri… Nessuna indirizzo nella nota…” – Io
+
+Continuò, estraendola di nuovo dal portafoglio per esaminarla ancora una volta.
+
+Su entrambi i lati di quelle due [[Leaves|foglie]] si leggeva: “Le donne sono donne, questo è certo, ”.
+
+“Fai sempre affari come fanno le donne: gli uomini, invece, aggiungono meccanicamente data e indirizzo.”
+
+“E queste monete da cinque franchi? Le ho tirate fuori…”
+
+Dai miei soldi… – “Se me li avesse offerti lei stessa, invece di…”
+
+"#Legandoli con un filo di seta verde, in una sorta di stile lilliputiano..."
+
+“Pacchetto… Avrei potuto rimetterlo nella sua piccola mano e chiuderla.”
+
+“Su quelle dita sottili e affusolate… così… costringendola a provare vergogna…”
+
+[[Pride|orgoglio]], la sua timidezza, tutto ciò doveva cedere il posto a una piccola dose di volontà decisa, ora.
+
+“Dove è? Come posso raggiungerla?”
+
+Aprire la porta della mia stanza, scesi in cucina.
+
+“Chi ha portato questo pacco?”, chiesi al servitore che lo aveva consegnato.
+
+me.
+
+“Un piccolo commissario, signore.”
+
+# Ha detto qualcosa?
+
+"Niente."
+
+# E così salii le scale posteriori, diventando stranamente più saggio…
+
+indagini.
+
+“Nessun problema,” dissi tra me mentre richiudevo la porta. “Niente.”
+
+“La troverò a Bruxelles…”
+
+E così feci. La cercavo ogni giorno, non appena avevo un attimo di tempo libero.
+
+Per quattro settimane; la cercai ogni domenica per tutto il giorno; la cercai…
+
+I boulevardi, l’Allee Verte, il parco. La cercai a Ste.
+
+Gudule e San Giacomo: L’ho cercata nelle due chiese protestanti…
+
+Partecipò alle cerimonie successive durante i riti tedeschi, francesi e inglesi, ma non…
+
+“Dubitando che potessi incontrarla in uno di quei luoghi… Tutte le mie ricerche…”
+
+# Assolutamente infruttuoso; la mia posizione riguardo all’ultimo punto è stata confermata…
+
+# Evento altrettanto infondato rispetto ai miei altri calcoli… Mi trovavo lì, fermo.
+
+#Alla porta di ogni cappella, dopo la funzione, aspettavano fino a quando tutti…
+
+Un individuo era uscito e esaminava attentamente ogni abito che avvolgeva una figura snella…
+
+“Guardando sotto ogni cappello che copriva una giovane testa… Invano; non vidi nulla.”
+
+# Figure femminili mi sfiorano, avvolgendosi nei loro sciarpe nere…
+
+Spalle, ma nessuna di esse aveva la stessa inclinazione e lo stesso movimento delle spalle della signorina.
+
+# Henri: volti pallidi e pensierosi incorniciati da strisce marroni
+
+# Capelli… ma non riuscii mai a trovare la sua fronte, i suoi occhi, le sue sopracciglia. Tutto quanto…
+
+“Le caratteristiche di tutti i volti che ho incontrato sembravano dissolversi… perché il mio sguardo…”
+
+Non riuscì a riconoscere le particolarità su cui si concentrava; uno spazio ampio…
+
+# Sguardo serio e profondo
+
+della sopracciglia tracciata sopra.
+
+“Probabilmente ha lasciato Bruxelles… forse è andata in Inghilterra.”
+
+“Disse che lo avrebbe fatto”, mormorai tra me, nel pomeriggio del quarto giorno…
+
+Domenica, mi voltai uscendo dalla porta della cappella reale, il custode della porta.
+
+Aveva appena chiuso e bloccato la porta, seguendo le orme dell’ultimo di loro…
+
+La folla, ormai dispersa e in procinto di allontanarsi dalla piazza…
+
+# Presto superò le coppie di gentiluomini e signore inglesi. (Gracieous)
+
+# Buon Dio! Perché non si vestono meglio? I miei occhi sono ancora pieni di immagini…
+
+# Abiti sgargianti, trasandati e disordinati, realizzati in seta costosa…
+
+“Satino… quei colletti grandi e sgradevoli fatti di pizzo costoso… quelle taglie mal fatte…”
+
+Cappotti e pantaloni di forma strana che ogni [[Sunday|)domenica]], al.
+
+Servizio inglese che riempì le chiese reali di canti… e dopo di ciò…
+
 
 
 <span class="atom-split" data-atom="chapter_20--part_03" data-title="The Professor — Chapter 19 (part 3)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="topos/double,archetype/shadow,motif/city,motif/cross,motif/flowers,motif/garden,motif/grave,motif/hill,motif/love,motif/night,motif/road,motif/silence,motif/time,motif/water,motif/well,concept/solitude,form/inscription"></span>
@@ -28209,6 +35421,176 @@ of her before. It was in a nook, screened by a clump of trees; there was
 
 the white wall before her, and a little stone set up against the wall,
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Uscendo nella piazza, si trovò in una situazione svantaggiosa rispetto…
+
+Personaggi stranieri, vestiti con cura e in modo elegante, si affrettano ad partecipare a un evento formale.
+
+“Alla chiesa di Coburg… Avevo già superato quei gruppi di britannici…”
+
+#I gruppi di graziosi bambini britannici e i servitori inglesi
+
+#Donne di servizio; avevo attraversato la Piazza Reale ed ero entrata in rue…
+
+# Royale, da lì mi sono incamminato lungo la Rue de Louvain – una strada antica e tranquilla…
+
+#Via… Me ne ricordo: avevo un po’ fame e non avevo voglia di mangiare.
+
+“Torna indietro e prendi la mia parte del ‘pasto serale’, che ora è sul tavolo della mensa.”
+
+A Pelet’s, cioè, pistole e [[Water|acqua]], entrai in una panetteria e.
+
+Mi sono rinfrescato con un “COUC(?)”… È una parola fiamminga; non so esattamente cosa significhi.
+
+# Una corintiana, un panino al ribes e una tazza di caffè…
+
+# Poi proseguii verso la Porte de Louvain. In poco tempo fui fuori…
+
+La [[City|>città]], e lentamente salendo la [[Hill|collina]] che si innalza dalla porta.
+
+Mi ci è voluto il mio [[Time|tempo]]; infatti, sebbene fosse nuvoloso, pomeriggio era molto afoso, e non c’era modo di sfuggire a quell’afa.
+
+Una brezza leggera rinfrescò l’atmosfera… Nessun abitante di Bruxelles.
+
+Non è necessario viaggiare lontano per cercare la [[Solitude|solitudine]]; basta che si muova anche solo di mezza lega.
+
+Dalla sua stessa [[City|>città]], la troverà ancora immersa in pensieri cupi e vuoti.
+
+“I vasti campi, desolati ma fertili, si estendono senza alberi…”
+
+“Vagabondaggio senza meta intorno alla capitale del Brabante… Dopo aver raggiunto la cima…”
+
+Quella [[Hill|collina]]; dopo essersi alzato e aver guardato a lungo quella terra coltivata ma priva di vita.
+
+Durante quella campagna, provai il desiderio di abbandonare quella strada elevata su cui avevo viaggiato fino ad allora.
+
+Seguendoli, si arriva tra quei terreni coltivati… fertili quanto i campi più rigogliosi.
+
+di un giardino-cucina delle dimensioni di Brobdignag, che si estendeva lontano, fino a.
+
+# Confini dell’orizzonte, dove, dal verde del crepuscolo, la distanza cambia
+
+#Un blu cupo e confuso
+
+# Un cielo minaccioso e tempestoso… Così presi una strada secondaria per raggiungere…
+
+# Giusto; non l’avevo seguito per molto quando, come mi aspettavo, mi portò…
+
+# Nei campi, proprio davanti a me, si estendeva un lungo e maestoso…
+
+#"Muro bianco che racchiude, a giudicare dalle foglie visibili al di sopra, qualcosa..."
+
+Un vivaio densamente piantato di tassi e cipressi, poiché erano proprio quelle le specie presenti in quel luogo.
+
+# I rami appoggiati ai pallidi parapetti, ammassati in un’atmosfera cupa intorno…
+
+Un enorme [[Cross|croce]], probabilmente piantata su un punto elevato centrale e con i suoi bracci che si estendevano.
+
+Titolo:  
+Braccia che sembravano di marmo nero, sulla sommità di quelle figure sinistre…
+
+Alberi. Mi avvicinai, chiedendomi a quale [[house|>casa]] appartenesse questo [[Well|ben protetto]] [[Garden|>jardino]].
+
+#Apparteneva a qualcuno… Girai l’angolo del muro, nella speranza di vedere qualcosa…
+
+# Maestosa residenza; mi trovavo vicino ad imponenti porte di ferro…
+
+#"Cabinetta che fungeva da locanda nelle vicinanze, ma non ho mai avuto l’occasione di utilizzarla."
+
+#Le porte erano aperte; spinsi uno dei battenti all’indietro… la pioggia lo aveva arrugginito.
+
+“Le sue giunture emettevano un lamento triste mentre si muovevano… Una fitta vegetazione.”
+
+“L’ingresso era delimitato da elementi decorativi. Proseguendo lungo il viale, vidi oggetti disposti lungo il percorso…”
+
+Ogni mano che, con il proprio silenzioso linguaggio di [[Inscription|iscrizioni]] e segni,
+
+# A chi mi ero diretto fu spiegato con chiarezza. Questo era…
+
+La [[house|casa]] è destinata a tutti coloro che vi abitano; croci, monumenti e ghirlande.
+
+“Neverlastings annunciò: ‘Il Cimitero Protestante, situato oltre il cancello…’”
+
+“Louvain.”
+
+Il luogo era abbastanza grande da permettere di passeggiare per mezz’ora senza problemi.
+
+La monotonia di percorrere costantemente lo stesso cammino… e, per coloro che…
+
+La [[Love|amore]] di esaminare gli annali dei cimiteri. Qui si trovava una grande varietà di [[Inscription|iscrizioni]].
+
+A sufficienza per occupare l’attenzione per il doppio o il triplo di quel lasso di [[Time|tempo]].
+
+Qui si riunivano persone di molte stirpi, lingue e nazioni; avevano portato con sé…
+
+# Morto da seppellire… E qui, su pagine di pietra, di marmo e di…
+
+In bronzo erano scritti nomi, date, gli ultimi segni di pompa o [[Love|amore]].
+
+Inglese, francese, tedesco e latino… Qui l’inglese aveva
+
+Elevò un monumento in marmo sulle spoglie della sua Mary [[smith|Smith]] o Jane.
+
+“Marrone… e vi aveva scritto soltanto il suo nome. Lì, quel vedovo francese l’aveva…”
+
+Ombreggiò la [[Grave|>tomba]] di sua Elmire o Celestine con un fitto boschetto rigoglioso.
+
+# Tra rose, emergeva una piccola tavoletta su cui era inciso qualcosa di altrettanto luminoso…
+
+“Testimonianza delle sue innumerevoli virtù… Ogni nazione, tribù e gruppo umano…”
+
+Pianto nel proprio modo particolare… E quanto silenzioso fu quel pianto.
+
+“Tutto! Il mio passo, anche se lento e su sentieri ben battuti, sembrava…”
+
+Sorprendere, perché rappresentava l’unica interruzione in un [[Silence|silenzio]] altrimenti totale.
+
+Non solo i venti, ma anche quelle brezze incostanti e erranti… erano proprio così.
+
+“Pomeriggio… come se fosse stato concordato da tutti, tutti si erano addormentati nei loro rispettivi letti.”
+
+Quartieri; il nord era silenzioso, il sud immobile, l’est non piangeva.
+
+Neppure l’occidente sussurrava; le nuvole nel cielo erano dense e…
+
+“Mesto e apparentemente del tutto immobile… Sotto gli alberi di questo cimitero.”
+
+Nascosto in un caldo e opprimente buio, emergevano i cipressi…
+
+“Dritto e silenzioso… sopra il quale i salici pendevano bassi e immobili; lì…”
+
+Le [[Flowers|fiori]], pallide e languide, attendevano senza interesse la rugiada della [[Night|notte]], o qualcos’altro.
+
+#Tempesta di tuoni: dove le tombe, e ciò che vi sono nascosto, rimangono indifferenti a tutto
+
+Sia sotto il sole che nell’[[Shadow|ombra]], sia nella pioggia che nella siccità.
+
+#Inseguito dal suono dei miei stessi passi, mi diressi verso l’erba…
+
+# E lentamente avanzò verso un boschetto di tassi; vidi qualcosa muoversi tra gli alberi…
+
+“Steli… Pensavo potesse essere un ramo spezzato che dondolava… A causa della mia miopia…”
+
+# Una sensazione di movimento… ma solo ombre scure
+
+Apparivano e scomparivano nelle aperture della via.
+
+#Ben presto si rese conto che si trattava di una creatura vivente, e per di più umana; e, avvicinandosi…
+
+Più mi avvicinavo, più capivo che si trattava di una donna che camminava avanti e indietro lentamente…
+
+Evidentemente, si considerava [[Alone|da sola]], proprio come io mi consideravo [[Alone|da solo]], e.
+
+# Meditando, come avevo sempre fatto… Presto tornò al suo posto.
+
+Titolo:  
+Che immagino avesse appena lasciato… o forse avrei dovuto vederla.
+
+Nel riparo di un angolo nascosto da un gruppo di alberi…
+
+La parete bianca davanti a lei, e un piccolo sasso posizionato contro di essa.
 
 
 
@@ -28383,6 +35765,180 @@ be taken away from you. I was sorry for that circumstance when heavier
 
 troubles ought to have made me forget it.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+E, ai piedi della pietra, c’era un pezzo di erba appena rivoltata.
+
+Su, verso una nuova [[Grave|tomba]]. Mi misi gli occhiali e passai silenziosamente vicino.
+
+Dietro di lei; guardando l’[[Inscription|iscrizione]] sulla pietra, lessi: “Julienne”.
+
+“Henri, deceduto a Bruxelles all’età di sessant’anni. 10 agosto 18–.” Dopo averlo letto…
+
+L’[[Inscription|iscrizione]]. Guardai in basso verso quella figura seduta, curva e pensierosa.
+
+Proprio sotto i miei occhi, ignaro della presenza di qualsiasi essere vivente…
+
+# Una figura snella e giovane, vestita di un semplice abito nero da lutto
+
+Roba semplice, un semplice cappello nero di lutto. Mi sentivo, insomma, abbastanza bene.
+
+“Vidi chi era; e, senza muovere né una mano né un piede, rimasi fermo per qualche momento.”
+
+Godersi la sicurezza di una convinzione… L’avevo cercata per un mese intero…
+
+Non aveva mai scoperto traccia di lei; non aveva mai incontrato alcuna [[Hope|speranza]], né ottenuto nulla.
+
+# Una possibilità di incontrarla da qualche parte… Ero stato costretto ad allentare la mia…
+
+Titolo:  
+“Aggrapparsi alle aspettative… ma solo un’ora fa, tutto è crollato improvvisamente.”
+
+#Il pensiero scoraggiante che il corso della vita e le sue spinte…
+
+Il destino l’aveva portata lontano, per sempre fuori dalla mia portata; e ecco, mentre…
+
+#Giù verso la terra, improvvisamente, sotto il peso della disperazione…
+
+#Seguendo con lo sguardo la traccia del dolore sul prato…
+
+Cimitero. Ecco il mio prezioso [[Jewel|>jewello]] perduto, caduto sull’erba bagnata dalle lacrime.
+
+Nascosto tra le radici disordinate e muffite degli tassi.
+
+Frances sedeva molto tranquilla, con il gomito appoggiato al ginocchio e la testa tra le mani.
+
+Sapevo che lei era in grado di mantenere un atteggiamento razionale per un lungo [[Time|periodo]] di tempo, senza subire cambiamenti.
+
+Finalmente, una lacrima cadde; lei stava fissando quel nome per tutto il tempo…
+
+La pietra davanti a lei. E il suo cuore non ebbe alcun [[Doubt|>dubbio]] nel sopportarne uno di quei momenti.
+
+#"Constrizioni con cui i viventi solitari, rimpiangendo i morti, sono costretti ad affrontare..."
+
+A volte, era così profondamente oppressa. Molti [[Tears|lacrime]] le scorrevano giù per il viso, e lei le asciugava.
+
+Via, ancora e ancora, con il suo fazzoletto… alcuni singhiozzi angosciati.
+
+Le sfuggì… E poi, una volta passata l’esplosione di emozioni, rimase seduta in silenzio, come prima. Io…
+
+#La mia mano sulla sua spalla; non c’è bisogno di prepararla ulteriormente…
+
+# Non era né isterica né propensa a svenire; una spinta improvvisa…
+
+Certo, avrebbe potuto spaventarla… ma il tocco delicato e silenzioso della mia mano…
+
+Ha attirato l’attenzione esattamente come desideravo; e, anche se si è girata rapidamente,…
+
+Si ritiene che sia estremamente veloce, soprattutto in alcune menti. Credo che.
+
+Lo [[Wonder|stupore]] di non sapere, la consapevolezza di chi fosse colui che aveva rubato così, all’improvviso.
+
+Nella sua [[Solitude|solitudine]], quel pensiero le attraversò la mente e le balenò davanti agli occhi.
+
+# Cuore… anche prima che compiesse quel movimento affrettato; almeno…
+
+# Sorpresa  
+Non aveva ancora aperto gli occhi e li alzato verso i miei, che…
+
+“Riconoscimento: le loro iridi brillavano con la massima intensità quando parlavano… Nervosi.”
+
+La sorpresa non aveva ancora alterato i suoi tratti, quando un sentimento profondo…
+
+# Una gioia vivida brillava chiaramente e caldamente su tutto il suo volto. Appena…
+
+Il momento in cui si rese conto che era pallida e consumata, prima ancora di poter provare qualcosa.
+
+# Piacere interiore e profondo attraverso i sensi, nella loro massima intensità ed eccellenza
+
+#Piacere che splende nel rossore animato e risplende nell’immensità…
+
+Luce, ora diffusa sul mio viso. Era il sole d’[[Summer|estate]] che brillava intensamente.
+
+Dopo la forte pioggia estiva; e ciò che fertilizza più rapidamente di.
+
+Quel raggio, che brilla quasi come [[Fire|fuoco]] per la sua intensità?
+
+# Odio la presunzione… quella presunzione che si manifesta in un atteggiamento arrogante e irragionevole
+
+Nervi. Ma amo il [[Courage|coraggio]] di chi ha un cuore forte, la passione di chi.
+
+Un sangue generoso; amavo con passione la luce chiara di Frances Evans.
+
+Quegli occhi castani, quando non avevano paura di guardarmi dritto negli occhi. Li amavo.
+
+Il tono con cui pronunciò quelle parole…
+
+“Mio padrone! mio padrone!”
+
+Amavo il modo in cui mi porse la sua mano con quella naturalezza…
+
+La amava così com’era: senza un soldo e senza genitori… per un sensuale.
+
+“Senza fascino… ma per me un tesoro: la persona che suscita in me più compassione al mondo.”
+
+Pensare a tali cose, provare tali sentimenti… miei.
+
+L’ideale del santuario in cui conservare i miei tesori d’[[Love|amore]]; una vera personificazione di ciò che desidero.
+
+# Di discrezione e previdenza, di diligenza e perseveranza…
+
+La negazione di sé e il controllo di sé: quei guardiani, quegli fedeli custodi.
+
+Il dono che desideravo darle… il dono di tutto il mio affetto.
+
+Un modello di [[Truth|verità]] e [[Honour|onore]], di indipendenza e coscienza, quei valori.
+
+Raffinati e custodi di una vita onesta; silenziosi possessori di una [[Well|fonte]] di bene.
+
+# Di tenerezza, di fiamma… tanto gentile quanto calma, tanto pura quanto inestinguibile.
+
+# Dello spirito naturale, della passione spontanea: quelle fonti di refrigerio e ispirazione…
+
+Consolazione nel santuario della [[Home|>casa]]. Sapevo quanto fosse silenziosa e profonda quella consolazione.
+
+Un senso di gioia si diffondeva nel suo cuore; sapevo bene come bruciava quella fiamma più pericolosa.
+
+Sotto l’occhio vigile della ragione, avevo visto quando la [[Fire|fiamma]] si alzò alta.
+
+# Un momento di intensità e vividezza, quando il calore crescente turbava la normalità della vita
+
+Nei suoi canali. Avevo visto che la ragione avrebbe potuto ridurre in misura quel [[Rebel|ribelle]] e umiliarlo.
+
+“Dalla fiamma alle braci… Avevo fiducia in Frances Evans; le riservavo rispetto.”
+
+“Per lei… Mentre le prendevo il braccio e la portavo fuori…”
+
+Cimitero… Sentii che provassi un altro sentimento, altrettanto forte della fiducia…
+
+Fermo quanto il rispetto, più appassionato di entrambi: quello dell’[[Love|amore]].
+
+“Beh, mio allievo,” dissi mentre il cancello dal suono infausto si chiudeva alle mie spalle.
+
+Ehm, “Beh, ti ho ritrovato finalmente: un mese di ricerche mi è sembrato un periodo molto lungo, ”
+
+#E io mai avrei pensato di aver ritrovato la mia pecora smarrita, che si aggirava lontano da me…
+
+“Sepolture”.
+
+Non l’avevo mai chiamata altro che “Mademoiselle”, e quando parlavo con lei…
+
+Il suo tono divenne qualcosa di nuovo sia per lei che per me; la sua risposta mi sorprese.
+
+Titolo:  
+“Che questa lingua non scosse affatto i suoi sentimenti, né suscitò alcuna discordia in lei…”
+
+Il suo cuore
+
+“Mio signore”, disse lei, “si è preso la briga di cercarmi? Non me lo aspettavo affatto…”
+
+Titolo:  
+Immaginavo che la mia assenza vi avrebbe colpiti molto… ma ho sofferto terribilmente per questo.
+
+#Viene portato via da voi… Mi dispiaceva per quella situazione, quando le cose diventavano più gravi…
+
+“Le difficoltà avrebbero dovuto farmi dimenticare…”
 
 
 
@@ -28561,6 +36117,181 @@ proportion of form, grace of carriage, agreeably supplied their place.
 
 Her eye, as she re-entered the small sitting-room, instantly sought
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Tua zia è morta?”
+
+“Sì, sono passati quindici giorni e lei è morta piena di rimpianti… qualcosa che non ho potuto fare nulla per cambiare.”
+
+Scacciare quel pensiero dalla sua mente. Continuava a ripeterlo, anche durante l’ultima [[Night|notte]].
+
+“Frances… sarai così sola quando me ne andrò.”
+
+“Così senza amici…”, si augurò anche lei di essere stata sepolta in un luogo simile.
+
+# Svizzera… ed fui io ad convincerla, nella sua vecchiaia, a lasciare…
+
+“Le rive del lago Lemano… e ciò che verrà, solo quando sembra morire, in questo ambiente piatto.”
+
+Regione delle Fiandre… Con piacere avrei eseguito il suo ultimo desiderio…
+
+“Portare le sue spoglie nel nostro paese era impossibile…”
+
+“Fu costretta a lasciarla qui.”
+
+“Era malata, ma suppongo che sia guarita in poco [[Time|tempo]], ”
+
+“Ma solo tre settimane… Quando iniziò ad affondare, chiesi alla signorina Reuter il permesso di…”
+
+“Per restare con lei e prendersi cura di lei, ottenni facilmente il permesso.”
+
+“Torni al pensionato?” chiesi in fretta.
+
+“Signore, quando ero ancora a [[Home|casa]] da una settimana, la signorina Reuter chiamò, ”
+
+“Serata, appena dopo aver messo mia zia a letto… lei andò nella sua stanza.”
+
+Per parlarle, si comportò in modo estremamente cortese e amichevole, proprio come al solito.
+
+In seguito, venne a sedersi con me per un lungo [[Time|tempo]]; proprio mentre stava per [[Rose|rialzarsi]].
+
+“Vattene”, disse: “Signorina, non smetterò mai di rimpiangere la sua…”
+
+#"Partenza dalla mia dimora… anche se in effetti è vero che tu hai…"
+
+Hai insegnato alla tua classe di studenti così [[Well|benissimo]] che ora sono tutti molto abili.
+
+“Nei piccoli compiti che svolgi con tale abilità… non hai la minima esitazione.”
+
+#Necessità di ulteriori istruzioni: il mio secondo insegnante dovrà fornirle in futuro
+
+Il tuo ruolo, riguardo agli alunni più giovani, è quello di aiutarli nel miglior modo possibile.
+
+Anche se lei è davvero un’artista inferiore a te, e senza dubbio…
+
+“Sii ora parte attiva nel raggiungere una posizione più elevata nella tua vocazione; ne sono certo.”
+
+#Scuole e famiglie pronte ad approfittare di te ovunque tu vada
+
+“Talenti…” E poi mi pagò lo stipendio dell’ultimo quarto di anno. Chiesi…
+
+Mademoiselle, senza alcun dubbio, se avesse intenzione di farlo.
+
+“Liberatemi da questo luogo… Lei sorrise alla mia goffaggine…”
+
+“Discorso… e rispose che ‘la nostra relazione di datore di lavoro e dipendente era’…”
+
+Certamente dissolta, ma sperava ancora di poter conservare il piacere di…
+
+“La mia conoscente… dovrebbe sempre essere felice di vedermi come un amico…”
+
+Poi disse qualcosa riguardo alle ottime condizioni delle strade.
+
+“E la lunga serie di giorni di bel tempo… se ne andò davvero di buon umore.”
+
+Ridacchiai tra me e me: tutto questo era così tipico della direttrice… proprio come faceva lei.
+
+Avevo già previsto e immaginato il suo comportamento… E poi è arrivata la rivelazione, la conferma di tutto ciò che avevo sospettato.
+
+Il suo inganno, inconsapevolmente alimentato da Frances: “Spesso lei…”
+
+“Si è effettivamente presentato per ottenere l’indirizzo di Mademoiselle Henri… Infatti, Mademoiselle Henri lo aveva sempre…”
+
+“Non ha voluto fornirlo”, ecc., ecc., e proprio in quel momento ho trovato una visita per lei…
+
+La [[house|casa]] della cui ubicazione aveva dichiarato di ignorarla completamente!
+
+Qualsiasi commento avessi potuto voler fare sulla comunicazione del mio allievo…
+
+Il suono delle grandi gocce di pioggia che colpivano i nostri volti e…
+
+Il sentiero, e il mormorio di una lontana, ma imminente [[Storm|tempesta]], un avvertimento.
+
+“L’aria stagnante e il cielo cupo mi avevano già spinto a…”
+
+La [[Road|strada]] che conduceva di nuovo a Bruxelles. Ora ho accelerato il passo.
+
+Quelli del mio compagno. E poiché il nostro percorso era in discesa, avanzammo rapidamente.
+
+Ci fu un intervallo dopo che le prime grosse gocce caddero…
+
+# Fortuna si schiuse sotto la pioggia battente; nel frattempo, avevamo già attraversato la Porte de…
+
+Louvain, e si trovarono nuovamente nella [[City|>città]].
+
+“Dove vivi?” chiesi; “Verrò a assicurarmi che tu arrivi sano e salvo a [[Home|>casa]].”
+
+“Rue Notre Dame aux Neiges,” rispose Frances.
+
+Non era lontano dalla Rue de Louvain, e ci trovavamo sulle soglie di casa.
+
+Della [[house|>casa]] cercavamo lì, tra le nuvole; con un forte rimbombo la separammo.
+
+Una cataratta di [[Lightning|fulmine]], distrutta completamente, fece scorrere i suoi flussi lividi come un torrente.
+
+Pesante, incline e largo.
+
+“Entra! entra!” disse Frances, dopo averla fatta entrare nella [[house|>casa]].
+
+#Esitai prima di proseguire: quella parola decise per me; attraversai…
+
+Soglia, chiudi la porta di fronte alla tempesta che si avvicina velocemente, lampeggia e diventa sempre più intensa, e.
+
+L’accompagnai al piano di sopra, nelle sue stanze. Né lei né io eravamo bagnati; un…
+
+La struttura sopra la porta aveva bloccato l’afflusso d’acqua che scendeva verticalmente.
+
+Solo le prime, grandi gocce avevano già bagnato i nostri abiti; in un minuto…
+
+Se ne fossero aggiunti altri, non avremmo più avuto filo asciutto addosso.
+
+# Attraversando un piccolo tappeto di lana verde, mi ritrovai in una piccola stanza
+
+Con un pavimento dipinto e un tappeto verde quadrato al centro; il…
+
+Gli arredi erano pochi, ma tutti luminosi e estremamente puliti.
+
+Ordine regnava entro i suoi limiti ristretti… un ordine che placava il mio animo.
+
+Un’anima così meticolosa. E avevo esitato ad entrare in quella dimora.
+
+# Perché alla fine ho capito allusione della signorina Reuter riguardo a…
+
+La estrema [[Poverty|povertà]] potrebbe essere davvero troppo reale. E temevo di mettere in imbarazzo la persona interessata.
+
+“La rammendatrice di merletti che entra nelle stanze altrui senza essere invitata… Povero quel posto…”
+
+Povero davvero… ma la sua pulizia era più importante dell’eleganza.
+
+Ma una piccola, luminosa [[Fire|fiamma]] brillava su quel focolare pulito. Avrei dovuto.
+
+Lo riteneva più attraente di un palazzo. Tuttavia, non c'era alcun [[Fire|fuoco]] lì dentro.
+
+#Nessun combustibile pronto per essere acceso; la rammendatrice di pizzi non poté concederselo…
+
+Quell’indulgenza, soprattutto ora che, privata dalla [[Death|morte]] della sua unica.
+
+Frances: poteva contare soltanto sulle proprie forze.
+
+# Entrò in una stanza interna per togliersi il cappello, e poi uscì…
+
+Un esempio di sobria pulizia: indossava un abito nero che le stava ben addosso, così.
+
+# Definendo con precisione il suo elegante seno e la vita sottile, uniti a una pelle impeccabile…
+
+Titolo:  
+Collo bianco e snello… con lei
+
+Capelli castani folti, disposti in onde lisce sulle tempie… e oltre.
+
+Una grande treccia greca sulla nuca… ornamenti che lei non possedeva affatto: né spille, né altri gioielli.
+
+Né anello né nastro; lei se la cavava benissimo anche senza di loro. La vestizione era perfettamente adatta a lei.
+
+La proporzione delle forme, la grazia dei movimenti completavano perfettamente il loro ruolo.
+
+Il suo sguardo, non appena rientrò nella piccola sala da pranzo, cercò immediatamente…
 
 
 
@@ -29110,6 +36841,184 @@ could devise-suggested itself to me. I darted up the stairs, knocked,
 re-entered the room as if in haste:--
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Perduto” dalla sua collezione di classici… Probabilmente pensava che si trattasse di un testo religioso.
+
+Il carattere del libro lo rendeva particolarmente adatto a essere pubblicato di [[Sunday|domenica]]; le ho detto di iniziare subito.
+
+All’inizio, mentre leggeva l’invocazione di [[Milton|>Milton]] a quella divinità celeste.
+
+# Musa, che sul “segreto sommo dell’Oreb o del Sinai” insegnò agli Ebrei
+
+#Come, pastore, nel grembo del caos… come nasce l’idea di un mondo
+
+“Originato e maturato… Ho goduto, in tranquillità, della triplice gioia…”
+
+Averla vicino a me, ascoltare il suono della sua voce… un suono dolce e…
+
+“Soddisfacente alle mie orecchie… e, di tanto in tanto, guardando il suo viso…”
+
+“L’ultimo privilegio che ho mai esercitato è stato quando ho voluto rimproverare qualcuno…”
+
+# Intonazione, una pausa o un accento… Finché avessi predicato dogmaticamente, forse sarebbe andata bene.
+
+Anche lo sguardo, senza provocare un rossore troppo intenso.
+
+“Basta,” dissi quando lei aveva letto circa sei pagine.
+
+Il lavoro svolto con lei nel corso del tempo: leggeva lentamente e si fermava spesso per fare domande.
+
+# Ricevere informazioni… “Basta; ora la pioggia sta smettendo, e devo…”
+
+“Me ne andrò presto.” Perché in quel momento, guardando verso la [[Window|finestra]], io.
+
+#Tutto divenne blu; le nuvole temporalesche si spezzarono e si dispersero…
+
+# Un raggio di sole d’agosto, simile al riflesso di rubini…
+
+La griglia. Mi alzai e infilai i guanti.
+
+#"Non hai ancora trovato un’altra situazione che possa sostituire quella..."
+
+“Da quale occasione siete stato congedato dalla signorina Reuter?”
+
+"No, monsieur; ho fatto ricerche ovunque, ma tutti mi chiedono lo stesso."
+
+Per fare riferimento. E per dire la [[Truth|verità]], non mi piace ricorrere a.
+
+Direttrice… perché ritengo che non abbia agito né in modo giusto né onorevole.
+
+Verso di me… Lei utilizzò mezzi subdoli per far sì che i miei studenti si rivoltassero contro di me.
+
+#Rendendomi infelice mentre occupavo il mio posto nella sua attività
+
+#E alla fine me lo tolse con comportamenti mascherati e ipocriti
+
+Manovrare, fingendo di agire per il mio bene, ma in realtà…
+
+Titolo:  
+Portandomi via il mio principale mezzo di sussistenza, in un momento di crisi…
+
+Solo la mia vita, ma anche quella un’altra persona, dipendevano dai miei sforzi… Di lei.
+
+“Non chiederò mai più un favore.”
+
+Come farai ad arrangiarti, allora? Come vivi in questo momento?
+
+“Ho ancora il mio mestiere di riparazione delle merlettiere; se lo faccio con cura, mi permetterà di, ”
+
+La fame. E dubito che non sia stato necessario impegnarsi molto per ottenere un lavoro migliore.
+
+Ancora. Sono passate soltanto due settimane da quando ho iniziato a provare; il mio [[Courage|coraggio]] e le mie speranze.
+
+“Non sono affatto logori ancora.”
+
+“E se otteni ciò che desideri, cosa succederà dopo? Quali sono le tue idee finali al riguardo?”
+
+“Per risparmiare abbastanza denaro per attraversare la Manica. Io guardo sempre all’Inghilterra come al mio, ”
+
+“Canaan”.
+
+“Beh, beh, presto tornerò a farvi visita; buonasera adesso.”
+
+# E me ne andai piuttosto bruscamente; fui costretto a fare grande sforzo per resistere a un forte impulso interno…
+
+# Un impulso che mi spinge a dire addio in modo più caloroso e significativo… Che cosa c’è di meglio?
+
+# Abbracciarla per un momento, stringerla forte… per lasciare un segno indelebile
+
+# Bacio sulla guancia o sulla fronte? Non ero irragionevole… Era tutto ciò che volevo.
+
+Titolo:  
+Volevo… E essendo stato soddisfatto su quel punto, potevo andarmene tranquillo; e la Ragione…
+
+Mi negò anche questo; mi ordinò di distogliere lo sguardo dal suo viso…
+
+# I miei passi dal suo appartamento… per lasciarla in modo altrettanto freddo e distaccato quanto avrei voluto
+
+#Ho lasciato la vecchia signora Pelet… Ho obbedito, ma ho giurato con rancore di farlo.
+
+Un giorno verrà vendicato… “Guadagnerò il diritto di fare ciò che voglio in questa questione”.
+
+O morirò in questa competizione… Ora ho un solo obiettivo davanti a me: ottenerlo.
+
+# Ragazza di Ginevra per mia moglie… e mia moglie sarà lei… ovviamente, a condizione che…
+
+# Lei nutre per il suo padrone lo stesso rispetto, o addirittura la metà di esso, che ne ha lui
+
+Per lei… E sarebbe davvero così docile, così sorridente, così felice sotto la mia protezione?
+
+# Istruzioni… se non le avessi date? Si sederebbe al mio fianco mentre detto?
+
+“O corretto, con un’espressione così serena, soddisfatta e beata…”, perché l’avevo sempre visto così.
+
+Ebbe modo di osservare che, nonostante il suo volto potesse apparire triste o angosciato in quel momento…
+
+# Entrai in una stanza, ma non appena fui vicino a lei e le parlai…
+
+# Parole… dopo averle dato alcune indicazioni e forse anche qualche rimprovero, lei…
+
+# Si rifugierebbe all’improvviso in un angolo di felicità, alzando lo sguardo con serenità.
+
+Ripresa in vita… Le rimproveri, in realtà, le si addicevano perfettamente: mentre la rimproveravo, lei…
+
+#Si sarebbe messa a grattugiare una matita o una penna con il suo coltello da tasca, mentre si agitava nervosamente…
+
+“Piccola, con il labbro inferiore sporgente, si difendeva usando solo monosillabe… E quando io…”
+
+Le fu tolto la penna o il matita, temendo che venissero completamente tagliati via.
+
+E quando impedii persino quella difesa costituita da una singola parola, per quel preciso motivo…
+
+Per aumentare ancora di più quell’eccitazione già palpabile, alla fine lei…
+
+Alza lo sguardo e mi lancia un’occhiata particolare, dolce e allegra…
+
+Appuntito con aria di sfida. A dire la [[Truth|verità]], mi eccitava più di qualsiasi altra cosa.
+
+# Mai fatto prima… e questo mi ha reso… in un certo modo… anche se, fortunatamente, lei non lo sapeva.
+
+# La sua sottomessa, se non addirittura la sua schiava… Dopo scene del genere, il suo spirito…
+
+Si mantenevano in corso per molte ore, e come ho osservato…
+
+Prima di allora, la sua salute ne trasse nuovo sostegno e vigore…
+
+Prima dell’incidente della morte di sua zia e della sua destituzione, aveva.
+
+Ha ricreato quasi completamente la sua struttura fisica originale.
+
+Mi sono serviti diversi minuti per scrivere queste ultime frasi… ma ne è valsa la pena.
+
+Durante quel breve lasso di tempo trascorso nella discesa, pensarono a tutto il significato che quelle cose avevano per loro…
+
+#Le scale dalla stanza di Frances… Proprio mentre stavo aprendo la porta esterna…
+
+“Mi ricordai dei venti franchi che non avevo restituito; esitai.”
+
+# Impossibile portarle con me; difficile costringerle a tornare indietro
+
+“Nel suo ambiente originale: ora l’avevo vista nella sua umile dimora.”
+
+Vide la dignità della sua [[Poverty|povertà]], l’[[Pride|orgoglio]] dell’ordine, la meticolosità.
+
+#Cura del conservatorismo, evidente nell’organizzazione e nell’economia delle sue azioni
+
+Quel piccolo [[Home|casa]]. Ero sicuro che lei non si sarebbe mai lasciata scusare.
+
+"Pagare i suoi debiti… Ero certo che l’ottenimento di un risarcimento avrebbe risolto la questione."
+
+Accettato da nessuno, forse meno di tutti da me… Eppure questi quattro…
+
+Le monete da cinque franchi rappresentavano un ostacolo per il mio [[Self|rispetto di me stesso]]; devo liberarmene.
+
+Sbarazzarmene. Un rimedio provvisorio, forse goffo, ma l’unico che avevo a disposizione.
+
+“Potrei escogitare… Questa idea mi è venuta in mente all’improvviso. Sono corso su per le scale e ho bussato.”
+
+Rientrò nella stanza come se fosse di fretta:–
+
 
 
 <span class="atom-split" data-atom="chapter_20--part_08" data-title="The Professor — Chapter 19 (part 8)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/fire,motif/lightning,motif/night,motif/rose,motif/stars,motif/time,motif/water,motif/winter,concept/hope"></span>
@@ -29197,6 +37106,90 @@ bow overhead, and a voice in my heart whispered--
 
 “[[Hope]] smiles on Effort!”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"#Mademoiselle, ho dimenticato uno dei miei guanti… Deve essermi rimasto lì."
+
+“Eccolo qui.”
+
+Lei si alzò immediatamente per andarla a cercare; mentre si girava le spalle, io, che ormai ero.
+
+# Alla mensa del camino… silenziosamente sollevò un piccolo vaso, uno di una collezione di porcellana
+
+**Ornamenti… tanto vecchio stile quanto le tazze da tè: si infilava il denaro sotto di essi.**
+
+“Allora dico: ‘Ecco qui il mio guanto! L’avevo perso dentro la protezione del parafango!’”
+
+“Buonasera, signorina,” dissi mentre facevo la mia seconda uscita.
+
+Per quanto breve fosse stato il mio ritorno improvvisato, mi aveva concesso il [[Time|tempo]] necessario per scegliere.
+
+# In preda al dolore… Notai che Frances aveva già rimosso il rosso.
+
+Braci del suo allegro piccolo [[Fire|fuoco]] provenienti dalla grata, costretta a calcolare.
+
+“Ogni oggetto, per preservarne ogni dettaglio, è stato immediatamente messo da parte al mio ritiro.”
+
+Un lusso troppo costoso per essere goduto [[Alone|da solo]].
+
+“Sono contento che non sia ancora [[Winter|>Inverno]],” pensai; “ma tra due mesi, ”
+
+“Come i venti e le piogge di novembre… Che Dio voglia che prima di allora io…”
+
+#Potrebbe guadagnarsi il diritto… e il potere… di gettare carbone in quella grata.
+
+“Libitum!”
+
+#Il marciapiede si stava asciugando; una brezza fresca e piacevole soffiava…
+
+Aria purificata dal [[Lightning|fulmine]]; sentivo il West dietro di me, dove si estendeva.
+
+Cielo come opale: azzurro intrecciato al rosso sangue… Il sole ingrandito, splendente.
+
+“Imbagnato nelle tonalità di Tyrian, il suo bordo era già bagnato; mentre io procedevo verso est…”
+
+# Di fronte a me c’era una vasta distesa di nuvole… ma anche l’arco di…
+
+Arcobaleno serale… un arcobaleno perfetto: alto, ampio, vivido. L’ho osservato a lungo.
+
+“Il mio sguardo assorbì completamente quella scena; immagino che anche il mio cervello abbia assimilato ogni dettaglio.”
+
+Quella [[Night|notte]], dopo essere rimasto sveglio a causa di una piacevole febbre per un lungo [[Time|tempo]],
+
+Guardando quella silenziosa luce di [[Lightning|fulmine]], che ancora danzava tra le.
+
+Le nuvole si ritiravano, illuminando d’argento le [[Stars|stelle]]; alla fine, caddi.
+
+addormentato; e poi, in un [[A Dream|>sogno]], riapparvero il tramonto, la riva del.
+
+# Nuvole… l’immensa arcobalena. Mi trovavo, pareva, su un terrazzo; mi appoggiai…
+
+Sopra un muro protetto da una balaustra: sotto di me c’era spazio, una profondità che non riuscivo a immaginare…
+
+# Non riesco a comprenderlo, ma sentendo il rumore incessante delle onde, pensai che fosse…
+
+# Mare: un oceano che si estende fino all’orizzonte, un mare di colori verdi mutevoli e intensi.
+
+#Azzurro: tutto era morbido in lontananza, avvolto nella nebbia… Una scintilla d’oro.
+
+Luccicava sulla linea di confine tra [[Water|acqua]] e aria, saliva verso l’alto, si avvicinava.
+
+Ingrandito, modificato; l’oggetto pendeva a metà strada tra cielo e terra.
+
+Sotto l’arco dell’arcobaleno; le nuvole morbide ma scure si disperdevano alle sue spalle.
+
+# Fluttuava come se avesse ali; aria perlacea, soffice e scintillante scorreva intorno a esso…
+
+“Abbigliamento intorno ad esso; leggero, tinto di rosa, di un colore che sembrava…”
+
+# Volto e membra; una grande stella brillava con luce costante su un angelo…
+
+# Fronte; un braccio e una mano sollevati, che puntano come un raggio verso…
+
+“Chinando la testa, una voce nel mio cuore sussurrò…”
+
+“La [[Hope|>Speranza]] sorride sull’Impegno!”
 
 
 
@@ -29373,6 +37366,182 @@ sotte et vicieuse,” who, in a fit of lewd caprice, had thrown herself
 
 away on an unprincipled adventurer; directing the point of the last
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XX.
+
+Una competenza… Era ciò che volevo; diventare competente era ormai il mio obiettivo.
+
+Decisi di riuscirci… ma non ero mai stato più lontano dal bersaglio. Con
+
+Al termine dell’anno scolastico, gli esami ebbero luogo.
+
+Una volta terminati i premi sono stati assegnati, le scuole si sono disperse e…
+
+# Tutti gli istituti di formazione, le porte di tutti i collegi sono chiuse e non saranno riaperte fino a…
+
+All'inizio o a metà di ottobre… L’ultimo giorno di agosto era ormai vicino.
+
+E qual era la mia posizione? Avevo fatto qualche passo avanti da quando tutto era iniziato?
+
+Titolo:  
+Del quarto trimestre scorso… Al contrario, ero indietro di uno posto. Rifiutandomi…
+
+Il mio incarico di insegnante d’inglese presso l’istituto della signorina Reuter…
+
+Ho deciso volontariamente di ridurre di 20.000 euro il mio reddito annuo; in questo modo ho diminuito la somma totale a 60.000 euro.
+
+Titolo:  
+“Per anno, fino a 40 sterline… E anche quella somma la possiedo ora in modo molto precario.”
+
+titolo di proprietà.
+
+È passato un po’ di [[Time|tempo]] da quando ho fatto riferimento a M. Pelet. La luce della luna.
+
+Titolo:  
+“Camminare è, credo, l’ultimo episodio registrato in questa narrazione…”
+
+#Quel gentiluomo non passa certo inosservato… Il fatto è che, da allora…
+
+# Un cambiamento era avvenuto nello spirito dei nostri rapporti… Lui, infatti…
+
+Ignaro che quell’ora di silenzio, la luna serena e le sbarre aperte.
+
+Mi aveva rivelato il segreto del suo amore egoistico e dell’amicizia falsa.
+
+Avrebbe continuato senza intoppi e docilmente come sempre… ma io sono diventato “spinoso”.
+
+“Un riccio… rigido come un bastone di rovo nero; non ho mai sorriso.”
+
+Per le sue battute sarcastiche, non gli dedicava mai un minuto del suo tempo; i suoi inviti…
+
+“Chiedere di bere il caffè con lui nel suo salotto veniva sempre rifiutato…”
+
+Anche questa proposta fu rifiutata in modo molto deciso e severo; tutte le sue allusioni scherzose al…
+
+La direttrice… la cui voce si udiva ancora con una calma cupa e determinata…
+
+Diverso dal piacere capriccioso che un tempo erano soliti provare.
+
+Per un lungo [[Time|periodo]] di tempo, Pelet ha sopportato con grande pazienza il mio comportamento freddo e distaccato.
+
+#Accordò ancora più attenzione; ma si rese conto che anche un semplice imbarazzo…
+
+La cortesia non riuscì a sciogliermi o commuovermi… Alla fine anche lui cambiò atteggiamento.
+
+Il suo turno arrivò… ma si raffreddò; le sue inviti cessarono; il suo volto assunse un’espressione diversa.
+
+Cielo scuro e minaccioso… Lessi nel suo aspetto confuso ma cupo…
+
+Sul suo volto si leggeva un’espressione di continua analisi e confronto delle informazioni disponibili…
+
+Un tentativo ansioso di trarne alcune conclusioni esplicative… Presto.
+
+Credo che abbia avuto successo, perché non mancava di perspicacia… Forse anche di altro.
+
+# Mademoiselle Zoraide avrebbe potuto aiutarlo nella risoluzione dell’enigma; ma…
+
+Comunque, presto scoprii che l’incertezza legata a quella [[Doubt|dubbio]] era scomparsa.
+
+Il suo comportamento: abbandonando qualsiasi pretesa di [[Friendship|amicizia]] e cordialità, lui.
+
+Adottava un comportamento riservato, formale, ma comunque estremamente educato.
+
+# Questo era esattamente il punto a cui volevo arrivare con lui, e ora ci ero riuscito.
+
+Di nuovo, in relativa tranquillità… Tuttavia, la mia posizione non mi piaceva affatto.
+
+Nella sua [[house|casa]]; ma essendo liberato dall'irritante necessità di fingere professioni false.
+
+E quelle sue doppie manovre, le avrei potute sopportare, soprattutto perché non c’era alcun sentimento eroico dietro a tutto ciò.
+
+Odio o [[Jealousy|invidia]] verso il regista distolsero la mia anima filosofica dalle sue riflessioni.
+
+Non aveva ferito, ho scoperto, un punto molto sensibile in me; la ferita era davvero così…
+
+Titolo: Guarito rapidamente e in modo radicale, rimase solo un senso di disprezzo…
+
+# Il modo traditore con cui è stato inflitto, e le conseguenze durature…
+
+# Mancanza di fiducia nella mano che avevo scoperto mentre cercava di pugnalarmi
+
+Buio.
+
+Questo stato di cose continuò fino a circa metà luglio, e poi…
+
+C’era stato un piccolo cambiamento: quella [[Night|notte]], Pelet tornò [[Home|a casa]] un’ora dopo il solito orario.
+
+All’ora solita, in uno stato di evidente intossicazione, accadde qualcosa di anomalo.
+
+Con lui; perché se avesse avuto alcune delle peggiori debolezze dei suoi connazionali…
+
+Aveva anche almeno una delle loro virtù: la sobrietà. Nonostante fosse ubriaco…
+
+#Tuttavia, in quell’occasione… dopo aver svegliato tutti…
+
+“Istituzione (ad eccezione degli studenti, i cui dormitori si trovano sopra gli aule)”
+
+In un edificio separato dalla residenza principale, quindi al di fuori di essa.
+
+# Il suono assordante della campanella e gli ordini perentori
+
+Il pranzo doveva essere portato subito dentro, perché lui pensava fossero le [[Noon|mattine]], mentre in realtà.
+
+Le campane della [[City|città]] avevano appena suonato mezzanotte; dopo aver discusso animatamente.
+
+I servitori, a causa della loro mancanza di puntualità, furono quasi puniti.
+
+La sua povera vecchia madre, che gli aveva consigliato di andare a letto, iniziò a delirare…
+
+“Terribilmente parlava degli ‘maledetti Inglesi, Creemsvort’… Non mi ero ancora ritirato.”
+
+“Alcuni libri tedeschi che avevo preso in prestito mi hanno tenuto sveglio fino a tardi; ho sentito…”
+
+Sotto, c’era un gran trambusto; si riusciva a distinguere la voce eccitata del direttore…
+
+“Un modo tanto orribile quanto insolito… Aprire leggermente la porta…”
+
+Si rese conto che lui chiedeva che venisse portato il “Creemsvort”.
+
+“A lui spetta decidere se tagliarsi la gola sul tavolo del salone o… fare qualcos’altro.”
+
+La sua [[Honour|onore]], che lui stesso affermava essere in uno stato pessimo, in condizioni disperate.
+
+Sangue britannico. “O è pazzo o è ubriaco”, pensai, “e in entrambi i casi, ”
+
+#"La vecchia donna e i servitori saranno meglio di un uomo..."
+
+“Assistenza…”, quindi scesi subito nel corridoio. Lo trovai barcollante.
+
+Con gli occhi che si muovevano freneticamente in tutte le direzioni. Era davvero uno spettacolo piacevole da vedere.
+
+Un intermediario tra lo [[Fool|idiota]] e il pazzo.
+
+“Vieni, signor Pelet,” dissi, “dovresti andare a letto ormai.” E gli presi la mano.
+
+Il suo braccio… La sua eccitazione, naturalmente, aumentò notevolmente non appena lo vide e lo toccò.
+
+del individuo per il cui [[Blood|>sangue]] aveva fatto richiesta: lui.
+
+Lottò e colpì con furia… ma un uomo ubriaco non è all’altezza di…
+
+# Un uomo sobrio… E anche nel suo stato normale, il fisico logoro di Pelet…
+
+Non ho mai avuto la forza di resistere al mio desiderio. L’ho portato di sopra e…
+
+Nel corso del [[Time|tempo]], andò a letto. Durante questa operazione, non mancò di.
+
+Titolo:  
+Espressioni violente ma che, nonostante la loro intensità, contenevano un certo senso…
+
+“Stigmatizzandomi come la feccia traditrice di una nazione perfida, lui…”
+
+Nello stesso respiro, denunciò pubblicamente [[Zoraide Reuter]]; la definì una “donna, ”
+
+“Sotte e malvagia”, quella che, in un impeto di lussuriosa capricciosità, si era gettata…
+
+#Lontano, verso un’avventura senza principi… guidando la direzione dell’ultima tappa.
 
 
 
@@ -29551,6 +37720,184 @@ yet so soft, in my eyes; a certain cast of character, at once proud
 
 and pliant, sensitive and sagacious, serious and ardent, in my head; a
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Un colpo furioso, mirato di sbieco verso di me… Lo lasciai lì.
+
+# Salto elastico fuori dal letto in cui l’avevo messo a dormire
+
+Ma, avendo preso la precauzione di girare la chiave nella porta alle mie spalle…
+
+Mi ritirai nella mia stanza, certo che fosse al sicuro fino alla mattina seguente.
+
+# E libero di trarre conclusioni incondizionate da quella scena che avevo appena visto…
+
+È stato testimoniato.
+
+Proprio in quel [[Time|momento]], la direttrice, ferita dall’.
+
+La mia freddezza, incantata dal mio disprezzo… e stimolata dalla preferenza che lei mi riservava…
+
+Mi sospettava di avere un altro nel cuore… ed era caduta nella trappola che lei stessa aveva preparato.
+
+Titolo:  
+Essa stessa si trovò intrappolata nelle reti di quella stessa passione…
+
+Titolo:  
+Quello che lei voleva era intrappolarmi… Consapevole della situazione in cui ci trovavamo…
+
+#Quell’quarto di anno, dedussi, dalla condizione in cui vidi ciò che mi circondava…
+
+Il datore di lavoro non riusciva a credere che la sua amata lo avesse tradito in quel modo.
+
+Affetti… piuttosto dire inclinazioni, direi; “affetto” è una parola che…
+
+# Una volta troppo calda e troppo pura… gli aveva mostrato tutto ciò.
+
+# Il vuoto del suo cuore, ormai privo della sua immagine, era ora occupato da…
+
+Il titolo del suo attendente… Non fu senza una certa sorpresa che lo scoprii.
+
+Devo convenire con questa visione della questione; Pelet, insieme…
+
+La sua scuola, fondata da tempo, era così comoda e redditizia…
+
+#Zoraide: una donna così calcolatrice, così interessata… Mi chiedevo…
+
+Nella sua mente, una semplice preferenza personale avrebbe potuto prevalere per un momento.
+
+# Un vantaggio mondano… ma, da quanto disse Pelet, era evidente che…
+
+Non solo lo aveva respinto, ma aveva anche espresso alcune parole che…
+
+“Preferenza per me… Uno dei suoi esclamazioni ubriache fu: ‘E il…”
+
+“La giada si compiace della tua giovinezza, tu stupido idiota… e parla della tua nobiltà!”
+
+“Comportamento”, come lei definisce quella maledetta formalità inglese… e la tua pura natura.
+
+“Morali, davvero… Ha detto ‘le costumi di Catone’… Che sciocchezza!” Le sue, sì.
+
+Deve essere un'anima davvero curiosa. Nonostante abbia una natura forte e innata.
+
+Tendenza ad sopravvalutare eccessivamente i vantaggi derivanti dalla ricchezza e dallo status sociale
+
+# Disprezzo sarcastico da parte di un subordinato senza fortuna aveva creato un effetto più profondo
+
+# Un’impressione che nemmeno le più sollecite attenzioni potrebbero lasciare
+
+“Un chef d’instituzione di successo… Sorrisi tra me e me; e, stranamente,…”
+
+“Sebbene il mio orgoglio fosse lusingato da questa vittoria, non lo fu in modo sgradevole…”
+
+“Migliori sentimenti rimasero intatti… Il giorno dopo, quando vidi la direttrice…”
+
+# E quando trovò una scusa per incontrarmi nel corridoio… e mi pregò…
+
+Notando un comportamento e uno sguardo pieni di [[Humility|umiltà]] nei confronti degli schiavi, capii.
+
+Senza [[Love|amore]], a malapena potevo provare compassione per lei. Per rispondere in modo breve e secco.
+
+#Un’indagine interessante sulla mia salute… da ignorare con fermezza
+
+“Solo un inchino… Era tutto ciò che riuscivo a fare; la sua presenza e il suo comportamento in quel momento, e per un po’ di tempo dopo, mi lasciavano senza parole.”
+
+In passato, e di conseguenza, questo evento ha avuto su di me un effetto particolare: loro.
+
+Sigillò tutto ciò che era buono, scatenò tutto ciò che era nocivo nella mia [[Nature|>natura]];
+
+A volte quelle cose irritavano i miei sensi, ma sempre rafforzavano la mia determinazione.
+
+Ero consapevole del danno arrecato e mi rimproveravo per questo.
+
+Cambiamento. Avevo sempre odiato un [[Tyrant|tiranno]]; ed ecco, ora che ne possedevo uno.
+
+Quel schiavo, che si era donato completamente a me, stava per trasformarmi in ciò che odio!
+
+# Una sorta di soddisfazione segreta nel ricevere qualcosa di così delizioso…
+
+# Incenso da parte di un devoto attraente e ancora giovane… e qualcosa di irritante.
+
+#Il senso di degradazione nella stessa esperienza del piacere. Quando lei…
+
+“Si muoveva intorno a me con il passo silenzioso di uno schiavo… All’istante mi sentii un barbaro.”
+
+#Un dominatore sensuale e autoritario… A volte sopportavo i suoi omaggi; altre volte…
+
+Lo rimproverò aspramente. La mia indifferenza o la mia durezza contribuirono ugualmente ad aumentare la situazione…
+
+Volevo verificare cosa fosse il male.
+
+“Che abbia sempre successo in ciò che fa!” L’ho sentita dire una volta alla sua madre.
+
+“È bello come Apollo quando sorride con quell’aria sprezzante.”
+
+#E la allegra vecchietta rise, dicendo di pensare che sua figlia…
+
+Titolo:  
+Stregata… perché intorno a me non c’era nessun uomo attraente, se non lui.
+
+“Dritto e senza deformità”, continuò lei, “per me, significa…”
+
+“Con gli occhiali da vista, ha tutto l’aspetto di un gufo.”
+
+# Vecchia signora meritevole… Avrei potuto andare a baciarla, se solo non fosse stata…
+
+“Troppo vecchia, troppo grassa e con il viso troppo rosso… Saggia e onesta…”
+
+Titolo:  
+Le parole sembravano così sincere e positive, in netto contrasto con le illusioni morbose della sua mente…
+
+figlia.
+
+# Quando Pelet si svegliò la mattina seguente alla sua crisi di follia, non ricordava nulla…
+
+Il ricordo di ciò che era accaduto la precedente [[Night|notte]] e sua madre.
+
+Fortunatamente ho avuto la discrezione di non dirgli che l’avevo fatto.
+
+#Testimone della sua decadenza… Non ebbe più alcuna possibilità di ricorrere a nulla.
+
+#Vino per lenire il suo dolore, ma anche quando era sobrio, presto mostrava…
+
+Che il ferro della [[Jealousy|invidia]] fosse penetrato nella sua [[Soul|'anima]]. Una situazione davvero grave.
+
+Il francese: la caratteristica nazionale della ferocia non è stata tralasciata
+
+Fu la [[Nature|natura]] stessa a combinare gli elementi che costituivano il suo carattere; fu proprio così che si formò.
+
+Apparve per la prima volta durante un attacco di furia ubriaca, quando alcuni dei suoi…
+
+#"Manifestazioni di odio verso di me erano davvero di natura demoniaca."
+
+# Tradimento velato
+
+# Contrazioni delle caratteristiche, e lampi di ferocia nel suo sguardo
+
+Blue Eyes… quando il loro sguardo incrociava il mio. Lui, assolutamente…
+
+Non volle più parlarmi; ora mi fu risparmiata anche la menzogna delle sue parole…
+
+Cortesia. In questo stato delle nostre relazioni reciproche, la mia [[Soul|'anima]] si ribellò.
+
+A volte, in modo quasi incontrollabile, contro il voler vivere nella [[house|>casa]].
+
+#"Adempiere al dovere verso un tale uomo… ma chi è veramente libero da tale obbligo?"
+
+Una costrizione dovuta alle circostanze? In quel [[Time|momento]], non lo ero. Di solito mi alzavo.
+
+Ogni mattina, desideroso di liberarsi dal proprio giogo e uscire con il mio borsone…
+
+Sotto il mio braccio… se un mendicante, almeno un uomo libero; e alla sera, quando…
+
+“Tornai dal collegio per ragazze… una voce piacevole”
+
+# Nel mio orecchio… un volto così intelligente, eppure così docile, così riflessivo…
+
+Ancora così tenero ai miei occhi… Un certo carattere, al contempo orgoglioso.
+
+“E flessibile, sensibile e saggia… seria ed appassionata… nella mia mente.”
 
 
 
@@ -29784,6 +38131,239 @@ decision. After twenty minutes’ conversation, I re-entered my own room,
 [[Home|home]], with the short notice of a week in which to provide another.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Un certo tono di sentimento: appassionato e modesto, raffinato e pratico, puro.
+
+E potente. Delizioso e al contempo inquietante per la mia [[Memory|memoria]]: visioni di nuovi legami che potrebbero nascere.
+
+# Desideroso di assumere nuove responsabilità…
+
+Il rover, e il ribelle che è in me, avevano dimostrato la resistenza necessaria di fronte alla mia odiata sorte.
+
+alla luce di una virtù spartana.
+
+Ma la furia di Pelet si placò; due settimane furono sufficienti perché scaturisse, crescesse e si intensificasse.
+
+E l’estinzione: in quel lasso di [[Time|tempo]], la cancellazione di ciò che è odioso.
+
+L’insegnante era stato colpito nell’edificio vicino, e allo stesso modo.
+
+Titolo:  
+“Ho deciso di seguire questa strada e scoprire chi sia il mio allievo…”
+
+#E dopo che la mia richiesta di ottenere il suo indirizzo fu rifiutata, decisi semplicemente…
+
+Ho rassegnato le mie dimissioni. Quest’ultimo atto sembrò, al contempo, ripristinare la situazione per Madame.
+
+“Reuter ritorna in sé; la sua saggezza, il suo giudizio, per tanto tempo ingannati…”
+
+# Una delusione affascinante… che ci riporta immediatamente sulla strada giusta
+
+“Quell’illusione svanì. Con la strada giusta, non intendo quella ripida…”
+
+# Sentiero arduo della coscienza… un percorso che lei non ebbe mai la possibilità di intraprendere; ma comunque, una strada chiara e diretta.
+
+La strada del buon senso, da cui di recente aveva deviato ampiamente.
+
+# Quando la cercò con cura e, una volta trovata, la inseguì con impegno
+
+La traccia del suo vecchio corteggiatore, il signor Pelet… Presto lo raggiunse. Quali mezzi utilizzò?
+
+#Usò metodi che forse avevano lo scopo di calmarlo e di farlo ignorare la verità… ma riuscì in entrambi i casi.
+
+Per placare la sua ira e ingannare la sua perspicacia, come avvenne ben presto…
+
+Si evince dal cambiamento nel suo comportamento e nel suo modo di fare… Deve esserci riuscita, quindi.
+
+Per convincerlo che né io ero, né mai fossi stata una sua rivale.
+
+Titolo:  
+La quindicina di furia contro di me si concluse con un attacco di estrema violenza…
+
+# Grazia e comodità, mescolate con un pizzico di gioia esuberante
+
+La [[Self|auto-compiacenza]], più ridicola che irritante. La condizione di scapolo di Pelet.
+
+La vita era stata vissuta nel vero stile francese, con totale disprezzo per i valori morali.
+
+“Rispetto e moderazione… E pensavo che la sua vita coniugale fosse destinata ad essere molto ‘francese’.”
+
+Anche… Spesso mi vantava di quanto fosse stato terribile per alcune persone.
+
+Conoscendo gli uomini che lui frequentava, capii che ormai non sarebbe stato difficile…
+
+Per ripagarlo con la sua stessa moneta.
+
+La crisi continuava ad intensificarsi. Non appena erano iniziati i festivi, si cominciarono a notare…
+
+#Preparazioni per un evento importante si sentivano in tutto l’edificio
+
+Titolo:  
+I pittori, i lucidatori e gli imbottitori furono immediatamente impegnati…
+
+Titolo:  
+Per lavorare… e si parlava di “la camera di Madame”, “il salone di…”
+
+“Madame…” Non ritenendo probabile che la vecchia dama di compagnia fosse attualmente presente…
+
+Con quel titolo nella nostra [[house|>casa]], aveva ispirato suo figlio con grande entusiasmo.
+
+# Devozione filiale: per indurlo ad allestire appositamente stanze per lei
+
+# Utilizzo comune, conclusi, da parte del cuoco, delle due cameriere e…
+
+"Cuoco ai fornelli… una nuova e più giovane signora era destinata ad assumere quel ruolo."
+
+Il locatario di queste stanze.
+
+È stata appena rilasciata un’ufficiale comunicazione sull’evento imminente.
+
+Un’altra settimana di lavoro per il signor François Pelet, direttore, e la signorina Zoraide.
+
+# Reuter, direttrice… unite insieme nelle fila delle…
+
+Matrimonio: Monsieur me ne informò di persona, ponendo fine alla questione.
+
+La sua comunicazione si basava su un'espressione gentile del suo [[Desire|desiderio]] che io facessi.
+
+Continua, come in passato, ad essere il suo assistente più abile e il suo amico più fidato.
+
+# Una proposta per aumentare il mio stipendio di duecento franchi in più
+
+Per anno. Gli ringraziai, ma in quel momento non gli diedi una risposta definitiva, e.
+
+# Quando se ne andò, mi tolse la camicetta, mi infilò il cappotto e partì
+
+# In una lunga passeggiata fuori dalla Porte de Flandre, con l’intento, come pensavo, di…
+
+Raffredda il mio sangue, calma i miei nervi e sistema queste idee disordinate in qualcosa di coerente.
+
+Ordine. In realtà, avevo appena ricevuto ciò che era praticamente un mio licenziamento.
+
+Non riuscivo a nasconderlo; in realtà non volevo nemmeno nasconderlo a me stesso.
+
+Titolo:  
+La convinzione che, ora essendo certo che la signorina Reuter fosse destinata a…
+
+Diventare Madame Pelet… non sarebbe affatto adatto per me rimanere una persona che dipende dagli altri.
+
+Nella [[house|casa]] che presto sarebbe diventata sua. Il suo attuale comportamento verso.
+
+Non mancavo né di dignità né di decoro; ma conoscevo il suo passato…
+
+Il sentimento rimaneva invariato. Ora il decoro veniva represso, e la Politica ne nascondeva le tracce, ma…
+
+L’opportunità sarebbe troppo allettante per entrambi. Queste [[Temptation|>Tentazioni]].
+
+Liberarsi dalle proprie restrizioni.
+
+Non ero papa… Non potevo vantarmi di essere infallibile; insomma, se fossi rimasto…
+
+La probabilità era che, in tre mesi, si potesse realizzare qualcosa di concreto e moderno.
+
+I romanzi francesi sarebbero in pieno processo di stesura sotto quel tetto.
+
+Il ingenuo Pelet… Ora, i romanzi francesi moderni non sono certo il mio genere preferito…
+
+# Gusto, sia praticamente che teoricamente… Limitato, fino ad ora, come lo era stato il mio.
+
+# Esperienze di vita: un’occasione per riflettere
+
+# A portata di mano, un esempio dei risultati ottenuti seguendo un determinato percorso
+
+# Una tradizione domestica interessante e romantica… ma anche piena di tradimenti. Nessun alone dorato di finzione.
+
+# Era proprio su questo esempio che mi sono concentrato: l’ho visto nella sua forma più semplice e concreta, ed era davvero molto…
+
+Detestabile… Ho visto una mente degradarsi a causa dell’uso di mezzi meschini e subdoli.
+
+L'abitudine alla perfida [[Deception|inganno]], e un corpo corrotto dall'influenza contagiosa.
+
+L’influenza dell’anima contaminata. Avevo sofferto molto a causa di queste costrizioni forzate.
+
+# E una lunga contemplazione di questa scena… quei dolori che allora non ho potuto sopportare.
+
+# Rimpianto: il semplice ricordo di ciò che è stato agì come un antidoto estremamente efficace
+
+Di fronte alla [[Temptation|tentazione]]. Avevano impresso nella mia ragione la convinzione che.
+
+“Un piacere illegale, che viola i diritti altrui, è illusorio e…”
+
+Piacere avvelenato, la sua vacuità delude nel momento stesso in cui si manifesta; il suo “veleno” ne rovina ogni effetto positivo.
+
+Dopo averlo crudelmente torturato, gli effetti di tale azione lo corrompono per sempre.
+
+Da tutto ciò derivò la conclusione che dovevo lasciare Pelet’s.
+
+“Ma,” disse Prudence, “non sai dove andare, né come farlo.”
+
+“Vivere, ” E poi mi colpì il sogno di un vero e proprio [[Love|amore]]: [[Frances Henri]]
+
+Sembrava essere al mio fianco; la sua snella vita invitava il mio braccio ad avvolgerla…
+
+Porre la mia mano nel [[Court|giardino]] del cuore] di qualcuno. Sentivo che fosse fatta apposta per riposare nella mia; non riuscivo a farlo.
+
+Abbandonare il mio diritto su di esso… né potrei mai distogliere lo sguardo da esso per sempre.
+
+# Il suo regno, dove ho visto tanta felicità, dove i cuori si incontravano perfettamente
+
+# Cuore… su il cui espressione avevo tale potere; nel quale potevo infondere sentimenti…
+
+# Felicità, ispirazione di meraviglia, gioia profonda, spirito brillante… e ancora di più.
+
+A volte, il risveglio porta con sé un piacevole terrore… Le mie speranze di poter volere e possedere…
+
+Risoluzioni degne di essere perseguite, ma le [[Rose|rosi]] si schierarono contro di me. E eccomi qui.
+
+Sul punto di cadere nel abisso della completa povertà… “E tutto questo…”
+
+Una voce interiore gli suggerì: “perché temi un male che forse non arriverà mai”.
+
+“Accadrà! Lo sai che accadrà,” rispose quella testarda persona.
+
+“Monitor, [[Conscience|Conscienza]]. Fai ciò che ritieni giusto; obbediscimi, e anche così, ”
+
+“Nei luoghi infestati dalla povertà pianterò solide fondamenta per voi.” E poi, mentre io…
+
+Camminava velocemente lungo la [[Road|strada]]; all'improvviso mi venne in mente un'idea strana e profonda.
+
+#Di una grande entità, invisibile ma onnipresente, che con la Sua benevolenza…
+
+Desiderava solo il mio bene… e ora osserva la lotta tra il bene e il male.
+
+Nel mio cuore, aspettavo di vedere se dovessi obbedire alla Sua voce… che sentivo dentro di me.
+
+I sussurri della mia [[Conscience|coscienza]], oppure prestare ascolto a quei sofismi con cui.
+
+Il suo nemico e il mio – lo Spirito del Male – cercò di portarmi sulla strada sbagliata.
+
+“Roccioso e ripido era il sentiero indicato dalla divina guida; ricoperto di muschio…”
+
+Rifiutando il sentiero verde su cui [[Temptation|>Tentazione]] aveva disperso fiori; ma.
+
+Mentre pensavo che la Deità dell’[[Love|Amore]], l’Amica di tutto ciò che esiste.
+
+Sorriderei di grande soddisfazione se mi mettessi all’opera immediatamente.
+
+“Verso l’ascesa brusca… e d’altra parte, ogni inclinazione verso…”
+
+# La dolce pendenza sembrava accendere un barlume di trionfo sulla fronte…
+
+# Demone odioso degli uomini, che sfida Dio… Mi girai rapidamente e…
+
+Ripercorsi i miei passi; in mezz’ora fui di nuovo da M. Pelet: cercai…
+
+#Nella sua stanza da studio: poche parole, una spiegazione concisa… e il mio modo di comportarmi.
+
+“Provò che ero deciso; forse, nel profondo del cuore, approvava la mia decisione.”
+
+Decision. Dopo venti minuti di conversazione, rientrai nella mia stanza.
+
+Privato dei mezzi per vivere, mi sono autocondannato ad abbandonare la mia situazione attuale.
+
+[[Home|>A casa]], con soli una settimana di tempo per trovarne un'altra.
+
 
 
 <span class="atom-split" data-atom="chapter_22--part_01" data-title="The Professor — Chapter 21 (part 1)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/dust,motif/marriage,motif/time,motif/well,concept/doubt,concept/fear,concept/history,concept/temptation,concept/truth,concept/wonder,form/history,setting/egypt"></span>
@@ -29965,6 +38545,186 @@ of [[Egypt]]; or like a rascally son of Levi near the brass cauldrons of the
 
 sanctuary, and every now and then plunging in a consecrated hook, and
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XXI.
+
+Appena chiusi la porta, vidi due lettere posizionate sul tavolo… mie.
+
+Il pensiero era che si trattasse di inviti inviati dagli amici di qualcuno.
+
+Dei miei studenti; di tanto in tanto ricevevo segni di attenzione del genere…
+
+Con me, che non avevo amici, le lettere di carattere più interessante erano quelle che ricevevo.
+
+Il problema principale era… l’arrivo del postino non era mai stato un evento di rilievo fino ad allora.
+
+# Un argomento che mi interessa da quando sono arrivato a Bruxelles… Ho posato la mano su di esso senza pensarci troppo.
+
+# I documenti… e, dopo averli esaminati con distacco e lentezza, mi preparai a…
+
+“Rompere i sigilli… Il mio sguardo fu catturato, e così anche la mia mano; vidi ciò che suscitava emozione…”
+
+# Io, come se avessi trovato un’immagine vivida dove invece mi aspettavo di trovare solo oscurità…
+
+Una pagina bianca: su una copertina c’era un timbro postale inglese; sull’altra…
+
+Il chiaro e delicato autografo della signora… Il primo che ho aperto è stato proprio quello…
+
+# Monsieur
+
+“Ho scoperto cosa avevi fatto la stessa mattina dopo la tua visita da me…”
+
+Potete essere certi che dovrei pulire la porcellana ogni giorno. E poiché nessuno altro se ne occuperà.
+
+# Avevi soggiornato nella mia stanza per una settimana… e poiché i “soldi fatati” non sono più in circolazione…
+
+A Bruxelles, non potevo [[Doubt|dubitare]] di chi avesse lasciato quei venti franchi lì.
+
+#Il pezzo da camino… Pensavo di aver sentito tu muovere il vaso mentre ero chino.
+
+“Cercare il guanto sotto il tavolo… Mi chiedevo se fosse la cosa giusta da fare.”
+
+“Immaginate che sia finito in una così piccola coppa… Ora, signore, i soldi…”
+
+“Non è mio, e non lo terrò; non lo invierò in questa nota.”
+
+#Perché potrebbe andare perso… inoltre, è pesante; ma lo riparerò.
+
+Per la prima volta che ti vedo. Non devi certo creare difficoltà.
+
+Titolo:  
+“Prendendola in considerazione… perché, innanzitutto, sono sicuro che lei possa farlo, signore.”
+
+Capire che a qualcuno piace pagare i propri debiti… è una cosa soddisfacente.
+
+Non do nulla in debito a nessuno; e, in secondo luogo, ora posso farlo molto bene.
+
+# Onestamente, di fronte a questa situazione…
+
+La ragione per cui vi scrivo è proprio questa circostanza…
+
+“È piacevole condividere buone notizie… E, in questi tempi, ho soltanto queste.”
+
+Un maestro a cui posso raccontare qualsiasi cosa.
+
+“Una settimana fa, signore, fui chiamato da una certa signora Wharton, un’inglese…”
+
+Signora… sua figlia maggiore stava per sposarsi, e alcuni ricchi…
+
+# Una relazione che le ha regalato un velo e un abito costoso ma vecchio
+
+“Lace… prezioso quanto i gioielli, dicevano, ma leggermente danneggiato…”
+
+In quel [[Time|periodo]], mi fu affidato il compito di ripararli. Dovevo farlo subito.
+
+[[house|>Casa]]; inoltre, mi hanno dato alcuni lavori di ricamo da completare, e quasi tutto è stato fatto.
+
+Trascorse una settimana prima che riuscissi a finire tutto. Mentre lavoravo, la signorina…
+
+Wharton spesso entrava nella stanza e si sedeva con me, così faceva anche la signora.
+
+# Wharton: mi hanno costretto a parlare inglese… e mi hanno chiesto come avessi imparato a farlo
+
+Lo so [[Well|bene]]; allora mi chiesero cosa sapevo oltre a questo, quali libri avevo letto.
+
+Ben presto sembrarono iniziare a considerarmi in un certo modo, senza alcun [[Doubt|>dubbio]].
+
+# Come una rispettabile grisette… Un pomeriggio, la signora Wharton portò a casa una parigina…
+
+Signora per mettere alla prova l’accuratezza delle mie conoscenze del francese… Il risultato…
+
+# Fu probabilmente per l’influenza della madre…
+
+Il buon [[Humour|umore]] di sua figlia riguardo al [[Marriage|matrimonio]] li spinse a.
+
+Fare opere di bene… E in parte, credo, perché è nella loro natura farlo.
+
+Persone benevole… decisero di assecondare il desiderio che avevo espresso.
+
+“Qualcosa di più che riparare i merletti… era davvero una questione molto seria e legittima.”
+
+#Il giorno in cui mi portarono nella loro carrozza da Madame D., la direttrice
+
+La prima scuola inglese di Bruxelles… Sembra che lei si trovasse lì per caso.
+
+A causa della mancanza di una signora francese che potesse insegnare geografia, [[history|storia]] e grammatica.
+
+Titolo:  
+“Composizione e linguaggio francese: la signora Wharton mi ne ha consigliato l’uso”
+
+Con grande affetto; e poiché due delle sue figlie più giovani sono alunne…
+
+Quella [[house|casa]], grazie al suo patrocinio, mi permise di ottenere quel posto. Fu deciso che io.
+
+Devo partecipare per sei ore al giorno… fortunatamente, non era obbligatorio farlo.
+
+Dovrei vivere in quella [[house|casa]]; avrei dovuto sentirmi dispiaciuto per averla lasciata.
+
+Titolo: “Alloggi”, e per questo, la signora D. mi darà milleduecento franchi…
+
+anno.
+
+“Vede dunque, signore, che ora sono ricco… quasi più ricco di prima.”
+
+#Quello che ho sempre sperato di diventare… Ne sono grato, soprattutto considerando come sia migliorata la mia vista.
+
+Iniziavo ad avere problemi fisici a causa del lavoro continuo con la seta fine… e io ne soffrivo.
+
+#Stanco anche di svegliarsi fino a tarda notte… eppure senza risultati concreti
+
+In grado di trovare il [[Time|tempo]] per leggere o studiare. Ho iniziato a [[Fear|temere]] che potesse non esserci più.
+
+Ammalarmi e non essere in grado di pagare le mie spese. Questo [[Fear|timore]] ora è davvero grande.
+
+La misura è stata rimossa; e, in [[Truth|verità]], signore, sono molto grato a Dio per.
+
+Il sollievo… e sento quasi il dovere di parlare della mia felicità.
+
+Per qualcuno abbastanza gentile da trarre gioia nel vedere gli altri felici
+
+Felice. Non ho quindi potuto resistere alla [[Temptation|tentazione]] di scrivervi.
+
+Ho discusso con me stesso: scrivere è davvero molto piacevole per me… e lo sarà anche in futuro.
+
+Non sarà esattamente doloroso, anche se potrebbe risultare noioso per il signore…
+
+Leggi… Non arrabbiarti troppo per le mie espressioni indirette e le mie mancanze di eleganza nel formulare i pensieri.
+
+# Espressione… e, credetemi
+
+“Il vostro devoto allievo,
+
+“F. E. HENRI.”
+
+Dopo aver letto questa lettera, ne ho riflettuto a lungo sul contenuto…
+
+Momenti… che siano di piacere o meno, li assaporerò tutti.
+
+Da ora in poi… e poi prese l’altro. Era scritto a mano.
+
+Per me sconosciuto… piccolo e abbastanza ordinato; né maschile, né esattamente…
+
+# Femminile: il sigillo recava uno stemma, sul quale però non riuscii a ottenere alcuna informazione.
+
+#Decifrare che non apparteneva alla famiglia Seacombe…
+
+Lettera che non potrebbe provenire da nessuno dei miei quasi dimenticati… e certamente…
+
+#Dimenticando le relazioni aristocratiche… Da chi, allora, proveniva? L’ho rimosso.
+
+# Busta; la nota ripiegata all’interno recitava quanto segue:
+
+“Non ho la minima [[Doubt|dubbio]] che tu stia facendo bene in quella situazione, per quanto possa essere difficile.”
+
+# Flandria: probabilmente vivendo dei frutti di questa terra fertile…
+
+# Un israelita dai capelli neri, dalla pelle brunastra e dal naso lungo vicino alle vasche di carne
+
+Dell’[[Egypt|>Egitto]]; o come un disonesto figlio di Levì vicino ai calderoni di bronzo.
+
+# Rifugio… e di tanto in tanto, immergendo un amo consacrato…
 
 
 
@@ -30470,6 +39230,143 @@ and family were all out of town--gone to Ostend--did not know when they
 would be back. I left my card, and retraced my steps.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Abbandonare un bene temporaneo e condizionato per evitare uno permanente…
+
+Quel certo male che ha commesso l’ha fatto con abilità. Lasciatelo ora riflettere. Quando la sua cecità.
+
+Quando la [[Dust|polvere]] e il ronzio assordante si saranno placati, scoprirà una strada.
+
+Mi sedetti; appoggiai la fronte sulle mani; pensai…
+
+# Pensai per un’ora… due ore… invano. Mi sentivo come se fossi sigillato all’interno di…
+
+# Caverna sotterranea, dove si guarda nell’oscurità totale… nell’oscurità assoluta e certa.
+
+Rinchiuso da muri di pietra spessi diversi metri e sovrastato da cumuli di materiali da costruzione…
+
+Aspettarsi che la luce possa penetrare il granito e anche il cemento solido…
+
+Come il granito… Ma ci sono crepe, o potrebbero esserci crepe, all’interno di esso.
+
+“La muratura meglio sistemata… Ma nella mia ‘cavernosa’ prigione c’era una fessura…”
+
+Alla fine, vidi… o sembrò che vedessi, un raggio… pallido, davvero, e freddo.
+
+“E incerto… ma pur sempre un raggio di luce: indicava infatti quel sentiero stretto…”
+
+La [[Conscience|coscienza]] aveva promesso, dopo due, tre ore di tormentosi riflessioni.
+
+Cervello e [[Memory|memoria]]: riesumai alcuni ricordi legati a quelle circostanze.
+
+Nacque in lui la speranza che, mettendoli insieme, si potesse trovare una soluzione pratica.
+
+“Incastrato… e scoperto un nuovo risorsa. Le circostanze erano più o meno queste…”
+
+Circa tre mesi fa, durante la sua festa, il signor Pelet aveva offerto…
+
+“Il divertimento per i ragazzi consistette in una festa piacevole…”
+
+Un certo luogo di svago pubblico alle periferie di Bruxelles…
+
+# Non ricordo il nome in questo momento, ma vicino ad esso c’erano diversi altri…
+
+#Quei piccoli laghi chiamati étangs; e ce n’era uno, più grande degli altri…
+
+Titolo:  
+Il luogo in cui, durante le vacanze, le persone erano abituate a divertirsi…
+
+#Remando intorno ad esso in piccole barche… I ragazzi, dopo aver mangiato senza limiti…
+
+Quantità di “gaufres” e diverse bottiglie di birra Louvain…
+
+Le ombre di un [[Garden|giardino]], create apposta per simili momenti di intimità, venivano utilizzate.
+
+Il direttore chiede permesso di andare a fare una passeggiata sul laghetto… Una mezza dozzina di persone lo accompagnano.
+
+L’anziano riuscì ad ottenere il permesso, e mi fu incaricato di accompagnarlo.
+
+Li consideravano dei sorveglianti. Tra quei sei c’era proprio una certa Jean.
+
+# Baptiste Vandenhuten, un giovane fiammingo piuttosto robusto, non molto alto…
+
+Ancora ora, all’età giovane di sedici anni, possiede una vastità e una profondità…
+
+Personal Development: davvero un tema di interesse nazionale. Per coincidenza, Jean fu la prima ad occuparsene.
+
+“Pronto a salire sulla barca… ma inciampa, rotola da un lato… la barca…”
+
+Si ribellò contro il proprio peso e si capovolse. Vandenhuten affondò come il piombo, [[Rose|si alzò]] in superficie.
+
+#Ancora una volta affondò… In un attimo mi tolsi cappotto e gilet; non ero ancora riuscito a…
+
+Cresciuto a Eton, dove passò dieci anni a fare vela, nuotare e bagnarsi.
+
+Senza alcun motivo; per me fu un gesto naturale ed facile correre in suo aiuto.
+
+I ragazzi e i barcaioli gridavano; pensavano che ci sarebbero state due morti.
+
+Per annegare, invece di uno solo. Ma quando Jean si alzò per la terza volta, io mi aggrappai a lui.
+
+“Lo afferrai per una gamba e per il colletto, e in tre minuti, sia lui che io…”
+
+Atterrarono sani e salvi. Per dire la verità, il mio merito in quell’impresa fu.
+
+#Piccolissimo davvero… poiché non avevo corso alcun rischio, e in seguito nemmeno ne ho tratto alcuna conseguenza.
+
+Freddo a causa dell’umidità… Ma quando il signor e la signora Vandenhuten, di cui Jean…
+
+Baptiste era l’unica [[Hope|>speranza]]; venuti a sapere di questo gesto eroico, sembravano.
+
+# Pensare che abbia dimostrato un coraggio e una devozione per cui nessun ringraziamento sarebbe stato sufficiente…
+
+Ripagare a sufficienza… In particolare, Madame era “certa” che io dovessi farlo.
+
+Carissimamente amavano il loro adorato figlio… Altrimenti non avrei mai corso un simile rischio per lui.
+
+“Un uomo dall’aspetto onesto, sebbene un po’ apatico…”
+
+Disse molto poco, ma non mi permise di lasciare la stanza, finché…
+
+# Avevo promesso che, nel caso mai avessi avuto bisogno di aiuto, l’avrei chiesto…
+
+Applicandolo a lui, gli si dà la possibilità di adempiere all’obbligo previsto.
+
+“Che sosteneva fosse stato io ad averlo messo lì… Queste parole, dunque, rappresentavano la mia unica speranza…”
+
+La luce. Fu qui che trovai la mia unica via d’uscita; e nella [[Truth|verità]], nonostante il freddo.
+
+#Un risveglio leggero… ma non mi rese felice; né sembrava che quella via d’uscita fosse davvero la giusta per me.
+
+“Vorrei poter passare… Giusto, non ne avevo nessuno da offrire al signor Vandenhuten.”
+
+Uffici… Non era per meriti che potevo rivolgermi a lui; no, non era così…
+
+#Doveva basarsi sulla necessità: non avevo lavoro; volevo un lavoro; il mio meglio…
+
+La possibilità di ottenerlo dipendeva dal ottenere la sua raccomandazione. Questo lo sapevo.
+
+# Potrebbe essere ottenuto chiedendolo… ma non chiederlo, perché quella richiesta è rivoltante.
+
+La mia [[Pride|orgoglio]], che va contro le mie abitudini, sarebbe, a mio parere, una forma di indulgenza.
+
+“Falsa e pigra meticolosità… Potrei pentirmi di questa omissione per tutta la vita.”
+
+La vita, in quel caso non sarei colpevole di nulla.
+
+Quella sera andai da M. Vandenhuten; ma avevo già “teso l’arco”…
+
+#Inutile aggiustare l’asta… la corda si è rotta. Ho suonato il campanello…
+
+Una grande porta. Era una casa ampia e bellissima, situata in un quartiere costoso della città.
+
+# Un servitore aprì la porta; chiesi di parlare con il signor Vandenhuten… Il signor Vandenhuten
+
+La famiglia era tutta fuori città: erano andati a Ostenda e non sapevano quando sarebbero tornati.
+
+Sarei tornato indietro. Ho lasciato la mia carta e ho ripercorso i miei passi.
+
 
 
 <span class="atom-split" data-atom="chapter_23--part_01" data-title="The Professor — Chapter 22 (part 1)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/temptress,motif/love,motif/marriage,motif/nature,motif/night,motif/rose,motif/soul,motif/time,motif/well,motif/window,concept/doubt,concept/freedom,concept/identity,concept/imagination,concept/longing,concept/nature,setting/paris"></span>
@@ -30653,6 +39550,187 @@ said,--
 
 spell being broken, he went on: “I thought you lived at Pelet’s; I went
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XXII
+
+È passata una settimana; è arrivato il giorno del matrimonio; il [[Marriage|matrimonio]] è stato celebrato solennemente.
+
+# A Saint-Jacques: Mademoiselle Zoraide divenne Madame Pelet, nata Reuter… e poi ancora…
+
+Circa un’ora dopo questa trasformazione, “la felice coppia”, come scrivevano i giornali…
+
+In altre parole, erano in viaggio verso [[Paris|Parigi]], dove, secondo quanto previsto in precedenza.
+
+#Organizzazione… La luna di miele doveva essere trascorsa in quel luogo. Il giorno dopo me ne andai.
+
+Pensionato… Io e le mie cose (alcuni libri e vestiti) fummo presto…
+
+Mi trasferii in un alloggio modesto che avevo affittato in una strada non lontana da lì.
+
+“Mezz’ora dopo, i miei vestiti erano ordinati nel comodino e i miei libri sullo scaffale.”
+
+#E il “volo” ebbe luogo… Quel giorno non avrei dovuto essere infelice.
+
+Nessun dolore mi aveva tormentato, nessun desiderio di andare in Rue Notre Dame.
+
+Sotto la neve… resisto, ma sono irritato da una determinazione interiore a evitarlo.
+
+Quella strada, fino a quando la nebbia del [[Doubt|>dubbio]] non si dissiperà dalla mia mente.
+
+Prospettive future.
+
+# Una dolce serata di settembre – molto mite, molto tranquilla; non avevo nulla…
+
+#Da fare… In quell’ora sapevo che anche Frances sarebbe stata liberata allo stesso modo.
+
+Occupazione… Pensavo che forse desiderasse il suo padrone…
+
+Sapevo che desideravo la mia allieva. L’[[Imagination|immaginazione]] iniziò con i suoi sussurri sommessi.
+
+Infondendo nella mia [[Soul|'anima]] la dolce storia di piaceri che potrebbero esistere.
+
+“La troverete sempre a leggere o scrivere,” disse lei; “potete prenderla con voi…”
+
+Siediti al suo fianco: non è necessario disturbare la sua tranquillità con eccessiva agitazione.
+
+#Non è necessario metterla in imbarazzo con comportamenti o parole insoliti. Sii semplicemente…
+
+Sempre lo sei… Dà un’occhiata a quello che ha scritto, ascolta mentre legge.
+
+“Rimproverla o approvarla in silenzio… Conosci bene gli effetti di entrambi questi comportamenti.”
+
+Conosci il suo sorriso quando è felice, conosci l’espressione dei suoi occhi quando è eccitata…
+
+#Hai il segreto per risvegliare qualsiasi espressione tu desideri… e puoi farlo.
+
+Scelgi tra quella piacevole varietà… Con te, rimarrà in silenzio.
+
+Finché ti va bene parlare [[Alone|da solo]], puoi tenerla sotto un potente.
+
+Titolo:  
+“Anche se è intelligente e eloquente… puoi comunque ‘sigillarla’.”
+
+“Labbra… e un velo che nasconde il suo viso luminoso, pieno di timidezza… Eppure, tu lo sai…”
+
+# Non è solo dolcezza e monotonia… Avete visto, in qualche modo…
+
+# Strana gioia, ribellione, disprezzo, austerità, amarezza… e ancora energia.
+
+“Un posto nel suo cuore e nel suo aspetto… Lo sai bene: pochi hanno quel diritto.”
+
+“Potresti dominarla come fai tu… Sai che potrebbe rompersi, ma mai piegarsi.”
+
+La mano della tirannia e dell’ingiustizia, ma la ragione e l’affetto possono guidare
+
+“Con un segno… Provate ora il loro potere. Andate… Non sono passioni; voi…”
+
+“Possono essere gestiti in modo sicuro.”
+
+“Non andrò”, fu la mia risposta alla dolce [[Temptress|seduttrice]]. Un uomo è padrone di sé.
+
+Si è dedicato a se stesso fino a un certo punto, ma non oltre. Potrei cercare Frances…
+
+Di notte, potrei sedermi con lei da sola in una stanza tranquilla e parlarle?
+
+Solo nella lingua della ragione e dell’affetto?
+
+“No,” fu la breve e appassionata risposta di quell’[[Love|Amore]] che aveva conquistato.
+
+Ora mi controllava lui.
+
+Il [[Time|tempo]] sembrava fermarsi; il sole non tramontava mai; il mio orologio ticchettava, ma.
+
+Pensavo che quelle mani fossero paralizzate.
+
+“Che serata calda!” esclamai, aprendo di scatto la griglia; infatti, lo era davvero.
+
+#Raramente mi ero sentito così febbrile… Sentendo dei passi salire la scala comune…
+
+Mi chiedevo se il “locatario”, che ora stava salendo ai suoi appartamenti, fosse…
+
+# Con lo stato d’animo e la condizione mentale in cui mi trovavo, o forse perché viveva…
+
+La calma derivante dall’uso di certi risorse, e la libertà di esprimere sentimenti senza restrizioni.
+
+Che cosa! Veniva personalmente per risolvere un problema che era appena stato sollevato…
+
+#Pensiero inaudibile? Aveva davvero bussato alla porta… alla MIA porta.
+
+# Rap veloce e pronto; e quasi prima che potessi invitarlo ad entrare, era già lì.
+
+Aveva superato la soglia ed aveva chiuso la porta dietro di sé.
+
+“E come stai?” chiese una voce indifferente e tranquilla, in inglese…
+
+# Lingua; mentre il mio visitatore, senza alcuna fretta o presentazione…
+
+# Mettere il cappello sul tavolo e i guanti dentro il cappello… e poi iniziare a parlare seriamente
+
+L’unico divano presente nella stanza era leggermente spostato in avanti; vi si sedette.
+
+In tranquillità, lì dentro.
+
+“Non riesci a parlare?”, chiese dopo qualche istante, con un tono che…
+
+Il tono disinvolto sembrava suggerire che in realtà fosse la stessa cosa in entrambi i casi…
+
+# Ho risposto o no… Il fatto è che ho ritenuto opportuno ricorrere a…
+
+I miei cari amici “les besicles”; non esattamente per verificare l’[[Identity|identità]] di.
+
+Il mio visitatore… poiché già lo conoscevo, che audacia la sua! Ma vederlo di nuovo…
+
+Per avere un'idea chiara del suo aspetto e del suo volto.
+
+# Ho pulito gli occhiali con molta cura, e me li sono messi sul naso con estrema attenzione.
+
+# Regolandoli con attenzione per non danneggiare il dorso del mio naso
+
+“O finisci per impigliarti nei miei corti ciuffi di capelli scuri… Ero seduta lì…”
+
+Posto vicino alla finestra, con la schiena rivolta verso la luce, e riuscivo a vederlo chiaramente; un.
+
+Una posizione che avrebbe preferito fosse inversa; perché, in qualsiasi momento, lui.
+
+# Preferire l’essere oggetto di attenta analisi piuttosto che subirla… Sì, era lui… e no.
+
+#"Un errore… con i suoi sei piedi di altezza seduto in posizione eretta";"
+
+#Con il suo scuro abito da viaggio, con il colletto di velluto… e i suoi capelli grigi…
+
+I pantaloni, il suo bastone nero e il suo viso, il più originale che la [[Nature|Natura]] abbia mai creato.
+
+# Mai modellato in modo così discreto… Nessuna caratteristica che potesse destare attenzione.
+
+# Un effetto unico e inconfondibile… nonostante possa essere definito “strano” o “bizzarro”.
+
+Usato nel tentativo di descrivere ciò che è indescrivibile… Senza alcuna fretta.
+
+Per rivolgermi a lui, mi sedetti e lo fissai con tranquillità.
+
+“Ah, è così che giochi, vero?” disse infine. “Beh, vedremo chi avrà la meglio.”
+
+“Chi scrive per lungo tempo si stanca più in fretta.” E lentamente estrasse una raffinata scatola da sigari, ne scelse uno…
+
+A seconda dei suoi gusti, lo accese e prese un libro dallo scaffale più vicino a lui.
+
+# Poi si appoggiò allo schienale e continuò a fumare e leggere con la stessa tranquillità di sempre.
+
+Si trovava nella sua stanza, in Grove-street, X---shire, Inghilterra… Lo sapevo.
+
+# Era in grado di mantenere quell’atteggiamento fino a mezzanotte, se avesse voluto…
+
+Mi venne in mente questa idea; così mi alzai, presi il libro dalla sua mano e.
+
+Disse:――
+
+“Non l’hai chiesto, e quindi non lo avrai.”
+
+“È stupido e noioso,” osservò, “quindi non ho perso molto…”
+
+“La magia è stata infranta…”, proseguì, “pensavo che vivessi a Pelet’s; sono andato lì…”
 
 
 
@@ -30864,6 +39942,213 @@ idea.
 X----? You left no friends there, for you made none. Nobody ever asks
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Stamattina pomeriggio, aspettavo di morire di fame restando seduto lì.
+
+#Una sala da pranzo di un collegio… e mi dissero che te n’eri andato.
+
+È partito questa mattina… ma aveva lasciato indietro il suo indirizzo.
+
+# Di cui mi chiesi il motivo: era una precauzione più pratica e sensata.
+
+“Più di quanto avessi mai potuto immaginare che fossi capace… Perché te ne sei andato?”
+
+“Perché il signor Pelet ha appena sposato la donna di cui voi e il signor Brown…”
+
+“Assegnata a me come mia moglie.”
+
+“Ah, davvero!”, rispose Hunsden con una breve risata; “quindi hai perso entrambi…”
+
+“Tua moglie e il tuo posto…”
+
+Esattamente così.
+
+# Lo vidi lanciare uno sguardo rapido e furtivo in giro per la mia stanza; ne notò ogni dettaglio.
+
+#"Limiti ristretti, arredi scarsi: in un istante capì tutto."
+
+La situazione attuale… mi aveva assolto dal “crimine della prosperità”.
+
+# Un effetto curioso che questa scoperta ebbe sulla sua mente strana… Moralmente parlando,
+
+“Certamente che se mi avesse trovato seduta in una bella sala…”
+
+Disteso su un morbido divano, con una bella e ricca moglie al mio fianco… lui
+
+# Un breve, freddo e arrogante incontro… che probabilmente mi avrebbe odiato ancora di più.
+
+“Hanno rappresentato il limite estremo della sua cortesia… e mai avrebbe fatto…”
+
+Vieni più vicino a me, finché la corrente della fortuna mi porterà lontano senza ostacoli…
+
+#Sulla superficie; ma i mobili dipinti, le pareti spoglie, l’atmosfera tetra…
+
+La [[Solitude|solitudine]] della mia stanza allentò la sua rigida [[Pride|orgoglio]]; non so cosa altro possa aver fatto.
+
+Prima ancora di parlare, sia nella sua voce che nel suo aspetto era avvenuto un cambiamento più dolce, meno deciso.
+
+Di nuovo.
+
+# Hai trovato un altro posto?
+
+“No.”
+
+“Ti stai mettendo di mezzo nel raggiungere il tuo obiettivo?”
+
+“No.”
+
+“È una brutta situazione… Hai già presentato domanda alla Brown University?”
+
+"No, indeed."
+
+“Faresti meglio; spesso ha la capacità di fornire informazioni utili.”
+
+“Su queste questioni…”
+
+“Mi ha servito una volta molto bene; non ho alcun diritto su di lui, e non sono nella, ”
+
+“Non voglio più usare il mio [[Humour|umorismo]] per infastidirlo.”
+
+“Ah, se sei timido e temi di essere invadente, basta che…”
+
+Commissionami. Lo incontrerò di [[Night|notte]]; posso dire una parola al riguardo.”
+
+“La prego, non lo faccia, signor Hunsden… Sono già in debito con lei; mi ha aiutato…”
+
+“Un servizio importante quando ero a X----… Mi ha aiutato ad uscire da una situazione difficile.”
+
+#Stava morendo: quel debito che non ho mai ripagato, e ora rifiuto di farlo
+
+“Aggiungendo positivamente un altro elemento al conto.”
+
+“Se il [[Wind|vento]] soffia in quella direzione, sono soddisfatto. Pensavo che la mia, eccezionale, ”
+
+La generosità nel farvi uscire da quella maledetta casa dei conti sarebbe.
+
+“Un giorno sarà certamente apprezzato: ‘Metti il tuo pane sulle acque, e…’”
+
+“Si troverà dopo molti giorni”, dicono le Scritture. Sì, è proprio così.
+
+“Lad… prendetemi sul serio: sono davvero unico… Non c’è nessuno come me al mondo…”
+
+“Gregge comune… Nel frattempo, mettendo da parte tutte le sciocchezze e parlando con ragionevolezza…”
+
+In pochi momenti, la situazione migliorerà notevolmente… e poi?
+
+Inoltre, sei un [[Fool|idiota]] se rifiuti di accettarne uno da qualsiasi mano te lo offra.
+
+“Lo offre.”
+
+“Molto bene, signor Hunsden; ora che avete chiarito quel punto, parliamo di, ”
+
+“Qualche novità da X----?…”
+
+#"Non ho ancora risolto quella questione; o meglio, c’è un’altra questione da risolvere."
+
+“Prima di arrivare a X…… È questa la signorina Zenobie?” (interviene Zoraide)
+
+I)—“Beh, Zoraide, è davvero sposata con Pelet?”
+
+“Vi dico di sì. E se non mi credete, andate a chiederlo voi stessi al guaritore di San, ”
+
+“Jacques.”
+
+“E il tuo cuore è spezzato?”
+
+“Non ne sono consapevole… sembra tutto a posto: batte come al solito.”
+
+“Allora i tuoi sentimenti non sono così raffinati come pensavo; devi…”
+
+Essere una persona grossolana e insensibile, da sopportare un colpo del genere senza nemmeno barcollare…
+
+“Sotto di esso.”
+
+“Barcollare a causa di quello? Ma cosa diavolo c’è che può far barcollare una persona a causa di…”
+
+Qual è la situazione particolare di un'insegnante belga che sposa un insegnante francese?
+
+I discendenti saranno senza dubbio una strana razza ibrida… Ma è proprio così che dev’essere.
+
+“Attenzione… non è mio.”
+
+“Si abbandona a battute volgari… e la sposa era proprio la sua fidanzata!”
+
+“Chi l’ha detto?”
+
+“Marrone.”
+
+“Senti una cosa, Hunsden: Brown è un vecchio pettegolo.”
+
+“Lo è; ma intanto, se le sue chiacchiere si basano su informazioni poco affidabili…”
+
+#Fatto… se non provavi alcun interesse particolare per Miss Zoraide… perché, oh…
+
+“Giovane pedagogo… hai lasciato il tuo posto a causa sua?”
+
+“Diventare la signora Pelet…”
+
+“Perché–” Sentii il viso diventare un po’ caldo; “perché, in breve, signor, ”
+
+“Hunsden, rifiuto di rispondere ad altre domande”, e mi misi le mani in tasca.
+
+Nella profondità della mia tasca posteriore.
+
+Hunsden trionfò: i suoi occhi, il suo riso annunciavano la vittoria.
+
+“Ma di cosa diavolo state ridendo, signor Hunsden?”
+
+“Per la tua esemplare compostezza. Bene, ragazzo, non ti annoierò oltre; capisco come, ”
+
+#Zoraide ti ha abbandonato… si è sposata con qualcuno più ricco, come farebbe chiunque abbia un po’ di buonsenso.
+
+“Qualsiasi donna avrebbe fatto lo stesso se ne avesse avuto l’opportunità.”
+
+Non risposi nulla; lasciai che pensasse così, senza alcuna voglia di entrare nel discorso.
+
+# Una spiegazione dello stato reale delle cose, e il meno possibile di inventare…
+
+Un conto falso. Ma non era facile ingannare Hunsden; persino il mio silenzio stesso.
+
+Invece di convincerlo che aveva raggiunto la [[Truth|verità]], sembrava piuttosto rafforzare questa convinzione in lui.
+
+“Era scettico al riguardo; continuò dicendo…”
+
+Titolo:  
+“Immagino che l’intera faccenda sia stata gestita nel solito modo in cui vengono affrontate queste situazioni…”
+
+“Tra le persone razionali… Le hai offerto la tua giovinezza e tutto ciò che avevi…”
+
+Talenti… così come sono… in cambio della sua posizione e del suo denaro: Io
+
+Non credo che tu abbia tenuto conto dell’aspetto esteriore, o di ciò che viene chiamato [[Love|AMORE]], quando hai preso questa decisione.
+
+“Devo spiegarmi… Capisco che lei sia più anziana di te, e Brown dice anche…”
+
+# Più attraente nell’aspetto che bella… Lei, allora, non aveva alcuna possibilità di…
+
+Un affare migliore… All’inizio ero propenso ad accordarmi con te, ma…
+
+# Pelet: il capo di una scuola fiorente – intervenne con un’offerta più alta.
+
+“L’ha accettata, e ora l’ha ottenuta: una transazione corretta… perfetta.”
+
+“Bene… ora parliamo di qualcos’altro, in modo più concreto e legittimo.”
+
+“Va bene,” dissi, molto contento di poter abbandonare quell’argomento, e soprattutto felice di…
+
+Ho confuso la saggezza del mio interrogatore con domande incalzanti, se mai ne avessi avute davvero.
+
+Lo lasciò perplesso; perché sebbene le sue parole ora allontanassero l’argomento dal punto pericoloso…
+
+I suoi occhi, acuti e attenti, sembravano ancora fissi su ciò che era accaduto prima.
+
+Ideata.
+
+#Volete sapere le novità su X----? E quale interesse potreste avere per…
+
+# Mai lasciare amici dove non si sono fatti
+
 
 
 <span class="atom-split" data-atom="chapter_23--part_03" data-title="The Professor — Chapter 22 (part 3)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/love,motif/rose,motif/silence,motif/well,motif/window,concept/beauty,concept/history,concept/hope,concept/self,concept/truth,form/history"></span>
@@ -31051,6 +40336,194 @@ I’ll go.” And, without another word, he was going; at the door he
 
 turned:--
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo di te… né uomo né donna; e se menziono il tuo nome in pubblico,
+
+“Il modo in cui quegli uomini mi guardano sembra indicare che abbia parlato di Prester John… mentre le donne sorridono con disprezzo.”
+
+#In segreto… Le nostre belle devono avervi odiato… Come avete fatto ad attirare la loro attenzione?
+
+“La loro disapprovazione…”
+
+“Non lo so… Raramente parlavo con loro; per me non significavano nulla.”
+
+Li considerava soltanto qualcosa da osservare da lontano.
+
+Le loro vesti e i loro volti erano spesso abbastanza piacevoli agli occhi… ma
+
+# Non riuscivo a capire la loro conversazione, né tantomeno a leggere ciò che scrivevano
+
+# Espressioni facciali. Quando riuscivo a captare frammenti di ciò che dicevano, non riuscivo mai…
+
+“Non dare troppo peso a queste cose… E nemmeno i loro gesti con le labbra e gli occhi mi aiutarono in alcun modo.”
+
+“Tutto.”
+
+“È stata colpa tua, non loro. Ci sono persone sensate, come [[Well|benissimo]], ”
+
+Donne attraenti a X----; donne con cui vale la pena parlare per qualsiasi uomo.
+
+#E con chi posso parlare volentieri… ma tu non hai mai avuto, e non hai nemmeno ora, nessuno con cui parlare con piacere.
+
+Titolo:  
+Non hai nulla in te che possa indurre una donna ad essere gentile o affabile… Ho.
+
+# Ti ho notato seduto vicino alla porta, in una stanza piena di gente… assorto nei tuoi pensieri.
+
+Ascoltare, non parlare; osservare, non intrattenere; guardare.
+
+“Freddamente timido all’inizio di una festa, in modo confuso e vigile…”
+
+Il mezzo… e, verso la fine, in modo insopportabilmente noioso. È davvero così che deve andare?
+
+# Mai hai pensato di trasmettere piacere o suscitare interesse? No… e se…
+
+“Sei generalmente impopolare… perché te lo meriti.”
+
+“Soddisfatto!” esclamai.
+
+“No, non sei soddisfatto; vedi sempre la [[Beauty|bellezza]] voltarti le spalle, ”
+
+“Tu… ti senti umiliato e poi sorridi con disprezzo. Credo davvero che tutto ciò sia vero.”
+
+Tutto ciò che è desiderabile sulla terra – ricchezza, reputazione, [[Love|amore]] – sarà per sempre tuo.
+
+“I frutti maturi sull’alta pianta: li guarderai in alto… e loro ti raggiungeranno.”
+
+“Tentano il desiderio dei tuoi occhi… ma sono irraggiungibili.”
+
+Non ho l’indirizzo per andare a prendere una scala… e tu te ne andrai chiamandoli.
+
+“Amaro.”
+
+# Taglienti come queste parole potrebbero essere in alcune circostanze…
+
+Ora non versavo più alcuna [[Blood|sangue]]; la mia vita era cambiata, le mie esperienze erano diventate molto diverse.
+
+Da quando ho lasciato X----, ma Hunsden non poteva saperlo; l’aveva visto solo una volta…
+
+In qualità di impiegato del signor Crimsworth: un dipendente tra le persone ricche.
+
+Stranieri che incontrano disprezzo con un atteggiamento ostile, consapevoli della propria natura antisociale…
+
+# Un aspetto poco attraente e la riluttanza a richiedere un preavviso… Cosa ne pensi?
+
+Il titolo verrebbe taciuto; rifiuto di esprimere un’ammirazione che so sarebbe stata inappropriata.
+
+#Risputo come inutile. Non poteva certo sapere che da allora… la gioventù e…
+
+“La bellezza era presente in ogni oggetto quotidiano per me; li avevo osservati attentamente…”
+
+Distacco e attenzione: aveva osservato da vicino la semplice natura della [[Truth|verità]].
+
+#L'ornamento dell'apparenza; né lui, per quanto acuto di vista…
+
+# Entrò nel mio cuore, esaminò il mio cervello e lesse i miei pensieri più intimi…
+
+Simpatie e antipatie. Non mi conosceva abbastanza a lungo, o non mi conosceva davvero bene.
+
+"Basta per capire quanto possano diminuire i miei sentimenti sotto certe influenze..."
+
+#Un potere che domina la maggior parte delle menti; quanto in alto, quanto velocemente scorrono i pensieri sotto il suo influsso…
+
+Altre influenze, che forse hanno agito su di me con una forza più intensa…
+
+Perché hanno agito su di me [[Alone|da solo]]. Nemmeno per un istante avrebbe potuto sospettarlo.
+
+La [[history|storia]] delle mie comunicazioni con la signorina Reuter, un segreto per lui.
+
+E per tutti gli altri c’era la storia della sua strana infatuazione…
+
+Lusinghe e arti seducenti: solo io avevo visto le sue astuzie, e solo a me erano rivolte.
+
+#Conoscevano… ma mi avevano cambiato, perché avevano dimostrato che IO POTEVO
+
+#Immagina… Un segreto ancora più dolce, nascosto nel profondo del mio cuore; un segreto pieno di…
+
+Titolo:  
+Tenerezza e forza allo stesso tempo: ciò che eliminò l’amarezza nelle parole di Hunsden…
+
+Sarcastia… Mi ha tenuto libero dal vergogna e indifferente alla rabbia. Ma tra tutte le cose…
+
+# Incertezza assoluta
+
+Le mie labbra, e nel silenzio che regnava in quel momento, durante il quale rispondevo da sola.
+
+# Mr. Hunsden, ho deciso che per il momento mi sono completamente sbagliata su di lui
+
+“Da lui… e mi sono sbagliato; pensava di essere stato troppo duro.”
+
+#Sopra di me… e sentii di essere schiacciato dal peso delle sue rimproveri; proprio così…
+
+“Rassicurami ancora”, disse, “senza dubbio un giorno migliorerò; sono solo all’inizio del percorso”.
+
+# Il principio della vita… e fortunatamente non ero del tutto privo di…
+
+In quel senso, ogni passo falso che facevo rappresentava in realtà una buona lezione.
+
+Proprio in quel momento girai leggermente il viso verso la luce; l’avvicinarsi di…
+
+Il crepuscolo, e la mia posizione nel sedile vicino alla finestra, per gli ultimi dieci minuti.
+
+“Minuti… che gli impedirono di osservare il mio volto; mentre mi muovevo…”
+
+“Tuttavia, notò un’espressione sul volto dell’altro e la interpretò in questo modo…”
+
+“Maledizione! Quanto quel ragazzo sia ostinatamente compiaciuto di sé. Pensavo che, ”
+
+# Era degno di morire di vergogna… E invece sorride, come se nulla fosse.
+
+Titolo:  
+“Che il mondo vada pure come vuole, io ho la pietra filosofale”
+
+Nella tasca del mio gilet… e l’elisir della vita nel mio armadio… Sono pronto.
+
+“Indipendente sia dal Destino che dalla Fortuna.”
+
+“Hunsden… hai parlato di uva; io pensavo invece a un frutto che mi piace molto di più.”
+
+Più delle vostre deliziose uve selvatiche, un frutto unico, che cresce in natura, che io.
+
+L’ho segnato come mio, e [[Hope|>spero]] che un giorno possa raccoglierlo e assaporarlo. Non ha alcun valore particolare.
+
+Titolo:  
+“Usa la tua offerta… oppure minacciami con essa.”
+
+La [[Death|morte]] per sete. Avverto già sulla mia lingua il sapore della dolcezza.
+
+La [[Hope|>speranza]] di avere le labbra fresche. Posso rifiutare ciò che è sgradevole e sopportare il resto.
+
+“Estenuante.”
+
+“Per quanto tempo?”
+
+“Fino alla prossima opportunità di impegnarsi; e poiché il premio del [[success|successo]] sarà, ”
+
+“Sei proprio ciò che desidero… porterò tutta la mia forza per te.”
+
+“Lotta”.
+
+#Sfortuna che schiaccia i tori con la stessa facilità delle biglie di legno… E credo che anche la furia…
+
+[[dogs|>Cani]], voi: siete nati con un cucchiaio di legno in bocca, dipendete dagli altri.
+
+it.”
+
+“Ti credo; e intendo far sì che la mia ‘cucchiaiata di legno’ faccia il lavoro di qualcos’altro…”
+
+#"Le cucchiai d’argento del popolo: tenuti saldamente e maneggiati con destrezza, anche in..."
+
+“Una cucchiaiata di legno raccoglierà comunque il brodo.”
+
+Hunsden [[Rose|rosa]]: “Capisco,” disse; “immagino che tu sia uno di quelli, ”
+
+#"Sviluppa il meglio senza guardare gli altri, agisci al meglio senza aiuti… segui la tua strada."
+
+“Vado io.” E, senza dire altro, se ne andò; alla porta…
+
+# Girato
 
 
 
@@ -31243,6 +40716,194 @@ with sugar; by witnessing how the [[Fool|fool]]’s ecstasy makes a greater [[Fo
 
 him than ever; by watching the dog’s [[Nature|nature]] come out over his bone.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“La casa di Crimsworth Hall è stata venduta,” disse lui.
+
+“Venduto!” fu il mio eco.
+
+“Sì; sai bene che tuo fratello ha fallito tre mesi fa, vero?”
+
+“Che cosa! [[Edward Crimsworth]]?”
+
+Esattamente; e sua moglie tornò a [[Home|>casa]] da suo padre; quando le cose presero una certa piega.
+
+“Malinconico e irritabile, il suo umore lo portava ad trattarla con crudeltà… Te l’avevo detto.”
+
+Un giorno potrebbe diventare un [[Tyrant|tiranno]] per lei; quanto a lui.
+
+“Ah, e lui… che fine ha fatto?”
+
+“Niente di straordinario… Non allarmatevi: si è messo sotto…”
+
+La protezione della [[Court|>corte]], unita alle pressioni dei suoi creditori, dieci penny in.
+
+#Il peso… In sei settimane si rimette in sesto, riesce a riavere indietro sua moglie… e poi?
+
+“Fiorisce come un albero di ginepro verde.”
+
+“E la mobilia di Crimsworth Hall… è stata venduta anche quella?”
+
+“Tutto, dal grande pianoforte fino alla [[rolling|ferroda rotolante]].”
+
+“E il contenuto della sala da pranzo in quercia… è stato venduto?”
+
+"Certo; perché mai i divani e le sedie di quella stanza dovrebbero essere trattati in modo diverso?"
+
+“Più sacri di quelli di qualsiasi altro?”
+
+“E le foto?”
+
+“Quali quadri? Per quanto ne so, Crimsworth non possedeva alcuna collezione particolare…”
+
+“Non si dichiarava affatto un dilettante.”
+
+"C'erano due ritratti, uno su ciascun lato del caminetto; non si può..."
+
+“Li ha dimenticati, signor Hunsden… Una volta aveva notato quello della signora…”
+
+“Ah, capisco! Quella donna dal viso magro e gentile, con quel scialle indossato in modo così…“
+
+Drappeggi… Beh, ovviamente verrebbero venduti insieme agli altri.
+
+“Cose… Se fossi stato ricco, forse l’avrei comprato, perché me ne ricordo.”
+
+#Senza di lei
+
+“Sou.”
+
+“L’ho fatto.” “Ma sicuramente…”, pensai tra me, “non sarà sempre così”.
+
+Soffrivo di [[Poverty|povertà]]; forse un giorno riuscirò a comprarlo indietro. Ma chi l'ha comprato?
+
+“Lo sai?” chiesi.
+
+“Come è possibile? Non ho mai chiesto chi avesse acquistato qualcosa… Loro hanno parlato…”
+
+L’uomo impratico: immaginare che tutto il mondo sia interessato a ciò…
+
+Si interessa lui stesso delle cose. Ora, buona [[Night|notte]] – domani parto per la [[Germany|Germania]].
+
+“Domani mattina tornerò qui tra sei settimane… e forse potrò chiamarti.”
+
+E ci rivedremo presto. Mi chiedo se sarai ancora “fuori posto” allora!
+
+Rise in modo beffardo e spietato, proprio come Mefistofele… E così.
+
+Ridendo, scomparve.
+
+#Alcune persone, per quanto possano diventare indifferenti dopo un certo periodo…
+
+# Spazio di assenza… sempre cercare di lasciare un’impressione piacevole
+
+# Alla separazione… Non così per Hunsden: un incontro con lui ebbe su di lui un certo effetto.
+
+#"Un decotto di corteccia peruviana: sembrava una concentrazione delle sue proprietà particolari..."
+
+# Amaro, severo, pungente… Chissà se, come la corteccia di un albero, possa anche rinvigoreare…
+
+Sapeva.
+
+Una mente agitata rende insonne il sonno; quella [[Night|notte]] ho dormito poco.
+
+Dopo questo colloquio, verso la mattina iniziai ad assopirmi… ma appena…
+
+Il sonno diventa [[Sleep|dormire]], quando fui svegliato dal rumore che proveniva.
+
+#La mia sala da pranzo, comunicante con la mia camera da letto… un passo e uno spostamento…
+
+Arredamenti; il movimento è durato appena due minuti; con la chiusura…
+
+“Di fronte alla porta, tutto tacque. Ascoltai… nessun rumore; forse…”
+
+# Avevo sognato di farlo… Forse un inquilino aveva commesso un errore ed era entrato nella mia casa.
+
+Un appartamento, invece del suo. Erano appena le cinque di [[Clock|ore]]; né io né.
+
+“Quel giorno ero completamente sveglio; mi girai… e presto persi i sensi.”
+
+“Risvegliandomi, circa due ore dopo, avevo dimenticato tutta quella situazione… il primo…”
+
+“La cosa che vidi, tuttavia, uscendo dalla mia stanza, me la ricordò… proprio in quel momento.”
+
+# In piedi sulla soglia del mio salotto…
+
+# Caso da imballaggio in legno – un oggetto grossolano, largo ma poco profondo; uno scaricatore
+
+Senza dubbio l’aveva spinto avanti, ma non vedendo nessuno nella stanza…
+
+L’ha lasciato all’ingresso.
+
+“Non è affatto mio“, pensai avvicinandomi; “deve essere destinato a qualcun altro“.
+
+“Qualcun altro…” Mi chinai per esaminare l’indirizzo:–
+
+“Wm. Crimsworth, Esq., via …, Bruxelles.”
+
+Ero perplesso, ma conclusi che il modo migliore per ottenere informazioni fosse…
+
+# Verde velluto
+
+Avvolto attentamente intorno al suo contenuto, cucito con cura sui bordi… L’ho strappato via.
+
+“Con il mio coltello da tasca… eppure, nonostante la cucitura si stesse rompendo, continuavo a intravedere…”
+
+# Tra le fessure che si allargavano, cominciava a mostrarsi il luccichio dell’oro… Assi e piastrelle dorate.
+
+Dopo averlo finalmente rimosso, presi dalla scatola un grande dipinto…
+
+# Magnifico quadro; appoggiato contro una sedia, in una posizione che…
+
+La luce che proveniva dalla [[Window|finestra]] illuminava quel oggetto in modo piacevole; feci un passo indietro, già allora.
+
+# Avevo indossato i miei occhiali… Un cielo da pittore di ritratti: il più cupo e tenebroso possibile.
+
+Titolo: La minaccia di Welkins… e alberi lontani, di una profondità convenzionale…
+
+# Un volto femminile pallido e pensieroso, emergente in rilievo…
+
+Con capelli morbidi e scuri, che quasi si confondono con le nuvole altrettanto scure…
+
+“Grandi occhi solenni mi fissavano riflessivamente; una guancia sottile riposava…”
+
+# Su una delicata manina… un scialle drappeggiato con arte, in parte nascosto, in parte visibile…
+
+# Apparve una figura snella… Un ascoltatore (se ne fosse stato uno) avrebbe potuto sentirla.
+
+“Me, dopo dieci minuti di silenzioso fissare, esclamo la parola ‘Madre!’”
+
+Hanno detto di più… ma per quanto mi riguarda, la prima parola pronunciata ad alta voce nel soliloquio è stata proprio quella.
+
+#Scatena la coscienza; mi ricorda che solo le persone pazzesche parlano da sole
+
+Prima penso a loro, e poi mi invento il mio monologo, invece di recitarlo ad alta voce.
+
+#A lungo ho riflettuto…
+
+# Intelligenza, la dolcezza… e, ahimè, anche la tristezza di quelle persone meravigliose
+
+Occhi grigi, la forza mentale di quella fronte, e quella rara sensibilità
+
+“Di quella bocca seria… quando il mio sguardo, scendendo verso il basso, si posò su…”
+
+# Angusto spazio nascosto, intrappolato nell’angolo dell’immagine, tra il telaio e…
+
+“La tela… Allora ho chiesto per primo: ‘Chi ha inviato questo dipinto? Chi ne ha avuto l’idea?’”
+
+#Me, salvato dalle rovine di Crimsworth Hall… e ora lo dedico a…
+
+“La cura del suo custode naturale…?” Presi il biglietto dal suo nascondiglio; così fece anche lui.
+
+# Parlò:--
+
+C’è una sorta di piacere stupido nel dare dolci a un [[Child|>bambino]], o qualcosa del genere a uno [[Fool|stupido]].
+
+[[Bells|campane]], un osso per un cane. La tua ricompensa è vedere quel [[Child|>bambino]] sporcarsi il viso.
+
+Con lo zucchero, osservando come l’euforia di quel [[Fool|idiota]] lo trasformi in un altro [[Fool|idiota]] ancora peggiore.
+
+Più che mai; osservando la natura istintiva del cane emergere mentre mangiava il suo osso.
 
 
 
@@ -31863,6 +41524,212 @@ bent to meditation and haply inspiration--what had she to do with [[Love|love]]?
 “Nothing,” was the answer of her own sad, though gentle countenance; it
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XXIII
+
+Erano le due di [[Clock|ore]] quando tornai al mio alloggio; la mia cena era appena pronta.
+
+Portato da un hotel vicino, fumato sul tavolo… Mi sono seduto.
+
+# Pensando a cosa mangiare… se il piatto fosse stato pieno di schegge e frammenti rotti
+
+“Vetro… Invece di manzo bollito e fagioli, non avrei potuto usare nulla di meglio.”
+
+#Mancata reazione: l’appetito mi aveva abbandonato… Impaziente di vedere del cibo.
+
+# Che non riuscii a gustare, lo misi tutto da parte in un armadio e poi…
+
+“Che devo fare fino a sera?”, chiese, perché prima delle sei del pomeriggio…
+
+“È inutile cercare la Rue Notre Dame aux Neiges; il suo abitante… per me.”
+
+# Era impegnata altrove per via della sua vocazione… Camminai da solo.
+
+Le strade di Bruxelles. E camminai nella mia stanza dalle due di notte.
+
+Fino alle sei; nemmeno per un istante, in tutto quel lasso di [[Time|tempo]], mi sono seduto. Ero nel mio.
+
+#Quando suonò l’ora fatale… Avevo appena lavato il viso…
+
+Mani febbrili… e stavo in piedi vicino al vetro; la mia guancia era rossa come il fuoco.
+
+# Il mio sguardo ardeva di fiamma… ma i miei tratti rimanevano composti e tranquilli
+
+# Calma. Scendendo rapidamente le scale e uscendo, fui felice di vedere…
+
+“Un crepuscolo che si dipinge tra le nuvole… Quell’ombra, per me, era come un segno di gratitudine.”
+
+Lo schermo, e il freddo di quella tardiva [[Autumn|autunno]]; respirando nel ritmo incerto di un [[Wind|vento]].
+
+Il nord-ovest mi accolse con una freschezza rinfrescante… Tuttavia, capii che faceva freddo.
+
+Per gli altri… Le donne che incrociavo erano avvolte in scialli, e gli uomini…
+
+Avevano i cappotti abbottonati fino in cima.
+
+# Quando siamo davvero felici? Lo ero io allora? No… solo un terrore crescente e urgente.
+
+Mi ha fatto perdere la pazienza… e continua a farlo da quando tutto è iniziato.
+
+Avevo ricevuto alcune notizie… Come stava Frances? Erano passate dieci settimane da quando l’avevo vista l’ultima volta.
+
+L’avevo vista… sei mesi dopo aver ricevuto sue notizie, o qualcosa che la riguardasse. Avevo risposto…
+
+Con una breve nota, cordiale ma tranquilla, senza alcuna menzione…
+
+Continuò la corrispondenza o si effettuarono ulteriori visite. In quell’ora…
+
+La corteccia era appesa alla cresta più alta di un’onda del destino… e non sapevo su cosa.
+
+“Nonostante le onde possano scagliarlo lontano, io non mi arrenderò.”
+
+Connettere il suo destino al mio, anche solo con un filo sottile… se destinati comunque a separarci.
+
+# Sulla roccia, o incagliato sulla spiaggia di sabbia… ero deciso a non fare altro.
+
+Quel vascello avrebbe dovuto condividere la mia sfortuna. Ma sei settimane erano un periodo troppo lungo.
+
+È possibile che lei fosse ancora in buona salute e che le andasse bene? Non erano forse tutti gli saggi.
+
+#Hanno concordato nel dichiarare che la felicità non trova il suo apice sulla terra? Osano…
+
+“Credo che ormai solo metà della strada mi separi dalla ‘tazza piena’…”
+
+La soddisfazione, quell’emozione che si trae da qualcosa che, si dice, esiste soltanto in cielo?
+
+Ero alla porta; entrai nella tranquilla [[house|>casa]]; salii le scale; il.
+
+#Un ambiente deserto e silenzioso, tutte le porte chiuse… Cercavo qualcosa di ordinato…
+
+Tappeto verde; era posizionato esattamente nel posto giusto.
+
+“Un segnale di [[Hope|>speranza]]!”, dissi, e proseguii. “Ma ora sarò un po’ più calmo, ”
+
+“Non intendo affrettarmi e scatenare una scenata subito”, disse con decisione.
+
+Mantenendo il mio passo deciso, mi fermai sul tappetino.
+
+“Che silenzio assoluto… È dentro? C’è qualcuno lì dentro?” chiesi.
+
+“Me stesso… Un leggero tintinnio, simile al suono di cenere che cade da una grata, rispose.”
+
+Un movimento, una [[Fire|fiamma]] venne delicatamente ravvivata; e quel leggero fruscio della vita.
+
+Continuando… un passo regolare, avanti e indietro, avanti e indietro…
+
+Avanti… nell’appartamento. Affascinato, rimasi fermo lì, completamente incantato.
+
+#Quando una voce accolse l’attenzione del mio orecchio teso… così bassa, così…
+
+Indirizzato a se stesso, non ho mai immaginato che l’oratore potesse essere altro che [[Alone|sicuro di sé]].
+
+La [[Solitude|solitudine]] potrebbe parlare così in un [[Desert|-deserto]], o nella sala di un luogo abbandonato.
+
+[[house|casa]].
+
+“E solo una volta, figliolo mio,” disse.
+
+“Quella oscura caverna attraversata…”
+
+# Nei giorni d’ferro della persecuzione
+
+Quando la terra fu abbandonata da Dio.
+
+# Dalla palude di Bewley, con il sangue versato
+
+Un viandante giunse qui.
+
+# Spesso si fermava e girava la testa
+
+Con violenza, i venti notturni soffiavano.
+
+# Per calpestare i campi intorno al bordo di Cheviot
+
+Si udirono i soldati esultare con entusiasmo.
+
+Titolo:  
+E frequente dalla cresta di Whitelaw
+
+Il lampo della pallottola mortale balenò tra di loro, ecc., ecc.
+
+La vecchia ballata scozzese fu recitata in parte, poi interrotta; seguì un momento di silenzio.
+
+Poi ne seguì un’altra strofa, in francese, il cui significato…
+
+# Mai scrivere una frase su questo argomento.
+
+#Ho prestato attenzione con grande interesse all’inizio…
+
+# Un interesse crescente seguì…
+
+Per interesse, come miglioramento, la [[Rose|rosa]].
+
+Seguì la gratitudine.
+
+Obedienza non richiedeva sforzo alcuno.
+
+E il lavoro non rappresentava alcun [[Pain|dolore]];
+
+Se sei stanco, basta una parola, uno sguardo, da solo.
+
+Mi darebbe di nuovo forza.
+
+Titolo:  
+Dai membri più studiosi del gruppo…
+
+#Mi selezionò presto…
+
+Ma solo su esigenza più pressante…
+
+E anche un'imperiosa urgenza.
+
+La missione che gli fu affidata da un altro
+
+#Rifiutato da me
+
+# Non tollererebbe alcuna omissione negligente
+
+E non presentare alcun difetto.
+
+# Se i miei compagni si perdessero…
+
+# Non biasimava quasi mai i loro vagabondaggi;
+
+# Se solo vacillassi lungo il cammino…
+
+La sua rabbia scoppiò con violenza.
+
+Qualcosa si mosse nella stanza adiacente… Non era il momento giusto per…
+
+Ascoltando di nascosto, sorpreso, bussai in fretta ed entrai altrettanto rapidamente.
+
+Frances era proprio davanti a me; camminava lentamente nella sua stanza.
+
+E il suo passo venne fermato dal mio arrivo: con lei c’era solo il crepuscolo…
+
+“Tranquilla, rossa luce del fuoco: per queste due sorelle, la Luce e l’Oscurità…”
+
+# Aveva già iniziato a parlare di poesia prima che io entrassi… di quelle opere di Sir Walter Scott.
+
+Voce… per lei un suono estraneo, lontano, come l’eco di una montagna… qualcuno aveva pronunciato quelle parole.
+
+“Nelle prime strofe si riflette l’autore stesso; la seconda, pensai, emerge dallo stile utilizzato…”
+
+Quella sostanza rappresentava la lingua del suo stesso cuore. Il suo viso era [[Grave|serio]].
+
+“La sua espressione era concentrata; mi fissò con uno sguardo serio, senza sorridere…”
+
+Appena tornato dalla realtà astratta, appena sveglio dai [[Dreams|>sogni]], tutto è così ben organizzato.
+
+L’abbigliamento semplice, i capelli neri lisciati, la stanza ordinata e tranquilla…
+
+Ma cosa, con quel suo sguardo pensieroso, quella sua seria [[Self-Reliance|autonomia]], lei.
+
+Dedita alla meditazione e, forse, all’ispirazione, cosa aveva a che fare tutto ciò con l’[[Love|amore]]?
+
+“Niente”, fu la risposta sul suo volto triste, ma gentile…
+
 
 
 <span class="atom-split" data-atom="chapter_24--part_02" data-title="The Professor — Chapter 23 (part 2)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/bees,motif/birds,motif/crown,motif/fire,motif/flowers,motif/garden,motif/grave,motif/leaves,motif/love,motif/nature,motif/pain,motif/rose,motif/window,concept/ambition,concept/doubt,concept/endurance,concept/hope,concept/nature,concept/resignation,concept/self,form/translation"></span>
@@ -32111,6 +41978,251 @@ A thrill as wild as sweet.
 The strong pulse of [[Ambition]] struck
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Sembrava dire: ‘Devo coltivare la forza d’animo e attaccarmi alla poesia; una cosa è essenziale’.”
+
+“Un sostegno per me, e un conforto nella vita… Gli affetti umani”
+
+“Non fioriscono per me, né le passioni umane brillano al mio cospetto… Altre donne hanno qualcosa del genere…”
+
+#Pensieri… Frances: se fosse davvero stata così desolata come credeva, forse non avrebbe…
+
+“Sono stata in condizioni peggiori di migliaia di donne della mia stessa categoria… Guardate quanto sia rigido e insensibile questo sistema.”
+
+#La gara formale delle vecchie zitelle… quelle che tutti disprezzano; loro, soltanto loro, hanno partecipato davvero.
+
+Da giovani in poi, si sono guidati sempre secondo i principi della [[Resignation|rassegnazione]] e della [[Endurance|pazienza]].
+
+Molti di loro subiscono l’ossificazione a causa di questa dieta secca; il controllo di sé diventa davvero estremo.
+
+#Costantemente nel loro pensiero, così costantemente nel loro obiettivo, fino a quando alla fine…
+
+Assorbe le qualità più dolci e piacevoli della loro [[Nature|natura]]; e.
+
+# Muoiono come semplici esempi di austerità, plasmati su un pezzo di pergamena
+
+# E molto osso… Gli anatomisti vi diranno che nel cuore c’è anche del tessuto osseo.
+
+Il cadavere di una vecchia zitella appassita… lo stesso che quello di qualsiasi moglie amata.
+
+O madre orgogliosa di questa terra… Può davvero essere così? Non lo so proprio…
+
+Sono incline a [[Doubt|dubitarne]].
+
+“Mi avvicinai, salutai Frances con un ‘buonasera’ e mi sedetti. La sedia…”
+
+Il titolo che avevo scelto era probabilmente quello che lei aveva appena lasciato lì; stava accanto a…
+
+# La scrivania e i documenti aperti
+
+All’inizio non mi riconobbe affatto, ma ora sì; e lo fece con una voce dolce…
+
+“Ma in silenzio, lei ricambiò il mio saluto. Non avevo mostrato alcuna fretta; lei lo prese come un segno di calma.”
+
+“La sua reazione non mostrò alcuna sorpresa; ci siamo incontrati come sempre.”
+
+# Maestro e discepolo… nient’altro. Proseguii nel trattare i documenti.
+
+# Frances, attenta e diligente, entrò in una stanza interna e portò…
+
+# Una candela… accesa e posizionata accanto a me; poi tirò le tende sopra di essa.
+
+Titolo:  
+“Griglia… e aver aggiunto ancora un po’ di carburante a quella fiamma già intensa”
+
+Accanto al fuoco, tirò vicino un'altra sedia al tavolo e si sedette alla mia destra.
+
+Una mano, leggermente distante. Il foglio in cima era una [[Translation|traduzione]] di.
+
+Tradusse alcuni seri autori francesi in inglese, ma sotto c'era un foglio con.
+
+Stanzette, su queste ho messo le mani. Frances, con un mezzo sorriso, fece un gesto.
+
+Recuperare il bottino catturato, dicendo che non valeva nulla… era solo una copia.
+
+Versi… Ho resistito, ma ho preso la decisione che sapevo lei non avrebbe mai accettato.
+
+Contrariata… ma in quell’occasione le sue dita si erano già aggrappate al foglio di carta.
+
+#Doveva scioglierli dolcemente; la loro presa si allentò al mio tocco… La sua mano…
+
+#Scomparso nel nulla; il mio avrebbe voluto seguirlo anch’esso, ma per ora…
+
+Impedì tale impulso. La prima pagina del foglio era occupata…
+
+Le frasi che avevo sentito casualmente… la continuazione non era esattamente quella voluta dall’autore.
+
+Non un'esperienza completa, ma una composizione fatta utilizzando parti di quell'esperienza stessa.
+
+# Così, sebbene si evitasse l’egoismo, si esercitava l’immaginazione e il cuore…
+
+Soddisfatto. Traduco come prima, e la mia [[Translation|traduzione]] è quasi letterale.
+
+Continuò così:–
+
+# Quando la malattia ostacolò il mio cammino
+
+Sembrava ancora impaziente.
+
+# Perché la forza del suo allievo stava diminuendo
+
+Non poteva obbedire alla sua volontà.
+
+Un giorno, quando fu chiamato al letto…
+
+Là dove io e il [[Pain|dolore]] lottavamo insieme.
+
+# L’ho sentito mentre chinava la testa
+
+#"Dì: "Dio, deve riprendersi!""
+
+# Ho sentito la sua mano, con una leggera pressione…
+
+# Un momento che mi appartiene
+
+# Desideravo segnare la mia consapevolezza
+
+Attraverso un qualche segno che rispondeva alle sue richieste.
+
+# Impossibilità di parlare o muoversi
+
+# Solo sentivo… dentro di me.
+
+Il senso della [[Hope|>Speranza]], la forza dell’[[Love|Amore]],
+
+Il loro lavoro di guarigione inizia.
+
+E mentre si allontanava dalla stanza…
+
+Il mio cuore seguiva i suoi passi;
+
+#Desideravo dimostrarlo con nuovi sforzi;
+
+La mia gratitudine senza parole.
+
+# Quando ancora una volta presi il mio posto…
+
+# A lungo vuoto… nella classe.
+
+Il raro sorriso sul suo volto
+
+Per un momento, tutto sembrò possibile.
+
+Le lezioni sono finite; il segnale è stato inviato.
+
+# Di gioiosa liberazione e gioco
+
+# Si fermò un attimo mentre passava.
+
+Una parola gentile da dire.
+
+“Jane, fino a domani sei libera.”
+
+Da noiose mansioni e regole…
+
+Questo pomeriggio non devo assolutamente vederlo.
+
+Quel viso ancora pallido a scuola.
+
+“Cerca un posto all’ombra degli alberi del [[Garden|giardino]],”
+
+Lontano dal clamore del cortile giochi…
+
+Il sole è caldo, l’aria è dolce…
+
+“Resta fino a quando non ti chiamo io.”
+
+Un lungo e piacevole pomeriggio
+
+#Attraversai quei verdi padiglioni…
+
+Tutto silenzioso, tranquillo e [[Alone|solitario]].
+
+Con gli [[Birds|uccelli]], le [[Bees|api]] e i [[Flowers|fiori]].
+
+“Eppure, quando udii la voce del mio padrone…”
+
+Chiamare, dalla [[Window|finestra]], “Jane!”
+
+“Entrai, felice, all’udire quelle parole.”
+
+Quella casa sempre così impegnata. Di nuovo.
+
+Lui, nel corridoio, camminava avanti e indietro.
+
+#Si fermò mentre io passavo accanto a lui;
+
+La fronte severa si distese, eliminando l’aria cupa.
+
+Alzò il suo occhio profondamente incassato nel viso.
+
+“Non così pallido,” mormorò a bassa voce.
+
+“Ora, Jane, vai a riposarti un po’.”
+
+E mentre sorridevo, la sua fronte liscia…
+
+Tornò con un sorriso felice.
+
+#Ripristinata la mia perfetta salute, lui prese…
+
+Il suo volto di nuovo severo…
+
+E, come prima, non avrebbe accettato alcuna obiezione.
+
+La minima imperfezione da parte di Jane.
+
+La missione più lunga, l’argomento più difficile
+
+#Toccò a me, come sempre…
+
+Eppure continuavo a lavorare sodo per far conoscere il mio nome.
+
+In ogni studio, prima di tutto.
+
+# Esitava ancora a elogiare, e lo faceva con riluttanza.
+
+Ma avevo imparato a leggere
+
+Il segreto significato del suo volto
+
+E quella fu la mia migliore offerta.
+
+Anche quando il suo carattere impulsivo prendeva il sopravvento…
+
+In toni che suscitavano dolore…
+
+#Il mio dolore si placò non appena mi svegliai
+
+Con qualche parola piena di compassione.
+
+E quando prestò un libro prezioso…
+
+O offrì un fiore profumato.
+
+Non tremai di fronte allo sguardo dell’invidia.
+
+Sostenuto dal potere del piacere.
+
+Finalmente i nostri punteggi scolastici hanno iniziato ad essere visibili.
+
+Il campo conquistato con fatica…
+
+Il premio, una corona di alloro, fu legata con cura.
+
+La mia fronte che pulsa, continua così.
+
+#In ginocchio davanti al mio padrone…
+
+La proposta di [[Crown|corona]] venne accettata.
+
+Le sue verdi [[Leaves|foglie]], che mi sfioravano le tempie, trasmettevano.
+
+Un brivido tanto selvaggio quanto dolce.
+
+Il forte impulso dell’[[Ambition|Ambizione]] si fece sentire.
+
 
 
 <span class="atom-split" data-atom="chapter_24--part_03" data-title="The Professor — Chapter 23 (part 3)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/desire,motif/fire,motif/frost,motif/home,motif/love,motif/rose,motif/ship,motif/silence,motif/time,concept/jealousy,concept/poverty,concept/self,concept/truth,setting/ship"></span>
@@ -32337,6 +42449,231 @@ are not clever. Master, I should be GLAD to live with you always;”
 and she made a sort of movement, as if she would have clung to me, but
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# In ogni fibra del mio essere…
+
+# Nello stesso istante, iniziò a sanguinare
+
+Una ferita segreta, nascosta dentro di sé.
+
+Titolo:  
+L’ora del trionfo fu per me
+
+L’ora del dolore acuto;
+
+Tra un giorno dovrò attraversare il mare.
+
+Non doveva mai più attraversarlo.
+
+#Tra un’ora, nella stanza del mio padrone
+
+Ero seduto con lui, [[Alone|da solo]],
+
+E gli raccontò quanto fosse cupa e desolata quell’atmosfera…
+
+La gioia stessa gettò ombra sulla separazione.
+
+Disse poco; il [[Time|tempo]] era breve.
+
+La [[Ship|nave]] stava per salpare.
+
+E mentre piangevo nella amara disperazione…
+
+Il mio maestro sembrava pallido.
+
+# Chiamarono con fretta; lui mi disse di andare.
+
+#Mi afferrò di nuovo.*
+
+Mi tenne stretto e mormorò a bassa voce.
+
+“Perché vorranno separarci, Jane?”
+
+“Non eri felice sotto la mia protezione?”
+
+Non ho forse dimostrato la mia fedeltà?
+
+Titolo:  
+Altri ameranno la mia cara come faccio io?
+
+Un amore così vero, così profondo.
+
+“Dio mio, proteggimi il mio bambino adottivo!”
+
+O guarda quella sua testa gentile!
+
+# Quando le menti sono elevate e le tempeste furiose
+
+Una protezione la circondava completamente!
+
+“Chiamano di nuovo… Lasciate allora il mio petto…”
+
+#Lascia il tuo vero rifugio, Jane;
+
+Ma quando si viene ingannati, respinti, oppressi…
+
+“Ritornare a casa per me significa, ”
+
+# Leggo… e poi, con aria sognante, segno delle annotazioni sul margine con la mia penna; riflettendo…
+
+Mentre facevo tutte queste altre cose, pensavo che “Jane” fosse ora al mio fianco.
+
+Non un [[Child|bambino]], ma una ragazza di diciannove anni. E potrebbe essere mia. Quindi il mio cuore.
+
+Fu affermato; la maledizione della [[Poverty|povertà]] fu tolta da me; Invidia e [[Jealousy|Gelosia]] scomparvero.
+
+Lontano da lì, ignaro di questo nostro incontro silenzioso, il [[Frost|gelo]] della.
+
+Il modo autoritario del maestro sembrava voler sciogliersi… Sentivo che il ghiaccio stesse rapidamente fondendo, indipendentemente da ciò che avrei fatto.
+
+# O sì o no… Non c’è più bisogno che l’occhio si sforzi di guardare con attenzione, perché…
+
+La fronte si corrugava per ridurre la sua ampiezza in un solco serio: ora era permesso farlo.
+
+#Soffrire la rivelazione esterna di un bagliore interno… cercare, chiedere…
+
+#Scatena un ardore di risposta… Mentre riflettevo su questo, pensai alla erba…
+
+# Su Hermon, non c’era nessuno che bevesse con maggiore gratitudine le fresche rugiade del tramonto di quanto facessi io…
+
+I sentimenti assaporarono la felicità di quel momento.
+
+La rosa di Frances, come se fosse inquieta; passò davanti a me per ravvivare il fuoco.
+
+Che non voleva essere disturbata; sollevò e riappoggiò il piccolo…
+
+Decorazioni sul caminetto; il suo abito sventolava a pochi passi da me.
+
+Leggera, dritta ed elegante, stava in piedi eretta accanto al camino.
+
+Ci sono impulsi che possiamo controllare; ma ce ne sono altri che controllano noi.
+
+# Ci raggiungono con un balzo feroce e diventano i nostri padroni prima ancora che possiamo reagire.
+
+Abbiamo visto loro… Forse, tuttavia, simili impulsi sono raramente completamente…
+
+Titolo:  
+Forse la Ragione… attraverso un processo breve e silenzioso… un processo che…
+
+È finito qui; ha verificato la [[Sanity|sanità]] di tale atto. L’istinto.
+
+# Riflette e ritiene di avere tutte le ragioni per rimanere passivo…
+
+Eseguito… So di non aver ragionato, di non aver pianificato o intenzionato nulla, eppure…
+
+Mentre in un momento ero seduto da solo sulla sedia vicino al tavolo…
+
+#Il successivo… tenni Frances in grembo, posizionandola lì con precisione.
+
+Una decisione che fu mantenuta con estrema tenacia.
+
+“Monsieur!” gridò Frances, e non disse più nulla.
+
+# Labbra… Sembrava profondamente confusa nel corso dei primi momenti…
+
+Momenti… ma la meraviglia svanì presto; il terrore non riuscì a prendere il sopravvento, né…
+
+# Furia: dopotutto, era solo un po’ più vicina di quanto mai fosse stata prima
+
+# Prima di allora, verso una persona che lei rispettava e fidava abitualmente… L’imbarazzo avrebbe potuto…
+
+Questo l'ha spinta a lottare, ma il rispetto per se stessa ha frenato ogni resistenza in quei momenti.
+
+La resistenza era inutile.
+
+“Frances, quanto mi tieni davvero in considerazione?”, fu la mia domanda. Nessuna risposta.
+
+La situazione era ancora troppo nuova e sorprendente per permettere di parlare. In quel momento…
+
+# Considerazione… Mi sono costretto, per qualche secondo, ad accettarla.
+
+Il [[Silence|silenzio]], anche se non ne ero impaziente. Poco dopo, ripetei la stessa cosa.
+
+“Domanda… probabilmente non pronunciata con il tono più calmo; mi guardò… e io…”
+
+Il mio viso, senza dubbio, non era un esempio di compostezza; i miei occhi… nemmeno delle fonti tranquille di serenità.
+
+Tranquillità.
+
+“Parla pure,” insistetti; e una voce molto bassa, affrettata, ma pur sempre melodiosa…
+
+Disse…
+
+“Signore, mi fa male… Per favore, allentate la presa sulla mia mano destra.”
+
+Nella [[Truth|verità]], mi resi conto di essere in possesso della suddetta “main droite”.
+
+Una presa piuttosto spietata: ho fatto ciò che desideravo; e, per la terza [[Time|volta]],
+
+Chiesto con più dolcezza…
+
+“Frances, quanto mi tieni davvero in considerazione?”
+
+“Mio padrone, ne ho molti,” fu la risposta sincera.
+
+“Frances, sei pronta a dedicarti completamente a me come mia moglie?… a accettare questo ruolo?”
+
+“Me… come tuo marito?”
+
+Sentivo l’agitazione del cuore; vedevo “la luce viola dell’[[Love|amore]]” diffondersi intorno a me.
+
+Il suo riflesso luminoso sulle guance, sulle tempie, sul collo… Desideravo consultarci.
+
+L’occhio, ma le ciglia e le palpebre lo nascondevano.
+
+“Monsieur,” disse finalmente quella voce dolce, “Monsieur, desidera sapere se io, ”
+
+“Consenso… beh, insomma, dovrei davvero sposarlo?”
+
+“Proprio così.”
+
+“Monsieur sarà anche un buon marito quanto è stato un buon padrone?”
+
+“Ci proverò, Frances.”
+
+“Una pausa… poi, con un tono nuovo, ma ancora sommesso, la voce prosegue…”
+
+# Quell’inflessione che, pur piacendomi, suscitava in me certe reazioni…
+
+"#Un sorriso al tempo stesso dolce e timido", in perfetta armonia con quel tono..."
+
+“In altre parole, il signore sarà sempre un po’ testardo e esigente…”
+
+# Volontario…?
+
+“Ho davvero agito in questo modo, Frances?”
+
+“Ma certo; lo sapete benissimo.”
+
+# "Non sono stato forse altro?"
+
+“Certo; sei stato il mio migliore amico.”
+
+“E allora, Frances, che rapporto ho io con te?”
+
+“La vostra devota allieva, che vi ama con tutto il cuore.”
+
+“Accetterà la mia allieva di trascorrere la sua vita con me? Parliamo inglese ora…”
+
+“Frances.”
+
+Alcuni momenti furono dedicati alla riflessione; la risposta, pronunciata lentamente…
+
+# Così andò…
+
+“Mi hai sempre reso felice; mi piace ascoltarti parlare… Mi piace.”
+
+# Addio; mi piace stare vicino a te; credo che tu sia molto buona… e molto di più.
+
+Superiore: So che siete severi con coloro che sono negligenti e pigri, ma…
+
+# Sei gentile, davvero molto gentile con coloro che sono attenti e laboriosi… anche se loro…
+
+“Non sono molto intelligente… Ma Maestro, sarei felice di vivere con voi per sempre.”
+
+E fece un gesto, come se volesse aggrapparsi a me, ma…
+
 
 
 <span class="atom-split" data-atom="chapter_24--part_04" data-title="The Professor — Chapter 23 (part 4)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="topos/double,motif/fire,motif/home,motif/love,motif/nature,motif/night,motif/silence,motif/time,motif/well,concept/nature,concept/pride,concept/providence,concept/truth,character/nurse"></span>
@@ -32535,6 +42872,204 @@ women can [[Love|love]] a downright ugly man if he be but talented); had she bee
 either “edentee, myope, rugueuse, ou bossue,” my feelings towards
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Trattenendosi, aggiunse con sincera enfasi: “Maestro, io…”
+
+“Consento a trascorrere la mia vita con te.”
+
+“Molto bene, Frances.”
+
+La avvicinai un po’ di più al mio cuore; le diedi il primo bacio.
+
+“Labbra… che così sigillano il patto, ora stretto tra di noi; in seguito lei…”
+
+E io rimasi in silenzio; il nostro [[Silence|silenzio]] non fu breve. I pensieri di Frances, durante quel momento.
+
+# Non so quali siano questi intervalli, né ho cercato di indovinarli; non ne ero a conoscenza.
+
+Immersa nella contemplazione del suo volto, senza disturbarla in alcun altro modo…
+
+# Composizione… La pace che provavo… Volevo che anche lei la provasse; il mio braccio… sì, è vero…
+
+Ancora la tenevano prigioniera; ma con una gentilezza tale da non essere invasiva…
+
+Poiché nessuna opposizione si faceva più sentire, il mio sguardo era fisso sul rosso [[Fire|fuoco]]; il mio cuore.
+
+Misurando il proprio contenuto… Suonava e suonava, fino a scoprire la sua profondità.
+
+Insondabile.
+
+“Monsieur,” disse finalmente la mia tranquilla compagna, rimasta immobile tutto il tempo…
+
+Felicità come un topo nel suo terrore… Anche ora, mentre parla, a malapena riesce a…
+
+Alzò la testa.
+
+“Beh, Frances, ” Mi piacciono le relazioni senza esagerazioni; non è nel mio stile.
+
+#Sovrastare con epiteti amorosi, tanto quanto preoccuparsi in modo egoistico…
+
+Carezze insistenti.
+
+“Monsieur è ragionevole, non è vero?”
+
+“Sì; soprattutto quando mi viene chiesto di farlo in inglese… Ma perché?”
+
+“Me lo chiedi tu? Non vedi nulla di aggressivo o invadente nel mio modo di comportarmi, vero?”
+
+“Abbastanza tranquillo?”
+
+“Non è proprio così, ” iniziò Frances.
+
+“Inglese!”, le ricordai.
+
+“Beh, signore, volevo semplicemente dire che, naturalmente, mi piacerebbe, ”
+
+Per mantenere il mio lavoro di insegnante… Immagino che continuerò comunque ad insegnare.
+
+“Signore?”
+
+“Ah sì! È l’unica cosa su cui posso contare.”
+
+“Buono… intendo, positivo. In questo modo avremo entrambi la stessa professione. A me piace.”
+
+“Che i miei sforzi per avere successo siano altrettanto inarrestabili dei tuoi…”
+
+“Non lo fanno, signore?”
+
+“Stai facendo piani per diventare indipendente da me”, dissi.
+
+“Sì, signore; non devo essere un onere per voi, in alcun modo.”
+
+“Ma Frances, non ti ho ancora detto quali siano le mie prospettive… Ho…”
+
+# Trovato finalmente…
+
+Titolo:  
+Un lavoro con uno stipendio di tremila franchi all’anno, che posso facilmente ottenere…
+
+Raddoppiarlo con un po' più di sforzo. Quindi, come potete vedere, sarebbe inutile.
+
+Titolo:  
+Perché tu debba sprecare tempo andando a dare lezioni… per sei migliaia.
+
+Con quei franchi, tu ed io possiamo vivere, e vivere bene.
+
+“Frances sembrava rifletterci sopra… C’è qualcosa di lusinghiero, in questo, per l’uomo…”
+
+Forza, qualcosa che fosse in armonia con il suo onorevole [[Pride|orgoglio]], nell’idea di.
+
+Diventando la [[Providence|providenza]] di ciò che ama: nutrendolo e vestendolo, così come.
+
+# Il Signore cura anche i gigli dei campi… Quindi, per prendere una decisione, andai…
+
+on:--
+
+“La vita per te finora è stata abbastanza dolorosa e faticosa, Frances…“
+
+#Richiede un completo riposo; i tuoi milleduecento franchi non sarebbero certo sufficienti…
+
+Un importante contributo ai nostri introiti… ma a quale sacrificio del comfort ci si deve sottoporre per ottenerlo?
+
+# Lascia perdere il tuo lavoro… Devi essere stanco, lasciami fare io.
+
+“La felicità di darti riposo.”
+
+Non sono sicuro che Frances abbia prestato sufficiente attenzione alle mie lamentele…
+
+Invece di rispondermi con la solita prontezza e rispetto, lei non fece altro che…
+
+Sospirò e disse:–
+
+“Che ricco che siete, signore!” e poi si agitò, a disagio, nella mia presenza…
+
+“Tre migliaia di franchi!”, mormorò, “Mentre io ne ricevo soltanto dodici…”
+
+“Cento!” continuò più velocemente. “Tuttavia, per il momento deve essere così.”
+
+#E, signore, non stava forse dicendo qualcosa riguardo al fatto che dovrei rinunciare a…
+
+“Dove? Oh no! Devo tenerlo ben fermo…” e le sue dita piccole lo afferrarono con decisione.
+
+Si è stretto intorno al mio.
+
+“Pensate che io vi sposi soltanto per essere tenuta con voi, signore… Non potrei mai farlo.”
+
+“E che noiosi sarebbero stati i miei giorni… Tu saresti stata lontana, a insegnare…”
+
+Aule scolastiche piene di rumore, dal mattino alla sera… e io dovrei ancora indugiare lì dentro.
+
+A [[Home|casa]], disoccupato e solo. Dovrei diventare depresso e cupo.
+
+“Ben presto ti stancheresti di me.”
+
+“Frances, potresti leggere e studiare, due cose che ti piacciono così tanto.”
+
+“Signore, non ho potuto; preferisco una vita di riflessione, ma… mi piace anche qualcos’altro.”
+
+Una vita attiva è meglio… Devo agire in qualche modo, e farlo insieme a te. Ho bisogno di farlo.
+
+#Notato, signore: le persone che stanno solo insieme…
+
+Per divertimento, in realtà non si piacevano affatto, quindi, beh, né si stimavano a vicenda.
+
+Titolo:  
+Alti quanto coloro che lavorano insieme, e forse anche soffrono…
+
+“Insieme.”
+
+“Parli la [[Truth|verità]] di Dio,” dissi finalmente, “e avrai ciò che desideri.”
+
+Il modo migliore… Ora, come ricompensa per questa pronta consenzienza…
+
+“Dammi un bacio volontario.”
+
+Dopo qualche esitazione, tipica di una principiante nell’arte del bacio, lei…
+
+Le sue labbra si posarono timidamente e dolcemente sulla mia fronte; io…
+
+Prese il piccolo regalo come un prestito e lo restituì immediatamente, inoltre con generosità.
+
+Interesse.
+
+Non so se Frances fosse davvero molto cambiata da allora.
+
+# La prima volta che la vidi…
+
+# Profondamente cambiato per me… Lo sguardo triste, la guancia pallida, l’espressione abbattuta…
+
+# Un volto senza gioia… ricordavo che fossero le sue caratteristiche principali.
+
+#Scomparsa… e ora vidi un volto adornato di grazie: un sorriso, delle fossette…
+
+“Un tono rosa accendeva i suoi contorni e rendeva i suoi colori più vividi… Io ero lì.”
+
+Abituato ad alimentare l'idea lusinghiera che il mio forte attaccamento verso di lei.
+
+Possedva una certa perspicacia nella mia [[Nature|natura]]; non era bella, ma.
+
+# Non era ricca, non aveva nemmeno particolari talenti… eppure fu la donna della mia vita.
+
+Tesoro. Allora devo essere un uomo dal giudizio particolarmente acuto. Di notte, i miei occhi.
+
+#Iniziato dal errore che avevo commesso… Cominciai a sospettare che tutto fosse dovuto solo a me.
+
+Titolo: Gusti unici… non la mia capacità di scoprirli e apprezzarli
+
+# La superiorità del valore morale rispetto ai fascini fisici. Per me, Frances
+
+# Aveva attratti fisici: in lei non c’era alcuna deformità che potesse essere considerata negativa; nulla del genere…
+
+Titolo:  
+Quei difetti evidenti negli occhi, nei denti, nel colorito della pelle, nella forma del corpo, che si notano immediatamente…
+
+Che susciti l’ammirazione dei più coraggiosi campioni dell’intelligenza…
+
+Le donne possono [[Love|amare]] un uomo decisamente brutto, purché sia talentuoso; se solo lei fosse stata.
+
+“Che sia senza denti, miope, ruvida o gobba… i miei sentimenti verso di lei rimangono gli stessi.”
+
 
 
 <span class="atom-split" data-atom="chapter_24--part_05" data-title="The Professor — Chapter 23 (part 5)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/death,motif/flowers,motif/grave,motif/home,motif/love,motif/nature,motif/night,motif/river,motif/rose,motif/silence,motif/soul,motif/supernatural,motif/time,motif/well,concept/body,concept/mortality,concept/nature,concept/truth,concept/wonder"></span>
@@ -32678,6 +43213,146 @@ when the evil spirit departed from me, and I could again seek Frances,
 
 and sit at her side, freed from the dreadful tyranny of my demon.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Forse avrebbe potuto essere gentile, ma loro non avrebbero mai potuto…
+
+# Appassionato… Provavo affetto per quella povera piccola Sylvie, così storta e malformata…
+
+Per lei non avrei mai potuto provare [[Love|amore]]. È vero, i punti mentali di Frances.
+
+“Quelli che avevano suscitato il mio interesse per primi… e che ancora oggi conservano il loro fascino più intenso.”
+
+“Mi piaceva la sua bellezza, ma anche le sue grazie fisiche…”
+
+# Una gioia puramente materiale nel contemplare la chiarezza
+
+“Dai suoi occhi marroni, dalla bellezza della sua pelle chiara, dalla purezza del suo…”
+
+Denti ben curati, la proporzione armoniosa del suo corpo delicato. E quel piacere.
+
+#Non avrei potuto farne a meno… A quel punto, sembrava che anch’io fossi uno di loro.
+
+Un sensualista, a mio modo moderato e raffinato.
+
+Ora, lettore, nelle ultime due pagine vi ho raccontato storie dolci e piacevoli…
+
+Fresco tra i fiori, ma non si può vivere esclusivamente di cibi così deliziosi.
+
+Allora assaggia un po’ di acido galleico, solo una goccia, per variare.
+
+A un’ora piuttosto tarda rientrai nel mio alloggio: dopo essere stato via temporaneamente…
+
+Dimenticato che quell’uomo avesse preoccupazioni così materiali come il cibo…
+
+#Andai a letto a stomaco vuoto… Ero eccitato e impegnato tutto il giorno.
+
+# Da quella mattina alle otto non aveva mangiato nulla; inoltre…
+
+Nel corso delle ultime due settimane, né il mio corpo né la mia mente hanno conosciuto riposo; negli ultimi giorni.
+
+“Ore di dolce delirio… Non sarebbero mai svanite, e per molto tempo ancora…”
+
+Dopo mezzanotte, con un’estasi turbata, finalmente ottenni ciò di cui avevo tanto bisogno.
+
+Finalmente mi addormentai, ma per poco tempo: al risveglio faceva ancora buio.
+
+# E il mio risveglio fu come quello di Giobbe quando uno spirito gli passò davanti al viso
+
+# E come lui, “i miei capelli si rizzarono in piedi”. Potrei continuare…
+
+In parallelo, perché nella [[Truth|verità]], anche se non vidi nulla, c’era comunque “qualcosa che avveniva in segreto”.
+
+Portato davanti a me, e le mie orecchie ne ricevettero un po’… c’era.
+
+[[Silence|Silenzio,]], e sentii una voce che diceva: “Nel mezzo della vita ci troviamo, ”
+
+“[[Death|Morte]]”.
+
+Quel suono, e la sensazione di freddo angoscioso che lo accompagna… molti
+
+Avrei potuto considerarlo qualcosa di [[Supernatural|sovrannaturale]]; ma l’ho riconosciuto immediatamente come.
+
+L’effetto della reazione. L’uomo è sempre oppresso dalla sua [[Mortality|mortalità]], e fu proprio questo a.
+
+La mia mortale [[Nature|>natura]], che ora vacillava e si lamentava; i miei nervi, che tremavano.
+
+E produsse un suono falso, perché l’[[Soul|'anima]], di recente, si era gettata a capofitto verso.
+
+Quell’atto aveva sovraccaricato la già debole condizione fisica di quella persona. Un orrore terribile.
+
+#Ombra su di me; sentii la mia stanza invasa da qualcuno che conoscevo
+
+# In passato… ma credevo fosse per sempre scomparso. Per un certo periodo, fui sua preda.
+
+Ipocondria.
+
+Aveva già fatto parte delle mie conoscenze, anzi, era stata mia ospite, una volta quando ero ancora ragazzo…
+
+L'aveva mantenuta, fornendole vitto e alloggio, per un intero anno; per tutto quel periodo di [[Time|tempo]].
+
+# In segreto, l’avevo tutta per me: dormiva con me, mangiava con me…
+
+Uscì con me, mostrandomi angoli nascosti nei boschi, cavità sulle colline… dove…
+
+Potremmo sederci insieme, e lei potrebbe posare il suo triste velo su di me…
+
+E così nasconde cielo e sole, erba e alberi verdi; portandomi completamente con sé.
+
+[[Death|Morte]], petto freddo, che mi stringe con braccia di ossa. Quante storie racconterebbe.
+
+Dimmelo a quest'ora. Che [[songs|>canti]] avrebbe cantato alle mie orecchie. Come.
+
+Mi parlava della sua patria, della [[Grave|gravia]], e continuava a farlo ancora e ancora.
+
+Mi promise di portarmi lì molto presto; e, tirandomi fino sul bordo stesso…
+
+Di un fiume nero, cupo e tenebroso, mostrami, dall’altra parte, rive diseguali.
+
+Con tumulo, monumento e targa, eretto in un bagliore più grigioastro…
+
+“Più chiaro della luce lunare… ‘La Necropoli!’ sussurrava, indicando quella luce pallida…”
+
+“Ci sono pile… e inoltre: ‘Contiene una residenza pronta per te.’”
+
+Ma la mia infanzia è stata solitaria, senza genitori; priva della compagnia di fratelli o sorelle…
+
+E non c’è da meravigliarsi che, proprio quando io raggiunsi l’età della giovinezza, una strega.
+
+# Trovandomi perso in vaghi vagabondaggi mentali, con molte emozioni e poche certezze…
+
+# Obiettivi luminosi e prospettive cupe, desideri forti…
+
+Speranze tenue… dovrebbero accendere la loro luce ingannevole verso di me, in lontananza.
+
+E attirarmi nella sua cupa, tenebrosa dimora di orrori. Non c’è da [[Wonder|meravigliarsi]] delle sue magie.
+
+# Allora avevo il potere; ma ora, mentre il mio percorso si allarga, le mie prospettive…
+
+#Risveglio d’amore; quando i miei sentimenti trovarono pace; quando i miei desideri…
+
+# Ali piegate, stanche dopo un lungo volo, si erano appena posate sul grembo…
+
+# Di realizzazione e felicità, avvolto nel calore e nella soddisfazione, sotto l’affetto di qualcosa di dolce…
+
+Mano, perché proprio ora la ipocondria si è avvicinata a me?
+
+La respinsi come si farebbe con una terribile e orrenda concubina che si presenta…
+
+“Amareggiare il cuore di un marito verso la sua giovane moglie… invano: lei mantenne la propria fedeltà.”
+
+Dominò su di me quella [[Night|notte]] e il giorno successivo, così come per gli otto giorni che seguirono.
+
+In seguito, il mio spirito iniziò lentamente a riprendersi; anche l’appetito tornò…
+
+Tornai indietro, e in due settimane mi sentii meglio. Continuai a fare le mie cose come al solito.
+
+In quel momento, non avevo detto a nessuno cosa provavo; ma ero felice.
+
+# Quando lo spirito malvagio se ne andò da me, e potei finalmente cercare di nuovo Frances
+
+E sedermi al suo fianco, liberato dalla terribile tirannia del mio demone.
 
 
 
@@ -32886,6 +43561,211 @@ future wife much prosperity; and I [[Hope|hope]] she will satisfy your fastidiou
 
 [[Soul|soul]].”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XXIV.
+
+Un freddo e gelido [[Sunday|domenico]] di novembre, Frances ed io facemmo una lunga passeggiata; noi.
+
+Visitò l’intera [[City|>città]] lungo i boulevard; in seguito, Frances.
+
+Essendo un po’ stanchi, ci siamo seduti su uno di quei sedili posizionati lungo il bordo della strada.
+
+Sotto gli alberi, a intervalli regolari, per offrire riposo a chi era stanco.
+
+#Frances mi parlava della Svizzera: l’argomento la entusiasmava molto.
+
+E pensavo proprio che i suoi occhi parlassero altrettanto chiaramente e efficacemente di quanto facesse lei stessa.
+
+“Lingua…”, quando si fermò e commentò…
+
+"#Signore, c’è un gentiluomo che la conosce."
+
+Alzai lo sguardo: in quel momento c’erano tre uomini vestiti con eleganza.
+
+Passando. Gli inglesi, li riconoscevo dal loro aspetto e dal loro modo di camminare, tanto quanto dai loro.
+
+## Tra i tre più alti… riconobbi immediatamente il signor Hunsden
+
+# Stava per togliersi il cappello in segno di saluto verso Frances; dopo, fece…
+
+Fece una smorfia verso di me e poi morì.
+
+“Chi è lui?”
+
+“Una persona che conoscevo in Inghilterra.”
+
+#Perché si è inchinato davanti a me? Non mi conosce affatto.
+
+“Sì, lui ti conosce, a suo modo.”
+
+“Come, signore?” (Mi chiamava ancora “signore”; non riuscivo a convincerla…)
+
+(Per usare un termine più familiare.)
+
+# Non hai visto l’espressione nei suoi occhi?
+
+“Dei suoi occhi? No… Cosa hanno detto?”
+
+“Per lei dissero: ‘Come sta, Wilhelmina Crimsworth?’ Per me, invece… ‘Così’.”
+
+#Finalmente hai trovato la tua controparte… Ecco lì, lei: la femmina di…
+
+“La tua stessa gente…”
+
+“Signore, non era possibile leggere tutto ciò nei suoi occhi… Era troppo veloce.”
+
+“Scomparso.”
+
+“Ho letto tutto questo e molto di più, Frances… Ho letto che probabilmente verrà a trovarmi.”
+
+Stasera, o in un’altra futura occasione prossima; non ho alcun [[Doubt|>dubbio]].
+
+#Lo insisterà per essere presentato a te… Dovrei portarlo da te?
+
+“Camere?”
+
+“Se vuole, signore… Non ho obiezioni; anzi, credo che dovrei…”
+
+“Preferirei vederlo più da vicino… sembra davvero unico.”
+
+Come mi aspettavo, quella sera arrivò il signor Hunsden. La prima cosa che fece…
+
+Si disse:–
+
+“Non c’è bisogno che iniziate a vantarvi, Monsieur le Professeur; so già tutto di voi…”
+
+“L’assegnazione al College di ----, e tutto il resto… Brown me ne ha parlato.”
+
+Alluse al fatto di essere tornato dalla [[Germany|Germania]] ma solo un giorno o due prima.
+
+In seguito, chiese bruscamente se quella fosse la signora Pelet-Reuter.
+
+“Con chi mi aveva visto nei boulevard… Stavo per dire…”
+
+#Un rifiuto piuttosto deciso… ma poi ho riflettuto meglio e…
+
+Sembrando acconsentire, gli chiese cosa ne pensasse di lei.
+
+“Per quanto riguarda lei, ne parlerò direttamente; ma prima ho qualcosa da dirti.”
+
+#"Vedi un po', sei uno scellerato; non hai alcun diritto di girovagare in giro così..."
+
+“La moglie di un altro uomo… Pensavo avessi più buon senso, da non immischiarti in queste storie.”
+
+“Un insieme caotico e straniero del genere…”
+
+“Ma la signora?”
+
+“È chiaramente troppo bella per te… È come te, ma in qualche modo migliore.”
+
+Più bella di te, anche se senza alcuna [[Beauty|bellezza]] esteriore; tuttavia, quando si alzò in piedi, perché io mi girai indietro.
+
+"#Vedervi entrambi allontanare… Pensavo che la sua figura e il suo portamento fossero davvero belli."
+
+“Gli stranieri comprendono la grazia… Ma che diavolo ha fatto con Pelet?”
+
+# Non è ancora sposata con lui da tre mesi… Deve essere un idiota!
+
+Non avrei permesso che quell’errore andasse troppo oltre; non mi piaceva affatto.
+
+“Pelet? Ma come funziona la vostra testa riguardo al signor e alla signora Pelet… Voi siete sempre…”
+
+# Parlando di loro… Vorrei che gli dei avessero fatto sposare la signorina Zoraide.
+
+“Fai da te!”
+
+“Quella giovane signorina non era forse la signorina Zoraide?”
+
+“No; nemmeno Madame Zoraide.”
+
+#Perché hai mentito allora?
+
+“Non ho mai mentito; ma voi siete davvero troppo frettolosi… Lei è una mia allieva…”
+
+“La ragazza svizzera”.
+
+“E naturalmente sposerai lei, vero? Non negarlo.”
+
+"Sposata! Penso che lo farò... se il destino ci risparmia altre dieci settimane."
+
+“È la mia piccola fragola selvatica, Hunsden… La sua dolcezza mi ha reso imprudente.”
+
+“Vini di una produzione artificiale…”
+
+#"Basta! Niente vanterie, niente gesta eroiche… Non voglio sentirle. Chi è lei? A cosa serve?"
+
+“Di quale casta appartiene?”
+
+Ho sorriso. Hunsden ha sottolineato inconsciamente la parola “casta”, e…
+
+#Hunsden, nonostante fosse un repubblicano e un nemico dei nobili, andava fiero delle sue origini antiche
+
+----shire [[Blood|blood]], of his descent and family standing, respectable and
+
+#Rispettato da generazioni, come qualsiasi altro nobile di quel regno
+
+Titolo:  
+Il suo titolo legato alla sua origine normanna e alla conquista… Hunsden non avrebbe mai accettato nulla del genere.
+
+Pensò di prendere in moglie una donna appartenente a una casta inferiore alla sua, come fece Stanley.
+
+#Non penserei mai di accoppiarmi con un Cobden… Mi è piaciuta la sorpresa che ho ricevuto.
+
+#Godtì; ho apprezzato la vittoria della mia pratica sulla sua teoria; e mi sono appoggiato…
+
+“Sopra il tavolo, e pronunciando quelle parole lentamente ma con una gioia trattenuta…”
+
+In breve…
+
+“È una rammendatrice di pizzi.”
+
+# Hunsden mi esaminò. Non disse di essere sorpreso, ma lo era…
+
+# Aveva le sue idee riguardo alle buone maniere… Vidi che sospettava di me.
+
+# Stava per compiere un passo molto avventato; ma si trattenne…
+
+“Remonstrance… Lui rispose soltanto…”
+
+“Beh, sei tu il miglior giudice delle tue stesse faccende. Una persona che ripara i merletti, ”
+
+Essere una buona moglie significa essere anche una signora perbene; ma ovviamente hai fatto attenzione a questo.
+
+Per verificare appieno che, poiché lei non dispone né di [[Education|istruzione]] né di ricchezze.
+
+In quella stazione, è ben attrezzata con tutte quelle qualità naturali che tu immagini.
+
+“Quello che ha maggiori probabilità di portarti alla felicità… Ha molte relazioni?”
+
+"Nessuno a Bruxelles."
+
+“Meglio così. In casi del genere, le relazioni sono spesso la vera fonte di problemi.”
+
+Non posso fare a meno di pensare che una serie di collegamenti di qualità inferiore sarebbe stata più appropriata…
+
+“Una noia che ti accompagnerà per tutta la vita.”
+
+Dopo essere rimasto seduto in [[Silence|silenzio]] per un po' di più, Hunsden si alzò e se ne andò.
+
+Con un saluto silenzioso e cordiale, mi augurava la buona sera; con quel modo gentile e premuroso…
+
+Mi tese la mano (cosa che non aveva mai fatto prima) e mi convinse…
+
+Pensava che avessi fatto una terribile [[Fool|stupida]] figura, e che, di conseguenza, fossi rovinata.
+
+E dato che ero stato gettato via in quel modo, non c’era tempo per il sarcasmo o il cinismo.
+
+Infatti, non per altro che per indulgenza e tolleranza.
+
+“Buona [[Night|notte]], William,” disse lui, con una voce davvero dolce, mentre il suo viso.
+
+Sembrava guardare con benevolenza e compassione. “Buona [[Night|notte]], ragazzo. Vorrei che tu e, ”
+
+A futura moglie, molta prosperità; e io [[Hope|>spero]] che possa soddisfare i tuoi rigidi requisiti.
+
+“[[Soul|'anima]]”.
 
 
 
@@ -33456,6 +44336,200 @@ for millions of shiploads of soil, timber, [[Snow|snow]], and ice.”
 the refuse, by way of turning it to what you call use.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Nazione”.
+
+#"Non esiste alcun lato positivo... almeno nessuno che tu possa considerare tale."
+
+#Conoscenza: per comprendere gli sforzi dell’industria, è necessario possederla
+
+# Realizzazioni imprenditoriali o scoperte scientifiche: la ristrettezza di visione
+
+Una formazione insufficiente e una posizione sociale insignificante ti rendono davvero incapace di fare qualcosa.
+
+# Dalla comprensione di questi punti; e per quanto riguarda gli aspetti storici e poetici…
+
+#"Associazioni… Non vorrei offenderla, signorina, se ipotizzassi che…"
+
+“Si fa riferimento a tale sciocchezza.”
+
+“Ma in parte sì.”
+
+Hunsden rise – con quella sua risata piena di disprezzo assoluto.
+
+“Sì, signor Hunsden. Appartiene anche lei a coloro che la pensano così?”
+
+“Le associazioni non procurano alcun piacere?”
+
+“Signorina, cos’è un’associazione? Non ne ho mai vista una… Cos’è esattamente?”
+
+Lunghezza, larghezza, peso… valore… Ma quale prezzo porterà con sé?
+
+“Il mercato?”
+
+“Il tuo ritratto, per chiunque ti abbia amato, significherebbe molto…”
+
+“L’associazione… ha un valore inestimabile.”
+
+# Quell’inscrutabile Hunsden sentì queste parole e le percepì in modo particolarmente profondo.
+
+Anche lui, da qualche parte… perché arrossì… qualcosa che non gli era insolito quando veniva colpito.
+
+# Inaspettatamente su un punto sensibile… Un genere di problema che per un momento si è aggravato.
+
+“Lo sguardo suo… e credo che abbia riempito quel breve silenzio che seguì…”
+
+Il contrattacco dell’antagonista, nato dal desiderio che qualcuno lo amasse davvero.
+
+Vorrebbe essere amato, da qualcuno il cui [[Love|amore]] potesse ricevere senza riserve.
+
+Torna indietro.
+
+La signora sfruttò al massimo il vantaggio temporaneo che aveva a disposizione.
+
+“Se il suo mondo è un mondo privo di relazioni, signor Hunsden, allora non posso più…”
+
+Uno [[Wonder|stupore]], che tu odi così tanto l’Inghilterra. Non capisco bene cosa sia il Paradiso.
+
+“E cosa siano gli angeli… Eppure lo considero la regione più gloriosa che esista.”
+
+Concepire… e gli angeli, le esistenze più elevate… se uno di loro… se…
+
+“Lo stesso Abdiel il Fedele” (pensava a [[Milton]]) “fu improvvisamente, ”
+
+Senza la capacità di formare associazioni mentali, credo che si lancerebbe immediatamente in azione.
+
+“Dai porti eterni, lascia il cielo e cerca ciò che aveva perduto…”
+
+“Certo, proprio all’inferno da cui era uscito con disprezzo e rabbia.”
+
+Il tono di Frances era altrettanto evidente quanto il suo modo di esprimersi…
+
+# Quando la parola “inferno” uscì dalle sue labbra, con un tono piuttosto…
+
+# Un’insolita attenzione: Hunsden si degnò di lanciare un breve sguardo…
+
+Ammirazione… Gli piacevano le qualità forti, sia negli uomini che nelle donne; gli piaceva quando c’era autentica intensità.
+
+#Qualsiasi cosa osasse superare i limiti convenzionali… Non l’aveva mai sentito prima.
+
+“Una signora che pronuncia ‘inferno’ con quel tipo di accento intransigente… Il suono che ne risulta…”
+
+Titolo:  
+Le parole di una donna lo compiacquero; avrebbe voluto che fosse Frances ad agire…
+
+“La striscia di nuovo… ma non le ostacolava il cammino. L’esibizione di quell’atteggiamento eccentrico…”
+
+La forza e l’energia non le procuravano mai piacere; esse si manifestavano soltanto nella sua voce…
+
+Un lampo apparve sul suo volto quando si verificarono circostanze straordinarie… e quelle.
+
+In generale doloroso, costringerlo ad emergere dalle profondità dove bruciava in silenzio.
+
+Per me, una o due volte, durante conversazioni intime, lei ha detto…
+
+#Pensieri avventurosi espresso in un linguaggio nervoso… ma quando arriva l’ora di agire…
+
+La manifestazione era già finita… Non riuscivo a ricordarla; era semplicemente avvenuta, senza che io potessi farci nulla.
+
+Anche lei se ne andò. Con un sorriso, Hunsden scacciò rapidamente tutte le sue emozioni.
+
+Tornando sul tema della disputa, disse…
+
+#"Poiché l’Inghilterra non è nulla, perché allora le nazioni continentali la rispettano?"
+
+so?”
+
+“Avrei dovuto immaginare che nessun [[Child|bambino]] avrebbe posto quella domanda,” rispose.
+
+Hunsden, che mai, in nessun momento, forniva informazioni senza prima rimproverare.
+
+“Stupidi coloro che glielo chiesero… ‘Se solo fossi stato mio allievo, come io…”
+
+# Una sfortuna terribile… essere un personaggio deplorevole
+
+# A meno di cento miglia di distanza… ti avrei messo in un angolo per una cosa del genere.
+
+# Confessione di ignoranza. Perché, signorina, non riuscite a capirlo?
+
+#Il nostro oro: quello che ci permette di ottenere la cortesia dei francesi, la gentilezza dei tedeschi e l’affetto degli svizzeri
+
+“Servilità?”, disse, sogghignando in modo demoniaco.
+
+“Svizzero?”, disse Frances, cogliendo la parola “sottomissione”. “Vuoi dire che… mio…”
+
+“Compatrioti schiavi?”, esclamò lei, alzandosi in piedi. Non riuscii a trattenere un sospiro profondo…
+
+#Risate… ma nel suo sguardo c’era rabbia, e nella sua postura sfida. “Dai…”
+
+#Mi state usando la Svizzera contro di me, signor Hunsden? Pensate davvero che non abbia…
+
+Associazioni? Pensate davvero che io sia disposto a parlare solo di questo?
+
+Nelle valli alpine si possono trovare vizio e degradazione… E lasciarle così come sono.
+
+Dalla profondità del mio cuore ammiro la grandezza sociale dei miei connazionali e la nostra.
+
+La [[Blood|libertà]] conquistata con il sangue, e le meraviglie naturali delle nostre [[Mountains|montagne]]. Che cosa ne dici?
+
+“Ti sbagli… ti sei sbagliato.”
+
+“Grandezza sociale”? Chiamatela come volete, i vostri connazionali sono persone sensate.
+
+Compagni… trasformano in un prodotto commerciabile ciò che per voi è soltanto qualcosa di astratto.
+
+Idee. Finora hanno già venduto la loro grande dignità sociale, oltre a tutto il resto.
+
+Una [[Blood|libertà]] conquistata con il sangue, per diventare servitori di re stranieri.
+
+# Mai sei stato in Svizzera?
+
+“Sì… ci sono stato due volte.”
+
+“Non ne sai nulla.”
+
+“I do.”
+
+“E tu dici che gli svizzeri sono mercenari, proprio come un pappagallo che ripete ‘Povera Poll’…”
+
+Come dicono i belgi, gli inglesi non sono coraggiosi… o come dicono i francesi…
+
+Li accusi di essere traditori: nelle tue parole non c’è alcuna giustizia.
+
+“C’è la [[Truth|verità]].”
+
+“Le dico io, signor Hunsden: lei è una persona ancora meno pratica di me.”
+
+Donna impratica… perché non riconosci ciò che realmente esiste.
+
+Vogliono annientare il patriottismo individuale e la grandezza nazionale.
+
+Un ateo annienterebbe Dio e la propria [[Soul|'anima]], negandone l’esistenza.
+
+#"Esistenza."
+
+“Dove stai andando? Stai deviando dal discorso… Pensavo che stavamo parlando di…”
+
+Parlando della natura mercenaria degli svizzeri.
+
+"We were–e se domani mi dimostrerete che gli svizzeri sono mercenari..."
+
+(che non puoi fare, ) Dovrei comunque [[Love|amare]] la Svizzera.
+
+# “Saresti pazzo, allora… pazzo come una lepre di marzo, se ti lasciassi dominare da una passione del genere…”
+
+Per milioni di carichi di terra, legname, [[Snow|neve]] e ghiaccio.
+
+“Non così pazzo come te, che non ami nulla.”
+
+“Nella mia [[Madness|>pazzia]] c’è un metodo; nella tua, no.”
+
+Titolo:  
+“Il tuo metodo consiste nel strappare tutta la vitalità alla creazione per trasformarla in letame…”
+
+“Il rifiuto, trasformato in ciò che voi chiamate ‘uso’”.
+
 
 
 <span class="atom-split" data-atom="chapter_25--part_04" data-title="The Professor — Chapter 24 (part 4)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="topos/double,motif/blood,motif/fire,motif/moon,motif/nature,motif/night,motif/rose,motif/soul,motif/time,motif/well,concept/freedom,concept/hope,concept/nature,character/desdemona,character/othello"></span>
@@ -33653,6 +44727,202 @@ Breton-bretonnant, even as your own Shakspeare’s [[Othello]] smothered
 
 the parts shall be reversed according to the plan just sketched--you,
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Non si può assolutamente ragionare con te,” disse Hunsden; “non c’è alcuna [[logic|logica]] in te.”
+
+“Meglio non avere alcuna [[logic|logica]] che non provare nulla,” ribatté Frances, che.
+
+Ora andava avanti e indietro tra il suo armadio e il tavolo.
+
+Intenzione, se non di pensieri ospitalieri, almeno di azioni ospitaliere…
+
+Stava stendendo la tovaglia e posandoci sopra piatti, coltelli e forchette.
+
+“È un’allusione a me, signorina? Pensa forse che io sia privo…”
+
+“Che sensazione?”
+
+“Immagino che tu interferisca sempre con i tuoi stessi sentimenti…”
+
+“Giudicare gli altri e imporre dottrine riguardo all’irrazionalità di questo o di quello…”
+
+# E l’altro sentimento… e poi decidere di soffocarlo.
+
+Si può immaginare che sia incompatibile con la [[logic|logica]].
+
+“Faccio la cosa giusta.”
+
+# Frances era scomparsa dietro una sorta di piccola dispensa; presto…
+
+Riapparve.
+
+“Hai ragione? Assolutamente no! Ti sbagli di grosso se pensi così.”
+
+Lei sarebbe così gentile da permettermi di avvicinarmi al [[Fire|fuoco]], signor Hunsden. Ho qualcosa da dire.
+
+“Per cucinare, ” (Un lasso di tempo impiegato per posizionare una pentola sul [[Fire|forno]];
+
+“Allora, mentre mescolava il contenuto…” “Esatto! come se fosse davvero giusto farlo…”
+
+#Schiacciare qualsiasi sentimento piacevole che Dio abbia dato all’uomo, soprattutto…
+
+# Un sentimento che, come il patriottismo, diffonde l’egoismo umano su larga scala
+
+“Circoli”. Il [[Fire|fuoco]] si agitava; il piatto venne posato davanti a lui.
+
+# Sei nato in Svizzera?
+
+“Certo che sì, altrimenti perché lo chiamerei mio paese?”
+
+“E da dove hai preso quei tratti e quella figura tipicamente inglesi?”
+
+“Anch'io sono inglese; metà del [[Blood|sangue]] che scorre nelle mie vene è inglese; quindi ho, ”
+
+Un diritto a un doppio vigore del patriottismo, poiché si ha interesse per entrambi.
+
+“Paesi nobili, liberi e fortunati”.
+
+# "Hai avuto una madre inglese?"
+
+“Sì, sì; e tu, immagino, avevi una madre venuta dalla [[Moon|luna]] o da, ”
+
+“Utopia… visto che nessuna nazione d’Europa ha diritti su di te…”
+
+“Al contrario, sono un patriota universale… se solo riusciste a capirmi.”
+
+“Con pieno diritto: il mio paese è il mondo.”
+
+“Simpatie così ampiamente diffuse devono essere molto superficiali… Voi che ne pensate?”
+
+“La bontà che arriva sulla tavola… Signore” (rivolto a me, che ormai sembravo essere…)
+
+# Immerso nella lettura alla luce della luna – “Signore, la cena è pronta.”
+
+# Con un tono completamente diverso da quello con cui aveva parlato prima…
+
+Usare frasi con il signor Hunsden, non così brevi, ma più solenni e dolci.
+
+“Frances, cosa intendi per ‘preparare la cena’? Non avevamo affatto intenzione di farlo…”
+
+“Rimanere.”
+
+“Ah, signore, ma si è fermato… e la cena è pronta; lei è qui.”
+
+“L’unica alternativa era mangiarlo.”
+
+Il pasto era decisamente insolito: consisteva in due piatti piccoli, ma…
+
+Piatti di carne preparati con maestria e serviti con cura; una insalata
+
+“E il ‘formaggio francese’… completò il tutto. L’atto di mangiare intervenne in quel momento.”
+
+# Una breve tregua tra i belligerenti… ma non appena fu servita la cena…
+
+Risolti i problemi, ricominciarono subito con un nuovo argomento di disputa.
+
+Titolo:  
+Sviluppato nello spirito dell’intolleranza religiosa, come affermava il signor Hunsden…
+
+# Esiste con forza in Svizzera, nonostante l’affermata devozione…
+
+Dei svizzeri per la [[Freedom|libertà]]. Fu Frances ad averne subito le conseguenze peggiori.
+
+Non solo perché non era abile nel discutere, ma anche perché le sue stesse convinzioni…
+
+Le opinioni su questo argomento si sono rivelate quasi del tutto coincidenti.
+
+Con il signor Hunsden… e lei lo contraddisse soltanto per opposizione.
+
+“Alla fine si arrese, ammettendo di pensare come lui, ma chiedendogli…”
+
+Fargli capire che lei non si considerava sconfitta.
+
+“Non fu più così per i francesi a Waterloo,” disse Hunsden.
+
+“Non c’è alcuna analogia tra questi casi“, ribatté Frances; “il mio era…”
+
+“Una finta rissa.”
+
+#"Falso o vero, dipende da te."
+
+“No; anche se non possiedo né [[logic|logica]] né una grande ricchezza di parole, tuttavia in un certo contesto, ”
+
+# Quando la mia opinione differisce dalla tua, io la sostengo comunque.
+
+Non avevo altre parole da dire in sua difesa; dovreste essere perplessi…
+
+Determinazione cieca… Parli di Waterloo; il tuo Wellington avrebbe dovuto fare di più.
+
+“Secondo Napoleone, quella regione era stata conquistata… ma egli continuò comunque la sua azione nonostante ciò.”
+
+In violazione delle leggi della guerra, riuscì a trionfare nonostante le tattiche militari convenzionali.
+
+“Farei esattamente come ha fatto lui.”
+
+#"Probabilmente anche tu la pensi allo stesso modo..."
+
+“Una sorta di testardaggine dentro di te…”
+
+“Mi dispiacerebbe molto se non l’avessi fatto; lui e Tell erano fratelli, e io…”
+
+Disprezza gli svizzeri, uomini o donne che non possiedono quella natura particolarmente duratura.
+
+Della nobile anima di nostro eroico William.
+
+“Se Tell fosse stato come Wellington, sarebbe stato uno sciocco.”
+
+“Non significa forse ‘BAUDET’?” chiese Frances, rivolgendosi a me.
+
+“No, no,” risposi, “significa un ‘ESPRIT-FORT’; e ora,” continuai, “…”
+
+Vidi che tra quei due stava nascendo un’altra occasione di conflitto…
+
+È arrivato il momento giusto per andare.
+
+Hunsden prese una [[Rose|rosa]]. “Addio”, le disse, “me ne andrò ora, ”
+
+#Inghilterra gloriosa domani… ma potrebbero volerci dodici mesi o più
+
+#Torno di nuovo a Bruxelles; ogni volta che ci vengo, ti cercherò.
+
+Vedrete se non riesco a trovare il modo di farvi diventare più feroci di un drago.
+
+Sei andato abbastanza bene stasera, ma nel prossimo colloquio dovrai fare di più.
+
+Mettimi alla prova, allora… Altrimenti siete destinati a diventare la signora William.
+
+“Crimsworth… povera giovane signora… ma in voi c’è una scintilla di spirito.”
+
+Custodiscilo con cura e fai sì che [[The Professor|il Professore]] ne tragga tutto il beneficio possibile.
+
+“È sposato, signor Hunsden?”, chiese improvvisamente Frances.
+
+"No. Avrei dovuto pensare che poteste indovinare che fossi un Benedict, dal mio..."
+
+“Guarda.”
+
+“Beh, ogni volta che ti sposi, non prendere una moglie dalla Svizzera, perché se, ”
+
+# Inizi a bestemmiare l’Elvezia e maledire i cantoni… soprattutto se…
+
+Titolo:  
+Menzioni la parola “ASS” nello stesso respiro con il nome “Tell”…
+
+“Ass IS Baudet, lo so; anche se al signore piace tradurlo…”
+
+Con l’ESPRESSO FORTE, la tua ragazza di montagna, una qualche [[Night|notte]], potrebbe soffocarsi.
+
+Bretono che parla il bretone, proprio come l’[[Othello|>Otello]] di Shakespeare soffocò.
+
+“[[Desdemona]]”.”
+
+“Sono stato avvertito,” disse Hunsden; “e lo sei anche tu, ragazzo” (annuendo verso di me). “Io…”
+
+Non si era ancora sentito parlare di alcuna parodia del Moro e della sua gentile signora.
+
+“I parti dovranno essere invertiti secondo il piano appena delineato… tu.”
 
 
 
@@ -34420,6 +45690,182 @@ The language in which she addressed her pupils, though simple and
 unpretending, was never trite or dry; she did not speak from routine
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+E il modo in cui mi parlava allora, come sempre, era così naturale e disinvolto…
+
+Con un tono dolce e rispettoso, il mio cuore si allargò nel vederla…
+
+Un bacio sembrava necessario per placare la sua insistenza.
+
+“Ecco qua, signore.”
+
+“Perché mi chiami sempre ‘Monsieur’? Dì semplicemente ‘William’.”
+
+“Non riesco a pronunciare la tua ‘W’… Inoltre, ‘Monsieur’ spetta a te; a me piace…”
+
+“È la scelta migliore.”
+
+Dopo che Minnie se ne era andata con il suo cappello pulito e lo scialle elegante, anche noi ci mettemmo in cammino.
+
+Lasciando la [[house|casa]] desolata e silenziosa, silenziosa, almeno, tranne che per.
+
+Il ticchettio dell’[[Clock|orologio]]. Presto ci trovammo lontani da Bruxelles; i campi.
+
+Ci accolse… e poi quelle strade, lontane dal rumore delle carrozze…
+
+“Chaussées… Presto incontrammo un angolo di terra così rustico, verde e isolato…”
+
+Avrebbe potuto essere un luogo situato in qualche provincia inglese di carattere pastorale; una fila di.
+
+Erba bassa e ricoperta di muschio, sotto un rovo, offriva un posto troppo allettante…
+
+#Da rifiutare… L’abbiamo preso, e dopo averlo ammirato ed esaminato attentamente…
+
+Wild [[Flowers|>fiori]] dall’aspetto inglese che crescevano ai nostri piedi. Mi ricordai di Frances.
+
+La mia attenzione, così come quella degli altri, è rivolta al tema trattato a colazione.
+
+“Qual era il suo piano?” Un passo naturale da compiere… il prossimo movimento da intraprendere.
+
+“Us, o almeno da parte sua, se voleva avere successo nella sua carriera.”
+
+# Proposto di avviare una scuola: avevamo già i mezzi necessari per iniziare.
+
+“Una vita condotta con attenzione, rispettando sempre i nostri limiti di reddito. Possedevamo…”
+
+Anche a questo [[Time|momento]], esiste un legame esteso e significativo, nel senso.
+
+#Vantaggioso per il nostro business; poiché, sebbene il nostro cerchio di contatti…
+
+L’amicizia rimase sempre limitata; ormai eravamo conosciuti in molti luoghi.
+
+Scuole e famiglie come insegnanti. Quando Frances ebbe elaborato il suo piano…
+
+Lei lasciò intendere, attraverso alcune frasi finali, le sue speranze per il futuro. Se…
+
+Avevamo solo una buona salute e un successo tollerabile; forse io sì, lei ne era sicura.
+
+In [[Time|tempo]], realizzare un'indipendenza. E forse, prima che sia troppo tardi.
+
+“Vecchio abbastanza per goderselo… allora sia lei che io potremmo riposare; e cosa ci impedirebbe?”
+
+Ci impedirà di andare a vivere in Inghilterra? L’Inghilterra era ancora la sua Terra Promessa.
+
+Non ho posto alcun ostacolo sul suo cammino, non ho sollevato alcuna obiezione… Sapevo che lei era…
+
+Non era certo il tipo che potesse vivere in modo tranquillo e inattivo, né tantomeno in modo relativamente passivo…
+
+Inattiva… Doveri che deve assolvere, doveri importanti… Lavoro da svolgere.
+
+# Un lavoro avvincente, appassionante e proficuo… capacità intellettuali messe alla prova
+
+“Nella sua struttura fisica, richiedevano un’alimentazione adeguata e l’opportunità di muoversi liberamente: i miei.”
+
+“Quella mano non era mai destinata a farli soffrire la fame o i crampi; no, anzi, ne traeva piacere.”
+
+Fornendo loro il sostentamento necessario e creando per loro uno spazio più ampio per agire.
+
+“Hai ideato un piano, Frances”, dissi, “e un ottimo piano… Mettilo in atto.”
+
+# Hai il mio pieno consenso; ovunque e quando sia necessaria la mia assistenza…
+
+“Se lo desideri, chiedilo e lo avrai.”
+
+Gli occhi di Frances mi ringraziarono quasi con delle [[Tears|lacrime]]; solo un paio di scintille, presto.
+
+Scacciata via con un gesto della mano; lei prese anche la mia e la tenne stretta.
+
+A volte si avvicinava molto a lui con le sue braccia, ma non diceva altro che.
+
+"Grazie mille, signore."
+
+Abbiamo trascorso una giornata meravigliosa ed siamo tornati [[Home|a casa]] tardi, sotto la luce di una piena notte estiva.
+
+La [[Moon|luna]].
+
+#Dieci anni mi assalgono ora con ali polverose, vibranti e inquiete…
+
+# Anni di frenesia, azione e impegno costante; anni in cui io e…
+
+"Mia moglie, mentre ci imbarcavamo nella piena avventura del progresso..."
+
+#"Vortici di progresso nelle capitali europee: quasi senza tregua..."
+
+Stranieri al divertimento, mai pensati ad concedersi piaceri… Eppure, come…
+
+Il nostro percorso si snodava fianco a fianco, mentre camminavamo mano nella mano; nessuno dei due…
+
+Non mormorò, non si pentì, né esitò. La [[Hope|[Speranza]]] davvero ci incoraggiò; la salute ci mantenne in forza.
+
+# Armonia tra pensieri e azioni superò molte difficoltà, e infine…
+
+Il [[success|successo]] concedeva, di tanto in tanto, ricompense incoraggianti per la diligenza. Il nostro.
+
+La scuola divenne una delle più popolari di Bruxelles, e gradualmente…
+
+Abbiamo migliorato le nostre condizioni e elevato il nostro sistema di [[Education|istruzione]]; abbiamo fatto una scelta migliore.
+
+I giovani studenti divennero sempre più selettivi, e alla fine tra di loro furono inclusi anche i figli dei…
+
+Le migliori famiglie del Belgio… Avevamo anche un ottimo legame in Inghilterra.
+
+Intitolato originariamente su raccomandazione spontanea del signor Hunsden…
+
+# Essendo stata maltrattata e criticata per la mia prosperità…
+
+Tornò indietro e poco dopo inviò un gruppo di giovani ereditiere del clan degli ----shire… le sue.
+
+"Cugini… come disse lui, ‘eliminati dalla signora Crimsworth’."
+
+Per quanto riguarda la stessa signora Crimsworth, in un certo senso era diventata qualcun altro…
+
+Donna… anche se in un’altra forma rimaneva immutata. Così diversa…
+
+#In circostanze diverse… Sembrava che possedessi due mogli.
+
+Le facoltà della sua [[Nature|>natura]], già evidenti quando l’ho sposata, sono rimaste intatte.
+
+# Fresca e bella… ma altre facoltà si svilupparono con forza, si ramificarono…
+
+“Ampio, e ha modificato notevolmente l’aspetto esterno della pianta… La sua consistenza…”
+
+Attività e impegno, avvolti in un fitto fogliame, un sentimento poetico.
+
+E passione. Ma queste [[Flowers|>fiori]] erano ancora lì, intatte e fresche come al mattino.
+
+Sotto l’ombra di uno sviluppo successivo e di una natura più resistente. Forse, io stesso ho potuto comprenderlo solo in seguito.
+
+Il mondo conosceva il segreto della loro esistenza, ma per me… erano sempre stati diversi.
+
+Pronto a sprigionare un profumo delizioso e a mostrare una [[Beauty|bellezza]] tanto pura quanto.
+
+Radioso.
+
+Durante il giorno, la mia [[house|casa]] e le mie attività venivano gestite da Madame.
+
+Direttrice: una donna maestosa ed elegante, immersa in profonde preoccupazioni…
+
+La sua ampia fronte; una dignità ben calcolata nel suo sguardo serio… immediatamente.
+
+Dopo colazione mi separavo da questa signora e andavo al mio college.
+
+“Torna nella sua aula scolastica; per un’ora al giorno, torna lì…”
+
+La trovavo sempre in aula, completamente assorta nei suoi compiti; [[Silence|silenzio]], diligenza.
+
+Osservanza, presenza costante al suo fianco… Quando non è effettivamente impegnata nell’insegnamento.
+
+# Lei osservava e guidava con lo sguardo e i gesti; poi apparve…
+
+Attenta e premurosa… Quando impartiva istruzioni, il suo atteggiamento era…
+
+Sembrava più animata; pareva provare un certo piacere in quell’attività.
+
+Il linguaggio con cui si rivolgeva ai suoi alunni era semplice, ma…
+
+Senza affettazioni, mai banale o noiosa; non parlava seguendo schemi prestabiliti.
+
 
 
 <span class="atom-split" data-atom="chapter_26--part_03" data-title="The Professor — Chapter 25 (part 3)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/clock,motif/home,motif/lightning,motif/love,motif/nature,motif/night,motif/time,motif/well,motif/winter,concept/fear,concept/history,concept/nature,form/history,character/frances_henri,character/julia"></span>
@@ -34591,6 +46037,179 @@ supplicating little mortal woman in my arms. Then I made her get a book,
 
 and read English to me for an hour by way of penance. I frequently dosed
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Formule… Lei creava le proprie frasi man mano che procedeva, e era molto nervosa.
+
+E frasi spesso impressionanti; frequentemente, quando venivano utilizzate per chiarire qualcosa…
+
+Nei punti preferiti della [[history|storia]] o della geografia, lei parlava con grande entusiasmo.
+
+“Eloquente nella sua sincerità… I suoi studenti, o almeno quelli più anziani…”
+
+Tra di loro, l'intelligente riconosceva molto bene la lingua di un essere superiore.
+
+Titolo:  
+“Mente… Anche loro la provavano, e alcuni di loro ebbero l’impressione…”
+
+# Sentimenti elevati… ma pochi gesti d'affetto tra padrona e…
+
+Ragazze, ma alcune delle allieve di Frances, in quel [[Time|tempo]], impararono ad amarla sinceramente.
+
+Tutti la guardavano con rispetto; il suo comportamento in generale verso…
+
+Il loro atteggiamento era serio; a volte addirittura benevolo quando le facevano piacere con le loro azioni…
+
+Progresso e attenzione, sempre meticolosamente raffinati e premurosi.
+
+# In casi in cui era necessaria una rimprovera o una punizione, di solito…
+
+Abbastanza paziente… ma se qualcuno approfittasse di quella pazienza, allora…
+
+A volte accadeva che una gravità improvvisa, intensa e simile al [[Lightning|fulmine]], insegnasse qualcosa.
+
+Il colpevole… l’entità dell’errore commesso. A volte, un barlume di…
+
+La tenerezza addolciva i suoi occhi e il suo modo di comportarsi, ma questo accadeva raramente… Solo in alcune occasioni…
+
+Un alunno si ammalava, o quando sentiva la mancanza di [[Home|>casa]], o in alcuni altri casi.
+
+Un piccolo [[Child|bambino]] senza madre, o uno molto più povero dei suoi compagni.
+
+Titolo:  
+La scarsa collezione di abiti e le modeste condizioni materiali che ne derivavano suscitavano disprezzo.
+
+# Delle giovani contesse adornate di gioielli e delle signorine vestite di seta… Sopra tali fragili creature…
+
+“Gli giovani uccelli appena spiumati… la direttrice li avvolse nella sua più gentile protezione.”
+
+Di [[Night|notte]], andava al loro capezzale per rimboccarli delicatamente nelle coperte; era dopo.
+
+In [[Winter|inverno]], li guardava per assicurarsi che avessero sempre un posto comodo su cui sedersi.
+
+#Accanto al camino; erano loro che, a turno, venivano chiamati nel salone…
+
+Ottenere una piccola porzione di torta o frutta… sedersi su uno sgabello ai piedi…
+
+Accanto al fuoco, per godere dei comfort della [[Home|casa]], e quasi della libertà che solo la [[Home|casa]] può offrire.
+
+“Una serata insieme: parole dolci e gentili, conforto…”
+
+Incoraggiata, coccolata… e quando arrivava l’ora di andare a letto, congedata con un bacio.
+
+Di vera tenerezza. Per quanto riguarda [[Julia]] e Georgiana G----, figlie di un.
+
+# Barone inglese e la signorina Mathilde de ----, erede di un belga
+
+“Conto… e altri bambini di nobile origine: la direttrice…”
+
+“Circa loro come circa gli altri, ansioso per il loro progresso, proprio come…”
+
+Il titolo del resto… ma mai le venne in mente di fare distinzioni.
+
+Li preferì su tutti gli altri; amava una ragazza di nobile [[Blood|origine]].
+
+Cara… una giovane baronessa irlandese… Lady Catherine… Ma era per lei.
+
+Cuore appassionato e mente intelligente: per la sua generosità e il suo genio.
+
+Il titolo e il rango non valsero nulla.
+
+Le mie pomeriggi erano trascorse anche all’università, ad eccezione di un’ora…
+
+Il denaro che mia moglie chiedeva quotidianamente a me per le sue esigenze quotidiane…
+
+Non voleva accontentarmi. Disse che dovevo trascorrere quel [[Time|tempo]] insieme a lei.
+
+Titolo:  
+Gli alunni devono imparare i loro caratteri, essere ben informati su tutto ciò che…
+
+Stava passando per quella [[house|casa]], interessata a ciò che la attirava.
+
+“Essere in grado di fornirle il mio parere su questioni complesse quando ne ha bisogno.”
+
+E questo faceva costantemente: non permetteva mai che il mio interesse per le studentesse si sviluppasse.
+
+Per addormentarsi… e senza mai apportare cambiamenti di rilievo.
+
+# La mia conoscenza e il mio consenso. Le piaceva sedersi accanto a me quando io…
+
+Lezioni… Lezioni di letteratura… Le sue mani incrociate sulle ginocchia… La cosa più importante…
+
+Sempre attenta a ciò che accadeva intorno a lei… Raramente mi rivolgeva la parola durante le lezioni; quando lo faceva, era per motivi specifici…
+
+“Lo fece con un atteggiamento di profonda deferenza; per lei fu un piacere…”
+
+La gioia di essere ancora il padrone di tutte le cose.
+
+Alle sei di [[Clock|ore]] del pomeriggio, le mie quotidiane faccende terminavano. A quel punto tornavo a [[Home|casa]], perché.
+
+La mia [[Home|casa]] era il mio paradiso; in quei momenti, ogni volta che entravo nella nostra stanza privata.
+
+#Salotto… La direttrice scomparve davanti ai miei occhi…
+
+[[Frances Henri]], la mia piccola riparatrice di merletti, fu magicamente restituita a me.
+
+Armi… Sarebbe stata molto delusa se il suo padrone non fosse stato lì.
+
+Titolo:  
+Altrettanto fedele all’appuntamento quanto lei stessa… se il suo bacio sincero non fosse stato…
+
+#“Buonasera, signore” – pronto a risponderle con gentilezza.
+
+“Parlami in francese”, diceva… E molte punizioni ha dovuto subire per questo.
+
+La sua testardaggine. Temo che la scelta del castigo debba essere stata.
+
+# Inappropriato, poiché invece di correggere l’errore, sembrava incoraggiarlo.
+
+La sua rinascita. Le nostre serate appartenevano solo a noi; quel momento di svago era necessario.
+
+#Rinfreschiamo le nostre forze per adempiere correttamente ai nostri doveri; a volte…
+
+Li ho spesi tutti in conversazioni… E la mia giovane genevese, ora che era…
+
+Del tutto abituata al suo professore di inglese… ora che lo amava.
+
+Così assolutamente sicuro di lui da non temerlo affatto, riponeva in lui una fiducia tale.
+
+# Conversazioni senza limiti
+
+Titolo:  
+Più che oggetti di comunione con il proprio cuore… In quei momenti, felici.
+
+Come un uccello con il proprio compagno, mi mostrava tutta la sua vivacità…
+
+Allegria, originalità nella sua [[Well|>natura]] ben dotata. Lei sapeva anche mostrare.
+
+Alcuni commenti sarcastici, pieni di “malizia”, mi infastidivano, mi prendevano in giro e mi irritavano.
+
+A volte si parlava di quelle che lei definiva le mie “stranezze inglesi”, i miei capricci…
+
+“Gli isolani”, con una malvagità selvaggia e spiritosa che lo rendeva perfetto…
+
+#Demone di lei, per tutto il tempo che durò… Questo, tuttavia, era raro; e l’aspetto elfico di quella creatura rendeva la scena ancora più strana.
+
+Il titolo originale è piuttosto lungo, ma possiamo cercare di renderlo più conciso mantenendo il senso originale. Ecco una possibile traduzione: “Freak era sempre stato un uomo timido
+
+# parole che esprimevano perfettamente il senso, l’essenza, il punto essenziale…
+
+La raffinatezza del suo francese nativo, lingua nella quale scriveva sempre con grande maestria
+
+# Mi rivolgevo sempre contro di lei con la mia vecchia decisione, e cercavo di fermarla fisicamente…
+
+“La folletta che mi prendeva in giro… Un’idea vana! Non appena riuscivo ad afferrare la sua mano o il suo braccio…”
+
+#Il sorriso provocatorio scomparve, lasciando il posto a un’espressione più seria…
+
+# Occhi marroni… e un raggio di dolce rispetto brillava sotto le palpebre…
+
+# Un semplice folletto fastidioso… e invece ho trovato qualcosa di molto più docile.
+
+“Una piccola donna mortale che mi supplica tra le braccia… Poi le ho fatto prendere un libro.”
+
+# E mi leggeva inglese per un’ora come forma di penitenza… Spesso lo faceva anche più volte al giorno.
 
 
 
@@ -34775,6 +46394,187 @@ Crimsworth’s wife eight years, and what is he in my eyes? Is he
 
 honourable, beloved ----?” She stopped, her voice was cut off, her eyes
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Con Wordsworth, lei trovò conforto in questo modo, e presto Wordsworth la rassicurò…”
+
+Aveva difficoltà a comprendere la sua mente profonda, serena e sobria…
+
+Anche la lingua non le risultava facile da utilizzare; doveva porsi domande e cercare spiegazioni.
+
+Per le spiegazioni, comportarsi come un [[Child|>bambino]] o un principiante, e riconoscere i fatti.
+
+#Io come suo superiore e direttore… Il suo istinto agì immediatamente.
+
+#Possed il significato di scrittori più appassionati e fantasiosi… Byron
+
+La eccitava… Scott era l’uomo che amava… Ma Wordsworth la lasciava perplessa, la faceva riflettere…
+
+Finì, ma esitò a esprimere un parere al riguardo.
+
+Ma che mi leggesse o che parlasse con me; che scherzasse con me…
+
+In francese, o mi pregò in inglese… Che stesse scherzando con arguzia, o…
+
+O chiesto con rispetto; raccontato con interesse, o ascoltato con attenzione…
+
+Attenzione: che mi sorridesse a me o a qualcos’altro, sempre alle nove in punto.
+
+Fu abbandonata. Si liberò dalle mie braccia e se ne andò.
+
+“Prendi la sua lampada e vattene… La sua missione è al piano di sopra; io resto qui.”
+
+La seguiva a volte e la osservava. Prima di tutto, aprì la porta…
+
+Dormitorio: silenziosamente si muoveva lungo la stanza.
+
+#Tra le due file di letti bianchi, osservò tutti i dormienti… se ce n’era qualcuno.
+
+“Erano svegli, soprattutto se qualcuno di loro era triste; parlavano con loro e li consolavano.”
+
+#Li osservò per alcuni minuti, per assicurarsi che tutto fosse sicuro e tranquillo.
+
+Spense la lampada da tavolo che rimaneva accesa nell'appartamento per tutta la [[Night|notte]], poi.
+
+Si ritirò, chiudendo la porta silenziosamente alle sue spalle. Poi scomparve senza fare rumore.
+
+“Nella nostra stanza… c’era un piccolo armadietto… Era quello che cercava.”
+
+Lì, anche, c’era un letto… ma uno solo, e per di più molto piccolo; il suo viso…
+
+(La [[Night|notte]] in cui l'ho seguita e osservata) cambiò non appena si avvicinò a questo luogo.
+
+Un piccolo divano. Dalla[[Grave|gravità]] iniziale, l’atmosfera divenne più sincera e affettuosa; lei si schermò con una mano.
+
+#La lampada che teneva nell’altra mano; si chinò sopra il cuscino e la appese…
+
+Su un [[Child|>bambino]] addormentato, il suo sonno (almeno quella sera, e di solito, ).
+
+“Credo che fosse sana e calma; nessuna lacrima bagnava le sue ciglia scure; non aveva febbre.”
+
+Il suo viso rotondo si arrossì; nessun brutto sogno alterava i suoi tratti ancora giovani e incipienti.
+
+# Frances guardava, non sorrideva, eppure la più profonda gioia la riempiva…
+
+Il viso le si arrossì; si sentiva felice, potente… quella sensazione pervadeva tutto il suo essere.
+
+“La cornice… che però rimaneva immobile. Vidi davvero il suo cuore battere forte…”
+
+Le labbra erano leggermente separate, il suo respiro diventava sempre più affannoso; il [[Child|bambino]].
+
+Sorrise; poi finalmente anche la madre sorrise e mormorò tra sé…
+
+“Che Dio benedica mio piccolo figlio!” Si chinò ancora di più su di lui e sussurrò…
+
+Il bacio più dolce sulla sua fronte… Lei posò la propria mano sulla sua, così piccola…
+
+Finalmente si è avviato e se n’è andato. Sono riuscito a raggiungere la sala prima di lei.
+
+“Entrandoci due minuti dopo, disse sottovoce mentre posava…”
+
+Lampada spenta–
+
+“Victor riposa bene: ha sorriso nel suo [[Sleep|sonno]]; ha il tuo stesso sorriso, ”
+
+“Monsieur…”
+
+Il suddetto Victor era naturalmente suo figlio, nato nel terzo anno…
+
+Il nostro [[Marriage|matrimonio]]: il suo nome cristiano gli fu dato in [[Honour|onore]] di M.
+
+Vandenhuten, che è sempre stato il nostro fedele e molto amato amico.
+
+# Frances era allora una moglie buona e cara per me, perché anch’io ero per lei…
+
+Buon, giusto e fedele marito… Che tipo di donna sarebbe diventata se solo…
+
+Sposata un uomo duro, invidioso e negligente… un dissipatore, un spendaccione.
+
+Un ubriaco, o un [[Tyrant|tiranno]], è un’altra questione, e una di quelle su cui ho riflettuto in passato.
+
+Le fu proposto un certo suggerimento. Dopo averci riflettuto per un po’, la sua risposta fu…
+
+#Avrei dovuto provare ad affrontare quel male o cercare di curarlo, almeno per un po’… E poi…
+
+Lo trovavo intollerabile e incurabile… Avrei dovuto lasciare il mio “tormentatore”.
+
+“Improvvisamente e silenziosamente.”
+
+E se la legge o la forza vi avessero costretti a tornare indietro?
+
+“Che cosa rappresenta, per un ubriacone, un dissoluto, un spendaccione egoista, una persona ingiusta…”
+
+“Un [[Fool|idiota]]?”
+
+“Sì, davvero.”
+
+Titolo:  
+“Avrei tornato indietro… per assicurarmi ancora una volta se il suo vizio…”
+
+“E se non fosse stato possibile alleviare la mia sofferenza, l’avrei lasciato di nuovo.”
+
+#E se ancora fossimo costretti a tornare e ad rimanere lì?
+
+“Non lo so”, disse lei in fretta. “Perché mi chiedete questo, signore?”
+
+# Un’osservazione strana…
+
+Un occhio, il cui suono decisi di risvegliare.
+
+“Signore, se la natura di una moglie detesta quella dell’uomo con cui è sposata, ”
+
+Il [[Marriage|matrimonio]] deve essere considerato una forma di [[Slavery|)schiavitù]]. Tutti i pensatori onesti si ribellano contro la [[Slavery|)schiavitù]], e.
+
+“Anche se la tortura sia il prezzo della resistenza, bisogna osare affrontarla… anche se…”
+
+L’unico [[Road|percorso]] verso la [[Freedom|libertà]] passa attraverso le porte della [[Death|)morte]], quelle porte.
+
+Deve essere attuato; perché la [[Freedom|libertà]] è indispensabile. Allora, signore, io.
+
+Resistere finché le mie forze lo permettono; quando queste forze si esauriscono…
+
+Dovrei assicurarmi di trovare un rifugio. La [[Death|Morte]] sicuramente mi proteggerebbe da entrambi.
+
+“Leggi cattive e le loro conseguenze”.
+
+“Morte volontaria, Frances?”
+
+“No, signore. Avrei il [[Courage|coraggio]] di affrontare ogni tormento che il destino potesse infliggermi.”
+
+Mi è stato affidato il compito di lottare per la giustizia e la libertà…
+
+“L’ultimo…”
+
+“Vedo che non avreste mai fatto pazienza con Grizzle… E ora, supponiamo che il destino…”
+
+#Che cosa succederebbe se vi fosse stato assegnato il destino di una zitella? Come reagireste?
+
+“Hanno mai apprezzato la castità?”
+
+“Niente di particolare, certamente. La vita di una zitella deve essere sicuramente vuota e… monotona.”
+
+“Vapid… il suo cuore era teso e vuoto. Se solo fossi stata una zitella…”
+
+#Hanno trascorso tutta la loro esistenza nel tentativo di colmare il vuoto e alleviare quel dolore.
+
+#Avrebbe probabilmente dovuto fallire, morire stanco e deluso, disprezzato…
+
+“E non conto assolutamente nulla, come tutte le altre donne single… Ma non sono una zitella.”
+
+“Avrei dovuto farlo, in effetti… ma per via del mio padrone”, aggiunse rapidamente.
+
+# Mai adatto a nessun altro uomo se non al Professore Crimsworth…
+
+Un gentiluomo, francese, inglese o belga, avrebbe pensato che fossi affabile…
+
+Attraente. E dubito che mi sarebbe importato davvero dell’approvazione altrui.
+
+Di molti altri, se solo fossi riuscito ad ottenerlo… Ora sono diventato professore.
+
+“La moglie di Crimsworth… otto anni insieme… E cosa rappresenta per me? Che ruolo ha nella mia vita?”
+
+“Onorevole… amato…” Si fermò, la voce le si spezzò, gli occhi…
 
 
 
@@ -35324,6 +47124,194 @@ dim light you give?”
 “Will you, monsieur?”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Quando Hunsden rimane [[Alone|da solo]] nel Bosco (cosa che accade raramente), lui.
+
+Di solito va due o tre volte a settimana in Daisy Lane. Lui…
+
+# Un movente filantropico per venire a fumare il suo sigaro sul nostro portico…
+
+Le sere d’[[Summer|estate]]; dice che lo fa per uccidere le cavallette tra i.
+
+Rose, con cui gli [[Insects|—insetti]] si nutrono. Ma grazie alle sue benefiche fumigazioni, lui.
+
+#Ci suggerisce che sicuramente verremo sopraffatti… Anche nei giorni di pioggia, siamo esposti al rischio.
+
+Sono quasi sicuro di vederlo; secondo lui, è arrivato il momento di mettersi al lavoro.
+
+Mi porterebbe alla follia se calpestasse i miei “punti dolenti” mentali, o forse costringerebbe la signora a farlo.
+
+Le rivelazioni di Crimsworth sul drago nascosto in lei, offendendo la sua [[Memory|memoria]].
+
+Di Hofer e Tell.
+
+# Andiamo spesso anche a Hunsden Wood, e sia io che Frances ne traiamo grande piacere
+
+Visitate assolutamente quel posto. Se ci sono altri ospiti, anche i loro caratteri…
+
+# Un’interessante ricerca: la loro conversazione è emozionante e strana…
+
+Assenza di ogni tipo di limitazione o pregiudizio, sia nel soggetto che nella società da lui scelta
+
+Dona una libertà metropolitana, quasi cosmopolita, e un senso di ampiezza alla.
+
+Parlare. Lo stesso Hunsden è un uomo gentile nella sua stessa [[house|casa]]; quando.
+
+#Un potere inesauribile per intrattenere gli ospiti…
+
+#Una dimora davvero affascinante… Le stanze sembrano raccontare storie antiche…
+
+#Passaggi leggendari: le stanze dal soffitto basso, con le loro lunghe file di…
+
+Griglie di vetro incorniciate da diamanti, che emanano un’atmosfera antica e sinistra… Nei suoi viaggi…
+
+Ha raccolto un gran numero di articoli legati alla VIRTÙ, che sono davvero [[Well|ottimi]].
+
+Disposti con gusto nelle sue stanze rivestite di pannelli o tappezzerie: li ho visti.
+
+Ci sono una o due immagini, e una o due sculture che molti…
+
+Un intenditore aristocratico avrebbe potuto invidiarlo.
+
+# Quando io e Frances abbiamo cenato e trascorso la serata con Hunsden, lui…
+
+Spesso torna a [[Home|>casa]] con noi. È molto alto, e alcuni dei suoi tronchi.
+
+Il titolo è vecchio e presenta una crescita enorme; al suo interno ci sono sentieri tortuosi che, se percorrenti…
+
+“Attraverso boschi e sentieri, il cammino di ritorno verso Daisy Lane diventa… un po’ particolare.”
+
+Un periodo lungo. Molte volte, quando abbiamo avuto la fortuna di vedere una luna piena.
+
+E quando la [[Night|notte]] è mite e dolce, quando, inoltre, c'è una certa.
+
+Il [[Nightingale|usignolo]] ha continuato a cantare, e un certo ruscello, nascosto tra gli ontani, ha.
+
+Diede alla [[Song|canzone]] un accompagnamento dolce e sommesso; il lontano suono della campana della chiesa.
+
+[[Hamlet|borgo]] situato in un distretto di dieci miglia, aveva già suonato mezzanotte prima ancora che il signore del.
+
+Il legno ci lasciò davanti al portico… In quelle ore, il suo discorso era fluido e senza pause.
+
+E molto più tranquillo e gentile che durante il giorno, prima dell’arrivo dei numeri.
+
+# Si dimenticava allora di politica e di discussioni, e si concentrava soltanto su…
+
+I tempi passati della sua [[house|casa]], sulla storia della sua famiglia, su se stesso e sulle sue origini.
+
+#Sentimenti… argomenti tutti carichi di un’energia particolare, perché…
+
+Erano tutti unici, senza eccezione. Una meravigliosa [[Night|notte]] di giugno, dopo che.
+
+Lo prendevano in giro riguardo alla sua ideale sposa, chiedendogli quando sarebbe arrivata…
+
+“Come se si potesse innestare la sua bellezza straniera sull’antico quercio degli Hunsden, ” rispose.
+
+# Improvvisamente...
+
+“La chiami ideale; ma guarda, ecco la sua [[Shadow|ombra]]; e non può esserci alcuna, ”.
+
+“Una [[Shadow|ombra]] senza alcuna sostanza reale.”
+
+# Ci aveva guidato fuori dalle profondità di quel sentiero tortuoso in una radura…
+
+# Da dove si ritirarono i faggi, lasciandolo aperto al cielo; sereno e senza nuvole
+
+La [[Moon|luna]] riversava la sua luce in questa radura, e Hunsden rimase lì sotto di essa.
+
+Inviare una miniatura d’avorio.
+
+# Frances lo esaminò con avidità, poi lo passò a…
+
+#Avvicinando ancora di più il suo visino al mio, cercando…
+
+“Nel mio modo di vedere, quel ritratto rappresentava…”
+
+Un viso femminile molto attraente e dall’aspetto unico… proprio come lui aveva descritto.
+
+“Tratti dritti e armoniosi”, si disse. Era buio; i capelli…
+
+# Nero come la notte, non solo radiato dalla fronte, ma anche dalle tempie… sembrava
+
+Scartata via con noncuranza, come se tale [[Beauty|bellezza]] non avesse alcun valore, anzi.
+
+#Un accordo disprezzato. Lo sguardo italiano ti fissava dritto negli occhi…
+
+Un sguardo indipendente e deciso; una bocca ferma e ben definita…
+
+# Lucia… sulla parte posteriore della miniatura era inciso in oro il nome “Lucia”.
+
+“È davvero una testa,” fu la mia conclusione.
+
+Hunsden sorrise.
+
+“Credo di sì,” rispose. “Tutto ciò che è accaduto con Lucia era reale.”
+
+“E lei era una donna che avresti voluto sposare… ma non potevi.”
+
+"Certamente avrei voluto sposarla, ma non l’ho fatto."
+
+“È la prova che non ci sono riuscito.”
+
+#Riprese in possesso la miniatura, che ora era di nuovo nelle mani di Frances…
+
+Mettilo via.
+
+“Che ne pensi tu?” le chiese riguardo al argomento, mentre si abbottonava il cappotto.
+
+Finito.
+
+“Sono sicuro che un tempo Lucia abbia indossato delle [[Chains|catene]] e poi le abbia rotte,” disse quella strana persona.
+
+Risposta: “Non intendo parlare delle [[Chains|catene]] matrimoniali”, aggiunse, correggendo il proprio errore.
+
+Si spiegò lei stessa, come se temesse possibili fraintendimenti: “ma le catene sociali di alcuni, ”
+
+# Un volto che testimonia uno sforzo e un successo
+
+# Un sforzo coraggioso e vittorioso per strappare via una capacità preziosa e vitale…
+
+“Costrizione insopportabile… E quando le capacità mentali di Lucia furono finalmente libere…”
+
+“Certamente, le sue ali si spiegarono ampiamente e la sollevarono ancora più in alto…” lei
+
+Esitò.
+
+“Allora cosa?” chiese Hunsden.
+
+“Più di quanto le ‘convenienze’ vi permettessero di fare…”
+
+“Penso che tu diventi sempre più malvagio e irrispettoso…”
+
+“Lucia è già salita sul palco”, continuò Frances. “Non lo avete mai preso seriamente…”
+
+Avevo pensato di sposarla… Ammiravo la sua originalità, il suo coraggio.
+
+La sua energia, sia fisica che mentale; ti deliziava il suo talento, qualunque esso fosse.
+
+Che si trattasse di una [[Song|canzone]], di una [[Dance|danza]] o di un'interpretazione drammatica, la veneravate.
+
+Una [[Beauty|bellezza]] che fosse proprio del tuo gusto. Ma sono sicuro che lei.
+
+#Riempì una sfera da cui non avresti mai pensato di estrarre nulla
+
+“Moglie”.
+
+“Ingegnoso,” commentò Hunsden; “se sia vero o meno, è un’altra questione.”
+
+“Mentre tutto questo accade, non ti sembra che la tua ‘piccola lampada’ interiore diventi sempre più pallida?”
+
+“Accanto a una figura incantevole come Lucia…”
+
+“Sì, davvero.”
+
+“Almeno onesto; e [[The Professor|il Professore]] presto si renderà insoddisfatto, ”
+
+“Luce fioca… che offri?”
+
+“Lo farà, signore?”
+
 
 
 <span class="atom-split" data-atom="chapter_26--part_07" data-title="The Professor — Chapter 25 (part 7)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/child,motif/animals,motif/garden,motif/home,motif/love,motif/night,motif/pain,motif/summer,motif/time,motif/window,concept/fear,concept/wonder"></span>
@@ -35503,6 +47491,185 @@ again what she had said about Yorke having suffered no [[Pain|pain]], and my not
 
 being cruel; the balmy words being repeated, he again pillowed his cheek
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“La mia vista è sempre stata troppo debole per sopportare le fiamme, Frances…”, e così dicemmo.
+
+Ora aveva raggiunto la porta di battuta.
+
+Ho detto, alcune pagine fa, che questa è una dolce serata estiva.
+
+# Giorni meravigliosi… e questo è il più bello di tutti.
+
+“L’erba appena mietuta è stata portata via dai miei campi; il suo profumo persiste ancora nell’aria…”
+
+# Un momento fa… Frances mi ha proposto di andare a prendere il tè insieme.
+
+# Sul prato; vedo il tavolo rotondo, carico di porcellane, posizionato sotto…
+
+# Una certa quercia… Si aspetta Hunsden… Anzi, ho sentito che è già arrivato… Ecco lui.
+
+Voce che, con autorità, stabilisce delle regole su un certo argomento; quella di Frances
+
+Risposte: ovviamente si oppone a lui. Stanno discutendo riguardo a Victor.
+
+Di cui Hunsden afferma che sua madre sta preparando un piatto a base di latte e verdure. La signora.
+
+#Crimsworth si vendica:--
+
+“Meglio mille volte che sia un codardo piuttosto che… Hunsden.”
+
+Titolo:  
+Lo definisce “un bravo ragazzo”; inoltre, afferma che se Hunsden dovesse diventare…
+
+Un elemento stabile del quartiere… e non semplicemente una cometa che appare e scompare.
+
+# Andando… nessuno sa come, quando, dove o perché, ma lei dovrebbe sentirsi piuttosto a disagio.
+
+Fino a quando non ebbe portato Victor in una scuola situata almeno a cento miglia di distanza…
+
+Perché con le sue massime ribelli e i suoi dogmi impraticabili, avrebbe rovinato tutto.
+
+“Una dozzina di bambini.”
+
+#Una parola su Victor prima di chiudere questo manoscritto…
+
+#Cassettiera… ma deve essere un titolo breve, perché sento il tintinnio dell’argento…
+
+Porcellana.
+
+Victor non è affatto un bel [[Child|>bambino]], proprio come io non sono affatto un uomo attraente, o almeno, non per lui.
+
+# Madre di una donna nobile; è pallido e snello, con occhi grandi e scuri
+
+“Come quelli di Frances, e altrettanto profondamente radicati nei miei… La sua forma è simmetrica.”
+
+Abbastanza, ma solo leggermente; la sua salute è buona. Non ho mai visto un [[Child|>bambino]] sorridere così poco.
+
+# Nessuno come lui, né chi possa increspare la fronte in quel modo quando si concentra…
+
+Un libro che lo interessa, o mentre ascolta storie d’avventura…
+
+Pericoli, o [[Wonder|misteri]], raccontati da sua madre, Hunsden, o da me stesso. Ma.
+
+“Anche se è serio, non è triste; ha…”
+
+Titolo:  
+Una sensibilità alle sensazioni piacevoli quasi eccessiva…
+
+# Con passione e dedizione. Imparò a leggere nel modo tradizionale, grazie a…
+
+Con il dizionario di ortografia sulle ginocchia di sua madre, iniziò a studiare senza alcuna difficoltà.
+
+Con quel metodo, pensò che non fosse necessario comprargli lettere d’avorio, o…
+
+Prova ora qualsiasi altro mezzo di stimolo all’apprendimento che oggi sia considerato indispensabile.
+
+Quando imparò a leggere, divenne un appassionato di libri, e lo è ancora oggi.
+
+I suoi giocattoli sono sempre stati pochi, e lui non ne ha mai desiderati di più. Per quelli che aveva…
+
+# Possied… sembra aver sviluppato una particolare predilezione per…
+
+Affetto: questo sentimento, rivolto verso uno o due animali viventi.
+
+La [[house|casa]] si rafforza, quasi fino a diventare una passione.
+
+# Il signor Hunsden gli regalò un cucciolo di mastino, che chiamò Yorke…
+
+Donatore: è cresciuto fino a diventare un cane straordinario, ma la sua ferocia… era davvero notevole.
+
+Modificato dalla compagnia e dalle carezze del suo giovane padrone… Lui lo avrebbe fatto.
+
+“Non va da nessuna parte, non fa nulla senza Yorke; Yorke è ai suoi piedi mentre lui…”
+
+Imparò le sue lezioni, giocò con lui nel [[Garden|giardino]], camminò con lui.
+
+#Il sentiero e il bosco… seduta vicino alla sua sedia durante i pasti, era sempre lei ad alimentarlo.
+
+Con le proprie mani… Era la prima cosa che cercava al mattino, l’ultima che lasciava prima di andarsene.
+
+Di [[Night|notte]], un giorno Yorke accompagnò il signor Hunsden a X---- e venne morso.
+
+#In mezzo alla strada, accanto a un cane in preda alla rabbia… Non appena Hunsden lo portò lì…
+
+Rientrato a [[Home|casa]] e informato della situazione, sono andato nel cortile.
+
+E lo colpì proprio lì dove giaceva, leccandosi la ferita: morì all’istante.
+
+Non aveva visto che avevo puntato l’arma; stavo dietro di lui. Appena…
+
+Erano passati dieci minuti dentro la [[house|casa]], quando i miei orecchi furono colpiti da suoni.
+
+Angoscia. Tornai ancora nel cortile, perché loro proseguivano da quella parte.
+
+#Il cane morto di Victor
+
+Col collo robusto come quello di un toro, immerso in una passione di dolore selvaggio, mi vide.
+
+“Oh, papà, non ti perdonerò mai! Non ti perdonerò mai!” fu ciò che disse.
+
+Esclamazione: “Hai sparato a Yorke. L’ho visto dalla [[Window|finestra]]! Non ci avrei mai creduto.”
+
+Potresti essere così crudele. Non riesco più a [[Love|amarti]]!”
+
+#Con molta fatica riuscii a spiegargli, con voce ferma, quanto fosse grave la situazione
+
+"Necessità dell'atto; lui ancora, con quella consolazione impossibile e amara..."
+
+“Quell’accento che non riesco a riprodurre, ma che penetrò nel mio cuore… continuava a ripetersi…”
+
+“Avrebbe potuto essere curato… Avresti dovuto provare… Avresti dovuto fare di più.”
+
+La ferita veniva trattata con un ferro rovente o coperta con sostanze caustiche. Non hai dato alcun [[Time|tempo]].
+
+“E ora è troppo tardi… È morto!”
+
+# Si adagiò pesantemente su quel corpo inanimato; aspettai pazientemente per molto tempo.
+
+#Finché il suo dolore non lo aveva completamente esaurito; e poi lo aiutai ad alzarsi
+
+Nelle mie braccia, lo portai da sua madre, convinto che lei lo avrebbe consolato.
+
+Fare il meglio per lui. Aveva assistito a tutta la scena da una [[Window|finestra]]; non avrebbe mai permesso che gli accadesse nulla di male.
+
+Esitava a confessare per paura di aumentare le mie difficoltà con le sue emozioni, ma lei.
+
+Era pronta ora ad accoglierlo. Lo accolse nel suo cuore gentile e…
+
+# Nel suo dolce grembo; lo consolò con le sue labbra, i suoi occhi, la sua tenerezza…
+
+Abbracciarlo, per un po'; poi, quando i suoi singhiozzi si calmarono, gli disse.
+
+Che Yorke non avesse provato alcun [[Pain|dolore]] morendo, e che se gli fosse stato permesso di.
+
+Scadere naturalmente… la sua fine sarebbe stata terribile; soprattutto, lei…
+
+Gli dissi che non ero crudele… perché quell’idea sembrava implicare qualcosa di davvero squisito.
+
+La [[Pain|dolore]] per povero Victor. Fu il mio affetto per Yorke e lui che.
+
+# Il comportamento di lui mi ha costretto ad agire in quel modo… Ora sono quasi distrutto nel vederlo.
+
+Piangi così amaramente.
+
+# Victor non sarebbe stato un vero figlio di suo padre, se queste cose…
+
+#Considerazioni… ragioni così dolci e sussurrate…
+
+Titolo:  
+Un tono… sposato a carezze così dolci, così tenere… e a sguardi così pieni di ispirazione.
+
+#Con compassione e simpatia… ma nulla ebbe effetto su di lui. Quelle azioni, invece, produssero…
+
+Effetto: divenne più tranquillo, appoggiò il viso sulla sua spalla e rimase fermo.
+
+Nelle sue braccia. Alzando lo sguardo per un momento, le chiese di raccontargli tutto.
+
+Di nuovo, ciò che aveva detto riguardo al fatto che Yorke non avesse provato alcun [[Pain|dolore]], e io no.
+
+# Essere crudeli… Mentre quelle parole dolci venivano ripetute, appoggiò di nuovo la guancia su di esse.
 
 
 
@@ -35696,3 +47863,197 @@ lost, Mr. Professor. Now, Monsieur and Madame, if you don’t come to tea,
 Victor and I will begin without you.”
 
 “Papa, come!”
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sul suo petto, e finalmente tornò in pace.
+
+Alcune ore dopo, venne da me nella mia biblioteca e mi chiese se lo perdonassi.
+
+“E desideravano riconciliarsi… Portai il ragazzo al mio fianco, e lì…”
+
+Lo trattenne per un bel po’ e conversò a lungo con lui nel corso di…
+
+Titolo:  
+In cui espresse molti dei suoi sentimenti e pensieri che approvavo…
+
+“Mio figlio… Devo ammettere che ho trovato pochi elementi di quel ‘bravo ragazzo’ in lui…”
+
+“Un bravo ragazzo” in lui… ma poche tracce di quel spirito che ama brillare.
+
+#Sopra il calice di vino… o ciò che accende le passioni fino al punto della distruzione
+
+[[Fire|Fuoco]]; ma vidi nel terreno del suo cuore germi sani e rigogliosi.
+
+Di compassione, affetto, fedeltà. Ne scoprii l’esistenza nel “giardino” del suo cuore.
+
+# Intelligenza: una ricca crescita di principi salutari – ragione, giustizia, morale
+
+Il [[Courage|coraggio]], se non distrutto, prometteva un futuro fruttuoso. Così lo donai.
+
+La sua fronte ampia, e sulla sua guancia – ancora pallida per le [[Tears|lacrime]] – un’espressione di orgoglio.
+
+Un bacio di conforto, e lo lasciò andare sereno… Ma lo rividi il giorno dopo.
+
+# Sepolto sotto la collina dove era stato sepolto Yorke, con il viso coperto
+
+Con le sue mani. Fu [[Melancholy|malinconico]] per diverse settimane, e per più di un anno.
+
+Trascorse del tempo prima che fosse disposto ad ascoltare qualsiasi proposta riguardante l’acquisto di un altro cane.
+
+#Vittor impara in fretta… Presto dovrà andare a Eton, dove, sospetto, farà la sua prima…
+
+“Un anno o due saranno un vero inferno: abbandonarmi, lasciare me, sua madre, e lui…”
+
+[[Home|Casa]], strapperà il cuore con un dolore acuto; poi, le fatiche non saranno più sopportabili.
+
+Adattarsi a lui, ma anche l’imitazione, la sete di conoscenza, la gloria del [[success|riscatto]].
+
+Lo stimolerà e lo ricompenserà nel [[Time|tempo]] giusto. Nel frattempo, sento dentro di me una forte.
+
+“Repulsione all’idea di fissare un orario che potrebbe distruggere l’unica cosa che mi rimane…”
+
+“Trasferitelo lontano da me; e quando parlo di questo argomento con Frances…”
+
+Vengo ascoltato con una sorta di paziente [[Pain|dolore]], come se accennassi a qualcosa.
+
+Un'operazione spaventosa, di fronte alla quale la sua [[Nature|>natura]] trema, ma dalla quale lei.
+
+La forza d’animo non le permetterà di arretrare… Ma quel passo deve comunque essere fatto.
+
+#Prenduto, e così sarà… perché sebbene Frances non intenda diventare una donnetta debole e piagnucolosa…
+
+Il suo figlio: lei lo abituerà a un certo modo di comportarsi, a una certa tolleranza…
+
+Una tenerezza affettuosa e sincera… che non troverà in nessun altro. Lei lo percepisce così.
+
+# Un certo ardore nel carattere di Victor… una sorta di passione intensa
+
+# Potere e minaccia… che, di tanto in tanto, emette scintille sinistre; Hunsden la chiama così
+
+#Il lievito del suo spirito
+
+# L’Adam colpevole… e bisognerebbe proprio “spazzarlo via”
+
+Titolo:  
+Almeno ben disciplinato… e che sarà economico con i soldi.
+
+Qualsiasi quantità di [[Suffering|sofferenza]] fisica o mentale che possa farlo cadere in preda alla disperazione.
+
+Radicalmente avanzata nell’arte del [[Self|autocontrollo]]. Frances contribuisce in modo significativo a questo sviluppo.
+
+Il carattere distintivo di suo figlio… senza nome; ma quando emerge nel contesto della lotta quotidiana…
+
+# Nel bagliore dei suoi denti, nello scintillio dei suoi occhi, nella furiosa ribellione del…
+
+# Sentimenti contro la delusione, la sfortuna, il dolore improvviso o ciò che si ritiene tale
+
+#"Ingiustizia… Lo stringe al petto o lo porta con sé a passeggiare."
+
+[[Alone|sola]] nel bosco; poi discute con lui come farebbe qualsiasi filosofo.
+
+“Per ragionare con Victor è sempre possibile… Allora lo guarda con occhi pieni di…”
+
+[[Love|Amore]], ed è attraverso l’[[Love|amore]] che Victor può essere inevitabilmente sottomesso; ma la ragione.
+
+O forse l’[[Love|amore]] sarà l’arma con cui, in futuro, il mondo affronterà i suoi problemi.
+
+Violenza? Oh, no… Per quel lampo nel suo occhio nero… Per quella nuvola che appare nel suo sguardo…
+
+#La sua fronte spigolosa… per quella stretta delle sue labbra scultoree, quel ragazzo…
+
+Un giorno riceverai colpi invece di lusinghe… calci invece di baci.
+
+Poi, per un attacco di furia silenziosa che avrebbe reso malato il suo [[Body|-corpo]] e lo avrebbe fatto impazzire.
+
+la sua [[Soul|'anima]]; poi, per l'ardore di sofferenze meritate e benefiche, provenienti da.
+
+Credo che in futuro diventerà un uomo più saggio e migliore.
+
+Ora lo vedo: sta accanto a Hunsden, che è seduto sull’erba…
+
+Titolo:  
+Il faggio… La mano di Hunsden si posa sul colletto del ragazzo, e lui gli insegna qualcosa…
+
+Dio solo sa quali principi gli siano stati inculcati nelle orecchie. Victor sembra stare bene adesso.
+
+# Ascolta con un certo interesse, sorridendo… Mai sembra così se stesso in quei momenti.
+
+“Madre… come quando sorride: peccato che il sole splenda così raramente…” Victor
+
+# Preferenza per Hunsden, forte e decisa quanto ritengo desiderabile…
+
+# Molto più potente, deciso e senza distinzioni di sorta rispetto a qualsiasi altro io abbia mai utilizzato…
+
+#Divertito personalmente per quella figura… Anche Frances la considera così.
+
+Un’ansia quasi inespressa… mentre suo figlio si appoggia sulle ginocchia di Hunsden.
+
+# Appoggiata al suo braccio, lei si muove in modo irrequieto intorno a lui.
+
+Come una colomba che protegge i suoi piccoli da un falco in volo; dice di desiderare…
+
+# Hunsden aveva dei propri figli, perché allora avrebbe saputo meglio…
+
+Il pericolo derivante dall'incitare il loro [[Pride|orgoglio]] risiede nel lasciarli indulgere nelle loro debolezze.
+
+Frances si avvicina alla finestra della mia biblioteca; mette da parte il gelsomino che.
+
+“Mezza copertina lo rivela, e mi dice che il tè è pronto… Ma visto che continuo ad essere impegnato…”
+
+#Si avvicina silenziosamente alla stanza, si avvicina a me e mi mette la mano sulla…
+
+spalla.
+
+“Monsieur è troppo diligente.”
+
+“Finirò presto.”
+
+# Si avvicina una sedia e si siede ad aspettare che finisca; lei…
+
+La presenza è per la mia mente tanto piacevole quanto il profumo dell’erba fresca appena mietuta…
+
+Fiori piccanti, come il bagliore del sole al tramonto, come la tranquillità della.
+
+La vigilia di mezz'estate è qualcosa di davvero speciale per i miei sensi.
+
+“Ma arriva Hunsden… Sento i suoi passi… Ecco lui, che si avvicina…”
+
+“Griglia”, da cui ha scostato con decisione il legno di gelso.
+
+Disturbando due [[Bees|Api]] e una farfalla.
+
+“Crimsworth! Ascoltate, Crimsworth… Prendetegli quella penna di mano, signora!”
+
+“E fagli alzare la testa.”
+
+“Beh, Hunsden. Ti ascolto, ”
+
+“Ieri ero a X----! Tuo fratello Ned sta diventando sempre più ricco…”
+
+“Croesus: vittima delle speculazioni ferroviarie; nella Sala degli Affari lo chiamano ‘un cervo’…”
+
+# Dieci in tutto; e ho avuto notizie da Brown, da Monsieur e Madame Vandenhuten, e da Jean.
+
+"Baptiste dice che verrà a trovarti il mese prossimo. Menziona anche i Pelets."
+
+Anche lui dice che la loro armonia domestica non sia delle migliori al mondo…
+
+In ambito commerciale, stanno facendo davvero “il meglio possibile”.
+
+“La conclusione a cui arriverà sarà un conforto sufficiente per entrambi, per qualsiasi piccola cosa possa esserci…”
+
+“Interferenze negli affetti… Perché non inviti i Pelet a ----shire?”
+
+“Crimsworth? Mi piacerebbe molto vedere la tua prima fiamma, Zoraide… Signora…”
+
+# Non essere geloso… ma lui amava davvero quella donna fino alla follia; lo so per certo.
+
+#Fatto. Brown dice di pesare ora dodici stone… Vedi cosa hai fatto.
+
+Perso… Signor Professore. Ora, signori e signore, se non venite a prendere il tè…
+
+“Victor e io inizieremo senza di te.”
+
+“Papà, vieni!”
