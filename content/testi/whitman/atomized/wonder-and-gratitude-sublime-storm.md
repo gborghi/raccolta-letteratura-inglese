@@ -29,18 +29,6 @@ But stop and loiter all the [[motifs/time|time]] to sing it in ecstatic songs.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: ISCRIZIONI_  
-
-
-Iniziare i miei studi. Il primo passo mi entusiasmò tantissimo:  
-Il semplice fatto di esistere, queste forme, il potere del movimento.
-Anche l’insetto più piccolo o l’animale più semplice, i sensi, la vista, l’[[motifs/love|amore]].
-Il primo passo mi colpì profondamente e mi riempì di gioia;  
-A malapena avevo iniziato che non desideravo già andare oltre.
-Volevo solo fermarmi e soffermarmi, per cantarlo tutto il tempo, in canti estatici.
-
 
 
 <span class="atom-split" data-atom="071_earth_my_likeness" data-title="Earth, My Likeness" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,topos/book_of_nature,motif/nature,concept/lust,concept/the_body,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -62,19 +50,6 @@ I dare not tell it in words, not even in these songs.
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: CALAMUS_  
-
-
-Terra, mia immagine,  
-sebbene appari così impassiva, vasta e sferica lì.
-Ora sospetto che non sia tutto;  
-sospetto che dentro di te ci sia qualcosa di feroce, pronto a esplodere.
-Perché un atleta è innamorato di me, e io di lui.
-Ma verso di lui, dentro di me, c’è qualcosa di feroce e terribile, pronto a emergere.
-Non oso dirlo a parole, nemmeno in queste canzoni.
 
 
 
@@ -103,26 +78,6 @@ That savage trinity warily watching.
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: SEA-DRIFT_  
-
-
-Selvaggia, selvaggia la [[motifs/storm|tempesta]], e il mare si alza in onde alte;  
-Il ruggito incessante del vento soffia con un sottofondo continuo di mormori;  
-Risate demoniache squarciano l’oscurità, acute e fragorose;  
-Onde, vento, mezzanotte: questa trinità selvaggia colpisce senza pietà;  
-Nelle ombre, strumenti bianchi come latte si muovono rapidamente;  
-Sulla sabbia e sul fango, fiocchi di [[motifs/snow|neve]] cadono con violenza obliqua;  
-Il vento orientale, simbolo della morte, soffia attraverso la nebbia;  
-Tra vortici e spruzzi, avanza con determinazione.
-(Là in lontananza! È un relitto? Il segnale rosso sta lampeggiando?)  
-Fango e sabbia continuano a essere colpiti fino all’alba;  
-Costantemente, lentamente, attraverso il ruggito incessante del vento.
-Lungo il confine della mezzanotte, accanto a quegli strumenti bianchi che si muovono velocemente.
-Un gruppo di forme oscure e misteriose lotta contro la [[motifs/night|notte]].
-Quella trinità selvaggia le osserva con attenzione.
 
 
 
@@ -164,38 +119,6 @@ Be ye my Gods.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Lungo i bordi delle strade_  
-
-
-Amato divino e perfetto, Compagno mio,  
-che attendi con pazienza, invisibile ma certo.
-Sii tu il mio Dio.  
-
-Tu, tu l’Uomo Ideale,  
-bello, capace, meraviglioso, soddisfatto e amorevole,  
-completo nel corpo e ricco di spirito,  
-sii il mio Dio.  
-
-O [[motifs/death|Morte]], (poiché la Vita ha già compiuto il suo dovere),  
-tu che apri e guidi verso la dimora celeste,  
-sii tu il mio Dio.  
-
-Niente, assolutamente niente di ciò che è più potente, migliore, che io possa vedere, immaginare o conoscere,  
-può spezzare questo legame stagnante. Tu, tu devi liberarmi, oh [[motifs/soul|'anima]].
-Sii tu il mio Dio.  
-
-Tutte le grandi idee, le aspirazioni delle razze,  
-tutti gli atti di eroismo, le imprese di appassionati devoti,  
-siate i miei dèi.  
-
-O il [[motifs/time|Tempo]] e lo [[motifs/night|Spazio]],  
-o la forma divina e meravigliosa della Terra,  
-o qualsiasi bella forma io veda e ammiiri,  
-o l’astro luminoso del sole o delle stelle di notte.
-Siate voi i miei Dèi.
-
 
 
 <span class="atom-split" data-atom="128_a_child_s_amaze" data-title="A Child’s Amaze" data-chapter="" data-kind="intro" data-tags="cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -213,13 +136,6 @@ As contending against some being or influence.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Lungo i bordi delle strade_
-
-
-In silenzio e meravigliato, anche quando ero solo un bambino, ricordo che ogni [[characters/sunday|domenica]] ascoltavo il predicatore parlare di Dio nelle sue parole, come se stesse combattendo contro qualche forza o influenza negativa.
-
 
 
 <span class="atom-split" data-atom="131_mother_and_babe" data-title="Mother and Babe" data-chapter="" data-kind="intro" data-tags="cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -235,14 +151,6 @@ The sleeping mother and babe--hush’d, I study them long and long.
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Lungo i bordi delle strade_
-
-
-Vedo il bambino addormentato appoggiato al seno di sua madre;  
-la madre e il bambino dormienti, in silenzio, li osservo a lungo.
 
 
 
@@ -324,59 +232,6 @@ No more the [[settings/mountains|mountains]] roam or sail the stormy sea.
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: DRUM-TAPS_  
-
-
-1  
-Alzatevi, o giorni, dalle vostre profondità insondabili;  
-Sovrastatemi con un movimento più alto e più potente.
-Da tempo la mia [[motifs/soul|'anima]] brama di ciò che la terra mi offre;  
-Ho vagato a lungo tra i boschi del nord, ho osservato il Niagara scorrere impetuoso.
-Ho attraversato le praterie, dormito sul loro petto; ho superato le Nevade, gli altopiani.
-Sono salito su rocce imponenti lungo la costa del Pacifico, ho navigato in mare aperto.
-Ho affrontato tempeste terribili, ma anche esse mi hanno rinfrescato.
-Con gioia ho osservato le minacciose fauci delle onde.  
-
-Indicai le ali bianche che si alzavano così in alto, curvandosi verso l’alto;  
-sentii il sibilo del [[motifs/wind|vento]], vidi le nuvole nere;  
-da sotto osservai ciò che emergeva e si elevava, (Oh meraviglia! Oh selvaggio come il mio cuore, e potente!)  
-Sentii il tuono incessante che rimbombava inseguendo i fulmini;  
-notai i fili sottili e irregolari dei fulmini, improvvisi e veloci, mentre si inseguivano nel cielo.
-Tutto questo lo vidi con [[concepts/wonder|stupore]], ma anche con riflessione e padronanza.
-Tutta la minacciosa potenza del mondo si era risvegliata intorno a me.
-Eppure, lì, con la mia [[motifs/soul|'anima]], mi nutrivo. Mi nutrivo, soddisfatto e sprezzante.  
-
-2  
-“Era davvero bene, o [[motifs/soul|'anima]]. Una buona preparazione mi hai fornito;  
-Ora portiamo avanti la nostra fame latente e più vasta per saziarla,  
-Ora andiamo a ricevere ciò che la terra e il mare non ci hanno mai dato.  
-Non attraverso le imponenti foreste, ma attraverso città ancora più grandi.
-Qualcosa sta scorrendo verso di noi, in quantità maggiore del Niagara stesso:  
-Fiumi di persone, (Siete davvero voi, sorgenti e ruscelli del Nord-Ovest, inesauribili?)  
-Che cosa erano quelle tempeste delle montagne e del mare, rispetto a ciò che oggi vedo intorno a me?  
-Che cosa era quel “vento” che sembrava suonare la tromba della morte sotto le nuvole nere?  
-Ecco. Qualcosa di ancora più letale e selvaggio sta emergendo dalle profondità insondabili:  
-[[settings/manhattan|Manhattan]] si alza, avanzando con un fronte minaccioso; Cincinnati, Chicago, liberate!  
-Che cosa era quella marea che vedevo sull’oceano? Ecco ciò che arriva ora.
-Come sale, con piedi e mani audaci, come si abbatte con forza inarrestabile!  
-Il vero tuono rimbomba dopo ogni lampo, quanto sono intensi quegli scintillii di luce!  
-La [[concepts/democracy|Democrazia]] avanza con passi disperati e vendicativi, guidata da quei bagliori.
-(Eppure, sembra che, nel silenzio di questa confusione assordante, si senta ancora un lamento sommesso, )  
-
-3  
-Tuoni, tuoni! Avanza, [[concepts/democracy|Democrazia]]! Colpisci con un colpo vendicativo!  
-E voi, giorni, città, sorgete più in alto che mai?  
-Tempeste, impattate ancora più forte. Mi avete fatto del bene;  
-La mia [[motifs/soul|'anima]], preparata nelle [[settings/mountains|montagne]], assorbe il vostro immortale nutrimento.  
-A lungo ho percorso le città, i sentieri della mia patria, attraverso campi. Ma mai completamente soddisfatto.  
-Un dubbio, nauseante e ondulante come un serpente, strisciava davanti a me, seguendo costantemente i miei passi, girandosi spesso contro di me con un sibilo ironico.
-Le città che amavo tanto le ho abbandonate. Sono corso verso certezze adatte a me.
-Affamato, desideroso delle energie primordiali e della temerarietà della [[concepts/nature|Natura]], mi sono rinfrescato solo con esse. Le ho godute appieno. Ho atteso a lungo che il [[motifs/fire|fuoco]] represso esplodesse. Sull’[[motifs/water|acqua]] e nell’aria.
-Ma ora non aspetto più. Sono completamente soddisfatto. Ho visto la vera [[motifs/lightning|luce]]. Ho visto le mie città diventare “elettriche”. Ho vissuto per vedere l’uomo emergere e l’[[settings/america|America]] guerraiera sorgere.
-Perciò non cercherò più il cibo delle solitarie lande settentrionali. Non vagherò più tra le [[settings/mountains|montagne]] né navigherò sui mari tempestosi.
 
 
 
@@ -462,69 +317,6 @@ O fearful thought--a convict [[motifs/soul|soul]].
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: [[motifs/autumn|AUTUNNO]] RIVULETTI_  
-
-
-Oh, spettacolo di pietà, vergogna e miseria!  
-Oh, pensiero terribile, l’anima di un condannato.  
-
-1  
-Risuona il ritornello per tutto il corridoio, nella [[motifs/prison|prigione]],  
-la [[motifs/rose|rosa]] raggiunge il tetto, le vette del cielo sopra.
-Scorre una marea di melodia, in toni così pensosi, dolci e potenti che mai prima si erano uditi;  
-raggiunge persino la lontana sentinella e i guardiani armati, i quali interrompono il loro andirivieni.
-Fà fermare i battiti del cuore di chi ascolta, per estasi e meraviglia.  
-
-Un giorno d’inverno, il sole era basso sull’orizzonte; lungo un corridoio stretto, tra ladri e fuorilegge della terra, (Lì, centinaia di assassini dal viso cupo, falsari astuti si erano radunati per la chiesa domenicale, all’interno delle mura della prigione; i guardiani, numerosi e ben armati, li osservavano con occhi attenti, ) Una signora camminava tranquillamente, tenendo per mano un piccolo bambino innocente. Quando si sedettero sui loro banchi accanto a lei sul palco, lei, dopo aver suonato un preludio dolce e melodioso con lo strumento, intonò con una voce superiore a tutte le altre un antico inno tradizionale.  
-
-Una [[motifs/soul|'anima]] imprigionata tra sbarre e catene,  
-grida: “Aiuto! Aiuto!” e si strappa le mani,  
-i suoi occhi sono ciechi, il suo petto sanguina;  
-né perdono riceve, né sollievo trova.  
-
-Ininterrottamente va avanti e indietro,  
-Oh giorni di dolore nel cuore. Oh notti di angoscia!  
-Né la mano di un amico, né un volto pieno d’amore,  
-Nessun aiuto arriva, nessuna parola di conforto.  
-
-Non fui io a commettere quel peccato;  
-il spietato [[concepts/body|-corpo]] mi trascinò dentro;  
-sebbene per molto tempo abbia lottato con coraggio,  
-quel [[concepts/body|-corpo]] era troppo forte per me.  
-
-Caro [[motifs/prison|'anima]] imprigionata, tieni duro ancora un po’,  
-poiché prima o poi arriverà la grazia certa;  
-per liberarti e portarti [[motifs/home|a casa]],  
-il misericordioso [[motifs/death|morte]] verrà.  
-
-Nessun altro condannamento, né vergogna, né dolore!  
-Parti, un’anima liberata da Dio!  
-
-3  
-La cantante smise di cantare;  
-Un solo sguardo dai suoi occhi chiari e sereni passò su tutti quei volti rivolti verso di lei,  
-Un strano mare di volti, prigionieri, diversi tra loro: astuti, brutali, ma anche belli.
-Poi, alzandosi, si allontanò lungo il corridoio stretto che li separava;  
-Il suo abito frusciava nel [[motifs/silence|silenzio]] mentre lei scompariva con i suoi bambini nella penombra.  
-
-Mentre tutti, detenuti e guardiani armati, erano ancora immobili,  
-(il detenuto dimenticava la [[motifs/prison|prigione]], il guardiano teneva stretta la sua [[characters/pistol|pistola]] carica),  
-calò un silenzio straordinario. Un minuto meraviglioso.  
-Si udirono singhiozzi soffocati, suoni di uomini malvagi che si piegavano in lacrime,  
-respiri affannosi di giovani, ricordi della [[motifs/home|casa]],  
-la voce di una madre che canta una ninna nanna, l’affetto di una sorella, i momenti felici dell’[[motifs/childhood|infanzia]].
-Lo spirito a lungo represso si risvegliò in quei ricordi.  
-Un minuto meraviglioso. Ma poi, nella solitudine della [[motifs/night|notte]], per molti di loro,  
-anche anni dopo, persino nell’ora della [[motifs/death|morte]],  
-quel canto triste, quella melodia, quella voce, quelle parole.
-tornavano a risuonare. La donna tranquilla camminava lungo il corridoio stretto;  
-di nuovo si udiva quella melodia straziante. Il cantante nella [[motifs/prison|prigione]] continuava a cantare.  
-
-Oh, spettacolo di pietà, vergogna e miseria!  
-Oh, pensiero terribile, l’anima di un condannato.
-
 
 
 <span class="atom-split" data-atom="211_miracles" data-title="Miracles" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/the_sea,motif/stars,motif/the_city,concept/wonder_and_gratitude,concept/faith,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -565,35 +357,6 @@ What stranger miracles are there?
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: [[motifs/autumn|AUTUNNO]] RIVULETTI_
-
-
-Perché, chi dà così grande importanza ai miracoli?  
-Per quanto mi riguarda, non conosco nulla altro se non miracoli:  
-che cammini per le strade di [[settings/manhattan|Manhattan]],  
-o che il mio sguardo si soffermi sui tetti delle case verso il cielo,  
-o che cammini a piedi nudi lungo la riva del mare,  
-o che stia sotto gli alberi nel bosco,  
-o che parli di giorno con chiunque ami, o che dorma nella notte con chiunque ami,  
-o che sieda a tavola a cena con tutti gli altri,  
-o che osservi degli sconosciuti seduti nell’auto di fronte a me,  
-o che guardi le api impegnate attorno al loro alveare in una mattina d’estate,  
-o gli animali che si nutrono nei campi,  
-o gli uccelli, o la meraviglia degli insetti nel cielo,  
-o il tramonto, o le stelle che brillano così silenziosamente e luminosamente,  
-o la delicata curva della nuova luna in primavera.
-Tutto questo, insieme a molte altre cose, è per me un miracolo;  
-il tutto forma un insieme armonioso, ma ogni singola cosa ha il suo posto e la sua importanza.
-
-Per me, ogni ora del [[motifs/light-and-dark|giorno e della notte]] è un miracolo;  
-Ogni centimetro cubo di spazio è un miracolo;  
-Ogni metro quadrato della superficie terrestre è pervaso dallo stesso mistero;  
-Ogni parte dell’interno della Terra è piena dello stesso fenomeno straordinario.  
-Per me, il mare è un continuo miracolo: i pesci che nuotano, le rocce, il movimento delle onde, le navi con le persone a bordo.
-Che meraviglie ancora più strane esistono?
 
 
 
@@ -659,46 +422,6 @@ wonderful.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: [[motifs/autumn|AUTUNNO]] RIVULETTI_  
-
-
-Chi impara appieno la mia lezione?  
-Capo, artigiano, apprendista, chierico e ateo,  
-Il stupido e il saggio pensatore, genitori e figli, mercante,  
-impiegato, portiere e cliente,  
-Editor, autore, [[archetypes/artist|artista]] e studente, avvicinatevi e iniziate;  
-Non si tratta di una semplice lezione: essa apre la strada a una vera e propria lezione,  
-E così per tutti, uno dopo l’altro.  
-
-Le grandi leggi agiscono e si diffondono senza discussioni;  
-anch’io seguo lo stesso stile, perché sono loro amico;  
-le amo appassionatamente, senza esitazioni o formalità.  
-
-Rimango assorto nei miei pensieri e ascolto storie meravigliose su cose e sulle loro ragioni;  
-sono così belle che mi sforzo di prestare attenzione.  
-
-Non posso raccontare a nessuno ciò che sento. Non posso nemmeno dirlo a me stesso. È davvero meraviglioso.  
-
-Non è affatto una questione da poco: questo globo rotondo e delizioso si muove con tanta precisione sulla sua orbita, per sempre, senza il minimo scossone o il minimo errore nel tempo. Non credo che sia stato creato in sei giorni, né in diecimila anni, né nemmeno in dieci miliardi di anni. E non è certo stato progettato e costruito passo dopo passo, come un architetto progetta e costruisce una casa.  
-
-Non credo che settant’anni siano il tempo sufficiente per un uomo o una donna,  
-né che settanta milioni di anni lo siano;  
-inoltre, non penso che gli anni possano mai porre fine all’esistenza mia o di chiunque altro.  
-
-È meraviglioso che io debba essere immortale, poiché tutti sono immortali; lo so che è meraviglioso, ma anche la mia vista è altrettanto meravigliosa, così come il modo in cui sono stato concepito nel grembo di mia madre. E il fatto che, da un bambino piccolo, sia passato attraverso le fasi dello sviluppo in pochi anni, fino a diventare capace di parlare e camminare, tutto questo è altrettanto meraviglioso.  
-
-E il fatto che la mia [[motifs/soul|'anima]] ti abbracci in questo momento, e che noi possiamo influenzarci a vicenda  
-senza mai vederci, e forse nemmeno mai vederci davvero, è altrettanto meraviglioso.  
-
-E il fatto che io possa avere pensieri del genere è altrettanto meraviglioso;  
-e il fatto che io possa ricordarteli, e tu li consideri e sai che sono veri,  
-è anch'esso altrettanto meraviglioso.  
-
-E il fatto che la [[motifs/moon|luna]] giri intorno alla terra e insieme a essa, è altrettanto meraviglioso;  
-e il fatto che mantengano l’equilibrio insieme al sole e alle [[motifs/stars|stelle]], è anch’esso altrettanto meraviglioso.
-
 
 
 <span class="atom-split" data-atom="239_yet_yet_ye_downcast_hours" data-title="Yet, Yet, Ye Downcast Hours" data-chapter="" data-kind="intro" data-tags="motif/the_sea,concept/doubt,concept/mortality,concept/melancholy,concept/faith_and_doubt,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -730,27 +453,6 @@ A young man’s voice, Shall I not escape?
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sussurri della morte celeste_
-
-
-Eppure, oh ore tristi e desolate, so che anche voi esistete.
-Pesi di piombo, come ostacolate e vi attaccate ai miei polpacci.
-La terra stessa diventa una stanza di lutto. Ascolto quella voce stridula, beffarda.
-La materia è la vincitrice. Solo la materia continua ad avanzare, trionfante.
-
-Grida disperate giungono incessantemente verso di me,
-il richiamo del mio più vicino [[archetypes/lover|amante]], emesso con ansia e incertezza,
-ditemi dove sto navigando velocemente, ditemi la mia destinazione.
-
-Capisco la tua angoscia, ma non posso aiutarti.  
-Mi avvicino, ascolto, vedo quella bocca triste, quello sguardo negli occhi.
-La tua muta domanda.
-Dove devo andare, da dove mi alzo dal letto? Dimmelo.
-L’età avanzata, l’incertezza. La voce di una giovane donna che chiede conforto.
-La voce di un giovane uomo, “Devo fuggire?”
 
 
 
@@ -792,13 +494,6 @@ believe Heavenly [[motifs/death|Death]] provides for all.
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sussurri della morte celeste_
-
-
-Non ho bisogno di alcuna garanzia; sono un uomo che si preoccupa soltanto della propria [[motifs/soul|'anima]]. Non [[concepts/doubt|dubito]] che, sotto i miei piedi, accanto alle mie mani e al mio viso, ci siano volti che non conosco, volti tranquilli e reali. Non [[concepts/doubt|dubito]] che la maestosità e la [[concepts/beauty|bellezza]] del mondo si nascondano in ogni singola parte di esso. Non [[concepts/doubt|dubito]] di essere infinito, così come lo sono gli universi; invano cerco di comprendere fino a che punto questa infinità possa estendersi. Non [[concepts/doubt|dubito]] che i corpi celesti e i loro sistemi svolgano le loro attività con un intento preciso, e che un giorno anch’io sarò in grado di fare lo stesso, o persino di più di loro. Non [[concepts/doubt|dubito]] che eventi temporanei continuino ad accadere per milioni di anni. Non [[concepts/doubt|dubito]] che ci siano aspetti nascosti all’interno delle cose, e che la vista, l’udito e la voce abbiano caratteristiche proprie. Non [[concepts/doubt|dubito]] che le morti tragiche dei giovani siano previste, così come quelle delle ragazze e dei bambini. (Pensi davvero che la Vita sia così ben organizzata, e che la [[motifs/death|Morte]], lo scopo stesso della Vita, non sia anch’essa ben pianificata?) Non [[concepts/doubt|dubito]] che le navi naufragate in mare, per quanto orribili siano i loro destini, e indipendentemente dal fatto che abbiano portato con sé la moglie, il figlio, il marito, il padre o l’amante di qualcuno, siano comunque previste nei dettagli più minuti. Non [[concepts/doubt|dubito]] che tutto ciò che possa accadere in qualsiasi luogo e in qualsiasi momento sia già stabilito dalle leggi dell’universo. Non credo che la Vita si occupi di tutto, né del [[motifs/time|Tempo]] né dello [[motifs/death|Spazio]], ma sono convinto che sia la Morte celeste a prendersi cura di ogni cosa.
 
 
 
@@ -843,28 +538,6 @@ To the free skies unpent and glad and strong.
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: DALLA [[motifs/noon|MATTINA]] ALLA NOTTE STELLATA_.  
-
-
-A te, per il mio recitativo;  
-a te, nella tempesta impetuosa di oggi, con la neve che cade e il giorno invernale che declina;  
-a te, nel tuo imponente aspetto: il tuo corpo cilindrico nero, rivestito d’ottone dorato e acciaio argenteo; le tue barre laterali pesanti, le leve che si muovono in cerchio lungo i tuoi fianchi; il tuo respiro ritmico, ora potente, ora più debole in lontananza; la tua grande lampada anteriore, fissata davanti a te; le tue bandiere di vapore pallide e sottili, colorate di un delicato viola; le nuvole dense che escono dal tuo fumo; il tuo complesso sistema di molle e valvole, il tremolio delle tue ruote.
-A te, che traini i tuoi vagoni dietro di te, obbedienti e gioiosi nel seguire la tua strada, sia nella tempesta che nella calma; a te, simbolo del progresso moderno, dell’energia e del movimento.
-Per una volta, vieni a servire la Musa e fondevi nella poesia. Proprio come ti vedo ora: con la tempesta, i venti violenti e la neve che cade. Di giorno, il tuo campanello d’allarme suona le sue note; di notte, le tue luci segnaletiche oscillano silenziosamente.  
-
-[[concepts/beauty|Bellezza]] dal cuore feroce.
-Rulla nella mia canzone con tutta la tua musica selvaggia,  
-con le tue luci che oscillano di notte.
-Il tuo riso folle, che riecheggia come un terremoto,  
-che sveglia tutti intorno.
-La legge che governa te stessa; il percorso che segui con fermezza.
-(Nessuna dolcezza melodiosa di arpa o pianoforte può eguagliarti, )  
-I tuoi strilli risuonano tra rocce e colline,  
-si diffondono attraverso le praterie, sui laghi.
-Verso cieli liberi, aperti, felici e potenti.
 
 
 
@@ -923,53 +596,6 @@ And heaven at last for it.
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: DALLA [[motifs/noon|MATTINA]] ALLA NOTTE STELLATA_.  
-
-
-Quello che sfugge a questo verso e a qualsiasi altro verso,  
-Inascoltato dall’orecchio più acuto, invisibile all’occhio più chiaro o alla mente più astuta,  
-Né conoscenza né fama, né felicità né ricchezza.
-Eppure è il battito incessante di ogni cuore e di ogni vita in tutto il mondo.  
-Quello che tu, io e tutti coloro che lo cercano continuamente mai riusciamo a cogliere.
-È un segreto ancora aperto; la realtà più profonda, un’illusione.
-Inestimabile, concesso a tutti, ma mai posseduto da nessuno.  
-Poeti inutilmente cercano di esprimerlo in versi, storici in prosa.
-Nessun scultore l’ha mai scolpito, nessun pittore l’ha mai dipinto,  
-Nessun cantante l’ha mai cantato, né oratore né attore l’ha mai espresso.
-Io lo invoco qui e ora. Lo chiedo per la mia canzone.  
-
-Con indifferenza, tra luoghi pubblici e privati, nella [[concepts/solitude|solitudine]],  
-dietro montagne e foreste,  
-accompagnando le strade più trafficate della [[motifs/city|città]], attraverso la folla,  
-esso e i suoi raggi scivolano costantemente via.  
-
-In volti di belle fanciulle incoscienti,  
-o stranamente nei cadaveri sepolti nella bara,  
-oppure nel momento in cui l’[[motifs/dawn|'alba]] o le stelle vengono oscurate dalla notte,  
-come una delicata pellicola di sogni che si dissolve,  
-ma che persiste ancora.  
-
-Due brevi parole che lo compongono;  
-due parole soltanto, ma che, dall’inizio alla fine, ne rappresentano interamente il significato.  
-
-Con quanta passione per essa!  
-Quante navi sono partite e affondate per essa.  
-
-Quanti viaggiatori sono partiti dalle loro case e non sono mai tornati indietro.
-Quanto genio è stato audacemente messo in gioco e poi perso a causa di questo.
-Quante innumerevoli risorse di [[concepts/beauty|bellezza]] e [[motifs/love|amore]] sono state sacrificate per esso.
-Tutti i più grandi gesti eroici, da quando esiste il [[motifs/time|tempo]], hanno origine da questo, e così sarà fino alla fine!  
-Tutti i martiri eroici hanno dato la loro vita per questo.
-Gli orrori, i mali, le battaglie della terra, tutto ciò ha una sua giustificazione legata a questo.
-Le splendide fiamme di questo “fuoco” hanno attirato gli sguardi degli uomini in ogni epoca e in ogni luogo.
-Sono come il tramonto sulle coste della Norvegia, che illumina cielo, isole e scogliere, o le silenziose luci polari di mezzanotte, irraggiungibili.  
-
-Forse solo Dio può risolvere questo enigma: così vago eppure così certo.
-L’anima è in gioco, così come tutto l’universo visibile.
-E infine, anche il cielo stesso.
 
 
 
@@ -1061,81 +687,6 @@ I still warble under you, if none else does, unmitigated adoration.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: CANZONI DI ADDIO  
-
-
-Lo splendore di questa giornata che vola verso la fine mi riempie interamente;  
-Un’ora profetica, un’ora che rievoca il passato;  
-Mi gonfi la gola, tu, divina armonia.
-Tu, terra e vita, fino all’ultimo raggio di luce, ti canto.  
-
-La bocca della mia [[motifs/soul|'anima]] esprime gioia,  
-Gli occhi della mia [[motifs/soul|'anima]] vedono la perfezione,  
-La mia vita naturale loda fedelmente tutte le cose,  
-Confermando per sempre il trionfo di ogni realtà.  
-
-Illustri tutti voi!  
-Illustre è ciò che chiamiamo spazio, quella sfera di spiriti innumerevoli;  
-illustre è il mistero del movimento in ogni essere, persino nel più piccolo insetto;  
-illustre sono le facoltà del linguaggio, i sensi, il [[concepts/body|corpo]] stesso;  
-illustre è anche quella luce fugace, quel debole riflesso della nuova [[motifs/moon|luna]] sul cielo occidentale;  
-infine, illustre è qualsiasi cosa io veda, senta o tocchi.  
-
-Buono in tutto:  
-Nella soddisfazione e nell’aplomb degli [[motifs/animals|animali]],  
-Nel ritorno annuale delle [[motifs/seasons|stagioni]],  
-Nell’allegria della gioventù,  
-Nella forza e nel vigore dell’età adulta,  
-Nella maestosità e nella raffinatezza della vecchiaia,  
-Nelle splendide visioni che offre la [[motifs/death|morte]].  
-
-È meraviglioso partire.
-È meraviglioso essere qui.
-Il cuore, che batte con sangue così uguale e innocente.
-Respirare quest’aria, che delizia!  
-Parlare, camminare, afferrare qualcosa con le mani.
-Prepararsi per il sonno, guardare la mia pelle di colore rosa.
-Essere consapevole del mio corpo, così soddisfacente, così completo.
-Essere questo incredibile Dio che sono.
-Essere tra gli altri esseri umani, questi uomini e queste donne che amo.  
-
-È meraviglioso come io celebri te e me stesso.
-Come i miei pensieri si manifestano in modo sottile intorno a tutto ciò che mi circonda.
-Come le nuvole passano silenziosamente sopra la mia testa.
-Come la terra continua a muoversi, e così anche il sole, la luna, le stelle.
-Come l’acqua si muove e canta, (sicuramente è viva!)  
-Come gli alberi si ergono, con tronchi forti, rami e foglie.
-(Sicuramente in ogni albero c’è qualcosa di più: un’anima vivente.)  
-
-Oh, meraviglia delle cose, anche la più piccola particella di essa!  
-Oh, spiritualità delle cose!  
-Oh, quella melodia musicale che attraversa secoli e continenti,  
-e ora raggiunge me e [[settings/america|America]]!  
-Prendo le vostre “corde sonore” forti, le intreccio insieme  
-e le trasmetto con gioia.  
-
-Anch'io canto le lodi del sole, sia al [[motifs/noon|mattino]], che a mezzogiorno, o ora che tramonta; anch'io sono commosso dalla bellezza della terra e di tutte le cose che vi crescono; anch'io ho sentito quell'irresistibile richiamo che proviene da dentro di me.  
-
-Mentre navigavo lungo il Mississippi,  
-mentre vagabondavo per le praterie,  
-nel corso della mia vita, guardando fuori dalla finestra con i miei occhi,  
-quando uscivo al mattino e vedevo la luce sorgere a est,  
-quando mi bagnavo sulla spiaggia del Mare Orientale, e poi di nuovo su quella del Mare Occidentale,  
-percorrendo le strade di Chicago, o qualsiasi altra città o silenzioso bosco, persino tra i luoghi di guerra.
-Ovunque fossi stato, mi sono sempre imposto di essere soddisfatto e trionfante.  
-
-Canto fino alla fine le ugualizze, sia moderne che antiche;  
-canto i finali infiniti di tutte le cose;  
-dico che la [[concepts/nature|Natura]] continua, e anche la gloria continua;  
-lodo tutto con voce potente.
-Perché non vedo alcuna imperfezione nell’universo,  
-e non vedo alcuna causa o conseguenza deprecabile all’interno di esso.  
-
-Oh tramonto, anche se il momento è giunto,  
-continuo a cantare sotto di te, se nessun altro lo fa, con una venerazione incondizionata.
-
 
 
 <span class="atom-split" data-atom="358_an_ended_day" data-title="An Ended Day" data-chapter="" data-kind="intro" data-tags="cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1152,15 +703,6 @@ Now triumph! transformation! jubilate!
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Addio, mia fantasia_
-
-
-La tranquilla sanità e la gioia della realizzazione finale.
-La pompa, l’affanno, gli scontri frenetici, le luci abbaglianti e la corsa sono ormai finiti.  
-Ora trionfa! Ora si compie la trasformazione! Ora si può esultare!
 
 
 
@@ -1205,42 +747,6 @@ Thou enterest at thy entrance porch.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Addio, mia fantasia_  
-
-
-Un antico canto, che recita e si conclude così:  
-“Una volta, guardando verso di te, Madre di Tutti,  
-Meditavo, cercando temi adatti a te.
-Accetta me, dissesti, le vecchie ballate.
-E nominami prima che tu lasci questo mondo, ognuno degli antichi poeti.”  
-
-(Di molte debiti inestimabili,  
-forse il più grande debito del nostro Nuovo Mondo è nei confronti delle antiche poesie.)  
-
-Tanto tempo fa, come preludio a te, [[settings/america|America]],  
-antichi canti, sacerdoti egiziani e quelli dell’Etiopia,  
-le epopee indù, quelle greche, cinesi, persiane,  
-i libri biblici e i profeti, le profonde idilli del Nazareno,  
-l’Iliade, l’Odissea, le vicende di Enea,  
-Esiodo, Eschilo, Sofocle, Merlino, [[characters/arthur|Arthur]],  
-Il Cid, Rolando a Roncesvalle, i Nibelunghi,  
-i trovatori, gli menestrelli, i poeti scaldisti,  
-Chaucer, [[historical-references/dante|Dante]], stormi di uccelli canori.
-La musica popolare delle frontiere, le ballate d’un tempo, le storie feudali, i saggi, le opere teatrali,  
-Shakespeare, Schiller, Walter Scott, Tennyson.
-Come immense, meravigliose e strane presenze oniriche,  
-quei grandi gruppi oscuri si radunano intorno a te,  
-lanciando i loro occhi potenti e maestosi verso di te.
-Tu! Con il tuo collo e la tua testa chinati, con mano e parole gentili,  
-salendo verso l’alto.
-Tu! Fermandoti un momento, abbassando lo sguardo su di loro,  
-fuso con la loro musica.
-Ben soddisfatto, accettando tutto ciò che ti viene offerto,  
-preparato con cura da loro.
-Entri nel tuo portico d’ingresso.
-
 
 
 <span class="atom-split" data-atom="377_the_unexpress_d" data-title="The Unexpress’d" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/stars,concept/the_artist_and_society,concept/the_sublime,form/free_verse,histref/classical_antiquity,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1264,20 +770,3 @@ Still something not yet told in poesy’s voice or print--something lacking,
 
 
 
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Addio, mia fantasia_  
-
-
-Come osa qualcuno dirlo?  
-Dopo tutti questi cicli di poesie, cantanti, opere teatrali.
-La gloriosa Ionia, l’India. Omero, Shakespeare. Le lunghe, infinite strade del tempo, le regioni che si estendono a perdita d’occhio.
-I brillanti ammassi stellari e la Via Lattea. I battiti della [[concepts/nature|Natura]].
-Tutte queste passioni, eroi, guerre, [[motifs/love|amore]], adorazioni.
-Tutti questi momenti delle varie epoche che hanno raggiunto il loro apice.
-Tutte le vite umane, i desideri, i pensieri. L’espressione totale di ogni esperienza.
-Dopo innumerevoli canzoni, lunghe o corte. Tutti i linguaggi, tutte le terre.
-C’è ancora qualcosa che non è stato ancora espresso attraverso la poesia o la scrittura. Qualcosa che manca.
-(Chi lo sa? Forse il meglio di tutto ciò che esiste ancora non è stato detto.)

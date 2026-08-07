@@ -54,6 +54,7 @@ tags:
 - [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0514_her_smile_was_shaped_like_other_smiles|514. Her smile was shaped like other smiles — (Dickinson)]]
 - [[testi/eliot/atomized/joy-animals-comic-verse-song#090_gus_the_theatre_cat|Gus the Theatre Cat (Eliot)]]
 - [[testi/eliot/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#112_humouresque|Humouresque (Eliot)]]
+- [[testi/eliot/atomized/satire-of-society-epigram-satire#020_mélange_adultère_de_tout|Mélange Adultère de Tout (Eliot)]]
 - [[works/the-cocktail-party-(eliot)|THE COCKTAIL PARTY (Eliot)]]
 - [[testi/keats/atomized/satire-of-society-epigram-satire#119_ode_on_indolence|Ode on Indolence (Keats)]]
 - [[works/otho-the-great-(keats)|Otho the Great (Keats)]]

@@ -57,6 +57,7 @@ tags:
 - [[works/remorse-(coleridge)|REMORSE (Coleridge)]]
 - [[testi/coleridge/atomized/satire-of-society-epigram-satire#188_talleyrand_to_lord_grenville|TALLEYRAND TO LORD GRENVILLE (Coleridge)]]
 - [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#189_talleyrand_minister_of_foreign_affairs_at_paris_to_lord_grenville|TALLEYRAND, MINISTER OF FOREIGN AFFAIRS AT PARIS, TO LORD GRENVILLE (Coleridge)]]
+- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#158_the_ballad_of_the_dark_ladié|THE BALLAD OF THE DARK LADIÉ (Coleridge)]]
 - [[testi/coleridge/atomized/satire-of-society-epigram-satire#336_the_compliment_qualified|THE COMPLIMENT QUALIFIED (Coleridge)]]
 - [[works/the-death-of-wallenstein-(coleridge)|THE DEATH OF WALLENSTEIN (Coleridge)]]
 - [[works/the-fall-of-robespierre-(coleridge)|THE FALL OF ROBESPIERRE (Coleridge)]]

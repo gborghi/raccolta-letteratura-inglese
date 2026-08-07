@@ -36,13 +36,6 @@ Those of inland [[settings/america|America]].
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: CALAMUS_
-
-
-L'erba della prateria, con il suo odore particolare che si diffonde nell’aria. Ne chiedo l’equivalente spirituale: che possa offrire un’amicizia profonda e sincera tra gli uomini; che le sue “foglie” siano costituite da parole, azioni, esseri viventi. Quelle foglie dell’atmosfera aperta, ruvide, illuminate dal sole, fresche e nutrienti. Quelle che camminano con passo deciso, erette, con [[concepts/freedom|libertà]] e autorità. Quelle piene di audacia inesauribile, quelle il cui corpo è puro e vigoroso. Quelle che guardano senza timore negli occhi dei presidenti e dei governatori, come per chiedere: “Chi siete voi?”. Quelle passioni nate dalla terra, semplici, mai rese schiave, mai obbedienti. Quelle tipiche dell’America interna.
-
 
 
 <span class="atom-split" data-atom="117_germs" data-title="Germs" data-chapter="" data-kind="intro" data-tags="motif/stars,motif/nature,concept/the_sublime,concept/immortality,form/free_verse,form/epigram,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -67,22 +60,6 @@ That containing the start of each and all, the virtue, the germs of all.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Lungo i bordi delle strade_  
-
-
-Forme, qualità, vite, umanità, linguaggio, pensieri.
-Quelli conosciuti e quelli sconosciuti; quelli presenti sulle [[motifs/stars|stelle]].
-Le stesse [[motifs/stars|stelle]], alcune formate, altre informi.
-Meraviglie legate a quei luoghi: il suolo, gli alberi, le città, gli abitanti.
-Qualunque cosa essi siano.
-Sole splendenti, lune e anelli; innumerevoli combinazioni ed effetti.
-Tutto ciò che è simile a queste cose, e altrettanto meraviglioso, visibile qui o ovunque.
-Esiste tutto questo, racchiuso in uno spazio minuscolo:  
-Stendo il braccio e con la mano ne circondo metà.
-Quel piccolo spazio che contiene l’inizio di ogni cosa. La virtù. I germi di tutto ciò che esiste.
-
 
 
 <span class="atom-split" data-atom="127_a_farm_picture" data-title="A Farm Picture" data-chapter="" data-kind="intro" data-tags="cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -99,15 +76,6 @@ And haze and vista, and the far horizon fading away.
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Lungo i bordi delle strade_
-
-
-Attraverso la larga porta aperta di quel tranquillo fienile di campagna,
-si estendeva un prato illuminato dal sole, dove mucche e cavalli pascolavano;
-oltre c’era nebbia e lontananza, con l’orizzonte che si sfumava in lontananza.
 
 
 
@@ -138,26 +106,6 @@ But the hot sun of the South is to fully ripen my songs.
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: DRUM-TAPS_
-
-
-Verso quella terra fecondata dal lievito, camminano. Io canto per l’ultima volta;  
-(Uscendo dalla mia tenda per sempre, sciogliendo i cordoni che la tenevano insieme, )  
-Nella freschezza dell’aria mattutina, in quei vasti orizzonti e paesaggi,  
-Ritrovo la pace.
-Verso quelle terre ardenti e le infinite distanze al di là, verso Sud e Nord.
-Verso quella terra fecondata del mondo occidentale, affinché i miei canti possano essere ascoltati.
-Verso le colline degli Alleghani e il fiume Mississippi senza fine.
-Verso le rocce su cui canto, verso tutti gli alberi nei boschi.
-Verso le pianure descritte nelle poesie degli eroi, verso le vaste praterie.
-Verso il mare lontano, i venti invisibili, e quell’aria pura e impalpabile.
-Tutti rispondono, (ma non con parole, ). La terra comune, testimone di guerra e pace, lo riconosce in silenzio.
-La prateria mi attira a sé, come un padre che accoglie il figlio nel suo abbraccio.
-La neve e la pioggia del Nord, che mi hanno dato vita, continuano a nutrirmi fino alla fine.
-Ma il caldo sole del Sud è necessario affinché i miei canti possano maturare completamente.
 
 
 
@@ -359,178 +307,6 @@ Under the beaming sun and under thee.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: [[motifs/autumn|AUTUNNO]] RIVULETTI_
-
-
-1  
-Per le terre, per questi giorni appassionati e per me stesso,  
-Ora mi ritiro per un momento a te, o suolo dei campi d’autunno.
-Appoggiandomi al tuo petto, mi dono completamente a te,  
-Ascoltando i battiti del tuo cuore sano ed equilibrato,  
-Componendo una poesia per te.
-
-Oh terra che non hai voce, confida a me una voce;
-Oh raccolto delle mie terre, oh sterminati germogli dell’estate,
-Oh generosa terra marrone che partorisce, oh infinito grembo rigoglioso,
-Un canto per narrarti.
-
-2  
-Su questo palco, da sempre,  
-si svolge il tranquillo dramma annuale di Dio:  
-splendide processioni, le [[motifs/birds|canzoni]] degli uccelli,  
-l’alba che nutre e rinfresca l’anima;  
-il mare in tempesta, le onde che si schiantano sulla riva;  
-i boschi, gli alberi robusti e quelli snelli e slanciati;  
-innumerevoli filamenti d’erba;  
-il caldo, le piogge, i vasti pascoli;  
-le nevi, l’orchestra libera dei venti;  
-il cielo coperto di nuvole, il blu profondo e i bordi argentei;  
-le stelle che si espandono nel firmamento, quelle tranquille e invitanti.
-Gli stormi in movimento, le pianure e i prati verdi smeraldo;  
-tutti i paesaggi diversi, tutte le piante e i frutti che crescono su di essi.
-
-3  
-Fertile [[settings/america|America]], oggi come oggi,  
-sei piena di nascite e gioie!  
-Gemiti per la ricchezza; il tuo tesoro ti avvolge come un manto ampio e vistoso;  
-ridi forte, felice di possedere tanto.
-Una miriade di vite intrecciate, come viti che si snodano, lega tutta la tua vasta terra;  
-come una enorme [[motifs/ship|nave]] carica fino ai confini dell’acqua, approdi al porto.
-Come la pioggia cade dal cielo e i vapori si levano dalla terra, così anche i valori preziosi sono caduti su di te e ne sono sorti.
-Tu, invidia del mondo intero, tu, un miracolo!  
-Tu, immersa, sommersa, ma anche nuotante nella abbondanza.
-Tu, fortunata Signora dei granai tranquilli.
-Tu, Dama delle Praterie che siedi al centro e guardi il tuo mondo, a est e a ovest.
-Tu, dispensatrice di beni: con una sola parola doni migliaia di miglia, milioni di fattorie, e non perdi mai nulla.
-Tu, accogliente, tu l’unica che sia davvero ospitale, proprio come Dio è ospitale.
-
-4  
-Quando era tardi, cantavo con voce triste;  
-tristi erano gli spettacoli intorno a me,  
-con rumori assordanti di odio e il fumo della guerra;  
-nel mezzo del conflitto, io stavo lì,  
-o camminavo lentamente tra i feriti e i morenti.
-
-Ma ora non canto più della guerra,  
-né del marciare ordinato degli soldati, né delle tende dei campi militari,  
-né dei reggimenti che si radunano in fretta per schierarsi in battaglia;  
-non più di quelle tristi e innaturali manifestazioni della guerra.
-
-Chiedete spazio a quelle schiere immortali e splendenti, alle prime armate che avanzarono?  
-Ahimè, chiedete spazio a quelle orribili schiere, alle armate terribili che seguirono.
-
-“Via, via, o orgogliose brigate, con le vostre gambe forti e muscolose,  
-con le vostre spalle giovani e robuste, con i vostri zaini e i vostri fucili;  
-quanto ero felice a guardarvi mentre iniziavate la marcia, ”
-
-Passa, poi suonate di nuovo i tamburi,  
-Perché un esercito è in vista; oh, un altro esercito che si raduna,  
-Che si muove in fila indiana alle nostre spalle. Oh, voi terribili eserciti,  
-Oh, reggimenti così miseri, col vostro moribondo flagello, con la vostra febbre.
-Oh, amati della mia terra, mutilati e sofferenti, con le vostre abbondanti bende insanguinate e le vostre stampelle.
-Ecco: il vostro esercito pallido ci segue.
-
-Ma in questi giorni di luce,  
-in questo paesaggio meravigliosamente vasto, con le strade e i sentieri,  
-i carri agricoli carichi di merci, i frutti e i granai.
-Dovrebbero forse i morti intromettersi?
-
-Ah, i morti non mi turbano affatto; si inseriscono perfettamente nella [[concepts/nature|Natura]],  
-si abbinano molto bene al paesaggio, tra gli alberi e l’erba,  
-e anche lungo il bordo del cielo, nell’estremità lontana dell’orizzonte.
-
-Nemmeno vi dimentico, voi che siete partiti;
-né in [[motifs/winter|inverno]] né in [[motifs/summer|estate]] mi mancate mai;
-ma soprattutto all’aperto, come ora che la mia [[motifs/soul|'anima]] è serena e in pace,
-come piacevoli fantasmi,
-i vostri ricordi si avvicinano silenziosamente a me.
-
-Vidi il giorno del ritorno degli eroi,  
-(ma gli eroi non superarono mai nulla, e non torneranno mai;  
-quel giorno, loro non li vidi affatto.)
-
-Vidi l’interminabile esercito, vidi le colonne di truppe che si avvicinavano, invadendo il territorio con le loro divisioni; avanzavano verso nord, una volta compiuta la loro missione, per poi accamparsi in grandi campi.
-
-Nessun soldato in congedo, giovani, ma già veterani;  
-Stanchi, scuri di viso, belli, forti, provenienti dalle fattorie e dagli officini;  
-Temprati da molte lunghe campagne e marce faticose;  
-Abituati a combattere in molti campi di battaglia sanguinosi.
-
-Una pausa. Gli eserciti attendono;  
-Un milione di conquistatori arrossati e pronti allo scontro attendono;  
-Anche il mondo attende. Poi, dolcemente come l’arrivo della [[motifs/night|notte]] e con certezza come l’alba,  
-essi si dissolvono, scompaiono.
-
-Esultate, o terre! Terre vittoriose!  
-Non là si trova la vostra vittoria in quei campi rossi e tremanti,  
-Ma qui, proprio qui, risiede la vostra vittoria.
-
-Scioglietevi, dissolvetevi, o eserciti. Disperdetevi, soldati in abiti blu;  
-Rinunciate per sempre alle vostre armi mortali,  
-Poiché d’ora in poi i campi vi offriranno altre armi,  
-Armi utili a guerre più sane, più dolci, più feconde di vita.
-
-7  
-Alto, o mia gola, e chiaro, o [[motifs/soul|'anima]]!  
-La stagione del ringraziamento e la voce della piena gratitudine,  
-Il canto di gioia e potere per una fertilità senza limiti.
-
-Tutti i campi coltivati e incoltivati si estendono davanti a me;
-vedo le vere arene della mia razza, quelle dove l’uomo, per primo o per ultimo,
-dimostra la sua [[archetypes/innocent|innocenza]] e la sua forza.
-
-Vedo gli eroi impegnati in altre battaglie,  
-vedo che nelle loro mani impugnano armi più potenti e efficaci.
-
-Capisco dove dimora la Madre di Tutte,
-con il suo sguardo che abbraccia tutto, rimane a lungo lì,
-e conta i vari prodotti che si raccolgono.
-
-Lontano, nel panorama illuminato dal sole,  
-praterie, orti e i campi gialli del Nord;  
-cotone e riso del Sud, e la canna della Louisiana;  
-campi aperti e fertili, ricchi di trifoglio e timo;  
-bestiame che pascola, greggi di pecore e maiali;  
-e molti fiumi maestosi che scorrono, e ruscelli gioiosi;  
-colline rigogliose, soffiate da brezze profumate d’erba;  
-e quella buona erba verde, quel meraviglioso dono che ritorna sempre.
-
-8  
-Lavorate sodo, eroi! Raccogliete i frutti del vostro impegno!  
-Non solo su quei campi di battaglia la Madre di Tutti vi osservava,  
-con il suo corpo disteso e gli occhi luminosi.
-
-Lavorate sodo, eroi, lavorate con impegno! Maneggiate le armi con abilità!  
-La Madre di Tutti vi osserva ancora, come sempre.
-
-[[motifs/well|Bene]] soddisfatta America, guarda tu:
-nei campi dell’Ovest quei mostri striscianti,
-quelle invenzioni umane e divine, quegli strumenti che risparmiano fatica;
-vedi come si muovono in tutte le direzioni, come se avessero vita, quelle rastrellatrici di paglia che girano continuamente,
-le macchine per mietere azionate a vapore e quelle alimentate da cavalli,
-i motori che frantumano il grano e lo puliscono, che separano con precisione la paglia dal chicco,
-il rapido funzionamento della forca a molla brevettata.
-Vedi anche le nuove segherie, i macchinari per raccogliere il cotone del Sud e quelli per pulire il riso.
-
-Sotto il tuo sguardo, o Madre, con queste mani e con le loro stesse forti braccia gli eroi raccoglievano il frutto del loro lavoro.
-
-Tutti si radunano e raccolgono;  
-Ma senza di te, o Potente, nessuna falce potrebbe muoversi con sicurezza,  
-Nessun stelo di mais penderebbe più con i suoi boccioli setosi e tranquilli.
-
-Sotto di te soltanto si raccoglie; non altro che un filo d’erba sotto il tuo grande volto.
-Raccogli il grano dell’Ohio, dell’Illinois, del Wisconsin. Ogni lancia acuminata sotto di te.
-Raccogli il mais del Missouri, del Kentucky, del Tennessee. Ogni baccello nella sua guaina verde chiaro.
-Raccogli l’erba nei numerosi campi, nelle stalle tranquille e profumate. L’avena nei suoi silos. La patata bianca. Il grano saraceno del Michigan.
-Raccogli il cotone nel Mississippi o nell’Alabama. Scava e accumula la patata dolce dorata della Georgia e delle Carolina.
-Taglia la lana della California o della Pennsylvania.
-Coltiva il lino negli Stati Centrali. O l’oppio, il tabacco nei confini.
-Raccogli i piselli, i fagioli. Raccogli le mele dagli alberi, i grappoli dalle viti.
-O qualsiasi altra coltura maturi in tutti questi Stati, nel Nord o nel Sud.
-Sotto il sole splendente. E sotto di te.
-
 
 
 <span class="atom-split" data-atom="201_warble_for_lilac_time" data-title="Warble for Lilac-Time" data-chapter="" data-kind="intro" data-tags="motif/spring,motif/flowers,motif/birds,motif/nature,motif/seasons,concept/joy,concept/nostalgia,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -575,34 +351,6 @@ A warble for joy of returning in reminiscence.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: [[motifs/autumn|AUTUNNO]] RIVULETTI_
-
-
-Cantami ora, per la gioia di questo tempo di lillà, (ritornando nel ricordo, )  
-Organizzami, o lingua e labbra, per il bene della [[concepts/nature|Natura]], ricordi dell’estate più remota.
-Raccogli questi segni di primavera: i bambini con le pietre o le conchiglie disposte a filo.
-Aprile, maggio, gli uccelli che cantano nelle pozze, l’aria elastica.
-[[motifs/bees|Api]], farfalle, il passero con le sue semplici note.
-Il pettirosso e la rondine veloce. Non dimentichiamo nemmeno l’uccello dal piumaggio dorato.
-La nebbia serena e soleggiata, il fumo che si attacca alle cose.
-L’argento delle acque dove nuotano i pesci, il cielo azzurro sopra.
-Tutto ciò che è gioioso e scintillante: i ruscelli che scorrono, i boschi di acero, i giorni freschi di febbraio.
-Il pettirosso, con il suo canto chiaro all’alba e al tramonto. O che vola tra gli alberi dell’orchideaia, costruendo il nido per la sua compagna.
-La neve sciolta di marzo, i salici che fioriscono di germogli giallo-verdi.
-Perché la [[motifs/spring|primavera]] è arrivata! La [[motifs/time|estate]] è qui. E cosa c’è in essa, e da essa deriva?  
-O tu, [[motifs/soul|'anima]]. Liberati da quella inquietudine che non so di cosa sia.
-Vieni, non restiamo più qui; alziamoci e partiamo!  
-Oh, se solo potessimo volare come un uccello.
-Oh, fuggire, salpare come su una [[motifs/ship|nave]].
-Scivolare insieme a te, o [[motifs/soul|'anima]], attraverso tutto, in tutto. Come una [[motifs/ship|nave]] sulle acque.
-Raccogliendo questi segni, questi preludi. Il cielo blu, l’erba, le gocce di rugiada del mattino.
-Il profumo dei lillà, i cespugli con foglie verde scuro a forma di cuore.
-I violini del bosco, i piccoli fiori delicati chiamati innocenza.
-Elementi che non esistono per sé stessi, ma per abbellire l’ambiente circostante.
-Per adornare il cespuglio che amo. Per cantare insieme agli [[motifs/birds|uccelli]], un canto di gioia, nel ricordo del ritorno.
-
 
 
 <span class="atom-split" data-atom="261_all_is_truth" data-title="All Is Truth" data-chapter="" data-kind="intro" data-tags="concept/truth,concept/self_and_cosmos,concept/identity,concept/the_natural_order,form/free_verse,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -644,27 +392,6 @@ And sing and laugh and deny nothing.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: DALLA [[motifs/noon|MATTINA]] ALLA NOTTE STELLATA_.  
-
-
-O me, uomo di debole e incerta [[concepts/faith|fede]] per tanto tempo.
-Mentre stavo in disparte, rifiutando di accettare qualsiasi dono.
-Solo oggi ho compreso pienamente la verità, diffusa ovunque.
-Ho scoperto che non esiste alcuna menzogna, né alcuna forma di falsità.
-E che essa, proprio come la verità stessa, cresce inevitabilmente da sé.
-Proprio come qualsiasi legge della terra, o qualsiasi fenomeno naturale.  
-
-(Questo è curioso e potrebbe non essere compreso immediatamente, ma deve essere capito.  
-Sento dentro di me che rappresento le menzogne allo stesso modo degli altri. E che lo stesso vale per l’universo.)  
-
-Dove è andata persa quella perfetta capacità di rispondere indifferentemente alle menzogne o alla [[concepts/truth|verità]]?  
-È forse a terra, nell’[[motifs/water|acqua]] o nel [[motifs/fire|fuoco]]? O nello spirito dell’uomo?  
-O forse nella carne e nel [[motifs/blood|sangue]]?  
-
-Meditando tra bugiardi e ritirandomi profondamente in me stesso, vedo che in realtà non esistono bugiardi né menzogne; che nulla manca del proprio perfeetto “ritorno”, e che ciò che viene chiamato “bugia” è in realtà un perfetto “ritorno”. Ogni cosa rappresenta esattamente se stessa e ciò che l’ha preceduta; la [[concepts/truth|verità]] include tutto, ed è altrettanto compatta quanto lo spazio stesso. Non c’è alcuna imperfezione o vuoto nella quantità di verità: tutto è verità, senza eccezioni. Da ora in poi, celebrerò qualsiasi cosa veda o sia; canterò, riderò e non negherò nulla.
-
 
 
 <span class="atom-split" data-atom="269_by_broad_potomac_s_shore" data-title="By Broad Potomac’s Shore" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/nature,motif/spring,motif/rose,motif/grass,motif/river,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -694,27 +421,6 @@ O deathless grass, of you!
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: DALLA [[motifs/noon|MATTINA]] ALLA NOTTE STELLATA_.
-
-
-Sulle rive ampie del Potomac, ancora quella vecchia lingua.
-(Continui a parlare, continui a esprimerti. Non riesci mai a smettere questo balbettio?)  
-Ancora quel vecchio cuore così felice. Ancora una volta, verso di te, i tuoi sensi rivivono,  
-il pieno splendore della [[motifs/spring|primavera]] ritorna.
-Ancora quella freschezza, quegli odori. Ancora il cielo estivo della Virginia,  
-azzurro trasparente e argenteo.
-Ancora il viola delle colline al mattino.
-Ancora quell’erba silenziosa, morbida e verde.
-Ancora quelle rose rosso sangue in fiore.
-
-Profuma questo mio libro, o rose rosso sangue!
-Lava delicatamente ogni riga con le tue acque, Potomac!
-Dammi di te, o primavera, prima che chiuda il libro, da mettere tra le sue pagine!
-O viola del pomeriggio delle colline, dammi di te, prima che chiuda il libro!
-O erba immortale, dammi di te!
-
 
 
 <span class="atom-split" data-atom="274_spirit_that_form_d_this_scene" data-title="Spirit That Form’d This Scene" data-chapter="" data-kind="intro" data-tags="motif/nature,concept/nature_vs_civilization,concept/the_artist_and_society,concept/the_sublime,setting/the_american_west,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -743,23 +449,6 @@ They have remember’d thee.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: DALLA [[motifs/noon|MATTINA]] ALLA NOTTE STELLATA_.
-
-Scritto nel Platte Canyon, Colorado
-
-Spirito che hai creato questa scena,  
-queste pile di rocce rossastre e scoscese,  
-questi picchi audaci che sfidano il cielo,  
-questi burroni, questi corsi d’acqua impetuosi, questa freschezza selvaggia.
-So chi sei, spirito selvaggio: abbiamo condiviso qualcosa insieme.  
-Anch’io ho creato simili forme selvagge, per motivi miei personali.  
-Hanno forse assorbito, attraverso le mie canzoni, l’arte e la delicatezza che avevano dimenticato?  
-Per fonderle in qualcosa di armonioso, seguendo regole precise e raffinate.
-Il ritmo misurato del cantante, la grazia dei templi costruiti con cura, le colonne, gli archi levigati, tutto è stato dimenticato?  
-Ma tu, spirito che hai creato questa scena, loro ti hanno ricordato.
-
 
 
 <span class="atom-split" data-atom="305_the_first_dandelion" data-title="The First Dandelion" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,motif/spring,motif/nature,motif/flowers,motif/seasons,motif/dawn,motif/grass,concept/innocence_and_experience,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -779,17 +468,6 @@ The [[motifs/spring|spring]]’s first dandelion shows its trustful face.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
-
-
-Semplice, fresco e puro, emerge dal termine dell’[[motifs/winter|—inverno]];  
-Come se nessun artificio legato alla moda, agli affari o alla politica fosse mai esistito.
-Nel suo angolo soleggiato, tra l’erba protetta, tutto appare [[archetypes/innocent|innocente]], dorato e tranquillo,  
-proprio come l’[[motifs/dawn|'alba]].
-Il primo tarassaco della primavera mostra il suo volto fiducioso.
-
 
 
 <span class="atom-split" data-atom="311_out_of_may_s_shows_selected" data-title="Out of May’s Shows Selected" data-chapter="" data-kind="intro" data-tags="motif/spring,motif/nature,motif/flowers,motif/seasons,motif/sun,concept/beauty,form/lyric,setting/pastoral_countryside,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -808,20 +486,6 @@ The aspiring lilac bushes with profuse purple or white [[motifs/flowers|flowers]
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Titolo:  
-# Selezione dagli spettacoli di maggio
-
-_Cluster: Sabbie a settanta_  
-
-
-Orti di mele, gli alberi tutti coperti di fiori;  
-Campi di grano che si estendono lontano, in un verde smeraldo intenso;  
-La freschezza eterna e inesauribile di ogni mattina presto;  
-La nebbia gialla, dorata, trasparente del caldo sole pomeridiano;  
-I cespugli di lillà, rigogliosi di fiori viola o bianchi.
 
 
 
@@ -844,21 +508,6 @@ The brooding and blissful halcyon days!
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
-
-
-Né dalla felice [[motifs/love|amore]] solitaria,  
-né dalla ricchezza, né da un’onorata mezza età, né dalle vittorie in politica o in guerra;  
-ma quando la vita declina e tutte le passioni tumultuose si placano,  
-quando tonalità splendide, evanescenti e silenziose coprono il cielo serale,  
-quando dolcezza, pienezza e riposo avvolgono il corpo, come un’aria più fresca e lenitiva,  
-quando i giorni assumono una luce più morbida, e la mela finalmente matura,  
-completamente matura e tranquilla, sull’albero.
-Allora arrivano i giorni più tranquilli e felici di tutti!  
-Quei giorni sereni e beati.
 
 
 
@@ -901,30 +550,6 @@ Thou tellest to a kindred [[motifs/soul|soul]].
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
-
-
-Con labbra severe e orgogliose, o mare!  
-Là dove giorno e notte battono le tue rive,  
-Immaginando le tue meraviglie e i tuoi misteri,  
-Vedo chiaramente ogni tuo segreto.
-Le tue onde bianche come cavalli al galoppo verso la meta,  
-Il tuo volto sereno, incorniciato dai raggi del sole,  
-Il tuo sguardo cupo e tempestoso. La tua indomabilità, i tuoi capricci.
-Grande com’eri tra tutte le cose, quelle tue lacrime. Una mancanza nell’eternità della tua esistenza.
-Solo grandi sofferenze, ingiustizie e sconfitte potrebbero renderti ancora più grande. O forse no.
-Il tuo stato di solitudine. Qualcosa che cerchi sempre, ma mai riesci a ottenere.
-Certamente qualche diritto negato. Qualche voce, in un grido monotono e furioso, di una libertà imprigionata.
-Un cuore immenso, come quello di un pianeta, incatenato tra quelle onde tumultuose.
-Che si solleva con forza, poi si placa. Con il respiro affannoso delle onde, con i sibili dei serpenti, con le risate selvagge.
-E con quel suono lontano del ruggito di un leone.
-Un suono che sembra chiamare l’orecchio sordo del cielo. Ma ora, per una volta sola, diventa il tuo confidente nella notte.
-La prima e ultima confessione del mondo intero.
-Che emerge dalle profondità della tua anima. La storia di un amore cosmico, primordiale.
-La racconti a un’anima affine alla tua.
-
 
 
 <span class="atom-split" data-atom="324_continuities" data-title="Continuities" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,motif/seasons,motif/spring,motif/sun,motif/grass,concept/immortality,concept/the_natural_order,concept/identity,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -949,22 +574,6 @@ With grass and [[motifs/flowers|flowers]] and [[motifs/summer|summer]] fruits an
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
-
-
-Niente viene mai davvero perso, né può essere perduto:  
-nessun nascita, nessuna [[concepts/identity|identità]], nessuna forma, nessun oggetto del mondo.  
-Né la vita, né la forza, né alcuna cosa visibile;  
-l’apparenza non deve ingannare, né un cambiamento confondere la tua mente.  
-Il [[motifs/time|tempo]] e lo [[concepts/nature|spazio]] sono infiniti; i campi della [[concepts/body|Natura]] sono vastissimi.  
-Il [[motifs/spring|corpo]], lento, vecchio, freddo, solo braci di fiamme passate;  
-la luce negli occhi, ormai attenuata, tornerà a brillare;  
-il sole, ora basso all’orizzonte, sorge ancora per le mattine e per i pomeriggi senza fine.  
-Anche alle masse congelate, la legge invisibile della [[motifs/flowers|primavera]] ritorna sempre:  
-erba, fiori, frutti estivi, il grano.
-
 
 
 <span class="atom-split" data-atom="330_the_calming_thought_of_all" data-title="The Calming Thought of All" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,concept/the_natural_order,concept/faith_and_doubt,concept/transience,concept/self_and_cosmos,form/fragment,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -982,16 +591,6 @@ The round earth’s silent vital laws, facts, modes continue.
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
-
-
-Quel movimento incessante, nonostante le varie speculazioni umane,  
-tra le continue trasformazioni delle scuole di pensiero, delle teologie e delle filosofie,  
-nonostante le nuove e vecchie proposte clamorose,  
-le leggi silenziose e vitali della terra rotonda continuano ad esistere.
 
 
 
@@ -1018,24 +617,6 @@ Reck’d or unreck’d, duly with [[motifs/love|love]] returns.)
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
-
-
-E chi sei tu? dissi alla pioggia che cadeva dolcemente;  
-Strano a dirsi, ma mi rispose così:  
-“Sono il Poema della Terra”, disse la voce della pioggia.  
-“Eterno, sorgo invisibile dalla terra e dal mare senza fondo,  
-Salgo verso il cielo. Lì, prendendo forma vaga, cambiando completamente,  
-Eppure rimanendo lo stesso,  
-Scendo a bagnare le aridezze, gli atomi, le strati di polvere del pianeta;  
-Tutto ciò che in essi esiste, prima era solo seme, latente, non ancora nato.
-E per sempre, di giorno e di notte, restituisco la vita alla mia stessa origine,  
-La purifico e la rendo bella, ”  
-(Poiché la canzone, nata dal suo luogo d’origine, dopo essere stata compiuta, erra.
-Essendo ricordata o no, ritorna sempre, con amore.)
 
 
 
@@ -1067,19 +648,6 @@ For such the scenes the annual play brings on.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
-
-
-Ben presto arriverà la controparte dell’[[motifs/winter|inverno]];  
-Ben presto queste gelide restrizioni si scioglieranno e svaniranno. Tra poco,  
-aria, terra, onde saranno avvolte in morbidezza, fioritura e crescita;  
-mille forme sorgeranno da questi blocchi di ghiaccio e freddo,  
-come se emergessero da tombe profonde.  
-
-I tuoi occhi, le tue orecchie, tutti i tuoi migliori attributi, tutto ciò che permette di percepire la bellezza naturale, si risveglieranno e ti riempiranno di meraviglia. Vedrai le semplici manifestazioni della natura, i delicati miracoli che essa offre: i denti di leone, il trifoglio, l’erba smeralda, i primi profumi e i fiori. L’arbusto sotto i tuoi piedi, il giallo-verde del salice, i pruni e i ciliegi in fiore. E insieme a tutto ciò, il pettirosso, la allodola, il tordo che cantano le loro canzoni. Il colibrì che vola veloce tra i fiori. Perché è proprio questo lo spettacolo che la natura ci offre ogni anno.
-
 
 
 <span class="atom-split" data-atom="342_you_lingering_sparse_leaves_of_me" data-title="You Lingering Sparse Leaves of Me" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/leaves,motif/autumn,motif/winter,motif/seasons,concept/mortality,concept/self_and_soul,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1101,18 +669,6 @@ The faithfulest--hardiest--last.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
-
-
-Le mie poche, sparse foglie che rimangono sugli alberi vicini all’inverno,  
-e io stesso, un albero ormai spoglio nei campi o lungo i filari degli orti;  
-voi simboli di ciò che è svanito, (non più il rosso di maggio, né il fiore del trifoglio di luglio,  
-né nemmeno un granello di grano ad agosto, )  
-Voi stendardi pallidi e senza valore, voi rimasti oltre il tempo previsto.
-Eppure, le mie foglie più care, quelle più fedeli, più resistenti, sono ancora lì, a confermare tutto il resto.
-
 
 
 <span class="atom-split" data-atom="361_shakspere_bacon_s_cipher" data-title="Shakspere-Bacon’s Cipher" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/the_book,motif/stars,concept/appearance_vs_reality,concept/self_and_cosmos,form/lyric,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1132,18 +688,6 @@ A mystic cipher waits infolded.
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Addio, mia fantasia_  
-
-
-Non ne dubito affatto, anzi, molto di più;  
-In ogni vecchia canzone tramandata; in ogni pagina o testo nobile,  
-(Creato da qualcuno mai considerato prima, da un autore insospettato, )  
-In ogni oggetto, montagna, albero, stella; in ogni nascita e vita,  
-Come parte integrante di tutto ciò, evolutasi da tutto ciò.
-Dietro l’apparenza esteriore, c’è un codice mistico nascosto.
 
 
 
@@ -1182,27 +726,6 @@ Hast thou no [[motifs/soul|soul]]? Can I not know, identify thee?
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Addio, mia fantasia_  
-
-
-Ah, sussurrando, qualcosa di nuovo, invisibile.
-Quando, a tarda notte, entri dalla mia finestra o dalla mia porta.
-Tu, che lenisci tutto, che rinfreschi, che doni vita dolcemente.
-A me, vecchio, solo, malato, debole, tu che mi avvolgi con tenerezza e forza.
-Compagno migliore di parole, libri, arte.
-(O tu, [[concepts/nature|Natura]]! Elementi, il tuo messaggio raggiunge il mio cuore più profondamente di qualsiasi altro, )  
-Che dolce è il tuo tocco, le tue dita che accarezzano il mio viso e le mie mani.
-Tu, messaggero magico, portatore di meraviglie per il mio corpo e la mia anima.
-(Distanze vengono superate; medicine arcane penetrano in me da capo a piede, )  
-Percepisco il cielo, le vaste praterie, i laghi del nord, l’oceano, la foresta. Sembra che percepisca persino il pianeta stesso che viaggia veloce nello spazio.
-Tu, proveniente da labbra tanto amate, ora sei andato, forse proveniente da una fonte infinita, inviato da Dio.
-(Perché sei spirituale, divino, qualcosa di profondamente conosciuto dai miei sensi, )  
-Un messaggero che mi parla, qui e ora, parole che mai nessuno ha detto, e che forse non potranno mai essere dette.
-Non sei forse la distillazione dell’universo concreto? L’ultima perfezione della legge, di tutta l’astronomia.
-Non hai forse un’anima? Non posso forse conoscerti, riconoscerti?
-
 
 
 <span class="atom-split" data-atom="368_sounds_of_the_winter" data-title="Sounds of the Winter" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,motif/winter,motif/nature,motif/music_and_song,concept/mortality,form/lyric,setting/pastoral_countryside,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1223,20 +746,6 @@ Forth from these snowy hairs we keep up yet the lilt.
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Addio, mia fantasia_  
-
-
-Anche i suoni dell’[[motifs/winter|inverno]],  
-il sole che illumina le  montagne. Molti suoni lontani,  
-provenienti dai felici treni ferroviari,  
-dai campi vicini, dalle stalle, dalle case.
-Il sussurro dell’aria. Anche i silenziosi raccolti di frutta, di mais.
-I toni delle bambine e delle donne. Il ritmo del lavoro dei contadini.
-E anche le parole chiacchierone di un vecchio. Non pensate che abbiamo già smesso:  
-dai nostri capelli innevati continuiamo a esprimere la nostra melodia.
 
 
 
@@ -1262,20 +771,6 @@ And wholly and joyously blends them.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Addio, mia fantasia_  
-
-
-Quando arrivò il poeta adulto,  
-la [[concepts/nature|Natura]] si manifestò felice (il globo rotondo e impassibile, con tutte le sue manifestazioni di giorno e [[motifs/night|notte]]), dicendo: “Lui è mio”;  
-ma anche l’[[motifs/soul|Anima]] umana parlò, orgogliosa, gelosa e irreconciliata.
-“No, lui è soltanto mio”, disse.  
-Allora il poeta adulto si mise tra i due e prese ciascuno per mano;  
-e oggi, e per sempre, rimane lì, come un mediatore, un unificatore, tenendo saldamente le loro mani.
-Non le lascerà mai andare, finché non avrà riconciliato i due,  
-finché non li avrà fusi completamente e gioiosamente insieme.
-
 
 
 <span class="atom-split" data-atom="378_grand_is_the_seen" data-title="Grand Is the Seen" data-chapter="" data-kind="intro" data-tags="motif/stars,concept/self_and_soul,concept/self_and_cosmos,concept/immortality,concept/the_sublime,concept/appearance_vs_reality,form/free_verse,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1300,19 +795,6 @@ More multiform far--more lasting thou than they.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Addio, mia fantasia_  
-
-
-Grande è ciò che vedo: la luce, il cielo e le [[motifs/stars|stelle]];  
-grande è la terra, così come il duraturo [[motifs/time|tempo]] e lo spazio;  
-grande sono anche le loro leggi, così varie, enigmatiche e in evoluzione.
-Ma ancora più grande è l’invisibile [[motifs/soul|'anima]] che è in me: essa comprende e dona tutto ciò;  
-è lei a illuminare la luce, il cielo e le stelle, a esplorare la terra, a navigare nel mare.
-(Cosa sarebbero stati tutti questi elementi senza di te, o invisibile [[motifs/soul|'anima]]? Quanto poco avrebbero significato senza di te, )  
-Oh mia [[motifs/soul|'anima]], quanto sei più vasta, enigmatica e in evoluzione. Quanto più varia e duratura di tutte queste cose!
-
 
 
 <span class="atom-split" data-atom="379_unseen_buds" data-title="Unseen Buds" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/winter,motif/flowers,motif/stars,concept/immortality,concept/self_and_cosmos,concept/wonder_and_gratitude,form/free_verse,cluster/nature,cluster/book_of_nature,cluster/natural_order"></span>
@@ -1334,18 +816,3 @@ And waiting ever more, forever more behind.
 
 
 
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Addio, mia fantasia_  
-
-
-Budelli invisibili, infiniti, nascosti nelle profondità della terra;  
-sotto la neve e il ghiaccio, nell’oscurità, in ogni centimetro cubo.
-Germinali, delicati, minuscoli, ancora non nati.
-Come bambini nel grembo materno, latenti, compatti, addormentati.
-Miliardi e miliardi di loro aspettano.
-(Sulla Terra e nel mare, nell’universo, nelle stelle lassù in cielo, )  
-Si sviluppano lentamente, con sicurezza, formando qualcosa di infinito.
-E continuano ad aspettare, per sempre.

@@ -24,17 +24,6 @@ How very blithe the maiden
 Who gathered these today!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Oh se ricordare fosse dimenticare -  
-Allora io non ricordo!  
-E se dimenticare - rammentare -  
-Quanto ero vicina ad aver dimenticato!  
-E se rimpiangere - fosse lieto -  
-E far cordoglio fosse gaio,  
-Che gioconda la fanciulla  
-Che colse questi oggi!
-
 
 
 <span class="atom-split" data-atom="0136_have_you_got_a_brook_in_your_little_heart" data-title="136. Have you got a Brook in your little heart," data-chapter="" data-kind="intro" data-tags="motif/river,motif/water,motif/flowers,motif/seasons,concept/self_and_soul,concept/transience,form/allegory,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -60,28 +49,6 @@ When the meadows parching lie,
 Beware, lest this little brook of life  
 Some burning [[motifs/noon|noon]] go dry !
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Hai un ruscello nel tuo piccolo cuore,  
-Dove [[motifs/flowers|fiori]] timidi sbocciano,  
-E [[motifs/birds|uccelli]] arrossenti scendono a bere,  
-E le ombre tremano tanto ?  
-
-E nessuno sa, tanto quieto scorre,  
-Che vi sia lì alcun ruscello ;  
-Eppure il tuo piccolo sorso di vita  
-Vi è attinto ogni giorno.  
-
-Bada allora al piccolo ruscello in Marzo,  
-Quando i fiumi straripano,  
-E le nevi accorrono in fretta dai colli,  
-E i ponti spesso se ne vanno.  
-
-E più tardi, in Agosto può darsi,  
-Quando i prati giacciono riarsi,  
-Bada, che questo piccolo ruscello di vita  
-In qualche [[motifs/noon|mezzogiorno]] ardente non si secchi !
 
 
 
@@ -114,33 +81,6 @@ As if the little Ebon Box
 Were none of our affair!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-In Cofanetto d'Ebano, quando gli anni saranno volati  
-Scrutare con reverenza,  
-Detergendo la vellutata [[motifs/dust|polvere]]  
-Che le Estati vi hanno sparso!  
-
-Tenere una [[forms/letter|lettera]] contro la luce —  
-Fatta ormai Fulva, dal [[motifs/time|tempo]] —  
-Compitare le sillabe sbiadite  
-Che ci accesero come Vino!  
-
-Forse d'un Fiore la guancia avvizzita  
-Tra le sue scorte trovare —  
-Colto lontano, un mattino —  
-Da galante — marcescente mano!  
-
-Un ricciolo, forse, da fronti  
-Che la nostra Costanza dimenticò —  
-Forse, un Antico monile —  
-Montato in fogge svanite!  
-
-E poi riporli quieti —  
-E tornare alle proprie cure —  
-Come se il piccolo Cofanetto d'Ebano  
-Non fosse affar nostro!
-
 
 
 <span class="atom-split" data-atom="0302_like_some_old_fashioned_miracle" data-title="302. Like Some Old fashioned Miracle" data-chapter="" data-kind="intro" data-tags="motif/seasons,motif/memory,motif/music_and_song,motif/dreams,concept/transience,concept/nostalgia,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -167,28 +107,6 @@ The Violin in Baize replaced —
 And Ear — and Heaven — numb —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Come un Qualche Miracolo all'Antica  
-Quando la Stagione estiva è compiuta —  
-Pare il Ricordo dell'[[motifs/summer|Estate]]  
-E le Vicende di Giugno  
-
-Tanto infinita [[concepts/tradition|Tradizione]]  
-Quanto gli Allori di Cenerentola —  
-O Little John — in Verde di [[characters/lincoln|Lincoln]] —  
-O le Gallerie di Barbablù —  
-
-Le sue [[motifs/bees|Api]] hanno un Ronzio fittizio —  
-I suoi Fiori, come un Sogno —  
-Ci esaltano — fin quasi al pianto —  
-Così plausibili — sembrano —  
-
-Le sue Memorie come Melodie — Ritornano —  
-Quando l'Orchestra è muta —  
-Il Violino riposto nel suo Panno —  
-E Orecchio — e Cielo — attoniti —
-
 
 
 <span class="atom-split" data-atom="0367_over_and_over_like_a_tune" data-title="367. Over and over, like a Tune —" data-chapter="" data-kind="intro" data-tags="motif/memory,motif/music_and_song,concept/immortality_divine,concept/nostalgia,histref/the_bible,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -204,18 +122,6 @@ Cadences too grand
 But for the Justified Processions  
 At the Lord's Right hand.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Sempre e ancora, come una Melodia —  
-Il Ricordo suona —  
-Rulla giù dagli Spalti [[characters/phantom|Fantasma]]  
-Cornette di Paradiso —  
-
-Frammenti, da Generazioni Battezzate —  
-Cadenze troppo grandi  
-Se non per le Processioni Giustificate  
-Alla Destra del Signore.
 
 
 
@@ -253,38 +159,6 @@ Rabbi of the Wise Book
 Don't you know?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Sa come dimenticare!  
-Ma potrebbe insegnarlo?  
-La più facile delle Arti, dicono  
-Quando si impara come  
-
-Cuori ottusi son morti  
-Nell'Acquisizione  
-Sacrificarsi per la Scienza  
-È comune, però, ormai —  
-
-Andai a Scuola  
-Ma non ne fui più saggia  
-Il Globo non lo insegnò  
-Né il Logaritmo lo Mostrò  
-
-"Come dimenticare"!  
-Dica — qualche — Filosofo!  
-Ah, essere eruditi  
-Abbastanza da saperlo!  
-
-È in un Libro?  
-Così, potrei comprarlo —  
-È come un Pianeta?  
-I Telescopi lo saprebbero —  
-
-Se è invenzione  
-Deve avere un Brevetto.  
-Rabbino del Libro Sapiente  
-Tu non lo sai?
-
 
 
 <span class="atom-split" data-atom="0686_they_say_that_time_assuages" data-title="686. They say that &quot;Time assuages&quot; —" data-chapter="" data-kind="intro" data-tags="motif/time,concept/grief_and_loss,concept/memory_and_time,concept/melancholy,concept/paradox,form/lyric,form/epigram,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -300,18 +174,6 @@ But not a Remedy —
 If such it prove, it prove too  
 There was no Malady —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Dicono che "il [[motifs/time|Tempo]] mitiga" —  
-Il [[motifs/time|Tempo]] non ha mai mitigato —  
-Una vera [[concepts/suffering|sofferenza]] si rafforza  
-Come i Tendini, con l'età —  
-
-Il [[motifs/time|Tempo]] è una Prova dell'Affanno —  
-Ma non un Rimedio —  
-Se tale si dimostra, dimostra anche  
-Che non c'era Malattia —
 
 
 
@@ -334,23 +196,6 @@ It just reminded me — 'twas all —
 And came my way no more —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Un Pensiero mi salì alla mente oggi —  
-Che avevo avuto già —  
-Ma non conclusi — tempo addietro —  
-Non saprei fissare l'Anno —  
-
-Né dove andò — né perché venne  
-La seconda [[motifs/time|volta]] a me —  
-Né con certezza, che cosa fosse —  
-Ho io l'Arte di dire —  
-
-Ma in qualche luogo — nella mia [[motifs/soul|Anima]] — so —  
-Ho già incontrato quella Cosa —  
-Mi ha soltanto rammentato — ecco tutto —  
-E non venne più sulla mia via —
-
 
 
 <span class="atom-split" data-atom="0719_a_south_wind_has_a_pathos" data-title="719. A South Wind — has a pathos" data-chapter="" data-kind="intro" data-tags="motif/wind,motif/the_sea,concept/nostalgia,concept/melancholy,concept/exile,concept/desire,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -366,18 +211,6 @@ And much not understood —
 The fairer — for the farness —  
 And for the foreignhood.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Un [[motifs/wind|Vento]] del Sud — ha un pathos  
-Di Voce individuale —  
-Come Chi coglie sugli Approdi  
-La parlata di un Emigrante.  
-
-Un Sentore di Porti e di Popoli —  
-E molto non compreso —  
-Più bello — per la lontananza —  
-E per la forestierità.
 
 
 
@@ -399,23 +232,6 @@ Not even [[characters/god|God]] can heal;
 For 't is his institution,---  
 The complement of hell.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il rimorso è [[motifs/memory|memoria]] desta,  
-Le sue compagnie in fermento,---  
-Una presenza di atti passati  
-Alla [[motifs/window|finestra]] e alla [[motifs/door|porta]].  
-
-Il suo passato disposto innanzi all'[[motifs/soul|anima]],  
-E illuminato con un fiammifero,  
-Per facilitarne la lettura  
-Del suo condensato dispaccio.  
-
-Il rimorso è incurabile,---il male  
-Che nemmeno [[characters/god|Dio]] può sanare;  
-Poiché è sua istituzione,---  
-Il complemento dell'inferno.
 
 
 
@@ -443,28 +259,6 @@ Unto Such, were such Assembly
 'Twere Thanksgiving Day.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Un Giorno v'è della Serie  
-Detto Giorno del Ringraziamento.  
-Celebrato parte a Tavola  
-Parte in [[motifs/memory|Memoria]].  
-
-Né Patriarca né Micia  
-Io disseco la Recita  
-Pare al mio Incappucciato pensiero  
-Riflesso di Festa.  
-
-Non fosse stata la brusca Sottrazione  
-Dalla Somma di un tempo —  
-Non un Acro o una Didascalia  
-Dove un tempo era una Stanza —  
-
-Non una Menzione, il cui piccolo Ciottolo  
-Increspò alcun [[motifs/sea|Mare]],  
-Per Costoro, fosse tale Assemblea  
-Sarebbe Giorno del Ringraziamento.
-
 
 
 <span class="atom-split" data-atom="0895_a_cloud_withdrew_from_the_sky" data-title="895. A Cloud withdrew from the Sky" data-chapter="" data-kind="intro" data-tags="motif/memory,concept/grief_and_loss,concept/the_sublime,concept/memory_and_time,form/lyric,histref/christianity,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -486,23 +280,6 @@ Till I am firm in Heaven
 Is my intention now.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Una Nuvola si ritirò dal Cielo  
-Superiore Gloria sia  
-Ma quella Nuvola e le sue Ausiliarie  
-Sono per sempre perdute per me  
-
-Avessi solo scrutato oltre  
-Avessi fissato il Bagliore  
-In un'Ermetica [[motifs/memory|Memoria]]  
-Mi gioverebbe ora.  
-
-Mai più passare oltre l'Angelo  
-Con un'occhiata e un Inchino  
-Finché non sia salda in Cielo  
-È il mio proposito ora.
-
 
 
 <span class="atom-split" data-atom="0898_how_happy_i_was_if_i_could_forget" data-title="898. How happy I was if I could forget" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/memory,motif/autumn,concept/grief_and_loss,concept/nostalgia,concept/melancholy,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -518,18 +295,6 @@ Till I who was almost bold
 Lose my way like a little [[archetypes/child|Child]]  
 And perish of the cold.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Com'ero felice se potessi dimenticare  
-Ricordare quanto sono triste  
-Sarebbe una facile avversità  
-Ma il rammentare la Fioritura  
-
-Rende Novembre difficile  
-Finché io che ero quasi ardita  
-Smarrisco la via come un piccolo [[archetypes/child|Bimbo]]  
-E perisco di freddo.
 
 
 
@@ -557,28 +322,6 @@ That — I cannot say —
 Question [[motifs/memory|Memory]]!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il primo Giorno che fui una Vita  
-Lo rammento — Che quiete —  
-Quell'ultimo Giorno che fui una Vita  
-Lo rammento — [[motifs/well|ugualmente]] —  
-
-Era più quieto — benché il primo  
-Fosse quieto —  
-"Era vuoto — ma il primo  
-Era pieno —  
-
-Questa — fu la mia finalissima Occasione —  
-Ma allora  
-Il mio più tenero Esperimento  
-Verso gli Uomini —  
-
-"Quale scelgo Io"?  
-Questo — non so dire —  
-"Quale scelgono Loro"?  
-Interroga la [[motifs/memory|Memoria]]!
-
 
 
 <span class="atom-split" data-atom="0995_this_was_in_the_white_of_the_year" data-title="995. This was in the White of the Year —" data-chapter="" data-kind="intro" data-tags="motif/seasons,motif/winter,motif/flowers,concept/memory_and_time,concept/nostalgia,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -594,18 +337,6 @@ Or if it be — before —
 Retrospection is Prospect's half,  
 Sometimes, almost more.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Questo fu nel Bianco dell'Anno —  
-Quello — fu nel Verde —  
-I Cumuli eran sì ardui allora a pensarsi  
-Come le Margherite ora a vedersi —  
-
-Guardare indietro è il meglio che resta  
-O se pure sia — davanti —  
-La Retrospezione è metà del Prospetto,  
-Talvolta, quasi più.
 
 
 
@@ -633,28 +364,6 @@ We buy with contrast — Pang is good
 As near as [[motifs/memory|memory]] —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La [[motifs/snow|Neve]] che mai s'ammucchia —  
-La transitoria, fragrante [[motifs/snow|neve]]  
-Che viene una sola [[motifs/time|volta]] l'Anno  
-Ora lieve sta turbinando —  
-
-Così compiuta nell'[[motifs/tree|Albero]]  
-Di [[motifs/night|notte]] sotto la stella  
-Che fosse il Piede di Febbraio  
-L'Esperienza giurerebbe —  
-
-Come l'[[motifs/winter|Inverno]] quale Volto  
-Che severo e antico conoscemmo  
-Sanato di tutto fuorché della [[concepts/loneliness|Solitudine]]  
-Dall'Alibi della [[concepts/nature|Natura]] —  
-
-Fosse ogni [[motifs/storm|tempesta]] così spezia  
-Il Valore non potrebbe darsi —  
-Compriamo col contrasto — la Fitta è buona  
-Quanto le è vicina la [[motifs/memory|memoria]] —
-
 
 
 <span class="atom-split" data-atom="1182_remembrance_has_a_rear_and_front" data-title="1182. Remembrance has a Rear and Front —" data-chapter="" data-kind="intro" data-tags="motif/memory,motif/animals,concept/memory_and_time,concept/self_and_soul,concept/madness,form/allegory,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -671,18 +380,6 @@ Look to it by its Fathoms
 Ourselves be not pursued —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La Rimembranza ha un Retro e una Facciata —  
-È qualcosa come una Casa —  
-Ha anche una Soffitta  
-Per i Rifiuti e il Topo.  
-
-Oltre alla più profonda Cantina  
-Che mai Muratore posò —  
-Bada ai suoi Abissi  
-Che noi stessi non siamo inseguiti —
-
 
 
 <span class="atom-split" data-atom="1196_to_make_routine_a_stimulus" data-title="1196. To make Routine a Stimulus" data-chapter="" data-kind="intro" data-tags="motif/memory,concept/transience,concept/grace_and_redemption,concept/memory_and_time,concept/paradox,form/aphorism,form/lyric,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -697,17 +394,6 @@ That power to repair
 Departed with the Torment  
 Become, alas, more fair —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Fare della Routine uno Stimolo  
-Ricorda che può cessare —  
-La Capacità di Terminare  
-È una Grazia Specifica —  
-Della Retrospezione la Freccia  
-Quel potere di riparare  
-Partito con il Tormento  
-Divenuto, ahimè, più bello —
 
 
 
@@ -724,18 +410,6 @@ What Loss would value more
 Had it the stricken privilege,  
 It cherishes before.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Non fosse stato questo unico Giorno.  
-O potesse cessare d'essere  
-Come colpito, come superfluo,  
-Sarebbe ogni altro Giorno!  
-
-Perché [[motifs/love|Amore]] non stimi meno  
-Ciò che Perdita stimerebbe più  
-Se avesse lo straziato privilegio,  
-Esso lo predilige prima.
 
 
 
@@ -758,23 +432,6 @@ You cannot supersede itself
 But it can [[motifs/silence|silence]] you —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Quel sacro Ripostiglio quando lo spazzi —  
-Intitolato "[[motifs/memory|Memoria]]" —  
-Scegli una Scopa reverente —  
-E fallo in silenzio.  
-
-Sarà un Lavoro di sorpresa —  
-Oltre all'[[concepts/identity|Identità]]  
-Di altri Interlocutori  
-Una probabilità —  
-
-Augusta la [[motifs/dust|Polvere]] di quel Dominio —  
-Incontestata — lasciala giacere —  
-Tu non puoi soppiantarla  
-Ma essa ti può [[motifs/silence|zittire]] —
-
 
 
 <span class="atom-split" data-atom="1464_one_thing_of_it_we_borrow" data-title="1464. One thing of it we borrow" data-chapter="" data-kind="intro" data-tags="motif/memory,concept/grief_and_loss,concept/transience,concept/memory_and_time,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -789,17 +446,6 @@ The power to forget —
 The Anguish of the Avarice  
 Defrays the Dross of it —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Una cosa ne prendiamo in prestito  
-E promettiamo di renderla —  
-Il Bottino e la Pena  
-D'averne conosciuto la Dolcezza —  
-Una cosa ne bramiamo —  
-Il potere di dimenticare —  
-L'Angoscia dell'Avarizia  
-Ne ripaga la Scoria —
 
 
 
@@ -820,21 +466,6 @@ Its Iron Buds will sprout anew
 However overthrown —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Non puoi far crescere la Rimembranza  
-Quando ha perduto la sua Radice —  
-Lo stringere la Terra intorno  
-E il rimetterla dritta  
-Inganna forse l'Universo  
-Ma non recupera la Pianta —  
-La vera [[motifs/memory|Memoria]], come Piedi di Cedro  
-È calzata d'Adamante —  
-Né puoi abbattere la Rimembranza  
-Quando una volta sarà cresciuta —  
-Le sue Gemme di Ferro germoglieranno di nuovo  
-Per quanto rovesciata —
-
 
 
 <span class="atom-split" data-atom="1628_a_drunkard_cannot_meet_a_cork" data-title="1628. A Drunkard cannot meet a Cork" data-chapter="" data-kind="intro" data-tags="motif/wine_and_drink,motif/memory,motif/winter,concept/joy,concept/memory_and_time,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -853,21 +484,6 @@ And more are in the [[concepts/joy|joy]] —
 Your connoisseur in Liquours  
 Consults the Bumble Bee —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Un Ubriacone non può incontrare un Tappo  
-Senza una Fantasticheria —  
-E così incontrando una Mosca  
-In questo Giorno di Gennaio  
-Giamaiche di Ricordo si destano  
-Che mi mandano dentro barcollando —  
-Il bevitore moderato di Delizia  
-Non merita la [[motifs/spring|primavera]] —  
-Dei giulebbi, parte è nella Brocca  
-E più ancora nella [[concepts/joy|gioia]] —  
-Il vostro intenditore di Liquori  
-Consulta il Bombo —
 
 
 
@@ -892,25 +508,6 @@ Convenient to the [[concepts/longing|longing]]
 But otherwise withheld.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Per quei vecchi Terreni della [[motifs/memory|memoria]],  
-Il vagare in solitudine  
-È una divina intemperanza  
-Che un uomo prudente eviterebbe.  
-Dei liquori posti in vendita  
-È facile guardarsi  
-Ma gli statuti non s'immischiano  
-Con la taverna interiore.  
-Perniciosa come il tramonto  
-Che permette d'inseguire  
-Ma impotente a raccogliere,  
-La tranquilla perfidia  
-Adultera i nostri momenti più saldi  
-Con quell'oro severissimo  
-Concesso al [[concepts/longing|desiderio]]  
-Ma altrimenti negato.
-
 
 
 <span class="atom-split" data-atom="l0023_mrs_a_p_strong_tuesday_evening" data-title="To Mrs. A. P. Strong, Tuesday Evening" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/birds,motif/the_window,motif/insects,motif/memory,concept/friendship,concept/transience,concept/faith,concept/immortality_divine,concept/memory,form/letter,histref/the_bible,setting/new_england,character/god,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -925,16 +522,6 @@ You met our dear Sarah T. after I saw you here. Her sweet face is the same as in
 Shall it always be so, A.? Is there no longer day given for our communion with the spirits of our [[motifs/love|love]]? Writing is brief and Seeting—conversation will come again, yet if it will, it hastes and must be on its way. Earth is short, but Paradise is long—there must be many moments in an eternal day; then sometime we shall tarry while [[motifs/time|time]] and tide roll on, and till then vale.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Ancora per un poco sarò con voi, e poi di nuovo non lo sarò più”, perché voi tornerete dalla vostra madre. Ma la vera essenza del testo sta in questo: “se me ne vado, tornerò; e voi sarete con me dove io sono”; cioè, se tu vieni a novembre, sarai mio, e io sarò tuo, e così via, all’infinito. Mentre ci penso, caro amico, e parliamo di queste cose, permettimi di osservare che hai il modo più buffo di tornare in città, e il modo più deplorevole di andartene di nuovo, tra tutte le persone che conosco. Questa tua abitudine riguardo alle tue amiche femminili, be’, è davvero altrettanto effimera del “nuvolo mattutino” e della “rosa dell’alba”.
-
-Penso che fosse martedì sera quando fummo così divertiti dalle capacità oratorie di tre o quattro giovani signori. Ricordo di essere seduto accanto a te e di aver tratto grande soddisfazione da quella compagnia. Ricordo anche i nostri saluti reciproci, le promesse di rivederci, di raccontarci storie delle nostre vite. Di cercarci e ritrovarci dopo tanto tempo trascorso lontani. Faccio fatica a credere che queste siano solo ricordi. Che il nostro felice presente si aggiunga alla lunga serie dei giorni passati. È tutto troppo veloce, mio caro. Non riesco ancora ad accettare l’idea che tu sia davvero stato seduto sotto la mia finestra a cantare. Uscii una sola volta dopo quell’incontro. La mattina seguente cercai invano di trovarti. Scoprii i tuoi cugini Palmer, ma se davvero eri lì, doveva essere in una forma che il mio occhio non poteva percepire. Ero deluso. Speravo tanto in quella tua breve visita. Quando arriverà il momento in cui potremo sederci insieme e parlare di ciò che eravamo, di ciò che siamo e di ciò che potremmo essere. Con le persiane chiuse, caro A. E con la brezza più dolce che entra dalla finestra. Amo queste piccole fantasie. Ma le amerei ancora di più se non fossero così irrealistiche. Ho immaginato tante cose. E molte volte sono tornato a casa per scoprire che erano solo illusioni. Per questo ho quasi paura di sperare in ciò che desidero. Sembra, caro A, che tra tutti i momenti che popolano questo piccolo mondo, alcuni possano essere dedicati a coloro che amiamo. Un’ora separata. Un’ora più pura e vera delle altre. In cui potremmo fermarci un attimo, prima di proseguire il nostro cammino. Quella mattina abbiamo parlato piacevolmente. Se avessi saputo che era tutto ciò che mi spettava, forse avrei cercato di rendere quel momento ancora più bello. Ma non tornerà mai più. Non possiamo saperlo. A volte, non pensi anche tu che questi brevi e imperfetti incontri abbiano qualcosa da dirci? Forse, se non fosse per la tristezza che li accompagna, non ci ricorderemmo mai della loro brevità e del loro cambiamento. E costruiremmo una dimora sulla terra, quando in realtà il suo luogo è nei cieli. Forse quel “tesoro” qui sarebbe troppo prezioso. Troppo prezioso perché la “falena lo possa distruggere, o il ladro lo possa rubare”. E questo mi fa pensare a quella piccola falena che ho trovato nelle mie cose l’altro giorno. Una falena così sottile. Che in modi e maniere per me sconosciuti era riuscita a nascondersi in un cestino di lana. Quanto tempo quel mio “tesoro” ha trascorso lì, a compiere il suo lavoro distruttivo. Non spetta a me dirlo. Aveva qualcosa da fare lì. Spero abbia portato a termine la sua missione. Mi ha insegnato, caro A, a non custodire “tesori” qui sulla terra. O forse, in quel suo modo silenzioso e segreto, cercava di dirmi dell’altro tesoro. Quello che il ladro non può rubare. E che il tempo non può distruggere. Quante lezioni possiamo imparare dalle parole di questi piccoli “insegnanti”. Non ti fa pensare anche tu alla Bibbia, quando dice “non molti i potenti, né molti i saggi”?
-
-Ho incontrato la nostra cara Sarah T. dopo averti visto qui; il suo viso dolce è esattamente lo stesso di quei felici giorni scolastici. Inutilmente cerco tracce di rughe causate da tante preoccupazioni. Tutti noi amiamo molto Sarah e faremo del nostro meglio per rendere la sua visita piacevole. Non è straordinario che, dopo così molti anni, Sarah sia cambiata così poco? I suoi pensieri, sebbene più maturi, conservano ancora tutto il fascino della gioventù: non hanno perso la loro freschezza, l’innocenza e la serenità. Sembra davvero pura nel cuore, allegra e serena, come un dolce usignolo o una rondine che continua a cantare. Non la vedo spesso. Vorrei vederla di più. Parla spesso di te con grande affetto. Spero che nessun cambiamento né il tempo possano rovinare i nostri sentimenti. Li porterei tutti con me nel mio “casa” nel cielo glorioso e direi: “Eccomi, Padre mio, e coloro che mi hai dato”. Se la vita futura è migliore di questa, se lì ci sono angeli e i nostri amici sono glorificati e cantano. Perché dovremmo temere di andarci, quando spiriti beati ci aspettano? Volevo vederti di più e parlare con te di queste cose. Vorrei conoscere le tue opinioni e i tuoi sentimenti eterni. Come vedi le cose che ci attendono dopo questa vita. Oh, c’è molto da dire quando si incontra qualcuno che si ama. Sempre mi pare di non aver detto abbastanza. E quasi sempre penso che ciò che avremmo voluto dire sia rimasto inespresso.
-
-Dovrà sempre essere così, A.? Non esiste più alcun momento per la nostra comunione con gli spiriti del nostro [[motifs/love|amore]]? La scrittura è breve, e l’incontro di persona tornerà, ma se ciò dovesse accadere, avverrà in fretta, mentre il tempo continua a scorrere. La terra è breve, ma il Paradiso è infinito: in un giorno eterno devono esserci molti momenti. Allora, forse, un giorno ci fermeremo mentre il tempo prosegue senza sosta. Fino ad allora, bisogna aspettare con pazienza.
-
 
 
 <span class="atom-split" data-atom="l0076_mrs_gordon_l_ford_mr_bowdoin_mrs_anthon_and_miss_1848" data-title="To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson, 1848" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/memory,concept/friendship,concept/memory,concept/transience,form/letter,character/john_anderson,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -947,14 +534,6 @@ All your gifts should be rainbows if I owned half the shine, and but a bit of [[
 I must have one of yours. Please spare me a little lock sometime when you have your scissors and there is one to spare.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cara Emily, —avevo detto al barbiere che ti avrei risparmiato un’occhiata speciale, e ora, mantenendo la mia promessa, te ne mando una oggi stesso. Non ti darò mai più nulla che possa essere anche solo lontanamente paragonabile a questa piccola ciocca di capelli piena di “sole”, ma spero che nessun colore più cupo possa mai avvolgerti.
-
-Tutti i tuoi doni dovrebbero essere arcobaleni, se solo possedessi metà di quel splendore, e anche solo un po’ di [[motifs/sea|mare]] per creare delle gocce di pioggia. Cara Emily, questo è tutto ciò che ho. Servirà a farti ricordarmi quando i tuoi capelli saranno grigi e lisci, quando il silenzio, gli occhiali e “John Anderson my Jo” saranno l’unica cosa che ti rimarrà di me.
-
-Devo assolutamente averne uno dei tuoi. Per favore, dammene uno quando avrai le forbici e ne avrai uno in più da dedicarmi.
-
 
 
 <span class="atom-split" data-atom="l0108_dr_j_g_holland_and_mrs_holland" data-title="To Dr. J. G. Holland, and Mrs. Holland" data-chapter="" data-kind="intro" data-tags="motif/home,motif/the_house,concept/nostalgia,concept/memory_and_time,concept/transience,form/letter,setting/new_england,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -962,10 +541,6 @@ Devo assolutamente averne uno dei tuoi. Per favore, dammene uno quando avrai le 
 
 While the [[concepts/family|family]] lived for many years in the old mansion built by Emily Dickinson's grandfather, the Hon. Samuel Fowler Dickinson, they had moved away from it about 1840; and the following [[forms/letter|letter]] describes their return after fi f teen years to their early [[motifs/home|home]], where Emily was born, and where she died:—
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Mentre la [[concepts/family|famiglia]] visse per molti anni nella vecchia dimora costruita dal nonno di Emily Dickinson, l'onorevole Samuel Fowler Dickinson, se ne trasferì intorno al 1840; e la seguente [[forms/letter|lettera]] descrive il loro ritorno, dopo quindici anni, nella loro prima [[motifs/home|casa]], dove Emily nacque e morì:—
 
 
 
@@ -987,22 +562,6 @@ They say that “[[motifs/home|home]] is where the heart is.” I think it is wh
 But, my dear Mrs. Holland, I have another story, and lay my laughter all away, so that I can sigh. Mother has been an invalid since we came [[motifs/home|home]], and Vinnie and I “regulated,” and Vinnie and I “got settled,” and still we keep our father's house, and mother lies upon the lounge, or sits in her easy-chair. I don't know what her sickness is, for I am but a simple [[archetypes/child|child]], and frightened at myself. I often wish I was a grass, or a toddling daisy, whom all these problems of the [[motifs/dust|dust]] might not terrify—and should my own machinery get slightly out of gear, please, kind ladies and gentlemen, some one stop the [[motifs/wheel|wheel]],—for I know that with belts and bands of gold, I shall whizz triumphant on the new stream! [[motifs/love|Love]] for you—[[motifs/love|love]] for Dr. Holland—thanks for his exquisite [[forms/hymn|hymn]]—[[motifs/tears|tears]] for your sister in sable, and kisses for Minnie and the bairns.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La sua voce è dolce, cara signora Holland. Vorrei sentirla più spesso.
-
-Una di quelle musiche mortali che Giove nega. E quando, davvero, le sue dolci melodie raggiungono il mio orecchio, fermo persino gli [[motifs/birds|uccelli]] per ascoltarle. Forse pensate che non abbia uccelli. Ma è solo retorica. Per favore, signor Whately: cos’è quella cosa sul ciliegio? La funzione è finita, i venti soffiano. E Vinnie si trova in quel luogo pallido. Il semplice richiamo “dormi” sembra così appropriato. Col tempo diventeranno più saggi. Anche noi lo saremo tutti! Mentre siedo nella neve, il giorno d’estate in cui siete arrivati, le api, il vento del sud. Tutto sembra fantastico, come il Cielo appare a un mondo peccaminoso. E continuo a ricordarlo. Fino a quando tutto assume un aspetto spettrale. E poi voi tutti diventate fantasmi e scomparete lentamente. Non possiamo più parlare e ridere nella stanza dove ci siamo incontrati. Ma abbiamo imparato ad [[motifs/love|amare]] per sempre. Quindi è proprio come dovrebbe essere.
-
-Dovremo sederci in un salotto “non fatto con le mani”, a meno che non siamo molto attenti.
-
-Non riesco a descrivervi come ci siamo mossi. Preferirei non ricordarlo. Credo che i miei “effetti personali” siano stati portati dentro una scatola, e io stesso, “l’immortale me”, poco dopo sono arrivato a piedi. In quel momento ho preso nota dei miei vari sensi, così come del mio cappello, del mio cappotto e delle mie migliori scarpe. Ma tutto è andato perduto nel caos. Ora sto cercando tutto questo con le lanterne.
-
-Un’intelligenza come la mia è stata così gravemente danneggiata che qualsiasi tentativo di riparazione risulta inutile. Eppure non riesco a smettere di ridere della mia stessa catastrofe. Pensavo che avremmo effettuato un “trasito”, proprio come fanno i corpi celesti. Ma abbiamo proceduto budget dopo budget, proprio come fanno tutti gli altri, fino a quando non abbiamo realizzato quella sorta di pantomima rappresentata dalla parola “ci siamo mossi”. È una sensazione simile a quella di chi parte per il Kansas. Se fossi seduto in un lungo carro, con la mia [[concepts/family|famiglia]] legata dietro di me, non avrei alcun dubbio: penserei di far parte di un gruppo di emigranti!
-
-Dicono che “[[motifs/home|casa]] è dove si trova il cuore”. Io penso che sia invece dove si trova la casa, e gli edifici adiacenti.
-
-Ma, cara signora Holland, ho un'altra storia da raccontare. Metto da parte tutte le mie risate, così da poter sospirare. Da quando siamo tornati a casa, nostra madre è sempre stata malata; Vinnie ed io abbiamo cercato di prenderci cura di lei, ma nonostante ciò manteniamo ancora la casa di nostro padre. Mia madre giace sul divano o siede nella sua poltrona. Non so esattamente di cosa soffra, perché sono solo una semplice bambina. Spesso vorrei essere un filo d’erba, o un tenero margherito: problemi così complessi non mi spaventerebbero mai. E se anche il mio “meccanismo” dovesse incepparsi, per favore, gentili signore e signori, qualcuno fermi quella ruota. So che, con nastri d’oro, continuerò a viaggiare felicemente lungo il nuovo sentiero. Amore per voi. Amore per il dottor Holland. Grazie per il suo meraviglioso inno. Lacrime per vostra sorella. E baci per Minnie e i bambini.
-
 
 
 <span class="atom-split" data-atom="l0135_mr_samuel_bowlers_and_mrs_bowles_monday_eve" data-title="To Mr. Samuel Bowlers and Mrs. Bowles, Monday Eve" data-chapter="" data-kind="intro" data-tags="archetype/pilgrim,motif/flowers,motif/birds,motif/snow,motif/garden,motif/the_window,concept/friendship,concept/loneliness,concept/longing,concept/grief_and_loss,form/letter,setting/new_england,character/rasselas,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -1018,18 +577,6 @@ Thank you for bright bouquet, and afterwards verbena. I made a plant of a little
 
 Will you come to Amherst? The streets are very cold now, but we will make you warm. But if you never came, perhaps you could write a [[forms/letter|letter]], saying how much you would like to, if it were “[[characters/god|God]]'s will.” I give good-[[motifs/night|night]], and daily [[motifs/love|love]] to you and Mr. Bowles.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Cara signora Bowles, — invia messaggi dolci. Il ricordo è ancora più dolce dei pettirossi nei giardini di maggio.
-
-Amo credere che, accanto a quei fuochi ardenti e luminosi, ci siano persone più coraggiose di me che portano il mio nome. Come stanno papà, mamma e i bambini?.
-
-A Amherst piovono tempeste per cinque giorni: prima nevica, poi piove, e successivamente una nebbia leggera come veli avvolge tutte le case; infine i giorni diventano di un colore topazio, simile a un fermaglio da signora.
-
-Grazie per il bellissimo mazzo di fiori, e poi anche per la verbena. Ho piantato un piccolo rametto di heliotrope giallo che mi è stato regalato nel mazzo, e l’ho chiamato “Mary Bowles”. Sono passati molti giorni da quel giorno d’estate in cui sei venuto con il signor Bowles, e prima che arrivi un altro giorno d’estate passeranno ancora molti giorni. Il mio giardino è una piccola collina; sotto di esso ci sono dei “volti”, e solo i pini cantano. Ora gli uccelli sono assenti. Non posso andare a trovare quegli amici lontani nelle notti così fredde; quindi appoggio entrambe le mani sul vetro della finestra e provo a immaginare come volino gli uccelli. E ci provo, ma fallisco, proprio come il signor “Rasselas”. Potrei fare un pallone con un tarassaco, ma i campi sono scomparsi. E ora rimane solo il “Professore Lowe” a piangere insieme a me. Se costruissi una casa, vorrei chiamarti. Ne parlo spesso con Carlo: i suoi occhi diventano pieni di significato, e i suoi piedi pelosi camminano più lentamente. Sei al sicuro, di notte? Spero che tu sia felice. Prego Dio sulle mie ginocchia affinché ti mandi molta prosperità, pochi giorni d’inverno e tanti giorni di sole. Ho un desiderio infantile: raccogliere tutte le persone che amo e sedermi accanto a loro, sorridendo insieme.
-
-Verrai ad Amherst? Le strade sono molto fredde in questo periodo, ma ti faremo sentire al caldo. Ma se non sei mai venuto prima, forse potresti scrivere una [[forms/letter|lettera]], dicendo quanto desideri farlo, se ciò fosse “la volontà di [[characters/god|Dio]]”. Ti auguro una buona [[motifs/night|notte]] e un amore quotidiano, sia a te che al signor Bowles.
 
 
 
@@ -1053,24 +600,6 @@ Please, now I write so often, make lamplighter of me, then I shall not have live
 Dear Mrs. Bowles, dear Mr. Bowles, dear Sally—Sam and Mamie, now all shut your eyes, while I do benediction!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Vorrei ringraziare molto la cara signora Bowles per quel libretto, ma mi vergogno tanto perché scrivo troppo spesso. Anche i “lillà del campo” hanno la loro dignità.
-
-Perché l’hai legato con il verde e l’oro? Quei colori immortali. Lo considero un simbolo. Non ho mai letto prima ciò che ha scritto il signor Parker.
-
-Ho sentito dire che fosse “[[motifs/poison|veleno]]”. Allora mi piace molto il “[[motifs/poison|veleno]]”. Austin si è assentato dal servizio ieri pomeriggio, e io, l’ho trovato mentre leggeva il mio regalo di [[motifs/christmas|Natale]]. Vorrei che la “[[concepts/faith|fede]] dei padri” non indossasse stivali di cuoio e non portasse ombrelli blu. Vi auguro a tutti un “Buon Anno!”. Penso che abbiate trascorso una bella [[motifs/christmas|Natale]], grazie al racconto di quel vostro amico. E potete solo sospirare per chi non è stato presente alla gara di “John Gilpin”, o quando lui correrà di nuovo. Avete raccolto le bacche del mio vischio. Addio, signora Bowles!
-
-Oggi fa molto freddo, eppure sul vetro della finestra ci sono tanti mazzi di muschio e felci. Li chiamo “fiori dei santi”, perché non si muovono come gli altri fiori, ma stanno lì immobili e bianchi.
-
-La [[motifs/snow|neve]] è molto alta, tanto che gli alberi sembrano così bassi da sfiorarmi i capelli quando attraverso il ponte.
-
-Penso che quest’anno non ci sarà alcuna [[motifs/spring|primavera]], le [[motifs/flowers|fiori]] sono già sparite. Lasciamo che la primavera rimanga nei nostri cuori, e non pensiamo alle orchidee. Per favore, accettate il mio [[motifs/love|amore]], quello di mia madre e di Vinnie. Carlo manda un bacio marrone, mentre Pussy ne manda uno grigio-bianco, a ciascuno dei bambini.
-
-Per favore, ora che scrivo così spesso, fatemi diventare il “lumiere delle strade”; così non avrò vissuto invano.
-
-Cara signora Bowles, caro signor Bowles, cara Sally. Sam e Mamie, ora chiudete tutti gli occhi mentre io pronuncio la benedizione.
-
 
 
 <span class="atom-split" data-atom="l0140_mr_samuel_bowlers_and_mrs_bowles_autumn_1861" data-title="To Mr. Samuel Bowlers and Mrs. Bowles, Autumn, 1861" data-chapter="" data-kind="intro" data-tags="motif/wine_and_drink,motif/flowers,motif/gems_jewels,motif/horse,motif/letters_writing,concept/friendship,concept/communication_and_isolation,concept/value_and_scarcity,concept/grief_and_loss,form/letter,histref/christianity,setting/new_england,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -1091,22 +620,6 @@ I write you frequently, and am much ashamed. My voice is not quite loud enough t
 Will you take my [[motifs/love|love]] to Mrs. Bowles, whom I remember every day?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Amico mio, signore. Non vi avevo visto. Mi dispiace molto. Devo tenere il vino fino al vostro ritorno, o mandarlo via con Dick? Adesso si trova dietro la [[motifs/door|porta]] nella biblioteca, insieme a un fiore che nessuno ha reclamato. Non sapevo che ve ne sareste andato così presto. Oh! Che piedi lenti che ho.
-
-Non tornerai più?
-
-Gli amici sono come gemme, rare e preziose. Potosi rappresenta per me una fonte di cura e attenzione; la guardo con reverenza, perché ora non potrei permettermi di essere povero, dopo aver vissuto nella ricchezza. [[concepts/hope|Spero]] che i cuori a Springfield non siano più così pesanti come un tempo. [[characters/god|Dio]] benedica i cuori di Springfield.
-
-Sono felice che tu abbia un [[motifs/horse|cavallo]]. Spero che diventi forte e robusto, e che venga a trovarci tra molti anni.
-
-Ho soltanto due conoscenti: il “veloce” e il “morto”. Vorrei ne avere di più.
-
-Vi scrivo spesso, e ne sono molto imbarazzato. La mia voce non è abbastanza forte da poter essere sentita attraverso tanti campi. Vi prego quindi di scusarmi per le mie lettere scritte a mano.
-
-Porterai il mio [[motifs/love|amore]] dalla signora Bowles, di cui penso ogni giorno?
-
 
 
 <span class="atom-split" data-atom="l0149_mr_samuel_bowlers_and_mrs_bowles" data-title="To Mr. Samuel Bowlers and Mrs. Bowles" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/letters_writing,concept/friendship,concept/grief_and_loss,concept/communication_and_isolation,form/letter,setting/the_sea,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -1114,10 +627,6 @@ Porterai il mio [[motifs/love|amore]] dalla signora Bowles, di cui penso ogni gi
 
 After Mr. Bowles had sailed for [[settings/europe|Europe]], Emily sent this quaintly consoling note to Springfield.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Dopo che il signor Bowles era partito per l’[[settings/europe|Europa]], Emily inviò questa nota piuttosto originale e rassicurante a Springfield.
 
 
 
@@ -1127,10 +636,6 @@ Dopo che il signor Bowles era partito per l’[[settings/europe|Europa]], Emily 
 Before he comes We weigh the [[motifs/time|time]], 'Tis heavy, and 'tis light. When he departs An emptiness Is the superior freight.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Prima che arrivi, misuriamo il [[motifs/time|tempo]]. È pesante, eppure è anche leggero. Quando se ne va, un senso di vuoto diventa il “carico” più significativo.
-
 
 
 <span class="atom-split" data-atom="l0170_mr_samuel_bowlers_and_mrs_bowles" data-title="To Mr. Samuel Bowlers and Mrs. Bowles" data-chapter="" data-kind="intro" data-tags="motif/river,motif/water,concept/friendship,concept/memory,concept/transience,form/letter,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -1138,10 +643,6 @@ Prima che arrivi, misuriamo il [[motifs/time|tempo]]. È pesante, eppure è anch
 
 We part with the [[motifs/river|river]] at the flood through a timid custom, though with the same waters we have often played.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Ci separiamo dal [[motifs/river|fiume]] durante la piena, seguendo una consuetudine timida, anche se con le stesse acque abbiamo spesso giocato in passato.
 
 
 
@@ -1155,14 +656,6 @@ I had hoped to express more. [[motifs/love|Love]] more I never can, sweet D—�
 This was in the white of the year, That was in the green. Drifts were as difficult then to think, As daisies now to be seen. Looking back is best that is left, Or if it be before, Retrospection is prospect's half, Sometimes almost more.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cara sorella, —Il fratello è venuto a trovarmi e sta calando la [[motifs/night|notte]], quindi devo concludere con una breve [[forms/hymn|—inno]].
-
-Avevo sperato di poter esprimere di più. Un amore ancora più profondo, che non riesco mai a trasmettere, dolce D, o forse verso di te stesso.
-
-Questo accadde nel pieno dell’inverno, quando tutto era coperto di neve; i cumuli di neve erano difficili da immaginare, proprio come ora è difficile vedere i girasoli tra le foglie verdi. Ripensarci è probabilmente la cosa migliore che ci rimanga. O forse, anche se accadde in passato, riflettere sul passato rappresenta metà del cammino verso il futuro. A volte, addirittura di più.
-
 
 
 <span class="atom-split" data-atom="l0214_the_misses" data-title="To the Misses" data-chapter="" data-kind="intro" data-tags="motif/disease_contagion,motif/memory,concept/memory,concept/suffering,concept/transience,form/letter,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -1170,10 +663,6 @@ Questo accadde nel pieno dell’inverno, quando tutto era coperto di neve; i cum
 
 Of this [[forms/letter|letter]] her cousin writes, “All this trouble has become only a myth now; it must have been some illness, or other forgotten calamity.”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Di questa [[forms/letter|lettera]] scritta dalla sua cugina, lei dice: “Tutta questa confusione ora non è altro che un mito; deve essere stata qualche malattia, o qualche altra calamità dimenticata.”
 
 
 
@@ -1195,22 +684,6 @@ Had I tried before reading your gift to thank you, it had perhaps been possible,
 Magic, as it electrifies, also makes decrepit. Thank you for thinking of me.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, — il regalo di [[characters/brabantio|Brabantio]] non era meno bello del tuo; tuttavia, credo che anche senza la sua patetica [[forms/inscription|iscrizione]]: “Che, se non tu, nessun altro potrebbe ricevere da me con tutto il mio cuore”, il suo dono sarebbe stato ugualmente significativo.
-
-Di Poe so troppo poco per poter pensare qualcosa; Hawthorne invece spaventa, ma al contempo attira.
-
-La signora Jackson si eleva, secondo la tua valutazione, in modo legittimo, come un uccello; ma per quanto riguarda Howells e James, ci si trova in difficoltà a decidere. La tua musica incessante sembra condannare, ma allo stesso tempo salva.
-
-Il rimorso per la brevità di un libro è un’emozione rara, anche se comprensibile, come nel caso del “dolce [[concepts/despair|dispero]]” di Lowell nella “canzone[[forms/hymn|inno]] in stile pantofole”.
-
-Una cosa la prendiamo in prestito E promettiamo di restituirla: il bottino e il dolore. La dolcezza di averli conosciuti. Una cosa la desideriamo ardentemente: Il potere di dimenticare. L’angoscia dell’avidità. Che elimini tutto il resto.
-
-Se avessi provato a ringraziarti prima di leggere il tuo regalo, forse sarebbe stato possibile, ma ho aspettato, e ora non riesco nemmeno a parlare.
-
-La magia, proprio perché carica di energia, può anche portare al decadimento. Grazie per aver pensato a me.
-
 
 
 <span class="atom-split" data-atom="l0331_miss_maria_whitney_1882" data-title="To Miss Maria Whitney, 1882" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/music_and_song,motif/memory,concept/grief_and_loss,concept/friendship,concept/memory,form/letter,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -1220,13 +693,6 @@ DEAR FRIEND,—My mother and sister hoped to see you, and I, to have heard the v
 
 I [[concepts/hope|hope]] you are in strength, and that the passengers of peace exalt, not rend, your [[motifs/memory|memory]]. Heaven may give them rank, it could not give them grandeur, for that they carried with themselves.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico,  
-Mia madre e mia sorella speravano di vederti, e io desideravo sentire quella voce in casa che ricorda la strana musica di tuo padre. Un piccolo vaso di fiori che avevo preparato per il tuo colazione è anche andato perso.
-
-Spero che siate in buona salute, e che i fedeli ricordi di voi non vengano offesi o distrutti. Il cielo può concedere loro onore, ma non la grandezza, poiché questa è qualcosa che portano dentro di sé.
 
 
 
@@ -1238,12 +704,6 @@ This is the only [[forms/letter|letter]] I have found, written since early girlh
 About 1882 she wrote of the elder Mr. Bowles to another friend, “I dreamed Saturday [[motifs/night|night]] of precious Mr. Bowles. One glance of his would light a world.” Upon learning of his son's engagement, Emily sent her unique congratulation: —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Questa è l’unica [[forms/letter|lettera]] che ho trovato; scritta all’inizio dell’adolescenza, mostra come Emily Dickinson firmasse il proprio nome in questo modo.
-
-Intorno al 1882, scriveva di Mr. Bowles a un'altra amica: “Sabato sera ho sognato il prezioso Mr. Bowles. Un solo suo sguardo potrebbe illuminare tutto il mondo.” Quando venne a sapere dell’impegno del figlio di Mr. Bowles, Emily inviò le sue congratulazioni, così uniche e particolari.
-
 
 
 <span class="atom-split" data-atom="l0353_mr_c_h_clark_january_4_1884" data-title="To Mr. C. H. Clark, January 4, 1884" data-chapter="" data-kind="intro" data-tags="motif/memory,motif/music_and_song,motif/death,concept/grief_and_loss,concept/friendship,concept/memory,concept/immortality_divine,concept/hope,form/letter,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -1254,13 +714,6 @@ DEAR FRIEND,—I have been very ill since early October, and unable to thank you
 With a deep New Year,
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico,  
-Sono stato molto malato fin dall’inizio di ottobre e non ho potuto ringraziarti per quella sacra gentilezza; tuttavia l’ho apprezzata ogni giorno, e ora faccio del mio meglio per esprimerti la mia più profonda gratitudine. Non riesco mai a ringraziarti come vorrei: sarebbe impossibile. Il tentativo finisce sempre in lacrime. Sembra che tu sia l’unico legame tra il Cielo che è svanito e quello che rimane. Spero che i giorni felici che ti porteranno da tuo fratello siano pieni di gioia, e desidero poter parlare con te di lui, di te stesso e del terzo membro di quella famiglia divisa. Forse un’altra primavera ti riporterà a Northampton, o forse il ricordo ti inviterà qui.
-
-Buon Anno Nuovo!
-
 
 
 <span class="atom-split" data-atom="l0359_mr_c_h_clark" data-title="To Mr. C. H. Clark" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/memory,concept/friendship,concept/grief_and_loss,concept/communication_and_isolation,form/letter,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -1268,10 +721,6 @@ Buon Anno Nuovo!
 
 The final [[forms/letter|letter]] to Mr. Clark was written. a year later, and will be found in the last chapter.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-L’ultima [[forms/letter|lettera]] indirizzata al signor Clark è stata scritta un anno dopo e si troverà nell’ultimo capitolo.
 
 
 
@@ -1293,22 +742,6 @@ My DEAR MRS. READ,—We have often thought of you to-day, and almost spoken with
 E. DICKINSON
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Vinnie dice che i vostri martiri amavano molto le [[motifs/flowers|fiori]].
-
-Dovrebbero forse profanare il loro vaso?
-
-Emily
-
-Per lo stesso destinatario
-
-Sul seguente anniversario
-
-Mia cara signora Read, —oggi abbiamo spesso pensato a voi e quasi parlato con voi, ma ci siamo chiesti se non desideraste essere da sola, se mai sia possibile esserlo in un Cielo così affollato.
-
-E. Dickinson
-
 
 
 <span class="atom-split" data-atom="l0380_to_mrs_stearns_1879" data-title="To To Mrs. Stearns, 1879?" data-chapter="" data-kind="intro" data-tags="motif/water,motif/river,motif/flowers,concept/friendship,concept/jealousy,form/letter,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -1320,14 +753,6 @@ I shall bring you a handful of lotus next, but do not tell the Nile.
 
 He is a jealous brook.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Cari amici, —spero che nessun più audace [[archetypes/lover|amante]] vi abbia portato i primi gigli d’acqua. L’[[motifs/water|acqua]] è più profonda della terraferma; chi nuota in essa non rimane mai fermo.
-
-Vi porterò un pugno di loto tra poco, ma non ditecielo il Nilo.
-
-È un ruscello geloso.
 
 
 
@@ -1341,14 +766,6 @@ To the inditing heart we wish no sigh had come.
 Sweet pirate of the heart, Not pirate of the [[motifs/sea|sea]], What wrecketh thee? Some spice's mutiny— Some attar's perfidy? Confide in me.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, —quell’pomeriggio grigio, quel dolce bussare e quelle voci dei ragazzi sono un ricordo vivido nella mia mente; poi quei piccoli contenitori e i semi viola, sembravano davvero l’armadio di una bambola.
-
-Al cuore che ha iniziato tutto questo, non vorremmo che fosse mai sorto alcun sospiro.
-
-Dolce pirata del cuore. Non un pirata dell’[[motifs/sea|mare]]. Cosa ti distrugge? Forse la ribellione di qualche spezia. O l’inganno di qualche profumo? Confidati a me.
-
 
 
 <span class="atom-split" data-atom="l0450_mrs_henry_hills_christmas_1879" data-title="To Mrs. Henry Hills, Christmas, 1879" data-chapter="" data-kind="intro" data-tags="motif/memory,concept/immortality_divine,concept/memory,concept/friendship,form/letter,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -1361,14 +778,6 @@ How can we thank each other when omnipotent?
 You, who endear our mortal [[motifs/christmas|Christmas]], will perhaps assure us.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, penso che il Cielo non possa essere paragonabile alla Terra, a meno che non porti con sé quella dolce capacità di ricordare, che qui sulla Terra rappresenta la vera essenza del Cielo stesso.
-
-Come possiamo ringraziarci a vicenda se siamo onnipotenti?
-
-Tu, che rendi così speciale il nostro mortale [[motifs/christmas|Natale]], forse potrai rassicurarci.
-
 
 
 <span class="atom-split" data-atom="l0452_mrs_henry_hills" data-title="To Mrs. Henry Hills" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/storm,motif/sleep,concept/immortality_divine,concept/friendship,form/letter,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -1380,14 +789,6 @@ I had lain awake with the gale and overslept this morning.
 
 That you may wake in Eden, as you enabled me to do, is my happy wish.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, —Le celestiali [[motifs/flowers|fiori]] sono state portate nella mia stanza.
-
-Sono rimasto sveglio a causa della tempesta e stamattina mi sono addormentato troppo tardi.
-
-Che tu possa svegliarti in Eden, proprio come hai permesso a me di farlo, è il mio desiderio più felice.
 
 
 
@@ -1405,18 +806,6 @@ We trust you are safe this Norwegian weather, and. “[[motifs/desire|desire]] y
 With [[motifs/love|love]] for your health, and the promise of sultans, and viziers too, if the monarchs come,
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Era l’opinione unanime di tutta la famiglia che zia Katie non avesse mai scritto una lettera così bella, e che ognuno dei membri della famiglia, dal più anziano al più giovane, dovesse rispondere immediatamente. Ma inaspettate circostanze impedirono ciò. Anche Vinnie perse i suoi “sultani”. Quell’anno era l’anno di “Guiteau”: presidenti e sultani erano destinati allo stesso destino.
-
-Qualcuno potrebbe farla crescere, se dovesse decidere di seminarla. In tal caso, la condividerai con me. È una creatura orientale e non le piace questo terreno. Penso che il suo primo rigoglio sia stato puramente casuale; l’ultima stagione, invece, è stata fatale: un “verme invidioso” le ha attaccate. Poi, all’inizio dell’[[motifs/autumn|autunno]], abbiamo avuto gelate simili a quelle di mezzo inverno. “Quando [[characters/god|Dio]] è con noi, chi potrà essere contro di noi?” Ma quando Lui è contro di noi, anche gli altri alleati risultano inutili.
-
-Ci siamo molto divertiti con il tuo “giardiniere”. Hai descritto la sua tradizione in modo così arguto che è risultata più efficace di qualsiasi espressione di lealtà. Lui sapeva bene che le [[motifs/flowers|fiori]] non hanno lingua.
-
-Speriamo che siate al sicuro in mezzo a questo tempo norvegese. E “desideriamo” le vostre preghiere per un’altra [[motifs/snow|tempesta di neve]] che potrebbe colpirci da un momento all’altro; già ora la neve sta danneggiando le recinzioni.
-
-Con [[motifs/love|amore]] per la tua salute, e con le promesse dei sultani, e anche dei visir, se i monarchi dovessero venire.
-
 
 
 <span class="atom-split" data-atom="l0534_mr_c_h_clark_april_5_1886" data-title="To Mr. C. H. Clark, April 5, 1886" data-chapter="" data-kind="intro" data-tags="motif/home,motif/flowers,motif/memory,concept/friendship,concept/memory,concept/grief_and_loss,form/letter,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
@@ -1431,17 +820,3 @@ My sister gives her faithful remembrance to yourself and your father, the brothe
 You will recall the flower sacred to your brother.
 
 No sloth has [[motifs/memory|memory]].
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico,  
-Stai bene? E tuo padre? E la vostra casa in [, ] Street è ancora nello stesso posto? Ho ricevuto la tua molto gentile lettera, credo a novembre; da allora sono stato molto malato e ora riesco a muovermi un po’ nella mia stanza, per un’ora ogni tanto.
-
-Con il passare del [[motifs/time|tempo]], sai qualcosa di quell’uomo che il signor——amava tanto, e di cui diceva sorridendo: “Se trovasse un orologio d’oro per strada, non lo raccoglierebbe nemmeno, così puro era”?...
-
-Mia sorella invia i suoi affettuosi ricordi a te e a vostro padre; quel fratello tanto caro non l’ha mai dimenticato nemmeno una volta.
-
-Ricorderete sicuramente il fiore sacro a vostro fratello.
-
-Nessuna pigrizia possiede la capacità di ricordare.

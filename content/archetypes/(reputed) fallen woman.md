@@ -15,6 +15,7 @@ tags:
 <div class="concept-works-fallback">
 
 - [[works/the-tenant-of-wildfell-hall-(bronte)|The Tenant of Wildfell Hall (Bronte)]]
+- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#158_the_ballad_of_the_dark_ladié|THE BALLAD OF THE DARK LADIÉ (Coleridge)]]
 - [[testi/coleridge/atomized/transience-decay-carpe-diem#071_the_faded_flower|THE FADED FLOWER (Coleridge)]]
 - [[testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume#072_the_outcast|THE OUTCAST (Coleridge)]]
 - [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#129_to_an_unfortunate_woman_at_the_theatre|TO AN UNFORTUNATE WOMAN AT THE THEATRE (Coleridge)]]

@@ -42,6 +42,7 @@ tags:
 - [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#185_love|LOVE (Coleridge)]]
 - [[testi/coleridge/atomized/joy-animals-comic-verse-song#160_recantation|RECANTATION (Coleridge)]]
 - [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#436_stolberg|STOLBERG (Coleridge)]]
+- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#158_the_ballad_of_the_dark_ladié|THE BALLAD OF THE DARK LADIÉ (Coleridge)]]
 - [[testi/coleridge/atomized/joy-animals-comic-verse-song#179_the_devils_thoughts|THE DEVIL’S THOUGHTS (Coleridge)]]
 - [[testi/coleridge/atomized/terror-and-horror-madness#193_the_mad_monk|THE MAD MONK (Coleridge)]]
 - [[testi/coleridge/atomized/faith-providence-divine-love#228_the_rash_conjurer|THE RASH CONJURER (Coleridge)]]

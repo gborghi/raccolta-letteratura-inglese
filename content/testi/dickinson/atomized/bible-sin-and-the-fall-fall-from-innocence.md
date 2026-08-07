@@ -24,17 +24,6 @@ What will the solemn Hemlock —
 What will the Oak [[motifs/tree|tree]] say?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Derubai i Boschi —  
-I fiduciosi Boschi.  
-Gli ignari Alberi  
-Tirarono fuori i loro Ricci e muschi  
-Per compiacere la mia fantasia.  
-Scrutai curiosa i loro gingilli — afferrai — portai via —  
-Che dirà il solenne Abete —  
-Che dirà l'[[motifs/tree|albero]] di Quercia?
-
 
 
 <span class="atom-split" data-atom="0048_once_more_my_now_bewildered_dove" data-title="48. Once more, my now bewildered Dove" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/the_sea,concept/faith,form/lyric,histref/the_bible,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -50,18 +39,6 @@ The Patriarch's bird returned,
 [[concepts/courage|Courage]]! My brave Columba!  
 There may yet be land
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Ancora una volta, la mia Colomba ora smarrita  
-Scuote le sue ali perplesse  
-Ancora una volta la sua padrona, sull'abisso  
-Getta la sua turbata domanda —  
-
-Tre volte alla finestra galleggiante  
-Tornò l'uccello del Patriarca,  
-[[concepts/courage|Coraggio]]! Mia prode Columba!  
-Terra ancora può esserci
 
 
 
@@ -89,28 +66,6 @@ And the bewildered Gymnast
 Found he had worsted [[characters/god|God]]!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Un poco a Est del Giordano,  
-Narrano gli Evangelisti,  
-Un Ginnasta e un Angelo  
-Lottarono a lungo e duro —  
-
-Finché il mattino toccando il monte —  
-E [[characters/jacob|Jacob]], facendosi forte,  
-L'Angelo chiese permesso  
-Di far Colazione — di tornare —  
-
-Non così, disse l'astuto [[characters/jacob|Jacob]]!  
-"Non ti lascerò andare  
-Se non mi benedici" — Straniero!  
-Il che fu concesso —  
-
-Lievi ondeggiarono i velli d'argento  
-Oltre i Colli di "Peniel",  
-E lo sbigottito Ginnasta  
-Scoprì d'aver battuto [[characters/god|God]]!
-
 
 
 <span class="atom-split" data-atom="0062_sown_in_dishonor" data-title="62. &quot;Sown in dishonor&quot;!" data-chapter="" data-kind="intro" data-tags="concept/immortality,concept/faith_and_doubt,concept/grace_and_redemption,form/epigram,histref/the_bible,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -128,20 +83,6 @@ Apostle is askew!
 Corinthians 1. 15. narrates  
 A Circumstance or two!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-"Seminato nel disonore"!  
-Ah! Davvero!  
-Può questo "disonore" essere?  
-Se fossi io la metà così fine  
-Non noterei nessuno!  
-
-"Seminato nella corruzione"!  
-Non così in fretta!  
-L'Apostolo è di traverso!  
-Corinzi 1. 15. narra  
-Una Circostanza o due!
 
 
 
@@ -174,33 +115,6 @@ Grant that we may stand,
 At that grand "Right hand"!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Se gli stolti, li chiamano "[[motifs/flowers|fiori]]" —  
-Occorre che i più saggi, dicano?  
-Se i Sapienti li "Classificano"  
-Va altrettanto [[motifs/well|bene]]!  
-
-Chi legge le "Rivelazioni"  
-Non deve criticare  
-Chi legge la stessa Edizione —  
-Con Occhi annebbiati!  
-
-Potessimo stare con quel Vecchio "[[characters/moses|Mosè]]" —  
-Negata "Canaan" —  
-Scrutare come lui, il paesaggio maestoso  
-Dall'altra parte —  
-
-Senza dubbio, giudicheremmo superflue  
-Molte Scienze,  
-Non coltivate dagli Angeli dotti  
-In cieli scolastici!  
-
-Umili fra quelle liete Belles lettres  
-Concedi che possiamo stare,  
-[[motifs/stars|Stelle]], fra Galassie profonde —  
-A quella grande "Destra"!
-
 
 
 <span class="atom-split" data-atom="0203_he_forgot_and_i_remembered" data-title="203. He forgot — and I — remembered —" data-chapter="" data-kind="intro" data-tags="motif/memory,concept/guilt,concept/love_romantic,form/lyric,histref/the_bible,histref/christianity,character/christ,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -217,18 +131,6 @@ Jesus merely "looked" at Peter —
 Could I do aught else — to Thee?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Lui dimenticò — e io — ricordai —  
-Era un fatto d'ogni giorno —  
-Tanto tempo fa quanto [[characters/christ|Cristo]] e Pietro —  
-Che "si scaldavano" al "[[motifs/fire|fuoco]] del Tempio."  
-
-"Tu eri con lui" — disse "la [[archetypes/damsel|Fanciulla]]"?  
-"No" — disse Pietro, non ero io —  
-Gesù soltanto "guardò" Pietro —  
-Potrei fare altro — verso Te?
-
 
 
 <span class="atom-split" data-atom="0213_did_the_harebell_loose_her_girdle" data-title="213. Did the Harebell loose her girdle" data-chapter="" data-kind="intro" data-tags="topos/paradise_lost,topos/fall_from_innocence,motif/flowers,motif/animals,concept/love_romantic,concept/lust,form/lyric,histref/the_bible,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -244,18 +146,6 @@ Yield her moat of pearl —
 Would the Eden be an Eden,  
 Or the Earl — an Earl?
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Sciogliesse la Campanula la sua cintura  
-All'Ape [[archetypes/lover|amante]]  
-Santificherebbe l'Ape la Campanula  
-Quanto un tempo?  
-
-Cedesse il "Paradiso" — persuaso —  
-Il suo fossato di perla —  
-Sarebbe l'Eden un Eden,  
-O il Conte — un Conte?
 
 
 
@@ -281,27 +171,6 @@ Stains — all washed —
 Transfigured — mended —  
 Meet us — with a smile —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Sollevando il bell'Ideale,  
-Solo per gettarla giù  
-Quando una frattura — scopriamo —  
-O una scheggiata [[motifs/crown|Crown]] —  
-Rende i Cieli portatili —  
-E gli Dèi — una menzogna —  
-Senza dubbio — "Adamo" — guardò torvo l'Eden —  
-Per il suo spergiuro!  
-
-Custodendo — il nostro povero Ideale —  
-Finché in veste più pura —  
-La contempliamo — glorificata —  
-Consola — una ricerca — come questa —  
-Finché le creature spezzate —  
-Che adorammo — per intere —  
-Macchie — tutte lavate —  
-Trasfigurate — risanate —  
-Ci vengono incontro — con un sorriso —
 
 
 
@@ -341,40 +210,6 @@ Humming — until my faint Rehearsal —
 Drop into tune — around the Throne —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-—  
-
-Meglio — che Musica! Perché io — che l'udii —  
-Ero avvezza — agli [[motifs/birds|Uccelli]] — prima —  
-Questa — era diversa — Era [[forms/translation|Traduzione]] —  
-Di tutte le arie che sapevo — e più —  
-
-Non era contenuta — come altra stanza —  
-Nessuno poté suonarla — la seconda [[motifs/time|volta]] —  
-Ma il Compositore — perfetto Mozart —  
-Perisca con lui — quella Rima senza Chiave!  
-
-Così — i Bimbi — cui narrarono come i Ruscelli in Eden —  
-Gorgogliassero una migliore — Melodia —  
-Con arguzia inferiscono — la gran resa di Eva —  
-Che incalzava i piedi — che non — volevano — fuggire —  
-
-I Bimbi — maturati — sono più savi — perlopiù —  
-L'Eden — una leggenda — vagamente narrata —  
-Eva — e l'Angoscia — racconto di Nonna —  
-Ma — io dicevo un'aria — che udii —  
-
-Non tale melodia — la Chiesa — battezza —  
-Quando l'ultimo Santo — sale le Navate —  
-Non tale stanza fende il [[motifs/silence|silenzio]] —  
-Quando la Redenzione batte le sue [[motifs/bells|Campane]] —  
-
-Ch'io non versi — la sua minima cadenza —  
-Canticchiando — per promessa — quando sola —  
-Canticchiando — finché la mia fioca Prova —  
-Non cada in tono — intorno al Trono —
-
 
 
 <span class="atom-split" data-atom="0672_the_future_never_spoke" data-title="672. The Future — never spoke —" data-chapter="" data-kind="intro" data-tags="motif/time,motif/silence,concept/fate_and_free_will,concept/providence,concept/mortality,concept/memory_and_time,form/lyric,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -396,23 +231,6 @@ His Office — but to execute
 Fate's — Telegram — to Him —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il Futuro — mai parlò —  
-Né vorrà — come il Muto —  
-Rivelare con un cenno — una sillaba  
-Del Suo Profondo Avvenire —  
-
-Ma quando la Notizia è matura —  
-La presenta — nell'Atto —  
-Prevenendo Preparazione —  
-Fuga — o Sostituto —  
-
-Indifferente a Lui —  
-La Dote — come la Condanna —  
-Suo Ufficio — solo eseguire  
-Del Fato — il Telegramma — a Lui —
-
 
 
 <span class="atom-split" data-atom="0894_of_consciousness_her_awful_mate" data-title="894. Of Consciousness, her awful Mate" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,concept/conscience,concept/self_and_soul,concept/guilt,form/lyric,histref/christianity,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -428,18 +246,6 @@ And scant to Him the Crowd —
 What triple Lenses burn upon  
 The Escapade from [[characters/god|God]] —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Della Coscienza, sua tremenda Compagna  
-L'[[motifs/soul|Anima]] non può liberarsi —  
-Tanto varrebbe occultarla  
-Dietro gli Occhi di [[characters/god|Dio]].  
-
-Il più profondo nascosto è avvistato per primo  
-E scarsa è per Lui la Folla —  
-Quali triple Lenti ardono sopra  
-La Fuga da [[characters/god|Dio]] —
 
 
 
@@ -467,28 +273,6 @@ That I am looking oppositely
 For the site of the Kingdom of Heaven —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Una perdita di qualcosa sempre sentii —  
-La prima che potessi ricordare  
-Privata ero — di cosa non sapevo  
-Troppo giovane perché alcuno sospettasse  
-
-Una Dolente camminava tra i bambini  
-Io nondimeno andavo attorno  
-Come chi lamenta un Dominio  
-Essendone il solo Principe scacciato —  
-
-Più adulta, Oggi, d'una sessione più saggia  
-E più fioca, anche, com'è la Saggezza —  
-Mi trovo ancora a cercare sommessamente  
-I miei Palazzi Delinquenti —  
-
-E un Sospetto, come un Dito  
-Tocca la mia Fronte di tanto in tanto  
-Che io stia guardando dalla parte opposta  
-Al sito del Regno dei Cieli —
-
 
 
 <span class="atom-split" data-atom="1119_paradise_is_that_old_mansion" data-title="1119. Paradise is that old mansion" data-chapter="" data-kind="intro" data-tags="topos/paradise_lost,motif/the_house,concept/sin_and_the_fall,concept/transience,form/epigram,histref/the_bible,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -502,16 +286,6 @@ Bliss is frugal of her Leases
 Adam taught her Thrift  
 Bankrupt once through his excesses —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il Paradiso è quell'antica dimora  
-Che molti possedettero prima —  
-Occupata da ciascuno un istante  
-Poi rivoltata la [[motifs/door|Porta]] —  
-La Beatitudine è frugale delle sue Locazioni  
-Adamo le insegnò la Parsimonia  
-Fallita una volta per gli eccessi di lui —
 
 
 
@@ -529,18 +303,6 @@ The staple must be optional
 That an Immortal binds.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Di Paolo e Sila si racconta  
-Che in [[motifs/prison|Prigione]] furono posti  
-Ma quando andarono a prenderli  
-Essi non v'erano invece.  
-
-Sicurezza uguale assicura  
-Alle nostre Menti assalite —  
-Facoltativo dev'essere il ferro  
-Che un Immortale avvince.
-
 
 
 <span class="atom-split" data-atom="1195_what_we_see_we_know_somewhat" data-title="1195. What we see we know somewhat" data-chapter="" data-kind="intro" data-tags="topos/fall_from_innocence,motif/eyes_sight,concept/truth,concept/doubt,concept/sin_and_the_fall,form/lyric,histref/the_bible,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -557,18 +319,6 @@ Transport's doubtful Dividend
 Patented by Adam.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Ciò che vediamo lo sappiamo alquanto  
-Non fosse che un poco —  
-Ciò che non congetturiamo lo facciamo  
-Benché si mostri così volubile  
-
-Voterò per Terre con Serrature  
-Purché io possa scassinarle —  
-Del Trasporto il dubbio Dividendo  
-Brevettato da Adamo.
-
 
 
 <span class="atom-split" data-atom="1216_a_deed_knocks_first_at_thought" data-title="1216. A Deed knocks first at Thought" data-chapter="" data-kind="intro" data-tags="concept/conscience,concept/self_and_soul,concept/fate_and_free_will,concept/providence,form/aphorism,form/lyric,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -584,18 +334,6 @@ Or is entombed so still
 That only to the ear of [[characters/god|God]]  
 Its Doom is audible —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Un'Azione bussa prima al Pensiero  
-E poi — bussa alla Volontà —  
-È quello il luogo di fabbrica  
-E la Volontà a [[motifs/home|Casa]] e in [[motifs/well|salute]]  
-
-Poi esce fuori come Atto  
-O vien sepolta così immota  
-Che solo all'orecchio di [[characters/god|Dio]]  
-La sua Condanna è udibile —
 
 
 
@@ -618,23 +356,6 @@ Persuasive as Perdition,
 Decoys its Traveller.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il Rischio è il Crine che regge la Botte  
-Seducente nell'Aria —  
-Quella Botte è vuota — ma la Botte —  
-Con Quintali — d'avanzo —  
-
-Troppo ponderosa per sospettare la trappola  
-Adocchia quella sedia incostante  
-E vi si siede per esser lasciata andare  
-Da quel perfido Crine —  
-
-La "Botte sciocca" dicono i Critici —  
-Mentre quel Crine ingannevole  
-Persuasivo come la Perdizione,  
-Adesca il suo Viaggiatore.
-
 
 
 <span class="atom-split" data-atom="1254_elijahs_wagon_knew_no_thill" data-title="1254. Elijah's Wagon knew no thill" data-chapter="" data-kind="intro" data-tags="archetype/prophet,motif/horse,motif/the_wheel,concept/faith,concept/the_sublime,form/lyric,histref/the_bible,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -651,18 +372,6 @@ Who justified Elijah
 In feats inscrutable —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il Carro di Elia non conobbe timone  
-Era [[archetypes/innocent|innocente]] di [[motifs/wheel|Ruota]]  
-I cavalli di Elia unici  
-Quanto il suo veicolo —  
-
-Il [[motifs/journey|viaggio]] di Elia a ritrarre  
-Spira con lui la perizia  
-Che giustificò Elia  
-In gesta imperscrutabili —
-
 
 
 <span class="atom-split" data-atom="1412_shame_is_the_shawl_of_pink" data-title="1412. Shame is the shawl of Pink" data-chapter="" data-kind="intro" data-tags="motif/clothing,concept/guilt,concept/conscience,concept/self_and_soul,form/epigram,form/lyric,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -677,17 +386,6 @@ When pushed upon a scene
 Repugnant to her probity —  
 Shame is the tint divine.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-La Vergogna è lo scialle di Rosa  
-In cui avvolgiamo l'[[motifs/soul|Anima]]  
-Per non farle infestare gli Occhi —  
-Il Velo elementale  
-Che l'inerme [[concepts/nature|Natura]] lascia cadere  
-Quando sospinta su una scena  
-Ripugnante alla sua probità —  
-La Vergogna è la tinta divina.
 
 
 
@@ -704,17 +402,6 @@ Can read without its glasses
 On [[concepts/revelation|revelation]]'s wall.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Baldassarre ebbe una [[forms/letter|lettera]], —  
-Non ne ebbe mai che una ;  
-Il corrispondente di Baldassarre  
-Concluse e cominciò  
-In quella copia immortale  
-Che la [[concepts/conscience|coscienza]] di noi tutti  
-Può leggere senza occhiali  
-Sul muro della [[concepts/revelation|rivelazione]].
-
 
 
 <span class="atom-split" data-atom="1479_the_devil_had_he_fidelity" data-title="1479. The Devil — had he fidelity" data-chapter="" data-kind="intro" data-tags="archetype/satanic_figure,concept/paradox,concept/sin_and_the_fall,form/epigram,character/satan,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -729,17 +416,6 @@ That would but he resign
 The Devil — without question  
 Were thoroughly divine
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il Diavolo — avesse fedeltà  
-Sarebbe il migliore degli amici —  
-Perché ha capacità —  
-Ma i Diavoli non si emendano —  
-La Perfidia è la [[concepts/virtue|virtù]]  
-Cui se soltanto rinunciasse  
-Il Diavolo — senza questione  
-Sarebbe interamente divino
 
 
 
@@ -756,18 +432,6 @@ To know that it is them!
 Paul knew the Man that knew the News —  
 He passed through Bethlehem —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-"E con quale [[concepts/body|corpo]] vengono?" —  
-Allora vengono davvero — Gioisci!  
-Quale [[motifs/door|Porta]] — Quale Ora — Corri — corri — [[motifs/soul|Anima]] mia!  
-Illumina la Casa!  
-
-"[[concepts/body|Corpo]]!" Allora reale — un Volto e Occhi —  
-Sapere che sono loro!  
-Paolo conobbe l'Uomo che conobbe la Novella —  
-Egli passò per Betlemme —
 
 
 
@@ -792,25 +456,6 @@ Orpheus' Sermon captivated —
 It did not condemn —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La [[historical-references/bible|Bibbia]] è un Volume antico —  
-Scritto da uomini sbiaditi  
-Su suggerimento di Santi Spettri —  
-Soggetti — Betlemme —  
-L'Eden — l'antica Dimora —  
-[[characters/satan|Satana]] — il Brigadiere —  
-Giuda — il Grande Insolvente —  
-Davide — il Trovatore —  
-Il Peccato — un distinto Precipizio  
-Cui altri devono resistere —  
-I Ragazzi che "credono" sono assai soli —  
-Gli altri Ragazzi sono "perduti" —  
-Avesse la Storia un Narratore canoro —  
-Verrebbero tutti i Ragazzi —  
-Il Sermone di Orfeo incantava —  
-Non condannava —
-
 
 
 <span class="atom-split" data-atom="1598_who_is_it_seeks_my_pillow_nights" data-title="1598. Who is it seeks my Pillow Nights —" data-chapter="" data-kind="intro" data-tags="motif/night,motif/childhood,concept/conscience,concept/guilt,concept/faith_and_doubt,histref/puritanism,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -827,18 +472,6 @@ Upon my wincing Head —
 The Phosphorous of [[characters/god|God]] —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Chi cerca il mio Guanciale la Notte —  
-Con schietto volto indagatore —  
-"L'hai fatto" o "Non l'hai fatto," a chiedere —  
-È la "[[concepts/conscience|Coscienza]]" — dell'[[motifs/childhood|Infanzia]] la [[characters/nurse|Nutrice]] —  
-
-Con Mano Marziale liscia i Capelli  
-Sul mio Capo che trasale —  
-"Tutti" i Furfanti "avranno la loro parte in" cosa —  
-Il Fosforo di [[characters/god|Dio]] —
-
 
 
 <span class="atom-split" data-atom="1657_eden_is_that_old-fashioned_house" data-title="1657. Eden is that old-fashioned House" data-chapter="" data-kind="intro" data-tags="topos/paradise_lost,topos/fall_from_innocence,concept/nostalgia,concept/innocence_and_experience,histref/the_bible,setting/a_garden,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -854,18 +487,6 @@ We sauntered from the [[motifs/door|Door]] —
 Unconscious our returning,  
 But discover it no more.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-L'Eden è quella Casa all'antica  
-che abitiamo ogni giorno  
-senza sospettare la nostra dimora  
-finché non ce ne andiamo via.  
-
-Com'è bello, a guardare indietro, il Giorno  
-in cui uscimmo indolenti dalla [[motifs/door|Porta]] —  
-Ignari del nostro ritorno,  
-ma non la ritroviamo più.
 
 
 
@@ -893,28 +514,6 @@ That very physiognomy
 I am convinced was this.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Nessun uomo vide lo sgomento, né nella sua casa  
-Ammise egli un uomo  
-Benché presso la sua tremenda dimora  
-Sia stata l'umana [[concepts/nature|natura]].  
-
-Ignara della sua terribile dimora  
-Finché, affannandosi a fuggire,  
-Una stretta posata sulla comprensione  
-Trattenne la vitalità.  
-
-Il ritorno è una via diversa  
-Che lo Spirito non poté mostrare  
-Poiché respirare è l'unica opera  
-Da compiersi ora.  
-
-"Non sono consumato," scrisse il vecchio [[characters/moses|Mosè]],  
-"Eppure lo vidi faccia a faccia" —  
-Quella stessa fisionomia  
-Sono convinta fosse questa.
-
 
 
 <span class="atom-split" data-atom="1740_sweet_is_the_swamp_with_its_secrets" data-title="1740. Sweet is the swamp with its secrets," data-chapter="" data-kind="intro" data-tags="topos/fall_from_innocence,topos/paradise_lost,motif/serpent_snake,motif/nature,motif/childhood,concept/sin_and_the_fall,concept/innocence_and_experience,form/lyric,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -931,18 +530,6 @@ A snake is [[motifs/summer|summer]]'s treason,
 And guile is where it goes.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Dolce è la palude coi suoi [[motifs/secrets|segreti]],  
-Finché non incontriamo una serpe;  
-Allora sospiriamo per le case,  
-E prendiamo la nostra partenza  
-
-A quel galoppo travolgente  
-Che solo l'[[motifs/childhood|infanzia]] conosce.  
-Una serpe è il tradimento dell'[[motifs/summer|estate]],  
-E inganno è là dove va.
-
 
 
 <span class="atom-split" data-atom="l0014_mrs_a_p_strong_mt_holyoke_female_semina" data-title="To Mrs. A. P. Strong, MT. HOLYOKE FEMALE SEMINARY, Jan. 17, 1848" data-chapter="" data-kind="intro" data-tags="motif/home,motif/storm,motif/the_window,motif/the_journey,concept/friendship,concept/faith,concept/loneliness,concept/joy,form/letter,setting/new_england,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -956,16 +543,6 @@ You will probably think me foolish thus to give you an inventory of my [[motifs/
 
 Our term closes this week on Thursday, and Friday I [[concepts/hope|hope]] to see [[motifs/home|home]] and friends once more. I have studied hard this term, and aside from my delight at going [[motifs/home|home]], there is a sweetness in approaching rest to me. This term is the longest in the year, and I would not wish to live it over again, I can assure you. I [[motifs/love|love]] this Seminary, and all the teachers are bound strongly to my heart by ties of affection. There are many sweet girls here, and dearly do I [[motifs/love|love]] some new faces, but I have not yet found the place of a few dear ones filled, nor would I wish it to be here. I am now studying Silliman's Chemistry and Cutter's Physiology, in both of which I am much interested. We finish Physiology before this term closes, and are to be examined in it at the [[motifs/spring|spring]] examinations, about five weeks after the commencement of the next term. I already begin to dread that [[motifs/time|time]], for an examination in Mount Holyoke Seminary is rather more public than in our old academy, and a failure would be more disgraceful then, I opine; but I [[concepts/hope|hope]], to use my father's own words, “that I shall not disgrace myself.” What are you studying now? You did not mention that item in your last letters to me, and consequently I am quite in the dark as regards your progress in those affairs. All I can say is, that I [[concepts/hope|hope]] you will not leave poor me far behind. . . .
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Mia cara A., la tua lettera di benvenuto mi è arrivata alla vigilia del mio ritorno a casa, e non c’è bisogno di dire quanto fossi felice. Siamo tornati tutti a casa mercoledì, prima del Ringraziamento; era una giornata tempestosa, ma la tempesta non doveva ostacolarci, quindi abbiamo cercato di godercela al meglio e di mantenere un’atmosfera allegra. Molte ragazze sono partite molto presto al mattino per arrivare a casa lo stesso giorno; quando ci siamo sedute a tavola per la colazione, sembrava davvero triste vedere così tante posti vuoti. Dopo colazione, poiché non eravamo obbligate a rispettare tutte le regole familiari, alcune di noi ci siamo riunite vicino a una finestra nel corridoio per aspettare i nostri amici, che aspettavamo con impazienza. Nessuna mattina della mia vita è trascorsa così lentamente. Alla fine, quasi esausta, ho visto arrivare una carrozza in lontananza: sicuramente dentro c’era Austin. Tu, che sei stata via per tanto tempo, puoi facilmente immaginare la mia gioia. Non riderai di certo quando ti racconterò come sono corsa giù per le scale, rischiando quasi di spaventare a morte mio fratello. In un attimo tutto è stato pronto; io ed Emily, insieme al cocchiere, siamo partite verso casa. La pioggia cadeva a scrosci e il vento ululava intorno alle montagne; i ruscelli, pieni d’acqua, scorrevano velocemente lungo i loro corsi. Ma nulla ci ha fermate: abbiamo continuato ad andare avanti, e presto ho visto apparire davanti ai miei occhi gli edifici universitari e la guglia della nostra venerabile chiesa.
-
-Amherst non mi era mai sembrata così bella; nel mio cuore sbocciò la gratitudine verso [[characters/god|Dio]] per avermi concesso un ritorno sicuro alla mia cara [[motifs/home|casa]]. Poco dopo, la carrozza si fermò davanti a casa nostra, e tutti erano all’[[motifs/door|porta]] ad accogliere il ritornato: dalla madre, con le lacrime agli occhi, fino a Pussy, che cercava di apparire quanto più dignitosa potesse. Oh, A. Fu un incontro gioioso per tutti noi, proprio come lo era stato il primo addio. Quella [[motifs/night|notte]] la tempesta non si placò affatto, ma al mattino fui svegliata dal meraviglioso sole che brillava intensamente nel cielo. Andammo in chiesa e ascoltammo un ottimo sermone tenuto dal nostro pastore, il signor Colton. A [[motifs/noon|mezzogiorno]] tornammo a casa e mangiammo una deliziosa cena. Come ben sapete, il giorno di Ringraziamento non può certo prescindere da questo rituale. Nel pomeriggio ricevemmo diverse visite e ricevemmo quattro inviti per la serata; purtroppo non potemmo accettarli tutti, ma decidemmo comunque di andare a due di essi. Verso le 7 [[motifs/clock|ore]], io, i miei genitori, Austin, Viny, la cugina Emily e altri andammo da Professor Warner, dove trascorremmo un’ora piacevole in compagnia di alcuni amici; poi, salutandoli, noi giovani andammo da Mrs. S.M., accompagnati dalla sorella Mary. C’era già un bel gruppo di ragazzi quando arrivammo. Dopo aver giocato a vari giochi, ci divertimmo molto e tornammo solo quando suonò l’[[motifs/clock|orologio]], che ricordava l’ora di andare a letto. Tornati a casa, mio padre volle ascoltare il pianoforte; io, come una figlia obbediente, suonai e cantai alcune canzoni, con suo evidente piacere. Poi ci ritirammo. Il giorno dopo e quello successivo trascorsero altrettanto felicemente quanto il memorabile giorno di Ringraziamento stesso.
-
-Probabilmente penserete che sia sciocco da parte mia condividere con voi un resoconto dei miei momenti trascorsi a  casa, ma ho davvero goduto così tanto in quei brevi quattro giorni che volevo che anche voi ne foste a conoscenza e poteste goderli. Lunedì arrivò presto; una carrozza si presentò alla nostra [[motifs/door|porta]], e tra lacrime copiose me ne andai di nuovo. I primi giorni dopo il mio ritorno al Seminario trascorsero lentamente e con tristezza. Ero molto malinconico, ma “dopo una tempesta arriva la calma”, ed è stato proprio così anche nel mio caso. Presto le mie preoccupazioni furono dimenticate nello studio, e mi sentii di nuovo felice, anche se la felicità può esistere lontano da “ casa, dolce  casa”.
-
-Il nostro semestre termina questa settimana di giovedì, e venerdì spero di rivedere a casa i miei familiari e amici. Ho studiato molto duramente in questo semestre, e oltre alla gioia di tornare a casa, sento anche il desiderio di riposarmi dopo tanta fatica. Questo è il semestre più lungo dell’anno, e vi assicuro che non lo vorrei rivivere. Amo molto questo seminario, e tutti gli insegnanti mi sono molto cari per i legami d’affetto che ci uniscono. Ci sono molte ragazze qui, e adoro davvero alcune nuove facce, ma non ho ancora trovato qualcuno che possa prendere il posto di alcuni amici molto cari, e in realtà non vorrei nemmeno trovarlo qui. Attualmente sto studiando Chimica di Silliman e Fisiologia di Cutter; entrambi gli argomenti mi interessano molto. Concluderemo lo studio della Fisiologia prima che il semestre termini, e faremo l’esame in primavera, circa cinque settimane dopo l’inizio del prossimo semestre. Già adesso inizio a temere quel momento: un esame al Mount Holyoke Seminary è molto più pubblico rispetto a quello della nostra vecchia accademia, e ritengo che un fallimento sarebbe ancora più imbarazzante. Ma spero, per usare le parole di mio padre, “di non vergognarmi”. E tu, cosa stai studiando adesso? Non ne hai parlato nelle tue ultime lettere, quindi non so affatto come procedano i tuoi studi in questi argomenti. Tutto quello che posso dire è, spero che tu non mi lasci troppo indietro.
 
 
 
@@ -983,18 +560,6 @@ Notwithstanding your faithlessness I should have come to see you, but for that f
 . . . Shall I have a [[forms/letter|letter]] soon—oh, may I very soon, for “some days are dark and dreary, and the [[motifs/wind|wind]] is never weary.”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Mia molto cara A., mi piace sedermi qui da sola e scriverti una lettera; se la tua gioia nel leggerla sarà uguale o maggiore, o addirittura minore della mia nel scriverla, per me diventa un problema davvero importante. Farò appello a tutte le mie forze per risolverlo. Anche se ho molte ragioni di essere grata, amica mia assente, non posso sperare che tu sia altrettanto felice; ma spero con tutto il cuore che tu lo sia ugualmente. Oh, so bene che lo sarai, se i ricordi della scuola sono ancora vividi e preziosi! Come ti ho detto, oggi è domenica, quindi mi trovo limitata nella scelta degli argomenti da trattare: essendo piuttosto vanitosa, tendo naturalmente a parlare di cose mondane che sicuramente ti rattristerebbero. Ma sono ancora più costretta al rispetto delle regole, poiché in giorni come questi resto sempre a casa e non ho l’opportunità di riflettere su grandi verità. Considerando tutto ciò, cara A., il tuo cuore gentile sarà comprensivo, perdonerà tutte quelle parole vuote e sentimenti insoddisfacenti che abbiamo appena menzionato. Mi rallegro nel pensiero che esiste un argomento adatto a ogni luogo e momento: certamente non può interferire nell’ora più inappropriata per qualsiasi altro pensiero o sentimento. E oggi, qualunque sia la sua santità, sono sicura che non farò nulla che possa rompere i legami che ci uniscono. Parlerò delle cose che ci tengono uniti, e il ricordo di te, e del momento in cui ci siamo viste l’ultima volta, diventerà per me qualcosa di sacro. Ho molti ricordi e pensieri che, in qualche modo strano, ti riguardano. Se vuoi, possiamo considerarli come una vite di fantasie: tu, cara A., sei come il tronco d’olmo su cui questa pianta cresce; su ogni robusto ramo si arrampica un sottile germoglio pieno di fede, fiducia e sacra speranza. Possano anche i nostri cuori fare lo stesso, per quanto lontani possiamo essere l’uno dall’altro. Poiché quella fede che “vince su tutto” ci riunirà sempre.
-
-Amherst e Filadelfia: separate sì, ma quanto vicine, collegate da mille legami di fiducia. I viaggiatori che le attraversano, tu e io forse non possiamo vederli, né sentire il rumore dei loro passi; tuttavia la [[concepts/faith|fede]] ci dice che sono lì, continuando a viaggiare avanti e indietro. Molto probabilmente, A., pensi che io sia a casa, nella mia piccola stanza, a scriverti una lettera, ma ti sbagli di grosso. In realtà, sono sul fiume Susquehanna, diretta verso di te. Non sono molto abile come navigatrice, quindi procedo piuttosto lentamente. E non sono certo una “sirena”, anche se credo davvero che lo diventerò, se la marea dovesse sorprendermi mentre viaggio così adagio. Ragazza crudele. Non credo che ti importi davvero di me; se ti importasse, verresti subito ad aiutarmi a uscire da questo “mare”. Ma se annegherò, A., e dovrò restare per sempre tra le alghe, non dimenticherò mai il tuo nome, né tutte le ingiustizie che mi hai fatto!
-
-Perché te ne sei andato senza venire a trovarmi? Ero sicura che saresti venuto, perché me l’avevi promesso; quindi ti ho aspettato, versando qualche lacrima per la tua assenza. Che tristezza avere un carattere così fiducioso, le proprie speranze e i propri sentimenti dipendono completamente da chi ci circonda; mentre sarebbe davvero bello essere una persona “fredda” e distaccata, la cui felicità è al sicuro, nel proprio taschino della giacca, un taschino che nessuno possa rubare!
-
-Nonostante la tua infedeltà, avrei voluto venire a trovarti, ma a causa di quella terribile [[motifs/snow|neve]]-[[motifs/storm|Tempesta]]; ho provato lo stesso, ma lei ha vinto su di me. Ho dovuto togliermi cappello e sciarpa, e per il resto della giornata mi sono sentito molto triste. Volevo davvero un ultimo bacio, un addio dolce e malinconico, prima che tu te ne andassi. Forse, mio caro A., è meglio così; forse avrebbe aggiunto ancora più dolore alla nostra lunga separazione, o reso ancora più lontane quelle [[characters/miles|miglia]] che tengono un amico lontano. Cerco sempre di pensare che, se il mio desiderio fosse stato esaudito, la situazione sarebbe stata ancora più triste. E da queste riflessioni a volte traggo una certa consolazione. Una consolazione, per così dire, “al contrario”.
-
-. Riceverò presto una [[forms/letter|lettera]]? Oh, spero proprio di sì, perché “alcuni giorni sono bui e tristi, e il [[motifs/wind|vento]] non si stanca mai”.
-
 
 
 <span class="atom-split" data-atom="l0040_mr_william_austin_dickinson_sunday_afternoon" data-title="To Mr. William Austin Dickinson, Sunday Afternoon" data-chapter="" data-kind="intro" data-tags="motif/storm,motif/music_and_song,motif/horse,motif/the_journey,concept/faith,concept/joy,concept/exile,form/letter,histref/the_bible,setting/new_england,character/abraham,character/jove,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -1008,16 +573,6 @@ Herself and not her music was what we seemed to [[motifs/love|love]] —she has 
 
 About our coming to Boston—we think we shall probably come—we want to see our friends, yourself and Aunt L.'s [[concepts/family|family]]. We don't care a fig for the Museum, the stillness, or Jennie Lind. . . . [[motifs/love|Love]] from us all.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Sono appena tornato dalla chiesa, sono molto sudato e stanco. La nostra chiesa sta crescendo in modo interessante; Zion alza la testa. Ho sentito commenti che alludono a [[settings/jerusalem|Gerusalemme]]. Oggi non mi sento libero di dire altro!
-
-, Volevo scriverti venerdì, la [[motifs/night|notte]] di Jennie Lind, ma sono arrivato a [[motifs/home|casa]] dopo mezzanotte, e solo in seguito nella mia stanza ho incontrato diversi pericoli lungo il cammino: un [[motifs/horse|cavallo]] che calciava, un guidatore inesperto, numerosi fulmini. Tutto questo merita di essere raccontato. Eravamo soltanto in quattro; aggiungendo una persona assente, diventiamo cinque. Il concerto è iniziato alle otto, ma sapendo che il mondo era vuoto, abbiamo deciso di cominciare alle sei, per far arrivare tutti coloro che volevano partecipare. Abbiamo fatto pochi passi quando uno dei cavalli ha mostrato segni di nervosismo; appena sono iniziati gli esercizi del fabbro – con calci e movimenti bruschi da parte del cavallo, e frustate da parte del guidatore – il cavallo si è rifiutato di proseguire. La tua rispettabile [[concepts/family|famiglia]], molto delusa, è scesa da cavallo ed è andata all’hotel. Dopo un po’, abbiamo trovato un altro cavallo; ci sono stati invitati gentilmente a prendere posto e continuare il viaggio. Ma abbiamo rifiutato fino a quando l’animale non si è dimostrato affidabile. A metà del nostro [[motifs/journey|viaggio]] si è sentito tuonare, e una nuvola minacciosa è apparsa nel cielo. Che parole possono esprimere il nostro terrore quando ha iniziato a piovere. Gocce, piogge torrenziali. Quale immaginazione può descrivere i diluvi che abbiamo incontrato lungo la strada. Il palco e tutti noi siamo arrivati all’hotel Warner; ci siamo scesi da cavallo ed siamo stati accompagnati all’interno. La pioggia non smetteva. Siamo entrati in silenzio nella vecchia chiesa di Edwards, ci siamo seduti. Jennie è uscita come una [[archetypes/child|bambina]], ha cantato ancora e ancora. I mazzi di fiori piovevano dal cielo; il pubblico applaudiva entusiasticamente. Fuori tuonava. Dentro, il tuono delle voci umane e di quello di [[characters/god|Dio]]. Giudicate voi quale fosse più forte. Tutti amavamo Jennie Lind. Ma non essendo abituati al suo modo di cantare, non pensavamo che fosse così [[motifs/well|brava]] come la consideravamo noi. Non c’è dubbio che sia stata una serata meravigliosa. Ma se prendete in considerazione le note emesse da “Echo”, i suoni degli uccelli, e alcuni dei suoi strani trilli, preferirei comunque un cantante yankee.
-
-Era lei stessa, e non la sua musica, che sembravamo amare davvero. Nei suoi occhi blu teneri c’era un’aria di [[concepts/exile|esilio]], e nel suo accento nativo c’era qualcosa di dolce e commovente che affascinava molti dei suoi amici. Ricordo quella sera in cui cantava nella sua capanna di paglia: era così assorta nella musica che sembrava quasi perduta in essa. Per un breve [[motifs/time|istante]] ho pensato che avesse finalmente trovato ciò che cercava, ma poi il suo accento straniero la rendeva di nuovo una “viaggiatrice senza fissa dimora”. Ne parleremo quando verrai. Mio padre passò tutta la sera a fissarla con un’espressione furiosa, eppure così divertita da farci morire dal ridere. Non era esattamente sarcasmo, né disprezzo. Era qualcosa di infinitamente più divertente di entrambi questi sentimenti. Come se il vecchio Abramo fosse venuto a vedere lo spettacolo e avesse pensato che tutto fosse molto “bene”, ma con un po’ troppa “scimmiesca esuberanza”! Ha incassato ben 4.000 dollari per i biglietti a Northampton, senza contare tutte le altre spese.
-
-Riguardo al nostro arrivo a Boston – pensiamo che probabilmente verremo – vogliamo vedere i nostri amici, voi e la famiglia di zia L. Non ci interessa affatto il museo, la tranquillità o Jennie Lind. Un saluto affettuoso da parte di tutti noi.
 
 
 
@@ -1037,20 +592,6 @@ Do you find plenty of food at [[motifs/home|home]]? Famine is unpleasant.
 It is too late for frogs—or what pleases me better, dear, not quite early enough! The pools were full of you for a brief period, but that brief period blew away, leaving me with many stems, and but a few foliage! Gentlemen here have a way of plucking the tops of the trees, and putting the fields in their cellars annually, which in point of taste is execrable, and would they please omit, I should have fine vegetation and foliage all the year round, and never a [[motifs/winter|winter]] month. Insanity to the sane seems so unnecessary —but I am only one, and they are “four and forty,” which little affair of numbers [[motifs/leaves|leaves]] me impotent. Aside from this, dear Katie, inducements to visit Amherst are as they were—I am pleasantly located in the deep [[motifs/sea|sea]], but [[motifs/love|love]] will row you out, if her hands are strong, and don't wait till I land, for I'm going ashore on the other side.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-KATIE, — L’anno scorso, a questa stessa [[motifs/time|ora]], non mi mancavi affatto, ma le circostanze sono cambiate. Ora ricordo con profondo affetto il tuo colore nero, e spero che i miei colori siano per te delle tonalità particolarmente care.
-
-Infatti, smetti di parlare, una abitudine comune tra le cose separate e distrutte. Ma dovrei considerarti un’eccezione preziosa, e portarti dal gentile Signore come al solito?
-
-Onoriamo la nostra [[concepts/faith|fede]] quando possiamo attraversare l’oceano con essa, anche se la maggior parte preferisce gli alberi da nave.
-
-Come stai quest’anno?. Quanti anni passeranno, mi chiedo, prima che su di loro cresca la muschiovia, prima che possiamo legarli di nuovo, forse un po’ cambiati, un po’ più maturi, ma ancora gli stessi, come i soli che brillano tra le nostre vite e le nostre perdite, e le viole, non quelle dell’anno scorso, ma con gli occhi della madre.
-
-Trovi abbastanza cibo a [[motifs/home|casa]]? La fame è davvero sgradevole.
-
-È troppo tardi per le rane, o, per dirla in modo più piacevole a me, cara, non ancora abbastanza presto! Per un breve periodo, gli stagni erano pieni di rane, ma quel breve periodo è passato, lasciandomi con molti steli e pochissima foglia. Gli uomini qui hanno l’abitudine di tagliare le cime degli alberi e di mettere i campi nei loro “cellari” ogni anno; questo, dal punto di vista del gusto, è davvero orribile. Se solo potessero smettere con questa pratica, avrei una bella vegetazione e foglie tutto l’anno, senza mai dover affrontare il [[motifs/winter|inverno]]! Per chi è sano di mente, queste cose sembrano del tutto inutili, ma io sono solo uno, mentre loro sono “quarantaquattro”; questo piccolo aspetto numerico mi lascia impotente. A parte questo, cara Katie, le ragioni per venire ad Amherst rimangono le stesse di sempre: mi trovo in una posizione piacevole, nel profondo [[motifs/sea|mare]], ma l’[[motifs/love|amore]] potrebbe portarti da me, se solo le sue mani siano forti. E non aspettare che io attracchi: approderò dall’altra parte.
-
 
 
 <span class="atom-split" data-atom="l0114_dr_j_g_holland_and_mrs_holland_1859" data-title="To Dr. J. G. Holland, and Mrs. Holland, 1859" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/prayer,motif/childhood,concept/faith,concept/joy,concept/friendship,concept/procreation,form/letter,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -1064,16 +605,6 @@ I pray for the tenants of that holy chamber, the wrestler, and the wrestled for.
 
 Saviour keep them all!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Che [[characters/god|Dio]] vi benedica, cara signora Holland! L’ho letto sul giornale.
-
-Sono così felice che sia un bambino: ora le sorelline avranno qualcuno con cui divertirsi sul trenino di neve. E se un giorno diventerai una vecchietta, si dice che ci sia qualcosa di davvero dolce nel braccio di un figlio.
-
-Prego per gli inquilini di quella sacra stanza, per il lottatore e per ciò per cui ha lottato. Prego per il cuore di mio padre lontano, un cuore pieno di gioia!
-
-Salvatore, proteggili tutti!
 
 
 
@@ -1105,32 +636,6 @@ The waves are very big, but every one that covers you, covers us, too.
 Dear Mary, you can't see us, but we are close at your side. May we comfort you?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-MARY, —Non ti ricordo da molto tempo. Mi ricordo di te, alcune volte. Vorrei sapere se mi hai ancora presente. Il [[concepts/doubt|dubbio]], come la zanzara, ronza intorno alla mia [[concepts/faith|fede]]. Siamo tutti umani, Mary, finché non diventiamo divini. Per alcuni questo è lontano; per altri, invece, è vicino quanto quella signora che bussa alla [[motifs/door|porta]]. Forse è proprio questo a spaventarci. Dico che andrò io stesso. Attraverserò il [[motifs/river|fiume]], scalerò la recinzione. Ora sono al cancello, Mary. Ora sono nel corridoio. Ora guardo dritto negli occhi il tuo cuore!
-
-Mi ha aspettato, o è andata con quella compagnia? Una compagnia crudele, che possiede azioni, fattorie e credenze, mentre lei ha soltanto il suo cuore! Spero tu sia felice, Mary; oggi non c’è nemmeno una pietra nel ruscello, né una nuvola all’[[motifs/noon|mezzogiorno]].
-
-Posso immaginare com'è il tuo aspetto; tu non puoi immaginare com'è il mio. Ho più lentiggini da quando mi hai visto giocare con i compagni di scuola; sembro proprio una “giugnata” che prepara la torta, con le dita tutte abbronzate.
-
-[[motifs/summer|Estate]] passò molto in fretta; arrivò fino alla donna della [[motifs/hill|collina]] che porta i mirtilli, e questa è una distanza piuttosto lunga. Quest’anno non avrò alcuna [[motifs/winter|inverno]], a causa dei soldati. Poiché non posso intrecciare coperte o stivali, ho pensato fosse meglio omettere quella stagione. Presenterò un “memoriale” a [[characters/god|Dio]] quando i pioppi inizieranno a cambiare colore. Posso contare sul tuo “nome”?
-
-Come va il tuo [[motifs/garden|giardino]], Mary? I rododendri sono davvero fioriti, e i gelsomini sono fedeli alla loro bellezza? Io ho un geranio, sembra proprio una sultana; quando arrivano gli uccellini del tuono, io e il geranio chiudiamo gli occhi e ci immaginiamo di essere lontani, molto lontani.
-
-Chiedi a “Mamie” se dovrei catturare una farfalla per lui indossando una giacca come quella di un turco. Lo farò, se lei gli costruirà una casa tra i suoi “gelsomini”.
-
-Vinnie avrebbe voluto inviarle il suo [[motifs/love|amore]], ma lei ha indossato un abito bianco ed è andata a incontrarsi con lui domani, solo pochi minuti fa; anche mia madre avrebbe voluto inviarle il suo [[motifs/love|amore]], ma in questo momento è fuori, a raccogliere una foglia portata dal vento lo scorso novembre; io invece ho portato io stessa il mio “amore” da te e dal signor Bowles.
-
-Per favore, ricordati di me, perché io mi ricordo di te, sempre.
-
-Poi segue il [[forms/poem|poema]] che inizia con “Il mio [[motifs/river|fiume]] scorre verso di te”, pubblicato nella Prima Serie dei Poemi.
-
-Non piangere, cara Mary. Lasciaci farlo per te, perché ora sei troppo stanca. Non sappiamo quanto sia buio là fuori, ma se ti trovi vicino al [[motifs/sea|mare]], forse, quando diremo che siamo arrivati, non avrai più paura.
-
-Le onde sono molto alte, ma ognuna che ti copre, ci copre anche noi.
-
-Cara Mary, non ci puoi vedere, ma siamo vicini a te. Possiamo consolarti?
-
 
 
 <span class="atom-split" data-atom="l0182_mr_samuel_bowlers_and_mrs_bowles_spring_1878" data-title="To Mr. Samuel Bowlers and Mrs. Bowles, Spring, 1878" data-chapter="" data-kind="intro" data-tags="topos/paradise_lost,motif/home,motif/the_soul,concept/grief_and_loss,concept/immortality_divine,concept/faith,concept/self_sacrifice,form/letter,histref/christianity,histref/the_bible,character/jesus,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -1149,20 +654,6 @@ He is without [[concepts/doubt|doubt]] with my father. Thank you for thinking of
 Mother is growing better, though she cannot stand, and has not the power to raise her head for a glass of [[motifs/water|water]]. She thanks you for being sorry, and speaks of you with [[motifs/love|love]]. . . . Your timid “for his sake,” recalls that sheltering passage, “for his sake who loved us, and gave himself to die for us.”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Se non avessi mai parlato con nessuno, caro mio, non ti rimprovererebbero, ma penserebbero a te con più dolcezza, come a qualcuno che ha sofferto troppo per poter parlare. Dimenticarti sarebbe impossibile, se non ti avessimo mai visto; perché tu eri colui per cui piangiamo finché abbiamo coscienza. Poiché lui stesso era l’Eden, ora è con l’Eden, perché non possiamo diventare ciò che non siamo stati.
-
-Mi è sembrato dolce il fatto che tu avessi bisogno di me, anche se sono solo un semplice rifugio, io esisterò sempre. Spero che i tuoi ragazzi e le tue ragazze possano aiutarti nel superare questa terribile assenza, perché il dolore non rimane fermo nei loro cuori in movimento.
-
-Quanto speriamo ardentemente che assomiglino a lui. Che quel suo bellissimo viso possa essere da qualche parte là fuori.
-
-Non era il suo volto, sulla terra, altrettanto eloquente quanto quello di uno spirito? Il momento in cui lo rivedrai sarà lungo, caro mio, ma allo stesso tempo breve, perché non abbiamo forse tutti nel cuore qualcosa che possiamo rendere “celestiale”, proprio come lui?
-
-Non ha alcun [[concepts/doubt|dubbio]] riguardo a mio padre. Grazie per aver pensato a lui e per il dolce, ultimo rispetto che gli avete mostrato con tanta fedeltà.
-
-Mamma sta migliorando, anche se non riesce a stare in piedi e non ha la forza di alzare la testa nemmeno per bere un bicchiere d’[[motifs/water|acqua]]. Ti ringrazia per le tue premure e parla di te con [[motifs/love|amore]]. Il tuo timido “per il suo bene” ricorda quel passaggio in cui si diceva: “Per colui che ci ha amato e si è sacrificato per noi”.
-
 
 
 <span class="atom-split" data-atom="l0220_the_misses" data-title="To the Misses" data-chapter="" data-kind="intro" data-tags="motif/love,motif/childhood,concept/friendship,concept/joy,form/letter,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -1170,10 +661,6 @@ Mamma sta migliorando, anche se non riesce a stare in piedi e non ha la forza di
 
 DEAR CHILDREN,—When I think of your little faces I feel as the band does before it makes its first shout. . . .
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Cari bambini, —quando penso ai vostri piccoli volti, mi sento come la banda prima di emettere il suo primo suono.
 
 
 
@@ -1187,14 +674,6 @@ I cannot see my [[motifs/soul|soul]], but know 'tis there, Nor ever saw his hous
 [[motifs/love|Love]] for the glad if you know them, for the sad if they know you.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-. So di amare i miei amici; lo sento dentro di me, in un luogo dove né il blu né il nero possono raggiungere, dove nemmeno le dita riescono ad arrivare. So che è proprio l’amore per loro a causarmi quel dolore nella gola, molte volte al giorno, quando i venti diventano più dolci del solito, o quando una nuvola diversa fa sì che il mio cervello si allontani da “casa”.
-
-Non riesco a vedere la mia [[motifs/soul|'anima]], ma so che è lì; Non ho mai visto né la sua casa né i suoi mobili, Eppure mi ha invitato ad abitare con lui. Come un ospite fiducioso, rifletto su quale abbigliamento possa onorarlo di più, Affinché io sia adeguatamente vestito; Lui, infatti, non permette a nessuno di adornarsi in modo eccessivo, Perché considera tali ornamenti come un festeggiamento improvviso.
-
-[[motifs/love|Amore]] che rende felici coloro che lo conoscono, e tristi coloro che ti conoscono.
-
 
 
 <span class="atom-split" data-atom="l0233_the_misses_march_1873" data-title="To the Misses, March, 1873" data-chapter="" data-kind="intro" data-tags="motif/snow,motif/wind,motif/the_window,concept/providence,concept/endurance,concept/faith,form/letter,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -1202,10 +681,6 @@ Non riesco a vedere la mia [[motifs/soul|'anima]], ma so che è lì; Non ho mai 
 
 . . . I open my [[motifs/window|window]], and it fills the chamber with white dirt. I think [[characters/god|God]] must be dusting; and the [[motifs/wind|wind]] blows so I expect to read in The Republican “Cautionary signals for Amherst,” or “No ships ventured out from Phoenix Row.” . . . Life is so rotatory that the wilderness falls to each, sometime. It is safe to remember that. . . .
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-. Apro la mia [[motifs/window|finestra]], e la stanza si riempie di polvere bianca. Penso che [[characters/god|Dio]] stia pulendo; il [[motifs/wind|vento]] soffia forte, quindi probabilmente leggerò su “The Republican” articoli come “Segnali d’allarme per Amherst” o “Nessuna nave si è avventurata fuori da Phoenix Row”. La vita è così ciclica che, a volte, anche il deserto finisce sotto il dominio di qualcuno. È importante ricordarlo.
 
 
 
@@ -1216,12 +691,6 @@ Non riesco a vedere la mia [[motifs/soul|'anima]], ma so che è lì; Non ho mai 
 
 We send the wave to find the wave, An errand so divine The messenger enamored too, Forgetting to return, We make the sage decision still Soever made in vain, The only [[motifs/time|time]] to dam the [[motifs/sea|sea]] Is when the [[motifs/sea|sea]] is gone.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-. Forse il suono delle vecchie [[motifs/bells|campane]] potrebbe svegliare i bambini.
-
-Inviiamo un’onda alla ricerca di un’altra onda. Un compito così divino che anche il messaggero ne rimase incantato, dimenticando di tornare indietro. Prendiamo comunque la decisione saggia. Anche se spesso è inutile. L’unico momento in cui si può arginare il [[motifs/sea|mare]] è quando esso non c’è più.
 
 
 
@@ -1234,14 +703,6 @@ The [[historical-references/bible|Bible]] portentously says “that which is spi
 
 Go not too near a house of [[motifs/rose|rose]], The depredation of a breeze Or inundation of a [[motifs/dew|dew]] Alarm its walls away; Nor try to tie the butterfly, Nor climb the bars of ecstasy, In insecurity to lie Is [[concepts/joy|joy]]'s insuring quality.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Sarebbe saggio sottoporre un'intervista con un fantasma a un test ancora più rigoroso?
-
-La [[historical-references/bible|Bibbia]] afferma in modo profetico: “Ciò che è spirito, è spirito”.
-
-Non avvicinarti troppo a una casa di [[motifs/rose|rose]]; il soffio della brezza o l’innondazione del [[motifs/dew|rugiado]] possono distruggere le sue mura; né tentare di catturare la farfalla, né scalare le sbarre dell’estasi. Giacere in insicurezza è proprio ciò che garantisce la vera qualità della [[concepts/joy|gioia]].
 
 
 
@@ -1257,16 +718,6 @@ has always meant the woods to me.
 I trust is your own.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Mia patria… appartiene a te.”
-
-Per me, “foresta” ha sempre significato proprio i boschi.
-
-“Dolce terra della [[concepts/liberty|libertà]], ”
-
-Confido che sia tua.
-
 
 
 <span class="atom-split" data-atom="l0463_mrs_jameson" data-title="To Mrs. Jameson" data-chapter="" data-kind="intro" data-tags="motif/tears,concept/providence,concept/faith,concept/friendship,form/letter,histref/the_bible,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -1276,12 +727,6 @@ How dare a tear intrude on so sweet a cheek?
 
 Gentlest of neighbors, recall the “sparrows” and the great Logician.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Come osa una lacrima intromettersi su una guancia così dolce?
-
-Più gentili tra i vicini, ricordatevi dei “passeri” e del grande Logico.
 
 
 
@@ -1293,12 +738,6 @@ DEAR FRIEND,—I had hoped to see you, but have no grace to talk, and my own wor
 We shun it ere it comes, Afraid of [[concepts/joy|joy]], Then sue it to delay, And lest it fly Beguile it more and more. May not this be, Old suitor Heaven, Like our dismay at thee?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, —avrei voluto vederti, ma non ho il coraggio di parlare; inoltre, le mie stesse parole mi gelano e mi bruciano dentro, tanto che la temperatura delle emozioni altrui rappresenta per me una sorta di timore reverenziale.
-
-Lo evitiamo prima ancora che arrivi, temendo la [[concepts/joy|gioia]]; poi cerchiamo di ritardarne l’arrivo, e per impedirgli di “volare via”, lo inganniamo sempre di più. Non è forse questo, o vecchio cielo, proprio come il nostro timore nei tuoi confronti?
-
 
 
 <span class="atom-split" data-atom="l0505_dr_and_mrs_field_1884" data-title="To Dr. and Mrs. Field, 1884?" data-chapter="" data-kind="intro" data-tags="topos/paradise_lost,topos/fall_from_innocence,motif/flowers,motif/the_garden,concept/sin_and_the_fall,concept/friendship,form/letter,histref/the_bible,cluster/bible,cluster/sin_and_the_fall,cluster/fall_from_innocence"></span>
@@ -1309,12 +748,3 @@ Expulsion from Eden grows indistinct in the presence of [[motifs/flowers|flowers
 Beaconsfield says “the [[motifs/time|time]] has now come when it must be decided forever, who possesses the great gates to India.”
 
 I think it must be my neighbor.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-L’espulsione dall’Eden diventa meno evidente di fronte a tali fiori così beati; e senza voler mancare di rispetto al Genesi, il Paradiso esiste ancora.
-
-Beaconsfield afferma: “È giunto il momento in cui deve essere deciso per sempre chi possieda i grandi porti d’accesso all’India.”
-
-Penso che debba essere il mio vicino.

@@ -31,24 +31,6 @@ Like Heaven’s bright beauteous bow reflected in the stream.
 ? 1790.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Per queste terre selvagge Anna soleva vagare  
-mentre Harland diceva il suo [[motifs/love|amore]] in molti sospiri,  
-ma severo su Harland si volse l'occhio del fratello:  
-si batterono, caddero — suo fratello e il suo [[motifs/love|amore]]!  
-Alla buia casa della [[motifs/death|Morte]] corse Anna consunta dal dolore,   5  
-eppure qui il suo pensoso [[archetypes/ghost|spettro]] ama sostare;  
-spesso versando ai venti il canto spezzato —  
-e ascolta, la odo—era la raffica che passava.  
-[[motifs/love|Amo]] sedere sull'erba scura della sua tomba,  
-allora la [[motifs/memory|Memoria]] fa rifluire la marea ombrosa del [[motifs/time|Tempo]];   10  
-i racconti d'altri giorni mi scivolano innanzi:  
-con avido pensiero li afferro mentre passano;  
-ché belle, benché fioche, splendono le forme della [[motifs/memory|Memoria]],  
-come il luminoso e bell'arco del Cielo riflesso nel ruscello.  
-? 1790.
-
 
 
 <span class="atom-split" data-atom="041_the_complaint_of_ninathómafrom_the_same" data-title="THE COMPLAINT OF NINATHÓMA:FROM THE SAME" data-chapter="" data-kind="intro" data-tags="archetype/ghost,motif/the_sea,motif/ghosts,motif/dreams,motif/storm,concept/grief_and_loss,concept/melancholy,form/lyric,setting/the_sea,cluster/terror_and_horror,cluster/madness"></span>
@@ -73,26 +55,6 @@ To howl through my cavern by [[motifs/night|night]].
 1793.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Fino a quando intorno a me vi gonfierete,  
-o azzurre onde tumultuanti del mare?  
-Non sempre in caverne fu la mia dimora,  
-né sotto la fredda raffica dell'albero.  
-Per le sale altisonanti di Cathlóma   5  
-nei passi della mia [[concepts/beauty|bellezza]] errai;  
-i guerrieri contemplarono Ninathóma,  
-e benedissero la Fanciulla dal bianco seno!  
-Uno [[archetypes/ghost|Spettro]]! guizzò accanto alla mia caverna!  
-di raggi di [[motifs/moon|luna]] era vestito lo Spirito — 10  
-ché amabili appaiono i Trapassati  
-quando visitano i [[motifs/dreams|sogni]] del mio riposo!  
-Ma turbate dal tumulto della tempesta  
-fuggono le forme ombrose della delizia —  
-Ah cessa, tu stridula raffica dell'Oceano,   15  
-d'ululare per la mia caverna di [[motifs/night|notte]].  
-1793.
-
 
 
 <span class="atom-split" data-atom="089_mrs_siddons" data-title="MRS. SIDDONS" data-chapter="" data-kind="intro" data-tags="motif/the_supernatural,motif/childhood,motif/night,concept/terror_and_horror,concept/the_sublime,form/sonnet,cluster/terror_and_horror,cluster/madness"></span>
@@ -114,24 +76,6 @@ Even such the shiv’ring joys thy tones impart,
 Even so thou, SIDDONS! meltest my sad heart!  
 December 29, 1794.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Come quando un [[archetypes/child|bimbo]] in qualche lunga [[motifs/night|notte]] d'[[motifs/winter|Inverno]]  
-atterrito, stringendosi alle ginocchia della Nonna,  
-con avido stupore e turbata delizia  
-ascolta strane storie di paurosi oscuri decreti  
-mormorati a un misero da negromantico incanto;   5  
-o di quelle streghe che nell'[[motifs/time|ora]] stregata  
-della fosca Mezzanotte cavalcano l'aria [[concepts/sublime|sublime]]  
-e mescolano turpi abbracci coi demoni dell'Inferno:  
-il freddo Orrore ne beve il [[motifs/blood|sangue]]! Poi la lacrima  
-più mite sgorga, all'udire la Vecchia narrare   10  
-di graziosi Bambini che s'amavano teneramente,  
-uccisi per crudele ordine d'uno Zio spietato:  
-tali sono le gioie tremanti che i tuoi toni recano,  
-così tu, SIDDONS, mi struggi il triste cuore!  
-29 dicembre 1794.
 
 
 
@@ -155,25 +99,6 @@ Did’st scream, then [[motifs/spring|spring]] to meet Heaven’s quick reprieve
 While we wept idly o’er thy little bier!  
 1796.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-DELLA NASCITA D'UN FIGLIO, 20 SETT.,    1796  
-Spesso per il mio cervello scorre quella strana fantasia  
-che fa parere il presente (finché dura il lampo)  
-mera parvenza di un ignoto passato,  
-mista a sentimenti tali da turbare l'[[motifs/soul|anima]]  
-che interroga [[concepts/self|sé]] stessa nel [[motifs/sleep|sonno]]; e taluni hanno detto   5  
-che vivemmo prima d'indossare questa veste di carne.  
-O mio dolce bambino! quando giungerò alla mia porta,  
-se sguardi gravi mi diranno che sei morto,  
-(come a volte, per eccesso di [[concepts/hope|speranza]], [[concepts/fear|temo]])  
-penso che mi sforzerei di credere   10  
-che tu fossi uno spirito, a questa sfera inferiore  
-condannato a soffrire per qualche colpa più veniale;  
-che gridasti, e poi [[motifs/spring|balzasti]] incontro alla pronta grazia del Cielo,  
-mentre noi piangevamo invano sulla tua piccola bara!  
-1796.
 
 
 
@@ -230,57 +155,6 @@ Down thro’ the forest I pursu’d my way.
 1800.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Udii una voce dal fianco dell'Etna;  
-dove sopra la bocca d'una caverna  
-che guardava a mezzogiorno  
-un castagno stendeva la sua larga ombra:  
-un eremita o un monaco poteva essere quell'uomo;    5  
-ma vederlo non potevo:  
-e così la musica scorreva,  
-in melodia simile a un antico canto siciliano:  
-‘Vi fu un [[motifs/time|tempo]] in cui la terra, e il mare, e i cieli,  
-la verde valle lucente, e il cupo recesso della foresta,   10  
-con tutte le cose, giacevano ai miei occhi  
-in ferma bellezza:  
-ma ora provo, sulla scena inquieta della terra,  
-dolori tali che mai cesseranno; —  
-io chiedo solo pace;   15  
-se devo vivere sapendo che un tal [[motifs/time|tempo]] è stato!’  
-Seguì allora un [[motifs/silence|silenzio]]:  
-finché dalla caverna venne  
-una voce; — era la stessa!  
-e così, in tono luttuoso, rinnovò il suo tetro lamento:   20  
-‘Ieri [[motifs/night|notte]], mentre calcavo l'erba in pendio,  
-la liscia erba verde mi diede una visione  
-sotto i miei occhi, la zolla —  
-il tetto della [[motifs/grave|tomba]] di Rosa!  
-Il mio cuore deve lottare con [[motifs/dreams|sogni]] come questi,   25  
-ché, quando mi destai, sotto i miei occhi trovai  
-il lembo di terra muscosa  
-su cui spesso sedemmo quando Rosa era viva. —  
-Perché la roccia e la riva del fiume,  
-perché i colli devono recare tanti fiorellini   30  
-i cui colori al [[motifs/blood|sangue]] d'una fanciulla assassinata  
-portano sì triste somiglianza? —  
-‘Io inferii la ferita, — questa mia mano!  
-Perché oh, tu fanciulla divina,  
-t'amai fino all'agonia!   35  
-Il giovane che tu chiamavi tuo  
-non [[motifs/love|amò]] mai come me!  
-‘Sono le nubi tempestose lassù  
-che lampeggiarono un bagliore così rosso  
-su quel rivolo che scende laggiù? — 40  
-Non è il [[motifs/blood|sangue]] di colei che [[motifs/love|amo]]. —  
-Il sole mi tormenta dal suo letto occidentale,  
-oh, cessi per sempre di spandere  
-quelle spettrali tinte cremisi!  
-Oh, lasciatemi giacere in pace, ed esser morto per sempre!’   45  
-Qui cessò la voce. In profondo sgomento,  
-giù per la foresta proseguii il mio cammino.  
-1800.
-
 
 
 <span class="atom-split" data-atom="239_the_madman_and_the_lethargist" data-title="THE MADMAN AND THE LETHARGIST" data-chapter="" data-kind="intro" data-tags="archetype/fool,motif/madness,concept/madness,concept/satire_of_society,concept/doubt,form/fable,form/satire,histref/the_french_revolution,cluster/terror_and_horror,cluster/madness"></span>
@@ -334,56 +208,6 @@ Where Art sits down in blank [[concepts/despair|despair]].’
 ‘But as for the Example, ‘tis a lie.’   45
 ?    1809
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-UN ESEMPIO
-Disse Dick a me, una volta al Collegio
-mentre discutevamo dell'uso del sapere; —
-‘Sotto il vecchio [[archetypes/king|Re]] Olim, ho letto,
-giacevano due malati in un letto solo.
-L'uno, in grasso letargico torpore,   5
-giaceva smorto e immoto come piombo:
-l'altro, (come la Gente in Francia),
-aveva ben altra indole —
-in breve, a confessare la nuda [[concepts/truth|verità]],
-quell'uomo era più pazzo di Bess la Pazza!   10
-Ma entrambi i mali, nessuno lo negava,
-erano radicati oltre ogni medicina;
-pure avvenne, per permissione del Cielo,
-che ciascuno fu il vero medico dell'altro.
-‘Combattendo con occhio spettrale   15
-schiere di Despoti nell'aria,
-strepitosamente Giacobino,
-il pazzo schiumava, spumava e ruggiva:
-l'altro, russando ottave ciniche,
-come il buon John Bull, in postura clinica,   20
-pareva vivo solo quando russava.
-Il Cittadino, infuriato a vedere
-quella grassa Insensibilità,
-o stanco di fatica solitaria,
-decise di convertire il vicino;   25
-così balzò su e vi si gettò,
-come diavolo fumante uscito d'inferno,
-con pugno infaticabile
-tempestando il povero Letargico;
-finché le proprie membra furono rigide e dolenti,   30
-e gocce di sudore colavano da ogni poro: —
-pure, ancora, con dita rapide e volanti,
-debitamente accompagnate dai piedi,
-con qualche breve intervallo di morsi,
-esegue lo [[concepts/self|stesso]] identico motivo,   35
-finché il Dormiente si destò per il [[motifs/pain|dolore]],
-e mezzo si preparò a battersi —
-proprio nel momento in cui il suo pazzo Collega
-crollò e dormì per pura stanchezza.
-Così entrambi furono guariti — e quest'esempio   40
-dà dimostrazione piena e ampia —
-che il Caso può condurre a buon fine
-là dove l'Arte siede in vuota [[concepts/despair|disperazione]].’
-‘È vero abbastanza, Dick,’ risposi io,
-‘ma quanto all'Esempio, è una bugia.’   45
-?    1809
 
 
 
@@ -488,105 +312,3 @@ Thro’ briars and swampy mosses beat;
 How boughs rebounding scourg’d his limbs,  
 And low stubs gor’d his feet.  
 Note by J. D. Campbell, P. W., 1893, p. 456.  
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Nel buio rimasi — l'[[motifs/clock|orologio]] vicino  
-mi disse che ora il sole nascente splendeva amabile  
-sul mio [[motifs/garden|giardino]].  
-Pubblicato per la prima volta in Lit. Rem., i. 279. Cfr. Osorio, Atto I, versi  
-219-21 (ante, p. 528), e Remorse, Atto I, Scena II, versi 218-   20  
-(ante, p. 830).  
-Il Sole (ché ora il suo globo cominciava lento a calare)  
-scagliò metà dei raggi obliqui sulla brughiera i cui [[motifs/flowers|fiori]]  
-imporporavano la cima larga e piana del monte;  
-ricco era il suo letto di nubi, e largo di sotto  
-l'Oceano in attesa sorrideva col volto increspato.  
-Pubblicato per la prima volta in Lit. Rem., i. 278. Cfr. This Lime-Tree Bower  
-(1797), versi 32-7 (ante, pp. 179, 180).  
-Magrezza, inquietudine e Fitte segrete.  
-Pubblicato per la prima volta in Notizbuch, p. 351.  
-Liscio, lucente e ingannevole come Ghiaccio sottile.  
-Pubblicato per la prima volta in Notizbuch, p. 355.  
-Sapienza, Madre del Pensiero appartato.  
-Pubblicato per la prima volta nel 1893.  
-La [[concepts/nature|Natura]] gli scrisse Furfante in volto,  
-con arte calcografica!  
-Pubblicato per la prima volta nel 1893.  
-In questo mondo abitiamo fra le tombe  
-e tocchiamo le contaminazioni dei Morti.  
-Pubblicato per la prima volta nel 1893. Cfr. Destiny of Nations, vv. 177-   8  
-(ante, p. 137).  
-Il mite disperare d'un Cuore rassegnato.  
-Pubblicato per la prima volta in Lit. Rem., i. 278.  
-Tale fiera vivacità che accende l'occhio  
-del Genio impazzito di fantasia.  
-Pubblicato per la prima volta in Lit. Rem., i. 278. Cfr. Destiny of Nations,  
-vv. 257, 258 (ante, p. 139).  
-—— come una possente Gigantessa  
-còlta in aspro travaglio e parto prodigioso  
-la [[concepts/nature|Natura]] inferma lottò: lunghe e strane le sue doglie;  
-i suoi gemiti erano orribili, ma oh! bellissimi  
-i Gemelli che partorì — EGUAGLIANZA e PACE!  
-Pubblicato per la prima volta in Lit. Rem., i. 278. Cfr. i versi finali della  
-seconda strofa di Ode to the Departing Year, 4{o}, 1796.  
-Scontento  
-mite come un bimbo che geme piano nel [[motifs/sleep|sonno]].  
-Pubblicato per la prima volta nel 1893.  
-—— terribile e forte,  
-come la Voce possente che dalla Nube del tuono  
-parla alla Mezzanotte trasalita.  
-Pubblicato per la prima volta in Lit. Rem., i. 278.  
-Le rondini  
-che s'intrecciano là, fra i gabbiani appaiati  
-che in lontananza selvaggiamente si lamentano!  
-Pubblicato per la prima volta nel 1893.  
-Il Ruscello scorre sopra le alghe.  
-Giorno di sabato — dall'allegra [[motifs/wheel|ruota]] del Mugnaio  
-le gocce d'[[motifs/water|acqua]] stillavano senza fretta.  
-Pubblicato per la prima volta nel 1893. È possibile che i Frammenti fossero alcuni degli  
-‘studi’ per The Brook. Vedi Biog. Lit., Cap. X, ed. 1907, i. 129.  
-Sulla larga cima del monte  
-il puledro selvaggio nitrendo gareggia col [[motifs/wind|vento]]  
-su felci e [[motifs/flowers|fiori]] di brughiera.  
-Pubblicato per la prima volta in Lit. Rem., i. 278.  
-Un lungo viottolo profondo  
-così ombreggiato da parere un'unica pergola —  
-le umide sponde d'argilla erano felpate di muschio ammuffito.  
-Pubblicato per la prima volta nel 1893.  
-Capitozze dal largo petto, con chiome dai larghi rami.  
-Pubblicato per la prima volta nel 1893.  
-Era dolce saperlo soltanto possibile —  
-alcuni desideri mi [[motifs/cross|attraversarono]] la mente e fiocamente la rallegrarono —  
-e uno o due poveri Piaceri [[concepts/melancholy|malinconici]] —  
-in essi, la pallida luce senza calore della [[concepts/hope|Speranza]]  
-inargentando la loro ala fragile, passò silenziosa,  
-falene al Chiaro di luna.  
-Pubblicato per la prima volta in Lit. Rem., i. 277, 278.  
-Dietro la sottile  
-nube grigia che copriva ma non celava il cielo  
-la [[motifs/moon|luna]] tonda e piena pareva piccola.  
-Pubblicato per la prima volta in Lit. Rem., i. 277. Cfr. [[characters/christabel|Christabel]], vv. 16,    17  
-(ante, p. 216).  
-La sottile [[motifs/snow|neve]]  
-a ogni brezza si [[motifs/rose|levava]] in volute dal Bosco  
-come colonne di fumo di casolare.  
-Pubblicato per la prima volta in Lit. Rem., i. 278.  
-La Sottile [[motifs/snow|neve]] a ogni brezza di passaggio  
-si [[motifs/rose|levava]] in volute dal bosco come fusti di fumo.  
-L. R.  
-Il sole giace sul muro del casolare,  
-splendendo attraverso la [[motifs/snow|neve]].  
-Pubblicato per la prima volta nel 1893.  
-UNA MANIACA nei boschi — Attraversa incurante il sentiero del  
-boscaiolo — flagellata dai rami che rimbalzano.  
-Pubblicato per la prima volta nel 1893.  
-Cfr. questo con la strofa scartata in ‘Introduction to the Tale of the  
-Dark Ladié’ come stampata nel Morning Post, 21 dic. 1799 (vide  
-ante, p. 333).  
-E come [[motifs/cross|attraversò]] i sentieri del boscaiolo,  
-battuti tra rovi e muschi paludosi;  
-come i rami rimbalzando gli flagellarono le membra,  
-e i ceppi bassi gli straziarono i piedi.  
-Nota di J. D. Campbell, P. W., 1893, p. 456.

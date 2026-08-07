@@ -59,6 +59,7 @@ tags:
 - [[testi/shakespeare/atomized/sonnets#sonnet_093|Sonnet 93 (Shakespeare)]]
 - [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#080_sonnet_written_in_answer_to_a_sonnet_ending_thus|Sonnet Written in Answer to a Sonnet Ending thus (Keats)]]
 - [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#345_spots_in_the_sun|SPOTS IN THE SUN (Coleridge)]]
+- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#158_the_ballad_of_the_dark_ladié|THE BALLAD OF THE DARK LADIÉ (Coleridge)]]
 - [[works/the-birthday-of-the-infanta-(wilde)|The Birthday of the Infanta (Wilde)]]
 - [[testi/whitman/atomized/self-knowledge-immortality-self-reliance#195_the_city_dead_house|The City Dead-House (Whitman)]]
 - [[works/the-sphinx-without-a-secret-(wilde)|The Sphinx Without a Secret (Wilde)]]

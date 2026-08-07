@@ -42,35 +42,6 @@ Which from it's solemn abbeys -
 Such [[concepts/resurrection|resurrection]] pours!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-I piedi di chi cammina verso [[motifs/home|casa]]  
-Con sandali più gai vanno -  
-Il croco - finché non sorge -  
-Il vassallo della [[motifs/snow|neve]] -  
-Le labbra all'Alleluia  
-Lunghi anni di pratica portarono -  
-Finché a poco a poco, questi Barcaioli  
-Camminarono - cantando - sulla riva  
-
-Le perle sono gli spiccioli del Tuffatore  
-Estorti al [[motifs/sea|mare]] -  
-Le ali - il carro del Serafino -  
-Pedone un tempo - come noi -  
-La [[motifs/night|Notte]] è la tela del mattino -  
-Il furto - eredità -  
-La [[motifs/death|Morte]] - solo la nostra rapita attenzione  
-All'[[concepts/immortality|immortalità]].  
-
-Le mie cifre non sanno dirmi  
-Quanto lontano è il villaggio -  
-I cui contadini sono gli angeli -  
-I cui cantoni punteggiano i cieli -  
-I miei Classici velano il volto -  
-La mia [[concepts/faith|fede]] che il Buio adora -  
-Che dalle sue solenni abbazie -  
-Tale [[concepts/resurrection|resurrezione]] riversa!
-
 
 
 <span class="atom-split" data-atom="0009_through_lane_it_lay_through_bramble" data-title="9. Through lane it lay — through bramble —" data-chapter="" data-kind="intro" data-tags="topos/the_quest,archetype/pilgrim,archetype/child,motif/the_road,motif/animals,motif/serpent_snake,motif/storm,form/allegory,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -95,26 +66,6 @@ This was the [[motifs/road|road]]
 These Children fluttered [[motifs/home|home]].
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Per viottoli correva - per rovi -  
-Per radure, e per boschi -  
-Banditi spesso ci passavano accanto  
-Sulla [[motifs/road|strada]] solitaria -  
-Il lupo veniva a spiare curioso -  
-Il Gufo guardava giù perplesso -  
-La figura di raso del Serpente  
-Scivolava furtiva -  
-Le tempeste toccavano le nostre vesti -  
-I pugnali del [[motifs/lightning|lampo]] balenavano -  
-Feroce dalla rupe sopra di noi  
-Strideva l'avvoltoio affamato -  
-Le dita del satiro facevano cenno -  
-La Valle mormorava "Vieni" -  
-Questi erano i compagni -  
-Questa era la [[motifs/road|strada]]  
-Questi Bimbi volarono a [[motifs/home|casa]].
-
 
 
 <span class="atom-split" data-atom="0040_when_i_count_the_seeds" data-title="40. When I count the seeds" data-chapter="" data-kind="intro" data-tags="motif/garden,motif/flowers,concept/faith,concept/immortality,concept/grace_and_redemption,concept/mortality,form/lyric,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -133,20 +84,6 @@ And avoid its Bee,
 I can spare this [[motifs/summer|summer]], unreluctantly.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Quando conto i semi  
-Che sono seminati sotto,  
-Per fiorire così, più in là —  
-Quando studio le genti  
-Adagiate così in basso,  
-Per essere accolte così in alto —  
-Quando credo che il [[motifs/garden|giardino]]  
-Mortale non vedrà —  
-Colgo per [[concepts/faith|fede]] il suo fiore  
-Ed evito la sua Ape,  
-Posso rinunciare a questa [[motifs/summer|estate]], senza riluttanza.
-
 
 
 <span class="atom-split" data-atom="0164_mama_never_forgets_her_birds" data-title="164. Mama never forgets her birds," data-chapter="" data-kind="intro" data-tags="archetype/great_mother,motif/birds,concept/grief_and_loss,concept/providence,concept/faith,concept/immortality,form/hymn,histref/the_bible,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -161,17 +98,6 @@ With cunning care she wove —
 If either of her "sparrows fall,"  
 She "notices," above.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Mamma non dimentica mai i suoi [[motifs/birds|uccelli]],  
-Benché in un altro [[motifs/tree|albero]] —  
-Guarda giù altrettanto spesso  
-E altrettanto teneramente  
-Come quando il suo piccolo nido mortale  
-Con cura sagace intrecciava —  
-Se uno dei suoi "passeri cade,"  
-Lei "se ne avvede," lassù.
 
 
 
@@ -188,18 +114,6 @@ And I, for [[concepts/wonder|wonder]] at his woe,
 I shall forget the drop of anguish  
 That scalds me now, that scalds me now.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Saprò perché, quando il [[motifs/time|tempo]] sarà finito,  
-E avrò cessato di [[concepts/wonder|chiedermi]] perché ;  
-[[characters/christ|Cristo]] spiegherà ogni singola angoscia  
-Nella chiara aula del cielo.  
-
-Mi dirà ciò che Pietro promise,  
-E io, per lo [[concepts/wonder|stupore]] del suo strazio,  
-Dimenticherò la goccia d'angoscia  
-Che ora mi scotta, che ora mi scotta.
 
 
 
@@ -222,23 +136,6 @@ So instead of getting to Heaven, at last —
 I'm going, all along.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-C'è chi osserva il Sabato andando in Chiesa —  
-Io lo osservo, restando a [[motifs/home|Casa]] —  
-Con un Bobolink per Corista —  
-E un Frutteto, per Cupola —  
-
-C'è chi osserva il Sabato in Cotta —  
-Io indosso solo le mie Ali —  
-E invece di suonare la Campana, per la Chiesa,  
-Il nostro piccolo Sagrestano — canta.  
-
-[[characters/god|Dio]] predica, Ecclesiastico insigne —  
-E il sermone non è mai lungo,  
-Così invece di giungere in Cielo, alla fine —  
-Io ci sto andando, da sempre.
-
 
 
 <span class="atom-split" data-atom="0350_they_leave_us_with_the_infinite" data-title="350. They leave us with the Infinite." data-chapter="" data-kind="intro" data-tags="concept/faith,concept/providence,concept/the_sublime,concept/immortality,form/lyric,histref/christianity,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -260,23 +157,6 @@ You for you, and I, for you and me
 And quick enough, if true.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Ci lasciano con l'Infinito.  
-Ma Egli — non è un uomo —  
-Le sue dita hanno la misura di pugni —  
-I suoi pugni, la misura di uomini —  
-
-E chi egli fonda, col suo Braccio  
-Come l'Himalaya, starà saldo —  
-L'Eterna Scarpa di Gibilterra  
-Posata lieve sulla sua Mano,  
-
-Fidati dunque di lui, Compagno —  
-Tu per te, e io, per te e per me  
-L'[[concepts/eternity|Eternità]] è ampia,  
-E abbastanza rapida, se vera.
-
 
 
 <span class="atom-split" data-atom="0357_god_is_a_distant_stately_lover" data-title="357. God is a distant — stately Lover —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,archetype/lover,concept/love_divine,concept/faith,form/lyric,histref/puritanism,histref/new_england,character/christ,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -292,18 +172,6 @@ Choose the Envoy — and spurn the Groom —
 Vouches, with hyperbolic archness —  
 "[[characters/miles|Miles]]", and "John Alden" were Synonym —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-[[characters/god|Dio]] è un distante — maestoso [[archetypes/lover|Amante]] —  
-Corteggia, come Egli ci dichiara — tramite Suo Figlio —  
-In verità, un Corteggiamento Vicario —  
-"[[characters/miles|Miles]]", e "Priscilla", furono di tal Sorta —  
-
-Ma, perché l'[[motifs/soul|Anima]] — come la bella "Priscilla"  
-Non scelga l'Inviato — e sdegni lo Sposo —  
-Garantisce, con iperbolica malizia —  
-"[[characters/miles|Miles]]", e "John Alden" erano Sinonimo —
 
 
 
@@ -328,25 +196,6 @@ For the Contented — Beggar's face
 I wore — an hour ago —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Lo guadagnai così —  
-Arrampicandomi lenta —  
-Afferrando i Ramoscelli che crescono  
-Tra la Beatitudine — e me —  
-Pendeva così in alto  
-Che tanto [[motifs/well|valeva]] il Cielo  
-Tentare per Strategia —  
-
-Dissi che l'avevo guadagnato —  
-Questo — fu tutto —  
-Guarda, come lo stringo  
-Perché non cada —  
-E io me ne vada Povera —  
-Resa inadatta dalla Grazia d'un istante  
-Al Contento — volto di Mendicante  
-Che portavo — un'ora fa —
-
 
 
 <span class="atom-split" data-atom="0370_heaven_is_so_far_of_the_mind" data-title="370. Heaven is so far of the Mind" data-chapter="" data-kind="intro" data-tags="concept/immortality_divine,concept/imagination,concept/self_and_soul,concept/faith,concept/paradox,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -362,18 +211,6 @@ As fair — as our idea —
 To Him of adequate [[motifs/desire|desire]]  
 No further 'tis, than Here —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il Cielo è a tal segno della Mente  
-Che fosse la Mente dissolta —  
-Il Sito — di esso — da Architetto  
-Non potrebbe di nuovo esser provato —  
-
-È vasto — quanto la nostra Capacità —  
-Bello — quanto la nostra idea —  
-Per Chi è di adeguato [[motifs/desire|desiderio]]  
-Più lontano non è, che Qui —
 
 
 
@@ -391,18 +228,6 @@ Annihilate a single clause —
 And Being's — Beggary —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Perdere la propria [[concepts/faith|fede]] — supera  
-La perdita di un Patrimonio —  
-Perché i Patrimoni si possono  
-Ricostituire — la [[concepts/faith|fede]] no —  
-
-Ereditata con la Vita —  
-La Credenza — una volta sola — può darsi —  
-Annientane una sola clausola —  
-E dell'Essere è — Mendicità —
-
 
 
 <span class="atom-split" data-atom="0392_through_the_dark_sod_as_education" data-title="392. Through the Dark Sod — as Education —" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/spring,concept/faith,concept/childhood_and_growth,concept/grace_and_redemption,concept/immortality_divine,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -418,18 +243,6 @@ Swinging her Beryl Bell —
 The Mold-life — all forgotten — now —  
 In Ecstasy — and Dell —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Attraverso la Zolla Scura — come [[concepts/education|Educazione]] —  
-Il Giglio passa sicuro —  
-Sente il suo bianco piede — nessuna trepidazione —  
-La sua [[concepts/faith|fede]] — nessuna [[concepts/fear|paura]] —  
-
-Dopo — nel Prato —  
-Dondolando la sua Campana di Berillo —  
-La vita nella Muffa — tutta dimenticata — ora —  
-In Estasi — e Valle —
 
 
 
@@ -454,26 +267,6 @@ His Conversation — with the [[motifs/sea|Sea]] —
 "How shall you know"?  
 Consult your Eye!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Lo saprai — come sai che è [[motifs/noon|Mezzogiorno]] —  
-Dalla Gloria —  
-Come conosci il [[motifs/sun|Sole]] —  
-Dalla Gloria —  
-Come in Cielo saprai —  
-Conoscere [[characters/god-the-father|Dio Padre]] — e il Figlio.  
-
-Per intuizione, le Cose più Possenti  
-Si affermano da sé — e non a parole —  
-"Io sono la Mezzanotte" — deve dirlo la Mezzanotte —  
-"Io sono l'Aurora" — Ne ha bisogno la Maestà?  
-
-L'Onnipotenza — non aveva Lingua —  
-Il suo balbettio — è il [[motifs/lightning|Lampo]] — e il [[motifs/sun|Sole]] —  
-La sua Conversazione — col [[motifs/sea|Mare]] —  
-"Come lo saprai"?  
-Consulta il tuo Occhio!
 
 
 
@@ -501,28 +294,6 @@ That Life like This — is stopless —
 Be Judgment — what it may —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Vivo con Lui — vedo il Suo volto —  
-Non vado più via  
-Per Visita — o Tramonto —  
-Sola intimità della [[motifs/death|Morte]]  
-
-L'Unico — che precede la Mia —  
-E ciò — per il Diritto ch'Egli  
-Presenta una Pretesa invisibile —  
-Nessun connubio — a Me concesso —  
-
-Vivo con Lui — odo la Sua Voce —  
-Sto in vita — Oggi —  
-A testimoniare la Certezza  
-Dell'[[concepts/immortality|Immortalità]] —  
-
-Insegnata a Me — dal [[motifs/time|Tempo]] — la Via più bassa —  
-Convinzione — Ogni giorno —  
-Che una Vita come Questa — non ha sosta —  
-Sia il Giudizio — ciò che vuole —
-
 
 
 <span class="atom-split" data-atom="0487_you_love_the_lord_you_cannot_see" data-title="487. You love the Lord — you cannot see —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/letters_writing,concept/love_divine,concept/faith,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -538,18 +309,6 @@ And would delight to see —
 But then His House — is but a Step —  
 And Mine's — in Heaven — You see.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Tu [[motifs/love|ami]] il Signore — che non puoi vedere —  
-Gli scrivi — ogni giorno —  
-Un biglietto — quando ti svegli —  
-E più avanti nel Giorno.  
-
-Un'Ampia [[forms/letter|Lettera]] — Quanto ti manca —  
-E che delizia sarebbe vederla —  
-Ma la Sua Casa — è solo un Passo —  
-E la Mia — è in Cielo — Vedi.
 
 
 
@@ -571,23 +330,6 @@ Myself — who bore it — do —
 Forgive Them — Even as Myself —  
 Or else — forgive not me —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-È vero — Mi chiusero nel Freddo —  
-Ma Loro — erano al caldo  
-E non potevano sapere che sensazione fosse —  
-Dimenticalo — Signore — a Loro —  
-
-Non lasci la mia Testimonianza ostacolarLi  
-Nella stima Celeste —  
-Nessun Paradiso potrebbe essere — Conferito  
-Attraverso la Loro amata Colpa —  
-
-Il Male che fecero — fu breve — E poiché  
-Io stessa — che lo portai — li —  
-Perdono — Come Me stessa —  
-Oppure — non perdonare me —
 
 
 
@@ -614,28 +356,6 @@ With Leader of the Band —
 And every separate Urchin's Sum —  
 Is fashioned for his hand —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-È Uno a Uno — che il Padre conta —  
-E poi un Tratto in mezzo  
-Lasciato senza Cifre — per insegnare all'Occhio  
-Il Valore del suo Dieci —  
-
-Finché lo Studente ritroso  
-Non acquisti il Vivo dell'Arte —  
-Poi i Numeri gli son ridotati —  
-Adornando tutta la Regola —  
-
-È perlopiù Lavagna e Matita —  
-E il Buio sulla Scuola  
-Distrae le dita dei Bambini —  
-Pure l'Eterna Regola  
-
-Guarda l'infimo Cifratore al pari  
-Del Capo della Schiera —  
-E la Somma di ogni singolo Monello —  
-È foggiata per la sua mano —
 
 
 
@@ -674,39 +394,6 @@ Or is this [[motifs/death|Death]]'s Experiment —
 Reversed — in Victory?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Io [[motifs/cross|attraverso]] finché non sono stanca  
-Una Montagna — nella mia mente —  
-Altre [[settings/mountains|Montagne]] — poi un [[motifs/sea|Mare]] —  
-Altri Mari — E poi  
-Un [[motifs/desert|Deserto]] — trovo —  
-
-E il Mio Orizzonte si sbarra  
-Di Grani costanti — alla deriva —  
-Di quantità incongetturata —  
-Come Piogge Asiatiche —  
-
-Né questo — sconfigge il mio Passo —  
-Lo ostacola da Ovest  
-Ma come il Saluto di un Nemico  
-A chi si affretta al Riposo —  
-
-Che merito avrebbe la Meta —  
-Se non intervenissero  
-Fioco [[concepts/doubt|Dubbio]] — e Competitore lontano —  
-A mettere a rischio il Guadagno?  
-
-Infine — la Grazia in vista —  
-Grido ai miei piedi —  
-Offro loro l'Intero del Cielo  
-Nell'istante in cui ci incontriamo —  
-
-Si sforzano — eppure indugiano —  
-Periscono — Moriamo noi —  
-O è questo l'Esperimento della [[motifs/death|Morte]] —  
-Rovesciato — in Vittoria?
-
 
 
 <span class="atom-split" data-atom="0555_trust_in_the_unexpected" data-title="555. Trust in the Unexpected —" data-chapter="" data-kind="intro" data-tags="topos/the_quest,motif/money_gold,concept/faith,concept/faith_and_doubt,concept/doubt,histref/the_bible,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -733,28 +420,6 @@ When Deity assured
 Provided it believed —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Fiducia nell'Inatteso —  
-Da questa — fu William Kidd  
-Persuaso dell'Oro Sepolto —  
-Come Uno aveva testimoniato —  
-
-Per questa — il vecchio Filosofo —  
-La sua Pietra Talismanica  
-Discerse — ancora negata  
-A sforzo non divino —  
-
-Fu questa — ad allettare [[characters/columbus|Colombo]] —  
-Quando Genova — si ritrasse  
-Davanti a un'Apparizione  
-Battezzata [[settings/america|America]] —  
-
-La Stessa — afflisse Tommaso —  
-Quando la Deità assicurò  
-Ch'era meglio — il non percepire —  
-Purché si credesse —
-
 
 
 <span class="atom-split" data-atom="0603_he_found_my_being_set_it_up" data-title="603. He found my Being — set it up —" data-chapter="" data-kind="intro" data-tags="concept/love_divine,concept/marriage_and_fidelity,concept/faith,concept/self_and_soul,concept/desire_and_longing,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -770,18 +435,6 @@ And he would come again —
 With Equipage of Amber —  
 That [[motifs/time|time]] — to take it [[motifs/home|Home]] —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Egli trovò il mio Essere — lo eresse —  
-Lo aggiustò al suo posto —  
-Poi vi incise il suo nome — sopra —  
-E gli ordinò verso l'Est  
-
-Di restar fedele — in sua assenza —  
-E lui sarebbe tornato —  
-Con Equipaggio d'Ambra —  
-Quella [[motifs/time|volta]] — per portarlo a [[motifs/home|Casa]] —
 
 
 
@@ -799,18 +452,6 @@ How hospitable, then, the face
 Of our old neighbor, [[characters/god|God]] !
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Era troppo tardi per l'uomo,  
-Ma presto ancora per [[characters/god|Dio]] ;  
-La creazione impotente ad aiutare,  
-Ma la [[motifs/prayer|preghiera]] restava dalla nostra parte.  
-
-Com'è eccellente il cielo,  
-Quando la terra non si può avere ;  
-Com'è ospitale, allora, il volto  
-Del nostro vecchio vicino, [[characters/god|Dio]] !
-
 
 
 <span class="atom-split" data-atom="0626_only_god_detect_the_sorrow" data-title="626. Only God — detect the Sorrow —" data-chapter="" data-kind="intro" data-tags="concept/grief_and_loss,concept/faith,concept/melancholy,concept/self_and_soul,concept/silence,form/lyric,histref/christianity,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -825,17 +466,6 @@ Still secure —
 [[characters/god|God]] the Spirit's Honor —  
 Just as sure —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Solo [[characters/god|Dio]] — scorge il Dolore —  
-Solo [[characters/god|Dio]] —  
-I Geova — non sono Ciarlieri —  
-A [[characters/god|Dio]] —  
-[[characters/god-the-son|Dio Figlio]] — Confidalo —  
-Sempre al sicuro —  
-L'Onore di [[characters/god|Dio]] Spirito —  
-Altrettanto certo —
 
 
 
@@ -868,33 +498,6 @@ But then —
 Again.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Ogni Vita Converge a un qualche Centro —  
-Espresso — o taciuto —  
-Esiste in ogni Umana [[concepts/nature|Natura]]  
-Una Meta —  
-
-Incarnata appena a se stessa — può darsi —  
-Troppo bella  
-Perché la presunzione della Credibilità  
-La guasti —  
-
-Adorata con cautela — come un Fragile Cielo —  
-Da raggiungere  
-Senza speranza, come la Veste dell'Arcobaleno  
-Da toccare —  
-
-Eppure perseguita — certo — ché la Distanza —  
-Quanto alta —  
-Alla lenta diligenza del Santo —  
-Il Cielo —  
-
-Non conquistata — può darsi — dalla bassa Impresa d'una Vita —  
-Ma allora —  
-L'[[concepts/eternity|Eternità]] consente il tentativo  
-Ancora.
-
 
 
 <span class="atom-split" data-atom="0694_the_heaven_vests_for_each" data-title="694. The Heaven vests for Each" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/stars,motif/summer,concept/faith,concept/immortality,concept/love_divine,concept/the_sublime,form/lyric,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -921,28 +524,6 @@ Enabling the minutest —
 And furthest — to adore —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il Cielo si riveste per Ciascuno  
-In quella piccola Deità  
-Che implorò la grazia di adorare  
-Un timido Giorno d'[[motifs/summer|Estate]] —  
-
-Mezzo ritraendosi dalla Gloria  
-Che importunò di vedere  
-Finché questi fiochi Tabernacoli cadono  
-Nella piena [[concepts/eternity|Eternità]] —  
-
-Quanto imminente l'Azzardo —  
-Come supplicare una Stella —  
-Perché per il Suo umile amore lasci la Fila  
-E accolga la [[concepts/despair|Disperazione]] —  
-
-Una Clemenza così comune —  
-Che quasi cessiamo di [[concepts/fear|temere]] —  
-Che concede al più minuto —  
-E al più remoto — di adorare —
-
 
 
 <span class="atom-split" data-atom="0703_out_of_sight_what_of_that" data-title="703. Out of sight? What of that?" data-chapter="" data-kind="intro" data-tags="topos/the_quest,motif/birds,motif/eyes_sight,concept/faith,concept/immortality,concept/heroism,concept/the_sublime,form/lyric,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -963,23 +544,6 @@ Heaven is shy of Earth — that's all —
 Bashful Heaven — thy Lovers small —  
 Hide — too — from thee —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Fuori di vista? E che importa?  
-Guarda l'Uccello — raggiungerla!  
-Curva su Curva — Volo su Volo —  
-Attorno all'Aria Scoscesa —  
-Pericolo! Che cos'è per Lei?  
-Meglio è fallire — là —  
-Che discutere — qui —  
-
-Blu è Blu — per tutto il Mondo —  
-Ambra — Ambra — [[motifs/dew|Rugiada]] — [[motifs/dew|Rugiada]] —  
-Cerca — Amico — e vedi —  
-Il Cielo è schivo con la Terra — ecco tutto —  
-Cielo ritroso — i tuoi piccoli Amanti —  
-Si nascondono — anch'essi — da te —
 
 
 
@@ -1002,23 +566,6 @@ Proceed — inserting Here — a [[motifs/sun|Sun]] —
 There — leaving out a Man —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-È facile inventare una Vita —  
-[[characters/god|Dio]] lo fa — ogni Giorno —  
-La Creazione — non che il Trastullo  
-Della Sua [[concepts/authority|Autorità]] —  
-
-È facile cancellarla —  
-La parsimoniosa Divinità  
-Potrebbe a stento concedere [[concepts/eternity|Eternità]]  
-Alla Spontaneità —  
-
-I Modelli Periti mormorano —  
-Ma il Suo Piano Imperturbato  
-Procede — inserendo Qui — un [[motifs/sun|Sole]] —  
-Là — tralasciando un Uomo —
-
 
 
 <span class="atom-split" data-atom="0740_you_taught_me_waiting_with_myself" data-title="740. You taught me Waiting with Myself —" data-chapter="" data-kind="intro" data-tags="motif/death,concept/faith,concept/love_divine,concept/mortality,concept/self_and_soul,concept/immortality,form/lyric,character/christ,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1040,23 +587,6 @@ Of Me — in [[characters/christ|Christ]]'s bright Audience
 Upon the further Hand —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Mi insegnasti l'Attesa con Me Stessa —  
-Appuntamento rigorosamente osservato —  
-Mi insegnasti la fortezza del Fato —  
-Questo — anche — l'ho imparato —  
-
-Un'Altitudine di [[motifs/death|Morte]], che non poteva  
-Escludere più amaramente  
-Di quanto la Vita — avesse fatto — prima —  
-Eppure — c'è una Scienza in più —  
-
-Il Cielo che conosci — comprendere  
-Perché tu non abbia vergogna  
-Di Me — nella luminosa Udienza di [[characters/christ|Cristo]]  
-Sulla Mano più lontana —
-
 
 
 <span class="atom-split" data-atom="0817_given_in_marriage_unto_thee" data-title="817. Given in Marriage unto Thee" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/marriage,concept/love_divine,concept/faith,concept/immortality,form/hymn,histref/christianity,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1073,18 +603,6 @@ Only the Keeper of this Ring
 Conquer [[concepts/mortality|Mortality]] —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Data in [[motifs/marriage|Matrimonio]] a Te  
-Oh tu Ospite Celeste —  
-Sposa del Padre e del Figlio  
-Sposa dello [[archetypes/ghost|Spirito]] Santo.  
-
-Ogni altro Fidanzamento si dissolverà —  
-Il Connubio della Volontà, [[motifs/decay|decadrà]] —  
-Solo il Custode di questo Anello  
-Vince la [[concepts/mortality|Mortalità]] —
-
 
 
 <span class="atom-split" data-atom="0820_all_circumstances_are_the_frame" data-title="820. All Circumstances are the Frame" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,concept/providence,concept/faith,concept/the_natural_order,form/epigram,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1100,18 +618,6 @@ The Leisure of His Will —
 In Him Existence serve or set  
 A Force illegible.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Ogni Circostanza è la Cornice  
-In cui il Suo Volto è posto —  
-Ogni Latitudine esiste per il Suo  
-Sufficiente Continente —  
-
-La Luce il Suo Atto, e il Buio  
-L'Agio della Sua Volontà —  
-In Lui l'Esistenza serve o tramonta  
-Una Forza illeggibile.
 
 
 
@@ -1135,24 +641,6 @@ Or Admirable Show —
 I'll tell it You —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Le Sole Notizie che conosco  
-Sono Bollettini tutto il Giorno  
-Dall'[[concepts/immortality|Immortalità]].  
-
-I Soli Spettacoli che vedo —  
-Domani e Oggi —  
-Forse l'[[concepts/eternity|Eternità]] —  
-
-Il Solo che incontro  
-È [[characters/god|Dio]] — La Sola Via —  
-L'Esistenza — Questa percorsa  
-
-Se Altre Notizie vi saranno —  
-O Spettacolo Mirabile —  
-Ve lo dirò —
-
 
 
 <span class="atom-split" data-atom="0848_just_as_he_spoke_it_from_his_hands" data-title="848. Just as He spoke it from his Hands" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,concept/providence,concept/faith,concept/the_natural_order,form/epigram,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1168,18 +656,6 @@ It perish, or endure —
 Content, soe'er, it ornament  
 His absent character.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Così come Egli lo pronunciò dalle sue Mani  
-Questo Edificio resti —  
-Una Torretta in più, una Torretta in meno  
-Disonora il suo Disegno —  
-
-Secondo che la sua arte preferisca  
-Perisca, o duri —  
-Pago, comunque sia, d'ornare  
-Il suo assente carattere.
 
 
 
@@ -1202,24 +678,6 @@ That hunted for the Day —
 The Lord a Candle entertains  
 Entirely for Thee —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il [[motifs/sun|Sole]] e la [[motifs/moon|Luna]] devono affrettarsi —  
-Le [[motifs/stars|Stelle]] s'affrettano intorno  
-Perché nelle Zone del Paradiso  
-Il Signore soltanto è acceso —  
-
-Il Suo Occhio, è l'Oriente e l'Occidente —  
-Il Nord e il Sud quando Egli  
-Concentra il Suo Volto  
-Come Lucciole, fuggono via —  
-
-Oh Povero e Lontano —  
-Oh Occhio Impedito  
-Che andava a caccia del Giorno —  
-Il Signore una Candela mantiene  
-Interamente per Te —
 
 
 
@@ -1265,46 +723,6 @@ The [[concepts/beauty|Beauty]] that reward Him best —
 The [[concepts/beauty|Beauty]] of Demand — at Rest —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Più degna di vederLo, potrò essere  
-Per il lungo Impedimento — Grazia — per Me —  
-Con Estati, e con Inverni, crescere,  
-Qualche Anno che passa — un tratto donare  
-
-Da farmi la più bella della Terra —  
-L'Attesa — allora — parrà valere tanto  
-Che imputerò con mezza [[motifs/pain|pena]]  
-La colpa d'essere stata scelta — allora —  
-
-[[motifs/time|Tempo]] d'anticipare il Suo Sguardo —  
-Dapprima — Diletto — e poi — Sorpresa —  
-Il rigirare e rigirare il mio volto  
-In cerca di Prova che sia la Grazia —  
-
-Che lasciò dietro Un Giorno — Perché meno  
-Cerchi Conferma, Quella — sia Questa —  
-
-Soltanto non devo farmi così nuova  
-Che Lui s'inganni — e chieda di me  
-A me — quando la prima volta alla [[motifs/door|Porta]]  
-Andrò — per non andare Altrove mai più —  
-
-Soltanto non devo mutare così bella  
-Che sospiri — "L'Altra — Lei — è Dove?"  
-L'[[motifs/love|Amore]], però, mi vestirà a dovere  
-Sarò perfetta — al Suo sguardo —  
-
-Se scorgerà l'altra [[concepts/truth|Verità]] —  
-Sopra una più Eccellente Giovinezza —  
-
-1012  
-
-Che dolcezza non mancherò in Vano —  
-Ma guadagnare — per perdita — Per Dolore — ottenere —  
-La [[concepts/beauty|Bellezza]] che meglio Lo ricompensa —  
-La [[concepts/beauty|Bellezza]] della Richiesta — in Quiete —
-
 
 
 <span class="atom-split" data-atom="1010_up_lifes_hill_with_my_little_bundle" data-title="1010. Up Life's Hill with my little Bundle" data-chapter="" data-kind="intro" data-tags="topos/the_quest,archetype/pilgrim,motif/the_journey,motif/the_hill,concept/exile,form/lyric,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1320,18 +738,6 @@ Spotless be from blame
 Heart that proposed as Heart that accepted  
 Homelessness, for [[motifs/home|Home]] —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Su per il [[motifs/hill|Colle]] della Vita col mio piccolo Fardello  
-Se lo trovo ripido —  
-Se uno Scoraggiamento mi trattiene —  
-Se il mio passo più nuovo  
-
-Si sente più vecchio della [[concepts/hope|Speranza]] che lo spinse —  
-Immacolato sia da biasimo  
-Il Cuore che propose come il Cuore che accettò  
-L'esser senza Dimora, per [[motifs/home|Dimora]] —
 
 
 
@@ -1349,18 +755,6 @@ Guides the Little One predestined
 To the Native Land.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Lontano dall'[[motifs/love|Amore]] il Padre Celeste  
-guida il [[archetypes/child|Fanciullo]] Eletto,  
-più spesso per Regno di Rovi  
-che per il Prato mite.  
-
-Più spesso con l'Artiglio del [[motifs/dragon|Drago]]  
-che con la Mano dell'Amico  
-guida il Piccolo predestinato  
-alla Terra Natale.
-
 
 
 <span class="atom-split" data-atom="1052_i_never_saw_a_moor" data-title="1052. I never saw a Moor —" data-chapter="" data-kind="intro" data-tags="motif/the_sea,concept/faith,concept/immortality,concept/faith_and_doubt,form/hymn,histref/christianity,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1376,18 +770,6 @@ Nor visited in Heaven--
 Yet certain am I of the spot  
 As if the Checks were given--
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Non ho mai visto una Brughiera--  
-Non ho mai visto il [[motifs/sea|Mare]]--  
-Eppure so come appare l'Erica  
-E che cosa sia un'Onda.  
-
-Non ho mai parlato con [[characters/god|Dio]],  
-Né sono stata in visita in Cielo--  
-Eppure son certa del luogo  
-Come se i Biglietti fossero dati--
 
 
 
@@ -1405,18 +787,6 @@ To search for the accomplished Guest,
 Her Visitor, no more —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-L'[[motifs/soul|Anima]] dovrebbe sempre star socchiusa  
-Ché se il Cielo domanda  
-Non sia costretto ad aspettare  
-O timido di disturbarLa  
-
-Parta, prima che l'Ospitante abbia spinto  
-Il Chiavistello sulla [[motifs/door|Porta]] —  
-Per cercare l'Ospite compiuto,  
-Il Suo Visitatore, non più —
-
 
 
 <span class="atom-split" data-atom="1162_the_life_we_have_is_very_great" data-title="1162. The Life we have is very great." data-chapter="" data-kind="intro" data-tags="concept/immortality,concept/self_and_soul,concept/faith,concept/paradox,form/lyric,form/hymn,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1431,17 +801,6 @@ And all Dominion shown
 The smallest Human Heart's extent  
 Reduces it to none.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-La Vita che abbiamo è molto grande.  
-La Vita che vedremo  
-La supera, lo sappiamo, perché  
-È Infinità.  
-Ma quando tutto lo Spazio sarà contemplato  
-E ogni Dominio mostrato  
-L'estensione del più piccolo Cuore Umano  
-La riduce a nulla.
 
 
 
@@ -1458,18 +817,6 @@ Upon his Atom swim —
 Oh [[motifs/sun|Sun]] — but just a Second's right  
 In thy long Race with him!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Mio [[characters/god|Dio]] — Egli ti vede —  
-Splendi al tuo meglio —  
-Lancia in alto le tue Sfere d'Oro  
-Finché ogni Cubito giochi con te  
-E ogni Crescente regga —  
-Esalta l'Acro ai suoi piedi —  
-Sul suo Atomo nuota —  
-Oh [[motifs/sun|Sole]] — solo il diritto d'un Secondo  
-Nella tua lunga Corsa con lui!
 
 
 
@@ -1492,23 +839,6 @@ Give her for her Transgression
 License to think of us —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Qualunque cosa sia — lei l'ha provata —  
-Tremendo Padre dell'[[motifs/love|Amore]] —  
-Non è Nostro il castigare —  
-Non castigare la Colomba —  
-
-Non per Noi, la supplica —  
-Nulla resta da pregare —  
-Quando un soggetto è concluso —  
-Le Parole vengono consegnate via —  
-
-Solo perché non sia sola  
-Nella tua bella Casa  
-Dalle per la sua Trasgressione  
-Licenza di pensare a noi —
-
 
 
 <span class="atom-split" data-atom="1262_i_cannot_see_my_soul_but_know_tis_there" data-title="1262. I cannot see my soul but know 'tis there" data-chapter="" data-kind="intro" data-tags="motif/clothing,motif/food_feasting,concept/self_and_soul,concept/faith,concept/faith_and_doubt,concept/love_divine,concept/eyes_sight_placeholder,form/lyric,histref/christianity,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1526,19 +856,6 @@ Procuring him perpetual drest
 By dating it a sudden feast.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Non posso vedere la mia [[motifs/soul|anima]] ma so ch'è là  
-Né mai vidi la sua casa né la mobilia,  
-Di chi m'ha invitata a dimorare con lui;  
-Ma da ospite fiduciosa consulto [[motifs/well|pure]],  
-Quale veste più lo onori,  
-Perch'io sia adeguatamente vestita,  
-Poiché egli non assicura nessuno  
-Perché uomini designati non adornino  
-Procurandogli perpetua veste  
-Datandola improvvisa festa.
-
 
 
 <span class="atom-split" data-atom="1433_how_brittle_are_the_piers" data-title="1433. How brittle are the Piers" data-chapter="" data-kind="intro" data-tags="concept/faith,concept/faith_and_doubt,concept/providence,form/hymn,form/lyric,histref/the_bible,character/christ,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1554,18 +871,6 @@ Indeed — 'twas built by him —
 He sent his Son to test the Plank,  
 And he pronounced it firm.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Come fragili sono i Piloni  
-Su cui la nostra [[concepts/faith|Fede]] cammina —  
-Nessun Ponte quaggiù vacilla tanto —  
-Eppure nessuno ha tale Folla.  
-
-È antico quanto [[characters/god|Dio]] —  
-Anzi — fu costruito da lui —  
-Mandò suo Figlio a saggiare l'Asse,  
-Ed egli la dichiarò salda.
 
 
 
@@ -1583,18 +888,6 @@ As if it never Tore
 And spacious as before —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Per rammendare ogni lacera [[concepts/faith|Fede]]  
-C'è un ago leggiadro  
-Benché nessuna apparenza l'indichi —  
-È infilato nell'Aria —  
-
-E benché non paia consunta  
-Come se mai si fosse Strappata  
-È assai confortevole invero  
-E spaziosa come prima —
-
 
 
 <span class="atom-split" data-atom="1450_the_road_was_lit_with_moon_and_star" data-title="1450. The Road was lit with Moon and star —" data-chapter="" data-kind="intro" data-tags="topos/the_quest,archetype/pilgrim,motif/the_road,motif/moon,motif/stars,motif/the_journey,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1609,17 +902,6 @@ Ascending, though Terrene —
 Unknown his shimmering ultimate —  
 But he indorsed the sheen —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-La [[motifs/road|Strada]] era accesa di [[motifs/moon|Luna]] e stella —  
-Gli Alberi erano lucenti e immoti —  
-Scorsi — alla Luce distante  
-Un Viandante sopra un [[motifs/hill|Colle]] —  
-A magiche Perpendicolari  
-Ascendente, benché Terreno —  
-Ignota la sua meta scintillante —  
-Ma egli avallava il fulgore —
 
 
 
@@ -1637,18 +919,6 @@ Lest Gratitude revive the snake
 Though smuggled his reprieve
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Venne il suo turno di mendicare —  
-Il mendicare per la vita  
-È diverso da ogni altra Elemosina  
-È Penuria in Capo —  
-
-Scrutai il suo angusto regno  
-Gli diedi licenza di vivere  
-Perché la Gratitudine non ravvivasse la serpe  
-Benché contrabbandata la sua grazia
-
 
 
 <span class="atom-split" data-atom="1555_i_groped_for_him_before_i_knew" data-title="1555. I groped for him before I knew" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/food_feasting,motif/bread_and_wine_eucharist,concept/love_divine,concept/faith,concept/desire,form/lyric,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1664,17 +934,6 @@ That consecrated it could be
 The only Food that grows
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Lo cercai a tentoni prima di sapere  
-Con solenne bisogno senza nome  
-Ogni altra grazia d'improvviso pula  
-Per questo presagito Cibo  
-Che altri assaggiano e sdegnano e scherniscono —  
-Benché io dentro di me supponga  
-Che consacrato esso potrebbe essere  
-Il solo Cibo che cresce
-
 
 
 <span class="atom-split" data-atom="1769_the_longest_day_that_god_appoints" data-title="1769. The longest day that God appoints" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/sun,concept/grief_and_loss,concept/faith,concept/providence,form/lyric,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1689,16 +948,6 @@ Anguish can travel to it's stake,
 And then it must return.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-I biglietti andranno veloci quanto il vapore può portarli.  
-I nostri cuori sono già andati.  
-Potessimo spedire i nostri volti per il vostro caro incoraggiamento.  
-Ricorda Il giorno più lungo che [[characters/god|Dio]] assegna  
-Finirà con il [[motifs/sun|sole]].  
-L'angoscia può viaggiare fino al suo rogo,  
-E poi deve tornare.
-
 
 
 <span class="atom-split" data-atom="l0051_mr_william_austin_dickinson_monday_morning" data-title="To Mr. William Austin Dickinson, Monday Morning" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/the_book,motif/silence,concept/faith,concept/desire_and_longing,concept/wonder,form/letter,histref/the_bible,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1706,10 +955,6 @@ E poi deve tornare.
 
 DEAR AUSTIN,—. . . I was so glad to get your [[forms/letter|letter]]. I had been making calls all Saturday afternoon, and came [[motifs/home|home]] very tired, and a little disconsolate, so your [[forms/letter|letter]] was more than welcome. . . . Oh Austin, you don't know how we all wished for you yesterday. We had such a splendid sermon from Professor Park—I never heard anything like it, and don't expect to again, till we stand at the great white throne, and “he reads from [[motifs/the-book|the Book]], the [[motifs/lamb|Lamb]]'s Book.” The students and chapel people all came to our church, and it was very full, and still, so still the buzzing of a fly would have boomed like a cannon. And when it was all over, and that wonderful man sat down, people stared at each other, and looked as wan and wild as if they had seen a spirit, and wondered they had not died. How I wish you had heard him—I thought of it all the [[motifs/time|time]]. . . .
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Caro Austin, —. Ero così felice di ricevere la tua [[forms/letter|lettera]]. Avevo fatto molte telefonate tutto sabato pomeriggio e sono tornata [[motifs/home|a casa]] molto stanca e un po’ depressa; quindi la tua lettera è stata davvero una grande consolazione. Oh Austin, non sai quanto ci mancassi ieri! Il professor Park ha tenuto un sermone meraviglioso: non ne avevo mai ascoltato uno simile, e probabilmente non ne ascolterò mai più fino a quando non ci troveremo davanti al grande trono bianco, e “lui leggerà dal [[motifs/the-book|Libro]], il Libro dell’Agnello”. Gli studenti e tutti quelli che partecipano alle attività della chiesa sono venuti nella nostra chiesa; c’era molta gente. Eppure, non si sentiva nemmeno il ronzio di una mosca. Quando tutto è finito, quella persona straordinaria si è seduta. La gente si guardava intorno, pallida e sbalordita, come se avesse visto uno spirito. E si chiedeva se non fosse morta. Quanto vorrei che tu fossi stato lì ad ascoltarlo. Ci ho pensato tutto il tempo.
 
 
 
@@ -1721,12 +966,6 @@ MR. BOWDOIN,—If all these [[motifs/leaves|leaves]] were altars, and on every o
 Mar. Bowdoin, who was considered by the young girls at that [[motifs/time|time]] “a confirmed bachelor,” also received the accompanying [[characters/valentine|valentine]] from Emily.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Signor Bowdoin, —se tutte queste [[motifs/leaves|foglie]] fossero altari, e su ciascuna ci fosse una [[motifs/prayer|preghiera]] affinché Currer Bell potesse essere salvato, e voi foste [[characters/god|Dio]], rispondereste a quella preghiera?
-
-Il signor Bowdoin, che a quel [[motifs/time|tempo]] era considerato dalle giovani ragazze “un vero scapolo”, ricevette anche la relativa [[characters/valentine|cartolina di San Valentino]] da parte di Emily.
-
 
 
 <span class="atom-split" data-atom="l0104_dr_j_g_holland_and_mrs_holland" data-title="To Dr. J. G. Holland, and Mrs. Holland" data-chapter="" data-kind="intro" data-tags="concept/truth,concept/eternity,concept/faith,concept/immortality_divine,form/lyric,form/letter,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1736,12 +975,6 @@ This little: [[forms/poem|poem]] was enclosed in the foregoing [[forms/letter|le
 
 [[concepts/truth|Truth]] is as old as [[characters/god|God]], His twin [[concepts/identity|identity]]— And will endure as long as He, A co-[[concepts/eternity|eternity]], And perish on the day That He is borne away From mansion of the universe, A lifeless Deity.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Questo piccolo [[forms/poem|poema]] era incluso nella precedente [[forms/letter|lettera]]:—
-
-La [[concepts/truth|Verità]] è antica quanto [[characters/god|Dio]]; essa rappresenta l’identità gemella di Dio stesso. E sopravviverà finché Egli esisterà, come parte dell’[[concepts/eternity|eternità]]. Perirà, invece, nel giorno in cui Egli sarà allontanato dalla dimora dell’universo, trasformato in una divinità senza vita.
 
 
 
@@ -1754,14 +987,6 @@ Other verses, sent at different times, were written in the same general hand,—
 
 I could not have told it, But since Jesus dared, Sovereign! know a daisy Thy dishonor shared.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Altre strofe, inviate in momenti diversi, furono scritte con lo stesso stile generale: quello tipico del primo periodo medio, tra il 1863 e il 1870; tra queste:—
-
-“Non mi hanno scelto loro,” disse, “ma io ho scelto loro.” Una dichiarazione coraggiosa e piena di dolore pronunciata a Betlemme.
-
-Non avrei mai potuto dirlo, ma poiché Gesù l’ha osato. Sovrano, sappi che anche una margherita ha condiviso la tua disonore.
 
 
 
@@ -1778,18 +1003,6 @@ A spray of white pine was enclosed with this note:—
 
 A feather from the whippoorwill That everlasting sings! Whose galleries are sunrise, Whose opera the springs, Whose emerald nest the ages spin Of mellow, murmuring thread, Whose beryl egg, what school boys-hunt In “recess” overhead!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-[[forms/letter|Lettera]] al signor Samuel Bowles, facsimile
-
-Solo una volta, oh, per favore! Potrebbe davvero qualcuno rifiutare una grazia così piccola, offerta in modo così modesto, con termini così poco impegnativi?
-
-Non avrebbe forse un [[characters/god|Dio]] di pietra vissuto un momento di tristezza, mentre una sua lacrima cadeva lontano nel cielo: “Solo una volta, dolce Deità, ”
-
-“Un rametto di pino bianco, accompagnato da questo biglietto…”
-
-Una piuma del gufo notturno Che canta per l’eternità. Le cui “gallerie” sono l’alba, L’opera sua le sorgenti; Il suo nido di smeraldo è intessuto dagli anni Di fili dolci e mormoranti. Quell’uovo di berillo. Che oggetto di meraviglia per gli scolari durante la ricreazione!
 
 
 
@@ -1809,20 +1022,6 @@ Dear “Mr. Sam” is very near, these midwinter days. When purples come on Pelh
 Mother is timid and feeble, but we keep her with us. She thanks you for remembering her, and never forgets you. . . . Your sweet “and left me all alone,” consecrates your lips.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Mi affretto verso di te, Mary, perché non si deve perdere nemmeno un istante quando il cuore si spezza. Perché anche se si è spezzato molte volte, ogni volta è diversa dalla precedente, se davvero si è spezzato. Il fatto che tu sia stata disposta a permettermi di parlarti con te è stato davvero generoso da parte tua, cara.
-
-Il dolore quasi odia l’[[motifs/love|amore]]; è così intensamente acceso.
-
-Sono felice se queste parole spezzate ti sono state d’aiuto. Non mi aspettavo che avessero un tale effetto; mentre le pronunciavo, mi sentivo così debole, pensando al tuo immenso [[motifs/pain|dolore]]. L’[[motifs/love|Amore]] ci rende “celesti” senza che noi facciamo il minimo sforzo. È più semplice di un Salvatore: non rimane lassù in alto a chiamarci da lontano; il suo invito “Vieni a me” parte da ogni luogo. Commette soltanto un errore, ci dice che è “riposo”. Forse il suo stesso sforzo è già riposo. Ma ciò che non abbiamo conosciuto, lo conosceremo di nuovo: quel divino “di nuovo” per cui tutti noi tratteniamo il respiro.
-
-Sono felice che tu “lavori”. Il lavoro è un mezzo cupo ma efficace per redimere le persone; stanca il corpo, così che non possa più tormentare l’anima.
-
-Caro “Signor Sam”, questi giorni di metà inverno sono davvero vicini. Quando, nel pomeriggio, i colori viola appaiono su Pelham, diciamo che sono i “colori del Signor Bowles”. Gli ho parlato una volta del suo capitolo sulle gemme; i suoi bellissimi occhi si arrossirono fino a diventare irraggiungibili per me. Non perché se ne sia andato: noi lo amiamo ancora di più per averci guidati mentre lui rimaneva con noi. Oltre i confini del mondo terreno, per ciò che ha fatto e per ciò che ha realizzato.
-
-Mia madre è timida e debole, ma la teniamo con noi. Ti ringrazia per esserti ricordato di lei, e lei non ti dimentica mai. Quella tua dolce frase “e poi mi hai lasciata sola” consacra le tue labbra.
-
 
 
 <span class="atom-split" data-atom="l0187_mr_samuel_bowlers_and_mrs_bowles_1881" data-title="To Mr. Samuel Bowlers and Mrs. Bowles, 1881" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,motif/the_sea,concept/memory,concept/beauty,concept/grief_and_loss,concept/faith,form/letter,histref/the_bible,histref/the_orient,character/gabriel,character/jesus,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1839,18 +1038,6 @@ Austin looked at her long and earnestly.
 Thank you indeed.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cara Mary, —Avere dato vita a un viso così bello è di per sé una forma di fama; lo sguardo che quelle donne hanno negli occhi è simile a quello del signor Samuel, “Signor Samuel” è il nome con cui viene ricordato. “Parla, affinché possiamo vederti”, dice Gabriel. Un angelo tanto ideale quanto la sua rapida apparizione e scomparsa. Grazie per questa [[concepts/beauty|bellezza]], che restituisco a malincuore. Mi sembra quasi di commettere una “truffa sorprendente” in quella direzione. Se il suo cuore è altrettanto magico quanto il suo viso, distruggerà molti spiriti. Ma il [[motifs/sea|mare]] ha già stabilito le sue leggi.
-
-Austin la guardò a lungo e con sincero interesse.
-
-“Sì, è il figlio di Sam. Il suo compagno d’armi in cashmere. È meglio così, cara. Hai così tante cose da fare. L’azione è la vera redenzione.”
-
-“E ancora, tra poco non mi vedrete più,” confessa Gesù; questa separazione è temporanea.
-
-Grazie davvero.
-
 
 
 <span class="atom-split" data-atom="l0198_the_misses" data-title="To the Misses" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_soul,concept/faith,concept/love_divine,concept/charity,form/letter,character/christ,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1864,16 +1051,6 @@ Meanwhile, we wrap her in our heart to keep her tight and warm.
 
 . . . Gratitude is not the mention of a tenderness, but its mute appreciation, deeper than we reach—all our Lord demands, who sizes better knows than we. Willing unto [[motifs/death|death]], if only we perceive He die.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Ho ricevuto la nota della cara piccola F—— e le scriverò presto.
-
-Nel frattempo, la teniamo stretta nel nostro cuore per farla sentire al sicuro e protetta.
-
-, Lo zio ci ha detto che eri troppo impegnato. Metti le manine giunte: il cuore è l’unico lavoratore che non possiamo scusare.
-
-, La gratitudine non consiste nel menzionare una tenerezza, ma nel suo silenzioso apprezzamento, più profondo di quanto possiamo comprendere; è ciò che richiede tutto il nostro Signore, il quale conosce meglio di noi. Siamo disposti a morire, se solo riuscissimo a comprendere che Lui stesso muore per noi.
 
 
 
@@ -1892,20 +1069,6 @@ I am in bed to-day—a curious place for me, and cannot write as [[motifs/well|w
 
 Write at once, please, I am so full of grief and surprise and physical weakness. I cannot speak until I know.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Cari bambini, — Queste piccole note viaggeranno il più velocemente possibile, quanto lo permetterà la velocità del vapore.
-
-I nostri cuori sono già con voi. Vorremmo potervi inviare i nostri volti, per ricevere il vostro caro incoraggiamento.
-
-Ricorda
-
-Il giorno più lungo che [[characters/god|Dio]] stabilisce finirà con l’[[motifs/sun|sole]]. L’angoscia può raggiungere il suo bersaglio, ma poi deve tornare indietro.
-
-Oggi sono a letto. Un posto strano per me; non riesco a scrivere così bene come se fossi più in forza, ma amo ancora tanto, e molto di più. Raccontateci tutto. Il piccolo cestino di Amherst non è mai così pieno, ma contiene comunque molto. Questo è il vero significato di un cestino. Nessun piccolo dettaglio colpisce i miei “uccellini”, ma riesce comunque a raffreddarmi profondamente. Consolatevi, piccole creature. Qualunque cosa ci accada, questo mondo è pur sempre solo questo mondo. Pensate a quel luogo meraviglioso e coraggioso che non abbiamo mai visto.
-
-Scrivi subito, per favore. Sono piena di dolore, sorpresa e debolezza fisica. Non riesco a parlare finché non lo saprò.
 
 
 
@@ -1945,40 +1108,6 @@ Forgive me the personality; but I knew, I thought, our peril was yours.
 [[motifs/love|Love]] for you each.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CARE CUGINE,—Sapevate che c'è stato un [[motifs/fire|incendio]] qui, e che se non fosse per un capriccio del [[motifs/wind|vento]] Austin e Vinnie ed Emily sarebbero rimasti tutti senza casa? Ma forse avete visto il Republican.
-
-Ci svegliò il ticchettio delle [[motifs/bells|campane]],—ad Amherst le [[motifs/bells|campane]] ticchettano per un [[motifs/fire|incendio]], per avvertire i pompieri.
-
-Balzai alla [[motifs/window|finestra]], e da entrambi i lati della tenda vidi quel [[motifs/sun|sole]] tremendo. La [[motifs/moon|luna]] splendeva alta in quel [[motifs/time|momento]], e gli [[motifs/birds|uccelli]] cantavano come trombe.
-
-Vinnie venne silenziosa come un mocassino: “Non aver paura, Emily, è solo il quattro di luglio.”
-
-Non dissi che l'avevo visto, perché pensai che se le pareva meglio ingannarmi, doveva pur esserci una ragione.
-
-Mi prese per mano e mi condusse nella stanza della mamma. La mamma non si era svegliata, e Maggie sedeva accanto a lei. Vinnie ci lasciò un momento, e io sussurrai a Maggie, e le chiesi che cosa fosse.
-
-“Solo il fienile di Stebbins, Emily”; ma io sapevo che la destra e la sinistra del villaggio stavano nel braccio del fienile di Stebbins. Sentivo crollare edifici, e l'olio esplodere, e gente che camminava e parlava allegramente, e cannoni morbidi come velluto da parrocchie che non sapevano che stavamo bruciando.
-
-Ed era tanto più chiaro del giorno, che vidi un bruco misurare una foglia laggiù nel frutteto; e Vinnie continuava a dire con coraggio: “È solo il quattro di luglio.”
-
-Pareva un teatro, o una [[motifs/night|notte]] a [[settings/london|Londra]], o forse il caos. La [[motifs/dew|rugiada]] [[archetypes/innocent|innocente]] cadeva “come se non pensasse alcun male,” . . . e dolci rane cianciavano nelle pozze come se la terra non ci fosse.
-
-Alle sette venne gente a dirci che l'[[motifs/fire|incendio]] era stato fermato, fermato gettandovi dentro case intatte come si colma un [[motifs/well|pozzo]].
-
-La mamma non si svegliò mai, e ne fummo tutti grati; sapevamo che non avrebbe più comprato ago e filo al negozio del signor Cutler, e fosse pure Pompei nessuno potrebbe dirglielo.
-
-L'ufficio postale è nella vecchia casa di riunione dove L—— e io andammo presto per evitare la folla, e——ci addormentammo con i [[motifs/bees|bombi]] e il Signore [[characters/god|Dio]] di Elia.
-
-Il “solo il quattro di luglio” di Vinnie lo ricorderò sempre. Credo che ce lo dirà anche quando moriremo, per non farci aver paura.
-
-Le luci della ribalta non possono migliorare la [[motifs/grave|tomba]], solo l'[[concepts/immortality|immortalità]].
-
-Perdonatemi la confidenza; ma sapevo, pensavo, che il nostro pericolo fosse anche il vostro.
-
-[[motifs/love|Affetto]] per ciascuna di voi.
-
 
 
 <span class="atom-split" data-atom="l0318_miss_maria_whitney" data-title="To Miss Maria Whitney" data-chapter="" data-kind="intro" data-tags="motif/the_soul,motif/seed_and_germination,concept/immortality,concept/grief_and_loss,concept/faith,form/lyric,form/letter,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -1990,14 +1119,6 @@ What [[concepts/madness|madness]], by their side, A vision to provide Of future 
 
 My [[motifs/soul|soul]], to find them, come, They cannot call, they're dumb, Nor prove, nor woo, But that they have abode Is absolute as [[characters/god|God]], And instant, too.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Più lontano del cielo stesso, poiché il cielo è la radice. Ma queste sono solo semi che volano via, ancora più lontani di quelli che non sono mai esistiti, o di quelli che si nascondono e continuano a esistere.
-
-Che [[concepts/madness|follezza]], al loro fianco. Una visione dei giorni futuri che non riescono nemmeno a lodare.
-
-La mia [[motifs/soul|'anima]], per trovarli, viene. Non possono chiamare, sono muti; né possono dimostrare nulla, né cercare di conquistarli. Ma il fatto che esistano è altrettanto certo quanto quello dell’[[characters/god|Dio]]. E, inoltre, immediato.
 
 
 
@@ -2011,14 +1132,6 @@ Though the first moment of loss is [[concepts/eternity|eternity]], other eternit
 Though the great waters [[motifs/sleep|sleep]] That they are still the deep We cannot [[concepts/doubt|doubt]]. No vacillating [[characters/god|God]] Ignited this abode To put it out.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-È troppo tardi per esprimere il mio dolore per il mio amico addolorato?
-
-Sebbene il primo momento della perdita sia un’[[concepts/eternity|eternità]], esistono altre forme di eternità.
-
-Anche se le grandi acque sono «addormentate» e quindi rimangono profonde, non possiamo dubitarne. Nessun Dio incostante avrebbe potuto creare questo luogo per poi spegnerlo.
-
 
 
 <span class="atom-split" data-atom="l0445_mrs_henry_hills_february_1879" data-title="To Mrs. Henry Hills, February, 1879" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/flowers,motif/childhood,concept/suffering_and_pain,concept/childhood_and_growth,concept/immortality_divine,form/letter,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -2031,14 +1144,6 @@ The odor of the flower might please her, as these little beings are only “on a
 With [[motifs/love|love]] for the mama, and sorrow for her weariness,
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Siamo profondamente addolorati per le sofferenze di quel piccolo, che sono così ingiustamente e inaspettatamente sopportate, e chiediamo alla sua mamma di assicurargli la nostra sincera [[concepts/sympathy|solidarietà]].
-
-Il profumo di questo fiore potrebbe piacerle, poiché queste piccole creature sono soltanto “in congedo temporaneo” dal Paradiso.
-
-Con [[motifs/love|amore]] per la mamma e tristezza per la sua stanchezza.
-
 
 
 <span class="atom-split" data-atom="l0468_the_rev_f_f_emerson" data-title="To the Rev. F. F. Emerson" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,motif/light_and_dark,concept/faith,concept/forgiveness,concept/heroism_courage,form/letter,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -2048,12 +1153,6 @@ Though tendered by a stranger, the fruit will be forgiven.
 
 Valor in the dark is my Maker's code.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Anche se offerto da uno sconosciuto, il frutto verrà perdonato.
-
-Il coraggio nell’oscurità è il codice impostato dal mio Creatore.
 
 
 
@@ -2066,14 +1165,6 @@ Were it any kingdom but the “Kingdom of Heaven,” how distant!
 
 But my heart breaks—I can say no more.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, spero che tu sappia con quale indescrivibile tenerezza pensiamo a te e a tuo caro [[archetypes/child|bambino]].
-
-Se si trattasse di un regno qualsiasi, tranne che del “Regno dei Cieli”, quanto sarebbe lontano.
-
-Ma il mio cuore si spezza. Non posso dire altro.
 
 
 
@@ -2093,20 +1184,6 @@ I congratulate you upon your children, and themselves upon you.
 To have had such daughters is sanctity—to have had such a mother, divine. To still have her—but [[motifs/tears|tears]] forbid me. My own is in the [[motifs/grave|grave]]. “So loved her that he died for her,” says the explaining Jesus.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La [[motifs/rose|rosa]] di zia Katie aveva molti spine, ma era comunque una [[motifs/rose|rosa]], e aveva sopportato con estrema pazienza le difficoltà della crescita. Ogni segno di rispetto verso di lei è davvero ampiamente meritato; non lo chiamiamo cortesia, ma semplicemente riconoscimento. È ancora più dolce che il [[motifs/noon|pomeriggio]] sia sereno, piuttosto che la mattina, perché il pomeriggio arriva dopo tutto, eppure anche la tua mattina aveva quella rugiada che non vorresti mai scambiare con nulla. Grazie per averci raccontato dei tuoi successi.
-
-“La pace ha le sue vittorie, proprio come la guerra.”
-
-Grazie per aver parlato con tanta tenerezza del nostro ultimo caro che ci è stato strappato via. Speravamo che le lusinghe della [[motifs/spring|primavera]], unite alle nostre, potessero ritardare la sua partenza, ma sono arrivate troppo tardi. “Nel mio giro di ieri,” scriveva nella sua ultima lettera, “ho incontrato un croco e una margherita dei prati, ma quelle dolci creature sono sopravvissute a lui. Quando ero [[archetypes/child|bambino]], pensavo che il cimitero fosse a Tarrytown, ma ora credo che sia in Trans, ”
-
-In questo luogo pieno di gallerie, spero che possiate rimanere illesi.
-
-Vi congratulo per i vostri figli, e loro stessi per voi.
-
-Avere avuto figlie del genere è una vera santità; avere avuto una madre del genere è divino. Ancora adesso la ho con me, ma le  lacrime mi impediscono di parlare. La mia è nella [[motifs/grave|tomba]]. “La amava così tanto da morire per lei”, dice Gesù nell’episodio che spiega tutto questo.
-
 
 
 <span class="atom-split" data-atom="l0531_mrs_todd_september_1885" data-title="To Mrs. Todd, September, 1885" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/rose,motif/wine_and_drink,concept/jealousy,concept/faith,concept/solitude,concept/love_divine,form/letter,character/othello,cluster/faith,cluster/providence,cluster/divine_love"></span>
@@ -2125,20 +1202,3 @@ As her unique life drew toward its close, she became, for the last two years, a 
 Only a handful of notes remains, written during the final weeks while Emily brightened the old house with her airy, yet forceful and brilliant personality, for, even ill, she was a pervasive presence.
 
 Upon the [[motifs/death|death]] of Professor Tuckerman, March 15, 1886, she wrote:—
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Perché dovremmo condannare [[characters/othello|Otello]], quando il criterio del [[archetypes/lover|amante]] dice: “Non avrai altri dèi al mio fianco”?
-
-La musica ha sempre esercitato un grande fascino su Emily Dickinson. Spesso, quando cantavo o suonavo il pianoforte su sua richiesta, una nota delicata mi veniva in mente, accompagnata da un bicchiere di vino o da una rara [[motifs/rose|rosa]]; in un’occasione fu anche un panna montata, insieme alla singola riga “Chi ama, castiga”, il cui significato poteva essere interpretato in molti modi.
-
-Non potrò mai dimenticare quella solitudine crepuscolare del vecchio salotto: il pianoforte a coda nell’angolo, i mobili antichi in mogano. E Emily, proprio fuori dalla [[motifs/door|porta]], con il suo abito bianco che spiccava nella penombra del corridoio. Con il calare della sera, suonavo questo o quell’instrumento, cantavo melodie che spesso sembravano troppo leggere, moderne e solari per un ambiente così simile a un angolo sognante del passato. All’inizio mi pareva che una visita proveniente da un altro mondo fosse scesa lì per un po’, desiderando, per qualche motivo inscruttabile, essere intrattenuta su un pianeta straniero. Più tardi, tutto questo divenne non solo del tutto naturale, ma anche un’abitudine così radicata che avrei sentito la mancanza dei miei solitari recital tanto quanto della mia ascoltatrice, spesso invisibile.
-
-Altre note, relative in particolare a persone o occasioni specifiche, non presentano un interesse generale sufficiente da essere riportate qui.
-
-Mentre la sua unica vita si avvicinava alla fine, negli ultimi due anni divenne quasi invalida. Lei che aveva sempre goduto di una forza e di un coraggio sufficienti a soddisfare le sue esigenze e quelle di tutti i suoi amici.
-
-Sono rimaste solo poche note, scritte nelle ultime settimane in cui Emily illuminava quella vecchia casa con la sua personalità spensierata, ma al contempo decisa e brillante; perché, anche ammalata, era una presenza onnipresente.
-
-Al momento della [[motifs/death|morte]] del professor Tuckerman, avvenuta il 15 marzo 1886, lei scrisse:—

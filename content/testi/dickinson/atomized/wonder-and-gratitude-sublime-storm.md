@@ -40,33 +40,6 @@ To sublimer Recitation
 Are prepared to go!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Non so dirtelo — ma tu lo senti —  
-Né tu puoi dirlo a me —  
-Santi, con rapite lavagna e matita  
-Risolvete il nostro Giorno d'Aprile!  
-
-Più dolce d'una svanita festa  
-Da un prato svanito!  
-Più rapido degli zoccoli di Cavalieri  
-Attorno a una Cornice di sogno!  
-
-Modesti, camminiamovi in mezzo  
-Coi nostri volti velati —  
-Come dicono i cortesi Arcangeli  
-Facciano incontrando [[characters/god|God]]!  
-
-Non a me — cianciarne!  
-Non a te — dire  
-A qualche Dama alla moda  
-"Incantevole Giorno d'Aprile"!  
-
-Piuttosto — il "Peter Parley" del Cielo!  
-Col quale i Bambini lenti  
-A più sublime Recitazione  
-Sono preparati ad andare!
-
 
 
 <span class="atom-split" data-atom="0122_a_something_in_a_summers_day" data-title="122. A something in a summer's Day" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/seasons,motif/sun,concept/the_sublime,concept/joy,concept/inexpressibility_of_beauty,concept/wonder_and_gratitude,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -102,37 +75,6 @@ And I meet, coming thro' the dews
 Another [[motifs/summer|summer]]'s Day!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Un qualcosa in un Giorno d'[[motifs/summer|estate]]  
-Mentre lente le sue fiaccole si consumano  
-Che mi rende solenne.  
-
-Un qualcosa nell'[[motifs/summer|estivo]] [[motifs/noon|mezzogiorno]] —  
-Una profondità — un Azzurro — un profumo —  
-Che trascende l'estasi.  
-
-E ancora dentro un'[[motifs/summer|estiva]] [[motifs/night|notte]]  
-Un qualcosa di così rapente fulgore  
-Che batto le mani a vederlo —  
-
-Poi velo il mio volto troppo indagatore  
-Lascia che una così sottile — scintillante grazia  
-Aleggi troppo lontano per me —  
-
-Le dita di mago mai riposano —  
-Il ruscello purpureo dentro il petto  
-Ancora rode il suo stretto letto —  
-
-Ancora innalza l'Oriente il suo [[motifs/flag|Flag]] d'ambra —  
-Guida ancora il [[motifs/sun|sole]] lungo il Dirupo  
-La sua Carovana di Rosso —  
-
-Così guardando — la [[motifs/night|notte]] — il mattino  
-Concludono gaia la [[concepts/wonder|meraviglia]] —  
-E incontro, venendo tra le rugiade  
-Un altro Giorno d'[[motifs/summer|estate]]!
-
 
 
 <span class="atom-split" data-atom="0124_in_lands_i_never_saw_they_say" data-title="124. In lands I never saw — they say" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/nature,concept/the_sublime,concept/humility,concept/immortality,form/riddle,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -148,18 +90,6 @@ A Myriad Daisy play —
 Which, Sir, are you and which am I  
 Upon an August day?
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-In terre che mai vidi — dicono  
-Alpi Immortali guardano giù —  
-Le cui Cuffie toccano il firmamento —  
-I cui Sandali toccano la città —  
-
-Miti ai loro piedi eterni  
-Una Miriade di Margherite gioca —  
-Quale, Signore, siete voi e quale sono io  
-In un giorno d'Agosto?
 
 
 
@@ -195,36 +125,6 @@ With implements to fly away,
 Passing Pomposity?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Portami il tramonto in una tazza,  
-Conta i fiaschi del mattino  
-E dimmi quanta [[motifs/dew|Rugiada]],  
-Dimmi fin dove balza il mattino —  
-Dimmi a che [[motifs/time|ora]] dorme il tessitore  
-Che filò l'ampiezza dell'azzurro!  
-
-Scrivimi quante note vi siano  
-Nell'estasi del nuovo Pettirosso  
-Fra i rami stupefatti —  
-Quanti viaggi compie la Tartaruga —  
-Quante coppe assapora l'Ape,  
-La Dissoluta delle Rugiade!  
-
-E ancora, chi pose i piloni dell'Arcobaleno,  
-E ancora, chi guida le docili sfere  
-Con vimini di flessibile azzurro?  
-Di chi le dita infilano la stalattite —  
-Chi conta il wampum della [[motifs/night|notte]]  
-Per vedere che nulla sia dovuto?  
-
-Chi costruì questa piccola Casa Albana  
-E serrò le finestre così strette  
-Che il mio spirito non può vedere?  
-Chi mi farà uscire un giorno di gala  
-Con strumenti per volare via,  
-Oltrepassando la Pomposità?
-
 
 
 <span class="atom-split" data-atom="0155_the_murmur_of_a_bee" data-title="155. The Murmur of a Bee" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,topos/book_of_nature,motif/nature,motif/dawn,concept/wonder_and_gratitude,concept/faith,concept/the_sublime,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -249,26 +149,6 @@ If any ask me how —
 Must tell!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il Mormorio di un'Ape  
-Una Stregoneria — mi arreca —  
-Se qualcuno mi chiede perché —  
-Sarebbe più facile morire —  
-Che dire —  
-
-Il Rosso sopra il [[motifs/hill|Colle]]  
-Mi toglie la volontà —  
-Se qualcuno sogghigna —  
-Attento — ché [[characters/god|Dio]] è qui —  
-Questo è tutto.  
-
-Lo Spuntare del Giorno  
-Accresce il mio Grado —  
-Se qualcuno mi chiede come —  
-L'[[archetypes/artist|Artista]] — che mi disegnò così —  
-Deve dirlo!
-
 
 
 <span class="atom-split" data-atom="0198_an_awful_tempest_mashed_the_air" data-title="198. An awful Tempest mashed the air —" data-chapter="" data-kind="intro" data-tags="archetype/monster,motif/storm,motif/nature,motif/the_supernatural,motif/dawn,concept/terror_and_horror,concept/the_sublime,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -290,24 +170,6 @@ The [[archetypes/monster|Monster]]'s faded eyes
 Turned slowly to his native coast —  
 And peace — was Paradise!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Un'orrenda Tempesta schiacciò l'aria —  
-Le nubi eran scarne, e rade —  
-Un Nero — come di Manto di Spettro  
-Celò Cielo e Terra alla vista.  
-
-Le creature ridacchiavano sui Tetti —  
-E fischiavano nell'aria —  
-E scuotevano i pugni —  
-E digrignavano i denti —  
-E agitavano i capelli frenetici.  
-
-Il mattino s'accese — gli [[motifs/birds|Uccelli]] si levarono —  
-Gli occhi spenti del [[archetypes/monster|Mostro]]  
-Si volsero lenti alla costa natia —  
-E la pace — era Paradiso!
 
 
 
@@ -336,29 +198,6 @@ An [[settings/island|Island]] in dishonored Grass —
 Whom none but Beetles — know.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Di Bronzo — e di Vampa —  
-Il Nord — Stanotte —  
-Così adeguato — si forma —  
-Così preconcertato con se stesso —  
-Così distante — dagli allarmi —  
-Una Noncuranza così sovrana  
-Verso l'Universo, o me —  
-Contagia il mio semplice spirito  
-Con Tinte di Maestà —  
-Finché assumo più vasti atteggiamenti —  
-E mi pavoneggio sul mio stelo —  
-Sdegnando gli Uomini, e l'Ossigeno,  
-Per Arroganza verso di loro —  
-
-I miei Splendori, sono un Serraglio —  
-Ma il loro Spettacolo senza Rivali  
-Intratterrà i Secoli  
-Quando io, sarò da gran tempo,  
-Un'[[settings/island|Isola]] nell'Erba disonorata —  
-Che nessuno se non gli Scarabei — conosce.
-
 
 
 <span class="atom-split" data-atom="0297_its_like_the_light" data-title="297. It's like the Light —" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/light_and_dark,motif/music_and_song,motif/nature,concept/joy,concept/wonder_and_gratitude,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -379,23 +218,6 @@ Best — when it's done —
 And the Everlasting Clocks —  
 Chime — [[motifs/noon|Noon]]!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-È come la Luce —  
-Una Delizia senza foggia —  
-È come l'Ape —  
-Una Melodia — senza data —  
-
-È come i Boschi —  
-Privata — Come la Brezza —  
-Senza frase — eppure scuote  
-Gli Alberi più fieri —  
-
-È come il Mattino —  
-Migliore — quando è finito —  
-E gli Orologi Eterni —  
-Rintoccano — [[motifs/noon|Mezzogiorno]]!
 
 
 
@@ -419,24 +241,6 @@ When Winds take Forests in the Paws —
 The Universe — is still —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Egli brancica alla tua [[motifs/soul|Anima]]  
-Come i Suonatori sui Tasti  
-Prima di calarvi la Musica piena —  
-Ti stordisce per gradi —  
-Prepara la tua fragile [[concepts/nature|Natura]]  
-Al Colpo Etereo  
-Con Martelli più fiochi — uditi più lontano —  
-Poi più vicini — Poi così lenti  
-Che il tuo Respiro ha [[motifs/time|tempo]] di raddrizzarsi —  
-Il tuo Cervello — di gorgogliare Fresco —  
-Vibra — Una — imperiale — Folgore —  
-Che scotenna la tua nuda [[motifs/soul|Anima]] —  
-
-Quando i Venti prendono le Foreste nelle Zampe —  
-L'Universo — è immoto —
-
 
 
 <span class="atom-split" data-atom="0323_as_if_i_asked_a_common_alms" data-title="323. As if I asked a common Alms," data-chapter="" data-kind="intro" data-tags="motif/dawn,motif/money_gold,motif/sun,concept/wonder_and_gratitude,concept/grace_and_redemption,concept/poverty,form/lyric,form/epigram,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -451,17 +255,6 @@ Had it for me a morn?
 And it sh'd lift it's purple dikes  
 And flood me with the [[motifs/dawn|Dawn]]!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Come se chiedessi una comune elemosina -  
-E nella mia mano stupita,  
-Uno straniero premesse un regno -  
-E io - sbigottita resto -  
-Come se chiedessi all'[[settings/orient|Orient]]  
-Avesse per me un mattino?  
-E quello alzasse le sue dighe di porpora  
-E m'inondasse di [[motifs/dawn|Dawn]]!
 
 
 
@@ -483,23 +276,6 @@ The Maddest — quickest by —
 But [[concepts/nature|Nature]] lost the Date of This —  
 And left it in the Sky —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Mi colpiva — ogni Giorno —  
-Il [[motifs/lightning|Lampo]] era così nuovo  
-Come se la Nube in quell'istante si fendesse  
-E lasciasse passare il [[motifs/fire|Fuoco]] —  
-
-Mi bruciò — nella [[motifs/night|Notte]] —  
-Vescicò fin dentro il Mio Sogno —  
-Tornava fresco a nausearmi la vista —  
-Con ogni Mattino che veniva —  
-
-Pensavo che la [[motifs/storm|Tempesta]] — fosse breve —  
-La più Folle — la più svelta a passare —  
-Ma la [[concepts/nature|Natura]] perse la Data di Questa —  
-E la lasciò nel Cielo —
 
 
 
@@ -532,33 +308,6 @@ So go your Way — and I'll go Mine —
 No [[concepts/fear|fear]] you'll miss the [[motifs/road|Road]].
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Un Mormorio tra gli Alberi — da notare —  
-Non abbastanza forte — per esser [[motifs/wind|Vento]] —  
-Una Stella — non tanto lontana da cercarla —  
-Né tanto vicina — da trovarla —  
-
-Un lungo — lungo Giallo — sul Prato —  
-Un Brusio — come di piedi —  
-Non udibile — come il Nostro — a Noi —  
-Ma più garbato — Più Dolce —  
-
-Un Affrettarsi a [[motifs/home|Casa]] di piccoli Uomini  
-Verso Case inavvertite —  
-Tutto questo — e altro — se lo dicessi —  
-Non sarebbe mai creduto —  
-
-Di Pettirossi nel Lettino a rotelle  
-Quanti ne scorgo  
-Le cui Camicie da notte non celavano le Ali —  
-Benché li udissi provare —  
-
-Ma poi promisi di non dirlo mai —  
-Come potrei infrangere la Mia Parola?  
-Va' per la tua Via — io andrò per la Mia —  
-Nessun [[concepts/fear|timore]] che tu perda la [[motifs/road|Strada]].
-
 
 
 <span class="atom-split" data-atom="0552_an_ignorance_a_sunset" data-title="552. An ignorance a Sunset" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/sun,motif/eyes_sight,concept/the_sublime,concept/wonder_and_gratitude,concept/immortality,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -580,24 +329,6 @@ We start — as if detected
 In [[concepts/immortality|Immortality]] —  
 An angel is everywhere
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Un'ignoranza un Tramonto  
-Conferisce all'Occhio —  
-Di Territorio — Colore —  
-Circonferenza — [[motifs/decay|Declino]] —  
-
-La sua Ambrata [[concepts/revelation|Rivelazione]]  
-Esalta — Avvilisce —  
-L'ispezione dell'Onnipotenza  
-Sul Nostro volto inferiore —  
-
-E quando i tratti solenni  
-Confermano — in Vittoria —  
-Trasaliamo — come colti  
-In [[concepts/immortality|Immortalità]] —  
-Un angelo è ovunque
 
 
 
@@ -626,29 +357,6 @@ Stop — docile and omnipotent
 At its own [[settings/stable|stable]] [[motifs/door|door]] —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Mi piace vederlo lambire le [[characters/miles|Miglia]] —  
-E leccarsi via le Valli —  
-E fermarsi a nutrirsi alle Cisterne —  
-E poi — con passo prodigioso  
-
-Aggirare un Cumulo di [[settings/mountains|Montagne]] —  
-E sprezzante sbirciare  
-Nelle Baracche — ai margini delle Strade —  
-E poi tagliare una Cava  
-
-Su misura delle sue Costole  
-E strisciare in mezzo  
-Lamentandosi tutto il tempo  
-In orrida — ululante strofa —  
-Poi rincorrersi giù per la [[motifs/hill|Collina]] —  
-
-E nitrire come Boanerges —  
-Poi — puntuale come una Stella  
-Fermarsi — docile e onnipotente  
-Alla propria [[settings/stable|stalla]], alla [[motifs/door|porta]] —
-
 
 
 <span class="atom-split" data-atom="0595_like_mighty_foot_lights_burned_the_red" data-title="595. Like Mighty Foot Lights — burned the Red" data-chapter="" data-kind="intro" data-tags="concept/the_sublime,concept/wonder_and_gratitude,concept/the_natural_order,concept/imagination,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -664,18 +372,6 @@ While Chiefest — of the Crowd —
 Enabled by his Royal Dress —  
 Myself distinguished [[characters/god|God]] —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Come Possenti Luci di Ribalta — ardeva il Rosso  
-Alle Basi degli Alberi —  
-I lontani Spettacoli del Giorno  
-Esibendo — a Questi —  
-
-Fu l'Universo — ad applaudire —  
-Mentre il più Insigne — della Folla —  
-Reso palese dalla sua Veste Regale —  
-Io stessa distinsi [[characters/god|Dio]] —
 
 
 
@@ -719,45 +415,6 @@ How mean — to those that see —
 Vandyke's Delineation  
 Of [[concepts/nature|Nature]]'s — [[motifs/summer|Summer]] Day!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Gli Alberi come Nappe — battevano — e oscillavano —  
-Pareva levarsi una Melodia  
-Da Creature in Miniatura  
-Ad accompagnare il [[motifs/sun|Sole]] —  
-
-Lontani Salteri d'[[motifs/summer|Estate]] —  
-Che innamorano l'Orecchio  
-Mai ancora hanno saziato —  
-Più remoti — quando più belli  
-
-Il [[motifs/sun|Sole]] splendeva intero a intervalli —  
-Poi a Metà — poi celato del tutto —  
-Come se Egli fosse facoltativo  
-E avesse Tenute di Nuvola  
-
-Bastanti ad avvolgerlo  
-In eterno alla vista —  
-Se non fosse un suo capriccio  
-Lasciar crescere i Frutteti —  
-
-Un Uccello sedeva noncurante sul recinto —  
-Uno spettegolava nel Viottolo  
-Su faccende d'argento incantò un Serpente  
-Che appena si avvolgeva attorno a un Sasso —  
-
-Vividi [[motifs/flowers|Fiori]] fendevano un Calice  
-E si libravano su uno Stelo  
-Come Bandiere Trattenute — Dolcemente issate —  
-Con Spezie — nell'Orlo —  
-
-Era di più — non posso dirlo —  
-637  
-
-Com'è misera — per chi vede —  
-La Delineazione di Vandyke  
-Della [[concepts/nature|Natura]] — nel Giorno d'[[motifs/summer|Estate]]!
 
 
 
@@ -812,55 +469,6 @@ To follow her superior [[motifs/road|Road]] —
 Or its advantage — Blue —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Osservai la [[motifs/moon|Luna]] intorno alla Casa  
-Finché sopra un Vetro —  
-Si fermò — privilegio di Viaggiatore — per Riposo —  
-E là sopra  
-
-Fissai lo sguardo — come a un'estranea —  
-La Dama in Città  
-Non stima inciviltà  
-Alzare il suo Occhiale — sopra —  
-
-Ma mai Straniera giustificò  
-La Curiosità  
-Come la Mia — ché né Piede — né Mano —  
-Né Formula — aveva lei —  
-
-Ma come una Testa — che una Ghigliottina  
-Fece scivolare via con noncuranza —  
-Indipendente, Ambra —  
-Si sosteneva nel cielo —  
-
-O come un Fiore senza Stelo —  
-Sorretto nell'Aria roteante  
-Da Gravitazioni più sottili —  
-Di quelle che legano il Filosofo —  
-
-Fame — non aveva — né una [[settings/inn|Locanda]] —  
-La sua Toeletta — a cui bastare —  
-Né Occupazione — né Pensiero  
-Per i piccoli Misteri  
-
-Che ci assillano — come Vita — e [[motifs/death|Morte]] —  
-662  
-
-E il Dopo — oppure No —  
-Ma pareva assorta in Assoluto —  
-Nello splendere — e nel Cielo —  
-
-Il privilegio di scrutare  
-Fu appena sui miei Occhi  
-Quando, con Argentea pratica —  
-Lei volteggiò via dallo Sguardo —  
-
-E poi — la incontrai su una Nube —  
-Io troppo in basso ormai  
-Per seguire la sua [[motifs/road|Strada]] superiore —  
-O il suo vantaggio — Azzurro —
-
 
 
 <span class="atom-split" data-atom="0630_the_lightning_playeth_all_the_while" data-title="630. The Lightning playeth — all the while —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/lightning,motif/storm,motif/nature,concept/the_sublime,concept/faith_and_doubt,concept/faith,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -882,23 +490,6 @@ Nor We so much as check our speech —
 Nor stop to [[motifs/cross|cross]] Ourselves —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il [[motifs/lightning|Lampo]] giuoca — tutto il tempo —  
-Ma quando Egli canta — allora —  
-Noi siamo consci ch'Egli esiste —  
-E Lo avviciniamo — severi —  
-
-Con Isolatori — e un Guanto —  
-Il cui breve — sepolcrale Basso  
-Ci allarma — benché i Suoi Gialli piedi  
-Possano passare — e ripassare —  
-
-Sulle Funi — sopra il nostro Capo —  
-Continuo — con le Notizie —  
-Né Noi sospendiamo neppure il discorso —  
-Né sostiamo a [[motifs/cross|segnarci]] la fronte —
-
 
 
 <span class="atom-split" data-atom="0666_ah_teneriffe" data-title="666. Ah, Teneriffe!" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/nature,motif/sun,motif/swords_weapons,concept/the_sublime,concept/wonder_and_gratitude,concept/beauty,concept/humility,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -918,21 +509,6 @@ Ah, Teneriffe!
 I'm kneeling — still —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Ah, Teneriffe!  
-Montagna che ti ritrai!  
-Porpore di Ere — sostano per te —  
-Il Tramonto — passa in rivista il suo Reggimento di Zaffiro —  
-Il Giorno — ti lascia cadere il suo Rosso Addio!  
-
-Immobile — Vestita della tua Maglia di ghiacci —  
-Coscia di Granito — e nerbo — d'Acciaio —  
-Incurante — ugualmente — di pompa — o congedo  
-
-Ah, Teneriffe!  
-Io m'inginocchio — ancora —
-
 
 
 <span class="atom-split" data-atom="0757_the_mountains_grow_unnoticed" data-title="757. The Mountains — grow unnoticed —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/sun,concept/the_sublime,concept/the_natural_order,concept/humility,concept/wonder_and_gratitude,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -948,18 +524,6 @@ The [[motifs/sun|Sun]] — with just delight
 Looks long — and last — and golden —  
 For fellowship — at [[motifs/night|night]] —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Le [[settings/mountains|Montagne]] — crescono inosservate —  
-Le Loro figure Purpuree s'innalzano  
-Senza sforzo — Sfinimento —  
-Aiuto — o Applauso —  
-
-Nei Loro Volti Eterni  
-Il [[motifs/sun|Sole]] — con puro diletto  
-Guarda a lungo — e ultimo — e dorato —  
-In cerca di compagnia — a [[motifs/night|notte]] —
 
 
 
@@ -986,28 +550,6 @@ And bathed them in the Glee —
 Then [[settings/orient|Orient]] showed a single [[motifs/flag|Flag]],  
 And signed the Fete away —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Una Goccia Cadde sul [[motifs/tree|Melo]] —  
-Un'altra — sul Tetto —  
-Una Mezza Dozzina baciò le Gronde —  
-E fece ridere i Frontoni —  
-
-Alcune andarono ad aiutare il Ruscello  
-Che andò ad aiutare il [[motifs/sea|Mare]] —  
-Io Congetturai fossero Perle —  
-Quale Collana sarebbe stata —  
-
-La [[motifs/dust|Polvere]] rimessa, su Strade Sollevate —  
-Gli [[motifs/birds|Uccelli]] cantarono più giocosi —  
-Il Sole gettò via il suo Cappello —  
-I Cespugli — lanciarono lustrini —  
-
-Le Brezze portarono Liuti afflitti —  
-E li bagnarono nella Gioia —  
-Poi l'[[settings/orient|Oriente]] mostrò una sola [[motifs/flag|Bandiera]],  
-E congedò la Festa —
 
 
 
@@ -1036,29 +578,6 @@ But overlooked my Father's House —
 Just Quartering a [[motifs/tree|Tree]] —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il [[motifs/wind|Vento]] prese a impastare l'Erba —  
-Come le Donne una Pasta —  
-Ne gettò una Manciata alla Pianura —  
-Una Manciata al Cielo —  
-Le [[motifs/leaves|Foglie]] si sganciarono dagli Alberi —  
-E si sparsero dovunque —  
-La [[motifs/dust|Polvere]] si raccolse come Mani —  
-E gettò via la [[motifs/road|Strada]] —  
-I Carri — affrettarono sulla Via —  
-I Tuoni spettegolavano sommessi —  
-Il [[motifs/lightning|Lampo]] mostrò una Testa Gialla —  
-E poi un livido Alluce —  
-Gli [[motifs/birds|Uccelli]] sbarrarono i Nidi —  
-Il Bestiame si lanciò alle Stalle —  
-Poi venne una goccia di [[motifs/rain|Pioggia]] Gigante —  
-E poi, come se le Mani  
-Che tenevano le Dighe — avessero lasciato la presa —  
-Le Acque Naufragarono il Cielo —  
-Ma trascurarono la Casa di mio Padre —  
-Squartando appena un [[motifs/tree|Albero]] —
-
 
 
 <span class="atom-split" data-atom="0974_the_souls_distinct_connection" data-title="974. The Soul's distinct connection" data-chapter="" data-kind="intro" data-tags="motif/lightning,concept/self_and_soul,concept/immortality,concept/the_sublime,concept/suffering,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1074,18 +593,6 @@ Exhibits Sheets of Place —
 Not yet suspected — but for Flash —  
 And Click — and Suddenness.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il distinto legame dell'[[motifs/soul|Anima]]  
-Con l'[[concepts/immortality|immortalità]]  
-È svelato al meglio dal Pericolo  
-O da rapida Calamità —  
-
-Come il [[motifs/lightning|Lampo]] su un Paesaggio  
-Esibisce Distese di Luogo —  
-Non ancora sospettate — se non per il Guizzo —  
-E lo Scatto — e la Subitaneità.
 
 
 
@@ -1103,18 +610,6 @@ Proves it there's no [[motifs/sea|Sea]], or rather
 A remoter Bed?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Gratitudine — non è la menzione  
-Di una Tenerezza,  
-Ma il suo quieto apprezzamento  
-Fuori dal Piombo della Parola.  
-
-Quando il [[motifs/sea|Mare]] non rende Risposta  
-A Sagola e Scandaglio  
-Prova che non v'è [[motifs/sea|Mare]], o piuttosto  
-Un più remoto Fondo?
-
 
 
 <span class="atom-split" data-atom="1048_reportless_subjects_to_the_quick" data-title="1048. Reportless Subjects, to the Quick" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,concept/alienation,concept/perception_and_consciousness,concept/the_artist_and_society,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1130,18 +625,6 @@ Susceptive — stimulus —
 But like an Oriental Tale  
 To others, fabulous —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Soggetti senza resoconto, al Vivo  
-Di continuo rivolti —  
-Ma stranieri come il Dialetto  
-Dei Danesi, per tutti gli altri.  
-
-Misure senza resoconto, all'Orecchio  
-Suscettivo — stimolo —  
-Ma come un Racconto Orientale  
-Per gli altri, favolosi —
 
 
 
@@ -1163,23 +646,6 @@ A Wisdom, without Face, or Name,
 A Peace, as Hemispheres at [[motifs/home|Home]]  
 And so the [[motifs/night|Night]] became.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Cantarono i Grilli  
-E tramontò il [[motifs/sun|Sole]]  
-E gli Operai finirono a uno a uno  
-La loro Cucitura sul Giorno.  
-
-L'Erba bassa carica di [[motifs/dew|Rugiada]]  
-Il Crepuscolo stava, come fanno gli Estranei  
-Cappello in Mano, cortese e nuovo  
-Come per restare, o andare.  
-
-Una Vastità, come un Vicino, venne,  
-Una Saggezza, senza Volto, né Nome,  
-Una Pace, come Emisferi a [[motifs/home|Casa]]  
-E così si fece la [[motifs/night|Notte]].
 
 
 
@@ -1203,25 +669,6 @@ Without discreet alarm —
 Supplied by Entomology  
 With its remaining charm —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Queste sono le Notti che i Coleotteri [[motifs/love|amano]] —  
-Da Eminenza remota  
-Guida ponderoso perpendicolare  
-La sua figura intima  
-Il terrore dei Bambini  
-Il divertimento degli uomini  
-Deposto il suo Tuono  
-Si issa di nuovo al largo —  
-Una Bomba sul Soffitto  
-È cosa che migliora —  
-Tiene i nervi progressivi  
-La Congettura fiorente —  
-Troppo cara la sera d'[[motifs/summer|Estate]]  
-Senza discreto allarme —  
-Fornito dall'Entomologia  
-Con il suo residuo incanto —
 
 
 
@@ -1249,28 +696,6 @@ How intimate, a Tempest past
 The Transport of the Bird —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il [[motifs/wind|Vento]] raccolse le Cose del Nord  
-E le ammucchiò nel sud —  
-Poi diede l'Est all'Ovest  
-E spalancando la bocca  
-
-Le quattro Divisioni della Terra  
-Fece come per divorare  
-Mentre ogni cosa negli angoli strisciava  
-Dietro il potere tremendo —  
-
-Il [[motifs/wind|Vento]] — alle sue Stanze andò  
-E la [[concepts/nature|natura]] s'avventurò fuori —  
-I suoi sudditi sparsi ai loro posti  
-I suoi sistemi disposti intorno  
-
-Di nuovo il fumo dalle Dimore [[motifs/rose|salì]]  
-Il Giorno là fuori si udì —  
-Com'è intimo, passata una Tempesta  
-Il Trasporto dell'Uccello —
-
 
 
 <span class="atom-split" data-atom="1172_the_clouds_their_backs_together_laid" data-title="1172. The Clouds their Backs together laid" data-chapter="" data-kind="intro" data-tags="motif/storm,motif/nature,motif/wind,motif/the_grave,motif/fire,concept/the_sublime,concept/mortality,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1287,18 +712,6 @@ Where [[concepts/nature|Nature]]'s Temper cannot reach
 Nor vengance ever comes
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Le Nuvole unirono le loro Schiene  
-Il Nord cominciò a spingere  
-Le Foreste galopparono fino a cadere  
-Il [[motifs/lightning|Lampo]] giocava come topi  
-
-Il Tuono si sbriciolò come una stoffa  
-Che bello stare nelle Tombe  
-Dove l'Ira della [[concepts/nature|Natura]] non giunge  
-Né vendetta arriva mai
-
 
 
 <span class="atom-split" data-atom="1397_it_sounded_as_if_the_streets_were_running" data-title="1397. It sounded as if the Streets were running" data-chapter="" data-kind="intro" data-tags="motif/storm,motif/nature,motif/light_and_dark,concept/the_sublime,concept/terror_and_horror,form/lyric,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1314,18 +727,6 @@ To see if [[motifs/time|Time]] was there —
 [[concepts/nature|Nature]] was in an Opal Apron,  
 Mixing fresher Air.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Pareva che le Strade corressero  
-E poi — le Strade si fermarono —  
-Eclissi — era tutto ciò che vedevamo alla [[motifs/window|Finestra]]  
-E Sgomento — tutto ciò che sentivamo.  
-
-A poco a poco — il più ardito sgusciò dal suo Nascondiglio  
-Per vedere se il [[motifs/time|Tempo]] c'era ancora —  
-La [[concepts/nature|Natura]] era in un Grembiule d'Opale,  
-A mescolare Aria più fresca.
 
 
 
@@ -1347,22 +748,6 @@ As those that Dissolution saw
 The Poppy in the Cloud
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Era un Giorno all'apparenza quieto —  
-Non c'era male in terra o cielo —  
-Finché col [[motifs/sun|sole]] che calava  
-Vagò un Rosso accidentale  
-Una Tinta a Passeggio, si sarebbe detto  
-A occidente della Città —  
-
-Ma quando la Terra prese a tremare  
-E le Case svanirono con un boato  
-E l'umana [[concepts/nature|Natura]] si nascose  
-Comprendemmo dallo Sgomento  
-Come chi vide la Dissoluzione  
-Il Papavero nella Nuvola
-
 
 
 <span class="atom-split" data-atom="1452_your_thoughts_dont_have_words_every_day" data-title="1452. Your thoughts don't have words every day" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/bread_and_wine_eucharist,concept/imagination,concept/transience,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1377,17 +762,6 @@ So easy so to be
 You cannot comprehend its price  
 Nor its infrequency
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-I tuoi pensieri non hanno parole ogni giorno  
-Vengono una [[motifs/time|volta]] sola  
-Come insigni sorsi esoterici  
-Del Vino della comunione  
-Che mentre lo gusti pare così nativo  
-Così facile a essere  
-Che non puoi comprenderne il prezzo  
-Né la sua infrequenza
 
 
 
@@ -1407,21 +781,6 @@ Each one of us shall be —
 'Tis Drama — if Hypothesis  
 It be not [[forms/tragedy|Tragedy]] —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-È più bianco d'una Pipa Indiana —  
-È più fioco d'un Merletto —  
-Statura non ha, come una Nebbia  
-Quando ti avvicini al luogo —  
-Né voce alcuna lo implica qui  
-O lo insinua là  
-Uno spirito — come accosta —  
-Che funzione ha l'Aria?  
-Questa Iperbole illimitata  
-Ciascuno di noi sarà —  
-È Dramma — se Ipotesi  
-Non sia [[forms/tragedy|Tragedia]] —
 
 
 
@@ -1450,29 +809,6 @@ How Life's reverberation
 Its Explanation found —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il Tuono più lontano che udii  
-Era più vicino del Cielo  
-E rimbomba ancora, benché torridi Meriggi  
-Abbiano deposto i loro proiettili —  
-Il [[motifs/lightning|Lampo]] che lo precedette  
-Non colpì nessuno se non me —  
-Ma non scambierei la Folgore  
-Con tutto il resto della Vita —  
-Il debito verso l'Ossigeno  
-I Felici lo possono ripagare,  
-Ma non l'obbligazione  
-Verso l'Elettricità —  
-Fonda le Case e adorna i Giorni  
-E ogni chiaro clamore  
-Non è che il bagliore concomitante  
-Di quella Luce in agguato —  
-Il Pensiero è quieto come un Fiocco —  
-Uno Schianto senza Suono,  
-Come il riverbero della Vita  
-Trovò la sua Spiegazione —
-
 
 
 <span class="atom-split" data-atom="1593_there_came_a_wind_like_a_bugle" data-title="1593. There came a Wind like a Bugle —" data-chapter="" data-kind="intro" data-tags="motif/storm,motif/wind,motif/nature,motif/bells,concept/the_sublime,concept/terror_and_horror,concept/the_natural_order,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1497,26 +833,6 @@ And much can go,
 And yet abide the World!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Venne un [[motifs/wind|Vento]] come una Tromba —  
-Fremette attraverso l'Erba  
-E un Verde Brivido sul Caldo  
-Passò così minaccioso  
-Sbarrammo le Finestre e le Porte  
-Come a uno [[archetypes/ghost|Spettro]] di Smeraldo —  
-L'elettrico Mocassino del Giudizio  
-In quello stesso istante passò —  
-Su una strana Folla di Alberi ansanti  
-E Staccionate fuggirono via  
-E Fiumi dove correvano le Case  
-Questo videro i vivi — quel Giorno —  
-La Campana nel campanile impazzita  
-Le notizie volanti disse —  
-Quanto può venire  
-E quanto andare,  
-E il Mondo tuttavia rimane!
-
 
 
 <span class="atom-split" data-atom="1617_to_try_to_speak_and_miss_the_way" data-title="1617. To try to speak, and miss the way" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,archetype/rebel,motif/clothing,concept/self_and_soul,concept/wonder_and_gratitude,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1532,18 +848,6 @@ Would help him to conceal,
 Not subjugate, the Mutineer  
 Whose title is "the [[motifs/soul|Soul]]."
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Tentare di parlare, e smarrire la via  
-E domandarla alle [[motifs/tears|Lacrime]],  
-È la dolce [[concepts/poverty|povertà]] della Gratitudine,  
-I Cenci che essa indossa —  
-
-Un Abito migliore, se lo possedesse,  
-L'aiuterebbe a celare,  
-Non a soggiogare, l'Ammutinato  
-Il cui titolo è "l'[[motifs/soul|Anima]]."
 
 
 
@@ -1563,20 +867,6 @@ What Exultation in the Woe —
 What Wine in the fatigue!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-"[[motifs/sea|Mar]] Rosso," davvero! Non parlarmi  
-Del purpureo Faraone —  
-Ho una Flotta a Occidente  
-Che trafiggerebbe le sue Colonne —  
-Candida, eppure di Gloria così fine  
-Che lungo tutta la Linea  
-È, o non è, divina —  
-L'Occhio domanda con un sospiro  
-Che la Terra sia così grande —  
-Quale Esultanza nel Dolore —  
-Quale Vino nella fatica!
-
 
 
 <span class="atom-split" data-atom="1649_a_cap_of_lead_across_the_sky" data-title="1649. A Cap of Lead across the sky" data-chapter="" data-kind="intro" data-tags="motif/storm,motif/winter,motif/light_and_dark,concept/the_sublime,concept/terror_and_horror,concept/doubt,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1593,18 +883,6 @@ A Thunder [[motifs/storm|storm]] combines the charms
 Of [[motifs/winter|Winter]] and of Hell.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Un Berretto di Piombo attraverso il cielo  
-Fu teso stretto e arcigno  
-Non potemmo trovare il possente Volto  
-La Figura s'era ritratta —  
-
-Un Gelo salì come da un cunicolo  
-Il nostro [[motifs/noon|mezzogiorno]] divenne un [[motifs/well|pozzo]]  
-Una [[motifs/storm|tempesta]] di Tuono combina gli incanti  
-Dell'[[motifs/winter|Inverno]] e dell'Inferno.
-
 
 
 <span class="atom-split" data-atom="l0410_mrs_edward_tuckerman_january_1884" data-title="To Mrs. Edward Tuckerman, January, 1884" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/tears,motif/the_soul,concept/wonder_and_gratitude,concept/inexpressibility,concept/self_and_soul,form/lyric,form/letter,cluster/wonder_and_gratitude,cluster/sublime,cluster/storm"></span>
@@ -1613,10 +891,3 @@ Dell'[[motifs/winter|Inverno]] e dell'Inferno.
 DEAR FRIEND:—
 
 To try to speak, and miss the way, And ask it of the [[motifs/tears|tears]], Is gratitude's sweet [[concepts/poverty|poverty]], The tatters that he wears. A better coat, if he possessed, Would help him to conceal, Not subjugate, the mutineer Whose title is “the [[motifs/soul|soul]].”
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico:—
-
-Cercare di parlare, ma sbagliare il modo. Chiederlo alle  lacrime. È questa la dolce „povertà“ della gratitudine, i brandelli che essa indossa. Un mantello migliore, se ne possedesse uno, gli aiuterebbe a nascondere. Non certo a sottomettere, quel ribelle il cui vero nome è “l’anima”.

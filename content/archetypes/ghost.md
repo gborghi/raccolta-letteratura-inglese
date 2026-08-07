@@ -19,6 +19,7 @@ tags:
 - [[works/shop-of-ghosts-(chesterton)|shop-of-ghosts (Chesterton)]]
 - [[works/tremendous-trifles-(chesterton)|Tremendous Trifles (Chesterton)]]
 - [[testi/coleridge/atomized/terror-and-horror-madness#014_anna_and_harland|ANNA AND HARLAND (Coleridge)]]
+- [[testi/coleridge/atomized/terror-and-horror-madness#041_the_complaint_of_ninathómafrom_the_same|THE COMPLAINT OF NINATHÓMA FROM THE SAME (Coleridge)]]
 - [[works/a-christmas-carol-(dickens)|A Christmas Carol (Dickens)]]
 - [[works/barnaby-rudge-(dickens)|Barnaby Rudge (Dickens)]]
 - [[works/the-chimes-(dickens)|The Chimes (Dickens)]]

@@ -25,18 +25,6 @@ Upon the Forehead of a Bust —
 That knows — it cannot see —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La differenza tra [[concepts/despair|Disperazione]]  
-E [[concepts/fear|Paura]] — è come Quella  
-Tra l'istante di un Naufragio  
-E quando il Naufragio è stato —  
-
-La Mente è liscia — nessun Moto —  
-Appagata come l'Occhio  
-Sulla Fronte di un Busto —  
-Che sa — di non poter vedere —
-
 
 
 <span class="atom-split" data-atom="0341_after_great_pain_a_formal_feeling_comes" data-title="341. After great pain, a formal feeling comes —" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_grave,motif/winter,motif/memory,concept/grief_and_loss,concept/melancholy,concept/self_and_soul,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -59,24 +47,6 @@ As Freezing persons, recollect the [[motifs/snow|Snow]] —
 First — Chill — then Stupor — then the letting go —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Dopo una grande [[motifs/pain|pena]], viene un sentire formale —  
-I Nervi siedono cerimoniosi, come Tombe —  
-Il rigido Cuore chiede se fu Lui, a patire,  
-E Ieri, o Secoli fa?  
-
-I Piedi, meccanici, girano in tondo —  
-Un Legnoso Cammino  
-Di Terra, o d'Aria, o di Nulla —  
-Fatti incuranti,  
-Un appagamento di Quarzo, come pietra —  
-
-Questa è l'Ora di Piombo —  
-Ricordata, se le si sopravvive,  
-Come gli Assiderati, rammentano la [[motifs/snow|Neve]] —  
-Prima — il Freddo — poi lo Stupore — poi il lasciare andare —
-
 
 
 <span class="atom-split" data-atom="0379_rehearsal_to_ourselves" data-title="379. Rehearsal to Ourselves" data-chapter="" data-kind="intro" data-tags="motif/swords_weapons,motif/memory,concept/grief_and_loss,concept/pain,concept/melancholy,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -92,18 +62,6 @@ Because We [[motifs/love|love]] the Wound
 The Dirk Commemorate — Itself  
 Remind Us that we died.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Prova a Noi stessi  
-Di una Delizia Sottratta —  
-Concede una Beatitudine come l'Assassinio —  
-Onnipotente — Acuta —  
-
-Non lasceremo cadere il Pugnale —  
-Perché Noi [[motifs/love|amiamo]] la Ferita  
-Il Pugnale Commemora — Esso stesso  
-Ci Ricorda che siamo morti.
 
 
 
@@ -131,28 +89,6 @@ Has ministered before Him —
 There's no Vitality.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-C'è un Languore della Vita  
-Più imminente del [[motifs/pain|Dolore]] —  
-È il Successore del [[motifs/pain|Dolore]] — Quando l'[[motifs/soul|Anima]]  
-Ha sofferto quanto può —  
-
-Un Torpore — si diffonde —  
-Un Fosco come Nebbia  
-Avvolge la Coscienza —  
-Come Brume — cancellano una Rupe.  
-
-Il Chirurgo — non impallidisce — al [[motifs/pain|dolore]]  
-Il suo Uso — è severo —  
-Ma digli che ha cessato di sentire —  
-La Creatura lì distesa —  
-
-E ti dirà — l'arte è tardi —  
-Un Più Possente di Lui —  
-Ha officiato prima di Lui —  
-Non c'è Vitalità.
-
 
 
 <span class="atom-split" data-atom="0458_like_eyes_that_looked_on_wastes" data-title="458. Like eyes that looked on Wastes —" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,motif/night,concept/melancholy,concept/spiritual_emptiness,concept/unrequited_love,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -179,28 +115,6 @@ Without the Other — Therefore —
 We perish — tho' We reign —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Come occhi che fissarono Deserti —  
-Increduli d'Altro  
-Che Vuoto — e ferma Desolazione —  
-Variata dalla [[motifs/night|Notte]] —  
-
-Solo Infiniti di Nulla —  
-Fin dove poteva vedere —  
-Così guardava il volto che guardavo —  
-Così guardava se stesso — Me —  
-
-Non gli offrii Aiuto —  
-Perché la Causa era Mia —  
-La Miseria un Patto  
-Tanto disperato — quanto divino —  
-
-Nessuna — sarebbe assolta —  
-Nessuna sarebbe [[characters/queen|Regina]]  
-Senza l'Altra — Perciò —  
-Periamo — pur regnando —
-
 
 
 <span class="atom-split" data-atom="0477_no_man_can_compass_a_despair" data-title="477. No Man can compass a Despair —" data-chapter="" data-kind="intro" data-tags="motif/the_road,motif/the_journey,concept/melancholy,concept/providence,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -221,23 +135,6 @@ Whose own — has just begun —
 His ignorance — the Angel  
 That pilot Him along —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Nessun Uomo può percorrere una [[concepts/despair|Disperazione]] —  
-Come attorno a una [[motifs/road|Strada]] senza Meta  
-Non più svelto di un Miglio per volta  
-Il Viaggiatore procede —  
-
-Inconsapevole dell'Ampiezza —  
-Inconsapevole che il [[motifs/sun|Sole]]  
-Stia tramontando sul Suo cammino —  
-Così esatto è Colui  
-
-Nel valutare la [[motifs/pain|Pena]] —  
-La cui — è appena cominciata —  
-La sua ignoranza — l'Angelo  
-Che Lo pilota lungo la via —
 
 
 
@@ -275,38 +172,6 @@ Or even a Report of Land —
 To justify — [[concepts/despair|Despair]].
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Non era [[motifs/death|Morte]], perché stavo in piedi,  
-E tutti i Morti, giacciono —  
-Non era [[motifs/night|Notte]], perché tutte [[The [[motifs/bells|Bells]]|le Campane]]  
-Cacciavano fuori le Lingue, per [[motifs/noon|Mezzogiorno]].  
-
-Non era [[motifs/frost|Gelo]], perché sulla mia Carne  
-Sentivo Scirocchi — strisciare —  
-Né [[motifs/fire|Fuoco]] — perché solo i miei piedi di Marmo  
-Potevano tenere fresco, un Presbiterio —  
-
-Eppure, sapeva, di tutti loro,  
-Le Figure che ho veduto  
-Composte in ordine, per la Sepoltura,  
-Mi ricordavano, la mia —  
-
-Come se la mia vita fosse piallata,  
-E adattata a una cornice,  
-E non potesse respirare senza chiave,  
-Ed era come Mezzanotte, un poco -  
-
-Quando tutto ciò che ticchettava — s'è fermato —  
-E lo Spazio fissa tutt'intorno —  
-O Brine spettrali — primi mattini d'[[motifs/autumn|Autunno]],  
-Revocano il Suolo Pulsante —  
-
-Ma, più di tutto, come il Caos - Senza sosta — freddo —  
-Senza una Possibilità, o Pennone —  
-O anche solo un Annuncio di Terra —  
-A giustificare — [[concepts/despair|la Disperazione]].
-
 
 
 <span class="atom-split" data-atom="0514_her_smile_was_shaped_like_other_smiles" data-title="514. Her smile was shaped like other smiles —" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/masks_disguise,concept/appearance_vs_reality,concept/melancholy,concept/grief_and_loss,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -321,17 +186,6 @@ And hold upon the Twig,
 Convulsive, while the Music broke —  
 Like Beads — among the Bog —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il suo sorriso aveva forma d'altri sorrisi —  
-Le Fossette vi correvano lungo —  
-Eppure feriva, come un Uccello  
-Che si levasse, per cantare,  
-Poi ricordasse una Pallottola, ricevuta —  
-E s'aggrappasse al Ramoscello,  
-Convulso, mentre la Musica si spezzava —  
-Come Perline — nella Palude —
 
 
 
@@ -359,28 +213,6 @@ Till He be justified by [[motifs/death|Death]] —
 This — is the Second Gain —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Avessi presunto di [[concepts/hope|sperare]] —  
-La perdita sarebbe stata per Me  
-Un Valore — per amor della [[concepts/greatness|Grandezza]] —  
-Come Giganti — andati via —  
-
-Avessi presunto di ottenere  
-Un Favore così remoto —  
-Il fallimento non fa che confermare la Grazia  
-In più remoto Infinito —  
-
-È fallimento — non di [[concepts/hope|Speranza]] —  
-Ma Confidente [[concepts/despair|Disperazione]] —  
-Che avanza su Liste Celesti —  
-Con fioco — Terrestre potere —  
-
-È Onore — sebbene io muoia —  
-Ché Quello nessun Uomo ottiene  
-Finché non sia giustificato dalla [[motifs/death|Morte]] —  
-Questo — è il Secondo Guadagno —
-
 
 
 <span class="atom-split" data-atom="0536_the_heart_asks_pleasure_first" data-title="536. The Heart asks Pleasure — first —" data-chapter="" data-kind="intro" data-tags="motif/death,motif/sleep,concept/mortality,concept/grief_and_loss,concept/melancholy,concept/providence,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -396,18 +228,6 @@ And then, if it should be
 The will of its Inquisitor,  
 The [[concepts/liberty|liberty]] to die.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il cuore chiede il piacere prima,  
-E poi, dispensa dal [[motifs/pain|dolore]] ;  
-E poi, quei piccoli lenimenti  
-Che attutiscono la [[concepts/suffering|sofferenza]] ;  
-
-E poi, andare a [[motifs/sleep|dormire]] ;  
-E poi, se tale fosse  
-Il volere del suo Inquisitore,  
-La [[concepts/liberty|libertà]] di morire.
 
 
 
@@ -467,60 +287,6 @@ Still fascinated to presume
 That Some — are like My Own —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Misuro ogni Dolore che incontro  
-Con stretti, indaganti, Occhi —  
-Mi [[concepts/wonder|chiedo]] se pesi come il Mio —  
-O abbia una taglia più Lieve.  
-
-Mi [[concepts/wonder|chiedo]] se Lo portino da tanto —  
-O se sia appena cominciato —  
-Non saprei dire la Data del Mio —  
-Sembra così antica una [[motifs/pain|pena]] —  
-
-Mi [[concepts/wonder|chiedo]] se faccia male vivere —  
-E se Debbano sforzarsi —  
-E se — potendo scegliere fra le due —  
-Non sarebbe — morire —  
-
-Noto che Alcuni — a lungo pazienti —  
-Alla fine, rinnovano il sorriso —  
-Un'imitazione di una Luce  
-Che ha così poco Olio —  
-
-Mi [[concepts/wonder|chiedo]] se quando gli Anni avranno ammassato —  
-Qualche Migliaio — sul Danno —  
-Che presto li ferì — un tale lasso  
-Possa dar loro Balsamo —  
-
-O se seguiterebbero a dolere ancora  
-Per Secoli di Nervi —  
-Illuminati a un più vasto [[motifs/pain|Dolore]] -  
-In Contrasto con l'[[motifs/love|Amore]] —  
-
-Gli Afflitti — sono molti — mi si dice —  
-588  
-
-Vi è la più varia Causa —  
-La [[motifs/death|Morte]] — è una sola — e viene una volta sola —  
-E inchioda solo gli occhi —  
-
-C'è Dolore di Bisogno — e Dolore di Freddo —  
-Una specie che chiamano "[[concepts/despair|Disperazione]]" —  
-C'è l'Esilio dagli Occhi natii —  
-In vista dell'Aria Natia —  
-
-E benché io non possa indovinarne il genere —  
-Esattamente — pure a me  
-Un pungente Conforto procura  
-Nel passare il Calvario —  
-
-Notare le fogge — della [[motifs/cross|Croce]] —  
-E come per lo più si portano —  
-Ancora affascinata a presumere  
-Che Alcune — siano come la Mia —
-
 
 
 <span class="atom-split" data-atom="0572_delight_becomes_pictorial" data-title="572. Delight — becomes pictorial —" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/light_and_dark,concept/beauty,concept/paradox,concept/melancholy,form/epigram,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -536,18 +302,6 @@ In Amber — lies —
 Approached — the Amber flits — a little —  
 And That's — the Skies —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-La Delizia — si fa pittorica —  
-Se contemplata attraverso il [[motifs/pain|Dolore]] —  
-Più bella — perché impossibile  
-Di ogni guadagno —  
-
-La Montagna — a una data distanza —  
-Nell'Ambra — giace —  
-Avvicinata — l'Ambra guizza — un poco —  
-E Quelli — sono i Cieli —
 
 
 
@@ -574,27 +328,6 @@ Winces with delight
 Are Drums too near —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Inconcepibilmente solenne!  
-Le Cose fatte gaie  
-Trafiggono — per la Pressione stessa  
-delle Immagini —  
-
-Le loro Parate lontane — si ordinano sull'occhio  
-Con una muta Pompa —  
-Un supplice Corteo —  
-
-Le Bandiere, sono spettacolo fiero —  
-Ma nessun Occhio vero  
-Mai passò accanto a Una —  
-Con fermezza —  
-
-La Musica è trionfante —  
-Ma l'Orecchio fine  
-Trasale di delizia  
-Se i Tamburi sono troppo vicini —
-
 
 
 <span class="atom-split" data-atom="0584_it_ceased_to_hurt_me_though_so_slow" data-title="584. It ceased to hurt me, though so slow" data-chapter="" data-kind="intro" data-tags="concept/grief_and_loss,concept/pain,concept/suffering,concept/memory_and_time,concept/melancholy,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -619,27 +352,6 @@ Nor what consoled it, I could trace —
 Except, whereas 'twas Wilderness —  
 It's better — almost Peace —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Cessò di farmi male, ma così piano  
-Che non sentii l'Angoscia andarsene —  
-Ma seppi solo guardando indietro —  
-Che qualcosa — aveva intorpidito la Traccia —  
-
-Né quando mutò, saprei dire,  
-Perché l'avevo indossata, ogni giorno,  
-Costante come il vestitino d'Infanzia —  
-Che appendevo al Gancio, la [[motifs/night|notte]].  
-
-Ma non il Dolore — che si annidava stretto  
-Come aghi — che le dame premono piano  
-Sulle Guance dei Cuscini —  
-Perché restino al loro posto —  
-
-Né cosa lo consolò, saprei rintracciare —  
-Se non che, dov'era Deserto —  
-Ora è meglio — quasi Pace —
 
 
 
@@ -677,38 +389,6 @@ Have sobbed ourselves almost to [[motifs/sleep|sleep]],
 Our only Lullaby —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Piansi per la Pietà — non per il [[motifs/pain|Dolore]] —  
-Udii una Donna dire  
-"Povera [[archetypes/child|Bimba]]" — e qualcosa nella sua voce  
-Mi convinse colpevole — di me —  
-
-Così a lungo venni meno, a me stessa  
-Che pareva la via comune,  
-E Salute, e Riso, cose Curiose —  
-Da guardare, come un Balocco —  
-
-Udire talvolta che i "Ricchi" comprano  
-E vedere il Pacco avvolto —  
-E portato, supponevo — in Cielo,  
-Per bambini, fatti d'Oro —  
-
-Ma non da toccare, o desiderare,  
-O pensare, con un sospiro —  
-E questo e quello — sarebbe stato mio,  
-Avesse [[characters/god|Dio]] voluto altrimenti.  
-
-Vorrei sapere il nome di quella Donna —  
-Così quando passa da queste parti,  
-Da trattenere la mia vita, e tapparmi le orecchie  
-Per [[concepts/fear|paura]] di udirla dire  
-
-Che è "spiacente che io sia morta" — di nuovo —  
-Proprio quando la [[motifs/grave|Tomba]] ed io —  
-Ci siamo singhiozzate quasi fino al [[motifs/sleep|sonno]],  
-Nostra unica Ninnananna —
-
 
 
 <span class="atom-split" data-atom="0589_the_night_was_wide_and_furnished_scant" data-title="589. The Night was wide, and furnished scant" data-chapter="" data-kind="intro" data-tags="concept/alienation,concept/desire_and_longing,concept/melancholy,concept/nostalgia,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -740,33 +420,6 @@ Unto the Sofa opposite —
 The Sleet — than May, no Thee —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La [[motifs/night|Notte]] era vasta, e arredata scarna  
-Con una sola Stella —  
-Che ogni volta che incontrava una Nube —  
-Si spegneva da sé — per [[concepts/fear|paura]] —  
-
-Il [[motifs/wind|Vento]] inseguiva il piccolo Cespuglio —  
-E scacciava le [[motifs/leaves|Foglie]]  
-Lasciate da Novembre — poi s'arrampicava  
-E si crucciava nelle Gronde —  
-
-Nessuno Scoiattolo usciva —  
-I passi tardivi d'un Cane  
-Come Felpa intermittente, si udivano  
-Giù per la Strada vuota —  
-
-Tastare se le Imposte tengono —  
-E più vicino al [[motifs/fire|fuoco]] —  
-Accostare la sua piccola Sedia a Dondolo —  
-E rabbrividire per i Poveri —  
-
-Gentile Compito della Massaia —  
-Quanto più gradevole — disse lei  
-Al Sofà di fronte —  
-Il Nevischio — che Maggio, senza Te —
-
 
 
 <span class="atom-split" data-atom="0599_there_is_a_pain_so_utter" data-title="599. There is a pain — so utter —" data-chapter="" data-kind="intro" data-tags="concept/pain,concept/suffering,concept/melancholy,concept/self_and_soul,concept/memory_and_time,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -781,17 +434,6 @@ As one within a Swoon —
 Goes safely — where an open eye —  
 Would drop Him — Bone by Bone.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-C'è un [[motifs/pain|dolore]] — così assoluto —  
-Che inghiotte la sostanza —  
-Poi copre l'Abisso di Trance —  
-Così la [[motifs/memory|Memoria]] può camminare  
-Intorno — attraverso — sopra —  
-Come chi dentro un Deliquio —  
-Va sicuro — dove un occhio aperto —  
-Lo farebbe cadere — Osso per Osso.
 
 
 
@@ -819,28 +461,6 @@ To gad my little Being out —
 And not begin — again —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Avrebbe affamato un Moscerino —  
-vivere piccolo quanto me —  
-eppure ero una [[archetypes/child|Bimba]] viva —  
-con la necessità del Cibo  
-
-su di me — come un Artiglio —  
-non potevo strapparla via  
-più di quanto potessi blandire una Sanguisuga —  
-o costringere un [[motifs/dragon|Drago]] — a muoversi —  
-
-Non avevo — come il Moscerino —  
-il privilegio di volare  
-e cercarmi un Pranzo da sola —  
-quanto più potente Lui — di me —  
-
-Né come Lui — l'Arte  
-sul Vetro della [[motifs/window|Finestra]]  
-di sbattere via il mio piccolo Essere —  
-e non ricominciare — di nuovo —
-
 
 
 <span class="atom-split" data-atom="0614_in_falling_timbers_buried" data-title="614. In falling Timbers buried —" data-chapter="" data-kind="intro" data-tags="concept/mortality,concept/suffering,concept/grace_and_redemption,concept/terror_and_horror,concept/paradox,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -867,28 +487,6 @@ But there is no Gratitude
 Like the Grace — of [[motifs/death|Death]] —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Sepolto in Travi crollate —  
-Respirava un Uomo —  
-Fuori — le vanghe — all'opera —  
-I Polmoni — dentro —  
-
-Poteva Lui — sapere — che Lo cercavano —  
-Potevano Loro — sapere — che respirava —  
-Orrida Parete di Sabbia —  
-Nessuno dei due — poteva udirsi —  
-
-Mai rallentarono gli Scavatori —  
-Ma quando le Vanghe ebbero finito —  
-Oh, Ricompensa dell'Angoscia,  
-Era morente — Allora —  
-
-Molte Cose — sono infruttuose —  
-È una Terra che Confonde —  
-Ma non c'è Gratitudine  
-Come la Grazia — della [[motifs/death|Morte]] —
-
 
 
 <span class="atom-split" data-atom="0618_at_leisure_is_the_soul" data-title="618. At leisure is the Soul" data-chapter="" data-kind="intro" data-tags="motif/childhood,concept/grief_and_loss,concept/self_and_soul,concept/suffering,concept/melancholy,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -904,18 +502,6 @@ But just the placing Pins —
 Or humblest Patchwork — Children do —  
 To Help its Vacant Hands —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-In ozio è l'[[motifs/soul|Anima]]  
-Che riceve un Colpo che Stordisce —  
-L'Ampiezza della Vita — davanti le si stende  
-Senza nulla da fare —  
-
-Ti prega di darle Lavoro —  
-Ma solo il disporre Spilli —  
-O il più umile Rattoppo — da Bambini —  
-Per Aiutare le sue Mani Vuote —
 
 
 
@@ -933,18 +519,6 @@ Its Past — enlightened to perceive
 New Periods — of [[motifs/pain|Pain]].
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il [[motifs/pain|Dolore]] — ha un Elemento di Vuoto —  
-Non sa ricordare  
-Quando cominciò — o se vi fu  
-Un [[motifs/time|tempo]] in cui non era —  
-
-Non ha Futuro — che se stesso —  
-I suoi regni Infiniti contengono  
-Il suo Passato — illuminato a percepire  
-Nuovi Periodi — di [[motifs/pain|Dolore]].
-
 
 
 <span class="atom-split" data-atom="0705_suspense_is_hostiler_than_death" data-title="705. Suspense — is Hostiler than Death —" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,concept/mortality,concept/immortality,concept/melancholy,form/lyric,form/epigram,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -960,18 +534,6 @@ But just anew to die —
 Annihilation — plated fresh  
 With [[concepts/immortality|Immortality]] —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-L'Attesa — è più Ostile della [[motifs/death|Morte]] —  
-La [[motifs/death|Morte]] — per quanto Vasta,  
-È Solo [[motifs/death|Morte]], e non può crescere —  
-L'Attesa — non conclude —  
-
-Ma perisce — per vivere di nuovo —  
-Ma solo di nuovo per morire —  
-Annientamento — placcato a nuovo  
-D'[[concepts/immortality|Immortalità]] —
 
 
 
@@ -999,28 +561,6 @@ The Sailor doesn't know the Stroke -
 Until He's past the [[motifs/pain|Pain]] -
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Lo lascio a volte, per un Attimo —  
-Il Pensiero d'esser viva —  
-Anonimo Diletto saperlo —  
-E più Folle — concepirlo —  
-
-Consola una Pena sì mostruosa  
-Che se lacerasse tutto il Giorno,  
-Senza un istante di Tregua —  
-Parrebbe troppo lontano — Morire —  
-
-Il Delirio - distrae il Misero  
-Per Cui nitrisce il Patibolo -  
-Il Moto dell'Amaca culla le Teste  
-Così prossime al Paradiso -  
-
-Uno Scoglio - strisciato lieve dal [[motifs/sea|Mare]]  
-Divora la Fragile Linea -  
-Il Marinaio non sa il Colpo -  
-Finché non è oltre il [[motifs/pain|Dolore]] -
-
 
 
 <span class="atom-split" data-atom="0761_from_blank_to_blank" data-title="761. From Blank to Blank —" data-chapter="" data-kind="intro" data-tags="topos/the_quest,motif/the_journey,motif/light_and_dark,concept/despair,concept/alienation,concept/melancholy,concept/suffering,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1038,20 +578,6 @@ Indefinite disclosed —
 I shut my eyes — and groped as [[motifs/well|well]]  
 'Twas lighter — to be Blind —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Da Vuoto a Vuoto —  
-Una Via senza Filo  
-Spinsi piedi Meccanici —  
-Fermarmi — o perire — o avanzare —  
-Ugualmente indifferente —  
-
-Se un termine raggiunsi  
-Termina oltre  
-Indefinito dischiuso —  
-Chiusi gli occhi — e brancolai [[motifs/well|ugualmente]]  
-Era più chiaro — esser Cieca —
 
 
 
@@ -1074,23 +600,6 @@ Than dying half — then rallying
 For consciouser Eclipse —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il Tutto non venne in una volta —  
-Fu Assassinio per gradi —  
-Una Stoccata — e poi per la Vita una possibilità —  
-La Beatitudine di cauterizzare —  
-
-Il Gatto concede tregua al Topo  
-Lo allenta dai suoi denti  
-Quanto basta perché la [[concepts/hope|Speranza]] illuda —  
-Poi lo schiaccia a [[motifs/death|morte]] —  
-
-È il premio della Vita — morire —  
-Più contenti se in una volta —  
-Che morire a metà — poi riaversi  
-Per più consapevole Eclissi —
-
 
 
 <span class="atom-split" data-atom="0770_i_lived_on_dread" data-title="770. I lived on Dread —" data-chapter="" data-kind="intro" data-tags="motif/swords_weapons,concept/fear,concept/despair,concept/self_and_soul,concept/paradox,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1107,19 +616,6 @@ A [[concepts/fear|Fear]] will urge it where
 To go without the Sceptre's aid  
 Were Challenging [[concepts/despair|Despair]].
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Vivevo di Terrore —  
-Per Quelli che conoscono  
-Lo Stimolo che c'è  
-Nel Pericolo — Ogni altro impulso  
-È inerte — e senza Vita —  
-
-Come fosse uno Sprone — sull'[[motifs/soul|Anima]] —  
-Una [[concepts/fear|Paura]] la incalza dove  
-Andare senza l'aiuto dello Scettro  
-Sarebbe Sfidare la [[concepts/despair|Disperazione]].
 
 
 
@@ -1157,38 +653,6 @@ Is [[concepts/nature|Nature]]'s only Pharmacy
 For Being's Malady —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Più Severo Servizio di me stessa  
-Io — m'affrettai a esigere  
-Per colmare il Vuoto tremendo  
-Che la tua vita s'era lasciata dietro —  
-
-Tormentai la [[concepts/nature|Natura]] con le mie Ruote  
-Quando le Sue avevano cessato di girare —  
-Quando lei aveva riposto il Suo Lavoro  
-Il mio era appena cominciato.  
-
-Mi sforzai di stancare Cervello e Ossa —  
-Di vessare fino alla fatica  
-Lo scintillante Corteo dei nervi —  
-D'ingombrare la Vitalità  
-
-Fino al torpido conforto che ottiene  
-Chi ripone un Capo  
-Di cui conosceva i Capelli —  
-E dimentica il colore del Giorno —  
-
-L'Afflizione non volle placarsi —  
-La Tenebra si serrò salda  
-Come se ogni mio stratagemma  
-Fosse stato a confermare la Mezzanotte —  
-
-Nessun Farmaco per la Coscienza — esiste —  
-L'alternativa di morire  
-È l'unica Farmacia della [[concepts/nature|Natura]]  
-Per il Male dell'Essere —
-
 
 
 <span class="atom-split" data-atom="0963_a_nearness_to_tremendousness" data-title="963. A nearness to Tremendousness —" data-chapter="" data-kind="intro" data-tags="concept/suffering,concept/the_sublime,concept/melancholy,concept/paradox,concept/self_and_soul,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1204,18 +668,6 @@ Affliction cannot stay
 In Acres — Its Location  
 Is Illocality —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Una vicinanza alla Tremendità —  
-Un'Agonia procura —  
-L'Afflizione percorre l'Illimitatezza —  
-Vicinanza alle Leggi  
-
-Quieto Sobborgo dell'Appagamento —  
-L'Afflizione non può stare  
-In Acri — la Sua Sede  
-È Illocalità —
 
 
 
@@ -1243,28 +695,6 @@ Then — seesawing — coolly — on it —
 Trying if it split —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Derubata dalla [[motifs/death|Morte]] — ma fu facile —  
-All'Occhio che veniva meno  
-Potei serbare l'ultimo Bagliore —  
-Derubata dalla [[concepts/liberty|Libertà]]  
-
-Per le Sue Difese Giugulari —  
-Anche questo, sopportai —  
-Cenno di Gloria — lo concedeva —  
-Al Prode Beneamato —  
-
-Frode della Distanza — Frode del Pericolo,  
-Frode della [[motifs/death|Morte]] — da patire —  
-È Munificenza — rispetto alla Vaga  
-Calamità dell'Attesa —  
-
-Che punta il nostro intero Possesso  
-Sull'esito d'un Capello —  
-Poi — in altalena — fredda — vi oscilla —  
-Provando se si spezzi —
-
 
 
 <span class="atom-split" data-atom="0979_this_merit_hath_the_worst" data-title="979. This Merit hath the worst —" data-chapter="" data-kind="intro" data-tags="motif/animals,concept/suffering,concept/fate_and_free_will,concept/paradox,form/epigram,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1281,18 +711,6 @@ The Deer attracts no further
 Than it resists — the Hound —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Questo Merito ha il peggio —  
-Non può essere di nuovo —  
-Quando il Fato ha schernito per l'ultima volta  
-E scagliato la Sua Pietra più lontana —
-
-Il Mutilato può sostare, e respirare,  
-E guardarsi intorno al sicuro —  
-Il Cervo non attrae più in là  
-Di quanto resiste — il Segugio —
-
 
 
 <span class="atom-split" data-atom="0985_the_missing_all_prevented_me" data-title="985. The Missing All — prevented Me" data-chapter="" data-kind="intro" data-tags="motif/sun,concept/grief_and_loss,concept/spiritual_emptiness,concept/alienation,concept/melancholy,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1307,17 +725,6 @@ Or [[motifs/sun|Sun]]'s extinction, be observed —
 Could lift my Forehead from my work  
 For Curiosity.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il Mancare Tutto — Mi impedì  
-Di mancare Cose minori.  
-Se nulla di più grande che d'un Mondo  
-Il Distacco da un Cardine —  
-O l'estinzione del [[motifs/sun|Sole]], fosse osservato —  
-Non era così grande che Io  
-Potessi alzare la Fronte dal mio lavoro  
-Per Curiosità.
 
 
 
@@ -1350,33 +757,6 @@ And every limit a Decade —
 I'll shiver, satisfied.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Ho lasciato cadere il Cervello — La mia [[motifs/soul|Anima]] è intorpidita —  
-Le Vene che solevano correre  
-Si arrestano paralizzate — è Paralisi  
-Resa più perfetta nella pietra  
-
-La Vitalità è Scolpita e fredda.  
-Il mio nervo giace nel Marmo —  
-Una Donna che Respirava  
-Ieri — Dotata di Paradiso.  
-
-Non muta — avevo una specie che si muoveva —  
-Un Senso che colpiva e scuoteva —  
-Istinti di [[motifs/dance|Danza]] — una parte di capriola —  
-Un'Attitudine da Uccello —  
-
-Chi forgiò Carrara in me  
-E cesellò tutta la mia melodia  
-Fosse Stregoneria — fosse [[motifs/death|Morte]] —  
-Ho ancora una possibilità di tendere  
-
-All'Essere, in qualche luogo — Moto — Respiro —  
-Pur Secoli più in là,  
-E ogni limite un Decennio —  
-Rabbrividirò, soddisfatta.
-
 
 
 <span class="atom-split" data-atom="1049_pain_has_but_one_acquaintance" data-title="1049. Pain has but one Acquaintance" data-chapter="" data-kind="intro" data-tags="motif/death,concept/suffering,concept/mortality,form/epigram,character/death_personified,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1392,18 +772,6 @@ By just a Second's right —
 [[motifs/death|Death]] tenderly assists Him  
 And then absconds from Sight.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-[[motifs/pain|Il Dolore]] non ha che una Conoscenza  
-Ed è la [[motifs/death|Morte]] —  
-L'uno per l'altra  
-Società a sufficienza.  
-
-[[motifs/pain|Il Dolore]] è il Socio più Giovane  
-Per il diritto d'un solo Secondo —  
-La [[motifs/death|Morte]] teneramente Lo assiste  
-E poi si dilegua dalla Vista.
 
 
 
@@ -1432,29 +800,6 @@ Until the tender Carpenter
 Perpetual nail it down —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Una grande [[concepts/hope|Speranza]] cadde  
-Non udisti rumore  
-La Rovina era dentro  
-Oh scaltro naufragio che non narrò storia  
-E non lasciò entrare Testimone  
-
-La mente fu costruita per possente Carico  
-Progettata per l'occasione tremenda  
-Quante volte naufraga in [[motifs/sea|Mare]]  
-In apparenza, sulla Terra  
-
-Un non ammettere la ferita  
-Finché si fece così larga  
-Che tutta la mia Vita vi era entrata  
-E c'erano abissi accanto  
-
-Un chiudersi del semplice coperchio  
-Che si apriva al [[motifs/sun|sole]]  
-Finché il tenero Falegname  
-Perpetuo non lo inchiodi —
-
 
 
 <span class="atom-split" data-atom="1243_safe_despair_it_is_that_raves" data-title="1243. Safe Despair it is that raves —" data-chapter="" data-kind="intro" data-tags="motif/death,concept/melancholy,concept/grief_and_loss,concept/self_and_soul,concept/paradox,form/aphorism,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1470,18 +815,6 @@ In the Front of Trouble —
 [[motifs/love|Love]] is one, not aggregate —  
 Nor is Dying [[topoi/double|double]] —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Sicura [[concepts/despair|Disperazione]] è quella che delira —  
-L'Agonia è frugale.  
-Si ripone severa  
-Per la propria lettura.  
-
-Presidiata nessuna [[motifs/soul|Anima]] può essere  
-Al Fronte del Tormento —  
-L'[[motifs/love|Amore]] è uno, non aggregato —  
-Né il Morire è [[topoi/double|doppio]] —
 
 
 
@@ -1499,18 +832,6 @@ And mention to my Horses
 The need is not of me —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Conosco l'Attesa — incede così brusca  
-E si volge via così debole —  
-Inoltre — l'Attesa è di buon vicinato  
-Quando passo a cavallo —  
-
-È sempre alla [[motifs/window|Finestra]]  
-Benché da poco io scorga  
-E dica ai miei Cavalli  
-Il bisogno non è di me —
-
 
 
 <span class="atom-split" data-atom="1299_delights_despair_at_setting" data-title="1299. Delight's Despair at setting" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/desire,motif/sun,concept/joy,concept/melancholy,concept/paradox,form/lyric,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1527,18 +848,6 @@ For the Authentic orbit
 Of its Anterior [[motifs/sun|Sun]].
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La [[concepts/despair|Disperazione]] della Delizia al tramonto  
-È che la Delizia è meno  
-Della [[concepts/longing|Brama]] sufficiente  
-Che così impoverisce.  
-
-Il Perielio dell'Incanto  
-Spesso è stato scambiato  
-Per l'orbita Autentica  
-Del suo [[motifs/sun|Sole]] Anteriore.
-
 
 
 <span class="atom-split" data-atom="l0098_mrs_anthon" data-title="To Mrs. Anthon" data-chapter="" data-kind="intro" data-tags="motif/drums_and_bugles,motif/letters_writing,concept/friendship,concept/death,concept/endurance,form/letter,histref/american_civil_war,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1550,14 +859,6 @@ The drums keep on for the still man—but Emily must stop.
 
 [[motifs/love|Love]] of Fanny and Lou.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-, Il Dottore mi lascerà andare lunedì della settimana del Ringraziamento. Vuole vedermi [[characters/sunday|)domenica]], quindi non posso andare prima. [[motifs/love|Amore]] per le perle di Middletown. Scriverò a E dopo martedì, quando andrò dal Dottore. Grazie per la sua dolce lettera.
-
-I tamburi continuano a suonare per l’uomo immobile, ma Emily deve fermarsi.
-
-[[motifs/love|Amore]] tra Fanny e Lou.
 
 
 
@@ -1571,14 +872,6 @@ Dear L——, shall I enclose the slips, or delay till father? Vinnie advises th
 Be pleased you have no cat to detain from justice. Ours have taken meats, and the wife of the “general [[settings/court|court]]” is trying to lay them out, but as she has but two wheels and they have four, I would accept their chances. Kitties eat kindlings now. Vinnie thinks they are “cribbers.” I wish I could make you as long a call as De Quincey made North, but that morning cannot be advanced.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CARI BAMBINI, —Il padre è malato a [[motifs/home|casa]]. Penso che si tratti della “Legislatura” che reagisce contro una costituzione altrimenti obbediente. Maggie è malata da Tom: un mix di raffreddore e superstizione riguardo alla febbre. Il suo “nemico” è anch’egli malato. E c’è anche la [[concepts/longing|brama]] della terra promessa, di cui però non c’è alcun surplus, “[[characters/apollyon|Apollione]]” e il “Diavolo” perdono ogni rilievo al confronto di [[characters/lavinia|)Lavinia]] e me, “Come è il tuo giorno, così sarà anche la tua vita, ” Possiamo tutti comprendere quell’uomo che voleva cavalcare un cavallo roano fino all’esecuzione. Diceva che era un colore agile. E che così tutto sarebbe finito più in fretta.
-
-Caro L——, devo allegare questi documenti ora, o aspettare che arrivi papà? Vinnie consiglia di aspettare. Di solito preferisco la prima opzione; quelle seconde mi sembrano come la mamma morta dell’[[archetypes/hero|eroe]] di Dickens, “troppo lontana nel tempo” per rischiarle. Ti ricordi quei “a volte” dell’[[motifs/childhood|infanzia]], che, in realtà, non sono mai esistiti?...
-
-Sii contento di non avere un gatto che possa ostacolare la giustizia. I nostri hanno preso della carne, e la moglie del “generale del tribunale” sta cercando di disporla in modo ordinato. Ma poiché lei ha solo due ruote mentre loro ne hanno quattro, direi che le loro possibilità siano piuttosto scarse. I gattini ora mangiano anche i legnetti. Vinnie pensa che siano dei “voraci”. Vorrei poterti chiamare per tanto tempo quanto De Quincey chiamò North. Ma quella mattina non può essere anticipata.
-
 
 
 <span class="atom-split" data-atom="l0345_mr_f_d_clark" data-title="To Mr. F. D. Clark" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/death,concept/friendship,concept/death,concept/suffering,form/letter,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1586,10 +879,6 @@ Sii contento di non avere un gatto che possa ostacolare la giustizia. I nostri h
 
 This is the last [[forms/letter|letter]] to Mr. Clark, and upon hearing of his farther illness, she wrote his brother:—
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Questa è l’ultima [[forms/letter|lettera]] indirizzata al signor Clark; appresa la gravità della sua malattia, lei scrisse a suo fratello:—
 
 
 
@@ -1605,16 +894,6 @@ I [[concepts/hope|hope]] you are quite [[motifs/well|well]], and am sure we some
 With sweet remembrance for your niece, of whom my sister speaks,
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, — Il piccolo pacchetto contenente nettare si è aperto da solo, nonostante le sue mani siano fragili come quelle di un [[archetypes/child|bambino]].
-
-Non riusciva a credere che fossero veri finché non ne nascosi uno nella sua bocca, il che la convinse in parte. Mi chiede di ringraziarti con affetto. L’[[motifs/love|amore]] dei suoi amici è l’unica cosa che le rimane della sua vita piena di dolore, e vi si aggrappa timidamente.
-
-Spero che tu stia bene, e sono sicuro che a volte pensiamo l’uno all’altro, legati da quel simbolo sacro: una perdita reciproca.
-
-Con teneri ricordi per tua nipote, di cui mia sorella parla…
-
 
 
 <span class="atom-split" data-atom="l0444_mrs_henry_hills_january_1879" data-title="To Mrs. Henry Hills, January, 1879?" data-chapter="" data-kind="intro" data-tags="motif/disease_contagion,concept/friendship,concept/charity,concept/suffering,form/letter,cluster/melancholy,cluster/suffering,cluster/pain_and_suffering"></span>
@@ -1622,10 +901,6 @@ Con teneri ricordi per tua nipote, di cui mia sorella parla…
 
 Our gentle neighbor must have known that we did not know she was ill, or we should immediately have inquired for her.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il nostro gentile vicino doveva sapere che non eravamo a conoscenza del suo malanno, altrimenti avremmo sicuramente chiesto notizie di lei immediatamente.
 
 
 
@@ -1641,16 +916,3 @@ I [[concepts/fear|fear]] you may need the papers, and ask you to claim them imme
 I trust you are sharing this most sweet climate with Mrs. Emerson and yourself, than which remembrance only is more Arabian.
 
 Vinnie brings her [[motifs/love|love]], and her sister what gratitude.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, —mi alzo dal mio letto per raggiungere la tua mano e ringraziare il suo contenuto sacro; intendo conservarlo, non condividerlo, perché sono ancora debole.
-
-Quel piccolo pacchetto è rimasto accanto a me, senza osare essere aperto, o forse Vinnie non ha avuto il coraggio di darmelo. Un rifiuto sacro che non dimenticherò mai.
-
-[[concepts/fear|Temo]] che possiate aver bisogno di questi documenti e vi chiedo di richiederli immediatamente. Vorreste riceverli?
-
-Spero che condividiate questa meravigliosa atmosfera sia con la signora Emerson che con voi stesso; un ricordo del genere è davvero qualcosa di davvero “arabo”.
-
-Vinnie porta con sé il suo [[motifs/love|amore]], mentre sua sorella prova una profonda gratitudine.

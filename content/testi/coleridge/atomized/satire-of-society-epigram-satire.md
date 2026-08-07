@@ -57,50 +57,6 @@ On empty Trivets she bids fancied Kettles boil!   40
 1790.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-O Musa che poco fa cantasti l’altrui [[motifs/pain|pena]],  
-volgi a domestici dolori il tuo destriero nero come carbone!  
-Con passi lentissimi deve andare il tuo destriero funebre,  
-chinando il capo in tutta la pompa del lutto:  
-spargi all’intorno ogni erba scura e mortale,   5  
-e lascia che il [[forms/dirge|canto funebre]] [[concepts/melancholy|malinconico]] si lagni,  
-(mentre i Pipistrelli strideranno e i Cani correranno ululando)  
-il bollitore è rovinato e Coleridge è finito!  
-I vostri allegri canti, grilli invisibili, cessate!  
-canti di dolore occupino le vostre menti mutate!   10  
-Ché colui che cantava in risposta al vostro lai,  
-nell’[[motifs/time|ora]] in cui le gioiose bolle prendevano a giocare,  
-il fuligginoso garzone ha sentito la rabbia feroce del [[motifs/fire|fuoco]]; —  
-sì, se n’è andato, e tutti i miei guai crescono;  
-udii l’[[motifs/water|acqua]] uscire dalla ferita — 15  
-Mai più il Tè spanderà intorno i suoi vapori fragranti!  
-O Dea amatissima! Delizioso Tè!  
-Che rende, a te paragonata, la Vite che fa impazzire?  
-Dolce potere! che sai spandere il calmo diletto,  
-e prolungare la gioia pura fino a mezza [[motifs/night|notte]]!   20  
-Ah! devo rinunciare a tutte le tue varie dolcezze?  
-Avvolta stretta nel dolore vedo la tua forma;  
-mai più stenderai le tue braccia volenterose,  
-a ricevere il fervente Giove, e cedergli tutte le tue grazie!  
-Come cadono in basso i potenti oppressi dal Fato! — 25  
-Forse, o Bollitore! tu da sprezzante punta di piede  
-rudemente spinto a ignobile posto con lamentoso fracasso,  
-potrai arrugginire oscuro fra mucchi di volgare latta; —  
-come se nessuna gioia m’avesse mai preso il petto  
-quando dal tuo becco i getti volavano ad arco, — 30  
-come se, in infusione, tu mai avessi saputo ispirare  
-tutti i caldi rapimenti del [[motifs/fire|fuoco]] poetico!  
-Ma odi! o m’immagino io la voce lieta —  
-‘Che importa se il garzone svelò grazie mirabili —  
-(non tali la sorella di Mennone vestita di nero)   35  
-prendi queste armi lucenti impresse di regal volto,  
-un Bollitore migliore rallegrerà la tua [[motifs/soul|anima]],  
-e con l’ali dell’Oblio coprirà i tuoi guai!’  
-Così la [[concepts/hope|Speranza]] Fata sa lenire angoscia e fatica;  
-su Treppiedi vuoti fa bollire Bollitori immaginati!   40  
-1790.
-
 
 
 <span class="atom-split" data-atom="024_christs_hospital" data-title="CHRIST’S HOSPITAL" data-chapter="" data-kind="intro" data-tags="concept/education,concept/satire_of_society,concept/power_and_corruption,concept/truth,form/parody,form/ode,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -189,90 +145,6 @@ And now our weary steed to rest in fine,
 1791.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-31 marzo 1791.  
-Questo è ora — questo fu un tempo,  
-Proposizione prima — e Problema primo.  
-I  
-Su una data linea finita  
-che non deve in alcun modo inclinare;  
-descrivere un equi —  
-— latero Tri —  
-— A, N, G, O, L, O.   5  
-Or sia A. B.  
-la linea data  
-che non deve in alcun modo inclinare;  
-il grande Matematico  
-fa questa Richiesta,   10  
-che descriviamo un Equi —  
-— latero Tri —  
-— angolo su essa:  
-aiutaci, Ragione — aiutaci, Ingegno!  
-II  
-Dal centro A. alla distanza A. B.   15  
-descrivi il cerchio B. C. D.  
-Alla distanza B. A. da B. il centro  
-arrischiati arditamente a descrivere il tondo A. C. E.  
-(Vedi il terzo postulato.)  
-E dal punto C.   20  
-in cui i cerchi fanno baccano  
-tagliandosi e sfregiandosi a vicenda,  
-ordina alle linee rette di mettersi in viaggio.  
-C. A. C. B. quelle linee mostreranno.  
-Ai punti, che da A. B. sono contati,   25  
-e il postulato secondo  
-per Autorità vi è noto.  
-A. B. C.  
-trionfante sarà  
-un Triangolo Equilatero,   30  
-né Peter Pindar può cavillare, né Zoilo litigare.  
-III  
-Poiché il punto A. è il centro  
-del circolare B. C. D.  
-e poiché il punto B. è il centro  
-del circolare A. C. E.   35  
-A. C. ad A. B. e B. C. a B. A.  
-armoniosamente eguali per sempre devon restare;  
-allora C. A. e B. C.  
-entrambi tendono la mano gentile  
-alla base, A. B.   40  
-senz’ambizione uniti nella Banda dell’Eguaglianza.  
-Ma alle stesse potenze, quando due potenze son eguali,  
-la mia mente presagisce il seguito;  
-qualche celeste impulso ammaestra la mia mente,  
-e agguaglia l’uno all’altro.   45  
-Così C. A. con B. C. stringe la stessa sicura alleanza  
-che C. A. e B. C. avevano prima con A. B.;  
-e in mutua fidanza  
-nessuno tentando d’innalzarsi  
-sopra un altro,    50  
-i tre unanimi  
-C. A. e B. C. e A. B.  
-tutti sono eguali, ciascuno al suo fratello,  
-serbando l’equilibrio dei poteri così fedele:  
-Ah! altrettanto facesse la superba Autocratrice!   55  
-Per tasse incombenti non tremerebbe la Britannia,  
-né la Prussia s’affannerebbe a dissimulare la sua [[concepts/fear|paura]];  
-né il Tipo di stirpe maomettana  
-il gran Musulmano  
-macchierebbe il suo Divano   60  
-d’Urina, la molle-fluente figlia dello Spavento.  
-IV  
-Ma frenate il vostro stallone, troppo ardite Nove!  
-Devono gl’Imperi gonfiare la linea scientifica?  
-O coi capelli scomposti correte tutte folli  
-per il trasporto che il vostro compito è compiuto?   65  
-Ché compiuto è — la causa è discussa!  
-e la Proposizione, gentile Fanciulla,  
-che in verità chiese l’aiuto della severa Dimostrazione,  
-ha provato il suo diritto, e A. B. C.  
-di tre Angoli   70  
-è mostrato d’eguali lati;  
-e ora il nostro stanco destriero a riposare infine,  
-è eretto su A. B. la retta, la linea data.  
-1791.
-
 
 
 <span class="atom-split" data-atom="025_honour" data-title="HONOUR" data-chapter="" data-kind="intro" data-tags="topos/vanitas,motif/money_gold,motif/wine_and_drink,concept/honour,concept/temptation,concept/satire_of_society,form/satire,form/heroic_couplet,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -352,81 +224,6 @@ Forth leap’d Philedon of new life possest: — 69
 1791.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-O, curas hominum! O, quantum est in rebus inane!  
-Il Sole fervido aveva più che dimezzato il giorno,  
-quando tetro sul suo giaciglio giaceva Filedone;  
-il corpo debole, tisico come la sua borsa,  
-il capo dolente malediva vino e donne;  
-la fortuna rovinata e la ricchezza in [[motifs/decay|sfacelo]],   5  
-clamorosi i creditori, i debiti di gioco impagati,  
-il giovane indignato afferrò il conto del sarto,  
-e sul retro scrisse così con penna morale:  
-‘Vari come i colori mostrati nell’arcobaleno,  
-o simili nella vacuità soltanto,   10  
-come false, come vane son le brame dell’Uomo quaggiù!  
-Ricchezza, [[concepts/honour|Onore]], Piacere — che potete elargire?  
-Pur vedi, come alti e bassi, e giovani e vecchi  
-inseguono il potere tutto-illusorio dell’Oro.  
-Uomo sciocco! se tutto il Perù riconoscesse il tuo impero,   15  
-se per te splendessero tutte le gemme di Golconda,  
-quale maggior beatitudine potrebbe dare tutta questa ricchezza?  
-Quale, se non mangiare e bere e [[motifs/sleep|dormire]] e morire?  
-Va’, tenta il mare in tempesta, il suolo che brucia —  
-va’, consuma la [[motifs/night|notte]] in pensieri, il giorno in fatica,   20  
-cupa s’aggrotta la roccia, e feroci infuriano le tempeste —  
-i tuoi lingotti vanno a lastricare l’abisso inconsapevole!  
-O tuona alla tua porta la brigata di mezzanotte,  
-o busserà la [[motifs/death|Morte]] che mai bussa invano.  
-Poi i figli dell’[[concepts/honour|Onore]] vengon avanti in gran fretta;   25  
-rido con pietà di quella schiera oziosa.  
-Infermo d’[[motifs/soul|anima]]! tu che pensi d’innalzare il tuo nome  
-sulle ali di cera dell’umana fama, —  
-che per un suono, un fiato articolato —  
-guardi impavido in faccia alla [[motifs/death|morte]]!   30  
-Che sei tu se non la luce abbagliante d’una Meteora —  
-che avvampa un istante e poi sprofonda nella [[motifs/night|notte]]?  
-Il Capriccio che t’innalzò ti scaglierà in basso,  
-o l’Invidia inaridirà gli allori sulla tua fronte.  
-A gioie sì povere poteva condurre l’antico [[concepts/honour|Onore]]   35  
-quando la fama vuota era il premio del Merito faticoso;  
-all’[[concepts/honour|Onore]] Moderno altri canti appartengono;  
-prodigo di gioia e Signore del giusto e dell’ingiusto,  
-l’[[concepts/honour|Onore]] può giocare, bere, gozzovigliare nel bordello,  
-tagliar la gola a un amico; — che non può fare l’[[concepts/honour|Onore]]?   40  
-Ahimè! — la [[motifs/storm|tempesta]] interiore può l’[[concepts/honour|Onore]] acquietare  
-per la [[motifs/death|morte]] di Giulio, che l’[[concepts/honour|Onore]] mi fece uccidere?  
-O questo signorile [[concepts/honour|Onore]] indicherà il modo  
-di pagare quei debiti, che l’[[concepts/honour|Onore]] mi fa pagare?  
-O se con [[characters/pistol|pistola]] e minacce terribili   45  
-faccio pagare a qualche viandante i debiti del mio [[concepts/honour|Onore]],  
-una medicina per questa ferita può dare l’[[concepts/honour|Onore]]?  
-Ah, no! il mio [[concepts/honour|Onore]] muore per far vivere il mio [[concepts/honour|Onore]].  
-Ma ecco! il giovane Piacere, e il suo corteo avanzano,  
-e gioia e riso destano l’ebbra [[motifs/dance|danza]];   50  
-intorno al collo ella getta le sue belle braccia bianche,  
-incontro i suoi amori, e impazzisco alle sue grazie.  
-Ché l’uva gaia sa muovere gioie celesti,  
-e che v’è quaggiù di dolce come l’[[motifs/love|amore]] di Donna?  
-Con sì alto trasporto ogni momento vola,   55  
-maledico l’Esperienza che mi fa saggio;  
-ché al suo cipiglio i cari deliri fuggirono,  
-e la scena mutata ora veste una tinta tetra.  
-Orrenda megera sembra l’Incantatrice Piacere,  
-e tutte le sue gioie paion solo [[motifs/dreams|sogni]] febbrili.   60  
-Il vano proposito sempre rotto e sempre rifatto,  
-malattia e disgusto e rimorso invadono;  
-l’incanto è svanito e la bolla è scoppiata, —  
-schiavo del piacere è schiavo del fumo!’  
-Tali canti pentiti fornì la Musa;   65  
-quando, mentre il Sole s’affrettava giù per il cielo,  
-in scintillante pompa giungon due volte cinquanta ghinee, —  
-l’argenteria antica di sua Madre aveva fatto la somma.  
-Balzò fuori Filedone posseduto da nuova vita: — 69  
-Fu tutto da Brookes fino alle due, — fu tutto da Hackett il resto!  
-1791.
-
 
 
 <span class="atom-split" data-atom="026_on_imitation" data-title="ON IMITATION" data-chapter="" data-kind="intro" data-tags="motif/wine_and_drink,concept/satire_of_society,concept/temptation,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -442,18 +239,6 @@ Tho’ few like Fox can speak — like Pitt can think —
 Yet all like Fox can game — like Pitt can drink.  
 ?    1791  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Non tutti nascono per librarsi — e ah! quanto pochi  
-seguono i loro sentieri per le vie dove guida la Saggezza!  
-Contagiosi quando ad arguzia o ricchezza alleati,  
-Follia e Vizio diffondono largo il loro veleno.  
-Sulla Follia ogni [[archetypes/fool|sciocco]] prova il suo talento;   5  
-ci vuole qualche fatica per imitare i saggi;  
-benché pochi come Fox sappian parlare — come Pitt pensare —  
-pure tutti come Fox sanno giocare — come Pitt bere.  
-?    1791
 
 
 
@@ -489,37 +274,6 @@ And call us from thy fairy reign
 To dreary Bagshot Heath again!  
 1791.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-È duro sulla Brughiera di Bagshot tentare  
-di tener aperto l’occhio stanco;  
-ma ah! ottenere il cenno dell’Oblio  
-in carrozza sferragliante è più duro ancora.  
-Sonnolento Dio dall’occhio semichiuso!   5  
-che ami giacere con membra supine;  
-dolce lenitore di fatica e affanno,  
-ascolta, ascolta la mia [[motifs/prayer|preghiera]];  
-e al tuo devoto dispensa  
-il tuo soporifero influsso!   10  
-Che importa se intorno al tuo capo sonnacchioso  
-sia stesa la cuffia settuplice della [[motifs/night|notte]],  
-pure alza un poco quel capo sonnacchioso  
-e sbadiglia propizio un sorriso;  
-in piogge sottili spandi rugiade di papavero   15  
-sopra gli stanchi occupanti della Carrozza;  
-e quando avrai incantato i nostri occhi al riposo,  
-posando il mento sul petto come su un guanciale,  
-ordina a più d’un sogno dai tuoi domini  
-d’agitare le sue penne variamente dipinte,   20  
-finché prima che le visioni splendide si chiudano  
-russiamo quartetti in estasi di naso.  
-Mentre così spingiamo il nostro corso aereo,  
-oh nessuna forza elettrica di scossone  
-disarcioni le nostre fantasie dai loro destrieri,   25  
-e ci richiami dal tuo regno fatato  
-di nuovo alla tetra Brughiera di Bagshot!  
-1791.
 
 
 
@@ -558,40 +312,6 @@ And while old Otter’s steeple rings,
 Clappest hoarse thy raven wings!   30  
 1791.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Via, Armonia che dissolvi l’[[motifs/soul|anima]]  
-che sviii l’[[motifs/soul|anima]] immemore —  
-benché tu sia discesa dalle sfere —  
-via di qui! —  
-Tu Dea più possente, tu esigi il mio canto,   5  
-nata quando la terra fu presa da coliche;  
-o, come dicon savi più sapienti,  
-nell’[[motifs/time|ora]] in cui la Legione diabolica  
-fu costretta a racchiudere i suoi esseri  
-in corpi vili di porci in branco,    10  
-precipitando giù per l’erta  
-con orrenda ressa si tuffavano nel profondo,  
-e porco e diavolo mescolando grugnito e urlo  
-assalirono l’orecchio con orribile invadenza; —  
-allora, se a ragione narrano gli antichi leggendari,   15  
-fosti generata da Discordia sopra Confusione!  
-Che importa se nessun sonoro potere di nome  
-ti fu dato nella tua ora natale! —  
-pure spesso sento la tua sacra potenza,  
-mentre gli accordi spiegano il loro volo lontano.   20  
-Tale Potere ispira il tuo santo figlio,  
-nero chierico di Tiverton!  
-E spesso dove l’Otter fa scherzare la sua corrente,  
-odo strillare la tua prole in banda.  
-Tu Dea! tu ispiri ogni gola;   25  
-sei tu che versi la nota del barbagianni!  
-Rapita odi tutti i tuoi figli  
-raschiare e soffiare e squittire e strillare;  
-e mentre il campanile del vecchio Otter suona,  
-batti rauca le tue ali di corvo!   30  
-1791.
 
 
 
@@ -633,42 +353,6 @@ But stop, my Muse! for here comes supper.
 1792.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Benché assai restio, caro Jack, a lusingare,  
-a trovare una somiglianza per l’amico V — ker,  
-ho fatto per Terra, e Aria, e Mare,  
-un Viaggio di Scoperta!  
-E lascia ch’aggiunga (per scansar contese)   5  
-per V — ker e per la Moglie di V — ker —  
-lei grande e tonda oltre ogni credere,  
-una superfluità di manzo!  
-la sua mente e il suo [[concepts/body|corpo]] d’un pezzo,  
-ed entrambi composti d’unto di cucina.   10  
-Insomma, Madonna [[concepts/truth|Verità]] potrebbe ben chiamarla  
-Volgarità custodita nel lardo!  
-Lui, magro pezzetto di piccolezza,  
-tutto tabacco, e muschio, e politesse;  
-così sottile, che spogliato dei suoi panni,   15  
-vacillerebbe sull’orlo del Nulla!  
-In caso di nemico, [[motifs/well|bene]] potrebbe nascondersi  
-comodo tra i lardelli del fianco di lei.  
-Ah dunque, quale similitudine andrà bene?  
-Gamba di fuso in grande stivalone?   20  
-Formica che striscia in un solco?  
-O uno zipolo in una botte?  
-Così borbottai ed esitai un poco,  
-quando Madama [[motifs/memory|Memoria]] con un sorriso  
-mi tirò così l’orecchio — ‘Ma certo, io credo,   25  
-nelle strade di [[settings/london|Londra]] hai spesso veduto  
-l’immagine stessa di questa coppia:  
-una piccola Scimmia con un’enorme Orsa  
-legate insieme da sventurata catena:  
-una massa non lambita l’una — l’altra    30  
-un piccolo buffone dalla groppa agile — —’  
-Ma fermati, Musa mia! ché ecco viene la cena.  
-1792.
-
 
 
 <span class="atom-split" data-atom="049_to_fortune" data-title="TO FORTUNE" data-chapter="" data-kind="intro" data-tags="topos/fortunes_wheel,concept/satire_of_society,form/nonfiction,form/essay,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -681,15 +365,6 @@ your journal — if not, you will commit it µ0Â 1µÁx½ ¼s½¿Â
 ordinarily feel for Editors of Papers, your obliged, &c.,
 CANTAB. — S. T. C.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-AL DIRETTORE DEL ‘MORNING CHRONICLE’
-SIGNORE, — La poesia seguente forse la giudicherete ammissibile nel
-vostro giornale — se no, la consegnerete µ0Â 1µÁx½ ¼s½¿Â
-)Æ±wÃÄ¿¹¿. — Sono, con più rispetto e gratitudine di quanto
-ordinariamente ne provi per i Direttori di Giornali, vostro obbligato, ecc.,
-CANTAB. — S. T. C.
 
 
 
@@ -708,20 +383,6 @@ Emblem of languid patience, we behold
 The fleecy files faint-ruminating lie.   10  
 1794.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-La [[motifs/dust|polvere]] vola soffocante, mentre su [[motifs/wheel|ruota]] sferragliante  
-l’odiata Aristocrazia corre via;  
-la pista lontana vibra rapida all’occhio,  
-e bianca e abbagliante ondeggia di calore,  
-dove, rovente al tatto dell’incauto viandante,   5  
-il muretto di pietra getta la sua stretta striscia d’ombra;  
-o, dove i fianchi consunti della [[motifs/road|strada]] gessosa  
-offrono i loro scarsi scavi (grotte afose!),  
-emblema di languida pazienza, scorgiamo  
-le file lanose giacere ruminando fiaccamente.   10  
-1794.
 
 
 
@@ -745,25 +406,6 @@ Bade the bright form of Justice meet my way —
 And told me that her name was HAPPINESS.  
 January 10, 1795.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-AUTORE DI ‘POLITICAL JUSTICE’  
-O tu formato a illuminare un mondo derelitto e senza sole,  
-come sulla fronte gelida e fosca della [[motifs/night|Notte]],  
-nei cieli invernali di Finlandia l’Aurora Mimetica  
-elettrica versa un fiume di luce rosata,  
-lieto ho notato l’OPPRESSIONE, pallida di terrore,   5  
-poiché, per i meandri della sua oscura [[motifs/machine|macchina]],  
-il tuo occhio fermo ha lanciato i suoi sguardi acuti —  
-e ha ordinato alla Tutta-bella di ‘salutare le scene da lontano’.  
-Né mancherò di benedire la tua santa guida,  
-e di [[forms/hymn|celebrarti]], GODWIN! con ardente canto;   10  
-perché la tua voce, nel giorno tempestoso della Passione,  
-quando selvaggio vagavo per la squallida Brughiera dell’Angoscia,  
-ordinò alla forma lucente della Giustizia d’incontrare il mio cammino —  
-e mi disse che il suo nome era FELICITÀ.  
-10 gennaio 1795.
 
 
 
@@ -790,27 +432,6 @@ A prey to Tyrants, Murderers of Mankind.
 1796.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-C. LLOYD CHE S’ABBANDONÒ A UNA [[concepts/melancholy|MALINCONIA]] INDOLENTE E SENZA CAUSA  
-Via quella fantastica sfrenatezza di dolore,  
-o Giovane invano caro a una Fortuna parziale!  
-Va’ al tugurio mal riparato del Bisogno depredato,  
-va’, e ascolta qualche bimbo morso dalla fame  
-gemere forse all’orecchio d’una madre morente:   5  
-o quando le fredde e tetre nebbie umide covano  
-sul cimitero rigoglioso cosparso di [[motifs/leaves|foglie]] d’olmo secche,  
-misura a passi la [[motifs/grave|tomba]] di qualche vedova, la cui parte più cara  
-fu trucidata, dove sulle sue membra senza bara  
-stridevano gli [[motifs/birds|uccelli]] di carne accorrenti a stormo! Allora, mentre il tuo cuore   10  
-geme, e un dolore più fiero ti appanna l’occhio,  
-sappi (e la [[concepts/truth|verità]] accenderà la tua giovane mente)  
-ciò che la [[concepts/nature|Natura]] ti fa piangere, ti comanda di sanare!  
-O abietto! se, arreso a [[motifs/dreams|sogni]] malaticci,  
-senza sforzo alcuno lasci il bene comune della Vita   15  
-preda dei Tiranni, Assassini del Genere Umano.  
-1796.
-
 
 
 <span class="atom-split" data-atom="138_sonnets_attempted_in_the_manner_of_contemporary_writers" data-title="SONNETS ATTEMPTED IN THE MANNER OF CONTEMPORARY WRITERS" data-chapter="" data-kind="intro" data-tags="concept/satire_of_society,concept/the_artist_and_society,concept/melancholy,form/sonnet,form/parody,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -834,26 +455,6 @@ But much of one thing is for no thing good.’
 Ah! my poor heart’s INEXPLICABLE SWELL!  
 II  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-FIRMATI ‘NEHEMIAH HIGGINBOTTOM’  
-I  
-Pensoso a sera meditavo sul mondo duro,  
-e il mio povero cuore era triste: così alla [[motifs/moon|Luna]]  
-guardai — e sospirai, e sospirai! — ché, ah! come presto  
-la sera s’oscura in [[motifs/night|notte]]. Il mio occhio scrutò  
-con lacrimosa vacuità l’erba umidiccia   5  
-che piangeva e brillava nel raggio pallidiccio;  
-e mi fermai sul mio solitario cammino,  
-e meditai su quei miseri che passano  
-per la nera brughiera del Dolore. Ma, ahimè!  
-soprattutto a Me stesso pensai: quando avvenne   10  
-che il verace Spirito del bosco ventilato  
-mi soffiò all’orecchio — ‘Tutto ciò va molto [[motifs/well|bene]];  
-ma molto d’una cosa sola non è buono a nulla.’  
-Ah! l’INESPLICABILE GONFIORE del mio povero cuore!  
-II
 
 
 
@@ -880,27 +481,6 @@ All very simple, meek Simplicity!
 III  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Oh! io  
-[[motifs/love|amo]]  
-te, mite  
-Semplicità!  
-Ché dei tuoi canti la cullante semplicità  
-va al mio cuore e lenisce ogni piccola pena,  
-pena benché piccola, pur forse grande per me!  
-È vero che sul più mite ronzino di Madonna Fortuna   5  
-procedo all’ambio; pure, benché non sappia perché,  
-tanto son triste! — ma se un amico ed io  
-ci raffreddiamo e stizziamo, oh! son ben triste!  
-E allora con sonetti e con simpatia  
-ammanto i mistici guai del mio petto sognante;   10  
-ora lagnandomi lamentoso del mio falso amico,  
-ora inveendo contro il genere umano in generale;  
-ma, triste o fiero che sia, tutto è semplice,  
-tutto semplicissimo, mite Semplicità!  
-III
-
 
 
 <span class="atom-split" data-atom="140_on_a_ruined_house_in_a_romantic_country" data-title="ON A RUINED HOUSE IN A ROMANTIC COUNTRY" data-chapter="" data-kind="intro" data-tags="motif/ruins,motif/moon,concept/satire_of_society,form/sonnet,form/parody,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -922,24 +502,6 @@ As when thro’ broken clouds at [[motifs/night|night]]’s high [[motifs/noon|n
 Peeps in fair fragments forth the full-orb’d harvest-[[motifs/moon|moon]]!  
 1797.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-E questa casa squarciata è quella ch’egli costruì,  
-compianto Jack! E qui ammucchiò il suo malto,  
-cauto invano! Questi ratti che squittiscono sì selvaggi,  
-squittiscono, non ignari della [[concepts/guilt|colpa]] del padre loro.  
-Non la vedeste luccicare per la radura?  
-Forse era lei, la fanciulla tutta derelitta.  
-Che importa se non munge vacca dal corno storto,  
-pur sempre infesta la valle dove un tempo vagò;  
-e sempre al suo fianco incede il suo amoroso cavaliere!  
-Ancora sulle sue cosce si portano le solite braghe,   10  
-e per quelle braghe, sempre a brandelli e stracciate,  
-le sue grazie posteriori luccicano d’un bianco ultraterreno;  
-come quando fra nubi rotte al pieno [[motifs/noon|meriggio]] della [[motifs/night|notte]]  
-sbircia fuori in bei frammenti la [[motifs/moon|luna]] piena del raccolto!  
-1797.
 
 
 
@@ -996,57 +558,6 @@ And once more seeks the [[characters/bottom|bottom]]’s blackest mud!
 (Signed: LABERIUS.)  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Quasi desti? Ma come, che è questo, e donde,  
-o voi uomini ben leali, tutti immacolati?  
-Certo, non è possibile che il Buon Senso  
-abbia agganciato le sue carrucole a ogni palpebra pesante?  
-Ma per quale altra ragione quel sussulto, che scompone   5  
-le acque sonnolente indugianti nel vostro occhio?  
-E siete davvero capaci di scorgere  
-quel precipizio tre iarde oltre i vostri nasi?  
-Pure non posso lusingarvi che il vostro ingegno  
-sia molto migliorato da questo lungo leale sonnecchiare;   10  
-e non ammiro, più di quanto faccia il signor Pitt,  
-i vostri salti e sussulti di prosa patriottica —  
-ora accorrendo pigolando al Chioccìo del Tesoro, come polli,  
-ora coi piccoli becchi opponendovi al vorace Progetto di legge;  
-con lingua di serpe ora pungendo, e ora leccando,   15  
-ora semi-sibilanti, ora lisciando con blandizie —  
-ora avendo [[concepts/faith|fede]] implicita ch’egli non possa errare,  
-sperando le sue speranze, allarmati dei suoi allarmi;  
-e ora credendolo un astuto incantatore,  
-pur sempre timorosi di rompere i suoi fragili incanti,   20  
-che qualche Diavolo pazzo, sbrigliandosi d’un tratto,  
-patatrac! il folletto voli via col campanile,  
-sgambettando su scopa rivoluzionaria. —  
-O voi gente di testa molle e di cuore molle,  
-se potete restar liberi dal sonno tanto a lungo,   25  
-la mia musa farà uno sforzo per salutarvi:  
-ché ecco! una similitudine assai graziosa  
-mi balenò d’improvviso nel cervello, e vi calzerà a pennello!  
-Conoscete quell’uccello d’[[motifs/water|acqua]] che grida, Qua! Qua!?  
-Ben spesso ho visto una brigata burlona   30  
-legargli sul dorso l’Uccello della Saggezza,  
-l’uccello che infesta l’edera, e grida, Tu-uu!  
-entrambi tuffati insieme nel profondo canale del mulino,  
-(canale del mulino, o stagno d’aia, o lago di monte,)  
-stridulo, come un urlo di Chiesa e Costituzione,   35  
-Tu-uu! fa Faccia-larga, e giù s’immerge il Germano!  
-Il Germano dal collo verde riemerge alla vista,  
-si guarda intorno, grida Qua! e fa un baccano irato;  
-allora più stridulo urla l’Uccello dalle palpebre azzurre,  
-l’Uccello dalla larga faccia! e più a fondo s’immerge l’altro.   40  
-Voi Statisti ciarlatani! così appunto è di voi —  
-un baccello di pisello non somiglia più a un altro.  
-Così sullo stagno-richiamo della Lealtà, ciascuno  
-caccia fuori il capo, come acceso di [[motifs/blood|sangue]] britannico,  
-ode ancora una volta lo strillo Ministeriale,   45  
-e di nuovo cerca il fango più nero del [[characters/bottom|fondo]]!  
-1798.  
-(Firmato: LABERIUS.)
-
 
 
 <span class="atom-split" data-atom="188_talleyrand_to_lord_grenville" data-title="TALLEYRAND TO LORD GRENVILLE" data-chapter="" data-kind="intro" data-tags="archetype/corrupt_official,concept/satire_of_society,concept/power_and_corruption,concept/deception,form/satire,histref/napoleonic_wars,histref/the_french_revolution,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -1097,52 +608,6 @@ following lines from Sidonius Apollinaris:
 Mollit dulciloquâ canorus arte!’
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-UN’EPISTOLA IN VERSI
-[Come stampato nel Morning Post del 10 gennaio 1800.]
-Al Direttore del Morning Post.
-SIGNOR DIRETTORE, — Una lettera non in versi di Talleyrand a Lord
-Grenville è già apparsa, e da un’autorità troppo alta
-perché la si metta in dubbio: altrimenti potrei addurre argomenti a favore
-dell’esclusiva autenticità della seguente epistola in versi.
-L’epiteto stesso che usavano i savi antichi, ‘aurea
-carmina’, si sarebbe potuto supporre avesse determinato
-la scelta del ministro francese in favore del verso; e tanto
-più quando si ricordi che questa frase di ‘versi aurei’
-è applicata con enfasi alle opere di quel filosofo che
-impose il [[motifs/silence|silenzio]] a tutti coloro coi quali ebbe a trattare. Inoltre
-non è alquanto improbabile che Talleyrand abbia
-preferito la prosa alla rima, quando questa sola fa
-tintinnare le monete? Non è del pari curioso che nella nostra risposta ufficiale
-non si faccia alcun cenno del Primo Console, Bonaparte, come
-se una tal persona non ci fosse [man Essays, &c., 1850]
-affatto; nonostante che la sua esistenza sia
-abbastanza generalmente ammessa, anzi che alcuni siano stati così temerari da
-credere ch’egli abbia destato nel mondo una sensazione grande
-quanto Lord Grenville, o perfino il Duca di Portland? Ma il
-Ministro degli Affari Esteri, Talleyrand, è riconosciuto,
-il che, a nostro avviso, non sarebbe potuto accadere se avesse scritto
-soltanto quell’insignificante lettera in prosa, che par precedere
-quella di Bonaparte, come nei vecchi romanzi un [[characters/dwarf|nano]] correva sempre avanti a
-proclamare l’avvento o l’arrivo di cavaliere o gigante. Che
-il carattere e le pratiche di Talleyrand somiglino più a quelle di
-certi Governi regolari che a quelle di Bonaparte, lo ammetto; ma ciò
-di per sé non pare una spiegazione soddisfacente. Comunque,
-lasciamo che la lettera parli da sé. Il secondo verso è
-soprabbondante di sillabe, se per la sbadataggine del
-trascrittore, o per la trepidazione che può avere
-sopraffatto il modesto Francese, trovandosi nell’
-atto di scrivere a un uomo così grande, non oserò
-stabilirlo. Poche Note sono aggiunte dal
-vostro servo,
-GNOME.
-P.S. — Poiché i motti sono ora di moda, specialmente se tratti
-da libri fuori mano, potete premettere, se vi piace, i
-seguenti versi di Sidonio Apollinare:
-‘Saxa, et robora, corneasque fibras
-Mollit dulciloquâ canorus arte!’
-
 
 
 <span class="atom-split" data-atom="197_the_two_round_spaces_on_the_tombstone" data-title="THE TWO ROUND SPACES ON THE TOMBSTONE" data-chapter="" data-kind="intro" data-tags="archetype/satanic_figure,motif/the_grave,motif/winter,motif/the_supernatural,concept/the_grotesque,concept/satire_of_society,form/ballad,form/satire,character/satan,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -1190,49 +655,6 @@ For they are cock-sure of the fellow below!
 1800.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il Diavolo crede che il Signore verrà,  
-rubando una marcia senza rullo di tamburo,  
-press’a poco alla stessa [[motifs/time|ora]] in cui venne l’ultima volta,  
-in un vecchio giorno di Natale in una raffica di neve:  
-finché non ordina alla tromba di suonare, né [[concepts/body|corpo]] né [[motifs/soul|anima]] si muove,   5  
-ché le teste dei morti son scivolate sotto i loro capezzali.  
-Oh! ohè! fratello Bardo, nel nostro cimitero,  
-letti e capezzali son molli e verdi;  
-tranne uno soltanto, e quello è di pietra,  
-e sotto vi giace un Avvocato acuto.   10  
-Sarebbe una tomba quadrata, se non fosse troppo lunga;  
-ed è cinta di ferri aguzzi, a foggia di lancia, e forti.  
-Costui da Aberdeen saltellò fin qua  
-con faccia di cera e labbro cascante,  
-e un dente nero davanti, a mostrare in parte   15  
-qual fosse il colore di tutto il suo cuore.  
-Questo dolce Avvocato,  
-questo Scozzese compiuto,  
-(che il Diavolo lo schiacci come una serpe!)  
-confido che giaccia desto nella sua [[motifs/grave|tomba]].   20  
-Il sei di gennaio,  
-quando tutt’intorno è bianco di [[motifs/snow|neve]],  
-come il caseificio d’un fittavolo del Cheshire,  
-fratello Bardo, ohè! ohè! credici o no,  
-su quella tomba di pietra ti mostrerò   25  
-due spazi rotondi vuoti di [[motifs/snow|neve]].  
-Giuro sul nostro Cavaliere, e sulle anime dei suoi avi,  
-che in misura e forma son proprio come i buchi  
-nella casa di comodo  
-di quell’antica famiglia.   30  
-Su quei due luoghi vuoti di [[motifs/snow|neve]],  
-sono stati seduti nella [[motifs/night|notte]] per un’ora o giù di lì,  
-prima del levar del sole, e dopo il canto del gallo,  
-lui sbattendo i talloni, lei maledicendo i suoi calli,  
-tutto sull’aria del [[motifs/wind|vento]] nelle loro corna,   35  
-il Diavolo e la sua Nonnaccia,  
-con una raffica di [[motifs/snow|neve]] a far loro vento;  
-aspettando e sperando che la tromba suoni,  
-ché sono più che sicuri del tizio là sotto!  
-1800.
-
 
 
 <span class="atom-split" data-atom="203_the_second_birth" data-title="THE SECOND BIRTH" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,concept/love_romantic,concept/grace_and_redemption,concept/joy,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -1247,16 +669,6 @@ Then both of us were born anew.
 ? 1801.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Vi son due nascite, l’una quando la Luce  
-colpisce per la prima volta il senso appena destato —  
-l’altra quando due anime s’uniscono,  
-e da allora dobbiamo contare la nostra vita.  
-Quando tu m’amasti, e io t’amai,   5  
-allora entrambi nascemmo di nuovo.  
-? 1801.
-
 
 
 <span class="atom-split" data-atom="210_the_good_great_man" data-title="THE GOOD, GREAT MAN" data-chapter="" data-kind="intro" data-tags="concept/the_common_man,concept/satire_of_society,concept/humility,concept/truth,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -1268,14 +680,6 @@ It sounds like stories from the land of spirits
 If any man obtain that which he merits  
 Or any merit that which he obtains.’   5  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-‘Come di rado, amico! un uomo buono e grande eredita  
-[[concepts/honour|Onore]] o ricchezza con tutto il suo valore e le sue pene!  
-Suona come racconti dalla terra degli spiriti  
-se un uomo ottiene ciò che merita  
-o merita ciò che ottiene.’   5
 
 
 
@@ -1374,99 +778,6 @@ With scarce a pocket for his penny!
 1825.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Un uccello, che per i suoi altri peccati  
-era vissuto fra i Giacobini;  
-benché come un gattino fra i topi,  
-o cincia implume in nido di pipistrelli,  
-aborrisse assai tutti i democratici;   5  
-pure nondimeno era in cattiva fama  
-di voler male a Chiesa e [[settings/court|Corte]],  
-benché non avesse né artiglio, né dente, né pungiglione,  
-e avesse imparato a zufolare Dio salvi il [[archetypes/king|Re]];  
-benché ogni giorno portasse penne nuove,   10  
-tutti giuravano ch’egli avesse ala di cuoio;  
-né ala lucida, né coda piumata,  
-né coscia vestita di piumino valevano a nulla;  
-e benché — la lingua sua priva di fiele —  
-civilmente assicurasse tutti: — 15  
-‘Sono un uccello di razza febea,  
-e mi aggrappo al girasole e me ne nutro;  
-il mio nome, buoni Signori, è Tommaso Cincia!’  
-i pipistrelli lo salutavano Fratello Borghese,  
-o, al massimo, cugino primo.    20  
-Alfine, per decidere la faccenda,  
-denunciò pubblicamente quei parassiti;  
-risparmiò il topo, lodò il gufo;  
-ma i pipistrelli non eran né carne né pollame.  
-Succhia-[[motifs/blood|sangue]], vampiro, arpia, ghoul,    25  
-uscivano a tutto strepito dalla sua gola,  
-finché i vecchi compagni di nido mutarono nota  
-in mercenario, traditore e voltagabbana, —  
-un vile apostata che aveva venduto  
-perfino i denti e gli artigli per oro; — 30  
-e poi le sue penne! — pungente la burla —  
-senza [[concepts/doubt|dubbio]] s’era [[motifs/well|ben]] impiumato il nido!  
-‘Una Cincia davvero! sì, pan per focaccia —  
-con carica e titolo, fratello Pipistrello,  
-presto vedremo quanto [[motifs/well|bene]] reciterà   35  
-il Conte Cardellino, o Sir Joseph Ghiandaia!’  
-Ahimè, povero Uccello! e mal stellato —  
-o piuttosto diciamo, povero Bardo!  
-E lasciamo d’ora innanzi l’allegorico,  
-con metafora e similitudine,   40  
-per fatti semplici e stile storico: —  
-ahimè, povero Bardo! oro non n’aveva;  
-dietro il tiro d’un altro camminava,  
-e arava e seminava, mentre altri mietevano;  
-sua era l’opera, ma loro la gloria,   45  
-Sic vos non vobis, tutta la sua storia.  
-Inoltre, qualunque cosa scrivesse o dicesse  
-veniva dal cuore [[motifs/well|tanto]] quanto dal capo;  
-e benché non lasciasse mai nei guai  
-il suo [[archetypes/king|re]], il suo paese, o la sua chiesa,   50  
-non era che per assecondare il proprio cinico umore  
-di disprezzo per le dottrine giacobine;  
-sincero soltanto verso la propria [[concepts/conscience|coscienza]],  
-fu solo per caso che servì il partito; —  
-le [[concepts/self|stesse]] identiche cose avrebbe detto e scritto,   55  
-se Pitt fosse stato Fox, e Fox fosse stato Pitt;  
-contento di guadagnare il proprio applauso,  
-mai si sarebbe gettato a rotta di collo,  
-e non può avanzare, così dicono i savi,  
-alcuna pretesa chi non fa sacrificio; — 60  
-e un bardo ancor meno: — che pretesa aveva egli,  
-che giurava gli angustiasse l’[[motifs/soul|anima]] vedere  
-una causa sì grande, un regno sì fiero,  
-con l’Oca e la Comare al timone;  
-che da tempo sarebbero andati in pezzi   65  
-se non fosse per la più vile scempiaggine dei rivali,  
-il piagnucolìo codardo e la bava e il gergo  
-infrancesati dell’altra parte? —  
-Così, il proprio capriccio unica sua mancia,  
-il nostro Bardo seguì il suo vecchio A. B. C.   70  
-contento se poteva sottoscrivere  
-nel senso più pieno il suo nome ÃÄ·Ãµ;  
-(È greco punico per ‘egli ha resistito!’)  
-Quali che fossero gli uomini, la causa era buona;  
-e perciò di ben buona voglia,   75  
-povero [[archetypes/fool|sciocco]], combatte ancora le loro battaglie.  
-Bah! squittirono i Pipistrelli; — una mera bravata  
-per imbiancare quel vile rinnegato;  
-è chiaro, a meno che non siate ciechi o pazzi,  
-che baratta la sua [[concepts/conscience|coscienza]] per gli allori; — 80  
-ed è vero — vero quanto triste —  
-che questi cerchietti di panno verde li aveva —  
-ma poi, ahimè! erano le sue giarrettiere!  
-Ah! sciocco Bardo, non nutrito, non curato,  
-la sua lampada non faceva che tremolare nella sua coppa;   85  
-visse senza onore e senza amici  
-con appena un soldo in tasca; —  
-anzi — benché lo celasse ai più —  
-con appena una tasca per il suo soldo!  
-1825.
-
 
 
 <span class="atom-split" data-atom="284_cologne" data-title="COLOGNE" data-chapter="" data-kind="intro" data-tags="motif/the_city,motif/river,concept/the_grotesque,concept/satire_of_society,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -1485,20 +796,6 @@ Shall henceforth wash the [[motifs/river|river]] Rhine?   10
 1828.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-In Köhln, città di [[characters/monks|monaci]] e d’ossa,  
-e di selciati zannuti di pietre assassine  
-e stracci, e megere, e sgualdrine orrende;  
-contai settantadue fetori,  
-tutti [[motifs/well|ben]] definiti, e parecchi puzzi!   5  
-O Ninfe che regnate su fogne e acquai,  
-il [[motifs/river|fiume]] Reno, è [[motifs/well|ben]] noto,  
-lava la vostra [[motifs/city|città]] di Colonia;  
-ma ditemi, Ninfe, quale potere divino  
-laverà d’ora innanzi il [[motifs/river|fiume]] Reno?   10  
-1828.
-
 
 
 <span class="atom-split" data-atom="285_on_my_joyful_departure_from_the_same_city" data-title="ON MY JOYFUL DEPARTURE FROM THE SAME CITY" data-chapter="" data-kind="intro" data-tags="motif/the_city,motif/wine_and_drink,concept/satire_of_society,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -1514,17 +811,6 @@ In the [[concepts/body|body]]-and-[[motifs/soul|soul]]-stinking town of Cologne.
 1828.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Com’è vero che son Rimatore,  
-e ora almeno un allegro rimatore,  
-il Rudesheimer del signor Mum  
-e la chiesa di San Gereone  
-sono le due cose sole   5  
-che meritano d’esser conosciute  
-nella città di Colonia che puzza di [[concepts/body|corpo]] e d’[[motifs/soul|anima]].  
-1828.
-
 
 
 <span class="atom-split" data-atom="305_an_apology_for_spencers" data-title="AN APOLOGY FOR SPENCERS" data-chapter="" data-kind="intro" data-tags="motif/clothing,concept/poverty,concept/satire_of_society,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -1539,16 +825,6 @@ March 21, 1796. First published in The Watchman, No. IV. March 25,
 1796. First collected [[works/poems-(chesterton)|Poems]], 1907.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Disse William a [[characters/edmund|Edmund]]: non indovino la ragione  
-per cui gli Spencer abbondano in questa cruda stagione invernale.  
-Fece [[characters/edmund|Edmund]] a William: vedo che non sei un Solone —  
-si può comprare una mezza giacca quando non se ne può una intera.  
-BRISTOLIENSIS.  
-21 marzo 1796. Pubblicato per la prima volta in The Watchman, n. IV, 25 marzo  
-1796. Raccolto per la prima volta in [[works/poems-(chesterton)|Poems]], 1907.
-
 
 
 <span class="atom-split" data-atom="306_on_a_late_marriage_between_an_old_maid_and_french_petit_maître" data-title="ON A LATE MARRIAGE BETWEEN AN OLD MAID AND FRENCH PETIT MAÎTRE" data-chapter="" data-kind="intro" data-tags="concept/marriage_and_fidelity,concept/satire_of_society,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -1562,16 +838,6 @@ First published in The Watchman, No. V, April 2, 1796. Included in
 Literary Remains, 1836, i. 45. First collected P. and D. W., 1877,  
 ii. 368.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Benché il partito della signorina — — sia argomento di riso,  
-ella considerò la cosa assai [[motifs/well|bene]],  
-e saggiamente preferì condurre una scimmia in terra  
-che forse un’intera dozzina all’inferno.  
-Pubblicato per la prima volta in The Watchman, n. V, 2 aprile 1796. Incluso in  
-Literary Remains, 1836, i. 45. Raccolto per la prima volta in P. and D. W., 1877,  
-ii. 368.
 
 
 
@@ -1597,26 +863,6 @@ in The Watchman, No. V, p. 159. Reprinted in Essays on His Own
 Times, 1850, i. 164. First collected P. and D. W., 1877, ii. 368.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Dall’occhio di Rufa l’astuto Cupido scagliò il suo dardo  
-e lo lasciò conficcato nel cuore di Sangrado.  
-Da quel momento non ha conosciuto quiete,  
-e il [[motifs/sleep|sonno]] pacifico è fuggito dalle sue palpebre.  
-E la forza dell’oppio, e quel che più conta, ahimè!  
-le sue proprie orazioni non riescono a richiamarlo.  
-Insomma, se ella non ha pietà delle sue afflizioni,  
-la [[concepts/despair|Disperazione]] gli farà prendere le sue proprie ricette.  
-Pubblicato per la prima volta in The Watchman, n. V, 2 aprile 1796. Incluso in  
-Lit. Rem., i. 45. Raccolto per la prima volta in P. and D. W., 1877, ii. 368.  
-Di Tipi eleganti e graziosi a Bristol ce n’è a numeri, alcuni  
-divenuti sì alla moda, che trovano il buon senso ingombrante;  
-e per non parere strani o ridicoli,  
-fingono di non credere né in Dio né nel vecchio Nicola!  
-Pubblicato per la prima volta nell’articolo ‘To Caius Gracchus’ (firmato S. T. Coleridge)  
-in The Watchman, n. V, p. 159. Ristampato in Essays on His Own  
-Times, 1850, i. 164. Raccolto per la prima volta in P. and D. W., 1877, ii. 368.
-
 
 
 <span class="atom-split" data-atom="308_on_deputy" data-title="ON DEPUTY ——" data-chapter="" data-kind="intro" data-tags="archetype/fool,concept/satire_of_society,concept/power_and_corruption,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -1637,23 +883,6 @@ To be ruled like a Frenchman the Briton is loth,
 Yet in [[concepts/truth|truth]] a direct-tory governs them both.  
 1798. First collected P. and D. W., 1877, ii. 166.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Morso dalla vendetta di più d’uno sciocco  
-lascio i vostri ritrovi, o figli dell’ingegno!  
-e giuro, per la luce benedetta del Cielo,  
-che Epigrammi non ne scriverò più.  
-Che s’impicchi quel ***** d’un asino,  
-che caccia avanti così la sua faccia idiota,  
-la quale, a dispetto dei giuramenti, se mai la scorgo,  
-scriverò un [[forms/epigram|Epigramma]] — o morirò.  
-LABERIUS.  
-Pubblicato per la prima volta nel Morning Post, 2 gennaio 1798. Raccolto per la prima volta in P.  
-and D. W., 1877, ii. 369.  
-A esser governato come un Francese il Britanno è restio,  
-pure in [[concepts/truth|verità]] un diret-torio governa entrambi.  
-1798. Raccolto per la prima volta in P. and D. W., 1877, ii. 166.
 
 
 
@@ -1687,34 +916,6 @@ When you cunningly tell us the [[concepts/truth|truth]].
 and D. W., 1877, ii. 163.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-M’immagino ogni volta che scorgo Nasone  
-Ross,  
-più grande d’un [[motifs/lion|Leone]] è il Rinonaso  
-ceronte.  
-1799. Ora pubblicato per la prima volta da un MS.
-Bob ora decide di calpestare i progetti di [[motifs/marriage|matrimonio]],  
-e ora vuole una moglie in un batter d’occhio.  
-Devo consigliarti — Segui l’esempio di tuo padre  
-e non sposarti. — Ecco, bada ora al mio consiglio.  
-Imitato dal ‘Bald willst du, Trill, und bald willst du dich  
-nicht beweiben.’ di Lessing, Sinngedicht n. 93. Ora pubblicato per la prima volta da un MS.  
-Di’ quel che vuoi, Ingegnoso Giovane!  
-non mi troverai né Gonzo né Zuccone:  
-una volta m’ingannasti — una volta soltanto,  
-fu quando mi dicesti la [[concepts/truth|Verità]].  
-1799. Pubblicato per la prima volta da un MS. nel 1893. Adattato dal
-Sinngedicht n. 45 di Lessing, An einen Lügner. ‘Du magst so oft, so fein, als  
-dir nur möglich, lügen.’  
-[ALTRA VERSIONE]  
-Se la [[concepts/guilt|colpa]] d’ogni menzogna consiste nell’inganno,  
-continua a mentire — è tuo dovere, dolce giovane!  
-ché credimi, solo allora ti troviamo impostore  
-quando astutamente ci dici la [[concepts/truth|verità]].  
-1800. Pubblicato per la prima volta in Annual Anthology, 1800. Raccolto per la prima volta in P.
-and D. W., 1877, ii. 163.
-
 
 
 <span class="atom-split" data-atom="311_on_a_slanderer" data-title="ON A SLANDERER" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/decay,concept/the_grotesque,concept/satire_of_society,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -1731,19 +932,6 @@ Before the man had breathed his last.
 1799. First published from an MS. in 1893. An expansion of [[[forms/epigram|Epigram]]] No.
 12.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Da quella tomba di data recente  
-viene uno strano soffio mefitico.  
-Qui giace — Ah! Maldicente, tu alfine —  
-è proprio lui: e certo come il fato,  
-lo seppellirono con troppa fretta —  
-nella terra è stato gettato,  
-e in questa [[motifs/grave|tomba]],  
-prima che l’uomo avesse esalato l’ultimo respiro.  
-1799. Pubblicato per la prima volta da un MS. nel 1893. Ampliamento dell’[[[Epigram|[Epigramma]]] n.
-12.
 
 
 
@@ -1769,26 +957,6 @@ W., ii. 164. Adapted from Lessing’s Sinngedicht No. 10. Auf
 Lucinden. ‘Sie hat viel Welt, die muntere Lucinde.’  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Frequentammo entrambi lo stesso Collegio,  
-dove imbrattammo molti fogli di carta,  
-e ora andiamo a sfoggiare il nostro sapere,  
-io in Inghilterra, e tu in [[settings/germany|Germania]].  
-Pubblicato per la prima volta in Early Years, &c., di Carlyon, 1856, i. 68. Raccolto  
-per la prima volta in P. and D. W., ii. 374.  
-[IPPONA]  
-Ippona non lascia che sciocco rossore  
-le turbi la guancia, nulla la fa arrossire.  
-Qualunque oscenità tu dica,  
-annuisce e ridacchia franca e gaia.  
-O Vergogna, desta un onesto rossore  
-per questo, — che nulla la fa arrossire.  
-Pubblicato per la prima volta nel Morning Post, (?) 29 agosto 1799. Incluso in An.  
-Anth., 1800, e in Essays, &c., iii. 971. Raccolto per la prima volta in P. and D.  
-W., ii. 164. Adattato dal Sinngedicht n. 10 di Lessing, Auf  
-Lucinden. ‘Sie hat viel Welt, die muntere Lucinde.’
-
 
 
 <span class="atom-split" data-atom="313_on_a_reader_of_his_own_verses" data-title="ON A READER OF HIS OWN VERSES" data-chapter="" data-kind="intro" data-tags="motif/animals,concept/literary_criticism,concept/vanity,concept/satire_of_society,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -1808,22 +976,6 @@ collected P. and D. W., 1877, ii. 162. Adapted from Wernicke’s
 Epigrams, Bk. IX, No. 42. An einen gewissen Pritschmeister. ‘Umsonst  
 dass jedermann, dieweil du manches Blatt.’  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il rauco Mevio legge i suoi versi zoppicanti  
-a tutti e in ogni momento,  
-e li giudica entrambi divinamente lisci,  
-la sua voce [[motifs/well|tanto]] quanto le rime.  
-Ma la gente dice: Mevio non è un asino!  
-Eppure Mevio lo rende chiaro  
-d’essere un [[archetypes/monster|mostro]] d’asino,  
-un asino senza orecchio.  
-Pubblicato per la prima volta nel Morning Post, 7 settembre 1799. Incluso in An.  
-Anth., 1800; Keepsake, 1829, p. 122; Lit. Rem., i. 49. Raccolto  
-per la prima volta in P. and D. W., 1877, ii. 162. Adattato dagli  
-Epigrams di Wernicke, libro IX, n. 42. An einen gewissen Pritschmeister. ‘Umsonst  
-dass jedermann, dieweil du manches Blatt.’
 
 
 
@@ -1850,27 +1002,6 @@ den falschen Ruf von Nigrins Tode. ‘Es sagte, sonder alle Gnade, die
 ganze Stadt Nigrinen tot.’  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-SCRITTO IN [[settings/germany|GERMANIA]]  
-Lunedì scorso tutti i Giornali dissero  
-che il signor —— era morto;  
-orbene, che disse allora la [[motifs/city|Città]]?  
-Un decimo scosse tristemente il capo,  
-e scuotendolo sospirò e sospirando disse:  
-‘Peccato, davvero, è un peccato!’  
-Ma quando la detta notizia si scoprì  
-una voce del tutto infondata,  
-orbene, che disse allora la [[motifs/city|città]]?  
-Gli altri nove decimi scossero il capo,  
-ripetendo ciò che il decimo aveva detto:  
-‘Peccato, davvero, è un peccato!’  
-Pubblicato per la prima volta nel Morning Post, 18 settembre 1799. Incluso in  
-Keepsake, 1829, p. 122; Lit. Rem., i. 46. Raccolto per la prima volta in P. and D.  
-W., 1877, ii. 166. Adattato dal Sinngedicht n. 29 di Lessing, Auf  
-den falschen Ruf von Nigrins Tode. ‘Es sagte, sonder alle Gnade, die  
-ganze Stadt Nigrinen tot.’
-
 
 
 <span class="atom-split" data-atom="315_dear_brother_jem" data-title="DEAR BROTHER JEM" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,concept/literary_criticism,concept/satire_of_society,concept/vanity,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -1884,16 +1015,6 @@ First published in Morning Post, Sept. 23, 1799. Included in An.
 Anth., 1800; Essays, &c., 1850, iii. 974. First collected P. and D.  
 W., 1877, ii. 164.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Jem scrive i suoi versi con più [[characters/speed|velocità]]  
-di quanta il garzone del tipografo ne impieghi a comporli;  
-press’a poco svelto quanto noi sappiamo leggerli,  
-e soltanto non tanto svelto quanto noi li dimentichiamo.  
-Pubblicato per la prima volta nel Morning Post, 23 settembre 1799. Incluso in An.  
-Anth., 1800; Essays, &c., 1850, iii. 974. Raccolto per la prima volta in P. and D.  
-W., 1877, ii. 164.
 
 
 
@@ -1915,22 +1036,6 @@ first [[motifs/time|time]]. Adapted from Lessing’s Sinngedicht No. 119. Auf di
 Genesung einer Buhlerin. ‘Dem Tode wurde jüngst von Pluto anbefohlen.’  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Plutone comandò alla [[motifs/death|morte]] di portar via  
-Billy — la [[motifs/death|Morte]] finse d’obbedire,  
-e non fece che fingere, ché scagliò  
-un dardo senza punta che colpì e non ferì.  
-Lo scarno Economo che (benché mia nonna  
-pensi altrimenti) non scaglia mai i suoi dardi a caso  
-borbottò: ‘Come? mettere in arresto il mio Billy?  
-Sulla mia vita, sarebbe una bella burla!  
-Cosa sì scipita della [[motifs/death|Morte]] non sarà mai detta né cantata —  
-no! Ministri e Ciarlatani, non li prendo io così giovani.’  
-Pubblicato per la prima volta nel Morning Post, 1° ottobre 1799. Ora ristampato per la  
-prima [[motifs/time|volta]]. Adattato dal Sinngedicht n. 119 di Lessing, Auf die  
-Genesung einer Buhlerin. ‘Dem Tode wurde jüngst von Pluto anbefohlen.’
-
 
 
 <span class="atom-split" data-atom="318_to_a_virtuous_oeconomist_wernicke" data-title="TO A VIRTUOUS OECONOMIST: WERNICKE" data-chapter="" data-kind="intro" data-tags="motif/money_gold,concept/economics,concept/poverty,concept/humility,concept/money_and_avarice,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -1947,18 +1052,6 @@ sparsamen Celidon.
 Der Arme fühlt.’  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Sei attento alla tua ricchezza, è vero:  
-pure in modo che del tuo abbondante deposito  
-il bisognoso prenda e ti benedica,  
-ché tu odii la [[concepts/poverty|Povertà]], ma non i Poveri.  
-Pubblicato per la prima volta nel Morning Post, 28 ottobre 1799. Ora ristampato per la  
-prima [[motifs/time|volta]]. Adattato dagli Epigrams di Wernicke (libro I, n. 49). An den  
-sparsamen Celidon.  
-‘Du liebst zwar Geld und Gut, doch so dass dein Erbarmen  
-Der Arme fühlt.’
-
 
 
 <span class="atom-split" data-atom="319_lenfant_prodigue" data-title="L’ENFANT PRODIGUE" data-chapter="" data-kind="intro" data-tags="motif/money_gold,concept/economics,concept/money_and_avarice,concept/satire_of_society,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -1972,15 +1065,6 @@ First published in Morning Post, Nov. 16, 1799. Included in An. Anth.,
 1800. First collected P. and D. W., 1877, ii. 163.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Jack beve vini pregiati, veste alla moda,  
-ma di grazia dove sta il patrimonio di Jack?  
-Nell’Algebra, ché là trovai di recente  
-una quantità detta meno di nulla.  
-Pubblicato per la prima volta nel Morning Post, 16 novembre 1799. Incluso in An. Anth.,  
-1800. Raccolto per la prima volta in P. and D. W., 1877, ii. 163.
-
 
 
 <span class="atom-split" data-atom="320_on_sir_rubicund_naso" data-title="ON SIR RUBICUND NASO" data-chapter="" data-kind="intro" data-tags="motif/wine_and_drink,concept/satire_of_society,concept/power_and_corruption,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -1993,15 +1077,6 @@ First published in Morning Post, Dec. 7, 1799. Included in Essays,
 &c., iii. 975. First collected [[works/poems-(chesterton)|Poems]], 1907. Compare Lessing’s  
 Sinngedicht No. 35. Auf eine lange Nase.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-UN CONSIGLIERE DI [[settings/court|CORTE]] E SUSSURRATORE DI [[motifs/secrets|SEGRETI]]  
-Parlate pure, Signore! siete al sicuro, ché tanto è rosso il vostro naso  
-che, ovunque parliate, tutto è sotto la [[motifs/rose|Rosa]].  
-Pubblicato per la prima volta nel Morning Post, 7 dicembre 1799. Incluso in Essays,  
-&c., iii. 975. Raccolto per la prima volta in [[works/poems-(chesterton)|Poems]], 1907. Confronta il  
-Sinngedicht n. 35 di Lessing, Auf eine lange Nase.
 
 
 
@@ -2017,17 +1092,6 @@ And without head or tail!
 First published in Morning Post, Jan. 24, 1800. Included in  
 Keepsake, 1829, p. 277. First collected P. and D. W., ii. 161.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Sul suo Carmen Seculare (titolo che da varie persone che l’hanno  
-udito è stato così tradotto: ‘Un Poema lungo un’era’).  
-Il vostro poema dev’essere eterno,  
-eterno! non può fallire,  
-ché è incomprensibile,  
-e senza capo né coda!  
-Pubblicato per la prima volta nel Morning Post, 24 gennaio 1800. Incluso in  
-Keepsake, 1829, p. 277. Raccolto per la prima volta in P. and D. W., ii. 161.
 
 
 
@@ -2048,22 +1112,6 @@ Johannes, sollt’ er wieder sein.
 Doch käm er, riet’ ich, dass er dächte,  
 Wie viel er Köpf’ in Vorrat brächte.’  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Oh se il Battista tornasse di nuovo  
-e predicasse a gran voce con tutte le forze  
-il pentimento alla nostra razza viperina!  
-Ma se questo miracolo dovesse avvenire,  
-[[concepts/hope|spero]] che, prima di calcare suolo irlandese,  
-faccia buona provvista di teste!  
-Pubblicato per la prima volta in An. Anth., 1800. Raccolto per la prima volta in P. and D. W.,  
-1877, ii. 162. Adattato dal Sinngedicht di Friedrich von Logau,  
-Johannes der Täufer, edizione di Lessing, libro I, n. 30: —  
-‘Nicht recht! nicht recht! würd’ immer schrein  
-Johannes, sollt’ er wieder sein.  
-Doch käm er, riet’ ich, dass er dächte,  
-Wie viel er Köpf’ in Vorrat brächte.’
 
 
 
@@ -2087,24 +1135,6 @@ First published in An. Anth., 1800. First collected P. and D. W.,
 [After 4] Now by miraculous deeds to stir them MS.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Ritengo che di tutta la nostra razza viperina  
-i rettili avidi che stanno in carica  
-siano i più vili, i più velenosi; e poi  
-gli Irlandesi Uniti!  
-Se Giovanni decidesse di venire in terra,  
-imprimis, gli condoneremo il sermone.  
-Senza una parola il buon vecchio Derviscio  
-potrebbe rendere un servizio incalcolabile,  
-salvando a un tempo da tirannia e tumulto  
-leggi, vite, libertà e denari,  
-se, attenendosi alla sua antica dieta,  
-si mangiasse le nostre locuste e i nostri mieli selvatici!  
-Pubblicato per la prima volta in An. Anth., 1800. Raccolto per la prima volta in P. and D. W.,  
-1877, ii. 162.  
-[Dopo il 4] Now by miraculous deeds to stir them MS.
-
 
 
 <span class="atom-split" data-atom="324_a_liar_by_profession" data-title="A LIAR BY PROFESSION" data-chapter="" data-kind="intro" data-tags="concept/deception,concept/satire_of_society,concept/truth,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -2122,19 +1152,6 @@ ii. 163. Adapted from Lessing’s Sinngedicht No. 142. Auf den Ley.
 ‘Der gute Mann, den Ley beiseite dort gezogen!’  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Mentre Dick ed io passeggiavamo a Charing [[motifs/cross|Cross]],  
-chi vedemmo passare dall’altro lato  
-se non Informator che parlava con uno sconosciuto,  
-sicché esclamai: ‘Signore, che bugia!’  
-Fece Dick — ‘Come, riesci a sentirlo?’  
-‘Sentirlo! sciocchezze!  
-L’ho visto aprire la bocca — non basta forse?’  
-Pubblicato per la prima volta in An. Anth., 1800. Raccolto per la prima volta in P. and D. W.,  
-ii. 163. Adattato dal Sinngedicht n. 142 di Lessing, Auf den Ley.  
-‘Der gute Mann, den Ley beiseite dort gezogen!’
-
 
 
 <span class="atom-split" data-atom="325_to_a_proud_parent" data-title="TO A PROUD PARENT" data-chapter="" data-kind="intro" data-tags="concept/marriage_and_fidelity,concept/deception,concept/satire_of_society,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -2150,17 +1167,6 @@ Lessing’s Sinngedicht No. 17. An den Doktor Sp * *. ‘Dein Söhnchen
 lässt dich nie den Namen Vater hören.’  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-I tuoi bimbi non ti salutano mai col nome di padre;  
-‘Mio Lord!’ balbettano. Or donde può ciò venire?  
-Forse la loro madre prova un’onesta vergogna  
-e non vuole insegnare al suo bambino a dir bugie.  
-Pubblicato per la prima volta in An. Anth., 1800, incluso in Essays, &c., ii.  
-997. Raccolto per la prima volta in P. and D. W., 1877, ii. 164. Adattato dal
-Sinngedicht n. 17 di Lessing, An den Doktor Sp * *. ‘Dein Söhnchen  
-lässt dich nie den Namen Vater hören.’
-
 
 
 <span class="atom-split" data-atom="326_rufa" data-title="RUFA" data-chapter="" data-kind="intro" data-tags="motif/animals,concept/satire_of_society,concept/the_grotesque,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -2175,17 +1181,6 @@ First published in An. Anth., 1800. First collected P. and D. W.,
 1877, ii. 164. Adapted from Lessing’s Sinngedicht No. 66. An die  
 Dorilis. ‘Dein Hündchen, Dorilis, ist zärtlich, tändelnd, rein.’  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il tuo cagnolino, Rufa, è una bestiola delicata,  
-non mi sorprende affatto  
-vederti leccare una bestiola così delicatamente pulita.  
-Ma che una bestiola così delicatamente pulita lecchi te,  
-sì — questo mi sorprende.  
-Pubblicato per la prima volta in An. Anth., 1800. Raccolto per la prima volta in P. and D. W.,  
-1877, ii. 164. Adattato dal Sinngedicht n. 66 di Lessing, An die  
-Dorilis. ‘Dein Hündchen, Dorilis, ist zärtlich, tändelnd, rein.’
 
 
 
@@ -2204,19 +1199,6 @@ First published in An. Anth., 1800. Included in Essays, &c., iii.
 988. First collected P. and D. W., 1877, ii, 165.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-UNO SCHERZO (grida Jack) senza  
-un  
-pungiglione —  
-Post obitum nessun uomo può cantare.  
-E davvero, se Jack non emenda i suoi costumi  
-e non lascia le bandiere atee,  
-post obitum Jack andrà a cozzare  
-contro gente che sa soltanto ululare.  
-Pubblicato per la prima volta in An. Anth., 1800. Incluso in Essays, &c., iii.  
-988. Raccolto per la prima volta in P. and D. W., 1877, ii, 165.
-
 
 
 <span class="atom-split" data-atom="333_to_a_critic" data-title="TO A CRITIC" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,concept/literary_criticism,concept/satire_of_society,concept/the_grotesque,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -2234,19 +1216,6 @@ But should you like it, candid critic?
 First published in Morning Post, Dec. 16, 1801: included in Keepsake, 1829, and in Essays, &c., iii. 977-8. First collected in P. and D. W., 1877, ii. 167.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CHE ESTRASSE UN PASSO DA UN POEMA SENZA AGGIUNGERE UNA PAROLA SUL CONTESTO, E POI LO DERISE COME INCOMPRENSIBILE.  
-Candidissimo critico, e se io,  
-per ischerzo, ti cavassi un occhio,  
-e levando in alto il [[forms/fragment|frammento]], gridassi:  
-‘Ah! ah! che gli uomini siano tanto sciocchi!  
-Guardate questo Grumo informe! — e colui  
-che lo possedeva credeva che vedesse!’  
-Lo scherzo sarebbe assai analitico,  
-ma ti piacerebbe, candido critico?  
-Pubblicato per la prima volta nel Morning Post, 16 dicembre 1801: incluso in Keepsake, 1829, e in Essays, &c., iii. 977-8. Raccolto per la prima volta in P. and D. W., 1877, ii. 167.
-
 
 
 <span class="atom-split" data-atom="334_always_audible" data-title="ALWAYS AUDIBLE" data-chapter="" data-kind="intro" data-tags="motif/wine_and_drink,motif/sleep,concept/satire_of_society,form/epigram,form/satire,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -2258,14 +1227,6 @@ Pass under Jack’s [[motifs/window|window]] at twelve at [[motifs/noon|noon]],
 You’ll hear him still — he’s snoring!  
 First published in Morning Post, Dec. 19, 1801. First collected 1893.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Passa sotto la [[motifs/window|finestra]] di Jack alle dodici di [[motifs/night|notte]]  
-lo sentirai ancora — sta ruggendo!  
-Passa sotto la [[motifs/window|finestra]] di Jack alle dodici del [[motifs/noon|mezzogiorno]],  
-lo sentirai ancora — sta russando!  
-Pubblicato per la prima volta nel Morning Post, 19 dicembre 1801. Raccolto per la prima volta nel 1893.
 
 
 
@@ -2312,47 +1273,6 @@ First published in Morning Post, Sept. 23, 1802. Included in P. R.
 1802, ii. 363, and The Friend, No. 12, Nov. 9, 1809.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Sposare uno [[archetypes/fool|sciocco]], davvero non vedo  
-perché tu, Eliza, sia tanto restia;  
-saresti pur sempre alla pari con le altre coppie,  
-giacché hai spirito e senno abbastanza per due.  
-Pubblicato per la prima volta nel Morning Post, 26 dicembre 1801. Raccolto per la prima volta nel 1893.  
-Il titolo si riferiva a un [[forms/epigram|epigramma]] pubblicato nel M. P. del 24 dicembre 1801.  
-[I ventuno ‘Original Epigrams’ che seguono furono stampati nel  
-Morning Post, nel settembre e ottobre 1802, con la firma  
-‘•£¤—£•’. Furono inclusi in Essays, &c., iii. 978-86, e furono  
-raccolti per la prima volta in P. and D. W., 1877, ii. 171-8.]  
-Che cos’è un [[forms/epigram|Epigramma]]? un tutto nano,  
-il suo [[concepts/body|corpo]] la brevità, e l’arguzia la sua [[motifs/soul|anima]].  
-Pubblicato per la prima volta nel Morning Post, 23 settembre 1802. Incluso in Poetical  
-Register, 1802 (1803), ii. 253; e in The Friend, n. 12, 9 novembre  
-1809. Cfr. Beschaffenheit der Überschriften di Wernicke (cioè La
-[[concepts/nature|Natura]] dell’[[forms/epigram|epigramma]]), libro I, n. 1.  
-‘Dann lässt die Überschrift kein Leser aus der Acht,  
-Wenn in der Kürz’ ihr Leib, die Seel’ in Witz bestehet.’  
-Carlo, [[motifs/grave|grave]] o allegro, non s’arrestava a nessuna bugia,  
-e insegnò alla lunga alla sua [[motifs/memory|memoria]] lo stesso giuoco.  
-Credendo così ciò che sì spesso ripete,  
-ha condotto la cosa a tal punto, povero giovane,  
-che ora inganna se stesso e nessun altro,  
-salvo quando per disgrazia dice la [[concepts/truth|verità]].  
-Pubblicato per la prima volta nel Morning Post, 23 settembre 1802. Incluso in P. R.  
-1802, ii. 317, e The Friend, n. 12, 9 novembre 1809.  
-Uno spirito maligno è su di te, amico! di recente!  
-Fin dall’ora in cui entrasti nel tuo Patrimonio.  
-Sparita la tua allegria, la tua bontà, la tua discrezione,  
-il patrimonio t’è riuscito un possesso quanto mai completo.  
-Vergogna, vergogna, vecchio amico! se vuoi essere davvero il migliore,  
-sii Signore della tua ricchezza, non schiavo! possessore, non posseduto.  
-Pubblicato per la prima volta nel Morning Post, 23 settembre 1802. Incluso in P. R.  
-1802, ii. 317, e The Friend, n. 12, 9 novembre 1809.  
-Qui giace il Diavolo — non chiedere altro nome.  
-[[motifs/well|Bene]] — ma intendi Lord —— ? Zitto! intendiamo lo stesso.  
-Pubblicato per la prima volta nel Morning Post, 23 settembre 1802. Incluso in P. R.  
-1802, ii. 363, e The Friend, n. 12, 9 novembre 1809.
-
 
 
 <span class="atom-split" data-atom="338_to_a_vain_young_lady" data-title="TO A VAIN YOUNG LADY" data-chapter="" data-kind="intro" data-tags="concept/pride,concept/beauty,concept/satire_of_society,concept/paradox,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -2371,21 +1291,6 @@ Sweet Anne! thou wert, indeed, bewitching.
 First published in Morning Post, Sept. 23 1802. Included in The  
 Friend, No. 12, Nov. 9, 1809.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Se tu pensassi meno al tuo caro [[concepts/self|io]]  
-assai più penserebbero gli altri a te!  
-Dolce Anna! la coscienza della tua ricchezza  
-ti riduce in [[concepts/poverty|povertà]].  
-La benigna [[concepts/nature|Natura]] ti diè spirito, [[concepts/beauty|bellezza]], salute,  
-posando su te come sulla sua prediletta;  
-potessi tu scordare d’essere così arricchita,  
-in quell’istante diverresti ricca davvero!  
-E se non fossi tanto stregata di [[concepts/self|te]],  
-dolce Anna! saresti, davvero, incantevole.  
-Pubblicato per la prima volta nel Morning Post, 23 settembre 1802. Incluso in The  
-Friend, n. 12, 9 novembre 1809.
 
 
 
@@ -2409,24 +1314,6 @@ Nemo mihi credit,
 Zoile, nemo, tibi.’  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Quando vengono i ladri, abbaio: quando i galanti, taccio —  
-così compio il volere e del Padrone e della Padrona.  
-Pubblicato per la prima volta nel Morning Post, 2 ottobre 1802. Incluso in The  
-Friend (titolo, ‘For a French House-Dog’s Collar’), n. 12, 9 novembre  
-1809.  
-Invano ti lodo, Zoilo!  
-Invano tu m’insulti!  
-A me nessuno crede, Zoilo!  
-e a te nessuno crede!  
-Pubblicato per la prima volta nel Morning Post, 2 ottobre 1802. Adattato da un  
-[[forms/epigram|Epigramma]] latino ‘In Zoilum,’ di George Buchanan:  
-‘Frustra ego te laudo, frustra  
-Me, Zoile, laedis;  
-Nemo mihi credit,  
-Zoile, nemo, tibi.’
-
 
 
 <span class="atom-split" data-atom="341_epitaph_on_a_mercenary_miser" data-title="EPITAPH ON A MERCENARY MISER" data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/the_grave,motif/death,motif/dreams,concept/satire_of_society,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -2448,24 +1335,6 @@ To lie awake and every hour to know
 How many people read his tombstone GRATIS.  
 First published in Morning Post, Oct. 9, 1802.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Un povero venditore ambulante sorpreso dal buio bussò  
-una [[motifs/night|notte]] alla porta di VENDI-TUTTO,  
-lo stesso che aveva salvato la vita al vecchio VENDI-TUTTO —  
-non era che l’anno prima!  
-E Vendi-tutto si [[motifs/rose|levò]] e lo fece entrare,  
-non del tutto malvolentieri,  
-ma prima mercanteggiò con l’uomo,  
-e gli prese l’unico scellino!  
-Quella [[motifs/night|notte]] sognò d’aver donato via il suo gruzzolo,  
-camminò nel [[motifs/sleep|sonno]], e dormendo s’impiccò!  
-E ora la sua [[motifs/soul|anima]] e il suo [[concepts/body|corpo]] riposano quaggiù;  
-e qui, dicono, la sua pena e la sua sorte è  
-giacere insonne e ogni ora sapere  
-quanta gente legge la sua lapide GRATIS.  
-Pubblicato per la prima volta nel Morning Post, 9 ottobre 1802.
 
 
 
@@ -2494,29 +1363,6 @@ What hides the [[concepts/body|body]] oft the mind discovers.
 First published in Morning Post, Oct. 11, 1802.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Autore. Suvvia; la vostra opinione sul mio manoscritto!  
-Amico. Caro Joe! quasi preferirei essere frustato.  
-Autore. Ma la voglio!  
-Amico. Se proprio si deve — (esitando)  
-Scrivete tanto male che a stento riuscii a leggere la grafia —  
-Autore. Una pura scappatoia!  
-Amico. E compitate tanto male  
-che ciò che lessi non riuscii a capire.  
-Pubblicato per la prima volta nel Morning Post, 11 ottobre 1802.  
-œÉÁ¿Ã¿Æw± OVVERO SAGGEZZA NELLA FOLLIA  
-Tom l’Infingardo parla, come s’addice all’infingardo Tom,  
-di ciò che presto guadagnerà e di ciò che farà,  
-poi cade addormentato, e così prolunga i suoi [[motifs/dreams|sogni]]  
-e gode così d’un tratto ciò che mezzo mondo corteggia.  
-Pubblicato per la prima volta nel Morning Post, 11 ottobre 1802.  
-Ogni bellimbusto di Bond Street si vanta, sciagurato folletto!  
-Mostra i suoi abiti! Ahimè! mostra se stesso.  
-Oh sapessero, questi troppo azzimati amanti di [[concepts/self|sé]],  
-che ciò che nasconde il [[concepts/body|corpo]] spesso la mente scopre.  
-Pubblicato per la prima volta nel Morning Post, 11 ottobre 1802.
-
 
 
 <span class="atom-split" data-atom="343_from_an_old_german_poet" data-title="FROM AN OLD GERMAN POET" data-chapter="" data-kind="intro" data-tags="concept/satire_of_society,concept/nationalism_and_patriotism,concept/war_and_its_cost,concept/lust,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -2540,25 +1386,6 @@ in Frankreich.
 Durch Pulver, welches wir erfunden.’  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Che la Francia ci abbia spesso messi in rotta  
-con la polvere, che noi stessi scoprimmo;  
-e rida di noi come di sciocchi nella stampa,  
-di cui il nostro ingegno fu la Zecca;  
-tutto questo lo ammetto di buon grado,  
-ché noi abbiamo ingegno, la Francia arguzia.  
-Ma è troppo brutto che, cieco e folle,  
-alle mogli dei Francesi vada ogni Tedesco in viaggio,  
-spanda il suo maschio vigore al loro fianco,  
-divenga padre dei nemici della sua patria  
-e faccia spesso dei loro guerrieri altrettanti parricidi.  
-Pubblicato per la prima volta nel Morning Post, 11 ottobre 1802. Adattato dagli  
-Epigrams di Wernicke (libro VIII, n. 4), Auf die Buhlerey der Deutschen  
-in Frankreich.  
-‘Dass Frankreich uns pflegt zu verwunden  
-Durch Pulver, welches wir erfunden.’
-
 
 
 <span class="atom-split" data-atom="346_to_my_candle" data-title="TO MY CANDLE" data-chapter="" data-kind="intro" data-tags="motif/fire,motif/light_and_dark,concept/friendship,concept/the_artist_and_society,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -2577,20 +1404,6 @@ Valete et Plaudite.
 First published in Morning Post, Oct. 11, 1802.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-L’[[forms/epigram|EPIGRAMMA]] D’ADDIO  
-Buona Candela, tu che col tuo fratello, il [[motifs/fire|Fuoco]],  
-sei il mio miglior amico e conforto di [[motifs/night|notte]],  
-appena smoccolata, hai l’aria di [[motifs/desire|desiderare]]  
-che io su te scriva un [[forms/epigram|epigramma]].  
-Cara Candela, consumata fino a una falange,  
-la tua fiamma stessa è un [[forms/epigram|epigramma]] alla vista;  
-è breve, e acuminata, e tutta luce,  
-pure dà più luce e arde più viva sulla punta.  
-Valete et Plaudite.  
-Pubblicato per la prima volta nel Morning Post, 11 ottobre 1802.
-
 
 
 <span class="atom-split" data-atom="348_the_taste_of_the_times" data-title="THE TASTE OF THE TIMES" data-chapter="" data-kind="intro" data-tags="concept/satire_of_society,concept/the_artist_and_society,concept/childhood_and_growth,concept/disillusionment,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -2608,20 +1421,6 @@ He is a very petty Pitt indeed!
 First printed (from an autograph MS.) by Mr. [[characters/bertram|Bertram]] Dobell in the  
 Athenæum, Jan. 9, 1904. Now collected for the first [[motifs/time|time]].  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Qualche capriccio o fantasia piace a ogni occhio;  
-pei talenti precoci è ora la mania:  
-in Musica come avrebbe sorriso il grande Händel  
-a veder quali folle vanno in estasi per un [[archetypes/child|fanciullo]]!  
-Un Garrick l’abbiamo avuto nella piccola Betty —  
-e ora ci dicono che abbiamo un Pitt in Petty!  
-Tutti devono ammettere, poiché così è decretato,  
-ch’egli è davvero un Pitt ben piccino — un Petty!  
-? 1806.  
-Stampato per la prima volta (da un MS. autografo) dal signor [[characters/bertram|Bertram]] Dobell nell’  
-Athenæum, 9 gennaio 1904. Ora raccolto per la prima [[motifs/time|volta]].
 
 
 
@@ -2656,35 +1455,6 @@ Essays, &c., iii. 986. First collected in P. and D. W., 1877, ii.
 178.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Vanto di Britannia, sua gloria e suo [[concepts/pride|orgoglio]],  
-Pitt visse e morì al servizio della sua Patria:  
-risolto alfine a fare come Pitt aveva fatto,  
-per servire una volta la sua Patria, anche Fox morì!  
-Pubblicato per la prima volta dal signor B. Dobell nell’Athenæum, 6 gennaio 1904. Questo  
-[[forms/epigram|epigramma]] proviene dalla stessa fonte manoscritta del precedente, ‘On the Taste  
-of the Times,’ e può essere stato composto da S. T. C.  
-In Fugitive Pieces (1806) (vedi P. W., 1898, i. 34) Byron pubblicò una  
-risposta ‘da inserire nel Morning Chronicle al seguente  
-illiberale improvviso sulla [[motifs/death|morte]] del signor Fox, apparso nel  
-Morning Post [26 settembre 1806]: —  
-“I Nemici della nostra Nazione piangono la [[motifs/death|morte]] di Fox,  
-ma benedicono l’ora in cui Pitt rese l’ultimo respiro:  
-questi sentimenti diffusi lascino il Senno e la [[concepts/truth|Verità]] dipanare,  
-noi diamo la palma dove la Giustizia addita il suo dovuto.”’  
-Ho pochi [[concepts/doubt|dubbi]] che questo ‘illiberal impromptu’ sia stato pubblicato da S.  
-T. C., che era appena tornato dall’[[settings/italy|Italia]] e scriveva di nuovo per  
-la stampa. È possibile che abbia velato le sue iniziali nel verso, ‘Let  
-Sense and [[concepts/truth|Truth]] unClue.’  
-Un eccellente adagio comanda che si debba  
-dire dei morti soltanto ciò che è bene;  
-ma del gran Lord che qui giace nel piombo  
-nulla di buono sappiamo se non che è morto.  
-Pubblicato per la prima volta in The Friend, n. 12, 9 novembre 1809. Incluso in  
-Essays, &c., iii. 986. Raccolto per la prima volta in P. and D. W., 1877, ii.  
-178.
-
 
 
 <span class="atom-split" data-atom="350_comparative_brevity_of_greek_and_english" data-title="COMPARATIVE BREVITY OF GREEK AND ENGLISH" data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/death,form/epigram,histref/classical_antiquity,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -2698,15 +1468,6 @@ First published in Omniana, 1812, ii. 123. First collected in P. and
 D. W. 1877, ii. 374.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-ÇÁÅÃx½ ½tÁ µQÁ|½ »¹Àµ ²ÁyÇ¿½, ±PÄpÁ A ÇÁÅÃx½  
-E½ »wÀµ½ ¿PÇ µQÁ|½ 'Èµ½ E½ µWÁµ ²ÁyÇ¿½.  
-Jack trovando dell’oro lasciò a terra una corda:  
-Bill non trovando più il suo oro usò la corda che trovò.  
-Pubblicato per la prima volta in Omniana, 1812, ii. 123. Raccolto per la prima volta in P. and  
-D. W. 1877, ii. 374.
-
 
 
 <span class="atom-split" data-atom="351_epigram_on_the_secrecy_of_a_certain_lady" data-title="EPIGRAM ON THE SECRECY OF A CERTAIN LADY" data-chapter="" data-kind="intro" data-tags="motif/the_grave,concept/satire_of_society,concept/appearance_vs_reality,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -2719,15 +1480,6 @@ That tells you all about it.’
 First published in The Courier, Jan. 3, 1814. Included in Essays,  
 &c., iii. 986. Now collected for the first [[motifs/time|time]].  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-‘È segreta come la [[motifs/grave|tomba]], convieni!’  
-‘Convengo; non posso [[concepts/doubt|dubitarne]].  
-Ma è una [[motifs/grave|tomba]] con la lapide sopra,  
-che ti racconta tutto quanto.’  
-Pubblicato per la prima volta in The Courier, 3 gennaio 1814. Incluso in Essays,  
-&c., iii. 986. Ora raccolto per la prima [[motifs/time|volta]].
 
 
 
@@ -2743,16 +1495,6 @@ First published in Biog. Lit., 1817, ii. 118. First collected in P.
 W., 1885, ii. 363.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Non hanno bisogno di rancore privato, né di livore personale,  
-la viva sectio è diletto a se stessa!  
-Ogni inimicizia, ogni invidia, essi rinnegano,  
-disinteressati ladri del nostro buon nome —  
-freddi, sobrii assassini della fama del prossimo!  
-Pubblicato per la prima volta in Biog. Lit., 1817, ii. 118. Raccolto per la prima volta in P.  
-W., 1885, ii. 363.
-
 
 
 <span class="atom-split" data-atom="354_written_in_an_album" data-title="WRITTEN IN AN ALBUM" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,concept/satire_of_society,concept/the_artist_and_society,concept/identity,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -2765,15 +1507,6 @@ The public little knows — the publisher too much.
 First published in 1834.  
 TO A LADY WHO REQUESTED ME TO WRITE A  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Parry cerca la cresta Polare,  
-rime cerca S. T. Coleridge,  
-Autore di Opere, delle quali — benché non in olandese —  
-il pubblico sa poco — l’editore troppo.  
-Pubblicato per la prima volta nel 1834.  
-A UNA DAMA CHE MI CHIESE DI SCRIVERE UNA
 
 
 
@@ -2791,19 +1524,6 @@ First published in News of Literature, Dec. 10, 1825. See Arch.
 Constable and his Literary Correspondents, 1873, iii. 482. First  
 collected in 1893.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-‘Un pesante spirito penderà a ogni lord,’  
-così cantò Dan Pope; ma sul mio onore,  
-era un contafavole,  
-o altrimenti i tempi sono affatto mutati;  
-ché gli spiriti, pesanti ora, o lievi,  
-pendono ciascuno da un libraio.  
-S. T. C.  
-Pubblicato per la prima volta in News of Literature, 10 dicembre 1825. Vedi Arch.  
-Constable and his Literary Correspondents, 1873, iii. 482. Raccolto  
-per la prima volta nel 1893.
 
 
 
@@ -2826,24 +1546,6 @@ LABERIUS.
 First published in the Morning Post, January 4, 1798. First collected  
 P. and D. W., 1877-80, ii. 370.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-O —— ! O —— ! di voi ci lagniamo  
-per aver esposto quelle orecchie al [[motifs/wind|vento]] e alla pioggia.  
-Il tuo volto, un enorme patereccio giunto a maturazione,  
-mal s’accorda con quelle orecchie sì crude e sì rosse.  
-Un Critico Musicale d’altri tempi si mise a fare il broncio  
-quando vide come i suoi asinini onori germogliavano;  
-ma li nascose ben bene in una folta crespa capigliatura,  
-e il Barbiere solo fiutò i suoi asini [così] rari.  
-Il tuo giudizio assai peggiore, e i tuoi ritti altrettanto ampi,  
-oh bada al [[archetypes/king|Re]] Mida, e prendi il suo esempio.  
-Così pubblicare il vostro destino è tanto inutile quanto sbagliato —  
-non fate che provare con le orecchie ciò che indovinammo dalla lingua.  
-LABERIUS.  
-Pubblicato per la prima volta nel Morning Post, 4 gennaio 1798. Raccolto per la prima volta  
-in P. and D. W., 1877-80, ii. 370.
 
 
 
@@ -2869,26 +1571,6 @@ Versificator!
 First published in Essays, &c., 1850, iii. 987. First collected 1893.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Ecco la prima copia di versi insensati di Jem,  
-tutta all’antica maniera di Madonna Saffo,  
-latino proprio come Orazio, il melodioso Romano,  
-imitatore di Saffo:  
-Ma noi Vati, noi classici Poeti [[forms/lyric|Lirici]],  
-sappiamo una cosa o due in un Pianeta meschino:  
-non è vero, su? Eh? Fratello Horatius Flaccus,  
-qua la zampa, ragazzo: —  
-Alla salute di Mecenate e degli altri degni;  
-ricchi d’Inghilterra! volete essere immortali?  
-Proteggete il Genio, dando Quattrini e Lodi a  
-Gillman Jacobus;  
-Gillman Jacobus, quello dei Merchant Taylors’,  
-Minor ætate, ingenio at stupendus,  
-Saffico, Eroico, Elegiaco, — che  
-Versificator!  
-Pubblicato per la prima volta in Essays, &c., 1850, iii. 987. Raccolto per la prima volta nel 1893.
-
 
 
 <span class="atom-split" data-atom="372_to_susan_steele_on_receiving_the_purse" data-title="TO SUSAN STEELE ON RECEIVING THE PURSE" data-chapter="" data-kind="intro" data-tags="motif/money_gold,concept/poverty,concept/friendship,concept/joy,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -2912,25 +1594,6 @@ S. T. COLERIDGE.
 1829. Now first published from an MS.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-VERSI STRAVAGANTISSIMI  
-Mia carissima Dawtie!  
-che non sei mai cattiva —  
-Quando la Cavalla fu rubata, e non prima,  
-il saggio si procurò una porta di stalla:  
-ed egli ed io siamo fratelli Sciocchi,  
-una Bestia perse lui e io due ghinee;  
-e com’è certo che è bagnato quando lassù piove,  
-il cervello di quell’uomo e il mio avevano entrambi spesse coperture,  
-ché se lui perse una cavalla, io poveretto persi due sovrane!  
-Una borsa da denari ce l’ho, ma niente denari da metterci,  
-benché ci sia oro al mondo e Sir Walter sappia guadagnarlo:  
-per amor vostro la terrò nel bene e nel male,  
-e dunque ecco un caro bacio amoroso per la vostra borsa.  
-S. T. COLERIDGE.  
-1829. Ora pubblicato per la prima volta da un MS.
-
 
 
 <span class="atom-split" data-atom="374_verses_trivocular" data-title="VERSES TRIVOCULAR" data-chapter="" data-kind="intro" data-tags="motif/winter,motif/clothing,concept/paradox,concept/joy,form/epigram,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -2945,17 +1608,6 @@ And shell-fish, the small, Periwinkle and Cockle are,
 So with them will I finish these verses trivocular.  
 Now first published from an MS.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-D’un briciolo di scienza ho prova oculare.  
-Un cuore d’una sola camera lo dicon uniloculare,  
-e in un [[motifs/frost|gelo]] pungente, o quando i fiocchi di [[motifs/snow|neve]] cadono floccolare,  
-il vostro saggio d’un tempo s’avvolgeva in un Roquelaure,  
-che si chiamava un Wrap-rascal quando la gente si dava al giocolare.  
-E i molluschi minuti, Littorina e Cocciolare,  
-sicché con essi finirò questi versi trivoculare.  
-Ora pubblicato per la prima volta da un MS.
 
 
 
@@ -3025,70 +1677,6 @@ repeated Hurra!
 Letter, 1832.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Ovvero una premonizione promulgata gratis a uso delle Classi Utili,  
-specialmente di quelle residenti a St. Giles’s, Saffron [[motifs/hill|Hill]], Bethnal Green,  
-ecc.; e parimenti, giacché l’uomo buono è misericordioso anche verso le  
-bestie, a beneficio dei Tori e degli Orsi della Borsa.  
-Dolori ventrali, subventrali,  
-nello stomaco o nelle interiora,  
-non pensateli più semplici prefazioni  
-a smorfie, gemiti e visacci;  
-ma via dal dottore, presto quanto sapete strisciare!   5  
-pure assai meglio sarebbe non averli affatto.  
-Or per scampare ai mali interni,  
-non mangiate prugne né torte di prugne;  
-gridate: indietro! patata novella —  
-e non bevete, come il vecchio Catone.   10  
-Ah! guardatevi dalla Dispipsia,  
-e non v’imbriacate!  
-Ché benché il gin e il whisky  
-possano farvi sentire arzilli,  
-non sono che ruffiani della Dispipsia;   15  
-e naso a coda, con questa zingara  
-viene, nero come una focena,  
-il diabolus ipse,  
-chiamato Cholery Morpus;  
-che con corna, zoccoli e coda gracchia chiedendo carogne di cui pascersi,   20  
-benché, essendo un Diavolo, nessuno l’abbia mai veduto!  
-Ah! allora, cari miei tesori,  
-non c’è cura per voi  
-né per amore né per denaro: —  
-lo troverete pur troppo vero.   25  
-Ohi! che baccano!  
-Ohi! ohi! come gemerete,  
-quando il vagabondo nutrito di rifiuti  
-vi farà diventare azzurri  
-come il fetido lume a gas,   30  
-che sprizza a getti di sotto la sua propria coda; —  
-finché, veloce come la posta,  
-egli alfine vi porta i crampi,  
-che vi torceranno come Sansone.  
-Sicché, senza più ciance,   35  
-cari frugatori di fango! fratelli miei!  
-d’ogni odore e grado,  
-(voi stessi e le vostre donne)  
-abiurate ogni cabala, ragazzi,  
-veglie, unioni e risse,   40  
-[[motifs/dreams|sogni]] caldi e insalate fredde,  
-e non accalcatevi in porcili che soffocherebbero le scrofe!  
-Lasciate le bandiere di Cobbett, di O’Connell e di Belzebù,  
-e imbiancate d’un colpo budella, stanze, mani e maniere!  
-26 luglio 1832. Pubblicato per la prima volta in P. W. 1834. Questi versi furono  
-acclusi a una lettera a J. H. Green, del 26 luglio 1832, con la  
-seguente introduzione: ‘Address premonitory to the Sovereign People, or  
-the Cholera cured before-hand, promulgated gratis for the use of the  
-useful classes, specially of those resident in St. Giles, Bethnal Green,  
-Saffron [[motifs/hill|Hill]], etc., by their Majesties’, i. e. the People’s, loyal  
-subject — Demophilus Mudlarkiades.’  
-[Dopo il 44]  
-Vivat Rex Popellio!  
-Vivat Regina Plebs!  
-Hurrà! 3 volte 3 tre volte  
-ripetuto Hurrà!  
-Letter, 1832.
-
 
 
 <span class="atom-split" data-atom="390_imitated_from_aristophanes" data-title="IMITATED FROM ARISTOPHANES" data-chapter="" data-kind="intro" data-tags="motif/fog_and_smoke,concept/satire_of_society,concept/appearance_vs_reality,form/satire,histref/ancient_greece,histref/greek_mythology,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -3115,28 +1703,6 @@ Can therefore never be again ——
 1820. First published from an MS. in 1893.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-(Nubes 315, 317.)  
-¼µ³q»±¹ ¸µ±v ½´ÁqÃ¹½ Á³¿ÖÂ,  
-±5ÀµÁ ³½}¼·½ º±v ´¹q»µ¾¹½ º±v ½¿æ½ !¼Ö½ À±ÁsÇ¿ÅÃ¹  
-º±v ÄµÁ±Äµw±½ º±v ÀµÁw»µ¾¹½ º±v ºÁ¿æÃ¹½ º±v º±Ä±»·È¹½.  
-Ché gli antichi . . . avevano i loro scintillanti VAPORI, che (come ci dice il poeta  
-comico) nutrivano una schiera di sofisti.  
-Grandi dee sono esse per la gente pigra,  
-che riversano su noi doni di fluente eloquio,  
-senno sentenziosissimo, effetto mirabilmente fine,  
-e l’arte di parlarne e riparlarne,  
-pensieri vivaci come [[motifs/bees|api]], e pathos molle e disgelante.  
-1817. Pubblicato per la prima volta in The Friend, 1818, iii. 179; 1850, iii. 138.
-Raccolto per la prima volta nel 1893.  
-Lasciate che zolle di terra, per quanto glorificate,  
-ruotino e ruotino e rinnovino ancora il loro ciclo —  
-l’Uomo si slancia come un Cherubino alato attraverso  
-lo spazio infinito, e ciò che è stato  
-non può perciò mai più essere ——  
-1820. Pubblicato per la prima volta da un MS. nel 1893.
-
 
 
 <span class="atom-split" data-atom="393_elisa" data-title="ELISA" data-chapter="" data-kind="intro" data-tags="motif/flowers,concept/friendship,concept/love_romantic,form/epigram,histref/ancient_rome,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -3162,27 +1728,6 @@ For still I find it redolent of thee.
 1833, 4. Now first published from an MS.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-TRADOTTO DA CLAUDIANO  
-Dulce dona mihi tu mittis semper Elisa!  
-Et quicquid mittis Thura putare decet.  
-Quanto sopra è adattato da un [[forms/epigram|Epigramma]] di Claudiano [n. lxxxii, Ad Maximum  
-Qui mel misit], sostituendo Thura a Mella: il Distico  
-originale era in cambio di un dono di Miele.  
-Imitazione  
-Dolce Dono! e sempre Elisa manda  
-dolci Doni e pieni di fragranza al suo Amico  
-basta a Lui sapere che vengono da LEI:  
-qualunque cosa mandi è Incenso e Mirra.  
-UN ALTRO SULLO STESSO SOGGETTO DELLO STESSO S. T. C.  
-Semper Elisa! mihi tu suaveolentia donas:  
-Nam quicquid donas, te redolere puto.  
-[[forms/translation|Traduzione]]  
-Qualunque cosa tu doni, m’è pur sempre dolce,  
-ché sempre la trovo odorosa di te.  
-1833, 4. Ora pubblicato per la prima volta da un MS.
-
 
 
 <span class="atom-split" data-atom="443_lessing" data-title="LESSING" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,concept/love_romantic,concept/identity,form/epigram,form/song,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -3207,26 +1752,3 @@ The German original is printed in the Notes to P. W., 1893, pp. 619,
 620.  
 K  
 [Vide ante, p. 327]  
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Sämmtliche Schriften, vol. i, p. 50, ed. Lachmann-Maltzahn, Lipsia,  
-1853.  
-DIE NAMEN.  
-Ich fragte meine Schöne:  
-Wie soll mein Lied dich nennen?  
-Soll dich als Dorimana,  
-Als Galathee, als Chloris,  
-Als Lesbia, als Doris,    5  
-Die Welt der Enkel kennen?  
-Ach! Namen sind nur Töne;  
-Sprach meine holde Schöne,  
-Wähl’ selbst. Du kannst mich Doris,  
-Und Galathee und Chloris   10  
-Und —— wie du willst mich nennen:  
-Nur nenne mich die deine.  
-L’originale tedesco è stampato nelle Note a P. W., 1893, pp. 619,  
-620.  
-K  
-[Vedi sopra, p. 327]

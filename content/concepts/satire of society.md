@@ -146,6 +146,7 @@ tags:
 - [[testi/coleridge/atomized/satire-of-society-epigram-satire#371_nonsense_sapphics|NONSENSE SAPPHICS (Coleridge)]]
 - [[testi/coleridge/atomized/satire-of-society-epigram-satire#323_occasioned_by_the_former|OCCASIONED BY THE FORMER (Coleridge)]]
 - [[testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat#201_ode_to_tranquillity|ODE TO TRANQUILLITY (Coleridge)]]
+- [[testi/coleridge/atomized/satire-of-society-epigram-satire#306_on_a_late_marriage_between_an_old_maid_and_french_petit_maître|ON A LATE MARRIAGE BETWEEN AN OLD MAID AND FRENCH PETIT MAÎTRE (Coleridge)]]
 - [[testi/coleridge/atomized/satire-of-society-epigram-satire#313_on_a_reader_of_his_own_verses|ON A READER OF HIS OWN VERSES (Coleridge)]]
 - [[testi/coleridge/atomized/satire-of-society-epigram-satire#314_on_a_report_of_a_ministers_death|ON A REPORT OF A MINISTER’S DEATH (Coleridge)]]
 - [[testi/coleridge/atomized/satire-of-society-epigram-satire#140_on_a_ruined_house_in_a_romantic_country|ON A RUINED HOUSE IN A ROMANTIC COUNTRY (Coleridge)]]

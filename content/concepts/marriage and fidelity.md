@@ -53,6 +53,7 @@ tags:
 - [[testi/coleridge/atomized/joy-animals-comic-verse-song#005_julia|JULIA (Coleridge)]]
 - [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#002_nil_pejus_est_caelibe_vitæ|NIL PEJUS EST CAELIBE VITÆ (Coleridge)]]
 - [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#117_on_a_late_connubial_rupture_in_high_life|ON A LATE CONNUBIAL RUPTURE IN HIGH LIFE (Coleridge)]]
+- [[testi/coleridge/atomized/satire-of-society-epigram-satire#306_on_a_late_marriage_between_an_old_maid_and_french_petit_maître|ON A LATE MARRIAGE BETWEEN AN OLD MAID AND FRENCH PETIT MAÎTRE (Coleridge)]]
 - [[testi/coleridge/atomized/satire-of-society-epigram-satire#309_on_mr_ross_usually_cognominated_nosy|ON MR. ROSS, USUALLY COGNOMINATED NOSY (Coleridge)]]
 - [[testi/coleridge/atomized/dreams-moon#344_on_the_curious_circumstance|ON THE CURIOUS CIRCUMSTANCE (Coleridge)]]
 - [[testi/coleridge/atomized/satire-of-society-epigram-satire#336_the_compliment_qualified|THE COMPLIMENT QUALIFIED (Coleridge)]]

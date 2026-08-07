@@ -41,6 +41,7 @@ tags:
 - [[testi/coleridge/atomized/dreams-moon#293_phantom_or_fact_a_dialogue_in_verse|PHANTOM OR FACT A DIALOGUE IN VERSE (Coleridge)]]
 - [[testi/coleridge/atomized/dreams-moon#173_something_childish_but_very_natural|SOMETHING CHILDISH, BUT VERY NATURAL (Coleridge)]]
 - [[testi/coleridge/atomized/terror-and-horror-madness#119_sonnet_composed_on_a_journey_homeward_the_author_having_received_intelligence|SONNET COMPOSED ON A JOURNEY HOMEWARD; THE AUTHOR HAVING RECEIVED INTELLIGENCE (Coleridge)]]
+- [[testi/coleridge/atomized/terror-and-horror-madness#041_the_complaint_of_ninathómafrom_the_same|THE COMPLAINT OF NINATHÓMA FROM THE SAME (Coleridge)]]
 - [[testi/coleridge/atomized/dreams-moon#216_the_day-dream_from_an_emigrant_to_his_absent_wife|THE DAY-DREAM FROM AN EMIGRANT TO HIS ABSENT WIFE (Coleridge)]]
 - [[testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume#045_the_gentle_look|THE GENTLE LOOK (Coleridge)]]
 - [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#218_the_pains_of_sleep|THE PAINS OF SLEEP (Coleridge)]]

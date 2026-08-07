@@ -44,7 +44,7 @@ Raccolta tematica di 12 componimenti di T. S. Eliot.
 - [[testi/eliot/atomized/memory-and-time-memory-nostalgia#023_dans_le_restaurant|Dans le Restaurant]]
 - [[testi/eliot/atomized/memory-and-time-memory-nostalgia#054_five-finger_exercises|Five-Finger Exercises]]
 - [[testi/eliot/atomized/memory-and-time-memory-nostalgia#021_lune_de_miel|Lune de Miel]]
-- Ode
+- [[testi/eliot/atomized/memory-and-time-memory-nostalgia#114_ode|Ode]]
 - [[testi/eliot/atomized/memory-and-time-memory-nostalgia#005_rhapsody_on_a_windy_night|Rhapsody on a Windy Night]]
 - [[testi/eliot/atomized/memory-and-time-memory-nostalgia#104_song_if_space_and_time_as_sages_say|Song: ‘If space and time, as sages say’]]
 - [[testi/eliot/atomized/memory-and-time-memory-nostalgia#106_song_when_we_came_home_across_the_hill|Song: ‘When we came home across the hill’]]

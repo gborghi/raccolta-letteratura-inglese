@@ -52,45 +52,6 @@ Has the significance, on high,
 Of this Barefoot Estate!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Ho incontrato un [[archetypes/king|Re]] questo pomeriggio!  
-Non aveva una [[motifs/crown|Corona]], invero,  
-Un piccolo Cappello di Palma era tutto,  
-Ed era scalzo, temo!  
-
-Ma certa sono che Ermellino portava  
-Sotto il blu della sua Giacca stinta —  
-E certa sono, che il cimiero recava  
-Anche in tasca di quella Giacca!  
-
-Ché troppo maestoso era per un Conte —  
-Un Marchese non andrebbe sì grandioso!  
-Era forse uno Zar minuto —  
-Un Papa, o qualcosa di tal genere!  
-
-Se devo dirvelo, d'un [[motifs/horse|Cavallo]]  
-Il mio Monarca lentigginoso teneva le redini —  
-Senza dubbio una Bestia stimabile,  
-Ma per nulla disposta a correre!  
-
-E che carro! Finché vivo  
-Oserò presumere di vedere  
-Un altro veicolo simile  
-A quello che allora mi trasportò!  
-
-Due altri Principi cenciosi  
-Del suo stato regale partecipavano!  
-Senza dubbio la prima escursione  
-Che questi sovrani mai fecero!  
-
-Mi chiedo se la Regale Carrozza  
-174  
-
-Attorno a cui i Valletti attendono  
-Abbia il significato, lassù,  
-Di questo Scalzo Regno!
-
 
 
 <span class="atom-split" data-atom="0229_a_burdock_clawed_my_gown" data-title="229. A Burdock — clawed my Gown —" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/animals,motif/clothing,concept/humility,concept/satire_of_society,form/epigram,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -113,24 +74,6 @@ The Elephant's — calm eyes
 Look further on!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Una Bardana — mi artigliò la Veste —  
-Non della Bardana — la colpa —  
-Ma mia —  
-Che andai troppo vicino  
-Alla Tana della Bardana —  
-
-Un Pantano — oltraggia la mia scarpa —  
-Che altro hanno i Pantani — da fare —  
-L'unico Mestiere che sanno —  
-Inzaccherare gli Uomini!  
-Ah, pietà — allora!  
-
-Sono i Pesciolini a poter disprezzare!  
-Dell'Elefante — gli occhi calmi  
-Guardano più lontano!
-
 
 
 <span class="atom-split" data-atom="0401_what_soft_cherubic_creatures" data-title="401. What Soft — Cherubic Creatures —" data-chapter="" data-kind="intro" data-tags="concept/satire_of_society,concept/pride,concept/appearance_vs_reality,concept/grace_and_redemption,concept/humility,form/satire,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -152,23 +95,6 @@ Redemption — Brittle Lady —
 Be so — ashamed of Thee —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Che Soffici — Cherubiche Creature —  
-Sono queste Gentildonne —  
-Si assalirebbe prima un Velluto —  
-O si violerebbe una Stella —  
-
-Convinzioni di Mussolina —  
-Un Orrore così raffinato  
-Della lentigginosa [[concepts/nature|Natura]] Umana —  
-Della Divinità — vergognose —  
-
-È una così comune — Gloria —  
-Un Grado — da Pescatore —  
-La Redenzione — Fragile Signora —  
-Sia così — vergognosa di Te —
-
 
 
 <span class="atom-split" data-atom="0439_undue_significance_a_starving_man_attaches" data-title="439. Undue Significance a starving man attaches" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/food_feasting,concept/desire,concept/imagination,concept/paradox,form/aphorism,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -186,19 +112,6 @@ In the Receipt — It was the Distance —
 Was Savory —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Indebita Importanza un uomo affamato attribuisce  
-Al Cibo —  
-Da lontano — Egli sospira — e perciò — Senza Speranza —  
-E perciò — Buono —  
-
-Consumato — dà sollievo — davvero —  
-Ma ci dimostra  
-Che le Spezie svaniscono  
-Nella Ricetta — Era la Distanza —  
-Ad esser Saporita —
-
 
 
 <span class="atom-split" data-atom="0641_size_circumscribes_it_has_no_room" data-title="641. Size circumscribes — it has no room" data-chapter="" data-kind="intro" data-tags="concept/pride,concept/identity,concept/self_and_soul,concept/humility,form/epigram,form/lyric,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -215,18 +128,6 @@ Ignores the possibility
 Of Calumnies — or Flies.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La Grandezza circoscrive — non ha spazio  
-Per mobili meschini —  
-Il Gigante non tollera Moscerino  
-Per Agio di Gigantezza —  
-
-Lo ripudia, tanto più —  
-Perché la grandezza intrinseca  
-Ignora la possibilità  
-Di Calunnie — o Mosche.
-
 
 
 <span class="atom-split" data-atom="0689_the_zeroes_taught_us_phosphorous" data-title="689. The Zeroes — taught us — Phosphorous —" data-chapter="" data-kind="intro" data-tags="motif/fire,motif/winter,motif/white_and_red,concept/paradox,concept/innocence_and_experience,concept/education,concept/joy,form/lyric,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -241,17 +142,6 @@ If White — a Red — must be!
 Paralysis — our Primer — dumb —  
 Unto Vitality!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Gli Zeri — ci insegnarono — il Fosforo —  
-Imparammo ad amare il [[motifs/fire|Fuoco]]  
-Giocando ai Ghiacciai — da Ragazzi —  
-E l'Esca — indovinata — per potere  
-D'Opposto — a bilanciare il Dispari —  
-Se Bianco — un Rosso — dev'esserci!  
-Paralisi — il nostro Sillabario — muto —  
-Verso la Vitalità!
 
 
 
@@ -268,18 +158,6 @@ Acquired by Reverse —
 The [[concepts/poverty|Poverty]] that was not Wealth —  
 Cannot be Indigence.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Nessuno può provare stento  
-Se l'Abbondanza — non ha conosciuto —  
-Il fatto della Carestia — non si darebbe  
-Se non per il Fatto del Grano —  
-
-Il Bisogno — è un'Arte magra  
-Acquisita per Rovescio —  
-La [[concepts/poverty|Povertà]] che non fu Ricchezza —  
-Non può essere Indigenza.
 
 
 
@@ -302,23 +180,6 @@ A Berry from our table
 Reserve — for [[concepts/charity|charity]] —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Privata d'altro Banchetto,  
-Intrattenni Me stessa —  
-Dapprima — scarso nutrimento —  
-Un Pane insufficiente —  
-
-Ma cresciuto per esili aggiunte  
-A misura così stimata  
-Che è abbastanza sontuoso per me —  
-E quasi da bastare  
-
-Alla fame d'un Pettirosso —  
-Rosso [[archetypes/pilgrim|Pellegrino]], Lui ed io —  
-Una Bacca della nostra tavola  
-Riserviamo — per [[concepts/charity|carità]] —
-
 
 
 <span class="atom-split" data-atom="0779_the_service_without_hope" data-title="779. The Service without Hope —" data-chapter="" data-kind="intro" data-tags="concept/hope,concept/humility,concept/paradox,concept/charity,form/lyric,form/aphorism,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -334,18 +195,6 @@ And impetus of Goal —
 There is no Diligence like that  
 That knows not an Until —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il Servizio senza [[concepts/hope|Speranza]] —  
-È il più tenero, credo —  
-Perché non è sorretto  
-Da misura — il Lavoro Ricompensato —  
-
-Ha impeto di Guadagno —  
-E impeto di Meta —  
-Non c'è Diligenza come quella  
-Che non conosce un Fino a quando —
 
 
 
@@ -373,28 +222,6 @@ I deem that I — with but a Crumb —
 Am Sovereign of them all —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-[[characters/god|Dio]] diede una Pagnotta a ogni Uccello —  
-Ma solo una Briciola — a Me —  
-Non oso mangiarla — pur se muoio di fame —  
-Mio pungente lusso —  
-
-Possederla — toccarla —  
-Provare l'impresa — che fece mia la Pallina —  
-Troppo felice — per la mia sorte di Passero —  
-Per Brama più Ampia —  
-
-Potrebbe esserci Carestia — tutt'intorno —  
-Non sentirei la mancanza d'una Spiga —  
-Tanta Abbondanza sorride alla mia Mensa —  
-Sì bello appare il mio Granaio —  
-
-Mi [[concepts/wonder|domando]] cosa provino i Ricchi —  
-Un Mercante delle Indie — un Conte —  
-Ritengo che Io — con una sola Briciola —  
-Sia Sovrana di tutti loro —
-
 
 
 <span class="atom-split" data-atom="0796_who_giants_know_with_lesser_men" data-title="796. Who Giants know, with lesser Men" data-chapter="" data-kind="intro" data-tags="motif/animals,concept/greatness,concept/alienation,form/epigram,form/aphorism,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -410,18 +237,6 @@ The [[motifs/summer|Summer]] Gnat displays —
 Unconscious that his single Fleet  
 Do not comprise the skies —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Chi conosce Giganti, con Uomini minori  
-È incompleto, e schivo —  
-Perché la [[concepts/greatness|Grandezza]], è a disagio  
-In minore Compagnia —  
-
-Un Più Piccolo, non potrebbe turbarsi —  
-Il Moscerino d'[[motifs/summer|Estate]] lo mostra —  
-Inconsapevole che la sua unica Flotta  
-Non comprende i cieli —
 
 
 
@@ -445,24 +260,6 @@ Affliction feels impalpable
 Until Ourselves are struck —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il vantaggio della [[concepts/despair|Disperazione]] è conquistato  
-Dal [[concepts/suffering|soffrire]] — [[concepts/despair|Disperazione]] —  
-Per essere assistiti dal Rovescio  
-Il Rovescio si deve aver patito —
-
-La Dignità del [[concepts/suffering|Soffrire]] come  
-La Dignità della [[motifs/death|Morte]]  
-Si accerta assaggiando —
-
-Come nessun'altra Bocca  
-
-Di Sapori — può farci consapevoli —  
-Come il nostro stesso assaggiare —  
-L'Afflizione pare impalpabile  
-Finché Noi stessi non siamo colpiti —
-
 
 
 <span class="atom-split" data-atom="0806_a_plated_life_diversified" data-title="806. A Plated Life — diversified" data-chapter="" data-kind="intro" data-tags="motif/money_gold,concept/suffering,concept/self_and_soul,concept/paradox,form/aphorism,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -478,18 +275,6 @@ A Power — will proclaim
 Although Annihilation pile  
 Whole Chaoses on Him —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Una Vita Placcata — variegata  
-D'Oro e d'Argento [[motifs/pain|Dolore]]  
-A provare la presenza del Minerale  
-In Particelle — è quando  
-
-Un Valore lotta — esso esiste —  
-Un Potere — proclamerà  
-Benché l'Annientamento ammassi  
-Interi Caos su di Lui —
 
 
 
@@ -507,18 +292,6 @@ Is a too established Fortune —
 Danger — deepens Sum —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-L'Attesa — è Appagamento —  
-Il Guadagno — Sazietà —  
-Ma la Sazietà — Convinzione  
-Della Necessità  
-
-D'un tratto Austero nel Piacere —  
-Il Bene, senza allarme  
-È una Fortuna troppo assestata —  
-Il Pericolo — approfondisce la Somma —
-
 
 
 <span class="atom-split" data-atom="0838_impossibility_like_wine" data-title="838. Impossibility, like Wine" data-chapter="" data-kind="intro" data-tags="motif/wine_and_drink,concept/the_unattainable,concept/desire,concept/paradox,form/aphorism,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -534,18 +307,6 @@ And in the former Dram
 Enchantment makes ingredient  
 As certainly as Doom —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-L'Impossibilità, come Vino  
-Esalta l'Uomo  
-Che la gusta; la Possibilità  
-È senza sapore — Unisci  
-
-D'un Caso la più tenue Tintura  
-E nel primo Sorso  
-L'Incanto si fa ingrediente  
-Certo quanto il Destino —
 
 
 
@@ -563,18 +324,6 @@ Inferred the less by Growing than
 The Sum that it had grown.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Feci lente Ricchezze ma il mio Guadagno  
-Fu costante come il [[motifs/sun|Sole]]  
-E ogni [[motifs/night|Notte]], contava di più  
-Che la Precedente  
-
-In tutti i Giorni, non guadagnai lo stesso  
-Ma il mio impercettibile Guadagno  
-Si deduceva meno dal Crescere che  
-Dalla Somma a cui era cresciuto.
-
 
 
 <span class="atom-split" data-atom="0850_i_sing_to_use_the_waiting" data-title="850. I sing to use the Waiting" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/night,motif/home,concept/patience_and_waiting,concept/hope,concept/faith,form/hymn,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -590,18 +339,6 @@ We [[motifs/journey|journey]] to the Day
 And tell each other how We sung  
 To Keep the Dark away.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Canto per usare l'Attesa  
-La mia Cuffia soltanto allacciare  
-E chiudere la [[motifs/door|Porta]] della mia Casa  
-Altro da fare non ho  
-
-Finché al Suo miglior passo che s'appressa  
-Noi si [[motifs/journey|viaggi]] verso il Giorno  
-E ci diciamo l'un l'altra come cantammo  
-Per Tenere lontano il Buio.
 
 
 
@@ -620,19 +357,6 @@ Continual Ban propoundeth He
 Continual Divorce.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Di Serica Parola e Speciosa Scarpa  
-Un Traditore è l'Ape  
-Il suo servigio alla Grazia più nuova  
-Presente di continuo  
-
-La sua Corte un caso  
-La sua Fede un Termine  
-Protratto quanto la Brezza  
-Continuo Bando propone Egli  
-Continuo Divorzio.
-
 
 
 <span class="atom-split" data-atom="0910_experience_is_the_angled_road" data-title="910. Experience is the Angled Road" data-chapter="" data-kind="intro" data-tags="motif/the_road,concept/fate_and_free_will,concept/paradox,concept/endurance,form/epigram,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -648,18 +372,6 @@ The Discipline of Man —
 Compelling Him to Choose Himself  
 His Preappointed [[motifs/pain|Pain]] —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-L'Esperienza è la [[motifs/road|Strada]] Angolata  
-Preferita contro la Mente  
-Per — [[concepts/paradox|Paradosso]] — dalla Mente stessa —  
-Presumendo che conduca  
-
-All'Opposto affatto — Com'è Complicata  
-La Disciplina dell'Uomo —  
-Che Lo costringe a Scegliersi da Sé  
-La Sua [[motifs/pain|Pena]] Prestabilita —
 
 
 
@@ -677,18 +389,6 @@ But defaced Vicariously —
 For Some Other Shame —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Chi in Se stesso crede —  
-La Frode non può presumere —  
-La [[concepts/faith|Fede]] è Risultato di Costanza —  
-E presume — da [[motifs/home|Casa]] —  
-
-Non può perire, benché fallisca  
-Ogni seconda [[motifs/time|volta]] —  
-Ma sfigurata per Procura —  
-Per la Vergogna di Qualcun Altro —
-
 
 
 <span class="atom-split" data-atom="1054_not_to_discover_weakness_is" data-title="1054. Not to discover weakness is" data-chapter="" data-kind="intro" data-tags="motif/the_clock,concept/paradox,concept/faith,concept/appearance_vs_reality,form/aphorism,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -705,18 +405,6 @@ Behind the most unconscious [[motifs/clock|clock]]
 What skilful Pointers move —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Non scoprire debolezza è  
-L'Artificio della forza —  
-L'Inespugnabilità inerisce  
-Tanto per la Coscienza  
-
-Della [[concepts/faith|fede]] degli altri in essa  
-Quanto per il Nervo Piramidale  
-Dietro il più inconsapevole [[motifs/clock|orologio]]  
-Che abili Lancette muove —
-
 
 
 <span class="atom-split" data-atom="1070_to_undertake_is_to_achieve" data-title="1070. To undertake is to achieve" data-chapter="" data-kind="intro" data-tags="concept/heroism,concept/paradox,concept/faith,form/aphorism,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -732,18 +420,6 @@ Permitted to revere
 Departed Standards and the few  
 Criterion Sources here
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Intraprendere è compiere  
-Sia l'Intraprendere fuso  
-Con fortitudine d'ostacolo  
-E verso incoraggiamento  
-
-Quel fine Sospetto, le Nature devono  
-Ammesse a riverire  
-Norme Dipartite e le poche  
-Fonti di Criterio qui
 
 
 
@@ -766,23 +442,6 @@ Revolution shakes it for
 Test if it be dead.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La Rivoluzione è il Baccello  
-Da cui crepitano i Sistemi  
-Quando i Venti del Volere si destano  
-Eccellente è la Fioritura  
-
-Ma se non fosse per la sua Base Rossiccia  
-Ogni [[motifs/summer|Estate]] sarebbe  
-La Seppellitrice di se stessa,  
-Così della [[concepts/liberty|Libertà]] —  
-
-Lasciata inerte sullo Stelo  
-Fuggita tutta la sua Porpora  
-La Rivoluzione la scuote per  
-Provare se sia morta.
-
 
 
 <span class="atom-split" data-atom="1168_as_old_as_woe" data-title="1168. As old as Woe —" data-chapter="" data-kind="intro" data-tags="motif/time,concept/melancholy,concept/joy,concept/paradox,form/aphorism,form/lyric,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -800,20 +459,6 @@ But seldom side by side
 From neither of them tho' he try  
 Can Human [[concepts/nature|nature]] hide
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Antico quanto il Dolore —  
-Quanto è antico?  
-Circa diciottomila anni —  
-Antico quanto la Beatitudine  
-Quanto è antico  
-Sono di anni uguali  
-
-Insieme perlopiù si trovano  
-Ma di rado fianco a fianco  
-Da nessuno dei due, per quanto tenti  
-Può l'umana [[concepts/nature|natura]] celarsi
 
 
 
@@ -833,20 +478,6 @@ What confusion would cover the [[archetypes/innocent|innocent]] Jesus
 To meet so enabled a Man!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-LUI ANGUSTO —  
-
-Predicò sull'"Ampiezza" finché essa lo dichiarò angusto —  
-I Vasti son troppo vasti per definirli  
-E sulla "[[concepts/truth|Verità]]" finché essa lo proclamò Bugiardo —  
-La [[concepts/truth|Verità]] non ostentò mai un'Insegna —  
-
-La Semplicità fuggì dalla sua presenza contraffatta  
-Come l'Oro schiverebbe la Pirite —  
-Quale confusione coprirebbe l'[[archetypes/innocent|innocente]] Gesù  
-Nell'incontrare un Uomo così dotato!
-
 
 
 <span class="atom-split" data-atom="1223_who_goes_to_dine_must_take_his_feast" data-title="1223. Who goes to dine must take his Feast" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,concept/imagination,concept/identity,concept/self_and_soul,form/aphorism,form/lyric,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -862,18 +493,6 @@ That imitating her
 Our most ignoble Services  
 Exhibit worthier.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Chi va a pranzo deve portare il suo Banchetto  
-O trovare misero il Convito —  
-La Tavola non è apparecchiata fuori  
-Finché non è apparecchiata dentro.  
-
-Ché a Modello è data la Mente  
-Perché imitandola  
-I nostri più ignobili Servigi  
-Si mostrino più degni.
 
 
 
@@ -891,18 +510,6 @@ Ditches for Realms and a Trip to Jail
 For a Souvenir —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il Cuore Popolare è un Cannone prima —  
-In seguito un Tamburo —  
-[[motifs/bells|Campane]] per Ausilio  
-E un Poi di Rum —  
-
-Non un Domani che ne sappia il nome  
-Né un Passato che guardi fisso —  
-Fossi per Regni e una Gita in Prigione  
-Per Ricordo —
-
 
 
 <span class="atom-split" data-atom="1392_hope_is_a_strange_invention" data-title="1392. Hope is a strange invention —" data-chapter="" data-kind="intro" data-tags="concept/imagination,concept/self_and_soul,concept/joy,concept/faith,form/epigram,form/lyric,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -918,18 +525,6 @@ Not anything is known
 But its unique momentum  
 Embellish all we own —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-La [[concepts/hope|Speranza]] è una strana invenzione —  
-Un Brevetto del Cuore —  
-In azione incessante  
-Eppure mai si consuma —  
-
-Di questa elettrica Aggiunta  
-Nulla è conosciuto  
-Se non l'unico suo slancio  
-Abbellisce quanto abbiamo —
 
 
 
@@ -947,18 +542,6 @@ And whatsoever is consumed
 The same amount remain —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La [[concepts/hope|Speranza]] è un sottile Ghiottone —  
-Si nutre del Bello —  
-Eppure — a ispezionarlo da vicino  
-Che Astinenza vi è —  
-
-Sua è la Tavola Alcionia —  
-Che non ospita mai che Uno —  
-E qualunque cosa sia consumata  
-La stessa quantità rimane —
-
 
 
 <span class="atom-split" data-atom="1747_the_parasol_is_the_umbrellas_daughter" data-title="1747. The parasol is the umbrella's daughter," data-chapter="" data-kind="intro" data-tags="motif/clothing,motif/storm,concept/appearance_vs_reality,concept/satire_of_society,form/epigram,form/lyric,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -974,18 +557,6 @@ In her serene display;
 But her father is borne and honored,  
 And borrowed to this day.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il parasole è la figlia dell'ombrello,  
-E frequenta un ventaglio  
-Mentre suo padre affronta la tempesta  
-E abbrevia la [[motifs/rain|pioggia]].  
-
-La prima assiste una sirena  
-Nel suo sereno sfoggio;  
-Ma suo padre è portato e onorato,  
-E preso in prestito ancor oggi.
 
 
 
@@ -1011,26 +582,6 @@ It's Friday, my dear A., and that in another week, yet my mission is unfulfilled
 Don't be afraid of my imprecations—they never did any one harm, and they make me feel so cool, and so very much more comfortable! . . . I presume you are loving your mother, and loving the stranger and wanderer—visiting the poor and afflicted, and reaping whole fields of blessings—save me a little sheaf, only a very little one! Remember and care for me sometimes, and scatter a fragrant flower in this wilderness life of mine by writing me, and by not forgetting, and by lingering longer in [[motifs/prayer|prayer]], that the Father may bless one more!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CARA RICORDATA,—Le circostanze in cui ti scrivo questa mattina sono a un tempo gloriose, afflittive e benefiche,—gloriose nei fini, afflittive nei mezzi, e benefiche, confido, in entrambi. Due pani gemelli sono appena venuti al mondo sotto i miei auspici,—bei figlioli, il ritratto della madre; ed ecco, mia cara amica, la gloria.
-
-Sul divano, addormentata, giace la mia povera madre malata, che [[concepts/suffering|soffre]] intensamente per una nevralgia acuta, tranne in un momento come questo, quando il buon [[motifs/sleep|sonno]] le si avvicina e la lusinga,—ed ecco l'afflizione.
-
-Non ho bisogno di trarre l'inferenza benefica,—il bene che io stessa ne ricavo, il conquistare lo spirito della pazienza, la geniale influenza domestica che mi si insinua nella mente e nell'[[motifs/soul|anima]],—tu sai tutte queste cose che direi, e fingerai di supporle scritte, quando in verità sono soltanto pensate.
-
-[[characters/sunday|Domenica]] mia madre si è ammalata; prima stava perfettamente [[motifs/well|bene]], e non ricordava alcuna possibile imprudenza che potesse aver provocato il male. Si è fatto tutto, e benché ci paia che a poco a poco lo stia scacciando, [[concepts/suffering|soffre]] ancora molto. Ho sempre trascurato le arti culinarie, ma ora me ne occupo per necessità, e per il [[motifs/desire|desiderio]] di rendere ogni cosa piacevole a mio padre e ad Austin. La malattia porta desolazione, e la giornata è buia e triste; ma la salute tornerà, lo [[concepts/hope|spero]], e con essa i cuori leggeri e i volti sorridenti. In [[motifs/home|casa]] non ci ammaliamo quasi mai, e non sappiamo che fare quando accade,—corrughiamo le nostre piccole fronti, e pestiamo i nostri piccoli piedi, e le nostre animucce si adirano, e le ordinano di andarsene. La signora Brown sarà lieta di vederla,—le vecchie signore si aspettano di morire; “quanto a noi, giovani e attivi, con tutte le nostre brame 'per la lotta', dovremmo perire sul ciglio della strada, stanchi della 'marcia della vita'—no, no, mio caro 'Padre [[concepts/mortality|Mortalità]]', togliti di mezzo per favore; ti chiameremo se mai ti vorremo. Buongiorno, signore! ah, buongiorno!”
-
-Quando non sono al lavoro, siedo accanto alla mamma, provvedo ai suoi piccoli bisogni, e cerco di rallegrarla e di farle coraggio. Dovrei essere lieta e grata di poter fare qualcosa, ora, ma mi sento così sola, e così ansiosa di vederla guarita. Non mi sono lamentata che una volta sola, e saprai tutto il perché. A [[motifs/noon|mezzogiorno]] . . . udii un colpo [[motifs/well|ben]] noto, e un amico che [[motifs/love|amo]] tanto teneramente venne e mi chiese di andare a cavallo nei boschi, i dolci, quieti boschi,—e io lo desideravo moltissimo. Gli dissi che non potevo andare, ed egli disse che ne era deluso, che mi voleva molto con sé. Allora le [[motifs/tears|lacrime]] mi vennero agli occhi, benché cercassi di ricacciarle indietro, ed egli disse che potevo e dovevo andare, e la cosa mi parve ingiusta. Oh, lottai con una grande [[concepts/temptation|tentazione]], e mi costò molte rinunce; ma credo che alla fine abbia vinto,—non una vittoria gloriosa, di quelle in cui si sente rullare il tamburo, ma una specie di vittoria inerme, dove il trionfo verrebbe da sé, musica debolissima, soldati stanchi, né una [[motifs/flag|bandiera]] al vento, né un lungo, alto grido. Avevo letto delle tentazioni di [[characters/christ|Cristo]], e di come fossero simili alle nostre, solo che lui non peccò; mi domandai se una fosse come la mia, e se lo facesse adirare. Non riuscii a decidermi; tu credi che gli sia mai accaduto?
-
-Feci allegramente il giro delle mie faccende, canticchiando un'ariettina finché la mamma non si fu abbandonata al [[motifs/sleep|sonno]], poi piansi con tutte le mie forze—mi pareva di essere molto maltrattata—che questo mondo malvagio non fosse degno di una così devota e terribile [[concepts/suffering|sofferenza]]—e tornai ai miei vari sensi in gran stizza contro la vita, e il [[motifs/time|tempo]], e l'[[motifs/love|amore]] per l'afflizione e l'angoscia.
-
-Che faremo, mia cara, quando la prova crescerà sempre di più, quando la fioca, sola luce si spegnerà, e sarà buio, tanto buio, e vagheremo senza sapere dove, e non sapremo uscire dalla foresta—di chi è la mano che ci aiuterà, e ci condurrà, e ci guiderà per sempre; parlano di un “Gesù di Nazaret”—vuoi dirmi se è lui? . . .
-
-È venerdì, mia cara A., e siamo già a un'altra settimana, eppure la mia missione non è compiuta—e tu così tristemente trascurata, e non ne sai il perché. Dove credi che io abbia vagato, e da quale nuova commissione sia tornata? Vengo dall'“andare e venire, e camminare su e giù” per lo stesso luogo da cui veniva [[characters/satan|Satana]], quando [[characters/god|Dio]] gli chiese dov'era stato; ma per non spiegare oltre, ti dico che ho sognato, sognato un sogno d'oro, con gli occhi tutto il tempo spalancati, e credo che sia quasi mattina; e inoltre ho lavorato, provvedendo al “cibo che perisce”, spaventando la timorosa [[motifs/dust|polvere]], ed essendo obbediente e gentile. Sono ancora la [[characters/queen|Regina]] della [[settings/court|Corte]], se le insegne regali sono [[motifs/dust|polvere]] e sudiciume, e ho tre sudditi fedeli, che preferirei sollevare dal servizio. La mamma è ancora inferma, benché in parte rimessa; mio padre e Austin reclamano ancora da mangiare; e io, come una martire, li nutro. Non [[motifs/love|ameresti]] vedermi in questi ceppi di grande [[concepts/despair|disperazione]], mentre mi guardo intorno nella mia cucina, e prego per una benigna liberazione, e giuro per “la barba di Omai” che mai mi trovai in tale frangente? La mia cucina, credo di averla chiamata—[[characters/god|Dio]] non voglia che fosse, o sia mai, la mia—[[characters/god|Dio]] mi guardi da ciò che chiamano famiglie, tranne quella luminosa della “[[concepts/faith|fede]]”!
-
-Non aver paura delle mie imprecazioni—non hanno mai fatto male a nessuno, e mi fanno sentire così fresca, e tanto più a mio agio! . . . Presumo che tu stia amando tua madre, e amando lo straniero e il viandante—visitando i poveri e gli afflitti, e mietendo interi campi di benedizioni—serbami un piccolo covone, uno piccolissimo soltanto! Ricordati di me e abbi cura di me qualche volta, e spargi un fiore odoroso in questa mia vita di deserto scrivendomi, e non dimenticandomi, e indugiando più a lungo nella [[motifs/prayer|preghiera]], perché il Padre benedica un'anima di più!
-
 
 
 <span class="atom-split" data-atom="l0032_mr_william_austin_dickinson_monday_morn" data-title="To Mr. William Austin Dickinson, Monday Morn" data-chapter="" data-kind="intro" data-tags="motif/home,motif/letters_writing,concept/desire_and_longing,concept/patience_and_waiting,concept/loneliness,form/letter,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -1038,11 +589,6 @@ Non aver paura delle mie imprecazioni—non hanno mai fatto male a nessuno, e mi
 
 MY DEAR AUSTIN,—I received a [[forms/letter|letter]] from [[motifs/home|home]] on Saturday by Mr. G—S—, and father wrote in it that he intended to send for cousin Emily and myself on Saturday of this week to spend the Sabbath at [[motifs/home|home]]. I went to Miss Whitman, after receiving the [[forms/letter|letter]], and asked her if we could go if you decided to come for us. She seemed stunned by my request, and could not find utterance to an answer for some [[motifs/time|time]]. At length she said, “Did you not know it was contrary to the rules of the Seminary to ask to be absent on the Sabbath?” I told her I did not. She then took a Catalogue from her table, and showed me the law in full at the last part of it. She closed by saying that we could not go, and I returned to my room without farther ado. So you see I shall be deprived of the pleasure of a visit [[motifs/home|home]], and you that of seeing me, if I may have the presumption to call it a pleasure! The teachers are not willing to let the girls go [[motifs/home|home]] this term as it is the last one, and as I have only nine weeks more to spend here, we had better be contented to obey the commands. We shall only be the more glad to see one another after a longer absence, that will be all. I was highly edified with your imaginative note to me, and think your flights of fancy indeed wonderful at your age! When are you coming to see me—it would be very pleasant to us to receive a visit from your highness if you can be absent from [[motifs/home|home]] long enough for such a purpose. . . . I can't write longer.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Mio caro Austin,  
-Sabato ho ricevuto una lettera da casa inviata dal signor G—S—; mio padre scriveva che intendeva far venire me e la cugina Emily a casa per trascorrere il Sabato insieme. Dopo aver ricevuto la lettera, sono andata dalla signorina Whitman e le ho chiesto se potessimo andare, nel caso tu decidessi di venirci a prendere. Sembra che sia rimasta sorpresa dalla mia richiesta e non è riuscita subito a rispondere; alla fine ha detto: “Non sapevi che chiedere di assentarsi durante il Sabato va contro le regole del seminario?” Le ho risposto di no. Allora ha preso un catalogo dal suo tavolo e mi ha mostrato chiaramente la regola in questione. Alla fine ha detto che non potevamo andare, quindi sono tornata nella mia stanza senza aggiungere altro. Quindi, non potrò godermi il piacere di una visita a casa, e nemmeno tu potrai vedermi, se posso permettermi di considerarlo un piacere! Gli insegnanti non vogliono che le ragazze tornino a casa questo semestre, poiché è l’ultimo; dato che mi restano solo nove settimane qui, dovremmo accontentarci di obbedire alle regole. Sarà ancora più bello rivederci dopo una lunga assenza. Questo è tutto. La tua lettera piena di fantasia mi ha molto ispirata; penso davvero che i tuoi sogni e le tue immaginazioni siano meravigliosi per la tua età! Quando verrai a trovarmi? Sarebbe molto piacevole ricevere una tua visita, se riuscirai a prenderti un po’ di tempo libero da casa. Non posso scrivere oltre.
 
 
 
@@ -1053,12 +599,6 @@ Sabato ho ricevuto una lettera da casa inviata dal signor G—S—; mio padre sc
 
 You importune me for news; I am very sorry to say “[[concepts/vanity|Vanity]] of vanities” there's no such thing as news—it is almost [[motifs/time|time]] for the cholera, and then things will take a start! . . . All of the folks send [[motifs/love|love]].
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-, Sono contento che tu sia così soddisfatto. Anzi, sono contento che non tu sia eccessivamente entusiasta. Non vorrei che i luoghi stranieri assumessero l’aspetto sereno e accogliente di “casa”. Siamo davvero preoccupati per quei ragazzi. Spero che tu non intenda punirli o allontanarli. Trovarsi così vicino alle proprietà del dottor Webster può facilmente suscitare tentazioni. Il paese è ancora in uno stato di caos, e le misure severe menzionate avranno sicuramente un effetto positivo nel risvegliare la gente. A proposito di sveglie. A che ora si alzano di solito gli abitanti delle città, soprattutto i giovani. E ancora di più gli insegnanti? Mi mancano le mattine trascorse nel mio “dipartimento”. Sono davvero dispiaciuto di non avere nessuno con cui svegliarmi. La tua stanza sembra davvero molto solitaria. Non mi piace entrarci. Ogni volta che ci passo vicino, ho l’impulso di suonare il flauto. Come si legge, i bambini piccoli hanno questa abitudine nei cimiteri. Appena troverò un po’ di tempo, comincerò ad allevare grilli. Il loro canto acuto potrà aiutare a dissipare la tristezza. Cresceranno meglio se li trasplanterò?
-
-Mi importunate per avere notizie; mi dispiace molto dover dire che “[[concepts/vanity|Vanità]] delle vanità”, non esistono davvero notizie. È quasi arrivato il momento della colera, e allora le cose inizieranno davvero a cambiare. Tutti mandano il loro [[motifs/love|affetto]].
 
 
 
@@ -1071,14 +611,6 @@ We are having a pleasant [[motifs/summer|summer]]—without one of the five it i
 
 Our apples are ripening fast. I am fully convinced that with your approbation they will not only pick themselves, but arrange one another in baskets and present themselves to be eaten.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-. Oh, quanto vorrei poter vedere il tuo mondo e i suoi piccoli regni. Vorrei anche vedere quel [[archetypes/king|re]]. Straniero! Era mio fratello! Immagino dei bambini di varie età: alcuni vestiti di blu, altri di grigio. Li metto tutti seduti sui banchi nella “aula della mia mente”. Poi li obbligo a muovere le labbra o sussurrare. Ti dono l’[[concepts/authority|autorità]] per punire e far rispettare la legge. Ti chiamo “Rabbi, Maestro”. E l’immagine è completa! Sarebbe davvero divertente se Vinnie ed io venissimo da voi come “comitato”. Ci divertiremmo un mondo a far temere quei cinquanta bambini. Qualsiasi esempio di disciplina che incontrassimo sarebbe per noi una vera delizia. Mi piacerebbe molto sapere come gestisci le cose: se il governo sia basato su regole precise e venga applicato con coerenza, o se si ricorra alla violenza quando necessario. Se si utilizzano soltanto leggi rigorose, oppure anche bastoni e pietre. Immagino che la tua autorità abbia come limite la loro stessa vita. Penso che tu debba essere stanco di scuola, dell’insegnamento, e di questo caldo terribile. Vorrei davvero che fossi qui, con noi, nella scuola di Endicott. Ogni volta che andiamo in carrozza con la nostra bellissima [[concepts/family|famiglia]], pensiamo che “se i desideri fossero cavalli”, noi quattro “poveracci” potremmo viaggiare liberamente. Ora godremo di tutto al massimo. Ma averti di nuovo [[motifs/home|a casa]] sarebbe come rivivere.
-
-Stiamo trascorrendo una piacevole [[motifs/summer|estate]]. Ma senza uno di quei cinque elementi, sarebbe comunque una estate solitaria. A volte Vinnie dice: “Non avevamo forse un fratello?”. Mi sembra proprio di sì; si chiamava Austin. Lo chiamiamo, ma non risponde più, “Dove è Austin?”, ridendo. Vorrei che non dovessero esibirsi una sola volta all’anno, e che potessero farlo il sabato invece del mercoledì della settimana successiva. Ma tenete alta la [[concepts/courage|coraggio]] e mostrate loro quelle “Isole Emeraldo” finché i comitati scolastici e i sindaci non rimangano abbagliati da tanta bellezza! Come mi piacerebbe essere lì.
-
-Le nostre mele stanno maturando molto velocemente. Sono assolutamente convinto che, con il tuo permesso, non solo si raccoglieranno da sole, ma si disporranno anche nelle ceste da sole, pronte per essere mangiate.
 
 
 
@@ -1100,22 +632,6 @@ We miss you now and always. When [[characters/god|God]] bestows but three, and o
 I wish you could have some cherries—if there was any way we would send you a basket of them—they are very large and delicious, and are just ripening now. Little Austin Grout comes every day to pick them, and mother takes great comfort in calling him by name, from vague association with her departed boy. Austin, to tell the [[concepts/truth|truth]], it is very still and lonely—I do wish you were here. . . . The railroad is “a-workin'.” My [[motifs/love|love]] to all my friends. I am on my way downstairs to put the tea-kettle boiling—writing and taking tea cannot sympathize. If you forget me now, your right hand shall its cunning.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Di nuovo al mio vecchio posto, caro Austin. E sono felice come una [[characters/queen|regina]] nel sapere che, mentre parlo, coloro che [[motifs/love|amo]] stanno ascoltando. Sono ancora più felice se riesco a renderli felici.
-
-Ho appena finito di leggere la tua [[forms/letter|lettera]] che è stata portata qui dopo la chiesa. Mi piace moltissimo, perché è davvero molto lunga, e anche molto divertente: abbiamo tutti riso fino a quando tutta la casa non ha tremato per le tue descrizioni di uomini, donne e cose. Mi sento proprio come se dovessi ritirarmi, in presenza di qualcuno così “grande”, e lasciare che il mio piccolo destino vada tra i piccoli uccellini e i pesci. Tu dici di non capirmi, vuoi uno stile più semplice. Che gratitudine per tutta la mia “filosofia” raffinata! Ho cercato di essere elevata, pensando di poterti raggiungere; mentre io ansimo e lotto per salire fino alla nuvola più vicina, tu esci tranquillamente, in pantofole, dall’Empireo, e senza nemmeno accorgertene, mi chiedi di scendere! Quanto vuoi che sia semplice, sarò una piccola sciocchina, una gattina timida, Cappuccetto Rosso, porterò una ape sul cappello e un bocciolo di rosa nei capelli. E quello che resta da fare te lo dirò in seguito.
-
-Le tue lettere sono davvero dei doni inestimabili; inviale sempre nei giorni più caldi dell’anno. Valgono certamente più di una dozzina di ventilatori e molti frigoriferi. L’unica difficoltà è che, beh, scherzare in tempo di caldo torrido non è affatto divertente. Un po’ più di serietà, e un po’ meno di scherzi, fino a quando non sarà passato agosto. Poi potrai scherzare quanto vuoi, e noi scacceremo via ogni preoccupazione, vivendo giorno dopo giorno tra risate!
-
-Adesso fa molto caldo qui; non credo che a Boston faccia più caldo di così. Vinnie suggerisce che a volte possa venirti in mente l’idea di far fare altri colletti quando ne avrai bisogno. Le ho detto che non te lo avrei riferito, ma in realtà non ho ancora deciso se farlo o meno.
-
-Spesso metto su cinque coltelli e forchette, oltre a un altro bicchiere, dimenticando per un momento che “non siamo tutti qui”. Poi me ne rendo conto e rimuovo gli oggetti in eccesso, asciugandomi una lacrima al pensiero di mio fratello.
-
-Ci manchi ora e per sempre. Quando [[characters/god|Dio]] dona soltanto tre cose, e una di queste viene ritirata, le altre rimangono sole. Padre si sente altrettanto a disagio quando non sei qui, come se avesse pescato una trota e l’avesse gettata nel Sahara. Quando te ne sei andato per la prima volta, tornava a [[motifs/home|casa]] molto spesso: camminava con aria solenne verso il fienile, poi tornava indietro con un aspetto maestoso. Ora sembra essersi rassegnato; si accontenta di pensare che “oggi riceveremo notizie”, e quando invece non arriva nulla, scuote la testa con aria grave, convinto senza alcun [[concepts/doubt|dubbio]] che ci saranno novità “domani”. “Una volta che si è due, ”, una volta che si sarà di nuovo due. Ah, l’ho capito!
-
-Vorrei che potessi avere delle ciliegie, se ci fosse qualche modo per farti inviare un cestino pieno, te ne manderemmo sicuramente uno: sono molto grandi e deliziose, e proprio ora stanno maturando. Il piccolo Austin Grout viene ogni giorno a raccoglierle, e mia madre trova grande conforto nel chiamarlo per nome, forse perché quel nome le ricorda il suo figlio scomparso. Austin, a dire la verità, qui è molto tranquillo e solitario. Vorrei davvero che fossi qui con me. La ferrovia è in costruzione. Mio amore a tutti i miei amici. Sto per scendere a preparare il tè. Scrivere e bere tè non possono certo alleviare la solitudine. Se ora dovessi dimenticarti, almeno la tua mano destra continuerà a funzionare.
-
 
 
 <span class="atom-split" data-atom="l0045_mr_william_austin_dickinson" data-title="To Mr. William Austin Dickinson" data-chapter="" data-kind="intro" data-tags="motif/home,motif/clothing,concept/communication_and_isolation,concept/charity,form/letter,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -1123,10 +639,6 @@ Vorrei che potessi avere delle ciliegie, se ci fosse qualche modo per farti invi
 
 . . . Mother sends her [[motifs/love|love]] and your waistcoat, thinking you'll like the one, and quite likely need the other.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-. La madre invia il suo [[motifs/love|affetto]] e il tuo gilet, pensando che ti piacerà l’uno e che probabilmente avrai bisogno dell’altro.
 
 
 
@@ -1146,20 +658,6 @@ That page is fullest, though.
 Vinnie sends her [[motifs/love|love]]. I think father and mother care a great deal for you, and [[concepts/hope|hope]] you may be [[motifs/well|well]]. When you tire with [[motifs/pain|pain]], to know that eyes would cloud, in Amherst —might that comfort, some?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, —Sei disposto? Sono così lontano dalla terra. Forse un giorno di sabato sarà il mio turno di offrirti questa coppa. Il vino, quanto solenne e significativo!
-
-Hai ottenuto i doppioni? Hai votato per “Robert”? Avevi detto che saresti arrivato a febbraio. Mancano solo tre settimane!
-
-Mentre tu sei malato, noi sentiamo la mancanza di casa. Ti prendi cura di te stesso di [[motifs/night|notte]]? La [[motifs/moon|luna]] splende come una ragazza in una città di topazi. Non credo che riusciremo mai più a essere felici, finché sei malato. Quando è arrivata l’oscurità?
-
-Ho saltato una pagina, di [[motifs/night|notte]], perché ormai vengo così spesso che forse ti ho stancato.
-
-Tuttavia, quella pagina è la più ricca di contenuti.
-
-Vinnie le invia il suo [[motifs/love|amore]]. Penso che padre e madre tengano molto a te e [[concepts/hope|sperino]] che tu stia bene. Quando ti sentirai stanca a causa del [[motifs/pain|dolore]], sapere che ci sono persone a Amherst pronte ad aiutarti, potrebbe consolarti, no?
-
 
 
 <span class="atom-split" data-atom="l0168_mr_samuel_bowlers_and_mrs_bowles_saturday" data-title="To Mr. Samuel Bowlers and Mrs. Bowles, Saturday" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,motif/animals,motif/home,concept/friendship,concept/charity,form/letter,setting/new_england,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -1169,12 +667,6 @@ Mother never asked a favor of Mr. Bowles before—that he accept from her the li
 
 “Sweet apples,” she exhorts me, with an occasional Baldwin for Mary and the squirrels.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Mamma non aveva mai chiesto un favore al signor Bowles prima, che accettasse da lei quel piccolo barile di mele.
-
-“Mele dolci, ”, mi esorta lei, aggiungendo di tanto in tanto qualche riferimento a Baldwin, Mary e i scoiattoli.
 
 
 
@@ -1190,16 +682,6 @@ To know of your homes is comforting. I trust they are both peace. [[motifs/home|
 Tell us when you are happy, but be sure and tell us when you are sad, for Emily's heart is the edifice where the “wicked cease from troubling.”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-. Grazie, caro, per la rapidità che è il frutto di una richiesta ben formulata, e per la precisione: una nuova regola rappresenta infatti un’opportunità. Il pane è risultato delizioso, e le proporzioni sono così belle, così precise come quelle di una formula farmaceutica, “Ricordo proprio un farmacista, ” Mamma e Vinnie pensano che sia il più buono che abbiano mai assaggiato, e Maggie ne parla con grande entusiasmo.
-
-Il [[forms/poem|poema]] di Mr. Lathrop era tristemente dolce.
-
-Sapere di essere in un luogo sicuro è rassicurante. Spero che entrambi i vostri “casa” siano pieni di pace. [[motifs/home|Casa]] è l’[[forms/riddle|enigma]] dei saggi, il rifugio perfetto. Che [[characters/god|Dio]] benedica la luce del sole nella stanza di L. E potrebbe esistere compito più dolce che “addolcire il [[motifs/wind|vento]]” per i suoi capelli ondulati?.
-
-Dicci quando sei felice, ma assicurati di dirci anche quando sei triste, perché il cuore di Emily è quel rifugio dove i “malvagi smettono di causare dolore”.
-
 
 
 <span class="atom-split" data-atom="l0259_the_misses_january_1882" data-title="To the Misses, January, 1882" data-chapter="" data-kind="intro" data-tags="motif/insects,motif/home,motif/time,concept/endurance,concept/charity,concept/friendship,concept/patience_and_waiting,form/letter,histref/the_bible,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -1207,10 +689,6 @@ Dicci quando sei felice, ma assicurati di dirci anche quando sei triste, perché
 
 I have only a moment, exiles, but you shall have the largest half. Mother's dear little wants so engross the [[motifs/time|time]], —to read to her, to fan her, to tell her health will come to-morrow, to explain to her why the grasshopper is a burden, because he is not so new a grasshopper as he was, —this is so ensuing, I hardly have said “Good-morning, mother,” when I hear myself saying “Mother, good-[[motifs/night|night]].”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Ho solo un momento, esiliati, ma avrete la metà più grande. Le piccole cose care di nostra madre occupano così tanto il [[motifs/time|tempo]]: leggerle, rinfrescarla con un ventaglio, dirle che starà meglio domani, spiegarle perché la cavalletta rappresenta un “peso”. Tutto questo succede così in fretta che appena dico “Buongiorno, madre”, mi ritrovo già a dire “Madre, buonanotte”.
 
 
 
@@ -1222,12 +700,6 @@ DEAR FRIEND,—Would it be possible you would excuse me if I once more inquire f
 With the trust that your own is impairless, and that [[concepts/fear|fear]] for your brother has not too much depressed you, please accept the solicitude of myself and my sister.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, — sarebbe possibile che tu mi scusassi se chiedessi ancora una volta della salute di quel fratello che la nostra amicizia ha reso sacro per noi?
-
-Con la fiducia che la tua salute sia intatta e che la [[concepts/fear|paura]] per tuo fratello non ti abbia troppo depresso, per favore accetta le nostre premure, quelle di me e di mia sorella.
-
 
 
 <span class="atom-split" data-atom="l0441_mrs_fs_cooper_1885" data-title="To Mrs. F.S. Cooper, 1885?" data-chapter="" data-kind="intro" data-tags="concept/friendship,concept/endurance,concept/hope,concept/humility,form/letter,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -1236,10 +708,6 @@ Con la fiducia che la tua salute sia intatta e che la [[concepts/fear|paura]] pe
 DEAR FRIEND,—Is not the sweet resentment of friends that we are not strong, more inspiriting even than the strength itself?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, — non è forse il dolce rammarico che proviamo nel constatare di non essere abbastanza forti un motivo ancora più motivante della forza stessa?
-
 
 
 <span class="atom-split" data-atom="l0472_the_rev_f_f_emerson_1881" data-title="To the Rev. F. F. Emerson, 1881?" data-chapter="" data-kind="intro" data-tags="motif/disease_contagion,concept/charity,concept/friendship,concept/hope,form/letter,histref/christianity,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
@@ -1247,10 +715,6 @@ Caro amico, — non è forse il dolce rammarico che proviamo nel constatare di n
 
 Should Mr. Emerson ever become ill and idle, mother hopes his clergyman will be as delicately thoughtful of him as he has been of her.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Se mai il signor Emerson dovesse ammalarsi e diventare inattivo, mia madre spera che il suo pastore si prenda cura di lui con la stessa attenzione e premura che ha sempre dimostrato per lei.
 
 
 
@@ -1262,20 +726,9 @@ We trust the dear friend is convalescing.
 These loveliest of days are certainly with that design.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Speriamo che il caro amico stia riprendendosi.
-
-Questi giorni davvero meravigliosi sono sicuramente frutto di quel progetto.
-
 
 
 <span class="atom-split" data-atom="l0478_mr_and_mrs_george_montague" data-title="To Mr. and Mrs. George Montague" data-chapter="" data-kind="intro" data-tags="concept/charity,concept/justice,concept/faith,concept/conscience,form/aphorism,form/letter,histref/the_bible,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
 
 
 DEAR COUSIN,—The “Golden Rule” is so lovely, it needs no police to enforce it.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Caro cugino, —La “Regola d’Oro” è così bella che non ha bisogno di nessuna polizia per essere rispettata.

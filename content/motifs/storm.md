@@ -35,6 +35,7 @@ tags:
 - [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#047_first_draft_an_effusion_at_evening|FIRST DRAFT AN EFFUSION AT EVENING (Coleridge)]]
 - [[testi/coleridge/atomized/transience-decay-carpe-diem#056_imitations_ad_lyram|IMITATIONS AD LYRAM (Coleridge)]]
 - [[works/lines-written-at-shurton-bars,-near-bridgewater,-september-1795,-in-answer-to-a-letter-from-bristol-(coleridge|LINES WRITTEN AT SHURTON BARS, NEAR BRIDGEWATER, SEPTEMBER 1795, IN ANSWER TO A LETTER FROM BRISTOL (Coleridge]]
+- [[testi/coleridge/atomized/terror-and-horror-madness#041_the_complaint_of_ninathómafrom_the_same|THE COMPLAINT OF NINATHÓMA FROM THE SAME (Coleridge)]]
 - [[testi/coleridge/atomized/joy-animals-comic-verse-song#150_the_old_man_of_the_alps|THE OLD MAN OF THE ALPS (Coleridge)]]
 - [[testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat#128_the_raven|THE RAVEN (Coleridge)]]
 - [[testi/coleridge/atomized/wonder-and-gratitude-sublime-storm#252_to_a_lady_with_falconers_shipwreck|TO A LADY WITH FALCONER’S SHIPWRECK (Coleridge)]]

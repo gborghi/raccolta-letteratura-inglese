@@ -51,6 +51,7 @@ tags:
 - [[testi/coleridge/atomized/dreams-moon#223_phantom|PHANTOM (Coleridge)]]
 - [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#297_reason|REASON (Coleridge)]]
 - [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#199_snow_drop|SNOW DROP. (Coleridge)]]
+- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#158_the_ballad_of_the_dark_ladié|THE BALLAD OF THE DARK LADIÉ (Coleridge)]]
 - [[testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat#135_the_foster-mothers_tale|THE FOSTER-MOTHER’S TALE (Coleridge)]]
 - [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#217_the_happy_husband|THE HAPPY HUSBAND (Coleridge)]]
 - [[testi/coleridge/atomized/wonder-and-gratitude-sublime-storm#392_the_netherlands|THE NETHERLANDS (Coleridge)]]

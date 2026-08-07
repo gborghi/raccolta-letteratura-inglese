@@ -23,6 +23,7 @@ tags:
 - [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#290_grove_highgate_song_on_hearing_a_song_in_praise_of_a_ladys_beauty|GROVE, HIGHGATE SONG, ON HEARING A SONG IN PRAISE OF A LADY’S BEAUTY (Coleridge)]]
 - [[testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume#261_israels_lament|ISRAEL’S LAMENT (Coleridge)]]
 - [[works/lines-written-at-shurton-bars,-near-bridgewater,-september-1795,-in-answer-to-a-letter-from-bristol-(coleridge|LINES WRITTEN AT SHURTON BARS, NEAR BRIDGEWATER, SEPTEMBER 1795, IN ANSWER TO A LETTER FROM BRISTOL (Coleridge]]
+- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#433_milesisches_mährchen|MILESISCHES MÄHRCHEN (Coleridge)]]
 - [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#117_on_a_late_connubial_rupture_in_high_life|ON A LATE CONNUBIAL RUPTURE IN HIGH LIFE (Coleridge)]]
 - [[testi/coleridge/atomized/maturation-and-growth-childhood-innocence-and-experience#132_on_the_christening_of_a_friends_child|ON THE CHRISTENING OF A FRIEND’S CHILD (Coleridge)]]
 - [[testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat#107_reflections_on_having_left_a_place_of_retirement|REFLECTIONS ON HAVING LEFT A PLACE OF RETIREMENT (Coleridge)]]

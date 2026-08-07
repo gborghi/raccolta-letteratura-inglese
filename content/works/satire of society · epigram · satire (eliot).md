@@ -43,7 +43,7 @@ Raccolta tematica di 11 componimenti di T. S. Eliot.
 - [[testi/eliot/atomized/satire-of-society-epigram-satire#074_defence_of_the_islands|Defence of the Islands]]
 - [[testi/eliot/atomized/satire-of-society-epigram-satire#055_landscapes|Landscapes]]
 - [[testi/eliot/atomized/satire-of-society-epigram-satire#019_le_directeur|Le Directeur]]
-- [[testi/eliot/atomized/satire-of-society-epigram-satire#020_mélange_adultère_de_tout|Mélange Adultère de Tout]]
+- Mélange Adultère de Tout
 - [[testi/eliot/atomized/satire-of-society-epigram-satire#010_mr_apollinax|Mr. Apollinax]]
 - [[testi/eliot/atomized/satire-of-society-epigram-satire#007_the_boston_evening_transcript|The Boston Evening Transcript]]
 - [[testi/eliot/atomized/satire-of-society-epigram-satire#022_the_hippopotamus|The Hippopotamus]]

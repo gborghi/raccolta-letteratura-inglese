@@ -92,6 +92,7 @@ tags:
 - [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#356_sentimental|SENTIMENTAL (Coleridge)]]
 - [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#199_snow_drop|SNOW DROP. (Coleridge)]]
 - [[testi/coleridge/atomized/dreams-moon#173_something_childish_but_very_natural|SOMETHING CHILDISH, BUT VERY NATURAL (Coleridge)]]
+- [[testi/coleridge/atomized/terror-and-horror-madness#041_the_complaint_of_ninathómafrom_the_same|THE COMPLAINT OF NINATHÓMA FROM THE SAME (Coleridge)]]
 - [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#217_the_happy_husband|THE HAPPY HUSBAND (Coleridge)]]
 - [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#102_the_hour_when_we_shall_meet_again|THE HOUR WHEN WE SHALL MEET AGAIN (Coleridge)]]
 - [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#191_the_keepsake|THE KEEPSAKE (Coleridge)]]

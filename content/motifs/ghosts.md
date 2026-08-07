@@ -30,6 +30,7 @@ tags:
 - [[testi/coleridge/atomized/transience-decay-carpe-diem#359_inscription_for_a_time-piece|INSCRIPTION FOR A TIME-PIECE (Coleridge)]]
 - [[testi/coleridge/atomized/transience-decay-carpe-diem#258_limbo|LIMBO (Coleridge)]]
 - [[works/remorse-(coleridge)|REMORSE (Coleridge)]]
+- [[testi/coleridge/atomized/terror-and-horror-madness#041_the_complaint_of_ninathómafrom_the_same|THE COMPLAINT OF NINATHÓMA FROM THE SAME (Coleridge)]]
 - [[works/a-christmas-carol-(dickens)|A Christmas Carol (Dickens)]]
 - [[works/bleak-house-(dickens)|Bleak House (Dickens)]]
 - [[works/the-haunted-man-and-the-ghost's-bargain-(dickens)|The Haunted Man and the Ghost's Bargain (Dickens)]]

@@ -70,6 +70,7 @@ tags:
 - [[testi/coleridge/atomized/satire-of-society-epigram-satire#323_occasioned_by_the_former|OCCASIONED BY THE FORMER (Coleridge)]]
 - [[testi/coleridge/atomized/satire-of-society-epigram-satire#328_occasioned_by_the_last|OCCASIONED BY THE LAST (Coleridge)]]
 - [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#419_of_humane_learning|OF HUMANE LEARNING (Coleridge)]]
+- [[testi/coleridge/atomized/satire-of-society-epigram-satire#306_on_a_late_marriage_between_an_old_maid_and_french_petit_maître|ON A LATE MARRIAGE BETWEEN AN OLD MAID AND FRENCH PETIT MAÎTRE (Coleridge)]]
 - [[testi/coleridge/atomized/satire-of-society-epigram-satire#313_on_a_reader_of_his_own_verses|ON A READER OF HIS OWN VERSES (Coleridge)]]
 - [[testi/coleridge/atomized/satire-of-society-epigram-satire#314_on_a_report_of_a_ministers_death|ON A REPORT OF A MINISTER’S DEATH (Coleridge)]]
 - [[testi/coleridge/atomized/satire-of-society-epigram-satire#311_on_a_slanderer|ON A SLANDERER (Coleridge)]]

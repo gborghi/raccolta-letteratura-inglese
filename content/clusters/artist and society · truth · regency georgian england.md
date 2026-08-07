@@ -39,6 +39,7 @@ tags:
 - [[testi/coleridge/atomized/artist-and-society-truth-regency-georgian-england#283_lines_to_a_comic_author_on_an_abusive_review|LINES TO A COMIC AUTHOR, ON AN ABUSIVE REVIEW (Coleridge)]]
 - [[works/love’s-labour’s-won---a-brief-account-(shakespeare)|LOVE’S LABOUR’S WON - A BRIEF ACCOUNT (Shakespeare)]]
 - [[works/midsummer-nights-dream-(chesterton)|midsummer nights dream (Chesterton)]]
+- [[testi/eliot/atomized/satire-of-society-epigram-satire#020_mélange_adultère_de_tout|Mélange Adultère de Tout (Eliot)]]
 - [[testi/coleridge/atomized/artist-and-society-truth-regency-georgian-england#384_not_a_critic_but_a_judge|NOT A CRITIC — BUT A JUDGE (Coleridge)]]
 - [[testi/coleridge/atomized/artist-and-society-truth-regency-georgian-england#411_notes_by_professor_saintsbury|NOTES BY PROFESSOR SAINTSBURY (Coleridge)]]
 - [[works/on-evil-euphemisms-(chesterton)|on evil euphemisms (Chesterton)]]

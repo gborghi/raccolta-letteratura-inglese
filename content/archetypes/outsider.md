@@ -63,6 +63,7 @@ tags:
 - [[testi/dickinson/atomized/grief-and-loss-elegy-clothing-and-costume#0890_from_us_she_wandered_now_a_year|890. From Us She wandered now a Year, (Dickinson)]]
 - [[testi/dickinson/atomized/bible-sin-and-the-fall-fall-from-innocence#0959_a_loss_of_something_ever_felt_i|959. A loss of something ever felt I — (Dickinson)]]
 - [[testi/eliot/atomized/joy-animals-comic-verse-song#094_cat_morgan_introduces_himself|Cat Morgan Introduces Himself (Eliot)]]
+- [[testi/eliot/atomized/satire-of-society-epigram-satire#020_mélange_adultère_de_tout|Mélange Adultère de Tout (Eliot)]]
 - [[works/sweeney-agonistes-(eliot)|Sweeney Agonistes (Eliot)]]
 - [[works/the-family-reunion-(eliot)|THE FAMILY REUNION (Eliot)]]
 - [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#099_meg_merrilies|Meg Merrilies (Keats)]]

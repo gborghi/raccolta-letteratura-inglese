@@ -27,20 +27,6 @@ The Lark's pure territory —
 Or the Lapwing's shore!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-L'Ospite è oro e cremisi —  
-Un ospite d'Opale e grigio —  
-D'Ermellino è il suo farsetto —  
-Il suo Cappuccio gaio —  
-
-Giunge in città al calar della notte —  
-Si ferma a ogni [[motifs/door|porta]] —  
-Chi lo cerca al mattino  
-Io lo prego pure — di esplorare  
-Il puro territorio dell'Allodola —  
-O la riva della Pavoncella!
-
 
 
 <span class="atom-split" data-atom="0116_i_had_some_things_that_i_called_mine" data-title="116. I had some things that I called mine —" data-chapter="" data-kind="intro" data-tags="motif/garden,concept/justice,concept/faith_and_doubt,concept/grief_and_loss,form/allegory,histref/greek_mythology,histref/christianity,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -67,28 +53,6 @@ Jove! Choose your counsel —
 I retain "[[works/shaw-(chesterton)|Shaw]]"!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Avevo alcune cose che chiamavo mie —  
-E [[characters/god|God]], alcune che chiamava sue,  
-Finché, di recente, una Pretesa rivale  
-Turbò queste amicizie.  
-
-La proprietà, il mio [[motifs/garden|giardino]],  
-Che avendo seminato con cura,  
-Egli reclama il grazioso acro,  
-E vi manda un Balivo.  
-
-Il rango delle parti  
-Vieta pubblicità,  
-Ma la Giustizia è più sublime  
-Di armi, o lignaggio.  
-
-Intenterò una "Causa" —  
-Rivendicherò la legge —  
-Giove! Scegli il tuo avvocato —  
-Io ingaggio "[[works/shaw-(chesterton)|Shaw]]"!
-
 
 
 <span class="atom-split" data-atom="0165_a_wounded_deer_leaps_highest" data-title="165. A wounded Deer — leaps highest —" data-chapter="" data-kind="intro" data-tags="motif/blood,motif/animals,motif/masks_disguise,motif/swords_weapons,concept/suffering_and_pain,concept/appearance_vs_reality,concept/self_and_soul,form/lyric,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -109,23 +73,6 @@ In which it cautions arm,
 Lest anybody spy the [[motifs/blood|blood]]  
 And "You're hurt" exclaim!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Un cervo ferito balza più alto,  
-L'ho udito dire dal cacciatore ;  
-Non è che l'estasi della [[motifs/death|morte]],  
-E poi la macchia tace.  
-
-La roccia percossa che sgorga,  
-L'acciaio calpestato che scatta:  
-Una guancia è sempre più rossa  
-Proprio dove la febbre punge!  
-
-L'allegria è la maglia dell'angoscia,  
-In cui con cautela s'arma,  
-Che nessuno scorga il [[motifs/blood|sangue]]  
-Ed esclami "Sei ferito"!
 
 
 
@@ -158,33 +105,6 @@ To tell the pretty secret
 Of the Butterfly!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Un tipetto peloso, senza piedi,  
-Eppur corre oltremodo!  
-Di velluto, è il suo Sembiante,  
-E la sua Carnagione, bigia!  
-
-Talvolta, dimora nell'erba!  
-Talvolta, sopra un ramo,  
-Da cui discende in peluche  
-Sul Passante!  
-
-Tutto questo in [[motifs/summer|estate]].  
-Ma quando i venti allarmano il Popolo della Foresta,  
-Prende Residenza di Damasco —  
-E incede in seta da cucito!  
-
-Poi, più fine d'una Dama,  
-Emerge in [[motifs/spring|primavera]]!  
-Una Piuma su ogni spalla!  
-A stento lo riconosceresti!  
-
-Dagli Uomini, appellato Bruco!  
-Da me! Ma chi sono io,  
-Per svelare il grazioso segreto  
-Della Farfalla!
-
 
 
 <span class="atom-split" data-atom="0175_i_have_never_seen_volcanoes" data-title="175. I have never seen &quot;Volcanoes&quot; —" data-chapter="" data-kind="intro" data-tags="motif/fire,motif/madness,motif/dust,concept/suffering_and_pain,concept/appearance_vs_reality,concept/the_sublime,form/lyric,histref/classical_antiquity,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -216,33 +136,6 @@ Will not cry with [[concepts/joy|joy]] "Pompeii"!
 To the Hills return!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Non ho mai visto "Vulcani" —  
-Ma, quando i Viaggiatori narrano  
-Come quelle vecchie — flemmatiche [[settings/mountains|montagne]]  
-Di solito così quiete —  
-
-Rechino dentro — spaventosa Artiglieria,  
-[[motifs/fire|Fuoco]], e fumo, e cannone,  
-Prendendo Villaggi a colazione,  
-E atterrendo gli Uomini —  
-
-Se la quiete è Vulcanica  
-Nel volto umano  
-Quando su un [[motifs/pain|dolore]] Titanico  
-I lineamenti restano al loro posto —  
-
-Se alla fine l'angoscia che cova  
-Non avrà il sopravvento —  
-E la palpitante Vigna  
-Nella [[motifs/dust|polvere]], sarà gettata?  
-
-Se qualche amoroso Antiquario,  
-Nel Mattino della Resurrezione,  
-Non griderà con [[concepts/joy|gioia]] "Pompei"!  
-Alle Colline ritorna!
-
 
 
 <span class="atom-split" data-atom="0353_a_happy_lip_breaks_sudden" data-title="353. A happy lip — breaks sudden —" data-chapter="" data-kind="intro" data-tags="motif/masks_disguise,concept/appearance_vs_reality,concept/joy,concept/melancholy,concept/grief_and_loss,form/epigram,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -257,17 +150,6 @@ So patient — like a [[motifs/pain|pain]] —
 Fresh gilded — to elude the eyes  
 Unqualified, to scan —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Un labbro felice — erompe improvviso —  
-Non ti dichiara come  
-Contemplava — sorridendo —  
-Solo consumato — ora —  
-Ma questo, porta la sua allegria  
-Così paziente — come una [[motifs/pain|pena]] —  
-Dorata di fresco — per eludere gli occhi  
-Non qualificati, a scrutare —
 
 
 
@@ -284,18 +166,6 @@ And wishes — and denies —
 Lest Interview — annul a want  
 That Image — satisfies —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Un Fascino riveste un volto  
-Imperfettamente scorto —  
-La Dama non osa alzare il Velo  
-Per [[concepts/fear|timore]] che si dissolva —  
-
-Ma spia oltre la sua trama —  
-E desidera — e nega —  
-Perché il Colloquio — non annulli una brama  
-Che l'Immagine — appaga —
 
 
 
@@ -322,28 +192,6 @@ A Cheek — perchance a Brow —
 The Star's whole Secret — in the Lake —  
 Eyes were not meant to know.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-L'Esterno — dall'Interno  
-Deriva la sua Grandezza —  
-È Duca, o [[characters/dwarf|Nano]], a seconda  
-Di com'è l'Umore Centrale —  
-
-Il fine — invariabile Asse  
-Che regola la [[motifs/wheel|Ruota]] —  
-Benché i Raggi — girino — più vistosi  
-E gettino [[motifs/dust|polvere]] — intanto.  
-
-L'Interno — dipinge l'Esterno —  
-Il Pennello senza la Mano —  
-Il suo Quadro pubblica — preciso —  
-Com'è l'interno Marchio —  
-
-Su fine — Tela Arteriosa —  
-Una Guancia — forse una Fronte —  
-L'intero Segreto della Stella — nel Lago —  
-Occhi non eran fatti per saperlo.
 
 
 
@@ -376,33 +224,6 @@ To just vibrating Blossoms!
 An Exquisite Reply!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Nel mio [[motifs/garden|Giardino]], cavalca un Uccello  
-Sopra una sola [[motifs/wheel|Ruota]] —  
-I cui raggi fanno una Musica di vertigine  
-Come fosse un Mulino in viaggio —  
-
-Mai non si ferma, ma rallenta  
-Sopra la [[motifs/rose|Rosa]] più Matura —  
-Ne gusta senza posarsi  
-E loda mentre va,  
-
-Finché ogni spezia è assaggiata —  
-E poi il suo Calesse di Fata  
-Turbina in atmosfere più remote —  
-E io raggiungo il mio Cane,  
-
-E Lui ed io, ci confondiamo  
-Se certi, fummo noi —  
-O se portò il [[motifs/garden|Giardino]] nel Cervello  
-Questa Curiosità —  
-
-Ma Lui, il miglior Logico,  
-Rimanda il mio occhio goffo —  
-A Corolle ancora vibranti!  
-Una Risposta Squisita!
-
 
 
 <span class="atom-split" data-atom="0571_must_be_a_woe" data-title="571. Must be a Woe —" data-chapter="" data-kind="intro" data-tags="motif/the_cross,motif/eyes_sight,concept/beauty,concept/grief_and_loss,concept/paradox,concept/grace_and_redemption,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -427,27 +248,6 @@ Our lord — thought no
 Extravagance  
 To pay — a [[motifs/cross|Cross]] —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Dev'esserci un Dolore —  
-Una perdita o giù di lì —  
-Per piegare l'occhio  
-Verso la via della miglior [[concepts/beauty|Bellezza]] —  
-
-Ma — una volta obliquo  
-Nota la Delizia  
-Tanto difficile  
-Quanto una Stalattite  
-
-Una Beatitudine Comune  
-S'avrebbe per meno —  
-Il prezzo — è  
-Pari quanto la Grazia —  
-
-Nostro signore — non stimò  
-Stravaganza  
-Pagare — una [[motifs/cross|Croce]] —
 
 
 
@@ -485,38 +285,6 @@ Shuts arrogantly — in the [[motifs/grave|Grave]] —
 Another way — to see —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La Tinta che non posso cogliere — è la migliore —  
-Il Colore troppo remoto  
-Perché io possa mostrarlo al Bazar —  
-Una Ghinea per uno sguardo —  
-
-La fine — impalpabile Schiera —  
-Che sfila superba sull'occhio  
-Come la Compagnia di [[characters/cleopatra|Cleopatra]] —  
-Ripetuta — nel cielo —  
-
-I Momenti di Dominio  
-Che accadono all'[[motifs/soul|Anima]]  
-E la lasciano con uno Scontento  
-Troppo squisito — da dire —  
-
-Lo sguardo bramoso — sui Paesaggi —  
-Come se avessero appena represso  
-Qualche Segreto — che premeva  
-Come Carri — nel Panciotto —  
-
-L'Implorare dell'[[motifs/summer|Estate]] —  
-Quell'altra Burla — della [[motifs/snow|Neve]] —  
-Che Imbottisce il Mistero di Tulle,  
-Per [[concepts/fear|timore]] che gli Scoiattoli — sappiano.  
-
-I loro modi Inafferrabili — ci scherniscono —  
-Finché l'Occhio Ingannato  
-Non si chiude arrogante — nella [[motifs/grave|Tomba]] —  
-Un altro modo — di vedere —
-
 
 
 <span class="atom-split" data-atom="0658_whole_gulfs_of_red_and_fleets_of_red" data-title="658. Whole Gulfs — of Red, and Fleets — of Red —" data-chapter="" data-kind="intro" data-tags="topos/theatrum_mundi,motif/sun,motif/white_and_red,motif/blood,motif/nature,concept/transience,concept/the_sublime,concept/beauty,form/lyric,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -534,20 +302,6 @@ In Authorized Arrays —
 Due — promptly — as a Drama —  
 That bows — and disappears —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-—  
-
-Interi Golfi — di Rosso, e Flotte — di Rosso —  
-E Ciurme — di solido [[motifs/blood|Sangue]] —  
-Presero posto sull'Occidente — Stanotte —  
-Come fosse Suolo designato —  
-
-E Loro — Creature incaricate —  
-In Schiere Autorizzate —  
-Puntuali — pronte — come un Dramma —  
-Che s'inchina — e scompare —
 
 
 
@@ -576,29 +330,6 @@ Only Theatre recorded
 Owner cannot shut —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-GIORNO  
-
-L'Espressione più Vitale del Dramma è il Giorno Comune  
-Che sorge e tramonta intorno a Noi —  
-Altra [[forms/tragedy|Tragedia]]  
-
-Perisce nella Recitazione —  
-Questo — lo recitano al meglio  
-Quando il Pubblico è disperso  
-E i Palchi chiusi —  
-
-"[[characters/hamlet|Amleto]]" per Sé sarebbe stato [[characters/hamlet|Amleto]] —  
-Non avesse [[characters/shakespeare|Shakespeare]] scritto —  
-Benché il "[[characters/romeo|Romeo]]" non lasciasse Traccia  
-Della sua [[characters/juliet|Giulietta]],  
-
-Sarebbe infinitamente recitato  
-Nel Cuore Umano —  
-Solo il Teatro registrato  
-Il Proprietario non può chiudere —
-
 
 
 <span class="atom-split" data-atom="0747_it_dropped_so_low_in_my_regard" data-title="747. It dropped so low — in my Regard —" data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/the_mirror,concept/disillusionment,concept/appearance_vs_reality,concept/guilt,concept/identity,form/lyric,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -615,18 +346,6 @@ For entertaining Plated Wares
 Upon my Silver Shelf —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cadde così in basso — nella mia Stima —  
-Lo udii colpire il Suolo —  
-E andare in pezzi sulle Pietre  
-In [[characters/bottom|fondo]] alla mia Mente —  
-
-Eppure incolpai il Fato che lo scagliò — meno  
-Di quanto denunciai Me stessa,  
-Per aver accolto Stoviglie Placcate  
-Sul mio Ripiano d'Argento —
-
 
 
 <span class="atom-split" data-atom="0752_so_the_eyes_accost_and_sunder" data-title="752. So the Eyes accost — and sunder" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,concept/transience,concept/alienation,concept/memory_and_time,concept/love_romantic,form/lyric,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -642,18 +361,6 @@ Countenance of One
 In a Neighboring Horizon —  
 Gone — as soon as known —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Così gli Occhi si affrontano — e si separano  
-In un'Adunanza —  
-Impressi — talvolta — per sempre —  
-Così può un Volto  
-
-Intrattenere — senza rivolgersi  
-Al Volto di Uno  
-In un Orizzonte Vicino —  
-Svanito — appena conosciuto —
 
 
 
@@ -682,29 +389,6 @@ Possibly — if they refuse — How then know —
 Since a Rack couldn't coax a syllable — now.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il Dolore è un Topo —  
-E sceglie il Rivestimento nel Petto  
-Per sua Timida Casa —  
-Ed elude la [[topoi/quest|ricerca]] —  
-
-Il Dolore è un Ladro — presto allarmato —  
-Tende l'Orecchio — per udire notizia  
-Di quel Vasto Buio —  
-Che spazzò via il Suo Essere — indietro —  
-
-Il Dolore è un Giocoliere — audacissimo al Gioco —  
-Ché se vacilla — l'occhio da quel lato  
-Piombi sui Suoi Lividi — Uno — diciamo — o Tre —  
-Il Dolore è un Ghiottone — risparmiate il Suo lusso —  
-
-Il Dolore migliore è Senza Lingua — prima che parli —  
-Bruciatelo sulla Pubblica Piazza —  
-Le Sue Ceneri — lo faranno  
-Forse — se rifiutano — Come saperlo allora —  
-Poiché il Cavalletto non strapperebbe una sillaba — ora.
-
 
 
 <span class="atom-split" data-atom="0842_good_to_hide_and_hear_em_hunt" data-title="842. Good to hide, and hear 'em hunt!" data-chapter="" data-kind="intro" data-tags="archetype/trickster,motif/animals,concept/secrecy_and_concealment,concept/identity,form/epigram,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -720,18 +404,6 @@ Best, to know and tell,
 Can one find the rare Ear  
 Not too dull —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Bello nascondersi, e sentirli in caccia!  
-Meglio, esser trovati,  
-Se lo si vuole, s'intende,  
-La Volpe si confà al Segugio —  
-
-Bello sapere, e non dire,  
-Ottimo, sapere e dire,  
-Se si trova il raro Orecchio  
-Non troppo ottuso —
 
 
 
@@ -751,21 +423,6 @@ And with a Blonde push
 Over your impotence  
 Flits Steam.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Bandisci l'Aria dall'Aria —  
-Dividi la Luce se osi —  
-Si ritroveranno  
-Mentre Cubi in una Goccia  
-O Granuli di Forma  
-Combaciano  
-Veli non possono annullare  
-Gli Odori tornano interi  
-Forza la Fiamma  
-E con una Bionda spinta  
-Sopra la tua impotenza  
-Guizza il Vapore.
 
 
 
@@ -800,35 +457,6 @@ Without a tighter breathing,
 And zero at the bone.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Un tipo sottile nell'erba  
-Talvolta cavalca;  
-Forse l'avete incontrato—non è vero  
-Il suo annuncio è istantaneo,  
-L'erba si divide come da un pettine,  
-Si vede un dardo maculato,  
-E poi si chiude ai vostri piedi,  
-E si apre più oltre.
-
-Gli piace un acro paludoso  
-Un suolo troppo freddo per il grano,  
-Pure quando, ragazzo e scalzo,  
-Più d'una volta a [[motifs/noon|mezzogiorno]]  
-Ho oltrepassato, credevo, una sferza,  
-Che si sfilacciava al [[motifs/sun|sole]],  
-Quando, chinandomi ad afferrarla,  
-Si increspò e scomparve.
-
-Parecchi tra la gente della [[concepts/nature|natura]]  
-Conosco, e loro conoscono me;  
-Sento per loro un trasporto  
-Di cordialità.  
-Ma mai ho incontrato questo tipo,  
-Accompagnato o solo,  
-Senza un respiro più stretto,  
-E zero fino all'osso.
-
 
 
 <span class="atom-split" data-atom="1131_the_merchant_of_the_picturesque" data-title="1131. The Merchant of the Picturesque" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/childhood,concept/beauty,concept/value_and_scarcity,form/lyric,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -847,20 +475,6 @@ Do one advance so near
 As to behold his ample flight —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il Mercante del Pittoresco  
-Ha un Banco e vendite  
-Ma è presente o negativo  
-Precisamente secondo le richieste —  
-Per i Bambini è piccolo nel prezzo  
-E grande in cortesia —  
-Gli si addice meglio d'un assegno  
-La loro ingenua moneta —  
-Dei Contraffatti è così schivo  
-Che uno s'avvicini tanto  
-Da scorgere il suo ampio volo —
-
 
 
 <span class="atom-split" data-atom="1426_the_pretty_rain_from_those_sweet_eaves" data-title="1426. The pretty Rain from those sweet Eaves" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,motif/water,concept/innocence_and_experience,concept/grief_and_loss,concept/love_romantic,form/lyric,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -877,18 +491,6 @@ That vanquished her — defeated Feat —
 Was Fervor's sudden [[motifs/crown|Crown]] —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La bella [[motifs/rain|Pioggia]] da quelle dolci Gronde  
-I suoi Occhi involontari —  
-Prese il suo proprio Cuore, e il nostro,  
-Di [[archetypes/innocent|innocente]] Sorpresa —  
-
-La lotta nella sua semplice Gola  
-Per trattenere il sentimento  
-Che la vinse — Impresa sconfitta —  
-Fu del Fervore l'improvvisa [[motifs/crown|Corona]] —
-
 
 
 <span class="atom-split" data-atom="1453_a_counterfeit_a_plated_person" data-title="1453. A Counterfeit — a Plated Person —" data-chapter="" data-kind="intro" data-tags="concept/truth,concept/deception,concept/identity,concept/mortality,form/epigram,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
@@ -902,16 +504,6 @@ My [[concepts/nature|Nature]] underlie —
 How meagre, what an [[concepts/exile|Exile]] — is a Lie,  
 And Vocal — when we die —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Una Contraffazione — una Persona Placcata —  
-Non vorrei essere —  
-Quali che siano gli strati d'Iniquità  
-Che alla mia [[concepts/nature|Natura]] soggiacciono —  
-La [[concepts/truth|Verità]] è buona Salute — e Salvezza, e il Cielo.  
-Che misera cosa, quale [[concepts/exile|Esilio]] — è una Menzogna,  
-E Vocale — quando moriamo —
 
 
 
@@ -949,38 +541,3 @@ I shall observe your precept, though I don't understand it, always.
 I marked a line in one verse, because I met it after I made it, and never consciously touch a paint mixed by another person. I do not let go it, because, it is mine.
 
 Have you the portrait of Mrs. Browning? Persons sent me three. If you had none, will you have mine?
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il Colonnello Higginson scrisse: “Sembra che all’inizio abbia cercato, in modo molto modesto, di indirizzarla verso le regole e le tradizioni; ma temo che ciò fosse solo una formalità, e che lei mi interessasse molto di più nella sua condizione, per così dire, ‘non riformata’. Comunque, lei riconosce questo mio tentativo. In questo caso, come si vedrà, ho attirato la sua attenzione sul fatto che, mentre si sforzava di correggere l’ortografia di una parola, era completamente negligente riguardo ad altre irregolarità più gravi. La sua risposta dimostra, con la solita ingenua astuzia sua, che ha compreso perfettamente il mio punto”:—
-
-Caro amico, —Sono più ordinati ora? Grazie per la [[concepts/truth|verità]].
-
-Nella mia vita non ho mai avuto un monarca, e quindi non posso governare me stesso; quando provo a organizzare qualcosa, le mie deboli forze si disperdono completamente, lasciandomi solo in condizioni di fragilità e vulnerabilità.
-
-Penso che tu mi abbia chiamato “capriccioso”. Mi aiuterai a migliorare?
-
-Suppongo che quella [[concepts/pride|orgoglio]] che ci lascia senza fiato, nel cuore dei boschi, non appartenga a noi stessi.
-
-Dici che ammetto i piccoli errori e ometto quelli più gravi. Perché riesco a riconoscere gli errori di ortografia; ma l’ignoranza, quella che sfugge alla vista, è compito del mio insegnante.
-
-Del “evitare uomini e donne”, parlano di cose sacre ad alta voce, imbarazzando il mio cane. Lui e io non abbiamo nulla in contrario, purché si tengano da parte. Penso che Carl ti piacerebbe. È stupido, ma coraggioso. Inoltre, penso che ti piacerebbe quel castagno che ho incontrato durante la mia passeggiata. Mi è colpito all’improvviso; ho avuto l’impressione che il cielo fosse in fiore.
-
-Poi c’è un rumore silenzioso nel frutteto che permetto alle persone di sentire.
-
-Mi hai detto in una [[forms/letter|lettera]] che non potevi venire a trovarmi “adesso”, e non ho risposto; non perché non avessi nulla da dire, ma perché non ritenevo di meritare che tu facessi tanta strada per me.
-
-Non chiedo un piacere così grande, per non rischiare che tu mi rifiuti.
-
-Dici: “Al di là delle tue conoscenze”. Non scherzeresti con me, perché ti credo; ma, maestro, non può davvero essere vero.
-
-Tutti gli uomini mi chiedono “Cosa”, ma io pensavo che fosse solo una moda.
-
-Quando ero una bambina e mi trovavo spesso nel bosco, mi dicevano che i serpenti avrebbero potuto mordermi, che avrei potuto raccogliere fiori velenosi o che dei goblin avrebbero potuto rapirmi; ma io andavo avanti e non incontravo nessuno se non angeli, che avevano molta più paura di me di quanto ne avessi io di loro. Per questo non ho quella fiducia nel male che molti hanno.
-
-Osserverò sempre il tuo precetto, anche se non lo capisco.
-
-Ho segnato una linea in un verso, perché l’ho incontrata dopo averla creata; non tocco mai consapevolmente colori mescolati da altre persone. Non li lascio andare, perché appartengono a me.
-
-Avete il ritratto della signora Browning? Qualcuno mi ne ha inviati tre. Se non ne avete nessuno, vorreste prendere il mio?

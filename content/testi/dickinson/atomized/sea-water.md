@@ -31,24 +31,6 @@ Land Ho! [[concepts/eternity|Eternity]]!
 Ashore at last!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Scrivi! Compagno, scrivi!  
-
-Su questo [[motifs/sea|mare]] meraviglioso  
-Veleggiando in silenzio,  
-Ehi! Pilota, ehi!  
-Conosci tu la riva  
-Dove non rugge frangente -  
-Dove la [[motifs/storm|tempesta]] è finita?  
-
-Nel pacifico occidente  
-Molte le vele in riposo -  
-Le ancore salde -  
-Là io ti piloto -  
-Terra in vista! [[concepts/eternity|Eternità]]!  
-A riva finalmente!
-
 
 
 <span class="atom-split" data-atom="0030_adrift_a_little_boat_adrift" data-title="30. Adrift! A little boat adrift!" data-chapter="" data-kind="intro" data-tags="motif/a_ship,motif/the_sea,motif/storm,motif/night,concept/mortality,concept/grace_and_redemption,form/allegory,cluster/sea,cluster/water"></span>
@@ -71,24 +53,6 @@ Retrimmed its masts — redecked its sails —
 And shot — exultant on!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Alla deriva! Una piccola barca alla deriva!  
-E la [[motifs/night|notte]] sta scendendo!  
-Nessuno guiderà una piccola barca  
-Fino al paese più vicino?  
-
-Così dicono i Marinai — proprio ieri —  
-Mentre il crepuscolo era bruno  
-Una piccola barca cedette la sua lotta  
-E gorgogliando affondò giù e giù.  
-
-Così dicono gli angeli — proprio ieri —  
-Mentre l'[[motifs/dawn|alba]] era rossa  
-Una piccola barca — sfinita dalle burrasche —  
-Rialzò gli alberi — rifece le vele —  
-E filò — esultante avanti!
-
 
 
 <span class="atom-split" data-atom="0052_whether_my_bark_went_down_at_sea" data-title="52. Whether my bark went down at sea —" data-chapter="" data-kind="intro" data-tags="motif/the_sea,concept/mortality,concept/doubt,form/lyric,setting/the_sea,cluster/sea,cluster/water"></span>
@@ -104,18 +68,6 @@ She is held to-day, —
 This is the errand of the eye  
 Out upon the bay.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Se la mia barca affondò in [[motifs/sea|mare]],  
-Se incontrò burrasche,  
-Se verso isole incantate  
-Piegò le sue docili vele ;  
-
-A quale mistico ormeggio  
-Ella sia oggi trattenuta, —  
-Questa è la missione dell'occhio  
-Là fuori sulla baia.
 
 
 
@@ -133,18 +85,6 @@ The divine intoxication
 Of the first league out from land?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Esultanza è l'andare  
-D'un'[[motifs/soul|anima]] dell'entroterra al [[motifs/sea|mare]],  
-Oltre le case — oltre i promontori —  
-Nella profonda [[concepts/eternity|Eternità]] —  
-
-Cresciuto come noi, fra le [[settings/mountains|montagne]],  
-Può il marinaio comprendere  
-La divina ebbrezza  
-Della prima lega via da terra?
-
 
 
 <span class="atom-split" data-atom="0107_twas_such_a_little_little_boat" data-title="107. 'Twas such a little — little boat" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/water,motif/the_journey,concept/mortality,concept/transience,form/allegory,setting/the_sea,cluster/sea,cluster/water"></span>
@@ -160,18 +100,6 @@ That licked it from the Coast —
 Nor ever guessed the stately sails  
 My little craft was lost!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Era una così piccola — piccola barca  
-che arrancava giù per la baia!  
-Era un così galante — galante [[motifs/sea|mare]]  
-che via la chiamava con un cenno!  
-
-Era un'onda così avida, avida  
-che la leccò via dalla Costa —  
-né mai sospettarono le vele maestose  
-che il mio piccolo scafo era perduto!
 
 
 
@@ -189,18 +117,6 @@ With eyes in [[motifs/death|death]] still begging raised,
 And hands beseeching thrown.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Due nuotatori lottarono sul pennone  
-Fino al [[motifs/sun|sole]] del mattino,  
-Quando uno si volse sorridendo a riva.  
-O [[characters/god|Dio]], l'altro !  
-
-Le navi erranti passando scorsero un volto  
-Portato sulle acque,  
-Con occhi levati che in [[motifs/death|morte]] ancora imploravano,  
-E mani gettate in supplica.
-
 
 
 <span class="atom-split" data-atom="0466_tis_little_i_could_care_for_pearls" data-title="466. 'Tis little I — could care for Pearls —" data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/the_sea,concept/self_and_soul,concept/joy,cluster/sea,cluster/water"></span>
@@ -217,18 +133,6 @@ A Diadem to fit a Dome —
 Continual upon me —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Poco potrei — curarmi di Perle —  
-Io che possiedo l'ampio [[motifs/sea|mare]] —  
-O di Spille — quando l'Imperatore —  
-Di Rubini — mi tempesta —  
-
-O d'Oro — io Principe delle Miniere —  
-O di Diamanti — quando ho  
-Un Diadema a misura di Cupola —  
-Continuo su di me —
-
 
 
 <span class="atom-split" data-atom="0490_to_one_denied_the_drink" data-title="490. To One denied the drink" data-chapter="" data-kind="intro" data-tags="motif/water,motif/desire,concept/grief_and_loss,concept/unrequited_love,cluster/sea,cluster/water"></span>
@@ -244,18 +148,6 @@ And let Him hear it drip
 Remind Him, would it not, somewhat  
 Of His condemned lip?
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-A Chi è negato di bere  
-Dire che cosa sia l'[[motifs/water|Acqua]]  
-Sarebbe più acuto, non è vero  
-Che lasciarglielo supporre?  
-
-Condurlo fino al [[motifs/well|Pozzo]]  
-E fargli udire il gocciolìo  
-Gli rammenterebbe, non è vero, un poco  
-Il Suo labbro condannato?
 
 
 
@@ -293,38 +185,6 @@ And bowing — with a Mighty look —
 At me — The [[motifs/sea|Sea]] withdrew —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Uscii di Buonora — Presi il mio Cane —  
-E feci visita al [[motifs/sea|Mare]] —  
-Le Sirene nel Seminterrato  
-Uscirono a guardarmi —
-
-E Fregate — al Piano di Sopra  
-Tesero Mani di Canapa —  
-Presumendo che Io fossi un Topo —  
-Arenato — sulle Sabbie —
-
-Ma nessun Uomo Mi mosse — finché la Marea  
-Non passò oltre la mia semplice Scarpa —  
-E oltre il mio Grembiule — e la mia Cintura —  
-E oltre il mio Corpetto — anche —
-
-E fece come volesse divorarmi —  
-Intera come una [[motifs/dew|Rugiada]]  
-Sulla Manica di un Soffione —  
-E allora — partii — anch'io —
-
-E Lui — Lui seguiva — dappresso —  
-Sentivo il suo Tallone d'Argento  
-Sulla Caviglia — Poi le mie Scarpe  
-Traboccavano di Perla —
-
-Finché incontrammo la Solida Città —  
-Nessuno che Lui paresse conoscere —  
-E inchinandosi — con uno Sguardo Possente —  
-Verso di me — il [[motifs/sea|Mare]] si ritirò —
-
 
 
 <span class="atom-split" data-atom="0693_shells_from_the_coast_mistaking" data-title="693. Shells from the Coast mistaking —" data-chapter="" data-kind="intro" data-tags="motif/the_sea,concept/love_romantic,concept/memory_and_time,concept/beauty,concept/appearance_vs_reality,form/lyric,setting/the_sea,cluster/sea,cluster/water"></span>
@@ -341,18 +201,6 @@ Therefore — the Pearl responded —
 My Period begin
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Conchiglie dalla Costa scambiando —  
-Le ebbi care come il Tutto —  
-Capitandomi in Età Future  
-Di accogliere una Perla —  
-
-Perché così tardi — mormorai —  
-Il mio bisogno di Te — sia compiuto —  
-Perciò — rispose la Perla —  
-La mia Epoca cominci
-
 
 
 <span class="atom-split" data-atom="0695_as_if_the_sea_should_part" data-title="695. As if the Sea should part" data-chapter="" data-kind="intro" data-tags="motif/the_sea,concept/immortality,concept/the_sublime,concept/faith,concept/wonder_and_gratitude,form/lyric,setting/the_sea,cluster/sea,cluster/water"></span>
@@ -368,18 +216,6 @@ Unvisited of Shores —
 Themselves the Verge of Seas to be —  
 [[concepts/eternity|Eternity]] — is Those —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Come se il [[motifs/sea|Mare]] si aprisse  
-E mostrasse un ulteriore [[motifs/sea|Mare]] —  
-E quello — un altro ancora — e i Tre  
-Non fossero che presunzione —  
-
-Di Periodi di Mari —  
-Non visitati da Rive —  
-Essi stessi Orlo di Mari a venire —  
-[[concepts/eternity|Eternità]] — è Quelli —
 
 
 
@@ -402,23 +238,6 @@ The Ocean's Heart too smooth — too Blue —
 To break for You —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Sbandava — e sbandava —  
-Un piccolo Brigantino che conoscevo — colto dalla Raffica —  
-Girava — e girava —  
-E brancolava delirante, verso il Mattino —  
-
-Scivolava — e scivolava —  
-Come Uno che ubriaco — incede —  
-Il suo bianco piede inciampò —  
-Poi sparì alla vista —  
-
-Ah, Brigantino — Buona [[motifs/night|Notte]]  
-A Ciurma e a Te —  
-Il Cuore dell'Oceano troppo liscio — troppo Azzurro —  
-Per spezzarsi per Te —
-
 
 
 <span class="atom-split" data-atom="0739_i_many_times_thought_peace_had_come" data-title="739. I many times thought Peace had come" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/a_ship,concept/disillusionment,concept/melancholy,concept/grief_and_loss,concept/desire,form/lyric,cluster/sea,cluster/water"></span>
@@ -434,18 +253,6 @@ As hopelessly as I —
 How many the fictitious Shores —  
 Before the Harbor be —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Molte volte pensai che la Pace fosse giunta  
-Quando la Pace era lontana —  
-Come Naufraghi — credono di scorgere la Terra —  
-Al Centro del [[motifs/sea|Mare]] —  
-
-E lottano più fiacchi — solo per provare  
-Senza speranza quanto me —  
-Quante le Rive fittizie —  
-Prima che il Porto sia —
 
 
 
@@ -463,18 +270,6 @@ Our undermining feet to meet
 Instructs to the Divine.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Fuggendo all'indietro per scorgere  
-Il [[motifs/sea|Mare]] sul nostro luogo —  
-Fuggendo in avanti, per affrontare  
-Il suo scintillante Abbraccio —  
-
-Ritraendosi in su, all'altezza d'un Flutto  
-Ritraendosi accecati in giù  
-A incontrare i nostri piedi che franano  
-Ammaestra al Divino.
-
 
 
 <span class="atom-split" data-atom="0875_i_stepped_from_plank_to_plank" data-title="875. I stepped from Plank to Plank" data-chapter="" data-kind="intro" data-tags="motif/the_journey,motif/the_sea,motif/stars,concept/endurance,concept/fate_and_free_will,form/lyric,cluster/sea,cluster/water"></span>
@@ -490,18 +285,6 @@ Would be my final inch —
 This gave me that precarious Gait  
 Some call Experience.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Passavo di Asse in Asse  
-Con andare lento e cauto  
-Le [[motifs/stars|Stelle]] intorno al Capo sentivo  
-Intorno ai Piedi il [[motifs/sea|Mare]].  
-
-Non sapevo se il prossimo  
-Sarebbe stato il mio pollice finale —  
-Questo mi diede quell'Andatura precaria  
-Che alcuni chiamano Esperienza.
 
 
 
@@ -529,28 +312,6 @@ To feed upon the Retrograde —
 Enfeebles — the Advance —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Non avessi Questo, o Questo, dissi,  
-Appellandomi a Me stessa,  
-In momento di prosperità —  
-Inadeguata — sarebbe la Vita —  
-
-"Tu non hai Me, né Me" — disse,  
-In Momento di Rovescio —  
-"Eppure sei laboriosa —  
-Non avevi — Tu — bisogno — di noi"?  
-
-Il mio bisogno — era tutto ciò che avevo — dissi —  
-Il bisogno non si ridusse —  
-Perché il cibo — sterminato —  
-La fame — non cessa —  
-
-Ma la diligenza — è più acuta —  
-Proporzionata alla Sorte —  
-Nutrirsi del Regresso —  
-Infiacchisce — l'Avanzata —
-
 
 
 <span class="atom-split" data-atom="1113_there_is_strength_in_proving_that_it_can_be_borne" data-title="1113. There is strength in proving that it can be borne" data-chapter="" data-kind="intro" data-tags="motif/a_ship,motif/the_sea,concept/endurance,concept/melancholy,form/fragment,cluster/sea,cluster/water"></span>
@@ -566,17 +327,6 @@ The [[motifs/ship|ship]] might be of satin had it not to fight —
 To walk on seas requires cedar Feet
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-SOPPORTATO  
-
-C'è una forza nel provare che si può sopportare  
-Benché laceri —  
-A che servono i nervi di tale cordame  
-Se non a reggere  
-La [[motifs/ship|nave]] potrebbe esser di raso se non dovesse lottare —  
-Camminare sui mari richiede Piedi di cedro
-
 
 
 <span class="atom-split" data-atom="1198_a_soft_sea_washed_around_the_house" data-title="1198. A soft Sea washed around the House" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/nature,motif/seasons,concept/joy,concept/imagination,form/lyric,setting/the_sea,cluster/sea,cluster/water"></span>
@@ -591,17 +341,6 @@ For Helmsman was the Bee
 And an entire universe  
 For the delighted crew.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Un morbido [[motifs/sea|Mare]] lavava intorno alla Casa  
-Un [[motifs/sea|Mare]] d'Aria d'[[motifs/summer|Estate]]  
-E [[motifs/rose|s'alzavano]] e ricadevano le magiche Assi  
-Che navigavano senza pensiero —  
-Ché Capitano era la Farfalla  
-Ché Timoniere era l'Ape  
-E un universo intero  
-Per l'equipaggio deliziato.
 
 
 
@@ -619,18 +358,6 @@ You cherished" — "Learned Waters —
 Wisdom is stale to Me" —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il [[motifs/sea|Mare]] disse "Vieni" al Ruscello —  
-Il Ruscello disse "Lasciami crescere" —  
-Il [[motifs/sea|Mare]] disse "Allora sarai un [[motifs/sea|Mare]] —  
-Io voglio un Ruscello — Vieni ora"!  
-
-Il [[motifs/sea|Mare]] disse "Va'" al [[motifs/sea|Mare]].  
-Il [[motifs/sea|Mare]] disse "Io sono colui  
-Che amavi" — "Acque Dotte —  
-La Saggezza è stantia per Me" —
-
 
 
 <span class="atom-split" data-atom="1263_there_is_no_frigate_like_a_book" data-title="1263. There is no Frigate like a Book" data-chapter="" data-kind="intro" data-tags="motif/the_book,motif/the_journey,motif/the_sea,motif/horse,concept/imagination,concept/self_and_soul,concept/joy,form/lyric,form/epigram,cluster/sea,cluster/water"></span>
@@ -645,17 +372,6 @@ Without opress of Toll—
 How frugal is the Chariot  
 That bears the Human [[motifs/soul|soul]]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Non c'è Fregata come un Libro  
-Per portarci Terre lontano  
-Né Corsieri come una Pagina  
-Di scalpitante Poesia—  
-Questa Traversata può farla il più povero  
-Senza oppressione di Pedaggio—  
-Com'è frugale il Carro  
-Che porta l'[[motifs/soul|anima]] Umana
 
 
 
@@ -673,18 +389,6 @@ Yet even this shall rouse itself
 When freshets come along.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Un piacere stagnante come una Pozza  
-Che lascia crescere i suoi Giunchi  
-Finché incuranti vi cadono dentro  
-E rendono lenta l'[[motifs/water|Acqua]]  
-
-Impedendo la navigazione lucente  
-Delle Ombre che scendono  
-Eppure anch'esso si ridesterà  
-Quando giungeranno le piene.
-
 
 
 <span class="atom-split" data-atom="1604_we_send_the_wave_to_find_the_wave" data-title="1604. We send the Wave to find the Wave —" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/water,concept/paradox,concept/love_romantic,concept/fate_and_free_will,setting/the_sea,cluster/sea,cluster/water"></span>
@@ -698,16 +402,6 @@ We make the wise distinction still,
 Soever made in vain,  
 The sagest [[motifs/time|time]] to dam the [[motifs/sea|sea]] is when the [[motifs/sea|sea]] is gone —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Mandiamo l'Onda a cercare l'Onda —  
-Commissione così divina,  
-Il Messaggero innamorato anch'esso,  
-Dimentico di tornare,  
-Facciamo ancora la savia distinzione,  
-Per quanto fatta invano,  
-Il [[motifs/time|tempo]] più saggio per arginare il [[motifs/sea|mare]] è quando il [[motifs/sea|mare]] è andato —
 
 
 
@@ -726,19 +420,6 @@ The object floating at his side
 Made no distinct reply.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Le acque lo inseguivano mentre fuggiva,  
-Non osando guardare indietro —  
-Un flutto gli sussurrò all'Orecchio,  
-"Vieni a [[motifs/home|casa]] con me, amico mio —  
-Il mio salotto è di vetro assolto,  
-La mia dispensa ha un pesce  
-Per ogni palato dell'Anno" —  
-A questa ripugnante beatitudine  
-L'oggetto che fluttuava al suo fianco  
-Non diede risposta distinta.
-
 
 
 <span class="atom-split" data-atom="l0123_dr_j_g_holland_and_mrs_holland_saturday_eve" data-title="To Dr. J. G. Holland, and Mrs. Holland, Saturday Eve" data-chapter="" data-kind="intro" data-tags="topos/dance_of_death,archetype/death_personified,motif/death,motif/garden,motif/disease_contagion,motif/a_ship,concept/mortality,concept/equality_in_death,concept/grief_and_loss,form/letter,histref/the_bible,setting/a_garden,cluster/sea,cluster/water"></span>
@@ -752,17 +433,6 @@ I shall not tell how short [[motifs/time|time]] is, for I was told by lips which
 
 Ask her if vice versa? Mine is but just the thief's request —“Remember me to-day.” Such are the bright chirographies of the “[[motifs/lamb|Lamb]]'s Book.” Good-[[motifs/night|night]]! My ships are in!—My [[motifs/window|window]] overlooks the wharf! One yacht, and a man-of-war; two brigs and a schooner! “Down with the topmast! Lay her a' hold, a' hold!”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Caro Hollands,  
-Buona [[motifs/night|notte]]! Non posso rimanere ancora in questo mondo di [[motifs/death|morte]]. Austin è malato di febbre. Ho sepolto il mio [[motifs/garden|jardino]] la scorsa settimana; il nostro uomo, Dick, ha perso una bambina a causa della scarlattina. Pensavo che forse fossi morto. E non conoscendo l’indirizzo del becchino, ho persino interrogato i “margheriti”. Ah! Delicata, delicata [[motifs/death|Morte]]. Ah! Democratica [[motifs/death|Morte]]. Afferrando la più orgogliosa zinzia dal mio giardino viola. Poi, stringendola al petto, ha chiamato “figlia del servo”.
-
-Dici, è dappertutto? Dove dovrò nascondere le mie cose? Chi è ancora vivo? I boschi sono morti. La signora H. è viva? Annie e Katie, sono laggiù sotto, o non sono state accolte da nessuno?
-
-Non dirò quanto sia breve il [[motifs/time|tempo]], perché me l’hanno detto labbra che si sono chiuse non appena quelle parole furono pronunciate; coloro che parlano apertamente rispettano ciò che viene taciuto. Tu non eri qui durante l’[[motifs/summer|estate]]. [[motifs/summer|Estate]]? La mia [[motifs/memory|memoria]] vacilla. C’è stata davvero un’[[motifs/summer|estate]]? Avresti dovuto vedere i campi. Quella gioiosa, piccola “entomologia”. Quelle rapide, piccole “ornitologie”. I danzatori, il pavimento, il ritmo. Tutto scompariva. E io, un [[characters/phantom|fantasma]], per te soltanto un [[characters/phantom|fantasma]], ripeto questa storia. Un oratore di piume davanti a un pubblico di peli. E applausi muti, “Davvero altrettanto bello quanto un’opera teatrale”, davvero! Dì alla signora Holland che lei è mia.
-
-Chiedile se vale lo stesso anche al contrario. Il mio caso è proprio questo: si tratta soltanto della richiesta di un ladro, “Ricordati di me oggi, ” Queste sono le “chiare scritture” del “Libro dell’[[motifs/lamb|Agnello]]”. Buona [[motifs/night|notte]]! I miei navigli sono arrivati. La mia [[motifs/window|finestra]] dà sul molo: un yacht, una nave da guerra, due brighe e una goletta, “Tagliate via l’albero maestro! Tenetela ferma, fermatela!”
 
 
 
@@ -781,20 +451,6 @@ Glad you heard Rubinstein. Grieved L——could not hear him. He makes me think 
 
 I am troubled for L——'s eye. Poor little girl! Can I help her? She has so many times saved me. Do take her to Arlington Street.9 Xerxes must go now and see to her worlds. You shall “taste,” dear.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Grazie, caro, per l’[[motifs/love|amore]]. Sto facendo progressi, anche se lentamente.
-
-L’esperimento prevede uno stimolo in grado di attenuare la sua [[concepts/fear|paura]].
-
-Questo è il luogo che loro speravano di raggiungere un tempo; è anche il luogo in cui ora io spero di arrivare. Il seme della delusione è cresciuto all’interno di una capsula splendente, troppo lontana per fermare coloro che camminano su questa strada di conforto. Davanti a loro si estende un [[motifs/sea|mare]] senza via d’uscita; il sentiero che hanno percorso è ormai chiuso.
-
-Poiché me lo chiedi con tanta gentilezza, ho avuto soltanto un’avventura seria: mi è entrato un chiodo nel piede, ma Maggie me l’ha tolto. Quella notte sono rimasto sveglio solo per via dei [[motifs/birds|uccelli]] che insistevano a stare seduti. Così quella situazione è diventata una specie di occasione piuttosto che una sfortuna. C’era anche un circo: l’ho guardato fino alle tre e mezza del mattino. Dicevano “hoy, hoy” ai loro cavalli.
-
-Sono contento che tu abbia ascoltato Rubinstein. Mi dispiace che L——non sia riuscito ad ascoltarlo; lui mi fa pensare alle notti polari, di cui il Capitano Hall era così esperto. Passare da un blocco di ghiaccio all’altro. Che scambio di emozioni e meraviglia!
-
-Sono preoccupata per l’occhio di L. Povera piccola ragazza! Posso aiutarla? Lei mi ha salvato tante volte. Portatela sicuramente in Arlington Street. Ora Xerxes deve andare a prendersi cura dei suoi mondi. Tu dovrai “assaggiarli”, caro.
 
 
 
@@ -822,28 +478,6 @@ But, will you be my preceptor, Mr. Higginson?
 After these startling letters it was but natural that Mr. Higginson should have asked to see a photograph of his “enigmatical correspondent.” But there was none. She had an unconquerable aversion to seeing herself reproduced in any sort of “mould.” The frontispiece to the first volume of these Letters is taken from an oil painting of Emily, when she was but eight years old, in a group with her brother and sister. The only other known representation of her face is a daguerrotype made a few years later; but it is entirely unsatisfactory, both in expression and individuality. Instead of her photograph, she sent this verbal portrait. Her coy avoidance of Mr. Higginson's request was as characteristically piquant as her answer to his question of her age;—
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, —La tua [[forms/letter|lettera]] non menzionava alcun episodio legato all’alcol, perché avevo già assaggiato il rum prima. Domingo arriva solo una volta al mese; tuttavia, poche cose mi hanno dato tanta gioia quanto le tue parole. E se provassi a ringraziarti, le mie [[motifs/tears|lacrime]] mi impedirebbero di parlare.
-
-Il mio tutor morente mi disse che avrebbe voluto vivere fino a quando non fossi diventato poeta, ma la [[motifs/death|Morte]] era qualcosa di molto più potente di quanto io potessi controllare all’epoca. E quando, molto tempo dopo, una luce improvvisa nei giardini o una nuova moda nel [[motifs/wind|vento]] attiravano la mia attenzione, provavo un senso di paralisi, solo le poesie riuscivano a alleviare quel malessere.
-
-La tua seconda [[forms/letter|lettera]] mi ha sorpreso; per un momento, ne sono rimasto sconvolto. Non me l’aspettavo affatto. La prima non mi aveva causato alcun imbarazzo, perché coloro che sono onesti non si vergognano mai. Ti ho ringraziato per la tua giustizia, ma non ho potuto gettare via quelle [[motifs/bells|campane]] il cui suono rinfrescava il mio cammino. Forse quel “balsamo” sembrava ancora più efficace, perché mi hai fatto “sanguinare” prima. Sorrido quando suggerisci che io ritardi la pubblicazione di quella lettera: tale idea è per me tanto estranea quanto il cielo lo è dalla terra.
-
-Se la fama fosse mia, non potrei sfuggirle; se invece non lo fosse, nemmeno il giorno più lungo basterebbe per inseguirla, e allora anche l’approvazione del mio cane mi abbandonerebbe. La mia condizione di semplice individuo senza privilegi è forse migliore.
-
-Pensate che il mio modo di camminare sia “spastico”. Sono in pericolo, signore. Pensate che io sia “incontrollabile”. Non ho alcun tribunale a cui rivolgermi.
-
-Avresti [[motifs/time|tempo]] di essere quel “amico” di cui penso abbia bisogno? Ho dimensioni ridotte: non occuperei molto spazio sul tuo tavolo, né farei troppo rumore come quel topo che rovina le tue cose.
-
-Se potessi portarvi ciò che faccio – non molto spesso, per non disturbarvi – e chiedervi se vi ho spiegato chiaramente, sarebbe un modo per esercitare su di voi un certo controllo. Il marinaio non può vedere il nord, ma sa che la bussola sì può farlo. Quella “mano che mi tendete nel buio”, io ci metto la mia e poi mi allontano. Ora non ho più nulla in comune con i Sassoni.
-
-Come se chiedessi l’elemosina a uno sconosciuto. E nella mia mano, piena di meraviglia, qualcuno mi ha messo un regno tra le mani. Io resto confuso, in piedi, senza sapere cosa fare. Come se chiedessi all’[[settings/orient|Oriente]] che mi desse una madre. E che sollevasse i suoi confini viola per distruggermi con l’[[motifs/dawn|'alba]]!
-
-Ma sareste voi il mio precettore, signor Higginson?
-
-Dopo queste lettere sorprendenti, era del tutto naturale che il signor Higginson chiedesse di vedere una fotografia della sua “enigmatica corrispondente”. Ma non ne esisteva alcuna. Lei provava un’avversione insormontabile all’idea di vedersi riprodotta in qualsiasi forma. La copertina del primo volume di queste Lettere riporta un ritratto a olio di Emily, quando aveva soltanto otto anni, raffigurata insieme al fratello e alla sorella. L’unica altra rappresentazione conosciuta del suo volto è un dagherrotipo realizzato pochi anni dopo; tuttavia, sia l’espressione che la caratteristica individuale sono completamente insoddisfacenti. Al posto di una fotografia, lei gli inviò questo “ritratto verbale”. Il modo in cui evitò con discrezione la richiesta del signor Higginson era altrettanto caratteristico e incisivo quanto la sua risposta alla domanda riguardante la sua età.
-
 
 
 <span class="atom-split" data-atom="l0392_mrs_edward_tuckerman_august_1878" data-title="To Mrs. Edward Tuckerman, August, 1878" data-chapter="" data-kind="intro" data-tags="motif/nature,concept/imagination,concept/joy,concept/friendship,concept/wonder,form/letter,cluster/sea,cluster/water"></span>
@@ -860,18 +494,3 @@ Would adding to it take it away, or is that a penurious question?
 To cherish you is intuitive.
 
 As we take [[concepts/nature|Nature]], without permission, let us covet you.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Vedere forse non è mai esattamente lo stesso che intuire, anche se l’obbligo di incantare è sempre vincolante.
-
-È bello ricordare che non dobbiamo risparmiare, perché la magia è il nostro pasto più “frugale”.
-
-Temo che tu abbia troppa felicità, perché ne spendi davvero molto.
-
-Aggiungerci qualcosa lo eliminerebbe, o è questa una domanda troppo limitata nel suo approccio?
-
-Amar te è qualcosa che viene naturale.
-
-Mentre possediamo la [Natura], senza permesso, desideriamo ardentemente te.

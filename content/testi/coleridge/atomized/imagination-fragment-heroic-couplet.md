@@ -25,18 +25,6 @@ O’erspread my Features with a flush of Joy!
 1790.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Dolce Musa! compagna d’ogni mia ora!  
-Voce della mia Gioia! Sicura placatrice del sospiro!  
-Ora liscia le tue penne, ora esercita ogni potere,  
-E vola a colui che possiede l’occhio schietto.  
-E se un sorriso di Lode saluti la tua fatica   5  
-([[motifs/well|Bene]] allora le tue fatiche m’occuperan la mente)  
-Rivola rapida indietro, dolce Musa! e col racconto  
-Spandi sui miei Lineamenti un rossore di Gioia!  
-1790.
-
 
 
 <span class="atom-split" data-atom="047_first_draft_an_effusion_at_evening" data-title="FIRST DRAFT: AN EFFUSION AT EVENING" data-chapter="" data-kind="intro" data-tags="motif/memory,motif/nature,motif/storm,motif/river,concept/imagination,concept/love_romantic,concept/hope,concept/the_sublime,form/lyric,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -115,80 +103,6 @@ Till chill and damp the moonless [[motifs/night|Night]] descend!
 1792.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-SCRITTA NELL’AGOSTO DEL 1792  
-[[concepts/imagination|Immaginazione]], Signora del mio [[motifs/love|Amore]]!  
-Dove esplorerà il mio Occhio il tuo elfico ritiro?  
-Bagni tu su quella ricca Nube le tue penne lucenti  
-In Fiumi di Luce ardenti d’ambra?  
-O, folle di [[characters/speed|velocità]], insegui la traccia del Giorno   5  
-In altri mondi a salutare il Raggio del mattino?  
-È [[motifs/time|tempo]] d’ordinare ai Piaceri sbiaditi e ombrosi di muoversi  
-Su ali d’ombrosa [[motifs/memory|Memoria]] attraverso l’[[motifs/soul|Anima]] d’[[motifs/love|Amore]];  
-E al tuo di gettare sulle gelide pianure dell’[[motifs/winter|Inverno]]  
-Ogni fiore che cinge le Chiome spiranti della [[motifs/spring|Primavera]],   10  
-Quando arrossendo, come una sposa, dal Pergolato di primule  
-Ella balza, destata dal picchiettante Acquazzone!  
-Ora il Sole che tramonta spande un bagliore purpureo,  
-Aiuta, amabile Maga! aiuta il sogno del Poeta.  
-Con bacchetta fatata oh fa’ sorgere il mio [[motifs/love|Amore]],   15  
-Il brillio rugiadoso danzante nei suoi Occhi;  
-Come un tempo ella destò con Sembiante che rapisce l’[[motifs/soul|anima]]  
-Il fremito di Gioia estatica eppure serena,  
-Quando unito alla Pace balzavo per la Pianura  
-E la [[concepts/hope|Speranza]] stessa era tutto ciò che sapevo del [[motifs/pain|Dolore]]!   20  
-La Fantasia propizia ode il sospiro votivo —  
-La Fanciulla assente balena al mio Occhio!  
-Quando primo l’Uccello mattutino con trasalente Canto  
-Saluta il Sole fra le Nubi che lo velano,  
-{ consueto  
-Traccio i suoi passi sul { fumante Prato,   25  
-La vedo balenare nei bagliori dell’[[motifs/dawn|Alba]]!  
-Quando il Fiore piegato piange sotto la rugiada della [[motifs/night|notte]]  
-E sul Lago dorme il Lustro d’argento,  
-Fra il pallido Splendore soffice e triste  
-Ella incontra il mio solitario cammino vestita di raggi lunari.   30  
-Con lei lungo la sponda del ruscelletto vago;  
-Con lei ascolto i gorgheggi del Boschetto;  
-E in ogni basso [[motifs/wind|vento]] par fluttuare la sua voce,  
-Sussurrando sola Pietà in ogni Nota che consola!  
-Come spesso in climi oltre il Mare occidentale   35  
-Dove sconfinata si stende la Pianura selvaggiamente silente,  
-Il selvaggio Cacciatore, che le sue membra sonnolente  
-Aveva scaldato sotto la Fiamma non annuvolata del Sole,  
-Si desta fra l’aria turbata dalla tempesta,  
-Lo Scoppio del Tuono e il livido bagliore del [[motifs/lightning|Fulmine]] — 40  
-Atterrito ode l’Impeto del Turbine che si scaglia,  
-E mesto ricorda l’ora assolata del [[motifs/sleep|Sonno]]!  
-Così perduto fra le tempeste lungo la Via smarrente della Vita  
-Il mio Occhio rivolto indietro mira quel Giorno senza nubi,  
-Quando, —— ! sulle tue rive godevo d’errare   45  
-Mentre la [[concepts/hope|Speranza]] con baci nutriva l’infante [[motifs/love|Amore]]!  
-Dolce —— ! dove il ruscelletto del Piacere scorre  
-Ventilato da molli venti a incresparsi in maree fittizie;  
-Dove Allegria e Pace ingannano il Giorno incolpevole;  
-E dove la stella fissa dell’[[concepts/friendship|Amicizia]] irraggia un Raggio mite;   50  
-Dove l’[[motifs/love|Amore]] porta una [[motifs/crown|corona]] di Rose senza spine;  
-Dove il Dolore mitigato sorride dentro le sue [[motifs/tears|lacrime]];  
-E la [[motifs/memory|Memoria]], con mite ufficio di Vestale,  
-Incessante alimenta la lambente fiamma della Gioia!  
-Non più le tue Allodole rimpicciolendo alla mia vista   55  
-Faran fremere di diletto la Corda del Cuore accordata;  
-Non più adorneranno i tuoi Piaceri pensosi e dolci  
-Con serti di tinta sobria il mio seggio della sera!  
-Pur cara all’Occhio della [Mia] Fantasia la tua varia scena  
-Di Bosco, [[motifs/hill|Colle]], Valle e scintillante Ruscello in mezzo:   60  
-Pur dolce all’Orecchio della [Mia] Fantasia il canto gorgheggiato,  
-Che si libra sull’ala del Mattino fra i tuoi campi!  
-Scene della mia [[concepts/hope|Speranza]]! l’Occhio dolente voi lasciate,  
-Come quelle ricche Tinte che dipingono le nubi della Sera!  
-Lacrimoso e rattristandosi col Bagliore rattristato   65  
-Il mio Occhio insegue il barlume con Sguardo bramoso —  
-Vede Ombre su Ombre sovrastare di tinta più cupa,  
-Finché gelida e umida la [[motifs/night|Notte]] senza luna discenda!  
-1792.
-
 
 
 <span class="atom-split" data-atom="076_melancholy" data-title="MELANCHOLY" data-chapter="" data-kind="intro" data-tags="motif/ruins,motif/dreams,motif/sleep,concept/melancholy,concept/the_grotesque,form/fragment,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -208,22 +122,6 @@ And her bent forehead work’d with troubled thought.
 Strange was the dream ——  
 ? 1794.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-UN [[forms/fragment|FRAMMENTO]]  
-Distesa sul muro più largo d’una Abbazia sgretolata,  
-Dove edere in rovina puntellavan le rovine scoscese —  
-Le braccia conserte a stringere il suo lacero manto,    La felce era schiacciata sotto i suoi capelli,  
-La Lingua di Serpe verde scuro era là;  
-E sempre che passava fiacca la debole brezza di mare,  
-La lunga foglia sottile s’inchinava svolazzando sulla sua guancia.  
-Quella guancia pallida era accesa: il suo sguardo ardente  
-Raggiava eloquente nel sonno! Travagliata di dentro,   10  
-Suoni imperfetti abbandonaron le sue labbra in moto,  
-E la fronte china le lavorava di pensiero turbato.  
-Strano era il sogno ——  
-? 1794.
 
 
 
@@ -298,76 +196,6 @@ Wilder’d and dark, and gave me to possess
 Peace, and this Cot, and thee, heart-[[concepts/honour|honour]]’d Maid!  
 1795.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-COMPOSTA A CLEVEDON, SOMERSETSHIRE  
-Mia pensosa Sara! la tua molle guancia reclinata  
-Così sul mio braccio, dolcissimo conforto è  
-Sedere accanto alla nostra Casetta, la nostra Casetta ricoperta  
-Di Gelsomino dai fiori bianchi, e del Mirto dalle larghe foglie,  
-(Emblemi acconci d’Innocenza e d’[[motifs/love|Amore]]!)   5  
-E guardare le nubi, che poco fa eran ricche di luce,  
-Lente rattristarsi intorno, e notare la stella della sera  
-Serenamente lucente (tale dovrebbe esser la Saggezza)  
-Splendere di fronte! Come squisiti i profumi  
-Rapiti da quel campo di fave! e il mondo così quieto!   10  
-Il mormorio immoto del Mare lontano  
-Ci parla di [[motifs/silence|silenzio]].  
-E quel semplicissimo Liuto,  
-Posto per lungo nella finestra che lo stringe, ascolta!  
-Come, carezzato dalla brezza incostante,  
-Come schiva fanciulla che a mezzo cede al suo [[archetypes/lover|amante]],   15  
-Effonde un rimprovero così dolce, che per forza  
-Tenta a ripetere il torto! E ora, le sue corde  
-Percorse più arditamente, le lunghe note conseguenti  
-Su onde deliziose calano e salgono,  
-Tale un molle fluttuante incantesimo di suono   20  
-Quale fanno gli Elfi del crepuscolo, quando a sera  
-Navigano su miti brezze dal Paese delle Fate,  
-Dove le Melodie intorno ai [[motifs/flowers|fiori]] che stillano miele,  
-Senza piedi e selvagge, come [[motifs/birds|uccelli]] del Paradiso,  
-Non sostano né si posano, librandosi su ala indomita!   25  
-Oh! l’unica Vita dentro di noi e fuori,  
-Che incontra ogni moto e ne diventa l’[[motifs/soul|anima]],  
-Una luce nel suono, una potenza simile al suono nella luce,  
-Ritmo in ogni pensiero, e letizia dappertutto —  
-Mi pare che sarebbe stato impossibile   30  
-Non [[motifs/love|amare]] tutte le cose in un mondo così ricolmo;  
-Dove la brezza gorgheggia, e l’aria muta e immota  
-È Musica che dorme sul suo strumento.  
-E così, [[motifs/love|Amore]] mio! come sul pendio a mezza costa  
-Di quel [[motifs/hill|colle]] laggiù distendo le membra a [[motifs/noon|mezzogiorno]],   35  
-Mentre attraverso le palpebre socchiuse contemplo  
-I raggi del sole [[motifs/dance|danzare]], come diamanti, sul mare,  
-E tranquillo medito sulla tranquillità;  
-Ben molti pensieri non chiamati né trattenuti,  
-E molte oziose fantasie fuggevoli,   40  
-Attraversano il mio cervello indolente e passivo,  
-Selvagge e varie come i venti casuali  
-Che gonfiano e fremono su questo Liuto soggetto!  
-E che, se tutta l’animata [[concepts/nature|natura]]  
-Non fosse che Arpe organiche diversamente foggiate,   45  
-Che tremano in pensiero, mentre su di esse spira  
-Plastica e vasta, un’unica brezza intellettuale,  
-Insieme l’[[motifs/soul|Anima]] di ciascuna, e Dio di tutte?  
-Ma il tuo occhio più serio un mite rimprovero  
-Scaglia, o Donna diletta! né tali pensieri   50  
-Foschi e profani tu non li respingi,  
-E m’imponi di camminare umilmente col mio Dio.  
-Mite Figlia nella famiglia di [[characters/christ|Cristo]]!  
-[[motifs/well|Bene]] hai detto e santamente hai biasimato  
-Queste foggiature della mente non rigenerata;   55  
-Bolle che luccicano mentre salgono e si rompono  
-Sulla [[motifs/spring|fonte]] sempre garrula della vana Filosofia.  
-Ché mai senza colpa io possa parlare di lui,  
-L’Incomprensibile! se non quando con timore  
-Lo lodo, e con [[concepts/faith|Fede]] che sente di dentro;   60  
-Lui che con le sue misericordie salvifiche mi risanò,  
-Uomo peccatore e miserrimo,  
-Smarrito e oscuro, e mi diede di possedere  
-Pace, e questa Casetta, e te, Fanciulla [[concepts/honour|onorata]] dal cuore!  
-1795.
 
 
 
@@ -557,190 +385,6 @@ God’s Image, sister of the Seraphim.
 1796.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-L’Ode s’apre con un’invocazione alla Divina [[concepts/providence|Provvidenza]] che  
-regola in una sola vasta armonia tutti gli eventi del [[motifs/time|tempo]], per quanto  
-calamitosi alcuni di essi possano apparire ai mortali. La seconda Strofe chiama  
-gli uomini a sospendere le loro gioie e i loro dolori privati, e a consacrarli per un  
-poco alla causa della [[concepts/nature|natura]] umana in generale. Il primo Epodo parla  
-dell’Imperatrice di [[settings/russia|Russia]], morta d’apoplessia il 17 novembre  
-1796, avendo appena concluso un trattato sussidiario con i Re coalizzati  
-contro la Francia. La prima e la seconda Antistrofe descrivono l’Immagine  
-dell’Anno che se ne va, ecc., come in una visione. Il secondo Epodo profetizza,  
-in angoscia di spirito, la rovina di questo paese.  
-I  
-Spirito che percorri la selvaggia Arpa del [[motifs/time|Tempo]]!  
-Durissimo è, con orecchio non turbato,  
-Udire le tue oscure armonie intessute!  
-Pure, l’occhio mio fisso all’immutabile clima del Cielo  
-A lungo avevo ascoltato, libero da mortale [[concepts/fear|paura]],   5  
-Con interiore immobilità, e mente inchinata;  
-Quand’ecco! le sue pieghe ondeggianti lontano al [[motifs/wind|vento]],  
-Vidi il corteo dell’Anno che se ne va!  
-Balzando dalla mia silente tristezza  
-Allora con non empia [[concepts/madness|follia]],   10  
-Prima che la nube entrata mi precludesse la vista,  
-Levai l’impetuoso canto, e solennizzai la sua fuga.  
-II  
-Qua, dalla tomba recente,  
-Dal più tetro buio della [[motifs/prison|prigione]],  
-Dall’angoscia di mezzanotte del Morbo;   15  
-E di là, dove la [[concepts/poverty|Povertà]] si consuma e langue;  
-O dove, mescolando le sue due fulgide torce,  
-L’[[motifs/love|Amore]] illumina il labirinto della Virilità;  
-O dove, chinandosi su infanti in culla,  
-La [[concepts/hope|Speranza]] ha fissato il suo sguardo bramoso;   20  
-Qua, in perplessa [[motifs/dance|danza]],  
-O Dolori! o Gioie dagli occhi giovani! avanzate!  
-Per l’arpa selvaggia del [[motifs/time|Tempo]], e per la mano  
-Il cui infaticabile percorrere  
-Desta dal [[motifs/sleep|sonno]] le sue corde fatali,   25  
-V’ordino d’affrettarvi, schiera mista e tumultuosa!  
-Da ogni pergolato privato,  
-E da ogni focolare domestico,  
-Affrettatevi per un’ora solenne;  
-E con voce alta e poi più alta ancora,   30  
-Sulla [[concepts/nature|Natura]] che lotta in portentoso parto,  
-Piangete e gioite!  
-Ancora echeggia il tremendo Nome che sulla terra  
-Scatenò la [[motifs/storm|tempesta]], e destò la nidiata d’Inferno:  
-E ora avanzano in santo Giubileo   35  
-Giustizia e [[concepts/truth|Verità]]! Anch’esse hanno udito il tuo incanto,  
-Anch’esse obbediscono al tuo nome, divinissima Libertà!  
-III  
-Notai l’[[concepts/ambition|Ambizione]] nel suo assetto di guerra!  
-Udii il grido inquieto del Monarca corazzato —  
-‘Ah! perché indugia la Conquistatrice del Nord!   40  
-Non geme il suo carro sulla via che avanza?’  
-Fuggi, Monarca corazzato, fuggi!  
-Stordita dalla mazza due volte mortale della [[motifs/death|Morte]],  
-Non più sul livido volto dell’Assassinio  
-La Strega insaziabile gongolerà con occhio ebbro!   45  
-Mani degli uccisi innumerevoli!  
-Voi che rantolaste sulla piana di Varsavia!  
-Voi che un tempo alla torre d’Ismail,  
-Quando la rovina umana soffocava i fiumi,  
-Cadeste nell’ora satolla della Conquista,   50  
-Fra gli strilli delle donne e le grida degli infanti!  
-Spiriti degli uccisi senza bara,  
-Improvvise raffiche di trionfo gonfiando,  
-Spesso, di [[motifs/night|notte]], in corteo di nebbia,  
-Irrompete intorno alla sua angusta dimora!   55  
-Il Demone sterminatore è fuggito —  
-(Sozza la sua vita, e oscura la sua sorte)  
-Possenti eserciti dei morti  
-[[motifs/dance|Danzano]], come fuochi di [[motifs/death|morte]], intorno alla sua tomba!  
-Poi con canto profetico narrate,   60  
-Ciascuno la sorte di qualche [[archetypes/tyrant|Tiranno]]-Assassino!  
-IV  
-Anno che te ne vai! non fu su lido terreno  
-Che l’[[motifs/soul|anima]] mia vide la tua Visione! Dove sola,  
-Senza voce e severa, dinanzi al trono di nubi,  
-Siede sempre la [[motifs/memory|Memoria]]: la tua veste scritta di sangue,   65  
-Con molti gemiti inimmaginabili  
-Narrasti le tue ore meste! Il [[motifs/silence|Silenzio]] seguì,  
-Profondo [[motifs/silence|silenzio]] sull’eterea moltitudine,  
-Le cui chiome di serti, i cui serti di glorie splendevano.  
-Poi, l’occhio suo balenando selvaggi ardori,   70  
-Avanzando dagli dèi in coro,  
-Lo Spirito della Terra fece acconcia riverenza,  
-E si levò, bellissimo, dinanzi al seggio di nubi.  
-V  
-Per tutta la schiera beata,  
-Taciuti erano arpa e canto:   75  
-Finché volteggiando intorno al trono le sette Lampade,  
-(Le mistiche Parole del Cielo)  
-Fecero segnale di permesso:  
-Il fervido Spirito s’inchinò, poi spiegò le ali e parlò!  
-‘Tu che in tempestosa tenebra intronizzi   80  
-[[motifs/love|Amore]] e Luce increata,  
-Per il gemito inconsolato della Terra,  
-Afferra i tuoi terrori, Braccio di potenza!  
-Per la Pace atterrita da insulto offerto,  
-Odio mascherato e Scherno invidioso!   85  
-Per anni di Strage ancora non nati!  
-E il petto della Fame nudato ai venti di [[motifs/frost|gelo]]!  
-Ma soprattutto per i torti dell’Africa,  
-Strani, orribili e sozzi!  
-Per la profonda [[concepts/guilt|colpa]] che appartiene   90  
-Al Sinodo sordo, ‘pieno di doni e di menzogne!’  
-Per il riso insensato della Ricchezza! per l’urlo della Tortura!  
-[[archetypes/avenger|Vendicatore]], sorgi!  
-Per sempre dovrà l’Isola ingrata accigliarsi,  
-La faretra piena, e con arco non spezzato?   95  
-Parla! dal tuo Cielo nero di [[motifs/storm|tempesta]] oh parla forte!  
-E sul nemico che s’oscura  
-Apri il tuo occhio di [[motifs/fire|fuoco]] da qualche nube incerta!  
-Oh scaglia il lampo! oh sorgi e vibra il colpo!  
-Il Passato a te, a te il Futuro grida!   100  
-Odi! come vasta la [[concepts/nature|Natura]] unisce i suoi gemiti quaggiù!  
-Sorgi, Dio della [[concepts/nature|Natura]]! sorgi.’  
-VI  
-La voce era cessata, la Visione fuggita;  
-Pur ancora ansimavo e vacillavo di terrore.  
-E sempre, quando il sogno della [[motifs/night|notte]]   105  
-Rinnova il [[characters/phantom|fantasma]] alla mia vista,  
-Gocce di freddo sudore mi si raccolgono sulle membra;  
-Le orecchie mi pulsano ardenti; le pupille mi balzano;  
-Il cervello mi nuota d’orrido tumulto;  
-Selvaggia è la tempesta del mio cuore;    110  
-E il mio respiro denso e affannoso  
-Imita la fatica della [[motifs/death|morte]]!  
-Non più strana agonia confonde  
-Il Soldato disteso sul campo di guerra,  
-Quando tutto sfinito di fatica e ferite,   115  
-Simile alla [[motifs/death|Morte]] sonnecchia fra mucchi di morti!  
-(La lotta è finita, la luce del giorno fuggita,  
-E il [[motifs/wind|vento]] della [[motifs/night|notte]] clamoreggia rauco!  
-Guarda! il capo del misero che trasale  
-Giace su guanciale di cadavere fraterno!)   120  
-VII  
-Non ancora asservita, non del tutto vile,  
-O Albione! o mia Isola madre!  
-Le tue valli, belle come i pergolati d’Eden,  
-Luccicano verdi di piogge assolate;  
-I dolci rigonfi delle tue alture erbose   125  
-Echeggiano al belato delle greggi;  
-(Quei colli erbosi, quelle valli scintillanti  
-Superbamente bastionate di rocce)  
-E l’Oceano fra il suo selvaggio frastuono  
-Parla salvezza alla sua [[archetypes/child|figlia]]-Isola!   130  
-Quindi per molte età senza paura  
-La Quiete civile ha amato la tua riva;  
-Né mai l’ira di superbo Invasore  
-Saccheggiò le tue torri, o macchiò di sangue i tuoi campi.  
-VIII  
-Abbandonata dal Cielo! folle Avarizia tua guida,   135  
-A vile distanza, pur accendendoti d’[[concepts/pride|orgoglio]] —  
-Fra le tue mandrie e i tuoi campi di grano sei stata sicura,  
-E t’unisti all’urlo selvaggio della Fame e del [[motifs/blood|Sangue]]!  
-Le nazioni ti maledicono! Esse con avido stupore  
-Udranno la Distruzione, come un avvoltoio, stridere!   140  
-Distruzione dagli occhi strani! che con molti un sogno  
-Di fuochi centrali tonanti su per mari sotterranei  
-Placa la sua fiera [[concepts/solitude|solitudine]]; pur mentre giace  
-Presso livida fonte, o rosso fiume vulcanico,  
-Se mai ai suoi occhi di drago senza palpebre,   145  
-O Albione! sorgono le tue rovine predestinate,  
-La strega-demone balza sul suo giaciglio periglioso,  
-Mormorando trionfo malsano nel suo [[motifs/sleep|sonno]] incantato.  
-IX  
-Via, [[motifs/soul|anima]] mia, via!  
-Invano, invano cantano gli [[motifs/birds|Uccelli]] d’avvertimento — 150  
-E odi! sento la nidiata affamata di preda  
-Battere le penne sottili sul [[motifs/wind|vento]] che geme!  
-Via, [[motifs/soul|anima]] mia, via!  
-Io, non partecipe della cosa malvagia,  
-Con quotidiana [[motifs/prayer|preghiera]] e quotidiana fatica   155  
-Sollecitando cibo dal mio scarso terreno,  
-Ho pianto il mio paese con un alto Lamento.  
-Ora ricentro la mia mente immortale  
-Nel profondo Sabato del mite [[concepts/self|proprio]] contento;  
-Purificata dalle vaporose passioni che offuscano   160  
-L’Immagine di Dio, sorella dei Serafini.  
-1796.
-
 
 
 <span class="atom-split" data-atom="134_this_lime-tree_bower_my_prison" data-title="THIS LIME-TREE BOWER MY PRISON" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/nature,motif/birds,concept/imagination,concept/friendship,concept/joy,form/blank_verse,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -832,94 +476,6 @@ For thee, my gentle-hearted Charles, to whom   75
 No sound is dissonant which tells of Life.  
 1797.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-INDIRIZZATA A CHARLES [[motifs/lamb|LAMB]], DELLA CASA DELLE INDIE, [[settings/london|LONDRA]]  
-Nel giugno del 1797 alcuni amici a lungo attesi fecero visita alla  
-casetta dell’autore; e la mattina del loro arrivo egli ebbe un  
-incidente, che gli impedì di camminare per tutto il [[motifs/time|tempo]] della loro  
-permanenza. Una sera, quando l’ebbero lasciato per alcune ore, egli compose  
-i versi seguenti nel pergolato del [[motifs/garden|giardino]].  
-[[motifs/well|Ebbene]], sono partiti, e qui devo restare,  
-Questo pergolato di tigli mia [[motifs/prison|prigione]]! Ho perduto  
-Bellezze e sentimenti, tali quali sarebbero stati  
-Dolcissimi al mio ricordo anche quando l’età  
-M’avesse offuscato gli occhi fino alla cecità! Essi, intanto,   5  
-Amici, che forse non incontrerò mai più,  
-Sull’erica elastica, lungo l’orlo della cresta del [[motifs/hill|colle]],  
-Vagano in letizia, e scendono a [[motifs/wind|serpeggiare]], forse,  
-Verso quella valletta sempre rombante, di cui narrai;  
-La valletta rombante, coperta di boschi, stretta, profonda,   10  
-E chiazzata soltanto dal sole di mezzogiorno;  
-Dove il suo esile tronco il frassino da roccia a roccia  
-Getta ad arco come un ponte; — quel frassino senza rami,  
-Senza sole e umido, le cui poche povere [[motifs/leaves|foglie]] gialle  
-Mai tremano al vento, pur sempre tremano,   15  
-Ventilate dalla cascata d’[[motifs/water|acqua]]! e là i miei amici  
-Contemplano la fila verde scura di lunghe erbe sottili,  
-Che tutte a un tempo (spettacolo fantastico!)  
-Sempre annuiscono e gocciano sotto l’orlo gocciolante  
-Della pietra d’argilla azzurra.  
-Ora i miei amici emergono   20  
-Sotto il vasto vasto Cielo — e mirano di nuovo  
-Il tratto magnifico dai molti campanili  
-Di campi collinosi e prati, e il mare,  
-Con qualche bella barca, forse, le cui vele illuminano  
-La striscia d’azzurro liscio e chiaro fra due Isole   25  
-Di purpurea [[archetypes/shadow|ombra]]! Sì! essi vagano avanti  
-Tutti in letizia; ma tu, mi pare, più lieto di tutti,  
-Mio Charles dal cuore gentile! ché tu ti sei struggito  
-E hai avuto fame di [[concepts/nature|Natura]], per molti anni,  
-Rinchiuso nella grande [[motifs/city|Città]], aprendoti la via   30  
-Con [[motifs/soul|anima]] mesta eppure paziente, per il male e il [[motifs/pain|dolore]]  
-E la strana sventura! Ah! lento cala  
-Dietro la cresta occidentale, tu Sole glorioso!  
-Splendete nei raggi obliqui dell’orbe che cala,  
-Voi purpurei [[motifs/flowers|fiori]] d’erica! ardete più ricche, voi nubi!   35  
-Vivete nella luce gialla, voi boschetti lontani!  
-E accenditi, tu azzurro Oceano! Così il mio amico  
-Colpito da gioia profonda possa stare, come io stetti,  
-Silenzioso col senso che nuota; sì, guardando intorno  
-Sull’ampio paesaggio, guardare finché tutto sembri   40  
-Meno grossolano del corporeo; e di tali tinte  
-Quali velano lo Spirito Onnipotente, quando pur fa  
-Che gli spiriti percepiscano la sua presenza.  
-Un diletto  
-Viene improvviso sul mio cuore, e sono lieto  
-Come s’io stesso fossi là! Né in questo pergolato,   45  
-Questo piccolo pergolato di tigli, non ho notato  
-Molto che m’ha consolato. Pallido sotto la vampa  
-Pendeva il fogliame trasparente; e osservavo  
-Qualche foglia larga e assolata, e amavo vedere  
-L’[[archetypes/shadow|ombra]] della foglia e del gambo di sopra   50  
-Screziarne la luce del sole! E quel noce  
-Era riccamente tinto, e un profondo splendore giaceva  
-Pieno sull’antica edera, che usurpa  
-Quegli olmi di fronte, e ora, con nerissima massa  
-Fa che i loro rami scuri splendano di tinta più chiara   55  
-Attraverso il tardo crepuscolo: e benché ora il pipistrello  
-Volteggi silenzioso e non una [[motifs/swallow|rondine]] cinguetti,  
-Pur ancora il solitario calabrone  
-Canta nel fiore di fava! D’ora innanzi saprò  
-Che la [[concepts/nature|Natura]] non abbandona mai i saggi e i puri;   60  
-Nessun luogo così angusto, purché vi sia la [[concepts/nature|Natura]],  
-Nessuna landa così vuota, che non possa [[motifs/well|bene]] impiegare  
-Ogni facoltà del senso, e tenere il cuore  
-Desto all’[[motifs/love|Amore]] e alla [[concepts/beauty|Bellezza]]! e talvolta  
-È [[motifs/well|bene]] esser privati del bene promesso,   65  
-Perché possiamo sollevare l’[[motifs/soul|anima]], e contemplare  
-Con viva gioia le gioie che non possiamo condividere.  
-Mio Charles dal cuore gentile! quando l’ultima cornacchia  
-Batté il suo dritto cammino per l’aria fosca  
-Verso casa, la benedissi! pensando che la sua ala nera   70  
-(Ora un punto fioco, ora svanendo nella luce)  
-Avesse [[motifs/cross|attraversato]] la gloria dilatata del possente Orbe,  
-Mentre tu stavi a guardare; o, quando tutto era immoto,  
-Volò gracchiando sul tuo capo, ed ebbe un incanto  
-Per te, mio Charles dal cuore gentile, per cui   75  
-Nessun suono è dissonante che parli di Vita.  
-1797.
 
 
 
@@ -1036,117 +592,6 @@ And drunk the milk of Paradise.
 1798.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-[[characters/kubla-khan|KUBLA KHAN]]: OVVERO, UNA VISIONE IN UN SOGNO. UN [[forms/fragment|FRAMMENTO]]  
-Il seguente [[forms/fragment|frammento]] è qui pubblicato su richiesta  
-d’un poeta di grande e meritata celebrità [Lord Byron], e,  
-per quanto riguarda le opinioni dell’Autore stesso, piuttosto come  
-curiosità psicologica che in base a qualche supposto  
-merito poetico.   5  
-Nell’[[motifs/summer|estate]] dell’anno 1797 l’Autore, allora in cattiva  
-salute, s’era ritirato in una solitaria casa colonica fra Porlock  
-e Linton, ai confini dell’Exmoor fra il Somerset e il Devonshire.  
-In conseguenza d’una lieve indisposizione, gli era stato prescritto  
-un anodino, per gli effetti del quale s’addormentò   10  
-sulla sedia nel momento in cui stava leggendo la seguente  
-frase, o parole della medesima sostanza, nel ‘Purchas’s  
-Pilgrimage’: ‘Qui il Khan Kubla ordinò che fosse costruito un palazzo,  
-e un maestoso [[motifs/garden|giardino]] annesso. E così dieci  
-miglia di terreno fertile furono racchiuse da un muro.’ L’  
-Autore continuò per circa tre ore in un profondo [[motifs/sleep|sonno]],  
-almeno dei sensi esterni, durante il quale [[motifs/time|tempo]] egli ha la  
-più viva certezza di non aver potuto comporre meno  
-di due o trecento versi; se pure può  
-chiamarsi composizione quella in cui tutte le immagini [[motifs/rose|sorsero]] davanti   20  
-a lui come cose, con una parallela produzione delle corrispondenti  
-espressioni, senza alcuna sensazione o coscienza di sforzo.  
-Al risveglio gli parve d’avere un distinto ricordo  
-del tutto, e presi penna, inchiostro e carta, all’istante  
-e avidamente scrisse i versi qui conservati. In  
-quel momento fu purtroppo chiamato fuori da una persona giunta  
-per affari da Porlock, e trattenuto da lui più d’un’ora,  
-e al suo ritorno nella stanza trovò, con sua non poca sorpresa  
-e mortificazione, che, sebbene serbasse ancora un vago  
-e fosco ricordo del senso generale della visione, tuttavia,   30  
-eccettuati otto o dieci versi e immagini sparsi,  
-tutto il resto era svanito come le immagini sulla  
-superficie d’un ruscello in cui sia stata gettata una pietra, ma, ahimè!  
-senza il successivo ricomporsi di quelle!  
-Allora tutto l’incanto  
-È spezzato — tutto quel mondo di [[characters/phantom|fantasmi]] così bello  
-Svanisce, e mille cerchietti si spandono,  
-E ciascuno deforma l’altro. Attendi un poco,  
-Povero giovane! che appena osi levare gli occhi —  
-Il ruscello presto rinnoverà la sua liscezza, presto   40  
-Le visioni torneranno! Ed ecco, egli attende,  
-E presto i frammenti fiochi di forme leggiadre  
-Tornano tremando, s’uniscono, e ora ancora una volta  
-La pozza ridiventa uno [[motifs/mirror|specchio]].  
-[Da The Picture; or, the [[archetypes/lover|Lover]]’s Resolution, vv. 91-100.]  
-Pure dai ricordi ancora superstiti nella sua mente, l’  
-Autore ha spesso avuto il proposito di finire da sé ciò che gli era  
-stato in origine, per così dire, donato. £±¼µÁ¿½ ±´¹¿½ ±ÃÉ  
-[‘TÁ¹¿½ ´¹¿½ ÃÉ 1834]: ma il domani deve ancora venire.  
-Come contrasto a questa visione, ho aggiunto un [[forms/fragment|frammento]] di  
-carattere assai diverso, che descrive con eguale fedeltà il   50  
-sogno del [[motifs/pain|dolore]] e della malattia.  
-
-[[characters/kubla-khan|KUBLA KHAN]]  
-A Xanadu [[characters/kubla-khan|Kubla Khan]]  
-Decretò un maestoso duomo del piacere:  
-Dove Alph, il sacro [[motifs/river|fiume]], correva  
-Per caverne incommensurabili all’uomo  
-Giù verso un mare senza sole.   5  
-Così due volte cinque miglia di terreno fertile  
-Furono cinte di mura e di torri:  
-E v’erano giardini fulgidi di rivi sinuosi,  
-Dove fioriva più d’un albero che porta incenso;  
-E qui v’erano foreste antiche come i colli,   10  
-Che racchiudevano radure assolate di verzura.  
-Ma oh! quel profondo romantico abisso che scendeva obliquo  
-Giù per il verde [[motifs/hill|colle]] attraverso una coltre di cedri!  
-Luogo selvaggio! santo e incantato  
-Quanto mai sotto una [[motifs/moon|luna]] calante ne fu infestato   15  
-Da donna che gemeva per il suo [[archetypes/lover|amante]]-demone!Come se questa terra in fitti rapidi ansiti respirasse,  
-Una possente fontana d’attimo in attimo era forzata:  
-Fra il cui rapido scoppio semi-intermittente   20  
-Enormi frammenti volteggiavano come grandine che rimbalza,  
-O grano con la pula sotto il correggiato del trebbiatore:  
-E fra queste rocce danzanti a un tempo e per sempre  
-Essa scagliava in alto d’attimo in attimo il sacro [[motifs/river|fiume]].  
-Cinque miglia serpeggiando con moto labirintico   25  
-Per bosco e valle il sacro [[motifs/river|fiume]] correva,  
-Poi raggiungeva le caverne incommensurabili all’uomo,  
-E sprofondava in tumulto in un oceano senza vita:  
-E fra questo tumulto Kubla udì da lontano  
-Voci ancestrali che profetavano guerra!   30  
-L’[[archetypes/shadow|ombra]] del duomo del piacere  
-Fluttuava a mezzo sulle onde;  
-Dove s’udiva la mista misura  
-Della fontana e delle caverne.  
-Era un miracolo di raro artificio,   35  
-Un assolato duomo del piacere con caverne di ghiaccio!  
-Una [[archetypes/damsel|damigella]] con un salterio  
-In una visione una volta io vidi:  
-Era una fanciulla d’Abissinia,  
-E sul suo salterio suonava,   40  
-Cantando del Monte Abora.  
-Potessi far rivivere in me  
-La sua sinfonia e il suo canto,  
-A un così profondo diletto essa mi vincerebbe,  
-Che con musica alta e lunga   45  
-Costruirei quel duomo nell’aria,  
-Quel duomo assolato! quelle caverne di ghiaccio!  
-E tutti quelli che udissero li vedrebbero là,  
-E tutti griderebbero: Attenti! Attenti!  
-I suoi occhi che lampeggiano, i suoi capelli che fluttuano!  
-Tessete un cerchio intorno a lui tre volte,  
-E chiudete gli occhi con sacro terrore,  
-Ché egli s’è nutrito di rugiada di miele,  
-E ha bevuto il latte del Paradiso.  
-1798.
-
 
 
 <span class="atom-split" data-atom="184_mahomet" data-title="MAHOMET" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,archetype/prophet,archetype/hero,motif/river,concept/faith,concept/good_vs_evil,concept/power_and_corruption,form/hexameter_verse,form/fragment,histref/islam,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -1170,25 +615,6 @@ Rushes dividuous all — all rushing impetuous onward.
 ? 1799.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Intona il canto, o [[motifs/soul|anima]] mia! la fuga e il ritorno di Maometto,  
-[[archetypes/prophet|Profeta]] e sacerdote, che sparse d’intorno sia il male sia la benedizione,  
-Fondò imperi enormi e devastanti e santificò la lenta persecuzione,  
-Che dissecca l’[[motifs/soul|Anima]], ma schiacciò i riti blasfemi dei Pagani  
-E dei Cristiani idolatri. — Ché velando il Vangelo di Gesù,   5  
-Essi, corrompendo il meglio, l’avevan fatto peggiore del più vile.  
-Perciò il Cielo decretò l’entusiasta guerriero della Mecca,  
-Scegliendo il bene dall’iniquità piuttosto che il male dalla bontà.  
-Alto il tumulto alla Mecca intorno al tempio dell’idolo; —  
-Nudi e prostrati giacevano i sacerdoti — il popolo con folli  
-grida      10  
-Tuonando ora, e ora con mestissimo ululato  
-Volò, come sopra il canale di roccia il [[motifs/river|fiume]] rovinoso  
-Frantuma le sue acque affiancate, e in labirintico frastuono smarrito,  
-Precipita diviso tutto — tutto precipitando impetuoso avanti.  
-? 1799.
-
 
 
 <span class="atom-split" data-atom="190_apologia_pro_vita_sua" data-title="APOLOGIA PRO VITA SUA" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/eyes_sight,motif/fire,concept/imagination,concept/the_sublime,concept/the_artist_and_society,form/epigram,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -1204,18 +630,6 @@ His gifted ken can see
 Phantoms of sublimity.  
 1800.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il poeta nella sua ora solitaria eppur geniale  
-Dà ai suoi occhi un potere d’ingrandimento:  
-O piuttosto emancipa i suoi occhi  
-Dai neri informi accidenti della grandezza —  
-In unti coni di carbone che s’accende,   5  
-O nel fumo che s’attorce dal foro lindo della pipa,  
-Il suo sguardo dotato sa vedere  
-Fantasmi di sublimità.  
-1800.
 
 
 
@@ -1234,20 +648,6 @@ Live and are borne as an Infant; the Eternal begets the Immortal:
 [[motifs/love|Love]] is the Spirit of Life, and Music the Life of the Spirit!
 ? 1805.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-A WILLIAM WORDSWORTH
-Questo sia il premio, che il tuo canto crei un’eco mille volte ripetuta!
-Dolce come il gorgheggio dei boschi, che si desta al vento del mattino!
-Ascolta! i Cuori dei Puri, come caverne nelle antiche [[settings/mountains|montagne]]
-Profondo, profondo nel Petto, e dal Petto lo risuonano,
-Ciascuno con tono diverso, intero o in frammenti musicali — 5
-Tutti hanno accolto la tua Voce, e la ricevono e la ritengono e la prolungano!
-Questa è la parola del Signore! è pronunciata, ed Esseri Eterni
-Vivono e sono generati come un Infante; l’Eterno genera l’Immortale:
-L’[[motifs/love|Amore]] è lo Spirito della Vita, e la Musica la Vita dello Spirito!
-? 1805.
 
 
 
@@ -1271,24 +671,6 @@ Rise to the swelling of the voiceful sea.
 1817.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Oh! è piacevole, con cuore in pace,  
-Subito dopo il tramonto, o sotto cieli di luna,  
-Far sì che le nubi mutevoli siano ciò che vuoi,  
-O lasciare che gli occhi facilmente persuasi  
-Riconoscano ogni bizzarra sembianza uscita dallo stampo   5  
-Della fantasia d’un amico; o col capo chinato  
-E la guancia obliqua veder scorrere fiumi d’oro  
-Fra sponde cremisi; e poi, viaggiatore, andare  
-Di monte in monte per il Paese delle Nubi, terra splendida!  
-O, ascoltando la marea, con la vista chiusa,   10  
-Essere quel cieco vate che sul lido di Chio  
-Da quei suoni profondi posseduto di luce interiore,  
-Vide l’Iliade e l’Odissea  
-Sorgere al gonfiarsi del mare pieno di voci.  
-1817.
-
 
 
 <span class="atom-split" data-atom="297_reason" data-title="REASON" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,concept/faith,concept/truth,form/fragment,histref/dante,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -1307,21 +689,6 @@ Ciò che vedresti, se l’avessi scosso.’
 [[historical-references/dante|Dante]], Paradiso, Canto i.  
 1830.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-[‘Infine, che cos’è la Ragione? Me l’hai chiesto spesso: ed ecco  
-la mia risposta’: — ]  
-Ogni volta che la nebbia, che sta fra Dio e te,  
-Si depura fino a pura trasparenza,  
-Che non intercetta luce e non aggiunge macchia —  
-Là è la Ragione, e allora comincia il suo regno!  
-Ma ahimè!    5  
-— —’tu stesso, ti fai grosso  
-Col falso immaginar, sì che non vedi  
-Ciò che vedresti, se l’avessi scosso.’  
-[[historical-references/dante|Dante]], Paradiso, Canto I.  
-1830.
 
 
 
@@ -1345,25 +712,6 @@ Kayser! farewell!
 Be wise! be happy! and forget not me.  
 1833.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Kayser! a cui, come a un secondo [[concepts/self|sé]],  
-La [[concepts/nature|Natura]], o il più prossimo congiunto della [[concepts/nature|Natura]], l’Elfo  
-Detto Genio, ha dispensato la felice arte  
-Di rallegrare o lenire l’‘Ahimè!’ dell’amico che parte,  
-Mutando il foglio bianco in un vetro magico,   5  
-Che rende presente l’assente a nostro piacere;  
-E all’ombreggiare della tua matita dà  
-Tale apparenza di sostanza, che quasi vive.  
-[[motifs/well|Bene]] hai reso il volto del Poeta pensoso!  
-Pure sulla tavoletta della sua mente   10  
-Hai lasciato dietro un ritratto più delizioso —  
-Cioè la tua stessa giovanile [[concepts/beauty|bellezza]], e la grazia senz’arte,  
-La tua letizia naturale e gli occhi lucenti d’allegria!  
-Kayser! addio!  
-Sii saggio! sii felice! e non dimenticarmi.  
-1833.
 
 
 
@@ -1433,70 +781,6 @@ Like the faint echo of a distant valley.
 First published in Notizbuch, 1896, p. 350.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Circa 1796-   98  
-Lievi carichi reca di Suono modulato  
-Dall’invisibile Ibla portati, quando Melodie  
-Come [[motifs/birds|Uccelli]] del Paradiso su ali che sempre  
-Si trastullano in selvaggia varietà di tinte,  
-Mormorano intorno al fiore che stilla miele.  
-Pubblicati per la prima volta nel 1893. Confronta The Eolian Harp (ag. 1795), vv.  
-20-5 (ante p. 101).  
-Roccia dal largo petto — rupe sospesa che specchia  
-La sua fronte rugosa nel mare calmo.  
-Pubblicati per la prima volta nel 1893. Confronta Destiny of Nations (1796), vv. 342,  
-343 (ante p. 143).  
-Dove il Cam più dissimula i suoi flussi furtivi  
-E appena l’acquosa [[archetypes/shadow|ombra]] del Salice trema.  
-Pubblicati per la prima volta nel 1893. Confronta il v. 1 di A [[forms/fragment|Fragment]] Found in a  
-Lecture-Room, ‘Where deep in mud Cam rolls his slumbrous stream’  
-(ante, p. 35).  
-Con mano segreta risana la ferita congetturata,  
-[oppure]  
-Congettura la ferita, e risanala con mano segreta.  
-Pubblicati per la prima volta nel 1893. Il verso alternativo fu pubblicato per la prima volta in  
-Lit. Rem., i. 279.  
-Superata in malizia la Lingua ascessuosa della Calunnia.  
-Pubblicato per la prima volta nel 1893. Un verso da Verses to Horne Tooke, 4 luglio  
-1796, v. 20 (ante, p. 151).  
-E scrivono Improvvisi  
-Spronando il loro Pegaso a galoppo di tartaruga.  
-Pubblicati per la prima volta nel 1893.  
-Dovuto ai Barcollanti, che ubriacati dal Potere  
-Dimenticano l’avida promessa della sete, e presumono,  
-Oscuri Sognatori! che anche il mondo la dimentichi.  
-Pubblicati per la prima volta in Lit. Rem., 1836, i. 27.  
-Perisca il calore  
-Infedele al suo sembiante!  
-Pubblicati per la prima volta in Lit. Rem., i. 279.  
-La vecchiaia, ‘la forma e il messaggero della [[motifs/death|Morte]],’  
-‘Il suo Pugno avvizzito ancora bussa alla porta della [[motifs/death|Morte]].’  
-Pubblicati per la prima volta in Lit. Rem., i. 279. Citato dall’  
-Induction to a Mirrour for Magistrates di Sackville, stanza 48:  
-‘Il suo pugno avvizzito ancor bussando a le porte de la morte,  
-Ruzzolando e sbavando mentre trae il fiato;  
-In breve, la forma e il messaggero de la [[motifs/death|morte]].’  
-Dio non conosce distanza,  
-Possedendo tutto dell’intero!  
-Pubblicati per la prima volta in Lit. Rem., i. 279. Confronta Religious Musings, vv.  
-156-7.  
-Perché sei venuto? non conosce forse il Creatore di tutte le cose  
-tutte le cose? E se sei venuto a cercarlo, sappi che  
-dove tu eri, là egli era.  
-Pubblicati per la prima volta nel 1893. Confronta the Wanderings of [[characters/cain|Cain]].  
-E incalderona la terra scavata, un mare che bolle.  
-Pubblicati per la prima volta nel 1893.  
-Irrompono al mio orecchio, una cateratta di suono.  
-Pubblicati per la prima volta nel 1893.  
-La pompa colpevole, che si consuma mentre fiammeggia.  
-Pubblicati per la prima volta nel 1893.  
-Il mio cuore serraglia tutta una schiera di Gioie.  
-Pubblicati per la prima volta nel 1893.  
-E il sospiro della Pietà risponderà al tuo racconto d’Angoscia  
-Come la fioca eco d’una valle lontana.  
-Pubblicati per la prima volta in Notizbuch, 1896, p. 350.
-
 
 
 <span class="atom-split" data-atom="381_fragments" data-title="FRAGMENTS" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/birds,motif/the_sea,motif/flowers,concept/mortality,form/fragment,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -1517,23 +801,6 @@ A wildly-wailing Note.
 Now first published from an MS. Compare [[forms/fragment|Fragment]] No. 29 of Fragments  
 from a Notebook.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Sulla terra ammucchiata sospirano i venti della sera;  
-Ed ecco, una margherita occhieggia sul suo pendio!  
-Asciugo dall’occhio le acque che l’appannano;  
-Anche sulla fredda [[motifs/grave|tomba]] si posa il Cherubino [[concepts/hope|Speranza]].  
-? 1787. Pubblicati per la prima volta in [[works/poems-(chesterton)|Poems]], 1852 (p. 379, Nota 1). Prima  
-raccolta 1893.  
-Verso il mare, biancheggiando fra le nubi frettolose  
-Con Ali inarcate, il gabbiano sopra il mio capo  
-Corre, come inteso alla [[characters/speed|velocità]], ora traversando  
-Costeggia la Brezza più rigida, ora, cedendo, deriva,  
-Ora galleggia sull’aria, e manda da lontano  
-Una Nota selvaggiamente lamentosa.  
-Ora pubblicati per la prima volta da un MS. Confronta [[forms/fragment|Fragment]] No. 29 of Fragments  
-from a Notebook.
 
 
 
@@ -1603,71 +870,6 @@ Shone whitely in the centre of his Haze
 Stretch’d, like the heaven, o’er all the cope of Heaven.  
 Dec. 1797. First published from an MS. in 1893.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Sopra il largo, il basso, rapido torrente,  
-L’Ontano, un vasto Tronco cavo, e costolato —  
-Tutto verde di muschio con muschi molteplici,  
-E felci ancora ondeggianti nella brezza del [[motifs/river|fiume]]  
-Mandava fuori, come dita, cinque tronchi sporgenti —  
-Il più corto due volte 6 (?) dei passi d’un uomo alto. —  
-Uno curvandosi in su nella sua crescita mediana  
-[[motifs/rose|Sorgeva]] diritto con boschetto di ramoscelli — un albero capitozzato: —  
-Gli altri più indietro, graduali nella discesa —  
-Uno nel ruscello e uno ne schiumava le acque:  
-Uno correva lungo la riva nel capo simile a un alce  
-E nella pompa dei palchi —  
-Genn. 1804. Ora pubblicati per la prima volta da un MS. (a matita).  
-Io dall’influsso dei tuoi Sguardi ricevo  
-Accesso in ogni virtù, alla tua Vista  
-Più saggio, più desto, più forte, se occorresse  
-Forza esteriore. —  
-1804. Ora pubblicati per la prima volta da un MS.
-Ciò che mai è, ma solo deve essere  
-Questa non è Vita: —  
-O [[concepts/hope|Speranza]] senza speranza, e Ipocrisia della [[motifs/death|Morte]]!  
-E con perpetua promessa rompe le sue promesse.  
-1804-5. Ora pubblicati per la prima volta da un MS.  
-Il [[motifs/silence|silenzio]] d’una [[motifs/city|Città]], come tremendo a Mezzanotte!  
-Muto come i bastioni e le rupi e le torri  
-Che la Fantasia fa nelle nubi, sì, muto  
-Come il chiar di luna che dorme sulle banderuole immote.  
-(oppure)  
-La cella d’un anacoreta trapassato,  
-Il suo scheletro e il suo [[archetypes/ghost|fantasma]] fuggente vi stanno,  
-Unici inquilini —  
-E tutta la [[motifs/city|Città]] silente come la [[motifs/moon|Luna]]  
-Che immerge in quieta luce le banderuole immote  
-Dei suoi templi enormi.  
-1804-5. Ora pubblicati per la prima volta da un MS.  
-O [[concepts/beauty|bellezza]] vestita in un [[concepts/body|corpo]] bello!  
-[[concepts/body|Corpo]] che velando il fulgore, fulgido raggi;  
-Bella nube che meno vediamo, che per te vediamo la luce.  
-1805. Pubblicati per la prima volta da un MS. nel 1893.
-Oh l’Opprimente, molesto peso  
-Sentito in uno stato incerto:  
-Conforto, pace e riposo addio  
-Se alfine mi mostrassi infedele!  
-Misero fidente in [[concepts/self|sé]], io pensavo  
-Di poterti [[motifs/love|amare]] come dovevo,  
-Conquistarti e meritare di sentire  
-Tutto l’[[motifs/love|Amore]] che tu puoi rivelare,  
-E ancora ti scelgo, ancora ti seguo.  
-1805. Pubblicati per la prima volta da un MS. nel 1893.
-Non era una nebbia, né era proprio una nube,  
-Ma passava liscia verso il mare —  
-Liscia e lieve fra la Terra e il Cielo:  
-Così, sottile una nube,  
-Che appena offuscava la stella che splendeva dietro:  
-Ed Espero ora  
-Sostava sull’orlo azzurro e senza nubi del firmamento,  
-Un cerchietto d’oro! mentre la Stella di Giove —  
-Quell’altra stella leggiadra — alta sul mio capo  
-Splendeva biancheggiante nel centro della sua Foschia  
-. . . una nube nero-azzurra  
-Stesa, come il cielo, su tutta la volta del Cielo.  
-Dic. 1797. Pubblicati per la prima volta da un MS. nel 1893.
 
 
 
@@ -1756,89 +958,6 @@ Streaming before them.’
 collected 1893.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-DAL TEDESCO  
-Nessuno spirito mortale era mai salito così in alto  
-Come Keplero — pure la sua Patria lo vide morire  
-Di puro bisogno! le Menti soltanto egli nutrì,  
-E così i Corpi lo lasciarono senza pane.  
-1799. Pubblicato per la prima volta in The Friend, 30 nov. 1809 (1818, ii. 95;
-1850, ii. 69). Prima raccolta P. and D. W., 1877, ii. 374.  
-Quando la [[concepts/hope|Speranza]] non faceva che far sentire la Tranquillità:  
-Un volo di [[concepts/hope|Speranza]] per sempre in ala  
-Non faceva che rendere la Tranquillità cosa cosciente;  
-E volteggiando in giro e in giro in spira festosa,  
-Ventilava l’aria calma sulla fronte della Fatica.  
-1810. Pubblicati per la prima volta da un MS. nel 1893.
-Ho sperimentato  
-Il peggio che il mondo possa infliggermi — il peggio  
-Che possa rendere la Vita indifferente, e pur turbare  
-Con sussurrato scontento la [[motifs/prayer|preghiera]] che muore —  
-Ho visto il tutto d’ogni cosa in cui  
-Il mio cuore avesse qualche interesse in questa vita  
-Esser lacerato e strappato via dalle mie Speranze  
-Sì che nulla ora rimane. Perché dunque vivere ancora?  
-Quell’ostaggio che il mondo teneva in custodia  
-Dato da me in pegno che avrei vissuto —  
-Quella [[concepts/hope|speranza]] di Lei, dirò piuttosto quella pura [[concepts/faith|Fede]]  
-Nel suo saldo [[motifs/love|Amore]], che mi teneva a serbar tregua  
-Con la tirannia della Vita — è andata, ah! dove?  
-Che giova rispondere? è andata! e ora  
-[[motifs/well|Bene]] posso rompere questo Patto, questa lega di [[motifs/blood|Sangue]]  
-Che mi lega a me stesso — e romperla saprò.  
-1810. Pubblicati per la prima volta da un MS. nel 1893.
-Come quando la [[motifs/moon|Luna]] nuova o piena sospinge  
-Le alte, larghe, lunghe, ininterrotte ondate  
-Del mare Pacifico.  
-1811. Pubblicati per la prima volta da un MS. nel 1893.
-O [[concepts/mercy|misericordia]], o me, uomo miserabile!  
-Lenta la mia saggezza, e come lenta viene  
-La mia Virtù! e come rapide passano  
-Le mie Gioie! le mie Speranze! le mie Amicizie, e il mio [[motifs/love|Amore]]!  
-1811. Ora pubblicati per la prima volta da un MS.
-Un Tuono basso e spento borbottò per la [[motifs/night|notte]],  
-Come fosse un gigante irato nel suo [[motifs/sleep|sonno]] —  
-[[concepts/nature|Natura]]! dolce [[characters/nurse|nutrice]], oh prendimi in grembo  
-E parlami di mio Padre non ancora veduto,  
-Dolci racconti, e veri, che mi cullino nel [[motifs/sleep|sonno]]  
-E mi lascino a sognare.  
-1811. Pubblicati per la prima volta da un MS. nel 1893.
-Il suo bel volto, la sua fronte regale,  
-I suoi teneri sorrisi, l’[[motifs/dawn|aurora]] dell’[[motifs/love|Amore]] sulle sue labbra,  
-Si rivestirono di tale luce celeste, spirituale,  
-Che nello stesso istante nel suo occhio fermo  
-Erano il cimiero nativo della Virtù, l’inconsapevole mite  
-[[concepts/self|auto]]-araldica dell’[[motifs/soul|anima]] [[archetypes/innocent|innocente]], — all’uomo  
-Benigna, e gradita al suo angelo custode.  
-Soffrì né si lamentò; — benché spesso con [[motifs/tears|lacrime]]  
-Piangesse l’oppressione dei suoi fratelli inermi, —  
-E talvolta con più profondo e più santo dolore  
-Piangesse per l’oppressore — ma questo in ore di sabato —  
-Un dolore solenne, che come una nube al tramonto,  
-Non era che il velo d’interiore meditazione  
-Trafitto e saturo dei raggi intellettuali  
-Che addolciva.  
-1812. Pubblicati per la prima volta (con molte alterazioni del MS.) in Lit. Rem.,
-i. 277. Prima raccolti P. and D. W., 1887, ii. 364. Confronta il discorso di Teresa  
-a Valdez, Remorse, Atto IV, Scena II, vv. 52-63 (ante, p.  
-866).  
-[ARS POETICA]  
-Nei due versi seguenti, per esempio, non v’è nulla  
-di obiettabile, nulla che impedirebbe loro di formare, al  
-posto giusto, parte d’un poema descrittivo: —  
-‘Ecco laggiù quella fila di pini, che tosati e curvi  
-Si piegano dalla raffica del mare, veduti nella sera crepuscolare.’  
-Ma con una piccola alterazione del ritmo, le stesse parole starebbero egualmente  
-al loro posto in un libro di topografia, o in un resoconto di viaggio descrittivo. La  
-stessa immagine s’innalzerà a parvenza di poesia se resa così: —  
-‘Quella fila di pini squallidi e visionari,  
-Scorti in un barlume di crepuscolo, guarda! come fuggono  
-Dalla fiera raffica del mare, tutte le loro chiome selvagge  
-Fluenti davanti a loro.’  
-1815. Pubblicato per la prima volta in Biog. Lit., 1817, ii. 18; 1847, ii. 20. Prima
-raccolto 1893.
-
 
 
 <span class="atom-split" data-atom="389_translation_of_a_fragment_of_heraclitus" data-title="TRANSLATION OF A FRAGMENT OF HERACLITUS" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,archetype/prophet,concept/truth,form/fragment,histref/ancient_greece,histref/greek_mythology,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -1858,21 +977,6 @@ First published as Motto to [[forms/essay|Essay]] II, The Friend, 1818, ii. 37; 
 ii. 27. First collected 1893.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Non è suo  
-Conquistare il senso con parole di retorica,  
-Fiori di labbra che spirano dolcezze peribili;  
-Ma per la potenza della Parola informante  
-Rotolano sonori avanti attraverso mille anni  
-I suoi profondi presagi profetici.  
-1816. Pubblicata per la prima volta in Lit. Rem., iii. 418, 419. Prima raccolta P.
-and D. W., 1877, ii. 367.  
-La [[concepts/truth|Verità]] inseguii, mentre la Fantasia [[forms/sketch|tracciava]] la via,  
-E uomini più saggi di me andarono peggio fuori strada.  
-Pubblicati per la prima volta come Motto all’[[forms/essay|Essay]] II, The Friend, 1818, ii. 37; 1850,  
-ii. 27. Prima raccolti 1893.
-
 
 
 <span class="atom-split" data-atom="397_a_simile" data-title="A SIMILE" data-chapter="" data-kind="intro" data-tags="topos/locus_amoenus,motif/animals,motif/music_and_song,concept/love_romantic,form/fragment,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -1889,18 +993,6 @@ She fearful Beast! but that no sound of [[concepts/fear|Fear]] ——
 Undated. Now first published from an MS.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Come la timida cerva, la mite Bestia dagli occhi dolci  
-Ora si muove, ora si ferma, s’avvicina per gradi —  
-Alfine emerge dagli Alberi che la riparano,  
-Attratta dal suo Cacciatore col flauto del Pastore,  
-La cui musica viaggiando sulla brezza crepuscolare,  
-Quando tutto il resto era muto —  
-Ella spesso aveva udito, e sempre amato udire;  
-Ella Bestia paurosa! se non che nessun suono di [[concepts/fear|Paura]] ——  
-Non datata. Ora pubblicata per la prima volta da un MS.
-
 
 
 <span class="atom-split" data-atom="401_trochaics" data-title="TROCHAICS" data-chapter="" data-kind="intro" data-tags="motif/the_supernatural,motif/music_and_song,concept/heroism,concept/love_romantic,form/fragment,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -1914,16 +1006,6 @@ Welcome, welcome, spite of [[motifs/pain|pain]] and sorrow,
 [[motifs/love|Love]] to-day, and Thought to-morrow.  
 1801. Now first published from an MS.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Così ella disse, e, tutt’intorno,  
-Il suo spirito più divino cominciò a prendere in prestito;  
-Orecchi terreni odono suono ultraterreno,  
-Cuori eroici vengon meno, e cadono in deliquio.  
-Benvenuti, benvenuti, a dispetto di [[motifs/pain|pena]] e dolore,  
-[[motifs/love|Amore]] oggi, e Pensiero domani.  
-1801. Ora pubblicati per la prima volta da un MS.
 
 
 
@@ -1939,16 +1021,6 @@ My Pen shall give thee leave hereafter to be dumb.
 1801. Now first published from an MS.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Nessun freddo t’intorpidirà,  
-Né tenebra macchierà la tua vista;  
-A te nuovo Calore, nuova Luce  
-Verranno da questo oggetto,  
-Le cui Lodi se ora vorrai sonare a dovere,  
-La mia Penna ti darà licenza d’esser muta d’ora in poi.  
-1801. Ora pubblicati per la prima volta da un MS.
-
 
 
 <span class="atom-split" data-atom="404_nonsense" data-title="NONSENSE" data-chapter="" data-kind="intro" data-tags="motif/death,concept/heroism,form/fragment,form/song,histref/eastern_religion,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -1962,16 +1034,6 @@ What tho’ we wretchedly fare, wearily drawing the Breath — ,
 Malice in [[concepts/wonder|wonder]] may stare; merrily move we to [[motifs/death|Death]].  
 Now first published from an MS.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Canta [[motifs/soul|Anima]] appassionata! di Maometto la complicata storia:  
-Canta, senza timore dell’Uomo, gemendo e finendo in affanno.  
-Breve il Comando e la Fatica, ma infinitamente possente la Gloria!  
-Stando in disparte se accade, vano lo spavento del nostro nemico:  
-Che importa se miseramente andiamo, traendo stancamente il Respiro — ,  
-La Malizia nello [[concepts/wonder|stupore]] può fissare; allegri moviamo alla [[motifs/death|Morte]].  
-Ora pubblicati per la prima volta da un MS.
 
 
 
@@ -1992,22 +1054,6 @@ Hide with sere [[motifs/leaves|leaves]] my [[motifs/grave|Grave]]’s undaisied 
 4th were 11´ 11´ as [[motifs/well|well]] as the 5th and 7th.]  
 Now first published from an MS.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Va’ piccolo Zufolo! per sempre devo lasciarti,  
-Ah, invano fedele!  
-Mai, ah mai! più dovrò riceverti?  
-Addio! addio!  
-[[motifs/well|Ebbene]], te ne sei andato! e che resta dietro,  
-A lenire l’[[motifs/soul|anima]] verso la [[concepts/hope|Speranza]]?  
-Il [[motifs/wind|Vento]] che geme —  
-Copri con [[motifs/leaves|foglie]] secche il Pendio senza margherite della mia [[motifs/grave|Tomba]].  
-(?) ottobre. 1814.  
-[Sarebbe meglio alterare questo metro —  
-10´ 6‘ 6´ 10‘ | 11´ 4‘ 11´ 4‘: e ancor più lamentoso se il 1° e il  
-4° fossero 11´ 11´ [[motifs/well|come]] il 5° e il 7°.]  
-Ora pubblicati per la prima volta da un MS.
 
 
 
@@ -2033,27 +1079,6 @@ For the [[motifs/tears|Tears]] that we shed, are Gladness,
 A mockery of Sadness!  
 Now first published from an MS.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-[UN ESPERIMENTO PER UN METRO]  
-Voi uccelli di mal presagio,  
-Andate a svanire nella [[motifs/night|Notte]]!  
-Che ogni cosa dolce e bella  
-Renda omaggio alla coppia:  
-Dall’Infanzia alla Vecchiaia  
-Ogni Fronte sia liscia e lucente,  
-Come Lago in luce di sera.  
-Oggi sia Gioia! e il Dolore  
-Privo di Colpa  
-(La Dama vedova)  
-Sarà benvenuto domani.  
-Anche tu, tetra [[motifs/night|Notte]]! puoi venire non sgridata:  
-Questo muro di Fiamma l’Oscurità ha nascosto  
-Con torrette ciascuna una Piramide; —  
-Ché le [[motifs/tears|Lacrime]] che versiamo, sono Letizia,  
-Una beffa della Tristezza!  
-Ora pubblicati per la prima volta da un MS.
 
 
 
@@ -2097,44 +1122,3 @@ Each God and Goddess,
 To take human Bodies  
 As Lords and Ladies to follow the Hare.  
 Now first published from an MS.  
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Là in qualche ombra tenebrosa  
-Mi par che piangerei  
-Fino ad addormentarmi,  
-E là dimenticato svanirei.  
-Pubblicati per la prima volta da un MS. nel 1893.  
-Ancora una volta, dolce Salice, ondeggia!  
-Perché indugia il mio [[motifs/love|Amore]]?  
-Chinati, e in quel ruscelletto — bagnati!  
-Perché indugia il mio [[motifs/love|Amore]]?  
-Spesso a sera vagando,  
-Sono stato a contemplare a lungo i tuoi rami,  
-Graziosi nel giocare della lieve brezza, —  
-Perché indugia il mio [[motifs/love|Amore]]?  
-1. Quattro Trochei /.
-2. Uno spondeo, Giambico \.
-3. Quattro Trochei 1.
-4. Ripetuto dal 2.
-5, 6, 7. Una terzina di 4 Trochei — 8 ripetuto.  
-Pubblicati per la prima volta da un MS. nel 1893.  
-¯ Ø, ¯ Ø Ø, ¯ Ø Ø, ¯ Ø Ø  
-¯ Ø, ¯ Ø Ø, ¯ Ø Ø,  
-¯ Ø, ¯ Ø Ø, ¯ Ø Ø, ¯ Ø Ø  
-Ø ¯ Ø, ¯ Ø Ø, ¯ Ø Ø, ¯  
-¯ Ø Ø, ¯ Ø  
-Ø ¯ Ø Ø, ¯ Ø etc.  
-Canti di Pastori e rustiche Ballate,  
-Forme di Fantasie e fischiate su Canne,  
-Canti per consolare giovani Ninfe nei Giorni di festa  
-Sono troppo indegni per imprese meravigliose —  
-Tutt’intorno, alla cornuta  
-Lucinda sciamavano,  
-E a lei annunciavano,  
-Come avessero in mente,  
-Ciascun Dio e Dea,  
-Di prendere umani Corpi  
-Come Signori e Dame per seguire la Lepre.  
-Ora pubblicati per la prima volta da un MS.

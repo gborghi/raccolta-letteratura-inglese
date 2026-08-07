@@ -42,7 +42,7 @@ Raccolta tematica di 11 componimenti di Samuel Taylor Coleridge.
 - [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#083_burke|BURKE]]
 - [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#290_grove_highgate_song_on_hearing_a_song_in_praise_of_a_ladys_beauty|GROVE, HIGHGATE SONG, ON HEARING A SONG IN PRAISE OF A LADY’S BEAUTY]]
 - [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#345_spots_in_the_sun|SPOTS IN THE SUN]]
-- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#158_the_ballad_of_the_dark_ladié|THE BALLAD OF THE DARK LADIÉ]]
+- THE BALLAD OF THE DARK LADIÉ
 - [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#271_the_two_founts|THE TWO FOUNTS]]
 - [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#129_to_an_unfortunate_woman_at_the_theatre|TO AN UNFORTUNATE WOMAN AT THE THEATRE]]
 - [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#130_to_an_unfortunate_woman_whom_the_author_had_known_in_the_days_of_her_innocence|TO AN UNFORTUNATE WOMAN WHOM THE AUTHOR HAD KNOWN IN THE DAYS OF HER INNOCENCE]]

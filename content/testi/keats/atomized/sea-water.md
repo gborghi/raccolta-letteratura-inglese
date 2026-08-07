@@ -30,23 +30,6 @@ Look’d at each other with a wild surmise —
   Silent, upon a peak in Darien.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Molto ho viaggiato nei reami dell’oro,  
-  e visto molti nobili stati e regni;  
-  girai intorno a molte isole d’occidente  
-che i bardi tengono in fedeltà ad [[characters/apollo|Apollo]].  
-Spesso mi fu narrato d’una vasta distesa  
-  che Omero dall’ampia fronte reggeva come suo dominio;  
-  eppure mai ne respirai il puro sereno  
-finché udii Chapman parlare alto e ardito:  
-Allora mi sentii come chi scruta i cieli  
-  quando un nuovo pianeta gli nuota nello sguardo;  
-o come il forte Cortez quando con occhi d’aquila  
-  fissò il Pacifico — e tutti i suoi uomini  
-si guardarono l’un l’altro con selvaggio presagio —  
-  silenziosi, su una vetta del Darién.
-
 
 
 <span class="atom-split" data-atom="032_ode_to_a_nightingale" data-title="ODE TO A NIGHTINGALE" data-chapter="" data-kind="intro" data-tags="motif/nightingale,motif/wine_and_drink,motif/death,motif/music_and_song,motif/dreams,concept/mortality,concept/transience,concept/immortality_of_art,concept/imagination,concept/melancholy,form/ode,histref/the_bible,cluster/sea,cluster/water"></span>
@@ -143,98 +126,6 @@ Fled is that music:--Do I wake or [[motifs/sleep|sleep]]?  80
 The original manuscript  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Mi duole il cuore, e un sonnolento torpore offende  
-i miei sensi, come se avessi bevuto cicuta,  
-o vuotato fino alla feccia qualche torbido oppiaceo  
-un minuto fa, e fossi sprofondato verso il Lete:  
-non è per invidia della tua felice sorte,  
-ma per troppa felicità nella tua felicità,--  
-che tu, Driade dalle ali leggere degli alberi,  
-in qualche melodioso recesso  
-di verde di faggi, e ombre innumerevoli,  
-canti l’[[motifs/summer|estate]] a gola piena e sciolta.  10  
-
-Oh, un sorso di vino d’annata! che sia stato  
-rinfrescato una lunga età nella terra scavata a fondo,  
-e sappia di Flora e del verde dei campi,  
-di [[motifs/dance|danza]], di canto provenzale, e d’allegria riarsa dal sole!  
-Oh un calice colmo del tiepido Sud,  
-colmo della vera, arrossata Ippocrene,  
-con bollicine a grani che ammiccano sull’orlo,  
-e la bocca macchiata di porpora;  
-ch’io possa bere, e lasciare il mondo non visto,  
-e con te dileguarmi nella foresta oscura:  20  
-
-Dileguarmi lontano, dissolvermi, e scordare del tutto  
-ciò che tu fra le [[motifs/leaves|foglie]] non hai mai saputo,  
-la stanchezza, la febbre, e l’affanno  
-qui, dove gli uomini siedono e s’odono gemere l’un l’altro;  
-dove la paralisi scuote pochi, tristi, ultimi capelli grigi,  
-dove la giovinezza impallidisce, si fa spettro esile, e muore;  
-dove il solo pensare è colmarsi di dolore  
-e di disperazioni dagli occhi di piombo,  
-dove [[concepts/beauty|Bellezza]] non può serbare i suoi occhi lucenti,  
-né nuovo [[motifs/love|Amore]] struggersi per essi oltre il domani.  30  
-
-Via! via! ché a te volerò,  
-non sul carro di Bacco e dei suoi leopardi,  
-ma sulle ali invisibili della Poesia,  
-benché l’ottuso cervello confonda e ritardi:  
-Già con te! tenera è la [[motifs/night|notte]],  
-e forse la [[characters/queen|Regina]]-[[motifs/moon|Luna]] siede sul suo trono,  
-circondata a grappolo da tutte le sue Fate stellari;  
-ma qui non c’è luce,  
-se non quella che dal cielo è soffiata con le brezze  
-per verdi tenebre e tortuosi sentieri di musco.  40  
-
-Non posso vedere quali [[motifs/flowers|fiori]] siano ai miei piedi,  
-né quale molle incenso penda dai rami,  
-ma, nel buio imbalsamato, indovino ogni dolcezza  
-di cui il mese propizio fa dono  
-all’erba, al folto, e all’albero selvatico da frutto;  
-bianco biancospino, e la rosa canina pastorale;  
-viole che presto appassiscono, coperte di [[motifs/leaves|foglie]];  
-e il primogenito [[archetypes/child|figlio]] di metà maggio,  
-la [[motifs/rose|rosa]] muschiata che viene, colma di vino rugiadoso,  
-mormorante ritrovo di mosche nelle sere d’[[motifs/summer|estate]].  50  
-
-Nel buio ascolto; e molte [[motifs/time|volte]]  
-ho nutrito mezzo [[motifs/love|amore]] per la [[motifs/death|Morte]] che dà quiete,  
-l’ho chiamata con nomi soavi in molte rime meditate,  
-perché prendesse nell’aria il mio respiro quieto;  
-ora più che mai pare ricco morire,  
-cessare sulla mezzanotte senza [[motifs/pain|dolore]],  
-mentre tu effondi la tua [[motifs/soul|anima]] all’aperto  
-in tale estasi!  
-Ancora canteresti, e io avrei orecchie invano--  
-al tuo alto requiem fatto zolla.  60  
-
-Non nascesti per la [[motifs/death|morte]], Uccello immortale!  
-nessuna generazione affamata ti calpesta;  
-la voce che odo questa [[motifs/night|notte]] fuggevole fu udita  
-in giorni antichi da imperatore e da villano:  
-forse quel [[concepts/self|medesimo]] canto che trovò un varco  
-nel triste cuore di Ruth, quando, malata della [[motifs/home|casa]] lontana,  
-stava in [[motifs/tears|lacrime]] fra il grano straniero;  
-lo stesso che spesso ha  
-incantato finestre magiche, aperte sulla schiuma  
-di mari perigliosi, in terre di fate abbandonate.  70  
-
-Abbandonate! la parola stessa è come una campana  
-che a rintocchi mi richiama da te al mio solo [[concepts/self|io]]!  
-Addio! la fantasia non sa ingannare così [[motifs/well|bene]]  
-come si narra che faccia, elfo ingannatore.  
-Addio! addio! il tuo inno lamentoso svanisce  
-oltre i prati vicini, sopra il ruscello immoto,  
-su per il fianco della [[motifs/hill|collina]]; e ora è sepolto fondo  
-nelle radure della valle accanto:  
-era una visione, o un sogno da svegli?  
-Fuggita è quella musica:--veglio o [[motifs/sleep|dormo]]?  80  
-
-Il manoscritto originale
-
 
 
 <span class="atom-split" data-atom="045_sonnet_to_byron" data-title="Sonnet to Byron" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/moon,motif/birds,concept/melancholy,concept/the_artist_and_society,concept/grief_and_loss,form/sonnet,histref/the_romantic_movement,cluster/sea,cluster/water"></span>
@@ -255,23 +146,6 @@ And like fair veins in sable marble flow;
 Still warble, dying swan! still tell the tale,  
 The enchanting tale, the tale of pleasing woe.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Byron! quanto dolcemente triste la tua melodia!  
-Che accorda sempre l’[[motifs/soul|anima]] alla tenerezza,  
-come se la molle Pietà, con insolito impeto,  
-avesse toccato il suo liuto lamentoso, e tu, lì presente,  
-ne avessi colto i suoni, né lasciato che morissero.  
-Il dolore che ti adombra non ti rende meno  
-incantevole: tu vesti le tue pene  
-d’un alone luminoso, che splende a raggi,  
-come quando una nube vela la [[motifs/moon|luna]] d’oro,  
-e i suoi orli si tingono d’un chiarore risplendente,  10  
-per la veste oscura spesso raggi d’ambra prevalgono,  
-e scorrono come belle vene nel marmo nero;  
-Canta ancora, cigno morente! narra ancora la storia,  
-l’incantevole storia, la storia di soave dolore.
 
 
 
@@ -294,23 +168,6 @@ Be with me in the [[motifs/summer|summer]] days and I
 Will for thine [[concepts/honour|honour]] and his pleasure try.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Spenser! un tuo geloso ammiratore,  
-un guardaboschi addentro ai tuoi alberi più fitti,  
-ieri sera mi chiese promessa di raffinare  
-qualche verso inglese che tentasse di piacere al tuo orecchio.  
-Ma, Poeta degli Elfi, è impossibile  
-per un abitante della terra invernale  
-levarsi come Febo con una penna d’oro  
-dalle ali di [[motifs/fire|fuoco]] e fare un mattino della sua gioia.  
-È impossibile sfuggire alla fatica  
-d’un tratto e ricevere il tuo soffio d’ispirazione:  10  
-il fiore deve bere la [[concepts/nature|natura]] del suolo  
-prima di poter dare la sua fioritura:  
-Sii con me nei giorni d’[[motifs/summer|estate]] e io  
-tenterò per il tuo [[concepts/honour|onore]] e per il piacere di lui.
-
 
 
 <span class="atom-split" data-atom="060_to_haydon" data-title="To Haydon" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/birds,motif/stars,concept/the_artist_and_society,concept/ambition,concept/friendship,form/sonnet,cluster/sea,cluster/water"></span>
@@ -332,23 +189,6 @@ Thou hadst beheld the Hesperean shine
 Of their star in the east, and gone to worship them.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Haydon! perdonami se non so parlare  
-in modo definitivo di queste cose possenti;  
-perdonami se non ho ali d’Aquila -  
-se ciò che voglio non so dove cercarlo:  
-E pensa che non sarei troppo remissivo  
-nel far rotolare tuoni che nessuno segue,  
-fin sull’erta delle fonti d’Elicona,  
-se avessi forza bastante per un simile capriccio -  
-Pensa anche che tutti quei versi dovrebbero esser tuoi;  
-di chi altri? In questo, chi tocca l’orlo della tua veste? 10  
-Ché quando gli uomini fissavano ciò che era più divino  
-con idiozia senza fronte - flemma troppo saggia -  
-tu avevi scorto lo splendore d’Espero  
-della loro stella a oriente, e andasti ad adorarli.
-
 
 
 <span class="atom-split" data-atom="062_sonnet_on_a_picture_of_leander" data-title="Sonnet on a Picture of Leander" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/death,motif/the_sea,motif/night,concept/love_romantic,concept/mortality,form/sonnet,histref/greek_mythology,setting/the_sea,cluster/sea,cluster/water"></span>
@@ -369,23 +209,6 @@ O horrid dream! see how his [[concepts/body|body]] dips
 Dead-heavy; arms and shoulders gleam awhile:  
 He’s gone: up bubbles all his amorous breath!  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Venite qua, dolci fanciulle tutte, con sobrietà,  
-sempre con gli occhi bassi, e con una luce castigata  
-nascosta nelle frange delle vostre bianche palpebre,  
-e mite si congiungano le vostre belle mani,  
-come se, tanto gentili, non poteste vedere,  
-senza commuovervi, una vittima della vostra fulgida [[concepts/beauty|bellezza]],  
-che affonda verso la [[motifs/night|notte]] del suo giovane spirito, -  
-che affonda smarrito in mezzo al mare desolato:  
-È il giovane Leandro che s’affanna verso la sua [[motifs/death|morte]];  
-quasi svenuto, socchiude a bacio le labbra stanche  
-per la guancia di [[archetypes/hero|Ero]], e sorride contro il suo sorriso.  
-Oh sogno orrendo! guarda come il suo [[concepts/body|corpo]] s’inabissa  
-pesante di morte; braccia e spalle brillano un istante:  
-è perduto: sale in bolle tutto il suo respiro amoroso!
 
 
 
@@ -409,24 +232,6 @@ Sit ye near some old cavern’s mouth, and brood
 Until ye start, as if the sea-nymphs quir’d!  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Serba eterni sussurri intorno  
-a rive desolate, e col suo possente flutto  
-sazia due volte diecimila Caverne, finché l’incantesimo  
-di Ecate [[motifs/leaves|lascia]] loro l’antico suono d’ombra.  
-Spesso lo si trova in così mite umore,  
-che a stento la più piccola conchiglia  
-si muove per giorni dal punto dove un tempo cadde,  
-quando l’ultima volta furono sciolti i venti del Cielo.  
-Oh voi! che avete le pupille irritate e stanche,  
-banchettate con l’ampiezza del Mare;  
-10  
-Oh voi! che avete le orecchie assordate da rozzo frastuono,  
-o troppo nutrite di melodia stucchevole -  
-sedete presso la bocca di qualche antica caverna, e meditate  
-finché trasaliate, come se le ninfe del mare cantassero in coro!
-
 
 
 <span class="atom-split" data-atom="102_sonnet_to_ailsa_rock" data-title="Sonnet to Ailsa Rock" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/sleep,motif/nature,concept/the_sublime,form/sonnet,setting/scotland,cluster/sea,cluster/water"></span>
@@ -447,22 +252,3 @@ The last in air, the former in the deep;
 First with the whales, last with the eagle-skies -  
 Drown’d wast thou till an earthquake made thee steep,  
 Another cannot wake thy giant size.  
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Ascolta, tu piramide rocciosa dell’oceano!  
-Rispondi con la tua voce, le strida degli uccelli marini!  
-Quando furono le tue spalle ammantate d’immensi torrenti?  
-Quando fu nascosta al sole la tua larga fronte?  
-Da quanto la potenza possente ti comandò  
-di sollevarti al [[motifs/sleep|sonno]] dell’aria dai [[motifs/dreams|sogni]] degli abissi?  
-[[motifs/sleep|Dormi]] in grembo al tuono o ai raggi del sole,  
-o quando grigie nubi sono la tua fredda coltre.  
-Non rispondi; ché dormi d’un sonno di morte;  
-la tua vita è solo due eternità morte -  
-10  
-l’ultima nell’aria, la prima nell’abisso;  
-dapprima con le balene, poi con i cieli delle aquile -  
-sommersa fosti finché un terremoto ti fece erta,  
-un altro non può destare la tua mole gigante.

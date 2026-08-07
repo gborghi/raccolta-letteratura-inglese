@@ -36,6 +36,10 @@ tags:
 > [!abstract] 
 > A miscellany of short poems attributed to Shakespeare (songs, Passionate Pilgrim pieces, the metaphysical elegy 'The Phoenix and Turtle', and epitaphs) ranging over love, beauty's transience, constancy and mortality.
 
+## Testo / Text
+
+- [VARIOUS POEMS](/testi/shakespeare/poems/various_poems#intro)
+
 ## Connections
 
 **Topoi:** [[topoi/carpe-diem|Carpe Diem]], [[topoi/tempus-fugit|Tempus Fugit]], [[topoi/vanitas|Vanitas]], [[topoi/immortality-through-verse|Immortality Through Verse]]

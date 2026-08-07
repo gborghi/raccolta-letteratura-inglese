@@ -76,7 +76,7 @@ Raccolta tematica di 45 componimenti di Walt Whitman.
 - [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#280_thoughts|Thoughts (Of these years I sing)]]
 - [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#197_to_a_foil_d_european_revolutionaire|To a Foil’d European Revolutionaire]]
 - [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#004_to_foreign_lands|To Foreign Lands]]
-- To the States
+- [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#012_to_the_states|To the States]]
 - [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#141_to_the_states_to_identify_the_16th_17th_or_18th_presidentiad|To The States (To Identify the 16th, 17th, or 18th Presidentiad)]]
 - [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#233_transpositions|Transpositions]]
 - [[testi/whitman/atomized/nationalism-and-patriotism-democracy-liberty-political#183_turn_o_libertad|Turn O Libertad]]

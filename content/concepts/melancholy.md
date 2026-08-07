@@ -49,6 +49,7 @@ tags:
 - [[testi/coleridge/atomized/dreams-moon#003_sonnet_to_the_autumnal_moon|SONNET TO THE AUTUMNAL MOON (Coleridge)]]
 - [[testi/coleridge/atomized/satire-of-society-epigram-satire#138_sonnets_attempted_in_the_manner_of_contemporary_writers|SONNETS ATTEMPTED IN THE MANNER OF CONTEMPORARY WRITERS (Coleridge)]]
 - [[testi/coleridge/atomized/faith-providence-divine-love#226_the_blossoming_of_the_solitary_date-tree|THE BLOSSOMING OF THE SOLITARY DATE-TREE (Coleridge)]]
+- [[testi/coleridge/atomized/terror-and-horror-madness#041_the_complaint_of_ninathómafrom_the_same|THE COMPLAINT OF NINATHÓMA FROM THE SAME (Coleridge)]]
 - [[testi/coleridge/atomized/transience-decay-carpe-diem#071_the_faded_flower|THE FADED FLOWER (Coleridge)]]
 - [[testi/coleridge/atomized/ode-nature-vs-civilization-pastoral-retreat#286_the_garden_of_boccaccio|THE GARDEN OF BOCCACCIO (Coleridge)]]
 - [[testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume#045_the_gentle_look|THE GENTLE LOOK (Coleridge)]]

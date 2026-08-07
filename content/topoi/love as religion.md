@@ -19,6 +19,7 @@ tags:
 - [[works/to-frances-(chesterton)|to-frances (Chesterton)]]
 - [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#446_alla_sua_amica|ALLA SUA AMICA (Coleridge)]]
 - [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#204_loves_sanctuary|LOVE’S SANCTUARY (Coleridge)]]
+- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#433_milesisches_mährchen|MILESISCHES MÄHRCHEN (Coleridge)]]
 - [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#043_the_rose|THE ROSE (Coleridge)]]
 - [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#202_to_asra|TO ASRA (Coleridge)]]
 - [[testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#1053_it_was_a_quiet_way|1053. It was a quiet way — (Dickinson)]]

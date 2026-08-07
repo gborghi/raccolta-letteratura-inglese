@@ -54,30 +54,6 @@ With one brief hour of [[concepts/madness|madness]] and joy.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Figli di Adamo_  
-
-
-Un’ora dalla [[concepts/madness|follezza]] e dalla gioia. Oh furioso destino! Non confinarmi!  
-(Cosa è ciò che mi libera così, in mezzo alle tempeste?  
-Cosa significano i miei gridi tra fulmini e venti impetuosi?)  
-Oh, bere quella delirante estasi più profondamente di qualsiasi altro uomo.
-Oh dolori selvaggi e teneri, (Li lascio a voi, miei figli; ve li raccomando, per motivi importanti. Oh sposo e sposa.)  
-
-O essere consegnato a te, chiunque tu sia, e che tu fossi consegnata a me, in sfida al mondo intero!  
-O tornare nel Paradiso. O timida e femminile.
-O attirarti verso di me, per posare su di te, per la prima volta, le labbra di un uomo deciso.  
-
-O enigma, o nodo tre volte legato, o profondo e oscuro stagno, tutto sciolto e illuminato!  
-Oh, poter raggiungere quella [[characters/speed|velocità]] in cui finalmente c’è abbastanza spazio e aria!  
-Essere liberati dai vincoli e dalle convenzioni del passato: io dai miei, tu dai tuoi.
-Scoprire una nuova, inaspettata noncuranza, in armonia con ciò che è migliore nella [[concepts/nature|Natura]].
-Che il “bavaglio” che ci impedisce di parlare venga finalmente rimosso!  
-Sentirsi sufficienti, oggi o in qualsiasi altro giorno, semplicemente per ciò che siamo.  
-
-O qualcosa di improvviso, senza motivo. Qualcosa che ci porti in uno stato di trance. Per sfuggire completamente alle catene e ai vincoli altrui. Per essere liberi. Per amare liberamente. Per correre verso la distruzione, con provocazioni, con inviti. Per ascendere, per saltare verso i cieli dell’amore che mi è stato indicato. Per elevarmi lì, con la mia anima inebriata. Per perdermi, se proprio deve essere così. Per alimentare il resto della mia vita con un’ora di pienezza e libertà. Con un’unica breve ora di follia e gioia.
-
 
 
 <span class="atom-split" data-atom="105_to_the_man_of_war_bird" data-title="To the Man-of-War-Bird" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/the_sea,motif/storm,motif/dawn,concept/self_and_soul,form/free_verse,form/lyric,cluster/birds,cluster/music_and_song,cluster/nightingale"></span>
@@ -115,36 +91,6 @@ What joys! what joys were thine!
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: SEA-DRIFT_  
-
-
-Tu che hai dormito per tutta la [[motifs/night|notte]] nella [[motifs/storm|tempesta]],  
-risvegliandoti rinnovato sulle tue straordinarie ali,  
-(hai infranto quella furiosa [[motifs/storm|tempesta]]? L’hai superata e sei salito ancora più in alto,  
-e ti sei riposato nel cielo, quel tuo schiavo che ti ha accolto, )  
-Ora sei solo un punto blu, lontano, molto lontano nel cielo.
-Ti osservo mentre emergi dalla notte verso la luce.
-(Mentre io stesso sono soltanto un puntino, un granello in questo vasto mondo che galleggia.)  
-
-Lontano, molto lontano in mare,  
-dopo che le violente tempeste notturne hanno gettato rovine sulla riva,  
-con il ritorno del giorno, così felice e sereno,  
-l’alba rosa e luminosa, il sole scintillante,  
-l’aria limpida e azzurra.
-Anche tu ricompari.  
-
-Nato per affrontare tempeste e uragani,  
-tu sei come ali che non conoscono riposo;  
-navighi nell’aria senza mai ammainare le vele,  
-giorni e settimane intere senza stancarti,  
-vai avanti, attraverso spazi e regni in movimento.
-Al tramonto guardi il Senegal, al mattino l’America;  
-ti diverti tra lampi e nuvole temporalesche.
-In tutto ciò che hai vissuto, hai racchiuso la mia anima.
-Che gioie! Che meravigliose gioie devono essere state le tue!
-
 
 
 <span class="atom-split" data-atom="125_the_dalliance_of_the_eagles" data-title="The Dalliance of the Eagles" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/nature,motif/river,concept/lust,form/free_verse,form/lyric,cluster/birds,cluster/music_and_song,cluster/nightingale"></span>
@@ -168,19 +114,6 @@ She hers, he his, pursuing.
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Lungo i bordi delle strade_  
-
-
-Costeggiando la [[motifs/river|fiume]] lungo la [[motifs/road|strada]], (la mia passeggiata pomeridiana, il mio riposo, )  
-Verso l’alto, nel cielo, un suono improvviso e attutito: gli aquilotti si accoppiano.
-Le ali battono velocemente, i becchi si scontrano; una massa vorticante e intensa.
-Quattro ali che sbattono, due becchi che si afferrano. Un cerchio rotante, frenetico.
-Poi cadono verso il basso, fino a toccare l’acqua del [[motifs/river|fiume]]; per un momento rimangono uniti.
-Un equilibrio immobile nel cielo. Poi si separano: gli artigli si allentano.
-Di nuovo salgono in alto, con movimenti lenti e decisi. Ognuno segue la propria strada.
 
 
 
@@ -208,21 +141,6 @@ And then the song of each member of these States.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: DRUM-TAPS_  
-
-
-Dalla regione di Paumanok in poi volo come un uccello,  
-Girando e girando per esprimere l’idea di tutto ciò che esiste;  
-Mi dirigo verso il nord per cantare le loro canzoni artiche;  
-Poi vado in Canada, fino a quando non ne assorbo tutta la essenza; quindi proseguo verso il Michigan, il Wisconsin, l’Iowa, il Minnesota, per cantare le loro canzoni, indescrivibili nella loro unicità;  
-Successivamente mi sposto in Ohio e Indiana, poi nel Missouri, nel Kansas e nell’Arkansas, sempre per cantare le loro canzoni;  
-Infine raggiungo il Tennessee, il Kentucky, le Carolina e la Georgia, per cantare ancora.  
-Volo ovunque, accolto con favore da tutti;  
-Prima di tutto canto l’idea stessa di tutto ciò che esiste nel mondo occidentale, unico e indissolubile;  
-Poi canto la canzone specifica di ogni singola regione di questi Stati.
-
 
 
 <span class="atom-split" data-atom="190_reversals" data-title="Reversals" data-chapter="" data-kind="intro" data-tags="topos/world_upside_down,concept/reform,concept/social_injustice,concept/satire_of_society,form/fragment,cluster/birds,cluster/music_and_song,cluster/nightingale"></span>
@@ -240,15 +158,6 @@ Let a woman seek happiness everywhere except in herself
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Lasciate che ciò che stava davanti vada indietro,  
-lasciate che ciò che era dietro avanzi verso il davanti;  
-lasciate che bigotti, sciocchi e persone impure propongano nuove idee,  
-lasciate che le vecchie proposte vengano posticipate;  
-lasciate che un uomo cerchi piacere ovunque tranne in se stesso,  
-lasciate che una donna cerchi felicità ovunque tranne in se stessa.
 
 
 
@@ -303,34 +212,6 @@ slumbering forever ready in all words.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: [[motifs/autumn|AUTUNNO]] RIVULETTI_
-
-
-1  
-Vocalismo, misura, concentrazione, determinazione, e il divino potere di pronunciare parole;  
-Sei davvero pronto, con polmoni pieni e labbra agili, dopo tanti sforzi, dopo un’attenta pratica, dopo aver sviluppato una solida forma fisica?  
-Muoi in queste vaste terre, come esse stesse sono vaste. Hai davvero raggiunto quel divino potere di parlare?  
-Perché solo dopo molti anni – dopo castità, amicizia, procreazione, prudenza, dopo aver attraversato montagne e fiumi, dopo aver assorbito culture, temperamenti, razze, conoscenze, libertà, dopo aver superato ogni ostacolo – è finalmente possibile che a un uomo o a una donna venga concesso quel potere divino.  
-Allora, verso di loro si affrettano tutti: nessuno rifiuta; tutti li accompagnano. Eserciti, navi, antichità, biblioteche, dipinti, macchine, città. Odio, disperazione, amicizia, dolore, furto, omicidio. Tutto si schiera in fila, pronto ad obbedire alle loro parole.
-
-2  
-O cosa è dentro di me che mi fa tremare così al suono delle voci?  
-Di certo, chiunque parli con me con la voce giusta, io lo seguirò,  
-Proprio come l’[[motifs/water|acqua]] segue la [[motifs/moon|luna]], in silenzio, con movimenti fluidi, ovunque nel mondo.
-
-Tutti aspettano le voci giuste;  
-Dove si trova quell’organo ben allenato e perfetto? Dove si trova quella [[motifs/soul|'anima]] pienamente sviluppata?  
-Perché vedo che ogni parola pronunciata da lì ha suoni più profondi, più dolci, più nuovi.
-Impossibili con mezzi meno raffinati.
-
-Vedo cervelli e labbra chiuse, timpani e tempie immobili.
-Fino a quando non arriverà ciò che ha il potere di scuotere tutto,  
-di aprire ciò che è chiuso,  
-di far emergere ciò che giace addormentato,  
-pronto in ogni parola.
-
 
 
 <span class="atom-split" data-atom="222_the_ox_tamer" data-title="The Ox-Tamer" data-chapter="" data-kind="intro" data-tags="motif/animals,motif/nature,concept/the_common_man,concept/nature_vs_civilization,setting/pastoral_countryside,cluster/birds,cluster/music_and_song,cluster/nightingale"></span>
@@ -372,13 +253,6 @@ In the northern county far, in the placid pastoral region.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: [[motifs/autumn|AUTUNNO]] RIVULETTI_
-
-
-In una remota contea settentrionale, nella tranquilla regione pastorale, vive il mio amico agricoltore, protagonista del mio racconto: un famoso domatore di buoi. Lì portano a lui bambini di tre e quattro anni affinché li addestri; lui prende il toro più selvaggio del mondo, lo doma e lo addomestica senza alcun frustino, nonostante il giovane bue si agiti furiosamente nel cortile. La testa del bue si alza in alto, gli occhi lampeggiano di rabbia. Ma guarda! Quanto in fretta la sua furia svanisce e lui lo doma completamente. Vedi? Nelle fattorie circostanti ci sono centinaia di buoi, giovani e vecchi, e tutti sono stati domati da lui; tutti lo conoscono e lo amano molto. Alcuni di questi animali sono davvero bellissimi, di aspetto maestoso; alcuni hanno il manto marrone, altri maculato, uno ha una linea bianca lungo la schiena, altri sono striati. Alcuni possiedono corna larghe e sviluppate (un buon segno); le loro pelli sono lucide e belle. Guarda quei due con le “stelle” sulla fronte. Corpi rotondi, dorso largo. Stanno dritti in piedi con tanta grazia. Che occhi saggi e attenti hanno! Lo osservano attentamente, desiderando che si avvicini. E quando lui si allontana, sembrano molto preoccupati. Ora mi chiedo cosa possa rappresentare per loro. Libri, politica, poesie, niente di tutto ciò ha importanza per loro. Ammetto di invidiare solo la sua capacità di affascinare gli animali. Il mio silenzioso, analfabeta amico. Che è amato da centinaia di buoi nelle fattorie di quella lontana contea settentrionale, nella tranquilla regione pastorale.
-
 
 
 <span class="atom-split" data-atom="224_wandering_at_morn" data-title="Wandering at Morn" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/music_and_song,motif/dawn,concept/nationalism_and_patriotism,concept/faith,concept/the_natural_order,cluster/birds,cluster/music_and_song,cluster/nightingale"></span>
@@ -408,28 +282,6 @@ Destin’d to fill the world.
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: [[motifs/autumn|AUTUNNO]] RIVULETTI_
-
-
-Vagando al mattino,  
-emergendo dalla [[motifs/night|notte]] tra pensieri cupi, tu sei sempre nei miei pensieri,  
-anelando a quella armoniosa [[concepts/union|unione]] con te. Tu, uccellino divino che canti!  
-In tempi difficili, il mio paese è stato avvolto dal male, dalla frode e dall’orrore;  
-tutte le bassezze e le tradizioni sono state inflitte a questo luogo.
-Ma ho visto questa meraviglia: la gazza madre che nutre i suoi piccoli,  
-quel canto dell’uccellino, pieno di gioia e [[concepts/faith|fede]] estatica.
-Non mancare mai di rincuorare la mia [[motifs/soul|'anima]].
-
-Riflettevo, pensavo:
-se vermi, serpenti, orribili larve possano essere trasformati in dolci canti spirituali,
-se tali creature, così modificate e benedette, possano esistere,
-allora posso fidarmi di te, della tua fortuna, dei tuoi giorni, della mia patria;
-chi sa, forse queste sono proprio le lezioni adatte a te?
-Da queste potrà nascere il tuo futuro canto, pieno di note gioiose,
-destinato a riempire il mondo intero.
 
 
 
@@ -463,31 +315,6 @@ Listens [[motifs/well|well]] pleas’d.
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: [[motifs/autumn|AUTUNNO]] RIVULETTI_
-
-“Il diciassettesimo: la migliore banda militare che abbia mai ascoltato.”
-
-Attraverso l’aria serale dolce che avvolge tutto,
-rocce, foreste, fortezze, cannoni, sentinelle che camminano avanti e indietro, infinite distese selvagge,
-nei ruscelli tranquilli, nelle note di flauti e cornette,
-elettrica, pensierosa, turbolenta, artificiale.
-(Tuttavia stranamente adatta anche qui, significati sconosciuti prima d’ora,
-più sottili che mai, più armonia, come se fosse nata proprio qui, legata a questo luogo.
-Non ai freschi ambienti della [[motifs/city|città]], né al pubblico dell’opera del teatro.
-Suoni, echi, melodie erranti, come se davvero appartengessero a questa “casa”, ).
-Il [[archetypes/innocent|innocente]] amore di Sonnambula, i tre movimenti della tragedia di Norma,
-e il tuo estatico [[characters/chorus|coro]] in Poliuto, )
-Raggiati dal chiaro sole al tramonto, giallo e obliquo.
-Musica, musica italiana nel Dakota.
-
-Mentre [[concepts/nature|Natura]], sovrana di questo intricato regno,  
-si nasconde in remoti e selvaggi angoli,  
-riconoscendo legami anche se lontani,  
-(come una vecchia radice o un pezzo di terra che dà vita all’ultimo fiore o frutto),  
-ascolta con attenzione le suppliche.
 
 
 
@@ -713,221 +540,6 @@ Which let us go forth in the bold day and write.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-1
-Fiera musica della [[motifs/storm|tempesta]],
-raffica che corre così libera, fischiando attraverso le praterie,
-forte ronzio delle cime del bosco--[[motifs/wind|vento]] delle [[settings/mountains|montagne]],
-forme oscure personificate--voi orchestre nascoste,
-voi serenate di fantasmi con strumenti all'erta,
-che fondete col ritmo della [[concepts/nature|Natura]] tutte le lingue delle nazioni;
-voi accordi lasciati come da vasti compositori--voi cori,
-voi danze informi, libere, religiose--voi dall'[[settings/orient|Oriente]],
-voi sottofondo dei fiumi, fragore di cateratte scroscianti,
-voi suoni di cannoni lontani con cavalleria al galoppo,
-echi di accampamenti con tutti i diversi squilli di tromba,
-che accorrete tumultuose, colmando la tarda mezzanotte, piegandomi impotente,
-entrando nella mia solitaria camera del sonno, perché mi avete ghermito?
-
-
-2
-Fatti avanti, o [[motifs/soul|anima]] mia, e il resto si ritiri,
-ascolta, non perdere nulla, è verso di te che tendono,
-fendendo la mezzanotte, entrando nella mia camera del sonno,
-per te cantano e [[motifs/dance|danzano]], o [[motifs/soul|anima]].
-
-Un canto di festa,
-il duetto dello sposo e della sposa, una marcia [[motifs/marriage|nuziale]],
-con labbra d'[[motifs/love|amore]], e cuori d'amanti colmi fino all'orlo d'[[motifs/love|amore]],
-le guance arrossate e i profumi, il corteo brulicante di
-volti amici, giovani e vecchi,
-alle note chiare dei flauti e al cantabile delle arpe sonanti.
-
-Ora tamburi che s'avvicinano rimbombando,
-Victoria! vedi nel fumo della polvere le bandiere lacere ma al vento?
-la rotta degli sconfitti?
-Odi quelle grida di un esercito vincitore?
-
-(Ah [[motifs/soul|anima]], i singhiozzi delle donne, i feriti che gemono in agonia,
-il sibilo e il crepitio delle fiamme, le rovine annerite, le braci delle città,
-il [[forms/dirge|canto funebre]] e la desolazione del genere umano.)
-
-Ora arie antiche e medievali mi colmano,
-vedo e odo vecchi arpisti con le loro arpe alle feste gallesi,
-odo i minnesinger cantare i loro lai d'[[motifs/love|amore]],
-odo i menestrelli, i giullari, i trovatori del medioevo.
-
-Ora suona il grande organo,
-tremulo, mentre di sotto, (come i nascosti appoggi della terra,
-su cui sorgendo posano, e da cui balzando dipendono,
-tutte le forme di [[concepts/beauty|bellezza]], grazia e forza, tutte le tinte che conosciamo,
-verdi fili d'erba e [[motifs/birds|uccelli]] gorgheggianti, bambini che saltano e
-giocano, le nubi del cielo lassù,)
-sta il basso possente, e non interrompe le sue pulsazioni,
-bagnando, sorreggendo, fondendo tutto il resto, maternità di tutto il resto,
-e con esso ogni strumento a moltitudini,
-gli esecutori che suonano, tutti i musicisti del mondo,
-i solenni inni e le messe che destano adorazione,
-tutti gli appassionati canti del cuore, gli appelli dolenti,
-gli smisurati dolci cantori dei secoli,
-e a loro solvente cornice il diapason stesso della terra,
-di venti e boschi e possenti onde oceaniche,
-una nuova orchestra composita, legatrice di anni e di climi, rinnovatrice dieci volte,
-come dei giorni remoti narrano i poeti, il Paradiso,
-lo smarrirsi di là, la lunga separazione, ma ora finito il vagare,
-finito il [[motifs/journey|viaggio]], il viandante tornato a [[motifs/home|casa]],
-e l'uomo e l'arte di nuovo fusi con la [[concepts/nature|Natura]].
-
-Tutti! per la terra e per il cielo;
-(l'Onnipotente direttore per una volta ha dato il segnale con la bacchetta.)
-
-La strofa virile dei mariti del mondo,
-e tutte le mogli che rispondono.
-
-Le lingue dei violini,
-(penso, o lingue, che voi diciate questo cuore, che non sa dirsi,
-questo cuore che rimugina e brama, che non sa dirsi.)
-
-3
-Ah, fin da [[archetypes/child|bambino]],
-tu sai, o [[motifs/soul|anima]], come per me ogni suono divenne musica,
-la voce di mia madre nella ninnananna o nell'[[forms/hymn|inno]],
-(la voce, o tenere voci, voci amorose della [[motifs/memory|memoria]],
-ultimo miracolo fra tutti, o voci carissime della madre, della sorella;)
-la pioggia, il grano che cresce, la brezza tra il grano dalle lunghe foglie,
-la risacca misurata che batte sulla sabbia,
-l'uccello che cinguetta, il grido acuto del falco,
-le note dei volatili selvatici di [[motifs/night|notte]] mentre volano bassi migrando a nord o a sud,
-il salmo nella chiesa di campagna o tra gli alberi fitti, il
-raduno all'aperto,
-il violinista nella taverna, il canto corale, la lunga canzone dei marinai,
-il muggito del bestiame, il belato delle pecore, il gallo che canta all'[[motifs/dawn|alba]].
-
-Tutti i canti delle terre presenti mi risuonano intorno,
-le arie tedesche d'[[concepts/friendship|amicizia]], di vino e d'[[motifs/love|amore]],
-ballate irlandesi, allegre gighe e danze, gorgheggi inglesi,
-chansons di Francia, arie scozzesi, e sopra tutte,
-le composizioni senza pari d'Italia.
-
-Attraverso il palco, con il pallore sul volto, eppure con livida passione,
-incede Norma brandendo il pugnale in mano.
-
-Vedo il bagliore innaturale negli occhi della povera Lucia impazzita,
-i capelli le cadono sciolti e scarmigliati sulla schiena.
-
-Vedo Ernani che passeggia nel [[motifs/garden|giardino]] nuziale,
-tra il profumo delle rose di [[motifs/night|notte]], raggiante, tenendo la sposa per mano,
-udire l'appello infernale, il pegno di [[motifs/death|morte]] del corno.
-
-A spade incrociate e canizie scoperte al cielo,
-il chiaro basso elettrico e il baritono del mondo,
-il duo di tromboni, Libertad per sempre!
-Dall'ombra fitta dei castagni spagnoli,
-presso vecchie e pesanti mura di convento un canto di lamento,
-Canto d'[[motifs/love|amore]] perduto, la fiaccola di giovinezza e vita spenta nella [[concepts/despair|disperazione]],
-Canto del cigno morente, il cuore di Fernando si spezza.
-
-Destandosi dalle sue pene, finalmente riscattata, Amina canta,
-copiosi come [[motifs/stars|stelle]] e lieti come luce del mattino i torrenti della sua gioia.
-
-(Viene la dama feconda,
-l'astro lucente, [[characters/venus|Venere]] contralto, la madre fiorente,
-sorella degli dèi più alti, odo l'Alboni in [[concepts/self|persona]].)
-
-4
-Odo quelle odi, sinfonie, opere,
-odo nel Guglielmo Tell la musica di un popolo destato e adirato,
-odo gli Ugonotti di Meyerbeer, il [[archetypes/prophet|Profeta]], o Roberto,
-il [[characters/faust|Faust]] di Gounod, o il Don Giovanni di Mozart.
-
-Odo la musica da [[motifs/dance|danza]] di tutte le nazioni,
-il valzer, qualche misura deliziosa, che indugia e mi bagna di beatitudine,
-il bolero al tintinnio di chitarre e al crepitio di nacchere.
-
-Vedo danze religiose antiche e nuove,
-odo il suono della lira ebraica,
-vedo i crociati in marcia che portano alta la [[motifs/cross|croce]], al
-clangore marziale dei cembali,
-odo dervisci salmodiare monotoni, inframmezzati da grida
-frenetiche, mentre girano volgendosi sempre verso la Mecca,
-vedo le estatiche danze religiose dei Persiani e degli Arabi,
-ancora, a Eleusi, [[motifs/home|dimora]] di Cerere, vedo danzare i Greci moderni,
-li odo battere le mani mentre piegano i corpi,
-odo lo strisciare cadenzato dei loro piedi.
-
-Vedo di nuovo la selvaggia antica [[motifs/dance|danza]] coribantica, gli esecutori che si feriscono
-a vicenda,
-vedo la gioventù romana che al suono stridulo degli zufoli lancia e
-afferra le proprie armi,
-mentre cadono in ginocchio e si rialzano.
-
-Odo dalla moschea musulmana il muezzin che chiama,
-vedo dentro i fedeli, né forma né sermone, argomento né parola,
-ma silenziose, strane, devote, teste sollevate e ardenti, volti estatici.
-
-Odo l'arpa egizia dalle molte corde,
-i canti primitivi dei barcaioli del Nilo,
-i sacri inni imperiali della Cina,
-ai suoni delicati del [[archetypes/king|king]], (il legno e la pietra percossi,)
-o ai flauti indù e al vibrato inquieto della vina,
-una schiera di baiadere.
-
-5
-Ora l'Asia, l'Africa mi lasciano, l'Europa mi afferra e mi gonfia,
-a organi immensi e bande odo come da vaste folle di voci,
-il forte [[forms/hymn|inno]] di Lutero Eine [[characters/feste|feste]] Burg ist unser Gott,
-lo Stabat Mater dolorosa di Rossini,
-o fluttuante in qualche alta [[settings/cathedral|cattedrale]] fioca di vetrate dai colori splendidi,
-l'appassionato Agnus Dei o il Gloria in Excelsis.
-
-Compositori! possenti maestri!
-E voi, dolci cantori delle terre antiche, soprani, tenori, bassi!
-A voi un nuovo bardo che canta all'Occidente
-manda ossequioso il suo [[motifs/love|amore]].
-
-(Tali cose condussero a te, o [[motifs/soul|anima]],
-tutti i sensi, gli spettacoli e gli oggetti conducono a te,
-ma ora mi pare che il suono conduca più di tutto il resto.)
-
-Odo il canto annuale dei bambini nella [[settings/cathedral|cattedrale]] di San Paolo,
-o, sotto l'alto tetto di qualche sala colossale, le sinfonie,
-gli oratori di Beethoven, Händel o Haydn,
-la Creazione mi lava in ondate di divinità.
-
-Datemi di contenere tutti i suoni, (grido lottando follemente,)
-riempitemi di tutte le voci dell'universo,
-dotatemi dei loro palpiti, e anche di quelli della [[concepts/nature|Natura]],
-le tempeste, le acque, i venti, le opere e i canti, le marce e le danze,
-pronunciate, riversate, ché io li prenderei tutti!
-
-6
-Poi mi destai dolcemente,
-e sostando, interrogando per un poco la musica del mio sogno,
-e interrogando tutte quelle reminiscenze, la tempesta nella sua furia,
-e tutti i canti di soprani e tenori,
-e quelle estatiche danze orientali di fervore religioso,
-e i dolci strumenti vari, e il diapason degli organi,
-e tutti gli ingenui lamenti d'[[motifs/love|amore]] e di dolore e di [[motifs/death|morte]],
-dissi alla mia silenziosa curiosa [[motifs/soul|anima]], dal letto della camera del sonno,
-vieni, ché ho trovato il bandolo che tanto a lungo cercai,
-usciamo rinfrescati nel pieno del giorno,
-contando lietamente la vita, camminando per il mondo, il reale,
-nutriti d'ora innanzi dal nostro sogno celeste.
-
-E dissi, inoltre,
-forse ciò che hai udito, o [[motifs/soul|anima]], non era il suono dei venti,
-né sogno di [[motifs/storm|tempesta]] infuriata, né sbattere d'ali di falco marino né grido aspro,
-né vocalizzo dell'[[settings/italy|Italia]] assolata,
-né organo tedesco maestoso, né vasta folla di voci, né strati
-di armonie,
-né strofe di mariti e mogli, né suono di soldati in marcia,
-né flauti, né arpe, né squilli di tromba degli accampamenti,
-ma, adattati a un nuovo ritmo per te,
-Poemi che gettano un ponte dalla Vita alla [[motifs/death|Morte]], vagamente portati nell'aria
-della [[motifs/night|notte]], non colti, non scritti,
-che usciamo a scrivere nel giorno audace.
-
 
 
 <span class="atom-split" data-atom="243_that_music_always_round_me" data-title="That Music Always Round Me" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/the_sea,concept/self_and_soul,concept/the_sublime,concept/wonder_and_gratitude,cluster/birds,cluster/music_and_song,cluster/nightingale"></span>
@@ -957,13 +569,6 @@ begin to know them.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sussurri della morte celeste_
-
-
-Quella musica che mi circonda sempre, incessante, senza inizio né fine. Prima non la sentivo affatto; ma ora ascolto il suo [[characters/chorus|coro]] e ne sono estasiato. Un tenore potente, che sale con forza e vitalità, accompagnato dalle note gioiose dell’alba. Un soprano che, a tratti, si eleva leggermente sopra le “immense onde” del suono. Una base trasparente che tremola dolcemente sotto e attraverso l’universo. Il tutto forma un insieme trionfale. E poi quelle lamenti funebri, accompagnati da flauti e violini. Tutti questi elementi mi colmano interamente. Non ascolto semplicemente i suoni; sono commosso dai loro significati profondi. Ascolto le diverse voci che si intrecciano, lottando con intensità per superarsi a vicenda nell’espressione delle emozioni. Non credo che gli interpreti sappiano davvero ciò che fanno. Ma ora penso di iniziare a comprenderli.
-
 
 
 <span class="atom-split" data-atom="302_my_canary_bird" data-title="My Canary Bird" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/music_and_song,motif/the_book,concept/joy,concept/self_and_soul,cluster/birds,cluster/music_and_song,cluster/nightingale"></span>
@@ -982,13 +587,6 @@ Is it not just as great, O [[motifs/soul|soul]]?
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_
-
-
-Abbiamo forse compiuto qualcosa di grande, o [[motifs/soul|'anima]], nel penetrare nei temi dei libri maestosi, nell’assorbire profondamente e appieno i loro pensieri, le loro opere, le loro speculazioni? Ma ora, da te a me, piccolo uccello in gabbia, sentire il tuo canto gioioso che riempie l’aria, la stanza desolata, quel lungo pomeriggio, non è forse altrettanto grande, o [[motifs/soul|'anima]]?
 
 
 
@@ -1012,19 +610,3 @@ These with gay heart I also sing.
 
 
 
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
-
-
-Di quella tua gola serena, lontana dalla desolazione e dal vuoto artico,  
-imparerò la lezione, o uccello solitario. Lascia che anch’io accolga con gioia questi freddi venti gelidi,  
-anche il freddo più profondo. Un battito debole del cuore, un cervello intorpidito.
-La vecchiaia, intrappolata nella sua baia invernale, (Freddo, freddo, oh, quanto freddo!)  
-Questi capelli innevati, il mio braccio debole, i miei piedi congelati.
-Per loro accetto la tua fede, le tue regole, e le custodirò fino alla fine.
-Non solo le zone calde dell’estate, né i canti della gioventù, né le tiepide onde del sud.
-Ma trattenuto da flutti lenti, avvolto nel ghiaccio settentrionale. Il cumulo degli anni.
-Anche questi li canto con un cuore sereno.

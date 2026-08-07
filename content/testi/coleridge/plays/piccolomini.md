@@ -57,42 +57,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | BUTLER | I [[concepts/fear\|fear]] we shall not go hence as we came. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | Un'antica sala gotica nella Casa del Consiglio a Pilsen, ornata di<br>bandiere e altre insegne di guerra. |  
-| *(didascalia)* | ILLO con BUTLER e ISOLANI. |  
-| ILLO | Siete giunti tardi — ma siete giunti! La distanza,<br>conte Isolan, scusa il vostro ritardo. |  
-| ISOLANI | Aggiungete anche questo, che non veniamo a mani vuote.<br>A Donauwert ci fu riferito<br>che una carovana svedese era in cammino<br>recando un ricco carico di vettovaglie,<br>quasi seicento carri. Su di essa i miei Croati<br>piombarono e la presero, questa greve preda! ——<br>La portiamo qui —— |  
-| ILLO | Giusto in [[motifs/time\|tempo]] per imbandire<br>l'illustre compagnia qui radunata. |  
-| BUTLER | Qui tutto è vivo! che scena animata! |  
-| ISOLANI | Eh sì!<br>Perfino le chiese sono tutte piene di soldati.<br>E anche nella casa del Consiglio, m'accorgo,<br>vi siete insediati, proprio come a [[motifs/home\|casa]] vostra! [[motifs/well\|Bene]], [[motifs/well\|bene]]! noi soldati<br>dobbiamo arrangiarci e adattarci come possiamo. |  
-| ILLO | Abbiamo qui i colonnelli di trenta reggimenti.<br>Troverete qui il conte Tertsky, e Tiefenbach,<br>Kolatto, Goetz, Maradas, Hinnersam,<br>i Piccolomini, e il figlio e il padre ——<br>Riceverete più d'un saluto inatteso<br>da più d'un vecchio amico e conoscente. Solo<br>Galas ancora manca, e Altringer. |  
-| BUTLER | Non aspettate Galas. |  
-| ILLO | Come mai? Sapete forse —— |  
-| ISOLANI | Max Piccolomini qui? — Oh, conducetemi a lui.<br>Lo vedo ancora (son dieci anni ormai,<br>eravamo alle prese con Mansfeld presso Dessau),<br>vedo il giovane, con gli occhi della mente lo vedo<br>spingere giù dal ponte il nero [[motifs/horse\|destriero]] da guerra,<br>e verso il padre, allora in estremo pericolo,<br>risalire contro la forte corrente dell'Elba.<br>La peluria gli velava appena il mento! Odo<br>che ha tenuto fede alla promessa dei suoi verdi anni,<br>e che ormai in lui l'[[archetypes/hero\|eroe]] compiuto è perfetto. |  
-| ILLO | Lo vedrete prima di sera. Egli scorta<br>qui la duchessa di Friedland, e la principessa<br>di Carnthen. Le attendiamo qui a [[motifs/noon\|mezzogiorno]]. |  
-| BUTLER | E moglie e figlia il duca chiama quaggiù?<br>Fa affluire ospiti da ogni parte. |  
-| ISOLANI | Uhm!<br>Tanto meglio! M'ero disposto l'animo<br>a non udire nulla che non fosse cosa di guerra,<br>marce, e assalti, e batterie:<br>ed ecco! il duca provvede che anche qualcosa<br>di più gentile specie, e amabile, sia presente<br>a far festa ai nostri occhi. |  
-| ILLO *(a parte, a Butler)* | E come avete saputo<br>che il conte Galas non si unisce a noi? |  
-| BUTLER | Perché<br>m'importunò perché restassi indietro. |  
-| ILLO | E voi? — Voi tenete fermo?<br>Nobile Butler! |  
-| BUTLER | Dopo l'obbligo che il duca<br>m'aveva imposto or ora —— |  
-| ILLO | Avevo scordato<br>un grato dovere — Maggior Generale,<br>me ne rallegro con voi! |  
-| ISOLANI | Come, intendete, del suo reggimento?<br>Odo anche che, per far più dolce il dono,<br>il duca gli ha dato quello stesso<br>in cui prestò servizio la prima volta, e da allora<br>salì, grado a grado, per ogni promozione,<br>su dalla truppa. E in verità, ciò offre<br>un precedente di [[concepts/hope\|speranza]], uno sprone all'azione<br>per l'intero corpo, se una volta a loro memoria<br>un vecchio e degno soldato si fa strada. |  
-| BUTLER | Sono perplesso e dubbioso, se io debba o no<br>osare d'accettare questa vostra congratulazione.<br>L'imperatore non ha ancora confermato la nomina. |  
-| ISOLANI | Afferratela, amico! Afferratela! La mano che a quel posto<br>vi pose è forte abbastanza per tenervici,<br>a dispetto dell'imperatore e dei suoi ministri! |  
-| ILLO | Eh, se solo così volessimo considerarlo! —<br>Se tutti quanti così lo considerassimo!<br>L'imperatore non ci dà nulla; dal duca<br>viene ogni cosa — quanto [[concepts/hope\|speriamo]], quanto abbiamo. |  
-| ISOLANI *(a Illo)* | Mio nobile fratello! v'ho detto come<br>il duca soddisferà i miei creditori?<br>Sarà egli stesso il mio banchiere per l'avvenire,<br>farà di me ancora un uomo degno di credito! —<br>Ed è questa ormai la terza [[motifs/time\|volta]], pensate!<br>Quest'uomo dall'animo regale m'ha strappato<br>a rovina assoluta, e reso il mio [[concepts/honour\|onore]]. |  
-| ILLO | Oh, se il suo potere andasse di pari passo coi suoi voleri!<br>Ma via, amico! darebbe il mondo intero ai suoi soldati.<br>Ma a Vienna, fratello! qui sta la piaga! —<br>Quali trame politiche non ordiscono per accorciargli<br>il braccio e, dove possono, per tarpargli le penne.<br>Poi queste nuove leziose richieste! queste<br>che questo medesimo Questenberg porta quaggiù! — |  
-| BUTLER | Sì,<br>queste richieste dell'imperatore, —<br>anch'io ne ho udito parlare; ma [[concepts/hope\|spero]]<br>che il duca non arretri d'un solo pollice! |  
-| ILLO | Non dal suo diritto di certo, se non prima<br>— dalla carica! |  
-| BUTLER | Sapete dunque qualcosa? Voi mi allarmate. |  
-| ISOLANI *(nello stesso [[motifs/time\|tempo]] di Butler, e con voce affrettata)* | Saremmo rovinati, tutti quanti! |  
-| ILLO | Basta così!<br>Là vedo avvicinarsi il nostro degno amico<br>col Luogotenente Generale, Piccolomini. |  
-| BUTLER | [[concepts/fear\|Temo]] che non ce n'andremo di qui come siamo venuti. |
-
 
 
 <span class="atom-split" data-atom="act_1--scene_2" data-title="THE PICCOLOMINI — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/blood,motif/city,motif/cross,motif/home,motif/nature,motif/noon,motif/time,motif/well,concept/faith,concept/freedom,concept/honour,concept/nature,setting/court"></span>
@@ -153,62 +117,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | *(didascalia)* | [Exeunt all but QUESTENBERG and OCTAVIO. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | Entrano OCTAVIO PICCOLOMINI e QUESTENBERG. |  
-| OCTAVIO | Eh, eh! ancora! Ancora nuovi visitatori!<br>Ammettete, amico! che mai vi fu un campo<br>che accogliesse a un tempo tante teste d'eroi.<br>Benvenuto, conte Isolani! |  
-| ISOLANI | Mio nobile fratello,<br>proprio ora sono giunto; altrimenti sarebbe stato mio dovere — |  
-| OCTAVIO | E il colonnello Butler — credetemi, mi rallegro<br>di rinnovare così la conoscenza d'un uomo<br>di cui conosco e [[concepts/honour\|onoro]] il valore e i servigi.<br>Guardate, guardate, amico mio!<br>Là potremmo porre a un tempo sotto i nostri occhi<br>la somma di tutto il mestiere e il mistero della guerra — |  
-| *(didascalia)* | [A QUESTENBERG, presentandogli nello stesso [[motifs/time\|tempo]] BUTLER e ISOLANI. |  
-| OCTAVIO | Questi due la somma intera — Forza e Prontezza. |  
-| QUESTENBERG | (a Octavio). Ed ecco! fra loro due l'esperta<br>Prudenza! |  
-| OCTAVIO | (presentando Questenberg a Butler e Isolani). Il<br>ciambellano e commissario di guerra Questenberg,<br>latore dei comandi dell'imperatore,<br>amico da lungo tempo provato e protettore di tutti i soldati,<br>[[concepts/honour\|onoriamo]] in questo nobile visitatore. |  
-| ILLO | Non è la prima [[motifs/time\|volta]], nobile ministro,<br>che fate al nostro campo questo [[concepts/honour\|onore]]. |  
-| QUESTENBERG | Una volta soltanto<br>stetti dinanzi a queste bandiere. |  
-| ILLO | Forse ricordate anche dove fu.<br>Fu a Znäim in Moravia, dove<br>vi presentaste per parte<br>dell'imperatore, a supplicare il nostro duca<br>che assumesse senz'indugio il comando supremo. |  
-| QUESTENBERG | Supplicare? No, nobile generale!<br>Tanto oltre non si estendeva né il mio mandato<br>(almeno per quanto ne so) né il mio zelo. |  
-| ILLO | [[motifs/well\|Bene]], [[motifs/well\|bene]], allora — a costringerlo, se vi piace.<br>Ricordo assai [[motifs/well\|bene]], il conte Tilly<br>aveva patito rotta totale sul Lech.<br>La Baviera giaceva tutta aperta al nemico,<br>cui nulla impediva di premere<br>innanzi fin nel cuore stesso dell'Austria.<br>In quel [[motifs/time\|tempo]] voi e Werdenberg compariste<br>davanti al nostro generale, assediandolo di preghiere<br>e minacciando il disappunto dell'imperatore,<br>se non avesse avuto pietà di quella miseria. |  
-| ISOLANI | Sì, sì, è abbastanza comprensibile<br>perché, col vostro mandato d'oggi,<br>non foste troppo disposto a ricordare<br>quello di prima. |  
-| QUESTENBERG | Perché no, conte Isolan?<br>Nessuna contraddizione esiste di certo fra i due.<br>Era l'urgente compito di quel [[motifs/time\|tempo]]<br>strappare la Baviera dalla mano del suo nemico;<br>e il mio mandato d'oggi mi ordina<br>di liberarla dai suoi buoni amici e protettori. |  
-| ILLO | Nobile incarico! Dopo che col nostro [[motifs/blood\|sangue]]<br>abbiamo strappato al Sassone questa Boemia,<br>esserne spazzati via è tutto il nostro grazie,<br>l'unica ricompensa di vittorie sì duramente vinte. |  
-| QUESTENBERG | Se quella misera terra non è condannata a patire<br>soltanto un mutar di mali, dev'essere<br>liberata dal flagello tanto dell'amico quanto del nemico. |  
-| ILLO | Come? Fu un'annata propizia; i villani<br>possono già far fronte a nuove richieste. |  
-| QUESTENBERG | No,<br>se ragionate di mandrie e di prati — |  
-| ISOLANI | La guerra mantiene la guerra. Se i villani sono rovinati,<br>l'imperatore guadagna altrettanti nuovi soldati. |  
-| QUESTENBERG | E s'impoverisce d'altrettanti sudditi. |  
-| ISOLANI | Bah! Siamo tutti suoi sudditi. |  
-| QUESTENBERG | Ma con una differenza, generale! Gli uni riempiono<br>con proficua industria la borsa,<br>gli altri sono [[motifs/well\|ben]] esperti nel vuotarla.<br>La spada ha fatto povero l'imperatore; l'aratro<br>deve rinvigorire le sue risorse. |  
-| ISOLANI | Certo!<br>I tempi non son ancora così cattivi. Mi par di vedere |  
-| *(didascalia)* | [Esaminando con l'occhio l'abito e gli ornamenti di QUESTENBERG. |  
-| ISOLANI | Buona riserva d'oro che ancora resta non coniata. |  
-| QUESTENBERG | Grazie al Cielo! che si siano trovati modi di nascondere<br>qualche poco alle dita dei Croati. |  
-| ILLO | Ecco! Gli Stawata e i Martinitz,<br>sui quali l'imperatore ammucchia doni e favori,<br>con bruciore di cuore d'ogni buon boemo —<br>quei beniamini del favore di [[settings/court\|corte]], quelle arpie di [[settings/court\|corte]],<br>che ingrassano sulle rovine di cittadini<br>cacciati dalla dimora e dalla [[motifs/home\|casa]] — che non mietono raccolti<br>se non nella calamità generale —<br>che ora, con regale pompa, oltraggiano e deridono<br>la desolazione del loro paese — costoro,<br>costoro, e quelli come loro, sostengano la guerra,<br>la fatale guerra che essi soli hanno acceso! |  
-| BUTLER | E quei parassiti di stato, che tengono i piedi<br>così di continuo sotto la mensa dell'imperatore,<br>che non lasciano cadere un beneficio senza<br>azzannarlo con fame di cane — costoro, in verità,<br>vorrebbero sfrondare il pane del soldato e [[motifs/cross\|sbarrargli]] il conto! |  
-| ISOLANI | Per tutta la vita mi farà rabbia pensare<br>come, quando andai a [[settings/court\|corte]] sette anni fa<br>a trattare di nuovi cavalli per il nostro reggimento,<br>come da un'anticamera all'altra<br>mi trascinassero, e mi lasciassero per ore intere<br>a battere i tacchi in mezzo a una folla di smorfiosi<br>servi ingrassati a banchetti, come se là fossi venuto<br>mendico postulante delle briciole di favore<br>che cadono sotto le loro tavole. E, alla fine,<br>chi mi mandarono se non un cappuccino!<br>Subito cominciai a far conto dei miei peccati<br>per l'assoluzione — ma non tanta fortuna per me!<br>Era quello l'uomo, quel cappuccino, col quale<br>dovevo trattare a proposito dei cavalli dell'esercito:<br>e alla fine fui costretto a lasciare il campo,<br>l'affare non concluso. In seguito<br>il duca mi procurò in tre giorni ciò che io<br>non potei ottenere in trenta a Vienna. |  
-| QUESTENBERG | Sì, sì! le vostre note di viaggio trovarono presto la via fino a noi:<br>troppo [[motifs/well\|bene]] so che abbiamo ancora conti da saldare. |  
-| ILLO | La guerra è un mestiere violento; non sempre si può<br>compiere l'opera con mezzi dolci; non ogni inezia<br>va annerita fino al sacrilegio.<br>Se dovessimo attendere che voi, in solenne consiglio,<br>con la debita ponderazione aveste scelto<br>il minore di ventiquattro mali,<br>in [[concepts/faith\|fede]] mia, attenderemmo a lungo. —<br>'Sotto! e via, di forza!' — questa è la parola d'ordine migliore.<br>Poi venga quel che deve venire. È [[concepts/nature\|natura]] dell'uomo<br>trarre il meglio da una cosa cattiva una volta passata.<br>Un amaro e perplesso 'che devo fare?'<br>è per l'uomo peggiore della peggiore necessità. |  
-| QUESTENBERG | Sì, senza dubbio, è vero: il duca ci risparmia<br>il molesto compito di scegliere. |  
-| BUTLER | Sì, il duca<br>ha cura delle sue truppe con affetto di padre;<br>ma quel che l'imperatore senta per noi, lo vediamo. |  
-| QUESTENBERG | Le sue cure e i suoi affetti tutti i ranghi ugualmente dividono,<br>né egli sacrificherà l'uno all'altro. |  
-| ISOLANI | E perciò ci caccia nei deserti<br>come belve da preda, per poter così serbare<br>le sue care pecore che ingrassano nei campi di [[motifs/home\|casa]]. |  
-| QUESTENBERG | Conte, questo paragone lo fate voi, non io. |  
-| BUTLER | Via, se fossimo tutto ciò che la [[settings/court\|Corte]] ci suppone,<br>sarebbe pericoloso, certo, darci libertà. |  
-| QUESTENBERG | Voi vi siete presi la libertà — non vi fu data.<br>E perciò diviene un dovere urgente<br>tenerla a freno col morso. |  
-| OCTAVIO | Mio nobile amico,<br>questo non è che un rammentare<br>che siete ora in campo, e fra guerrieri.<br>L'audacia del soldato costituisce la sua [[concepts/freedom\|libertà]].<br>Potrebbe egli agire con ardire, se non osasse<br>anche parlare così? L'una trascorre nell'altra.<br>L'audacia di questo degno ufficiale, |  
-| *(didascalia)* | [additando BUTLER. |  
-| OCTAVIO | che ora ha soltanto sbagliato il suo bersaglio,<br>conservò, quando null'altro che l'audacia poteva conservarla,<br>all'imperatore la sua [[motifs/city\|città]] capitale, Praga,<br>in un formidabile ammutinamento<br>dell'intera guarnigione. |  
-| *(didascalia)* | [Musica militare in lontananza. |  
-| OCTAVIO | Ah! eccoli che vengono! |  
-| ILLO | Le sentinelle li salutano: questo segnale<br>annuncia l'arrivo della duchessa. |  
-| OCTAVIO | Allora anche mio figlio Max è tornato. Fu lui<br>a prenderle e scortarle qui da Carnthen. |  
-| ISOLANI | (a Illo). Non andremo insieme a salutarle? |  
-| ILLO | [[motifs/well\|Bene]], andiamo. — Ehi! colonnello Butler, venite. |  
-| *(didascalia)* | [A OCTAVIO. |  
-| ILLO | Non dimenticherete che prima di [[motifs/noon\|mezzogiorno]] incontriamo<br>il nobile inviato al palazzo del generale. |  
-| *(didascalia)* | [Escono tutti tranne QUESTENBERG e OCTAVIO. |
-
 
 
 <span class="atom-split" data-atom="act_1--scene_3" data-title="THE PICCOLOMINI — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/bells,motif/memory,motif/rose,motif/sleep,motif/soul,motif/time,concept/despair,concept/fear,concept/freedom,concept/friendship,concept/pride,setting/court"></span>
@@ -239,33 +147,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | OCTAVIO | I must venture it.<br>Hush! — There he comes! |
 | *(didascalia)* | [Before 1] Questenberg (with signs of aversion and astonishment).<br>1817, 1828, 1829.<br>Questenberg (walking up and down in evident disquiet). Friend, &c.<br>1817, 1828, 1829. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | QUESTENBERG e OCTAVIO. |  
-| QUESTENBERG | Che cosa non ho dovuto udire, Octavio!<br>Che sentimenti! che fiera, sfrenata sfida!<br>E se questo spirito fosse universale — |  
-| OCTAVIO | Hm!<br>Ora conoscete tre quarti dell'esercito. |  
-| QUESTENBERG | Dove cercare allora un secondo esercito<br>che faccia la guardia a questo? Quell'Illo<br>pensa peggio, [[concepts/fear\|temo]], di quanto dica. E poi<br>anche questo Butler — non sa neppure celare<br>l'appassionato lavorìo dei suoi mali intenti. |  
-| OCTAVIO | Prontezza di temperamento — [[concepts/pride\|orgoglio]] irritato;<br>null'altro era. Non posso rinunciare a Butler.<br>Conosco un incantesimo che presto scaccerà<br>lo spirito maligno che è in lui. |  
-| QUESTENBERG | Amico, amico!<br>Oh! questo è peggio, ben peggio, di quanto ci fossimo<br>lasciati sognare a Vienna. Là<br>lo vedevamo soltanto con occhi di cortigiano,<br>occhi abbagliati dallo splendore del trono.<br>Non avevamo veduto il Capo di guerra, il Comandante,<br>l'uomo onnipotente nel suo campo. Qui, qui,<br>è tutt'altra cosa.<br>Qui non c'è più Imperatore — il Duca è l'Imperatore.<br>Ahimè, amico mio! ahimè, mio nobile amico!<br>Questa passeggiata che m'avete fatto fare per il campo<br>atterra le mie speranze. |  
-| OCTAVIO | Ora vedete voi stesso<br>di che pericolosa specie sia l'incarico<br>che mi recate dalla [[settings/court\|Corte]].<br>Il minimo sospetto del Generale<br>mi costa la [[concepts/freedom\|libertà]] e la vita, e non farebbe<br>che affrettare la sua più disperata impresa. |  
-| QUESTENBERG | Dove dormiva la nostra ragione, quando affidammo<br>la spada a questo forsennato, e ponemmo tanta forza<br>in tale mano? Ve lo dico: rifiuterà,<br>rifiuterà netto, d'obbedire agli ordini imperiali.<br>Amico, lo può fare, e ciò che può, lo farà.<br>E poi l'impunità della sua sfida —<br>oh! che proclama della nostra debolezza! |  
-| OCTAVIO | Credete anche voi ch'egli abbia condotto qui moglie e figlia<br>senza uno scopo? Qui, nel campo!<br>e proprio nel punto di [[motifs/time\|tempo]] in cui<br>ci armiamo per la guerra? Che abbia tratto<br>queste, le ultime cauzioni della sua fedeltà,<br>fuori dai domini dell'Imperatore —<br>non è segno dubbio della vicinanza<br>di qualche eruzione! |  
-| QUESTENBERG | Come terremo il piede<br>sotto questa tempesta, che si raccoglie<br>e ci minaccia da ogni parte? Il nemico<br>dell'impero ai nostri confini, ormai già<br>padrone del Danubio, e sempre più oltre,<br>e sempre più oltre estendendosi ad ogni ora!<br>Dentro di noi le [[motifs/bells\|campane]] a martello<br>dell'insurrezione — contadini in armi ——<br>tutti i ceti scontenti — e l'esercito,<br>proprio nel momento in cui da esso aspettavamo<br>soccorso — ecco! questo stesso esercito<br>sedotto, inselvatichito, perduto a ogni disciplina,<br>sciolto, e strappato via dallo stato<br>e dal suo sovrano, cieco strumento<br>del più audace degli uomini, un'arma<br>di paurosa potenza, ch'egli a suo talento maneggia! |  
-| OCTAVIO | No, no, amico! non [[concepts/despair\|disperiamo]] troppo presto,<br>le parole degli uomini son sempre più ardite dei fatti:<br>e più d'un risoluto, che ora sembra<br>deciso a ogni estremo, d'un tratto<br>troverà in petto un cuore che non sapeva d'avere,<br>purché un solo uomo onesto pronunci<br>il vero nome del suo delitto! Ricordate, poi,<br>che non siamo ancora così del tutto indifesi.<br>I conti Altringer e Galas hanno mantenuto<br>il loro piccolo esercito fedele al dovere,<br>e ogni giorno si fa più numeroso.<br>Né può coglierci di sorpresa: voi sapete<br>ch'io lo tengo tutto cinto dai miei ascoltatori.<br>Ciò ch'ei fa è mio, già mentre lo fa —<br>non v'è passo sì piccolo ch'io non l'oda all'istante;<br>anzi, la sua stessa bocca me lo svela. |  
-| QUESTENBERG | È del tutto<br>incomprensibile ch'egli non scopra<br>il nemico così vicino! |  
-| OCTAVIO | Badate di non credere<br>ch'io con arti bugiarde e compiacente<br>ipocrisia mi sia insinuato nelle sue grazie;<br>o che con l'alimento di lisce proteste<br>nutra la sua fiduciosissima [[concepts/friendship\|amicizia]]! No —<br>costretto insieme dalla prudenza e da quel dovere<br>che tutti abbiamo verso la patria e il sovrano<br>a celargli i miei veri sentimenti, pure<br>mai l'ho gabbato con vili contraffazioni! |  
-| QUESTENBERG | È la visibile ordinanza del cielo. |  
-| OCTAVIO | Non so che sia ciò che tanto l'attrae<br>e lo lega a me e insieme a mio figlio.<br>Compagni e amici fummo sempre — la lunga usanza,<br>le imprese ardite compiute in comune,<br>e tutti quei molti e vari casi<br>che riempiono d'affetti la [[motifs/memory\|memoria]] d'un soldato,<br>ci avevano legati da lungo e per tempo l'uno all'altro —<br>pure so dire il giorno in cui d'un tratto<br>il suo cuore mi si [[motifs/rose\|levò]] incontro, e la sua fiducia<br>germogliò d'improvvisa crescita. Era il mattino<br>prima della memorabile battaglia di Lützner.<br>Spinto da un brutto sogno, andai a cercarlo,<br>per indurlo ad accettare un altro destriero.<br>Lontano dalle tende, sotto un albero,<br>lo trovai nel [[motifs/sleep\|sonno]]. Quando l'ebbi destato,<br>e gli ebbi narrato tutti i miei presagi,<br>lungo [[motifs/time\|tempo]] mi fissò, come uomo<br>attonito; poi mi cadde sul collo,<br>e mi mostrò una commozione<br>che di gran lunga eccedeva il pregio di quel piccolo servigio.<br>Da allora la sua fiducia m'ha seguito<br>con lo stesso passo con cui la mia è fuggita da lui. |  
-| QUESTENBERG | Mettete a parte del segreto vostro figlio? |  
-| OCTAVIO | No! |  
-| QUESTENBERG | Come? e non lo avvertite neppure in che male mani<br>la sorte l'ha posto? |  
-| OCTAVIO | Debbo per forza<br>lasciarlo in tutela alla sua innocenza.<br>La sua giovane e aperta [[motifs/soul\|anima]] — la finzione<br>è estranea alle sue abitudini! L'ignoranza<br>sola può tener viva quell'aria serena,<br>quel senso disinvolto e quel libero spirito leggero<br>che fanno sicuro il Duca. |  
-| QUESTENBERG | Mio onorato amico! altissima stima ho<br>del colonnello Piccolomini — pure — se ——<br>riflettete un poco —— |  
-| OCTAVIO | Devo rischiare.<br>Zitto! — Eccolo che viene! |  
-| *(didascalia)* | [Prima di 1] Questenberg (con segni di avversione e stupore).<br>1817, 1828, 1829.<br>Questenberg (passeggiando su e giù in evidente inquietudine). Amico, ecc.<br>1817, 1828, 1829. |
 
 
 
@@ -302,37 +183,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | *(didascalia)* | Exit. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | MAX PICCOLOMINI, OCTAVIO PICCOLOMINI, QUESTENBERG. |  
-| MAX | Ah! eccolo in persona. Benvenuto, padre mio!<br>Siete occupato, vedo. Non vi disturberò. |  
-| OCTAVIO | Come, Max? Guarda meglio questo ospite;<br>attenzione, Max, merita un vecchio amico — riverenza<br>spetta di diritto all'inviato del tuo sovrano. |  
-| MAX | Von Questenberg! — Benvenuto — se recate con voi<br>qualcosa di buono al nostro quartier generale. |  
-| QUESTENBERG | No, non ritraete<br>la vostra mano, conte Piccolomini!<br>Non per mio conto soltanto l'ho presa,<br>e nulla di comune dirò con essa. |  
-| *(didascalia)* | Prendendo le mani d'entrambi. |  
-| QUESTENBERG | Octavio — Max Piccolomini!<br>O nomi salvatori, e pieni di lieto augurio!<br>Mai il suo genio propizio si volgerà dall'Austria,<br>finché due tali [[motifs/stars\|stelle]], con benedetti influssi<br>raggianti protezione, splendano sui suoi eserciti. |  
-| MAX | Eh! — Nobile ministro! Sbagliate la vostra parte.<br>Non veniste qui a recitare un panegirico.<br>Siete mandato, lo so, a trovar difetti e a rimbrottarci —<br>non devo prevenire i miei compagni. |  
-| OCTAVIO | Viene dalla [[settings/court\|corte]], dove la gente non è proprio<br>così [[motifs/well\|ben]] contenta del duca come qui. |  
-| MAX | Che cosa hanno escogitato ora di trovare in lui?<br>Che egli solo decida per sé<br>ciò che egli solo comprende?<br>[[motifs/well\|Bene]], in ciò fa bene, e vi persisterà.<br>Il Cielo non lo destinò a quella cosa passiva<br>che si batte e si martella per adattarla<br>al gusto e al capriccio altrui. Non [[motifs/dance\|danzerà]]<br>a ogni aria d'ogni ministro.<br>Ripugna alla sua [[concepts/nature\|natura]] — non lo può fare.<br>È posseduto da uno spirito che comanda,<br>e sua è pure la stazione del comando.<br>E per noi è un [[motifs/well\|bene]] che sia così! Pochi vivono<br>atti a governare sé stessi, pochi che usino<br>l'intelletto intelligentemente. — Dunque<br>[[motifs/well\|bene]] per il tutto, se si trova un uomo<br>che si faccia ciò a cui la [[concepts/nature\|natura]] lo destinò,<br>la pausa, il punto centrale di mille migliaia —<br>sta fermo e maestoso, come colonna ben costrutta,<br>dove tutti possano stringersi con gioia e fiducia.<br>Or tale uomo è Wallenstein; e se<br>un altro s'addice meglio alla [[settings/court\|corte]] — nessun altro<br>che uno come lui può servire l'esercito. |  
-| QUESTENBERG | L'esercito? Senza dubbio! |  
-| OCTAVIO | *(a parte)* Zitto! reprimilo, amico!<br>a meno che qualche fine non sia servito dal dirlo. —<br>Da colui là non caverete nulla. |  
-| MAX | Nella loro angustia<br>evocano uno spirito, e quando viene,<br>subito la carne freme e rabbrividisce, e lo temono<br>più dei mali per cui l'evocarono.<br>L'insolito, il [[concepts/sublime\|sublime]], deve parere ed essere<br>come le cose d'ogni giorno. — Ma in campo,<br>sì, là l'Essere Presente si fa sentire.<br>Il personale deve comandare, l'occhio reale<br>esaminare. Se l'essere capo esige<br>tutto ciò che è grande in [[concepts/nature\|natura]], sia<br>parimenti suo privilegio muoversi e agire<br>in tutte le corrispondenze della [[concepts/greatness\|grandezza]].<br>L'oracolo che è in lui, quello che vive,<br>egli deve invocare e interrogare — non libri morti,<br>non ordinanze, non carte marcite di muffa. |  
-| OCTAVIO | Figlio mio! di quelle vecchie e anguste ordinanze<br>non facciamo troppo poco conto. Sono pesi<br>d'inestimabile valore, con cui l'umanità oppressa<br>legò il volubile arbitrio dei suoi oppressori.<br>Ché sempre fu formidabile la lega<br>e il connubio di libera forza con libero volere.<br>La via dell'antica ordinanza, benché si torca,<br>non è però via tortuosa. Dritta va<br>la strada del [[motifs/lightning\|fulmine]], e dritta la paurosa strada<br>della palla di cannone. Diritta vola e rapida,<br>fracassando per giungere, e fracassando ciò che raggiunge.<br>Figlio mio! la [[motifs/road\|via]] che l'essere umano percorre,<br>quella su cui la benedizione viene e va, segue<br>il corso del [[motifs/river\|fiume]], i giochi sinuosi della valle,<br>gira attorno al campo di grano e al [[motifs/hill\|colle]] delle vigne,<br>onorando i sacri confini della proprietà!<br>E così sicura, benché tarda, conduce alla sua meta. |  
-| QUESTENBERG | Oh, ascoltate vostro padre, nobile giovane! ascoltatelo,<br>lui che è a un tempo l'[[archetypes/hero\|eroe]] e l'uomo. |  
-| OCTAVIO | Figlio mio, in te ha parlato il nutrito del campo!<br>Una guerra di quindici anni<br>è stata la tua [[concepts/education\|educazione]] e la tua scuola.<br>La pace non l'hai mai veduta! Esiste<br>un'eccellenza più alta di quella del guerriero.<br>Nella guerra stessa la guerra non è fine ultimo.<br>Le vaste e subitanee opere di violenza,<br>le avventure selvagge, e i prodigi del momento,<br>non son quelle, figlio mio, che generano<br>il calmo, il beato, e il possente che dura!<br>Guarda là! il soldato, rapido architetto!<br>erige la sua lieve città di tela, e d'un tratto<br>tutta la scena si muove e brulica d'attimo in attimo,<br>d'armi, e destrieri nitrenti, e allegria e rissa<br>si riempie il variopinto mercato; le strade, i fiumi<br>s'affollano di nuovi carichi, il traffico si desta e corre!<br>Ma un domani mattina, tutt'a un tratto,<br>le tende cadono, l'orda riprende la sua marcia.<br>Tetri e solitari come un camposanto<br>giacciono il prato e il seminato calpestato,<br>e il raccolto dell'anno è perduto del tutto. |  
-| MAX | Oh, faccia l'Imperatore la pace, padre mio!<br>Ben volentieri darei l'alloro macchiato di [[motifs/blood\|sangue]]<br>per la prima viola della [[motifs/spring\|primavera]] senza foglie,<br>colta in quei campi quieti dove ho viaggiato! |  
-| OCTAVIO | Che hai? Che cosa ti commuove così d'un tratto? |  
-| MAX | La pace non l'ho mai veduta? L'ho veduta.<br>Di là son venuto qua: oh! quella vista,<br>ancora mi balena innanzi, come un paesaggio<br>lasciato in lontananza, — un paesaggio delizioso!<br>La mia [[motifs/road\|via]] mi condusse per contrade dove<br>la guerra non è ancor giunta. La vita, la vita, padre mio —<br>mio venerando padre, la vita ha incanti<br>che noi non abbiamo mai provato. Non abbiamo fatto<br>che navigare lungo le sue coste sterili,<br>come una povera orda sempre errante di pirati<br>che, stipata nella fetida e angusta [[motifs/ship\|nave]],<br>alberga sul mare selvaggio con selvaggi costumi,<br>né sa nulla della terraferma, se non le baie<br>dove più sicura può tentare uno sbarco da ladri.<br>Quanto nelle valli interne la terra nasconde<br>di bello e squisito, oh! nulla, nulla<br>ne vediamo noi nel nostro rozzo viaggio. |  
-| OCTAVIO | E il vostro [[motifs/journey\|viaggio]] v'ha rivelato questo? |  
-| MAX | Fu il primo ozio della mia vita. Oh, ditemi,<br>qual è il premio e il fine della fatica,<br>la dolorosa fatica che m'ha rubato la giovinezza,<br>m'ha lasciato un cuore senz'anima e solitario,<br>uno spirito informe, disadorno.<br>Ché il trambusto del campo e la folla e l'incessante allarme,<br>il [[motifs/horse\|cavallo]] di guerra nitrente, la tromba che squarcia l'aria,<br>l'ora del dovere invariata e sempre ritornante,<br>la voce del comando, e l'esercizio dell'armi —<br>non c'è nulla qui, non c'è nulla in tutto questo<br>che appaghi il cuore, il cuore anelante!<br>Mero nulla affaccendato, dove l'[[motifs/soul\|anima]] non è —<br>questa non può essere la sola felicità,<br>questi non possono essere i migliori e soli piaceri dell'uomo. |  
-| OCTAVIO | Molto hai imparato, figlio mio, in questo breve [[motifs/journey\|viaggio]]. |  
-| MAX | Oh! giorno tre volte bello! quando alfine il soldato<br>torna a [[motifs/home\|casa]] dentro la vita; quando diventa<br>un simile fra i suoi simili.<br>Le bandiere si spiegano, la cavalcata<br>si schiera, e ora il brusio tace, e udite!<br>ora batte la dolce marcia di pace: a [[motifs/home\|casa]], fratelli, a [[motifs/home\|casa]]!<br>I berretti e gli elmi son tutti inghirlandati<br>di verdi rami, l'ultimo saccheggio dei campi.<br>Le porte della [[motifs/city\|città]] si spalancano da sé,<br>non han più bisogno del petardo che le squarci.<br>I bastioni son tutti pieni d'uomini e di donne,<br>d'uomini e donne in pace, che mandano innanzi<br>baci e saluti per l'aria,<br>che fanno ventilare con gesti affettuosi.<br>Da tutte le torri squilla il lieto scampanìo,<br>i vespri gioiosi d'un giorno sanguinoso.<br>O uomo felice, o fortunato! per cui<br>la porta [[motifs/well\|ben]] nota, le braccia fedeli sono aperte,<br>le fedeli tenere braccia in muto abbraccio. |  
-| QUESTENBERG | Oh! che voi parliate<br>d'un così lontano, lontano [[motifs/time\|tempo]], e non<br>del domani, non di questo oggi. |  
-| MAX | Dov'è la colpa se non su voi a Vienna?<br>Sarò aperto con voi, Questenberg.<br>Or ora, come vi vidi la prima volta qui,<br>(ve lo confesso francamente) l'indignazione<br>mi serrò e mi strinse l'intima [[motifs/soul\|anima]].<br>Siete voi che impedite la pace, voi! — e il guerriero,<br>è il guerriero che deve strapparvela.<br>Voi logorate la vita del Generale, lo denigrate,<br>lo additate come [[archetypes/rebel\|ribelle]], e il Cielo sa<br>che altro ancor peggio, perché risparmia i Sassoni,<br>e tenta di destare fiducia nel nemico;<br>che pure è la sola via alla pace: ché se<br>la guerra non s'interrompe durante la guerra, come<br>e donde può venire la pace? — Ricadano su voi i vostri flagelli!<br>Quanto [[motifs/love\|amo]] ciò che è virtuoso, tanto odio voi.<br>E qui faccio questo voto, qui m'impegno:<br>il mio [[motifs/blood\|sangue]] sprizzerà per questo Wallenstein,<br>e il mio cuore si vuoterà, goccia a goccia, prima che voi<br>gozzovigliate e [[motifs/dance\|danziate]] il giubileo sulla sua rovina. |  
-| *(didascalia)* | Esce. |
-
 
 
 <span class="atom-split" data-atom="act_1--scene_5" data-title="THE PICCOLOMINI — Act I, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="motif/journey"></span>
@@ -358,28 +208,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | OCTAVIO | Come! — to the Duke's. 'Tis close upon the hour<br>Which he appointed you for audience. Come!<br>A curse, a threefold curse, upon this [[motifs/journey\|journey]]! |
 | *(didascalia)* | [He leads QUESTENBERG off. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | QUESTENBERG, OCTAVIO PICCOLOMINI. |  
-| QUESTENBERG | Ahimè, ahimè! e sta così la cosa?<br>Come, amico! e lo lasciamo andar via<br>in questo inganno — lo lasciamo andar via?<br>Non richiamarlo all'istante, non aprirgli<br>gli occhi qui sul posto? |  
-| OCTAVIO | Egli ha aperto i miei, ora,<br>e vedo più di quanto mi piaccia. |  
-| QUESTENBERG | Che cosa? |  
-| OCTAVIO | Maledetto questo [[motifs/journey\|viaggio]]! |  
-| QUESTENBERG | Ma perché? Che cosa c'è? |  
-| OCTAVIO | Venite, venite, amico! Devo seguire subito<br>quella traccia sinistra. I miei occhi<br>ora sono aperti, e devo usarli. Venite! |  
-| *(didascalia)* | [Trascina QUESTENBERG con sé. |  
-| QUESTENBERG | E ora? Dove andate dunque? |  
-| OCTAVIO | Da lei in persona. |  
-| QUESTENBERG | Da —— |  
-| OCTAVIO | Dal Duca. Venite, andiamo — è fatta, è fatta,<br>vedo la rete che gli è stata gettata addosso.<br>Oh! non torna a me quale se n'era andato. |  
-| QUESTENBERG | Ma spiegatevi, insomma. |  
-| OCTAVIO | E ch'io non l'abbia<br>previsto, non abbia impedito questo [[motifs/journey\|viaggio]]! Perché<br>gliel'ho taciuto? — Voi avevate ragione.<br>Avrei dovuto avvertirlo! Ora è troppo tardi. |  
-| QUESTENBERG | Ma che cosa è troppo tardi? Riflettete, amico mio,<br>che mi parlate per enigmi assoluti. |  
-| OCTAVIO | Venite! — dal Duca. È vicina l'ora<br>che v'ha fissato per l'udienza. Venite!<br>Maledetto, tre volte maledetto questo [[motifs/journey\|viaggio]]! |  
-| *(didascalia)* | [Conduce via QUESTENBERG. |
 
 
 
@@ -409,31 +237,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | *(didascalia)* | [They hurry off. SENI follows slowly. A page brings the staff of command on a red cushion, and places it on the table near the DUKE'S chair. They are announced from without, and the wings of the door fly open. |
 | *(didascalia)* | [Before 15] Seni (with gravity). 1800, 1828, 1829. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | Si cambia in una sala spaziosa nella casa del Duca di Friedland. — Servi occupati a mettere in ordine tavoli e sedie. Durante ciò entra SENI, come un vecchio dottore italiano, in nero, e vestito alquanto stravagantemente. Porta un bastone bianco, col quale traccia i quadranti del cielo. |  
-| PRIMO SERVO | Su — sotto, ragazzi, sotto! Finitela. Sento la sentinella gridare: «All'armi!» Saranno qui fra un minuto. |  
-| SECONDO SERVO | Perché non ci hanno detto prima che l'udienza si sarebbe tenuta qui? Nulla di preparato — nessun ordine — nessuna istruzione — |  
-| TERZO SERVO | Già, e perché è stata contrordinata la sala del balcone, quella col gran tappeto lavorato? — là uno può guardarsi intorno. |  
-| PRIMO SERVO | Eh, questo devi chiederlo al matematico là. Dice che è una sala di malaugurio. |  
-| SECONDO SERVO | Puah! sciocchezze e frottole! Questo lo chiamo io un imbroglio. Una sala è una sala; che può mai contare il luogo nella faccenda? |  
-| SENI | Figlio mio, nulla è insignificante,<br>nulla! Eppure in ogni cosa terrena<br>primo e principalissimo è il luogo e il [[motifs/time\|tempo]]. |  
-| PRIMO SERVO | Non dirgli nulla, Nat. Il Duca stesso deve lasciargli fare la sua volontà. |  
-| *(didascalia)* | Seni (conta le sedie, metà a voce alta, metà a voce bassa, finché giunge a undici, che ripete). |  
-| SENI | Undici! numero cattivo!<br>Mettete dodici sedie.<br>Dodici! dodici segni ha lo zodiaco: cinque e sette,<br>i numeri sacri, si comprendono nel dodici. |  
-| SECONDO SERVO | E che avete da obiettare contro l'undici? Mi piacerebbe saperlo, adesso. |  
-| SENI | L'undici è — trasgressione; l'undici oltrepassa<br>i dieci comandamenti. |  
-| SECONDO SERVO | Questa è bella! e perché chiamate il cinque un numero sacro? |  
-| SENI | Il cinque è l'[[motifs/soul\|anima]] dell'uomo: ché come l'uomo<br>è impastato di bene e di male, così<br>il cinque è il primo numero composto<br>di pari e di dispari. |  
-| SECONDO SERVO | Il vecchio zerbinotto scemo! |  
-| PRIMO SERVO | Eh! ma lascialo solo, via. Mi piace sentirlo; c'è più nelle sue parole di quanto si veda a prima vista. |  
-| TERZO SERVO | Via! Vengono. |  
-| SECONDO SERVO | Là! Fuori dalla porta laterale. |  
-| *(didascalia)* | [Escono in fretta. SENI li segue lentamente. Un paggio porta il bastone del comando su un cuscino rosso, e lo posa sul tavolo presso la sedia del DUCA. Sono annunciati da fuori, e i battenti della porta si spalancano. |  
-| *(didascalia)* | [Prima di 15] Seni (con gravità). 1800, 1828, 1829. |
 
 
 
@@ -482,49 +285,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | DUCHESS | O! if there yet be [[motifs/time\|time]], my husband! if<br>By giving way and by submission, this<br>Can be averted — my dear lord, give way!<br>Win down your proud heart to it! Tell that heart<br>It is your sovereign lord, your Emperor<br>Before whom you retreat. O let no longer<br>Low tricking malice blacken your good meaning<br>With abhorred venomous glosses. Stand you up<br>Shielded and helm'd and weapon'd with the [[concepts/truth\|truth]],<br>And drive before you into uttermost shame<br>These slanderous liars! Few firm friends have we —<br>You know it! — The swift growth of our good fortune<br>It hath but set us up, a mark for hatred.<br>What are we, if the sovereign's grace and favour<br>Stand not before us? |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | WALLENSTEIN, DUCHESSA. |  
-| WALLENSTEIN | Passaste dunque per Vienna, e foste presentate<br>alla [[characters/queen\|Regina]] d'Ungheria? |  
-| DUCHESSA | Sì, e anche all'Imperatrice,<br>e da entrambe le Maestà fummo ammesse<br>al bacio della mano. |  
-| WALLENSTEIN | E come fu accolto<br>ch'io avessi fatto venir qua moglie e figlia<br>al campo, d'[[motifs/winter\|inverno]], in tale [[motifs/time\|stagione]]? |  
-| DUCHESSA | Feci appunto quello<br>che m'avevate incaricata di fare. Dissi loro<br>che avevate deciso le [[motifs/marriage\|nozze]] di nostra figlia,<br>e desideravate, prima ancora di scendere in campo,<br>mostrare allo sposo eletto la sua promessa. |  
-| WALLENSTEIN | E indovinarono la scelta ch'io avevo fatta? |  
-| DUCHESSA | Solo speravano e auguravano che non fosse caduta<br>su nobile straniero, né luterano. |  
-| WALLENSTEIN | E voi — che cosa desiderate, Elisabetta? |  
-| DUCHESSA | Il vostro volere, lo sapete, fu sempre il mio. |  
-| WALLENSTEIN | [[motifs/well\|Bene]], e dunque?<br>E in tutto il resto, di che natura e colore<br>fu la vostra accoglienza a [[settings/court\|corte]]?<br>Non celatemi nulla. Come foste ricevute? |  
-| DUCHESSA | Oh! mio caro signore, nulla è più quel ch'era.<br>Un tarlo roditore, signore, un tarlo<br>s'è insinuato nel bocciolo. |  
-| WALLENSTEIN | Ah! è così!<br>Come, furono tiepidi? mancarono all'antico rispetto? |  
-| DUCHESSA | Non al rispetto. Nessun onore fu omesso,<br>nessuna cortesia esteriore; ma in luogo<br>di quella benignità condiscendente e confidente,<br>familiare e carezzevole, mi furono date<br>solo quegli onori e quella solenne cortesia.<br>Ah! e la tenerezza che fu ostentata<br>era foggia di pietà, non di favore.<br>No! la moglie d'Albrecht, la principesca moglie del duca Albrecht,<br>la nobile figlia del conte Harrach, non così —<br>non del tutto così avrebbe dovuto esser ricevuta. |  
-| WALLENSTEIN | Sì, sì; s'ebbero a male. La mia ultima condotta,<br>l'avranno biasimata, senza [[concepts/doubt\|dubbio]]. |  
-| DUCHESSA | Oh, l'avessero fatto!<br>Da lungo tempo sono avvezza a difendervi,<br>a sanare e placare gli animi inaspriti.<br>No; nessuno vi biasimò. Si chiusero,<br>o Cielo! in un [[motifs/silence\|silenzio]] così opprimente e solenne! —<br>Qui non è malinteso d'ogni giorno,<br>non passeggero dispetto, non nube che trascorre;<br>qualcosa d'infaustissimo, d'insanabile,<br>è avvenuto. La [[characters/queen\|Regina]] d'Ungheria<br>soleva un tempo chiamarmi sua cara zia,<br>e sempre al congedo abbracciarmi — |  
-| WALLENSTEIN | Ora l'ha tralasciato? |  
-| DUCHESSA | M'abbracciò, sì,<br>ma soltanto quando avevo già preso<br>formale congedo, e quando la porta già<br>s'era chiusa dietro di me, allora uscì<br>in fretta, come se d'un tratto si fosse ricordata,<br>e mi strinse al seno, più con angoscia<br>che con tenerezza. |  
-| *(didascalia)* | *(Wallenstein le prende la mano per confortarla.)* |  
-| WALLENSTEIN | Suvvia, ricomponetevi,<br>e che di Eggenberg e di Lichtenstein,<br>e degli altri nostri amici colà? |  
-| DUCHESSA | Non ne vidi alcuno. |  
-| WALLENSTEIN | L'ambasciatore di Spagna, che un tempo soleva<br>perorare così caldamente per me? — |  
-| DUCHESSA | Muto, muto! |  
-| WALLENSTEIN | Questi soli dunque per noi sono eclissati. D'ora innanzi<br>dobbiamo rotolare avanti, [[motifs/fire\|fuoco]] nostro, luce nostra. |  
-| DUCHESSA | E fosse — fosse, mio caro signore, in ciò<br>che si aggirava per la [[settings/court\|corte]] in ronzii e bisbigli,<br>ma nel paese si lasciava udire<br>ad alta voce — in ciò che padre Lamormain<br>in vari accenni e —— |  
-| WALLENSTEIN | Lamormain! che disse? |  
-| DUCHESSA | Che siete accusato d'avere audacemente<br>oltrepassato i poteri a voi affidati, incolpato<br>di traditore disprezzo dell'Imperatore<br>e dei suoi supremi comandi. Il superbo Bavarese,<br>lui e gli Spagnoli si levano vostri accusatori —<br>che una [[motifs/storm\|tempesta]] s'aduna sopra di voi<br>di minaccia assai più tremenda di quella prima<br>che vi travolse a capofitto a Ratisbona.<br>E la gente parla, diss'egli, di —— Ah! — |  
-| *(didascalia)* | *(Soffocando un'emozione estrema.)* |  
-| WALLENSTEIN | Proseguite! |  
-| DUCHESSA | Non posso proferirlo! |  
-| WALLENSTEIN | Proseguite! |  
-| DUCHESSA | Parlano —— |  
-| WALLENSTEIN | [[motifs/well\|Ebbene]]! |  
-| DUCHESSA | D'una seconda —— |  
-| WALLENSTEIN | Seconda —— |  
-| DUCHESSA | Più ignominiosa —— Destituzione. |  
-| *(didascalia)* | *(Wallenstein attraversa la stanza a gran passi in violenta agitazione.)* |  
-| WALLENSTEIN | Parlano?<br>Oh! mi forzano, mi spingono<br>con violenza, contro il mio stesso volere, innanzi! |  
-| DUCHESSA | Oh! se v'è ancora [[motifs/time\|tempo]], marito mio! se<br>col cedere e col sottomettersi, questo<br>può essere stornato — mio caro signore, cedete!<br>Piegate a ciò il vostro cuore superbo! Dite a quel cuore<br>ch'è il vostro sovrano signore, il vostro Imperatore<br>dinanzi a cui vi ritraete. Oh, non lasciate più<br>che la bassa malizia ingannatrice annerisca il vostro buon intento<br>con odiose glosse velenose. Levatevi in piedi<br>scudato ed elmato e armato della [[concepts/truth\|verità]],<br>e cacciate innanzi a voi nell'ultima vergogna<br>questi calunniosi bugiardi! Pochi amici saldi abbiamo —<br>lo sapete! — Il rapido crescere della nostra fortuna<br>non ha fatto che erigerci a bersaglio dell'odio.<br>Che siamo noi, se la grazia e il favore del sovrano<br>non stanno innanzi a noi? |
-
 
 
 <span class="atom-split" data-atom="act_1--scene_8" data-title="THE PICCOLOMINI — Act I, Scene 8" data-chapter="Scene 8" data-kind="scene" data-tags="archetype/child,motif/home,motif/nature,motif/time,concept/hope,concept/nature"></span>
@@ -543,21 +303,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | WALLENSTEIN | The voice of my [[archetypes/child\|child]]!<br>[Then after a pause.<br>I was indignant at my destiny<br>That it denied me a man-[[archetypes/child\|child]] to be<br>Heir of my name and of my prosperous fortune,<br>And re-illume my soon extinguished being<br>In a proud line of princes.<br>I wronged my destiny. Here upon this head<br>So lovely in its maiden bloom will I<br>Let fall the garland of a life of war,<br>Nor deem it lost, if only I can wreath it<br>Transmitted to a regal ornament,<br>Around these beauteous brows. |
 | *(didascalia)* | [He clasps her in his arms as PICCOLOMINI enters.<br>[Observing the countenance of the Duchess. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | Entra la CONTESSA TERTSKY, conducendo per mano la PRINCIPESSA THEKLA,<br>riccamente adorna di brillanti.<br>CONTESSA, THEKLA, WALLENSTEIN, DUCHESSA. |  
-| CONTESSA | Come, sorella? Già alle faccende,<br>e faccende di nessuna lieta specie, a quel che vedo,<br>prima ch'egli abbia goduto della sua [[archetypes/child\|figlia]]. Il primo<br>istante spetta alla gioia. Qui, Friedland! padre!<br>Questa è tua figlia. |  
-| *(didascalia)* | (THEKLA si avvicina con aria schiva e timida, e si china<br>come per baciargli la mano. Egli l'accoglie<br>fra le braccia, e resta in piedi per qualche [[motifs/time\|tempo]]<br>perduto nel sentimento della sua presenza.) |  
-| WALLENSTEIN | Sì! pura e bella s'è levata su me la [[concepts/hope\|speranza]]:<br>la prendo come pegno di più grande fortuna. |  
-| DUCHESSA | Era appena una piccola [[archetypes/child\|bambina]] quando partisti<br>a levar quel grande esercito per l'Imperatore:<br>e poi, alla chiusa della campagna,<br>quando tornasti a [[motifs/home\|casa]] dalla Pomerania,<br>tua figlia era già nel convento,<br>dove è rimasta fino ad ora. |  
-| WALLENSTEIN | Mentre<br>noi qui sul campo davamo le nostre cure e i travagli<br>per farla grande, e conquistarle libera via<br>al più alto bene terreno, ecco! madre [[concepts/nature\|Natura]]<br>fra le quiete e silenziose mura del convento<br>ha fatto la sua parte, e per sua libera grazia<br>ha largito all'amata [[archetypes/child\|figlia]]<br>ciò che è divino; e or la conduce così adorna<br>incontro alla sua splendida sorte, e alla mia [[concepts/hope\|speranza]]. |  
-| DUCHESSA | Non avresti riconosciuto tuo padre,<br>vero, [[archetypes/child\|figlia]] mia? Contava appena otto anni,<br>quando vide il tuo volto l'ultima volta. |  
-| THEKLA | Oh sì, sì, madre!<br>Al primo sguardo! — Mio padre non è mutato.<br>La figura che mi sta davanti non smentisce<br>nessun tratto dell'immagine che è vissuta<br>tanto a lungo dentro di me! |  
-| WALLENSTEIN | La voce della mia [[archetypes/child\|figlia]]!<br>[Poi dopo una pausa.<br>M'ero sdegnato col mio destino<br>perché mi negò un [[archetypes/child\|figlio]] maschio che fosse<br>erede del mio nome e della mia prospera fortuna,<br>e riaccendesse il mio essere presto spento<br>in una fiera stirpe di principi.<br>Feci torto al mio destino. Qui su questo capo<br>così leggiadro nel suo fiore verginale io voglio<br>lasciar cadere la ghirlanda di una vita di guerra,<br>né la stimerò perduta, se solo potrò intrecciarla,<br>mutata in regale ornamento,<br>intorno a queste belle tempie. |  
-| *(didascalia)* | [La stringe fra le braccia mentre entra PICCOLOMINI.<br>[Osservando il volto della Duchessa. |
 
 
 
@@ -583,27 +328,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | *(didascalia)* | [He grasps the hand of the DUCHESS with still increasing warmth. |
 | *(didascalia)* | [Before 38] Countess (who during this [[motifs/time\|time]] has been anxiously watching the Duke, and remarks that he is lost in thought over the letters). 1800, 1828, 1829. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | Entra MAX PICCOLOMINI, e qualche [[motifs/time\|tempo]] dopo il CONTE TERTSKY, gli altri restando come prima. |  
-| CONTESSA | Ecco venire il Paladino che ci ha protette. |  
-| WALLENSTEIN | Max! Benvenuto, sempre benvenuto! Sempre fosti<br>la stella mattutina delle mie gioie migliori! |  
-| MAX | Mio Generale —— |  
-| WALLENSTEIN | Fino ad ora era l'Imperatore a ricompensarti,<br>io non ero che lo strumento. Oggi hai legato<br>a te il padre, Max! il padre fortunato,<br>e questo debito Friedland [[concepts/self\|stesso]] dovrà saldarlo. |  
-| MAX | Mio principe!<br>Non comune fu la fretta con cui l'avete trasferito.<br>Vengo con vergogna: sì, non senza una fitta!<br>Ché appena giunto qui, appena consegnate<br>la madre e la figlia alle vostre braccia,<br>ecco che dal vostro scudiero mi si reca<br>una splendida veste da caccia riccamente guarnita<br>a rimunerarmi dei miei disagi ——<br>sì, sì, rimunerarmi! Poiché un disagio<br>dev'essere stato, un mero ufficio, non un favore<br>che io balzai avanti a ricevere, e per il quale<br>venivo già col cuore colmo a ringraziarvi.<br>No! non era così inteso, che il mio incarico<br>fosse la più alta e migliore mia fortuna! |  
-| *(didascalia)* | [Entra TERTSKY, e consegna al DUCA delle lettere, ch'egli apre in fretta. |  
-| CONTESSA | Rimunerare il vostro disagio! Per la sua gioia<br>egli vi fa ricompensa. Non è sconveniente<br>per voi, Conte Piccolomini, sentire<br>così teneramente — a mio fratello si addice<br>mostrarsi sempre grande e principesco. |  
-| THEKLA | Allora anch'io devo aver scrupoli del suo [[motifs/love\|amore]]:<br>ché le sue mani munifiche mi ornarono<br>prima ancora che il cuore del padre mi parlasse. |  
-| MAX | Sì; è sua [[concepts/nature\|natura]] da sempre il donare<br>e il render felici.<br>Come il mio cuore riversa<br>tutto il suo grazie verso di lui: oh! come mi pare<br>di dire ogni cosa nel caro nome di Friedland.<br>Finché vivrò, tanto a lungo resterò<br>prigioniero di questo nome: in esso fiorirà<br>ogni mia fortuna, ogni bella [[concepts/hope\|speranza]].<br>Inestricabilmente, come in un anello magico,<br>in questo nome il mio destino m'ha avvinto! |  
-| CONTESSA | Mio fratello desidera che lo lasciamo. Venite. |  
-| WALLENSTEIN | Ancora una volta ti do il benvenuto nel campo,<br>tu sei la padrona di questa [[settings/court\|corte]]. Voi, Max,<br>tornerete ora ad assolvere il vostro antico ufficio,<br>mentre noi qui sbrighiamo gli affari del sovrano. |  
-| *(didascalia)* | [MAX PICCOLOMINI offre il braccio alla DUCHESSA, la CONTESSA accompagna la PRINCIPESSA. |  
-| TERTSKY | Max, contiamo di vedervi all'adunanza. |  
-| *(didascalia)* | [Stringe la mano della DUCHESSA con calore sempre crescente. |  
-| *(didascalia)* | [Prima del 38] Contessa (che durante questo [[motifs/time\|tempo]] ha osservato con ansia il Duca, e nota ch'egli è assorto sulle lettere). 1800, 1828, 1829. |
 
 
 
@@ -631,29 +355,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | TERTSKY | So hast thou always played thy game with us. |
 | *(didascalia)* | [Enter ILLO. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | WALLENSTEIN, CONTE TERTSKY. |  
-| WALLENSTEIN | Ella ha visto ogni cosa come sta — È così,<br>e quadra in pieno con le altre mie notizie.<br>Hanno deciso finalmente a Vienna,<br>m'hanno già dato il mio successore;<br>è il [[archetypes/king\|re]] d'Ungheria, [[characters/ferdinand\|Ferdinando]],<br>il delicato figlio dell'Imperatore! è lui ora il loro salvatore,<br>è lui la nuova stella che sorge! Di noi<br>si credono già bell'e sbarazzati,<br>e come fossimo defunti, l'erede già<br>entra in possesso — Dunque — presto! |  
-| *(didascalia)* | [Voltandosi scorge TERTSKY, e gli porge una lettera. |  
-| WALLENSTEIN | Il Conte Altringer si farà scusare,<br>e Galas anche lui — questo non mi piace! |  
-| TERTSKY | E se<br>indugi ancora, tutti si staccheranno,<br>uno dopo l'altro. |  
-| WALLENSTEIN | Altringer<br>è padrone dei passi del Tirolo. Devo subito<br>mandargli qualcuno, perché non lasci entrare<br>gli Spagnoli addosso a me dal Milanese.<br>—— [[motifs/well\|Bene]], e il vecchio Sesin, quell'antico trafficante<br>in negoziati di contrabbando, s'è<br>fatto rivedere di recente. Che porta<br>dal Conte Thur? |  
-| TERTSKY | Il Conte comunica<br>d'aver rintracciato il cancelliere svedese<br>ad Halberstadt, dove si tiene il convegno,<br>il quale dice che l'avete stancato, e che non vuole<br>più trattare con voi. |  
-| WALLENSTEIN | E perché mai? |  
-| TERTSKY | discorsi,<br>che voi adescate gli Svedesi — per prendervene gioco,<br>che vi legherete alla Sassonia contro di loro,<br>e alla fine ve ne sbarazzerete<br>con una misera somma di denaro. |  
-| WALLENSTEIN | Così dunque, senza dubbio,<br>sì, senza dubbio, questo modesto Svedese s'aspetta<br>ch'io gli ceda qualche bel tratto di Germania<br>a sua preda e bottino, sicché noi stessi alla fine,<br>sul nostro suolo e nel territorio natio,<br>non si sia più signori e padroni di noi medesimi!<br>Eccellente disegno! No, no! Se ne vadano,<br>via, via! lontano! non vogliamo vicini simili. |  
-| TERTSKY | Suvvia, cedete loro quel punto, quella briciola di terra —<br>non esce dalla vostra parte. Se vincete<br>la partita, che v'importa chi la paga? |  
-| WALLENSTEIN | Via con loro, via! Tu non intendi questo.<br>Mai si dirà di me ch'io spartii<br>la mia terra natale, che smembrai la [[settings/germany\|Germania]],<br>che la tradii in mano a uno straniero, per poi<br>venire a passo furtivo, e sgraffignare<br>la mia parte di bottino — Mai! mai! —<br>Nessuna potenza straniera metterà radice nell'impero,<br>e meno che mai questi Goti! questi lupi affamati!<br>che gettano sguardi tanto invidiosi, ardenti e ingordi<br>sulle ricche benedizioni delle nostre terre tedesche!<br>Avrò il loro aiuto per gettare e tirare le mie reti,<br>ma neppure un pesce di tutta la pesca<br>toccherà loro. |  
-| TERTSKY | Tratterete, però,<br>più lealmente coi Sassoni? Perdono la pazienza<br>mentre voi spostate il terreno e fate tanti giri.<br>Dite, a che scopo tutte queste maschere? I vostri amici<br>sono immersi nei dubbi, sconcertati, e da voi sviati.<br>C'è Oxenstirn, c'è Arnheim — nessuno dei due sa<br>che debba pensare dei vostri indugi.<br>E alla fine il bugiardo risulto io: tutto<br>passa per me. Non ho nemmeno uno scritto di vostro pugno. |  
-| WALLENSTEIN | Non do mai il mio scritto; tu lo sai. |  
-| TERTSKY | Ma come si può sapere che fate sul serio,<br>se l'atto non segue alla parola?<br>Voi stesso dovete ammettere che in tutti<br>i vostri commerci col nemico fin qui<br>avreste potuto fare senza rischio tutto ciò che avete fatto,<br>anche se non aveste inteso altro che gabbarlo<br>al servizio dell'Imperatore. |  
-| WALLENSTEIN | E donde sai tu<br>ch'io non lo stia gabbando al servizio dell'Imperatore?<br>Donde sai che non stia gabbando tutti voi?<br>Mi conosci tu così [[motifs/well\|bene]]? Quando ti feci io<br>l'intendente dei miei segreti disegni?<br>Non mi risulta d'aver mai aperto<br>a te i miei pensieri più intimi. L'Imperatore, è vero,<br>m'ha trattato male; e se volessi,<br>potrei ripagarlo con interesse usuraio<br>del male che m'ha fatto. Mi diletta<br>conoscere la mia potenza; ma se poi l'userò,<br>di questo avrei creduto che tu non sapessi parlare<br>più saviamente dei tuoi pari. |  
-| TERTSKY | Così hai sempre giocato la tua partita con noi. |  
-| *(didascalia)* | [Entra ILLO. |
 
 
 
@@ -698,46 +399,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | PAGE *(entering)* | My Lords, the Generals. |
 | WALLENSTEIN | Let them come in. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | ILLO, WALLENSTEIN, TERTSKY. |  
-| WALLENSTEIN | Come stanno le cose là fuori? Sono pronti? |  
-| ILLO | Li troverete proprio nell'umore che volete.<br>Sanno delle requisizioni dell'Imperatore,<br>e sono in tumulto. |  
-| WALLENSTEIN | Come s'è dichiarato<br>Isolan? |  
-| ILLO | È vostro, in [[motifs/soul\|anima]] e [[concepts/body\|corpo]],<br>da quando gli avete rimesso in piedi il banco del Faraone. |  
-| WALLENSTEIN | E da che parte pende Kolatto? Ti sei<br>assicurato di Tiefenbach e Deodate? |  
-| ILLO | Ciò che fa Piccolomini, quello fanno anche loro. |  
-| WALLENSTEIN | Intendi dunque ch'io possa arrischiare qualcosa con loro? |  
-| ILLO | — Se siete sicuro dei Piccolomini. |  
-| WALLENSTEIN | Non più sicuro di me [[concepts/self\|stesso]]. |  
-| TERTSKY | Eppure<br>vorrei che non vi fidaste tanto di Octavio,<br>la volpe! |  
-| WALLENSTEIN | Vuoi insegnarmi tu a conoscere il mio uomo?<br>Sedici campagne ho fatto con quel vecchio guerriero.<br>E poi, ho il suo oroscopo,<br>siamo nati entrambi sotto simili [[motifs/stars\|astri]] — in breve,<br>a ciò appartiene un suo particolare aspetto,<br>se dunque tu puoi garantirmi il resto —— |  
-| ILLO | Fra tutti loro non c'è che questa sola voce:<br>non dovete deporre il comando. Sento<br>che intendono mandarvi una deputazione. |  
-| WALLENSTEIN | Se in qualcosa devo legarmi a loro,<br>anch'essi devono legarsi a me. |  
-| ILLO | Naturalmente. |  
-| WALLENSTEIN | La loro parola d'[[concepts/honour\|onore]] devono darla, i loro giuramenti,<br>darmeli per iscritto, promettendo<br>devozione incondizionata al mio servizio. |  
-| ILLO | Perché no? |  
-| TERTSKY | Devozione incondizionata?<br>L'eccezione dei loro doveri verso l'Austria<br>la metteranno sempre fra le premesse.<br>Con questa riserva —— |  
-| WALLENSTEIN | Tutto incondizionato!<br>Niente premesse, niente riserve. |  
-| ILLO | M'è venuto un pensiero.<br>Non offre il Conte Tertsky un solenne banchetto<br>questa sera? |  
-| TERTSKY | Sì; e tutti i Generali<br>sono stati invitati. |  
-| ILLO *(a Wallenstein)* | Dite, volete qui darmi pieno<br>mandato d'usare la mia discrezione?<br>Vi guadagnerò la parola d'[[concepts/honour\|onore]] dei Generali,<br>proprio come desiderate. |  
-| WALLENSTEIN | Guadagnami le loro firme!<br>Come tu le ottenga, è affar tuo. |  
-| ILLO | E se ve la porto, nero su bianco,<br>che tutti i capi qui presenti<br>si consegnano a voi, senza condizione;<br>dite, allora — allora vi mostrerete<br>sul serio, e con qualche azione decisiva<br>metterete alla prova la vostra fortuna? |  
-| WALLENSTEIN | Le firme!<br>Guadagnami le firme. |  
-| ILLO | Cogliete, cogliete l'ora<br>prima che vi sfugga. Di rado viene il momento,<br>nella vita, che sia davvero [[concepts/sublime\|sublime]] e grave.<br>Perché una grande decisione sia possibile,<br>oh! molte cose, tutte fuggevoli e tutte rapide,<br>devono incontrarsi a un tratto: e, per avventura, così incontrate,<br>possono da quel confluire esser costrette a indugiare<br>un [[motifs/time\|tempo]] bastevole alla saggezza, benché troppo breve,<br>troppo, troppo breve [[motifs/time\|tempo]] per il [[concepts/doubt\|dubbio]] e lo scrupolo!<br>Questo è quel momento. Vedete, i capi del nostro esercito,<br>i migliori, i più nobili, sono raccolti intorno a voi,<br>loro condottiero regale! Attendono un vostro cenno.<br>I singoli fili, che qui la vostra prospera fortuna<br>ha tessuto insieme in una possente trama<br>animata di destino, oh non lasciate<br>che si sfilaccino da sé. Se permettete<br>a questi capi di separarsi, così unanimi<br>non li radunerete una seconda [[motifs/time\|volta]].<br>È l'alta marea che solleva la [[motifs/ship\|nave]] incagliata,<br>e lo spirito d'ogni singolo cresce<br>nella gran corrente delle moltitudini. Guardate:<br>sono ancora qui, qui ancora! Ma presto la guerra<br>li squarcia di nuovo l'uno dall'altro, e in piccole<br>ansie e interessi particolari<br>disperde il loro spirito, e la simpatia<br>di ciascuno col tutto. Chi oggi<br>dimentica se stesso, sospinto avanti dalla corrente,<br>tornerà sobrio, vedendo soltanto sé,<br>sentirà solo la propria debolezza, e in [[characters/speed\|fretta]]<br>farà dietrofront, e marcerà per l'antica<br>alta [[motifs/road\|strada]] del dovere, la vecchia [[motifs/road\|strada]] battuta,<br>e cercherà solo di mettersi al riparo in buon assetto. |  
-| WALLENSTEIN | Il [[motifs/time\|tempo]] non è ancora venuto. |  
-| TERTSKY | Così dite sempre.<br>Ma quando sarà [[motifs/time\|tempo]]? |  
-| WALLENSTEIN | Quando lo dirò io. |  
-| ILLO | Aspetterete gli [[motifs/stars\|astri]] e le loro ore,<br>finché l'ora terrena vi sfugga. Oh, credetemi,<br>nel vostro petto sono gli [[motifs/stars\|astri]] del vostro destino.<br>Fiducia in voi stesso, pronta risoluzione,<br>questa è la vostra [[characters/venus\|Venere]]! e il solo maligno,<br>l'unico che vi nuoccia è il [[concepts/doubt\|Dubbio]]. |  
-| WALLENSTEIN | Parli come intendi. Quante volte<br>e quante [[motifs/time\|volte]] t'ho detto che Giove,<br>quel dio lucente, tramontava alla tua nascita.<br>La tua potenza visiva non soggioga misteri;<br>occhio di talpa, tu puoi solo scavare nella terra,<br>un chiarore plumbeo t'illuminò alla vita.<br>Il comune, il terrestre, tu puoi vederlo,<br>e con utile astuzia annodare<br>il più vicino col più vicino; e in questo<br>mi fido di te e ti credo! ma tutto ciò<br>che, pieno di misterioso senso, la [[concepts/nature\|Natura]] tesse<br>e foggia nelle profondità — la scala dello spirito,<br>che da questo greve e visibile mondo di [[motifs/dust\|polvere]]<br>fino al mondo stellato, con mille gradini,<br>si edifica; su cui le potenze invisibili<br>salgono e scendono in celesti ministeri —<br>i cerchi dentro i cerchi, che si accostano<br>al sole centrale con orbita sempre più stretta —<br>questi li vede solo lo sguardo, l'occhio dissuggellato,<br>dei lieti figli di Giove nati nella luce. |  
-| *(didascalia)* | [Attraversa la stanza, poi torna, e fermandosi, prosegue. |  
-| WALLENSTEIN | Le costellazioni celesti non fanno soltanto<br>il giorno e le notti, l'[[motifs/summer\|estate]] e la [[motifs/spring\|primavera]], non soltanto<br>significano al contadino le [[motifs/seasons\|stagioni]]<br>della semina e della messe. L'azione umana,<br>anch'essa è semenza di contingenze,<br>sparsa sull'oscura terra del futuro<br>nella speranza di conciliarsi le potenze del fato.<br>Onde ci conviene cercare il [[motifs/time\|tempo]] della semina,<br>osservare gli [[motifs/stars\|astri]], sceglierne le ore propizie,<br>e seguire con occhio indagatore le case celesti,<br>se il nemico della crescita e del prosperare<br>non si nasconda, maligno, nel suo cantuccio.<br>Perciò concedimi il mio [[motifs/time\|tempo]]. Intanto<br>fa' tu la tua parte. Non so ancora dire<br>che cosa farò — solo, cedere non voglio.<br>E deporre non mi deporranno. Su questi punti<br>puoi contare. |  
-| PAGGIO *(entrando)* | Miei Signori, i Generali. |  
-| WALLENSTEIN | Fateli entrare. |
 
 
 
@@ -816,79 +477,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | *(didascalia)* | [Exit. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | WALLENSTEIN, TERTSKY, ILLO. — Entrano a loro QUESTENBERG, OCTAVIO e MAX PICCOLOMINI, BUTLER, ISOLANI, MARADAS e altri tre generali. WALLENSTEIN fa cenno a QUESTENBERG, il quale di conseguenza prende il seggio proprio di fronte a lui; gli altri seguono, disponendosi secondo il loro grado. |  
-| WALLENSTEIN | Ho compreso, è vero, la somma e il senso<br>delle vostre istruzioni, Questenberg, le ho pesate,<br>e formato il mio ultimo, assoluto proposito;<br>pur mi par conveniente che i generali<br>odano dalla vostra bocca il volere dell'Imperatore.<br>Vi piaccia dunque aprire il vostro mandato<br>dinanzi a questi nobili capitani. |  
-| QUESTENBERG | Son pronto<br>a obbedirvi; ma pregherò prima Vostra Altezza,<br>e tutti questi nobili capitani, di considerare<br>che la dignità imperiale e il diritto sovrano<br>parlano dalla mia bocca, e non la mia presunzione. |  
-| WALLENSTEIN | Vi risparmiamo ogni preambolo. |  
-| QUESTENBERG | Quando Sua Maestà<br>l'Imperatore ai suoi coraggiosi eserciti<br>presentò nella persona del duca di Friedland<br>un comandante espertissimo e famoso,<br>lo fece con lieta [[concepts/hope\|speranza]] e fiducia<br>di dare con ciò alla fortuna della guerra<br>una rapida e propizia svolta. L'inizio<br>fu favorevole ai suoi regali desideri.<br>La Boemia fu liberata dai Sassoni,<br>arrestata la corsa conquistatrice dello Svedese! Queste terre<br>cominciarono a respirare libere, mentre il duca di Friedland<br>da tutti i fiumi di [[settings/germany\|Germania]] sospingeva quaggiù<br>gli sparsi eserciti del nemico,<br>quaggiù evocava come dentro un cerchio magico<br>il Rengravio, Bernhard, Banner, Oxenstirn,<br>sì, e quello stesso [[archetypes/king\|Re]] mai vinto;<br>qui finalmente, sotto l'occhio di Norimberga,<br>per decidere il tremendo giuoco della battaglia. |  
-| WALLENSTEIN | Vi piaccia venire al punto. |  
-| QUESTENBERG | Nel campo di Norimberga il monarca svedese lasciò<br>la sua fama — nelle pianure di Lützen la vita. Ma chi<br>non restò attonito, quando il vittorioso Friedland,<br>dopo quel giorno di trionfo, quel giorno superbo,<br>mosse verso la Boemia con la [[characters/speed\|rapidità]] della fuga,<br>e sparì dal teatro della guerra;<br>mentre il giovane [[archetypes/hero\|eroe]] di Weimar s'apriva la via<br>nella Franconia, fino al Danubio, come<br>torrente d'[[motifs/winter\|inverno]] che scava e che, dove irrompe,<br>si fa da sé l'alveo; con tale improvvisa [[characters/speed\|foga]]<br>marciò, e d'un tratto ecco che innanzi a Ratisbona<br>stette a terrore d'ogni buon cristiano cattolico.<br>Allora il [[motifs/well\|benemerito]] principe di Baviera<br>implorò pronto soccorso nell'estremo bisogno;<br>l'Imperatore manda sette cavalieri al duca di Friedland,<br>sette corrieri a cavallo manda con la preghiera:<br>vi aggiunge la propria, e supplica<br>là dove, quale signore sovrano, potrebbe comandare.<br>Vana la sua supplica! In quel momento<br>il Duca ascolta solo il suo vecchio odio e rancore,<br>baratta il bene comune per appagare<br>privata [[concepts/revenge\|vendetta]] — e così cade Ratisbona. |  
-| WALLENSTEIN | Max, a qual periodo della guerra allude?<br>Qui la memoria mi vien meno. |  
-| MAX | Intende<br>quando eravamo in Slesia. |  
-| WALLENSTEIN | Ah! è così!<br>Ma che avevamo da fare là? |  
-| MAX | Cacciare<br>gli Svedesi e i Sassoni dalla provincia. |  
-| WALLENSTEIN | Vero.<br>In quella descrizione che il Ministro ha fatto<br>mi pareva d'aver dimenticato l'intera guerra. |  
-| *(didascalia)* | [A QUESTENBERG. |  
-| WALLENSTEIN | [[motifs/well\|Bene]], ma proseguite un poco. |  
-| QUESTENBERG | Sì! alla fine<br>presso il [[motifs/river\|fiume]] Oder il Duca<br>affermò la sua antica fama. Sui campi<br>di Steinau gli Svedesi deposero le armi,<br>domati senza un colpo. E qui, fra gli altri,<br>la giustizia del Cielo al suo [[archetypes/avenger\|vendicatore]]<br>consegnò quel vecchio fomentatore<br>d'insurrezioni, quella fiaccola carica di maledizioni<br>che accese questa guerra, Matthias Thur.<br>Ma era caduto in mani magnanime;<br>invece del castigo trovò ricompensa,<br>e con ricchi doni il Duca licenziò<br>l'arcinemico del suo Imperatore. |  
-| WALLENSTEIN | Lo so,<br>so che avevate già a Vienna<br>finestre e balconi tutti prenotati<br>per vederlo sul carro del boia.<br>Avrei potuto perdere la battaglia, perderla anche<br>con infamia, e conservare pur sempre le vostre grazie —<br>ma d'averli defraudati d'uno spettacolo,<br>oh! questo la buona gente di Vienna mai,<br>no, mai me lo potrà perdonare. |  
-| QUESTENBERG | Così la Slesia<br>fu liberata, e tutto chiamava a gran voce il Duca<br>in Baviera, ora incalzata da ogni parte.<br>Ed egli pose in moto le truppe: lentamente,<br>tutto a suo agio, e per la più lunga [[motifs/road\|via]]<br>attraversa la Boemia; ma prima ancora<br>d'aver visto una volta il nemico, volge le spalle,<br>rompe la marcia, e prende i quartieri d'[[motifs/winter\|inverno]]. |  
-| WALLENSTEIN | Le truppe erano miseramente prive<br>d'ogni necessario, d'ogni conforto.<br>Venne l'[[motifs/winter\|inverno]]. Di che crede Sua Maestà<br>che sian fatte le sue truppe? Non siam uomini? soggetti<br>come gli altri uomini alla pioggia, al gelo, e a tutte<br>le circostanze della necessità?<br>Oh misera sorte del povero soldato!<br>Dovunque entri, tutti fuggono davanti a lui,<br>e quando se ne va, la maledizione universale<br>lo segue per la strada. Tutto dev'essere preso,<br>nulla gli è dato. E costretto a prendere<br>da ogni uomo, è l'orrore d'ogni uomo.<br>Ecco, qui stanno i miei generali. Karaffa!<br>Conte Deodate! Butler! Dite a costui<br>da quanto è arretrata la paga dei soldati. |  
-| BUTLER | Già un anno intero. |  
-| WALLENSTEIN | Ed è il soldo<br>che costituisce il nome e i doveri del salariato:<br>la paga del soldato è il patto del soldato. |  
-| QUESTENBERG | Ah! questo è ben altro tono da quello<br>in cui parlava il Duca otto, nove anni fa. |  
-| WALLENSTEIN | Sì! è colpa mia, lo so: io stesso<br>ho viziato l'Imperatore con l'indulgenza.<br>Nove anni fa, durante la guerra danese,<br>gli levai una forza, una possente forza,<br>quaranta o cinquantamila uomini, che non gli costarono<br>della sua borsa un quattrino. Per la Sassonia<br>la dea furente della guerra avanzò,<br>fino agli scogli battuti del Baltico, portando<br>i terrori del suo nome. Quello sì fu un [[motifs/time\|tempo]]!<br>In tutto l'Impero nessun nome come il mio<br>onorato di feste e di solennità —<br>e Albrecht Wallenstein, era il titolo<br>del terzo [[motifs/jewel\|gioiello]] della sua [[motifs/crown\|corona]]!<br>Ma alla Dieta, quando i Principi si riunirono<br>a Ratisbona, là, là tutto proruppe,<br>là fu messo a nudo, là si venne a sapere<br>da quale sacca di denaro avevo pagato l'esercito.<br>E qual fu allora il mio grazie, che ebbi allora,<br>io che, fedele servitore del Sovrano,<br>m'ero caricato addosso le maledizioni del popolo,<br>e avevo lasciato che i Principi dell'impero pagassero<br>le spese di questa guerra, che ingrandisce<br>l'Imperatore soltanto — Che grazie ebbi io!<br>Che? fui offerto in sacrificio alle loro lagnanze,<br>congedato, degradato! |  
-| QUESTENBERG | Ma Vostra Altezza sa<br>quanto poca [[concepts/freedom\|libertà]] d'azione egli possedesse<br>in quella disastrosa dieta. |  
-| WALLENSTEIN | [[motifs/death\|Morte]] e inferno!<br>Avevo ciò che gli poteva procurare [[concepts/freedom\|libertà]].<br>No! Poiché mi si è mostrato tanto infausto<br>servire l'Imperatore a spese dell'impero,<br>ho imparato ben altro modo di pensare<br>dell'impero, e della dieta dell'impero.<br>Dall'Imperatore, senza dubbio, ricevetti questo bastone,<br>ma ora lo tengo come generale dell'impero —<br>per il bene comune, per l'interesse universale,<br>e non più per l'ingrandimento di quell'uomo solo!<br>Ma veniamo al punto. Che si desidera da me? |  
-| QUESTENBERG | Primo, Sua Maestà imperiale ha voluto<br>che senza pretesti di ritardo l'esercito<br>sgombri la Boemia. |  
-| WALLENSTEIN | In questa stagione?<br>E verso qual parte vuole l'Imperatore<br>che dirigiamo il cammino? |  
-| QUESTENBERG | Verso il nemico.<br>Sua Maestà risolve che Ratisbona<br>sia purgata dal nemico prima di Pasqua,<br>sì che il luteranesimo non si predichi più<br>in quella [[settings/cathedral\|cattedrale]], né eretica<br>contaminazione profani la celebrazione<br>di quella pura festa. |  
-| WALLENSTEIN | Miei generali,<br>può ciò attuarsi? |  
-| ILLO | Non è possibile. |  
-| BUTLER | Non può attuarsi. |  
-| QUESTENBERG | L'Imperatore<br>ha già comandato al colonnello Suys<br>d'avanzare verso la Baviera! |  
-| WALLENSTEIN | Che fece Suys? |  
-| QUESTENBERG | Ciò che il dovere gli imponeva. Avanzò! |  
-| WALLENSTEIN | Come? avanzò? E io, suo generale,<br>gli avevo dato ordini, ordini perentori,<br>di non [[motifs/desert\|abbandonare]] la sua posizione! Sta così<br>la mia autorità? È questa l'obbedienza<br>dovuta alla mia carica, senza la quale<br>nessuna guerra si può condurre? Capitani, parlate!<br>Siate voi i giudici, generali! Che merita<br>quell'ufficiale che, immemore del suo giuramento,<br>è colpevole di spregio degli ordini? |  
-| ILLO | [[motifs/death\|Morte]]. |  
-| WALLENSTEIN | Conte Piccolomini! che ha meritato? |  
-| MAX PICCOLOMINI | Secondo la lettera della legge,<br>[[motifs/death\|morte]]. |  
-| ISOLANI | [[motifs/death\|Morte]]. |  
-| BUTLER | [[motifs/death\|Morte]], per le leggi di guerra. |  
-| *(didascalia)* | [QUESTENBERG si alza dal seggio, WALLENSTEIN lo segue; tutti gli altri si alzano. |  
-| WALLENSTEIN | A questo lo condanna la legge, non io.<br>E se gli userò clemenza, verrà<br>dalla riverenza che devo al mio Imperatore. |  
-| QUESTENBERG | Se è così, non ho altro da dire — qui! |  
-| WALLENSTEIN | Accettai il comando solo a condizioni!<br>E questa fu la prima: che a diminuzione<br>della mia autorità nessun essere umano,<br>neppure l'Imperatore [[concepts/self\|stesso]], avesse diritto<br>di fare o dire alcunché con l'esercito.<br>Se io mi faccio garante dell'esito,<br>ponendo in pegno il mio [[concepts/honour\|onore]] e il mio capo,<br>bisogna ch'io abbia pieno dominio su tutti<br>i mezzi a ciò. Che rese quel Gustavo<br>irresistibile e invitto sopra la terra?<br>Questo — ch'egli era il monarca nel suo esercito!<br>Un monarca, uno che sia davvero monarca,<br>non fu mai domato se non dal suo pari.<br>Ma veniamo al punto! Il meglio deve ancora venire.<br>Attendete ora, generali! |  
-| QUESTENBERG | Il principe Cardinale<br>inizia il suo cammino all'approssimarsi della [[motifs/spring\|primavera]]<br>dal Milanese; e conduce un esercito spagnolo<br>attraverso la [[settings/germany\|Germania]] fino ai Paesi Bassi.<br>Perché possa marciare sicuro e senza impedimento,<br>è volere dell'Imperatore che gli concediate un distaccamento<br>di otto reggimenti di [[motifs/horse\|cavalleria]] dall'esercito qui presente. |  
-| WALLENSTEIN | Sì, sì! Capisco! — Otto reggimenti! [[motifs/well\|Bene]],<br>assai [[motifs/well\|bene]] concertato, padre Lamormain!<br>Ottomila [[motifs/horse\|cavalli]]! Sì, sì! È come dev'essere!<br>La vedo venire! |  
-| QUESTENBERG | Non viene nulla.<br>Tutto sta in vista: il consiglio della prudenza di stato,<br>il dettato della necessità! —— |  
-| WALLENSTEIN | E che dunque?<br>Che, signor Inviato? Non mi sarà concesso<br>di capire che la gente è stanca di vedere<br>l'elsa della spada nel mio pugno: e che la vostra [[settings/court\|corte]]<br>afferra avidamente questo pretesto, e usa<br>il titolo spagnolo per prosciugarmi le forze,<br>per condurre nell'impero un nuovo esercito<br>non soggetto al mio controllo. Gettarmi<br>brutalmente da parte, — sono ancora troppo potente per voi<br>perché osiate tanto. Il mio patto suona<br>che tutte le forze imperiali mi obbediscano<br>ovunque il tedesco sia la lingua nativa.<br>Di truppe spagnole e di principi cardinali<br>che prendano la loro strada, da visitatori, per l'impero,<br>non sta sillaba nel mio patto.<br>Non una sillaba! E così la politica [[settings/court\|corte]]<br>entra in punta di piedi, e le striscia dietro alle spalle;<br>prima mi rende più debole, poi superfluo,<br>finché non osi vibrare alla fine un colpo più ardito<br>e farla breve con me.<br>Che bisogno di tutte queste vie storte, signor Inviato?<br>Uomo schietto! Il patto con me stringe<br>l'Imperatore. Vorrebbe ch'io me ne andassi! —<br>[[motifs/well\|Bene]]! — Lo accontenterò! |  
-| *(didascalia)* | [Qui comincia fra i generali un'agitazione che cresce continuamente. |  
-| WALLENSTEIN | Mi duole per i miei nobili ufficiali!<br>Non vedo ancora con quali mezzi arriveranno<br>ai denari che hanno anticipato, o come otterranno<br>il compenso che i loro servigi domandano.<br>Ogni nuovo capo porta innanzi nuovi pretendenti,<br>e il merito anteriore invecchia presto.<br>Servono qui nell'esercito molti stranieri,<br>e purché l'uomo fosse in tutto il resto prode e valente,<br>non ero solito far minuto scrutinio<br>sul suo lignaggio o sul suo catechismo.<br>Sarà altrimenti nel [[motifs/time\|tempo]] che viene.<br>[[motifs/well\|Bene]] — non mi riguarda più. |  
-| *(didascalia)* | [Si mette a sedere. |  
-| MAX PICCOLOMINI | Non voglia il Cielo che si giunga a questo!<br>Le nostre truppe monteranno in tremenda fermentazione —<br>l'Imperatore è ingannato — non può essere. |  
-| ISOLANI | Non può essere; tutto va all'istante in rovina. |  
-| WALLENSTEIN | Hai detto il vero, fedele Isolani!<br>Ciò che con fatica e previdenza abbiamo edificato<br>andrà in rovina — tutto andrà all'istante in rovina.<br>E allora? un altro capo si trova presto,<br>e un altro esercito del pari (chi osa [[concepts/doubt\|dubitarne]]?)<br>accorrerà da ogni parte all'Imperatore<br>al primo rullo del suo tamburo di leva. |  
-| *(didascalia)* | [Durante questo discorso, ISOLANI, TERTSKY, ILLO e MARADAS parlano confusamente con grande agitazione. |  
-| MAX PICCOLOMINI | Udite, mio comandante! Uditemi, generali!<br>Lasciate ch'io vi scongiuri, Duca! Non decidete nulla<br>finché non ci siamo riuniti e non v'abbiamo esposto<br>le nostre comuni rimostranze. — Suvvia, più calmi! Amici!<br>[[concepts/hope\|Spero]] che tutto si possa ancora rimettere a posto. |  
-| TERTSKY | Via! andiamo via! nell'anticamera<br>troveremo gli altri. |  
-| *(didascalia)* | [Escono. |  
-| BUTLER | Se un buon consiglio ottiene<br>debita udienza dalla vostra saggezza, signor Inviato!<br>sarete cauto nel mostrarvi<br>in pubblico per qualche ora a venire — o a stento<br>quella chiave d'oro vi proteggerà dai maltrattamenti. |  
-| *(didascalia)* | [Si odono tumulti dal di fuori. |  
-| WALLENSTEIN | Consiglio salutare —— Tu, Octavio!<br>risponderai della sicurezza del nostro ospite.<br>Addio, Von Questenberg! |  
-| *(didascalia)* | [QUESTENBERG sta per parlare. |  
-| WALLENSTEIN | No, non una parola.<br>Non una parola di più su quel detestato argomento!<br>Avete compiuto il vostro dovere — Noi sappiamo<br>separare l'ufficio dall'uomo. |  
-| *(didascalia)* | [Mentre QUESTENBERG sta uscendo con OCTAVIO, irrompono GOETZ, TIEFENBACH, KOLATTO; altri generali li seguono. |  
-| GOETZ | Dov'è colui che vuol rapirci il nostro generale? |  
-| TIEFENBACH | Che siam costretti a udire?<br>Che tu ci lascerai? |  
-| KOLATTO | Vivremo con te, moriremo con te. |  
-| WALLENSTEIN | Ecco! il Feldmaresciallo conosce la nostra volontà. |  
-| *(didascalia)* | [Esce. |
-
 
 
 <span class="atom-split" data-atom="act_2--scene_2" data-title="THE PICCOLOMINI — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/blood,motif/dreams,motif/night,motif/sleep,motif/soul,motif/stars,motif/time,motif/well,motif/wind,concept/conscience,setting/court"></span>
@@ -912,26 +500,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | TERTSKY | A secret. Hush! she comes. |
 | *(didascalia)* | [Exit ILLO. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | ILLO e TERTSKY. |  
-| TERTSKY | E ora all'affare di stasera! Come pensi<br>di trattare coi generali al banchetto? |  
-| ILLO | Ascolta! Stendiam formale dichiarazione,<br>nella quale al Duca noi ci consegniamo<br>tutti insieme, per essere e restare<br>suoi in vita e in corpo, e per non risparmiare<br>l'ultima goccia del nostro [[motifs/blood\|sangue]] per lui, purché<br>così facendo non si violi giuramento o dovere<br>che all'Imperatore ci leghi. — Bada!<br>Questa riserva espressamente poniamo<br>in una clausola a parte, e salva è la [[concepts/conscience\|coscienza]].<br>Or odi! Questa formula, così concepita e scritta,<br>sarà loro presentata perché la scorrano<br>prima del banchetto. Nessuno vi troverà<br>motivo d'offesa o di scrupolo. Odi ancora!<br>Dopo il convito, quando il vino fumoso<br>apre il cuore e chiude gli occhi, lasciamo<br>che un foglio contraffatto, nel quale<br>quest'unica clausola è stata omessa,<br>giri a raccoglier firme. |  
-| TERTSKY | Come? credi tu dunque<br>ch'essi si terran legati da un giuramento<br>in cui li abbiamo indotti con un inganno? |  
-| ILLO | Li avremo presi e chiusi in gabbia! E poi<br>si spiumino pur l'ali contro i fili, e gridino<br>quanto vogliono contro il nostro tradimento:<br>a [[settings/court\|corte]] le loro firme saran credute<br>assai più delle loro più sante proteste.<br>Traditori sono, e devono esserlo; dunque, saggi,<br>faranno di necessità virtù. |  
-| TERTSKY | [[motifs/well\|Bene]], [[motifs/well\|bene]], mi contenterò; purché qualcosa<br>si faccia, purché un colpo decisivo<br>ci metta finalmente in movimento. |  
-| ILLO | Del resto, poco importa in verità<br>come, o fin dove, con ciò sospingeremo<br>i generali. Basta persuadere<br>il Duca che son suoi — ch'egli agisca solo<br>nel suo piglio risoluto, come già li avesse,<br>e li avrà. Dove egli si tuffa,<br>si fa un gorgo, e tutto vi precipita dentro. |  
-| TERTSKY | La sua politica è tale labirinto,<br>che molte [[motifs/time\|volte]], quando mi credevo<br>stretto al suo fianco, d'un tratto è sparito, lasciandomi<br>ignaro del terreno su cui stavo.<br>Presta orecchio al nemico, a me concede<br>di scriver loro, ad Arnheim; a Sesina<br>si fa innanzi egli stesso, aperto e senza maschera;<br>ci parla per ore intere dei suoi piani,<br>e quando credo d'averlo — via d'un colpo ——<br>m'è scivolato via, e sembra quasi<br>che altro disegno non abbia che tenersi il posto. |  
-| ILLO | Lui lasciare i vecchi piani! Ti dico, amico!<br>La sua [[motifs/soul\|anima]] d'altro non è occupata,<br>neppure nel [[motifs/sleep\|sonno]] — son questi i suoi pensieri, i suoi [[motifs/dreams\|sogni]],<br>ché giorno per giorno a questo fine interroga<br>i moti dei pianeti —— |  
-| TERTSKY | Sì! tu sai<br>che questa [[motifs/night\|notte]] che ora viene, egli con Seni<br>si chiude dentro la torre astrologica<br>per osservare insieme — ché, mi dicono,<br>sarà una [[motifs/night\|notte]] di peso e di crisi;<br>e qualcosa di grande, atteso da gran tempo,<br>deve muovere il suo corteo per il cielo. |  
-| ILLO | Su! siamo arditi e facciam presto. L'opera<br>in questo giorno o due deve crescere e maturare<br>più che in anni interi. E purché soltanto<br>le cose volgano propizie quaggiù ——<br>bada a quel che dico — anche le giuste [[motifs/stars\|stelle]] si mostreranno.<br>Vieni, dai generali. Tutto è nel rovente,<br>e va battuto finché è malleabile. |  
-| TERTSKY | Vacci tu, Illo. Io debbo rimanere<br>e attendere qui la contessa Tertsky. Sappi<br>che neppure noi stiamo in ozio. Rotta una corda,<br>un'altra è già pronta. |  
-| ILLO | Sì! Sì!<br>Ho visto la tua Signora sorridere con tanta astuzia.<br>Che c'è nel [[motifs/wind\|vento]]? |  
-| TERTSKY | Un segreto. Zitto! eccola che viene. |  
-| *(didascalia)* | [Esce ILLO. |
 
 
 
@@ -957,27 +525,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | COUNTESS | A truce with your precautions! |
 | *(didascalia)* | [Exeunt TERTSKY and ILLO. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | La CONTESSA esce da un gabinetto.<br>Il CONTE e la CONTESSA TERTSKY. |  
-| TERTSKY | [[motifs/well\|Ebbene]] — viene? — Non posso trattenerlo<br>più oltre. |  
-| CONTESSA | Sarà qui in un istante.<br>Tu mandalo soltanto. |  
-| TERTSKY | Non sono ben sicuro,<br>lo confesso, contessa, se con questo<br>ci guadagniamo il grazie del Duca. Sai bene,<br>nessun raggio è uscito da lui su questo punto.<br>Tu m'hai piegato, e tu stessa sai meglio<br>fin dove osi spingerti. |  
-| CONTESSA | Me ne prendo il carico. |  
-| *(didascalia)* | [Parlando fra sé, mentre avanza. |  
-| CONTESSA | Qui non occorron pieni poteri né mandati —<br>Mio nuvoloso Duca! ci intendiamo —<br>e senza parole. Che, non saprei sciogliere<br>perché la figlia sia fatta venir qua,<br>perché lui primo, e non altri, sia stato scelto<br>a condurla quaggiù! Questa finta di fidanzarla<br>a uno sposo che nessuno conosce — No! no! ——<br>Questo accechi altri! Io ti leggo dentro, fratello!<br>Ma non ti si addice di calare una carta<br>a un giuoco tale. Non ancora! — Tutto resta<br>mutamente affidato alla mia scaltrezza ——<br>[[motifs/well\|Bene]] — non sarai stato ingannato, duca di Friedland!<br>in colei che t'è sorella. —— |  
-| SERVO | I comandanti! |  
-| TERTSKY | Bada d'infiammargli la fantasia e<br>gli affetti —<br>invasalo d'un sogno, e mandalo,<br>assente e trasognato, al banchetto; sì<br>che non s'impunti innanzi alla firma. |  
-| CONTESSA | Pensa tu ai tuoi ospiti! — Va', mandalo qua. |  
-| TERTSKY | Tutto sta nella sua sottoscrizione. |  
-| CONTESSA | Va' dai tuoi ospiti! Va' —— |  
-| ILLO | Dove t'attardi, Tertsky?<br>La casa è piena, e tutti t'aspettano. |  
-| TERTSKY | Subito! Subito!   [Alla CONTESSA.<br>E non lasciarlo<br>restar qui troppo a lungo. Potrebbe destar sospetto<br>nel vecchio —— |  
-| CONTESSA | Tregua alle tue cautele! |  
-| *(didascalia)* | [Escono TERTSKY e ILLO. |
 
 
 
@@ -1013,37 +560,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | COUNTESS | Why, yes! When in the instant after you<br>I stepped into the room, and found my niece there,<br>What she in this first moment of the heart<br>Ta'en with surprise — |
 | MAX | [[motifs/well\|Well]]? |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | CONTESSA, MAX PICCOLOMINI. |  
-| MAX | Zia Tertsky? posso azzardarmi? |  
-| *(didascalia)* | [Avanza in mezzo alla scena, e si guarda intorno con inquietudine. |  
-| MAX | Non è qui!<br>Dov'è? |  
-| CONTESSA | Guardate un poco più da presso<br>in quell'angolo laggiù, ché forse giace<br>celata dietro quel paravento. |  
-| MAX | Ecco là i suoi guanti! |  
-| *(didascalia)* | [Fa per afferrarli, ma la CONTESSA li prende per sé. |  
-| MAX | Crudele signora! Anche questo mi negate —<br>vi fate un passatempo del tormentarmi. |  
-| CONTESSA | E questo è il grazie che mi rendete per la pena? |  
-| MAX | Oh, se sentiste l'oppressione del mio cuore!<br>Da quando siamo qui, doversi così costringere —<br>con sì misero furto azzardare parole e sguardi —<br>queste, queste non sono le mie usanze! |  
-| CONTESSA | Avete ancora<br>molte nuove usanze da apprendere, giovane amico!<br>Ma su questa prova del vostro docile animo<br>devo continuare a insistere; e solo<br>a questa condizione posso farmi mediatrice<br>dei vostri interessi. |  
-| MAX | Ma perché non viene?<br>Dov'è? |  
-| CONTESSA | Nelle mie mani dovete rimetterlo<br>tutto e per intero. Chi potreste trovare, invero,<br>più zelante fautrice del vostro interesse?<br>Nessun'[[motifs/soul\|anima]] al mondo deve saperlo — non vostro padre.<br>Egli meno di tutti. |  
-| MAX | Ahimè! quale pericolo?<br>Qui non v'è volto su cui io possa raccogliere<br>tutto ciò che l'[[motifs/soul\|anima]] rapita mi solleva dentro.<br>O signora! ditemi. È tutto mutato intorno a me?<br>O sono io soltanto?<br>Mi ritrovo<br>come fra estranei! Non resta traccia<br>di tutti i miei desideri d'un tempo, delle gioie d'un tempo.<br>Dove sono svaniti? Vi fu un [[motifs/time\|tempo]]<br>in cui persino, mi pareva, d'un mondo come questo<br>non ero scontento. Ora com'è piatto!<br>Com'è stantio! Non vita, non fiore, non sapore in esso!<br>I miei compagni mi sono intollerabili.<br>Mio padre — persino a lui non so dire nulla.<br>Le mie armi, i miei doveri militari — oh!<br>sono balocchi così spossanti! |  
-| CONTESSA | Ma, gentile amico!<br>devo implorarlo dalla vostra condiscendenza,<br>vi piaccia abbassare lo sguardo, e onorare<br>con una breve occhiata o due questo povero mondo stantio,<br>dove pur ora molto, e di molto momento,<br>è alla vigilia del suo compimento. |  
-| MAX | Qualcosa,<br>non posso non saperlo, si muove intorno a me.<br>La vedo addensarsi, affollarsi, incalzare,<br>in moti selvaggi e inconsueti. [[motifs/well\|Bene]],<br>a suo [[motifs/time\|tempo]], senza dubbio, giungerà anche a me.<br>Dove credete ch'io sia stato, cara signora? No,<br>niente scherni. Il tumulto del campo,<br>l'alta marea di [[motifs/spring\|primavera]] delle conoscenze che monta,<br>lo scherzo insulso, la conversazione vuota,<br>mi opprimevano e mi soffocavano. Boccheggiavo in cerca d'aria —<br>non potevo respirare — fui costretto a fuggire,<br>a cercare un [[motifs/silence\|silenzio]] per il mio cuore colmo;<br>e un luogo puro in cui sentire la mia felicità.<br>Non sorridete, Contessa! Nella chiesa io ero.<br>C'è qui un chiostro detto Porta del Cielo,<br>là andai, là mi ritrovai solo.<br>Sopra l'altare pendeva una santa madre;<br>un misero dipinto era, eppure era l'amico<br>che in quel momento cercavo. Ah,<br>quante volte ho contemplato quella forma gloriosa<br>nello splendore, fra adoranti estatici;<br>eppure non mi commoveva! e ora d'un tratto<br>fu la mia devozione limpida come il mio [[motifs/love\|amore]]. |  
-| CONTESSA | Godete la vostra fortuna e la vostra felicità!<br>Dimenticate il mondo intorno a voi. Frattanto l'[[concepts/friendship\|amicizia]]<br>veglierà severa per voi, ansiosa, operosa.<br>Solo siate docile quando quell'[[concepts/friendship\|amicizia]]<br>vi additerà la [[motifs/road\|via]] del pieno compimento.<br>Da quanto è che avete dichiarato la vostra passione? |  
-| MAX | Stamane azzardai la prima parola. |  
-| CONTESSA | Stamane la prima [[motifs/time\|volta]] in venti giorni? |  
-| MAX | Fu a quel [[settings/castle\|castello]] di caccia, fra qui<br>e Nepomuck, dove vi eravate unita a noi, e —<br>quella fu l'ultima tappa dell'intero [[motifs/journey\|viaggio]]!<br>Su un balcone stavamo muti,<br>guardando fuori sulla campagna desolata:<br>davanti a noi i dragoni cavalcavano innanzi,<br>la scorta che il Duca ci aveva mandato — greve<br>l'inquietudine del distacco mi pesava,<br>e tremando azzardai infine queste parole:<br>tutto questo mi ricorda, nobile fanciulla, che<br>oggi devo prender congedo dalla mia buona sorte.<br>Poche ore ancora, e voi troverete un padre,<br>vi vedrete circondata da nuovi amici,<br>e io d'ora innanzi non sarò che un estraneo,<br>perduto fra i molti—'Parlatene con mia zia Tertsky!'<br>con voce affrettata mi interruppe.<br>Esitò. Vidi un rosso ardente<br>invaderle le belle guance, e da terra<br>lentamente levato il suo occhio incontrò il mio — non più<br>mi dominai. |  
-| *(didascalia)* | [La PRINCIPESSA THEKLA appare sulla porta, e rimane ferma, osservata dalla CONTESSA, ma non da PICCOLOMINI. |  
-| MAX | Con subitanea audacia<br>la strinsi fra le braccia, la mia bocca toccò la sua;<br>vi fu un fruscio nella stanza vicina;<br>ci separò—eravate voi. Quel che è accaduto poi,<br>lo sapete. |  
-| CONTESSA | Ed è il vostro eccesso di modestia;<br>o siete tanto incurioso, che non<br>chiedete anche a me il mio segreto? |  
-| MAX | Il vostro segreto? |  
-| CONTESSA | Ma sì! Quando un istante dopo di voi<br>entrai nella stanza, e vi trovai mia nipote,<br>ciò che ella in quel primo moto del cuore<br>colta di sorpresa — |  
-| MAX | [[motifs/well\|Ebbene]]? |
 
 
 
@@ -1091,48 +607,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | *(didascalia)* | [Exit COUNTESS. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | THEKLA (si fa avanti in fretta), CONTESSA, MAX PICCOLOMINI. |  
-| THEKLA | Risparmiatevi la pena:<br>meglio l'udrà da me stessa. |  
-| MAX | Principessa mia!<br>Che le avete lasciato udire da me, zia Tertsky? |  
-| THEKLA | È qui da molto? |  
-| CONTESSA | Sì; e presto<br>deve andare.<br>Dove siete rimasta tanto? |  
-| THEKLA | Ahimè! mia madre<br>di nuovo piangeva tanto! e io — la vedo soffrire,<br>eppure non so trattenermi dall'essere felice. |  
-| MAX | Ora di nuovo ho il [[concepts/courage\|coraggio]] di guardarvi.<br>Oggi a [[motifs/noon\|mezzogiorno]] non potei.<br>L'abbaglio delle gemme che vi giocavano intorno<br>mi celava l'amata. |  
-| THEKLA | Allora mi vedeste<br>col solo occhio — e non col cuore? |  
-| MAX | Stamane, quando vi trovai nella cerchia<br>di tutti i vostri congiunti, fra le braccia di vostro padre,<br>e mi vidi straniero in quella cerchia,<br>oh! che impulso sentii in quel momento<br>di gettarmi al suo collo, di chiamarlo padre!<br>Ma il suo occhio severo domò la passione che saliva —<br>non osò che tacere. E quei diamanti,<br>che come una [[motifs/crown\|corona]] di [[motifs/stars\|stelle]] vi cingevano la fronte,<br>anch'essi mi atterrirono! Oh perché, perché doveva egli<br>al primo incontro stendere quasi il bando<br>d'una scomunica intorno a voi, perché<br>vestire l'angelo come per il sacrificio,<br>e gettare sul cuore lieve e gioioso<br>il lugubre peso del suo rango? Ben può<br>[[motifs/love\|amore]] osare il corteggiare per [[motifs/love\|amore]]; ma tanto splendore<br>nessuno oserebbe accostare, se non un monarca. |  
-| THEKLA | Zitto! non una parola più di questa mascherata.<br>Vedete quanto presto il peso è gettato via. |  
-| *(didascalia)* | [Alla CONTESSA. |  
-| THEKLA | Non è di buon umore. Perché non lo è?<br>Siete voi, zia, che l'avete fatto così tetro!<br>Aveva tutt'altra [[concepts/nature\|natura]] durante il [[motifs/journey\|viaggio]] —<br>così calmo, così luminoso, così gioiosamente eloquente. |  
-| *(didascalia)* | [A MAX. |  
-| THEKLA | Era mio desiderio vedervi sempre così,<br>e mai altrimenti! |  
-| MAX | Voi vi ritrovate<br>fra le braccia del vostro grande padre, amata signora!<br>tutta in un mondo nuovo, che vi rende omaggio,<br>e che, non fosse che per la sua novità,<br>diletta il vostro occhio. |  
-| THEKLA | Sì; vi confesso<br>che molte cose qui mi dilettano: questo campo,<br>questo variopinto teatro di guerrieri, che rinnova<br>così moltiplicata l'immagine della mia fantasia,<br>e lega alla vita, lega alla realtà,<br>ciò che finora m'era stato presente<br>solo come un dolce sogno! |  
-| MAX | Ahimè! non così per me.<br>Fa un sogno della mia realtà.<br>Sopra un'isola nelle altezze eteree<br>ho vissuto in questi ultimi giorni. Questa massa d'uomini<br>mi risospinge a terra. È un ponte<br>che, riconducendo alla mia vita d'un tempo,<br>divide me dal mio cielo. |  
-| THEKLA | Il gioco della vita<br>appare lieto, quando si porta nel cuore<br>il tesoro inalienabile. È un gioco<br>che, una volta passato in rassegna, mi fa tornare più lieta<br>alla mia più profonda e propria beatitudine.<br>In questo breve [[motifs/time\|tempo]] che sono stata qui,<br>quante cose nuove e inaudite non ho veduto!<br>Eppure tutte devono cedere il posto al [[concepts/wonder\|prodigio]]<br>che questo misterioso [[settings/castle\|castello]] custodisce. |  
-| CONTESSA | E che<br>può essere mai? Credevo di conoscere<br>tutti gli angoli oscuri di questa casa. |  
-| THEKLA | Sì, ma la [[motifs/road\|via]] che vi conduce è vegliata da spiriti,<br>due grifoni fanno tuttora la guardia alla porta. |  
-| *(didascalia)* | Contessa (ride). |  
-| CONTESSA | La torre astrologica! — Come avviene<br>che quel medesimo santuario, il cui accesso<br>a tutti gli altri è tanto impraticabile,<br>si apra dinanzi a voi al vostro solo appressarvi? |  
-| THEKLA | Un vecchietto nano dal volto amichevole<br>e i capelli bianchi di [[motifs/snow\|neve]], i cui gentili servigi<br>furono miei a prima vista, mi aprì le porte. |  
-| MAX | È l'astrologo del Duca, il vecchio Seni. |  
-| THEKLA | Mi interrogò su molti punti; per esempio,<br>quando nacqui, in che mese, e in qual giorno,<br>se di giorno o di [[motifs/night\|notte]]. |  
-| CONTESSA | Voleva<br>erigere una figura per il vostro oroscopo. |  
-| THEKLA | Esaminò anche la mia mano, scosse il capo<br>con molto triste significato, e le linee, mi parve,<br>non s'accordavano troppo con i suoi desideri. |  
-| CONTESSA | [[motifs/well\|Ebbene]], Principessa, e che trovaste in quella torre?<br>Il mio più alto privilegio è stato rubare<br>uno sguardo di sbieco, e via! |  
-| THEKLA | Fu una strana<br>sensazione che mi prese, quando dapprima<br>dal largo sole vi entrai; e già<br>la linea di luce che si assottigliava, correndo dietro<br>alla porta che si chiudeva, era sparita; e tutt'intorno a me<br>era pallida e fosca [[motifs/night\|notte]], con molte ombre<br>fantasticamente gettate. Qui sei o sette<br>statue colossali, e tutte di re, mi stavano intorno<br>in semicerchio. Ciascuna in mano<br>reggeva uno scettro, e sul capo una stella;<br>e nella torre non v'era altra luce<br>che da quelle [[motifs/stars\|stelle]]: tutto pareva venire da esse.<br>'Questi sono i pianeti,' disse quel piccolo vecchio,<br>'governano le sorti del mondo, e per questo<br>sono qui raffigurati come re. Quello più lontano da voi,<br>astioso, e freddo, un vecchio [[concepts/melancholy\|malinconico]],<br>dalla fronte curva e gialla, è [[characters/saturn\|Saturno]].<br>Quello di fronte, il [[archetypes/king\|re]] dalla luce rossa,<br>uomo armato per la battaglia, è Marte:<br>e questi due poca fortuna recano all'uomo.'<br>Ma al suo fianco stava una donna leggiadra,<br>la stella sul suo capo era mite e chiara,<br>e quella era [[characters/venus\|Venere]], la lucente stella della gioia.<br>Sulla sinistra, ecco! Mercurio, con le ali.<br>Proprio nel mezzo brillava d'argento<br>un uomo sereno, e con aria di monarca;<br>e questo era Giove, la stella di mio padre:<br>e al suo fianco vidi il Sole e la [[motifs/moon\|Luna]]. |  
-| MAX | Oh mai rozzamente biasimerò la sua [[concepts/faith\|fede]]<br>nella potenza delle [[motifs/stars\|stelle]] e degli angeli! Non è soltanto<br>l'[[concepts/pride\|Orgoglio]] dell'essere umano che popola lo spazio<br>di vita e di mistico dominio;<br>poiché parimenti per il cuore ferito d'[[motifs/love\|Amore]]<br>questa [[concepts/nature\|natura]] visibile, e questo mondo comune,<br>è troppo angusto: sì, un senso più profondo<br>si cela nella leggenda narrata ai miei anni infantili<br>di quanto non giaccia in quella [[concepts/truth\|verità]] che viviamo per apprendere.<br>Ché la [[forms/fable\|favola]] è il mondo d'[[motifs/love\|Amore]], la sua [[motifs/home\|casa]], il suo luogo natale;<br>con diletto egli dimora fra fate e talismani,<br>e spiriti; e con diletto crede<br>alle divinità, essendo egli stesso divino.<br>Le forme intelligibili degli antichi poeti,<br>le belle umanità dell'antica religione,<br>la Potenza, la [[concepts/beauty\|Bellezza]], e la Maestà,<br>che avevano i loro luoghi nella valle, o sul monte di pini,<br>o nel bosco presso il lento fiume, o alla [[motifs/spring\|fonte]] ghiaiosa,<br>o negli abissi e nelle profondità dell'acqua; tutte sono svanite.<br>Non vivono più nella [[concepts/faith\|fede]] della ragione!<br>Ma pure il cuore ha bisogno d'una lingua, pure<br>il vecchio istinto riporta i vecchi nomi,<br>e a quel mondo stellato ora se ne sono andati,<br>spiriti o dèi, che dividevano questa terra<br>con l'uomo come con un amico; e per l'[[archetypes/lover\|amante]]<br>lassù essi si muovono, da quel cielo visibile<br>saettano giù il loro influsso: e ancora oggi<br>è Giove che reca tutto ciò che è grande,<br>e [[characters/venus\|Venere]] che reca ogni cosa che è bella! |  
-| THEKLA | E se questa è la scienza delle [[motifs/stars\|stelle]],<br>anch'io, con lieta e zelante industria,<br>imparerò a conoscere questa serena [[concepts/faith\|fede]].<br>È un pensiero dolce e affettuoso,<br>che in altezze incommensurabili sopra di noi,<br>alla nostra prima nascita, sia stata intrecciata la ghirlanda d'[[motifs/love\|amore]],<br>con scintillanti [[motifs/stars\|stelle]] per [[motifs/flowers\|fiori]]. |  
-| CONTESSA | Non solo rose,<br>ma anche spine ha il cielo; e [[motifs/well\|bene]] per voi<br>se lasceranno intatta la vostra ghirlanda d'[[motifs/love\|amore]];<br>ciò che [[characters/venus\|Venere]] intrecciò, portatrice di lieta fortuna,<br>il cupo orbe di Marte presto [[motifs/tears\|lacera]] in pezzi. |  
-| MAX | Presto il suo tetro impero volgerà al termine.<br>Sia benedetto lo zelo del Generale: nell'alloro<br>intreccerà il ramo d'olivo, offrendo<br>pace alle nazioni esultanti. Allora nessun desiderio<br>resterà al suo gran cuore! Abbastanza<br>ha compiuto per la gloria, e ora può<br>vivere per sé e per i suoi. Nei suoi domini<br>si ritirerà; ha una sede maestosa<br>dalla veduta più bella a Gitschin; Reichenberg,<br>e il [[settings/castle\|Castello]] di Friedland, giacciono entrambi ameni —<br>fino ai piedi delle immense [[settings/mountains\|montagne]] qui<br>si stendono la caccia e il folto delle sue foreste:<br>la sua passione dominante, creare cose splendide,<br>potrà assecondarla senza freno; potrà dare<br>un principesco patrocinio a ogni arte,<br>e a ogni merito la protezione d'un Sovrano.<br>Potrà costruire, piantare, osservare i corsi degli astri — |  
-| CONTESSA | Pure vorrei che guardaste, e guardaste ancora,<br>prima di deporre le armi, giovane amico!<br>Una sposa gentile, quale ella è, [[motifs/well\|ben]] merita<br>che la corteggiate e la conquistiate con la spada. |  
-| MAX | Oh, se la spada potesse conquistarla! |  
-| CONTESSA | Che è stato?<br>Non avete udito nulla? Parve, come se udissi<br>tumulto e allarme nella sala del banchetto. |  
-| *(didascalia)* | [Esce la CONTESSA. |
-
 
 
 <span class="atom-split" data-atom="act_2--scene_6" data-title="THE PICCOLOMINI — Act II, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="motif/love,motif/secrets,motif/soul,motif/time,concept/courage,concept/faith,concept/truth,concept/union"></span>
@@ -1159,29 +633,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | MAX | O! shall we e'er be happy? |
 | THEKLA | Are we not happy now? Art thou not mine?<br>Am I not thine? There lives within my [[motifs/soul\|soul]]<br>A lofty [[concepts/courage\|courage]]—'tis [[motifs/love\|love]] gives it me!<br>I ought to be less open — ought to hide<br>My heart more from thee — so decorum dictates:<br>But where in this place could'st thou seek for [[concepts/truth\|truth]],<br>If in my mouth thou did'st not find it? |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | THEKLA e MAX PICCOLOMINI. |  
-| *(didascalia)* | Thekla (non appena la Contessa è fuori di vista, con voce rapida e bassa a Piccolomini). |  
-| THEKLA | Non fidatevi di loro! Sono falsi! |  
-| MAX | Impossibile! |  
-| THEKLA | Non fidatevi qui di nessuno tranne me. Vidi subito<br>che avevano un disegno. |  
-| MAX | Un disegno! ma quale disegno?<br>E come possiamo noi servirvi da strumento? |  
-| THEKLA | Non ne so più di voi; eppure credetemi:<br>c'è qualche trama in questo! Renderci felici,<br>compiere la nostra [[concepts/union\|unione]] — credetemi, [[motifs/love\|amore]]!<br>fingono soltanto di volerlo. |  
-| MAX | Ma questi Tertsky ——<br>perché mai servircene? Perché non vostra madre?<br>Creatura eccellente! merita da noi<br>una piena e filiale confidenza. |  
-| THEKLA | Ella vi [[motifs/love\|ama]],<br>vi stima sopra tutti gli altri — ma —<br>ma un tale segreto — non avrebbe mai<br>il [[concepts/courage\|coraggio]] di celarlo a mio padre.<br>Per la sua stessa pace dobbiamo serbarlo<br>segreto anche a lei. |  
-| MAX | Perché mai un segreto?<br>Non [[motifs/love\|amo]] i [[motifs/secrets\|segreti]]. Udite, che cosa farò.<br>Mi getterò ai piedi di vostro padre — decida egli<br>della mia sorte! — Egli è leale,<br>non porta maschera — odia ogni via storta —<br>è così buono, così nobile! |  
-| THEKLA | Tale siete voi! |  
-| *(didascalia)* | (gli si getta al collo) |  
-| MAX | Voi lo conoscete solo da stamane; ma io<br>ho già vissuto dieci anni alla sua presenza,<br>e chi sa se in questo stesso momento<br>egli non stia soltanto aspettando che noi due<br>confessiamo il nostro amore, per unirci.<br>Tacete! ——<br>Mi guardate con tanta disperazione!<br>Che avete da obiettare contro vostro padre? |  
-| THEKLA | Io? Nulla. Solo che è tanto occupato —<br>non ha [[motifs/time\|tempo]] libero per pensare<br>alla felicità di noi due. |  
-| *(didascalia)* | [Prendendogli teneramente la mano.] |  
-| THEKLA | Seguitemi!<br>Non riponiamo troppa [[concepts/faith\|fede]] negli uomini.<br>Questi Tertsky — resteremo loro grati<br>d'ogni cortesia, ma non ci fideremo oltre<br>quanto meritano; — e in tutto il resto affidiamoci ——<br>ai nostri cuori! |  
-| MAX | Oh! saremo mai felici? |  
-| THEKLA | Non siamo felici ora? Non sei tu mio?<br>Non sono io tua? Vive dentro la mia [[motifs/soul\|anima]]<br>un alto [[concepts/courage\|coraggio]]—è l'[[motifs/love\|amore]] che me lo dà!<br>Dovrei essere meno aperta — dovrei celarti<br>di più il mio cuore — così detta il decoro:<br>ma dove in questo luogo potresti cercare [[concepts/truth\|verità]],<br>se sulla mia bocca non la trovassi? |
 
 
 
@@ -1217,37 +668,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | *(didascalia)* | The text of [[motifs/lamb\|Lamb]]'s version as printed in Works, 1818, i. 42 is as<br>follows:<br>BALLAD.<br>FROM THE GERMAN.<br>The clouds are blackening, the storms threatening,<br>And ever the forest maketh a moan:<br>Billows are breaking, the [[archetypes/damsel\|damsel]]'s heart aching,<br>Thus by herself she singeth alone,<br>Weeping right plenteously.<br>The world is empty, the heart is dead surely,<br>In this world plainly all seemeth amiss:<br>To thy breast, holy one, take now thy little one,<br>I have had earnest of all earth's bliss<br>Living most lovingly. |
 | *(didascalia)* | [[motifs/spring\|Spring]], 1800.<br>The latest, &c.       [They not appearing to attend to what she says,<br>she steps between them.<br>1800, 1828, 1829. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | Entra a loro la CONTESSA TERTSKY. |  
-| CONTESSA | Venite!<br>Mio marito mi manda a cercarvi — Questo è<br>l'ultimo momento.<br>Separatevi! |  
-| THEKLA | Oh, non ancora!<br>È stato appena un istante. |  
-| CONTESSA | Già! Dunque il [[motifs/time\|tempo]]<br>vola veloce per Vostra Altezza, principessa nipote! |  
-| MAX | Non c'è fretta, zia. |  
-| CONTESSA | Via! Via!<br>La gente comincia a sentir la vostra mancanza. Già due volte<br>suo padre ha chiesto di lui. |  
-| THEKLA | Ah! suo padre? |  
-| CONTESSA | Capite bene, nipote! |  
-| THEKLA | Perché mai deve<br>andare in quella compagnia?<br>Non è compagnia per lui. Saranno pure<br>uomini degni, ma egli è troppo giovane per loro.<br>In breve, non gli si addice tale società. |  
-| CONTESSA | Volete dire che preferireste tenerlo qui del tutto? |  
-| THEKLA | Sì! l'avete colto, zia! Questo è il mio pensiero.<br>Lasciatelo qui del tutto! Dite alla compagnia — |  
-| CONTESSA | Come? avete perduto il senno, nipote? —<br>Conte, ricordate le condizioni. Venite! |  
-| MAX | Signora, devo obbedire. Addio, cara signora! |  
-| *(didascalia)* | [THEKLA si volge via da lui con un moto rapido. |  
-| MAX | Che dite dunque, cara signora? |  
-| THEKLA | Nulla. Andate! |  
-| MAX | Posso, quando siete in collera —— |  
-| *(didascalia)* | [Egli le si accosta, i loro sguardi s'incontrano, ella resta muta<br>un momento, poi si getta fra le sue braccia; egli<br>la stringe forte al cuore. |  
-| CONTESSA | Via! Cielo! se qualcuno venisse!<br>Udite! Che rumore è quello? Viene da questa parte. —— Via! |  
-| *(didascalia)* | [MAX si [[motifs/tears\|strappa]] via dalle sue braccia, e parte. La<br>CONTESSA lo accompagna. THEKLA dapprima lo segue con<br>gli occhi, poi cammina inquieta per la<br>stanza, quindi si ferma, e rimane immobile, persa nei<br>suoi pensieri. Una chitarra giace sul tavolo, ella l'afferra<br>come per un moto improvviso, e dopo aver suonato un<br>poco una sinfonia irregolare e [[concepts/melancholy\|malinconica]], si<br>abbandona a poco a poco alla musica e canta. |  
-| THEKLA (suona e canta) | S'aduna la nube, romba il bosco verde,<br>la [[archetypes/damsel\|fanciulla]] muove lungo la riva;<br>i flutti si rovesciano con forza, con forza;<br>ed ella getta la voce alla tenebrosa [[motifs/night\|notte]];<br>il suo petto si gonfia di dolore;<br>il mondo è vuoto, il cuore morirà,<br>nulla più da bramare sotto il cielo:<br>Tu, Santo, chiama a te la tua [[archetypes/child\|figlia]]!<br>Ho vissuto e amato, e questo fu oggi —<br>prepara domani i miei panni di [[motifs/grave\|tomba]]. |  
-| *(didascalia)* | [[forms/translation\|TRADUZIONE]] LETTERALE. |  
-| THEKLA (suona e canta) | La quercia mugge, le nubi s'adunano, la [[archetypes/damsel\|fanciulla]] cammina qua e là<br>sul verde della riva; l'onda si frange con forza, con forza, ed<br>ella canta nella buia [[motifs/night\|notte]], l'occhio scolorito dal pianto: il<br>cuore è morto, il mondo è vuoto, e oltre non dà più nulla<br>al desiderio. Tu, Santo, chiama la tua [[archetypes/child\|figlia]] a [[motifs/home\|casa]]. Ho goduto la<br>felicità di questo mondo, ho vissuto e ho amato. |  
-| *(didascalia)* | Non posso non aggiungere qui un'imitazione di questa canzone, della quale l'autore<br>del Racconto di Rosamond Gray e Blind Margaret mi ha fatto dono, e<br>che mi pare abbia colto la maniera più felice delle nostre antiche<br>ballate.<br>Le nubi s'annerano, le tempeste minacciano,<br>la caverna mormora, il bosco verde geme;<br>i flutti si frangono, il cuore della [[archetypes/damsel\|fanciulla]] duole,<br>così nella buia [[motifs/night\|notte]] ella canta sola,<br>l'occhio errante verso l'alto:<br>Il mondo è vuoto, il cuore è morto di certo,<br>in questo mondo tutto pare andar male;<br>al tuo cielo, o Santo, prendi a [[motifs/home\|casa]] la tua piccola,<br>ho partecipato d'ogni gioia terrena,<br>e vivendo e amando. |  
-| *(didascalia)* | Il testo della versione di [[motifs/lamb\|Lamb]], quale è stampato in Works, 1818, i. 42, è il<br>seguente:<br>BALLATA.<br>DAL TEDESCO.<br>Le nubi s'anneriscono, le tempeste minacciano,<br>e sempre la foresta leva un lamento:<br>i flutti si frangono, il cuore della [[archetypes/damsel\|fanciulla]] duole,<br>così da sé medesima ella canta solitaria,<br>piangendo a dirotto.<br>Il mondo è vuoto, il cuore è morto di certo,<br>in questo mondo tutto pare andar male:<br>al tuo seno, o santo, prendi ora la tua piccola,<br>ho avuto caparra d'ogni gioia terrena<br>vivendo con tutto l'amore. |  
-| *(didascalia)* | [[motifs/spring\|Primavera]], 1800.<br>L'ultimo, ecc.       [Non sembrando essi badare a ciò che ella dice,<br>ella si pone fra loro.<br>1800, 1828, 1829. |
 
 
 
@@ -1299,52 +719,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | *(didascalia)* | [Exit THEKLA. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | CONTESSA (ritorna), THEKLA. |  
-| CONTESSA | Vergogna, signora nipote! gettarvi su di lui,<br>come un povero dono a chi non ne ha cura,<br>e che dunque gli si debba scagliare dietro! Per voi,<br>unica [[archetypes/child\|figlia]] del duca di Friedland, avrei creduto<br>più conveniente che vi mostraste<br>più avara della vostra persona. |  
-| THEKLA | E che intendete? |  
-| CONTESSA | Intendo, nipote, che non avreste dovuto scordare<br>chi siete voi, e chi è lui. Ma forse<br>questo non v'è mai venuto in mente. |  
-| THEKLA | E allora? |  
-| CONTESSA | Che siete la figlia del principe duca di Friedland. |  
-| THEKLA | [[motifs/well\|Bene]] — e poi che altro? |  
-| CONTESSA | Come? bella domanda! |  
-| THEKLA | Egli è nato ciò che noi siamo appena divenuti.<br>È d'un'antica famiglia lombarda,<br>figlio d'una principessa regnante. |  
-| CONTESSA | Sognate forse?<br>Parlate nel [[motifs/sleep\|sonno]]? Eccellente scherzo, davvero!<br>Senza [[concepts/doubt\|dubbio]] lo pregheremo assai cortesemente<br>d'[[concepts/honour\|onorare]] con la sua mano la più ricca erede<br>d'Europa. |  
-| THEKLA | Non ce ne sarà bisogno. |  
-| CONTESSA | Sarebbe [[motifs/well\|bene]], io penso, non correre il rischio. |  
-| THEKLA | Suo padre l'ama, il conte Octavio<br>non frapporrà difficoltà —— |  
-| CONTESSA | Il suo!<br>Suo padre! il suo! Ma il vostro, nipote, che del vostro? |  
-| THEKLA | Ma comincio a credere che [[concepts/fear\|temiate]] suo padre,<br>tanto ansiosamente lo celate a quell'uomo!<br>Suo padre, il suo, voglio dire. |  
-| *(didascalia)* | CONTESSA (la guarda). |  
-| CONTESSA | Nipote, siete falsa. |  
-| THEKLA | Siete dunque ferita? Oh, fate pace con me! |  
-| CONTESSA | Tenete il vostro giuoco per già vinto. Non<br>trionfate troppo presto! — |  
-| THEKLA | Suvvia, fate pace con me. |  
-| CONTESSA | Non si è ancora giunti a tanto. |  
-| THEKLA | Vi credo. |  
-| CONTESSA | Credevate che vostro padre avesse speso<br>la sua vita così grande nei travagli di guerra,<br>negato a sé ogni quieta gioia terrena,<br>bandito il sonno dalla sua tenda, votato<br>il suo nobile capo all'affanno, e solo per questo:<br>per far di voi due una coppia felice? Alla fine,<br>per trarvi dal vostro convento, e condurre<br>in facile trionfo fra le vostre braccia l'uomo<br>che per caso piacque ai vostri occhi! Tutto questo, penso,<br>l'avrebbe potuto comprare a minor prezzo. |  
-| THEKLA | Quel che non piantò per me potrebbe pure<br>darmi da sé bel frutto di suo grado.<br>E se il mio destino amico e affettuoso,<br>fuori del suo essere tremendo ed enorme,<br>vorrà solo apprestarmi le gioie della vita —<br>Volgi lo sguardo intorno, pensa chi sei.<br>In nessuna casa di letizia sei entrata,<br>per nessuno sponsalizio trovi le pareti<br>adorne, né ospiti che portino il serto nuziale.<br>Qui non v'è splendore se non d'armi. O credi<br>che tutte queste migliaia siano qui raccolte<br>per menare le lunghe danze alle tue nozze?<br>Vedi la fronte di tuo padre grave di pensiero,<br>l'occhio di tua madre in [[motifs/tears\|lacrime]]: sulla bilancia<br>sta il gran destino di tutta la nostra casa.<br>Lascia ora il desiderio meschino, il sentire di fanciulla,<br>oh gettalo lontano dietro di te! Da' prova<br>d'esser la figlia del Potente — di colui<br>che dovunque si muove crea il meraviglioso.<br>Non a se stessa deve appartenere la donna,<br>annessa e legata a destini stranieri.<br>Ma fa la parte migliore, ed è la più saggia,<br>colei che sa mutare l'estraneo in [[concepts/self\|sé]],<br>affrontare e disarmar con la scelta la necessità;<br>e ciò che deve essere, prenderlo libera al cuore,<br>e portarlo e nutrirlo con [[motifs/love\|amore]] di madre. |  
-| CONTESSA | Tale fu sempre la mia lezione in convento.<br>Non avevo amori, non desideri, mi conoscevo<br>solo come sua — sua figlia — sua, del Potente!<br>La sua fama, l'eco del cui squillo mi giungeva<br>dalla lontananza, destò nella mia [[motifs/soul\|anima]]<br>non altro pensiero che questo — sono destinata<br>a offrire me stessa a lui in passività. |  
-| THEKLA | Questo è il tuo destino. Piega ad esso i tuoi desideri.<br>Io e tua madre te ne demmo l'esempio. |  
-| CONTESSA | Il mio destino m'ha mostrato colui al quale conviene<br>ch'io offra me stessa. Con letizia<br>lui seguirò. |  
-| THEKLA | Non il tuo destino l'ha mostrato!<br>Il tuo cuore, di' piuttosto—fu il tuo cuore, [[archetypes/child\|figlia]] mia! |  
-| CONTESSA | Il destino non ha voce se non gl'impulsi del cuore.<br>Sono tutta sua! Suo dono — suo soltanto<br>è questa nuova vita che vive in me. Egli ha<br>diritto sulla propria creatura. Che ero io<br>prima che il suo bell'[[motifs/love\|amore]] m'infondesse un'[[motifs/soul\|anima]]? |  
-| THEKLA | Ti opporresti dunque a tuo padre, s'egli<br>avesse altrimenti disposto della tua persona? |  
-| *(didascalia)* | [THEKLA rimane in silenzio. La CONTESSA prosegue. |  
-| CONTESSA | Intendi piegarlo al tuo volere? — [[archetypes/child\|Figlia]],<br>il suo nome è Friedland. |  
-| THEKLA | Anche il mio nome è Friedland.<br>Avrà trovato in me una figlia genuina. |  
-| CONTESSA | Come? egli ha vinto ogni impedimento,<br>e nell'umore ostinato della propria figlia<br>dovrà sorgergli una nuova lotta? [[archetypes/child\|Figlia]]! [[archetypes/child\|figlia]]!<br>Finora hai visto soltanto i sorrisi di tuo padre;<br>l'occhio della sua ira non l'hai visto. Cara [[archetypes/child\|figlia]],<br>non voglio spaventarti. A tale estremo,<br>spero, non si giungerà mai. La sua volontà m'è ancora<br>ignota: è possibile che i suoi fini<br>abbiano la stessa direzione del tuo desiderio.<br>Ma questo non può, mai non può essere il suo volere,<br>che tu, figlia delle sue superbe fortune,<br>t'abbassi mai a fanciulla malata d'[[motifs/love\|amore]];<br>e come una povera cosa da nulla, ti getti<br>verso l'uomo che, se mai quell'alto premio<br>gli è destinato ad attenderlo, pur con sacrifici<br>quali il più alto [[motifs/love\|amore]] può recare, dovrà pagarlo. |  
-| *(didascalia)* | [Esce la CONTESSA. |  
-| THEKLA | Ti ringrazio dell'avvertimento. Muta<br>il mio triste presentimento in certezza.<br>Ed è così! — Non un amico abbiamo qui,<br>non un cuore fedele! nulla abbiamo se non noi stessi!<br>Oh, ella disse il vero — nessun segno propizio<br>raggia su questo patto dei nostri affetti.<br>Questo non è teatro dove dimori la [[concepts/hope\|speranza]].<br>Qui si muove solo il cupo, denso fragore della guerra.<br>E l'[[motifs/love\|amore]] stesso, come fosse armato d'acciaio,<br>si fa innanzi, e si cinge per la lotta della [[motifs/death\|morte]]. |  
-| *(didascalia)* | [Si ode la musica dalla sala del banchetto. |  
-| THEKLA | C'è uno spirito oscuro che cammina nella nostra casa,<br>e rapido il Destino si chiuderà su noi.<br>Mi cacciò quaggiù dal mio calmo asilo,<br>illude la mia [[motifs/soul\|anima]] con incantevole magia,<br>mi adesca innanzi in forma di serafino,<br>lo vedo vicino, lo vedo più vicino fluttuare,<br>mi trae, mi tira con potenza divina —<br>ed ecco! l'abisso — e là io mi muovo —<br>non ho in me potere di non muovermi! |  
-| *(didascalia)* | [La musica dalla sala del banchetto si fa più forte. |  
-| THEKLA | Oh, quando una casa è destinata a perire nel [[motifs/fire\|fuoco]],<br>più d'un cielo oscuro sospinge insieme le sue nubi,<br>sì, scaglia i suoi fulmini giù da altezze soleggiate,<br>fiamme erompono dalle voragini sotterranee,<br>e demoni e angeli confusi nella loro furia<br>lanciano tizzi di [[motifs/fire\|fuoco]] contro l'edificio in fiamme. |  
-| *(didascalia)* | [Esce THEKLA. |
-
 
 
 <span class="atom-split" data-atom="act_2--scene_9" data-title="THE PICCOLOMINI — Act II, Scene 9" data-chapter="Scene 9" data-kind="scene" data-tags="motif/blood,motif/love,concept/honour,setting/castle"></span>
@@ -1369,26 +743,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | *(didascalia)* | Both seat themselves at their table. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | Una grande sala illuminata di splendore festivo; nel mezzo di essa, e al centro della scena, una tavola riccamente imbandita, alla quale siedono otto generali, fra i quali OCTAVIO PICCOLOMINI, TERTSKY e MARADAS. A destra e a sinistra di questa, ma più indietro, due altre tavole, a ciascuna delle quali son poste sei persone. La porta di mezzo, che sta aperta, lascia scorgere una quarta tavola, con lo stesso numero di persone. Più avanti sta la credenza. Tutto il proscenio è tenuto libero per i paggi e i servi di servizio. Tutto è in movimento. La banda del reggimento di Tertsky attraversa la scena e si schiera intorno alle tavole. Prima che sia del tutto uscita dal proscenio, compare MAX PICCOLOMINI; TERTSKY gli si fa incontro con un foglio, ISOLANI gli viene incontro con un boccale, ossia coppa di servizio. |  
-| *(didascalia)* | TERTSKY, ISOLANI, MAX PICCOLOMINI. |  
-| ISOLANI | Qua, fratello, ecco quel che ci [[motifs/love\|piace]]! E dove sei stato?<br>Al tuo posto — presto! Tertsky qui ha dato<br>il vino della festa materna a libero saccheggio.<br>Qui si va come al [[settings/castle\|castello]] di Heidelberg.<br>Hai già perduto il meglio. Là, a quella tavola,<br>si spartiscono a quote corone ducali;<br>si mettono all'incanto terre e beni di Sternberg,<br>con quelli d'Egenberg, di Stawata, di Lichtenstein,<br>e tutti i grandi feudi di Boemia.<br>Sii lesto, ragazzo! e qualcosa può toccare<br>anche a te — chi sa? via — al tuo posto! presto! marsch! |  
-| *(didascalia)* | Tiefenbach e Goetz (gridano dalla seconda e dalla terza tavola). |  
-| TIEFENBACH E GOETZ | Conte Piccolomini! |  
-| TERTSKY | Fermi, l'avrete fra un istante. — Leggi<br>questo giuramento, e vedi se, così com'è steso,<br>la formula ti soddisfa. Tutti l'hanno letto,<br>ciascuno a sua volta, e ciascuno apporrà<br>la propria firma individuale. |  
-| MAX *(legge)* | 'Ingratis servire nefas.' |  
-| ISOLANI | Questo mi suona all'orecchio molto simile a latino,<br>e tradotto, di grazia, che mai vorrà dire? |  
-| TERTSKY | Nessun uomo onesto serve un padrone ingrato. |  
-| MAX | 'Poiché il nostro supremo Comandante, l'illustre<br>duca di Friedland, in conseguenza dei molteplici affronti e<br>torti da lui ricevuti, aveva manifestato la sua determinazione<br>di lasciare l'Imperatore, ma su nostra unanime preghiera ha<br>benignamente acconsentito a restare ancora con l'esercito, e a non<br>separarsi da noi senza la nostra approvazione, così noi, collettivamente<br>e ciascuno in particolare, in luogo d'un giuramento prestato di persona,<br>ci obblighiamo con la presente — a tenerci del pari a lui onorevolmente e<br>fedelmente, e a non separarci da lui in nessuna maniera<br>mai, e ad esser pronti a versare per i suoi interessi l'ultima goccia del<br>nostro [[motifs/blood\|sangue]], per quanto, cioè, il nostro giuramento all'Imperatore lo<br>permetta. (Queste ultime parole sono ripetute da ISOLANI.) In fede di<br>che sottoscriviamo i nostri nomi.' |  
-| TERTSKY | Ora! — siete disposti a sottoscrivere questo foglio? |  
-| ISOLANI | E perché non dovrebbe? Ogni ufficiale d'[[concepts/honour\|onore]]<br>può farlo, anzi, deve farlo. — Penna e inchiostro qua! |  
-| TERTSKY | No, lasciate che aspetti la fine del pasto. |  
-| ISOLANI *(trascinando via Max)* | Vieni, Max. |  
-| *(didascalia)* | Entrambi siedono alla loro tavola. |
-
 
 
 <span class="atom-split" data-atom="act_2--scene_10" data-title="THE PICCOLOMINI — Act II, Scene 10" data-chapter="Scene 10" data-kind="scene" data-tags="motif/fire"></span>
@@ -1403,17 +757,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | TERTSKY | Right! lay it yonder, and away with this —<br>It has performed its business — to the [[motifs/fire\|fire]] with it — |
 | *(didascalia)* | NEUMANN lays the copy on the table and steps back again to the side-table. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | TERTSKY, NEUMANN. |  
-| *(didascalia)* | Tertsky (fa cenno a Neumann, che attende presso il tavolino, e si fa avanti con lui fino al proscenio). |  
-| TERTSKY | Hai con te la copia, Neumann? Dammela.<br>Si potrà scambiare con l'altra? |  
-| NEUMANN | L'ho ricopiata<br>lettera per lettera, riga per riga; nessun occhio<br>vi scoprirebbe mai altra differenza,<br>se non la sola omissione di quel comma,<br>secondo l'ordine di Vostra Eccellenza. |  
-| TERTSKY | Bene! Posala là, e via con questa —<br>ha compiuto il suo ufficio — al [[motifs/fire\|fuoco]] con essa — |  
-| *(didascalia)* | NEUMANN posa la copia sul tavolo e torna indietro al tavolino. |
 
 
 
@@ -1431,19 +774,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | TERTSKY | And Butler? |
 | ILLO | How goes it there? Hush! |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | ILLO (esce dalla seconda camera), TERTSKY. |  
-| ILLO | Come va col giovane Piccolomini? |  
-| TERTSKY | Bene, credo. Non ha sollevato obiezione alcuna. |  
-| ILLO | È il solo di cui io abbia [[concepts/fear\|timore]] —<br>lui e suo padre. Tienili d'occhio entrambi! |  
-| TERTSKY | Come si mette alla tua tavola: non trascuri<br>di tenerli caldi e in fermento? |  
-| ILLO | Oh, cordialissimi,<br>sono cordialissimi al disegno. Li abbiamo.<br>Ed è pure come avevo predetto. Già<br>si parla non soltanto di mantenere<br>il Duca nella sua carica. 'Poiché una volta per tutte<br>siamo uniti e unanimi, perché no,'<br>dice Montecuculi, 'sì, perché non avanti,<br>e dettare condizioni all'Imperatore<br>là nella sua stessa Vienna?' Credimi, Conte,<br>se non fosse per questi Piccolomini,<br>ci saremmo potuti risparmiare l'inganno. |  
-| TERTSKY | E Butler? |  
-| ILLO | Come va laggiù? Zitto! |
 
 
 
@@ -1471,29 +801,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | TERTSKY | Where is the master of the cellar? Ho!<br>Let the best wines come up. Ho! cheerly, boy!<br>Luck comes to-day, so give her hearty welcome. |
 | *(didascalia)* | [Exeunt, each to his table. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | Ai medesimi entra BUTLER dalla seconda tavola. |  
-| BUTLER | Non vi scomodate.<br>Feldmaresciallo, vi ho inteso perfettamente.<br>Buona fortuna al disegno; e quanto a me,<br>potete contare su di me. |  
-| ILLO | Possiamo, Butler? |  
-| BUTLER | Con o senza la clausola, per me è tutt'uno!<br>Mi comprendete? La mia fedeltà<br>il Duca la metta a qualunque prova — sono con lui!<br>Ditegli così! Sono ufficiale dell'Imperatore<br>finché a lui piaccia restare<br>generale dell'Imperatore! e servo di Friedland,<br>non appena gli piacerà diventare<br>signore di se stesso. |  
-| TERTSKY | Fareste un buon cambio.<br>Non un gretto economo, non un [[characters/ferdinand\|Ferdinando]],<br>è colui a cui impegnate i vostri servigi. |  
-| BUTLER | Io non metto la mia fedeltà<br>all'incanto, Conte Tertsky! Sei mesi fa<br>non vi avrei consigliato di farmi<br>proposta di ciò a cui ora<br>mi offro di mia libera volontà. —<br>Ma è cosa passata! e al Duca, Feldmaresciallo,<br>io porto me stesso insieme al mio reggimento.<br>E badate, è mio capriccio credere<br>che l'esempio che io do non resterà<br>senza influenza. |  
-| ILLO | Chi ignora<br>che tutto l'esercito guarda al Colonnello Butler<br>come a una luce che gli cammina innanzi? |  
-| BUTLER | Eh?<br>Allora non mi pento di quella fedeltà<br>che per la lunghezza di quarant'anni ho tenuta,<br>se nel mio sessantesimo anno il mio vecchio buon nome<br>può comprarmi una [[concepts/revenge\|vendetta]] così piena.<br>Non trasalite a ciò che dico, signori Generali!<br>I miei veri motivi — non riguardano voi.<br>E voi stessi, confido, non potevate attendervi<br>che questo vostro gioco m'avesse storto il giudizio — o<br>che volubilità, [[motifs/blood\|sangue]] caldo, o simile lieve causa<br>avessero scacciato il vecchio dal sentiero dell'[[concepts/honour\|onore]]<br>che così a lungo aveva calcato. — Suvvia, amici miei!<br>Non per questo vi sono risoluto con minor fermezza,<br>perché conosco e ho guardato fisso<br>ciò su cui mi sono risoluto. |  
-| ILLO | Dite,<br>e parlate schietto: che dobbiamo ritenervi? |  
-| BUTLER | Un amico! Ecco, vi do la mia mano! Sono vostro<br>con tutto ciò che ho. Non solo uomini, ma denaro<br>vorrà il Duca. —— Andate, diteglielo, signori!<br>Ho guadagnato e messo da parte qualcosa al suo servizio,<br>glielo presto; e se egli mi sopravvive,<br>gli è già stato lasciato in eredità da gran tempo.<br>È lui il mio erede. Quanto a me, sto solo<br>qui nel mondo; nulla so di quel sentimento<br>che lega il marito a una moglie e a dei figli.<br>Il mio nome muore con me, la mia esistenza finisce. |  
-| ILLO | Non è il vostro denaro che gli occorre — un cuore<br>come il vostro pesa più di tonnellate d'oro, più di milioni! |  
-| BUTLER | Venni, semplice ragazzo di soldato, dall'Irlanda<br>a Praga — e con un padrone, che seppellii.<br>Dall'infimo servizio di stalla salii,<br>tale fu la sorte della guerra, a questo alto grado,<br>trastullo di una bizzarra buona fortuna.<br>E anche Wallenstein è un [[archetypes/child\|figlio]] della sorte,<br>[[motifs/love\|amo]] una fortuna che somiglia alla mia. |  
-| ILLO | Tutte le anime potenti hanno fra loro parentela. |  
-| BUTLER | Questo è un momento tremendo! per il prode,<br>per il risoluto, un momento propizio.<br>Il Principe di Weimar s'arma, sul Meno,<br>per fondare un possente ducato. Quel di Halberstadt,<br>quel Mansfeld, non gli mancò che una vita più lunga<br>per segnarsi con la sua buona spada un dominio<br>che premiasse il suo [[concepts/courage\|coraggio]]. Chi di costoro<br>eguaglia il nostro Friedland? non v'è nulla, nulla<br>di tanto alto ch'egli non possa appoggiarvi la scala! |  
-| TERTSKY | Questo è parlare da uomo! |  
-| BUTLER | Assicuratevi voi lo Spagnolo e l'Italiano —<br>io vi farò da garante per lo Scozzese Lesly.<br>Venite! alla compagnia! |  
-| TERTSKY | Dov'è il maestro di cantina? Olà!<br>Si portino su i vini migliori. Olà! allegro, ragazzo!<br>Oggi viene la fortuna: le si faccia cordiale accoglienza. |  
-| *(didascalia)* | [Escono, ciascuno alla propria tavola. |
 
 
 
@@ -1547,54 +854,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | *(didascalia)* | [They rise at all the tables, the Servants hurry off the front of the stage to the tables; part of the guests come forward.] |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | Il Maestro di Cantina avanzando con NEUMANN, Servi che vanno e vengono. |  
-| MAESTRO DI CANTINA | Il vino migliore! Oh! se la mia vecchia padrona, la signora sua madre, potesse vedere questi sfrenati andamenti, si rivolterebbe nella sua [[motifs/grave\|tomba]]. Sì, sì, signor ufficiale! è tutto un rotolare giù per la [[motifs/hill\|china]], per questa nobile casa! nessun limite, nessuna misura! E questo [[motifs/marriage\|matrimonio]] con la sorella del Duca, una splendida parentela, una splendidissima parentela! ma ve lo dico io, signor ufficiale, non promette nulla di buono. |  
-| NEUMANN | Il Cielo non voglia! Ma via, proprio in questo momento tutta la prospettiva è in boccio e in fiore! |  
-| MAESTRO DI CANTINA | Credete? — [[motifs/well\|Bene]], [[motifs/well\|bene]]! molto si potrebbe dire su questo punto. |  
-| PRIMO SERVO | *(entra)* Borgogna per la quarta tavola. |  
-| MAESTRO DI CANTINA | Ecco, signor tenente, se questa non è la settantesima fiasca —— |  
-| PRIMO SERVO | Eh, la ragione è che quel signore tedesco, Tiefenbach, siede a quella tavola. |  
-| MAESTRO DI CANTINA | *(continuando il suo discorso a Neumann)* Volano troppo alto. Vorrebbero gareggiare con re ed elettori in pompa e splendore; e dovunque il Duca salti, non un minuto indugia sull'orlo il mio grazioso padrone, il Conte —— *(Ai Servi)* — Che state lì ad ascoltare? Fra poco vi farò sapere che avete le gambe. Via! badate alle tavole, badate alle fiasche! Guardate là! Il Conte Palfi ha davanti un bicchiere vuoto! |  
-| FATTORINO | *(entra)* Si chiede la gran coppa di parata, signore; quella ricca coppa d'oro con sopra le armi di Boemia. Il Conte dice che sapete qual è. |  
-| MAESTRO DI CANTINA | Ah sì! quella fu fatta per l'incoronazione di Federico dall'[[archetypes/artist\|artista]] Guglielmo — non ci fu un altro trofeo simile in tutto il bottino di Praga. |  
-| FATTORINO | Proprio quella! — vi si vuol far girare dentro un brindisi. |  
-| MAESTRO DI CANTINA | Questa sarà roba per i delatori — questa va a Vienna. |  
-| NEUMANN | Permettete che la guardi. — [[motifs/well\|Davvero]], questa sì che è una coppa! Com'è pesante! e a ragione può [[motifs/well\|bene]] esserlo, essendo tutta d'oro. — E che cose nitide vi sono sbalzate! come appaiono naturali ed eleganti! Là, su quel primo quarto, vediamo. Quella fiera Amazzone là a cavallo, quella che spicca un salto oltre il pastorale e le mitre, e porta su una bacchetta un cappello insieme a un vessillo, sul quale è raffigurato un calice. Sapete dirmi che cosa significa tutto questo? |  
-| MAESTRO DI CANTINA | La donna che vedete là a cavallo è la Libera Elezione della [[motifs/crown\|Corona]] di Boemia. Ciò è significato dal cappello tondo e da quel focoso destriero che ella cavalca. Il cappello è l'[[concepts/pride\|orgoglio]] dell'uomo; ché chi non può tenere il cappello in capo davanti a re e imperatori non è uomo libero. |  
-| NEUMANN | Ma che cos'è il calice là sul vessillo? |  
-| MAESTRO DI CANTINA | Il calice significa la [[concepts/freedom\|libertà]] della Chiesa boema, quale era ai tempi dei nostri avi. I nostri avi, nelle guerre degli Ussiti, strapparono al Papa questo nobile privilegio: perché il Papa, sapete, non concede il calice a nessun laico. Il vero moravo non stima nulla al di sopra del calice; è il suo prezioso [[motifs/jewel\|gioiello]], ed è costato ai Boemi il loro caro [[motifs/blood\|sangue]] in molte e molte battaglie. |  
-| NEUMANN | E che dice quella carta che pende là in aria, sopra ogni cosa? |  
-| MAESTRO DI CANTINA | Quella significa la lettera regia di Boemia, che strappammo all'Imperatore Rodolfo — una pergamena preziosa, non mai abbastanza stimata, che assicura alla nuova Chiesa gli antichi privilegi del libero suonare a campane e del salmodiare aperto. Ma da quando quel di Steiermärk regna su di noi, tutto ciò è finito; e dopo la battaglia di Praga, in cui il Conte Palatino Federico perdette [[motifs/crown\|corona]] e impero, la nostra [[concepts/faith\|fede]] pende dal pulpito e dall'altare — e i nostri fratelli guardano le loro case da sopra la spalla; ma la lettera regia l'Imperatore stesso la tagliò a pezzi con le sue forbici. |  
-| NEUMANN | Ma bravo, mio buon Maestro di Cantina! siete assai versato nelle cronache del vostro paese! |  
-| MAESTRO DI CANTINA | Tali furono i miei avi, e per questo furono menestrelli, e servirono sotto Procopio e Ziska. Pace alle loro ceneri! [[motifs/well\|Bene]], [[motifs/well\|bene]]! comunque combatterono per una buona causa — Ecco! portala su! |  
-| NEUMANN | Fermo! lasciami solo guardare questo secondo quarto. Guarda là! Quello è quando al [[settings/castle\|Castello]] di Praga i Consiglieri Imperiali, Martinitz e Stawata, furono precipitati giù a capofitto. È proprio così! là sta il Conte Thur che lo comanda. |  
-| *(didascalia)* | [Il Fattorino prende la coppa di parata e se ne va con essa. |  
-| MAESTRO DI CANTINA | Oh, ch'io non senta mai più parlare di quel giorno. Era il ventitreesimo di maggio, nell'anno del Signore milleseicentodiciotto. Mi pare fosse appena ieri — da quel giorno sciagurato tutto cominciò, tutti gli affanni del paese. Da quel giorno sono ormai sedici anni, e non c'è stata una sola volta pace sulla terra. |  
-| *(didascalia)* | [Brindisi gridato a voce alta alla seconda tavola.]<br>Il Principe di Weimar! Urrà!<br>[Alla terza e alla quarta tavola.]<br>Viva il Principe Guglielmo! Viva il Duca Bernardo! Urrà! [Attacca la musica.] |  
-| PRIMO SERVO | Sentili! Sentili! Che baccano! |  
-| SECONDO SERVO | *(entra di corsa)* Avete sentito? Hanno brindato alla salute del Principe di Weimar. |  
-| TERZO SERVO | Il Comandante in capo svedese! |  
-| PRIMO SERVO | *(parlando nello stesso [[motifs/time\|tempo]])* Il Luterano! |  
-| SECONDO SERVO | Poco prima, quando il Conte Deodate propose la salute dell'Imperatore, erano tutti zitti come un topo che rosicchia. |  
-| MAESTRO DI CANTINA | Ma va', ma va'! Quando il vino entra, escono cose strane. Un buon servo sente, e non sente! — Non dovete essere che occhi e piedi, se non quando siete chiamati. |  
-| SECONDO SERVO | *(al Fattorino, cui dà di nascosto una fiasca di vino, tenendo d'occhio il Maestro di Cantina, che sta fra lui e il Fattorino)* Presto, Thomas! prima che il Maestro di Cantina venga da questa parte—è una fiasca di Frontignac! — L'ho arraffata alla terza tavola. — Riesci a portarla via? |  
-| FATTORINO | *(la nasconde in tasca)* Va bene! |  
-| *(didascalia)* | [Esce il Secondo Servo.] |  
-| TERZO SERVO | *(a parte, al Primo)* Sta' in orecchi, Jack! così avremo ben molto da raccontare a padre Quivoga — Lui in cambio ci darà ben molta assoluzione. |  
-| PRIMO SERVO | Proprio per questo ho sempre qualcosa da fare dietro la sedia di Illo. — È l'uomo dei discorsi da farti restare a bocca aperta! |  
-| MAESTRO DI CANTINA | *(a Neumann)* Chi sarà mai, di grazia, quell'uomo bruno, quello con la [[motifs/cross\|croce]], che chiacchiera così confidenzialmente con Esterhats? |  
-| NEUMANN | Eh sì! anche lui è di quelli a cui si confida troppo. Si fa chiamare Maradas, ed è uno Spagnolo. |  
-| MAESTRO DI CANTINA | *(con impazienza)* Spagnolo! Spagnolo! — Ve lo dico io, amico; nulla di buono viene da quegli Spagnoli. Tutti questi tipi forestieri sono poco meglio che furfanti. |  
-| NEUMANN | Via, via! non dovreste dir così, amico. Fra loro ci sono i nostri migliori generali, e quelli su cui il Duca in questo momento più si affida. |  
-| MAESTRO DI CANTINA | *(togliendo la fiasca dalla tasca del Fattorino)* Figliolo, ti si romperà in mille pezzi nella tasca. |  
-| *(didascalia)* | [TERTSKY entra in fretta, porta via la carta, e chiede a un Servo penna e inchiostro, e va in fondo alla scena.] |  
-| MAESTRO DI CANTINA | Il Luogotenente Generale si alza. — State all'erta. — Ora! Si sciolgono. — Via, e spostate indietro le panche. |  
-| *(didascalia)* | [Si alzano a tutte le tavole, i Servi si affrettano via dal proscenio verso le tavole; parte degli ospiti si fa avanti.] |
-
 
 
 <span class="atom-split" data-atom="act_2--scene_14" data-title="THE PICCOLOMINI — Act II, Scene 14" data-chapter="Scene 14" data-kind="scene" data-tags="motif/night,motif/snow,motif/soul,motif/time,motif/well"></span>
@@ -1643,50 +902,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | *(didascalia)* | The paper comes to BUTLER, who goes to the table to subscribe it. The front of the stage is vacant, so that both the PICCOLOMINIS, each on the side where he had been from the commencement of the scene, are now conspicuous. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | OCTAVIO PICCOLOMINI entra conversando con MARADAS, ed entrambi si collocano proprio sull'orlo della scena, da un lato del proscenio. Dal lato direttamente opposto, MAX PICCOLOMINI, solo, assorto nei suoi pensieri, e senza prender parte a nulla di quanto accade. Lo spazio di mezzo fra i due, ma un po' più discosto dall'orlo della scena, è occupato da BUTLER, ISOLANI, GOETZ, TIEFENBACH e KOLATTO. |  
-| ISOLANI | Buona [[motifs/night\|notte]], buona [[motifs/night\|notte]], Kolatto! Buona [[motifs/night\|notte]], Luogotenente Generale! — Dovrei piuttosto dire, buon giorno. |  
-| GOETZ | Nobile fratello! |  
-| TIEFENBACH | Eh sì! fu davvero un banchetto regale. |  
-| GOETZ | Sì, la signora Contessa se ne intende, di queste cose.<br>Gliel'ha insegnato la suocera, il cielo n'abbia in pace l'[[motifs/soul\|anima]]! — Ah!<br>quella sì che era una massaia! |  
-| TIEFENBACH | Non c'era la sua pari in tutta la Boemia nell'imbandire una tavola. |  
-| OCTAVIO | Fatemi il favore di parlarmi — parlate di ciò che volete — o di nulla. Serbate almeno l'apparenza di conversare. Non vorrei restare in disparte da solo, e tuttavia congetturo che qui accadranno cose degne della nostra attenta osservazione. |  
-| ISOLANI | Lumi! lumi! |  
-| TERTSKY | Nobile fratello! ancora due minuti! — Ecco qui qualcosa da sottoscrivere. |  
-| ISOLANI | Sottoscrivo quanto vi piace — ma dovete dispensarmi dal leggerlo. |  
-| TERTSKY | Non ce n'è bisogno. È il giuramento che avete già letto. — Solo qualche tratto della vostra penna! |  
-| *(didascalia)* | ISOLANI porge rispettosamente la carta a OCTAVIO. |  
-| TERTSKY | No, no, chi prima arriva prima è servito. Qui non c'è precedenza. |  
-| *(didascalia)* | OCTAVIO scorre la carta con apparente indifferenza. TERTSKY lo osserva da qualche distanza. |  
-| GOETZ | Nobile Conte! col vostro permesso — Buona [[motifs/night\|notte]]. |  
-| TERTSKY | Che fretta c'è? Suvvia, ancora un sorso per conciliare il sonno. (Ai Servi) — Olà! |  
-| GOETZ | Scusatemi — non ce la faccio. |  
-| TERTSKY | Un ditale appena! |  
-| GOETZ | Scusatemi. |  
-| TIEFENBACH | Perdonatemi, nobili signori! — Questo stare in piedi non mi si confà. |  
-| TERTSKY | Consultate solo il vostro comodo, Generale! |  
-| TIEFENBACH | Lucido di testa, sano di stomaco — solo che le gambe non mi reggono più. |  
-| ISOLANI | Povere gambe! e come potrebbero? Un carico così spietato! |  
-| *(didascalia)* | OCTAVIO sottoscrive il proprio nome, e porge la carta a TERTSKY, che la dà a ISOLANI; e questi va alla tavola per firmare il proprio nome. |  
-| TIEFENBACH | Fu quella guerra in Pomerania a portarmelo addosso la prima volta. Fuori con ogni tempo — ghiaccio e [[motifs/snow\|neve]] — non c'era rimedio. — Non ne verrò a capo per tutti i giorni della mia vita. |  
-| GOETZ | Eh, a dire il vero, il vostro Svedese non sta a fare indagini tanto delicate sulla stagione. |  
-| TERTSKY | L'avete da molto quel brutto malanno, nobile fratello? — Sbrigatevi. |  
-| ISOLANI | Peccati di gioventù! Ho già provato le acque ferruginose. [[motifs/well\|Ebbene]] — bisogna sopportarlo. |  
-| *(didascalia)* | TERTSKY dà la carta a MARADAS; questi si accosta alla tavola per sottoscrivere. |  
-| OCTAVIO | Non siete troppo amante delle orge di Bacco, Colonnello! l'ho osservato. Credo che vi trovereste più a vostro genio nel fragore di una battaglia che in quello di un banchetto. |  
-| BUTLER | Devo confessarlo, non è cosa per me. |  
-| OCTAVIO | E nemmeno per me, ve l'assicuro; e non poco mi rallegra, mio onoratissimo Colonnello Butler, che le nostre opinioni si accordino così [[motifs/well\|bene]]. Una mezza dozzina di buoni amici al più, a un piccolo tavolo rotondo, un bicchiere di Tokay genuino, cuori aperti e una conversazione ragionevole — ecco il mio gusto! |  
-| BUTLER | E anche il mio, quando lo si può avere. |  
-| *(didascalia)* | La carta giunge a TIEFENBACH, che la scorre nello stesso [[motifs/time\|tempo]] insieme a GOETZ e KOLATTO. MARADAS nel [[motifs/time\|mentre]] torna da OCTAVIO; tutto ciò accade mentre la conversazione con BUTLER procede ininterrotta. |  
-| OCTAVIO | Don Balthasar Maradas! anch'egli uomo della nostra tempra, e da gran tempo vostro ammiratore. |  
-| *(didascalia)* | BUTLER s'inchina. |  
-| OCTAVIO | Siete straniero qui—soltanto ieri siete arrivato — ignorate gli usi e i modi del luogo. È un posto miserabile — lo so, alla nostra età si ama star comodi e tranquilli — E se cambiaste alloggio? — Venite, siate mio ospite. (BUTLER fa un profondo inchino.) Ma via, senza complimenti! — Per un amico come voi mi resta ancora un cantuccio. |  
-| BUTLER | Vostro obbligato umile servitore, signor Luogotenente Generale! |  
-| *(didascalia)* | La carta giunge a BUTLER, che va alla tavola per sottoscriverla. Il proscenio resta vuoto, sicché entrambi i PICCOLOMINI, ciascuno dal lato in cui si trovava fin dall'inizio della scena, ora spiccano in vista. |
-
 
 
 <span class="atom-split" data-atom="act_2--scene_15" data-title="THE PICCOLOMINI — Act II, Scene 15" data-chapter="Scene 15" data-kind="scene" data-tags="motif/cross,motif/silence,motif/time,motif/well"></span>
@@ -1715,31 +930,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | ISOLANI | (pointing to Max). Look! that is your man, that statue there, who has had neither eye, ear, nor tongue for us the whole evening. |
 | *(didascalia)* | [MAX receives the paper from TERTSKY, which he looks upon vacantly. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | Ottavio (dopo aver per qualche [[motifs/time\|tempo]] osservato in [[motifs/silence\|silenzio]] il figlio, gli si fa alquanto più vicino). |  
-| OCTAVIO | Sei stato a lungo lontano da noi, amico! |  
-| MAX | Io —— affari urgenti mi hanno trattenuto. |  
-| OCTAVIO | E, m'accorgo, sei lontano ancora! |  
-| MAX | Sai che questa calca e questo strepito mi fanno sempre tacere. |  
-| OCTAVIO | Mi si conceda di chiedere quali affari furono che ti trattennero? Tertsky lo sa senza domandarlo! |  
-| MAX | Che cosa sa Tertsky? |  
-| OCTAVIO | Fu il solo che non sentì la tua mancanza. |  
-| ISOLANI | [[motifs/well\|Ben]] detto, padre! Frugagli il bagaglio! Assaltagli l'alloggio! là c'è qualcosa che non dovrebbe esserci. |  
-| TERTSKY | (con il foglio). Non ne manca nessuno? Hanno sottoscritto tutti? |  
-| OCTAVIO | Tutti. |  
-| TERTSKY | (chiamando ad alta voce). Ehi! Chi sottoscrive? |  
-| BUTLER | (a Tertsky). Conta i nomi. Devono essere giusto trenta. |  
-| TERTSKY | Qui c'è una [[motifs/cross\|croce]]. |  
-| TIEFENBACH | È il mio segno. |  
-| ISOLANI | Non sa scrivere; ma la sua [[motifs/cross\|croce]] è una buona [[motifs/cross\|croce]], ed è onorata tanto dagli Ebrei [[motifs/well\|quanto]] dai Cristiani. |  
-| OCTAVIO | (incalzando verso Max). Vieni, generale! andiamo. È tardi. |  
-| TERTSKY | Un solo Piccolomini ha firmato. |  
-| ISOLANI | (additando Max). Guarda! ecco il tuo uomo, quella statua là, che per tutta la sera non ha avuto per noi né occhio, né orecchio, né lingua. |  
-| *(didascalia)* | [MAX riceve da TERTSKY il foglio, e lo guarda con occhio assente. |
 
 
 
@@ -1798,60 +988,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | MAX | *(rushes on him suddenly and disarms him, then to Count Tertsky)* Take him off to bed. |
 | *(didascalia)* | [MAX [[motifs/leaves\|leaves]] the stage. ILLO cursing and raving is held back by some of the Officers, and amidst a universal confusion the curtain drops. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | A costoro si aggiunge ILLO, che entra dalla stanza interna. Ha in mano la coppa d'oro del servizio, ed è oltremodo alterato dal bere: GOETZ e BUTLER lo seguono, sforzandosi di trattenerlo. |  
-| ILLO | Che volete? Lasciatemi andare. |  
-| GOETZ E BUTLER | Non bere più, Illo! Per amor del cielo, non bere più. |  
-| ILLO | *(si accosta a Ottavio, gli stringe cordialmente la mano, poi beve)* Ottavio! Bevo alla tua salute! Ogni rancore s'anneghi in questa coppa amica! So [[motifs/well\|bene]] che non mi avete mai amato — il diavolo mi porti! — e io non ho mai amato voi! — In queste cose io sono sempre pari con la gente! — Quel che è stato sia stato — cioè, m'intendete — dimenticato! Vi stimo infinitamente.<br>*(Abbracciandolo più volte.)* Non avete al mondo amico più caro di me — ma questo lo sapete. Chi vi grida briccone chiama me [[archetypes/villain\|furfante]] — e io lo strangolo! — caro il mio amico! |  
-| TERTSKY | *(sussurrandogli)* Sei in te? Per amor del cielo, Illo! pensa dove ti trovi! |  
-| ILLO | *(ad alta voce)* Che intendi dire? — Qui non ci sono che amici, non è vero? Non c'è tra noi una spia, grazie al cielo! |  
-| TERTSKY | *(a Butler)* Portalo via con te, portalo via a forza, te ne scongiuro, Butler! |  
-| BUTLER | *(a Illo)* Maresciallo! una parola con voi. |  
-| *(didascalia)* | [Lo conduce alla credenza. |  
-| ILLO | Mille per uno! Riempi — riempila ancora fino all'orlo. — Alla salute di questo prode! |  
-| ISOLANI | *(a Max, che per tutto questo tempo ha fissato il foglio con occhi immobili ma vuoti)* Adagio e sicuro, mio nobile fratello! — L'hai già decifrato tutto? — Restano ancora parole da scorrere? — Eh? |  
-| MAX | Che devo fare? |  
-| TERTSKY E ISOLANI | Firma il tuo nome. |  
-| MAX | Si rimandi a domani. È un affare — oggi non sono abbastanza raccolto. Mandatemelo domani. |  
-| TERTSKY | Su, raccogliti un poco. |  
-| ISOLANI | Svegliati, uomo! svegliati! — Suvvia, la tua firma, e facciamola finita! Come? Sei il più giovane di tutta la compagnia, e vorresti essere più savio di noi tutti insieme? Guarda là! tuo padre ha firmato — abbiamo firmato tutti. |  
-| TERTSKY | *(a Ottavio)* Adoperate la vostra autorità. Istruitelo. |  
-| OCTAVIO | Mio figlio è in età di discernimento. |  
-| ILLO | *([[motifs/leaves\|lascia]] la coppa sulla credenza)* Qual è la contesa? |  
-| TERTSKY | Ricusa di sottoscrivere il foglio. |  
-| MAX | Dico che può [[motifs/well\|ben]] restare fino a domani. |  
-| ILLO | Non può restare. Vi abbiamo sottoscritto tutti — e così devi tu. — Devi sottoscrivere. |  
-| MAX | Illo, buona [[motifs/night\|notte]]! |  
-| ILLO | No! Non te la cavi così! Il Duca saprà chi sono i suoi amici. |  
-| *(didascalia)* | [Tutti si stringono attorno a ILLO e MAX. |  
-| MAX | Quali siano i miei sentimenti verso il Duca, il Duca lo sa, ognuno lo sa — che bisogno c'è di questa follia? |  
-| ILLO | Ecco il ringraziamento che il Duca ha per la sua parzialità verso Italiani e forestieri. — Noi Boemi ci tiene poco meglio che zucconi — nulla gli piace se non ciò che viene di fuori. |  
-| TERTSKY | *(ai comandanti, che alle parole di Illo trasaliscono d'un tratto, come per risentirsene)* È il vino che parla, non la sua ragione. Non badate a lui, ve ne prego. |  
-| ISOLANI | Il vino non inventa nulla: non fa che spifferare. |  
-| ILLO | Chi non è con me è contro di me. Le vostre tenere coscienze! Se non possono sgusciar fuori per una porta di dietro, per un meschino comma —— |  
-| TERTSKY | È fuori di sé — non ascoltatelo! |  
-| ILLO | Se non possono sgusciar via per un comma. — Che c'entra il comma? Il diavolo se lo porti, questo comma! |  
-| MAX | Che cosa c'è dunque qui di così pericoloso? Mi fate curioso — devo guardarlo più da presso. |  
-| TERTSKY | *(sottovoce a Illo)* Che fai, Illo? Ci rovini. |  
-| TIEFENBACH | *(a Kolatto)* Sì, sì! L'avevo notato: prima che ci sedessimo a cena, si leggeva altrimenti. |  
-| GOETZ | Già, anche a me era parso così. |  
-| ISOLANI | E che m'importa? Dove stanno altri nomi, può stare anche il mio. |  
-| TIEFENBACH | Prima di cena c'era là dentro un certo comma, o breve clausola, intorno ai nostri doveri verso l'Imperatore. |  
-| BUTLER | *(a uno dei comandanti)* Vergogna, vergogna! Riflettete. Qual è qui la faccenda principale? La questione ora è se dobbiamo tenerci il nostro Generale, o lasciarlo ritirare. Non si devono prendere queste cose troppo per il sottile e con troppi scrupoli. |  
-| ISOLANI | *(a uno dei Generali)* Fece il Duca qualcuno di questi commi quando vi diede il vostro reggimento? |  
-| TERTSKY | *(a Goetz)* O quando vi diede l'ufficio di provveditore dell'esercito, che vi frutta mille pistole l'anno! |  
-| ILLO | È un manigoldo chi ci fa passare per bricconi. Se c'è qualcuno che vuole soddisfazione, lo dica, — sono il suo uomo. |  
-| TIEFENBACH | Piano, piano! Non erano che una parola o due. |  
-| MAX | *(avendo letto il foglio lo restituisce)* A domani, dunque! |  
-| ILLO | *(balbettando di rabbia e furore, perde ogni dominio di sé, e porge il foglio a Max con una mano, e con l'altra la spada)* Sottoscrivi — Giuda! |  
-| ISOLANI | Vergogna a te, Illo! |  
-| OCTAVIO, TERTSKY, BUTLER | *(tutti insieme)* Giù la spada! |  
-| MAX | *(gli si avventa addosso all'improvviso e lo disarma, poi al Conte Tertsky)* Portatelo a letto. |  
-| *(didascalia)* | [MAX [[motifs/leaves\|lascia]] la scena. ILLO, imprecando e infuriando, è trattenuto da alcuni Ufficiali, e tra una confusione universale cala il sipario. |
 
 
 
@@ -1953,102 +1089,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | *(didascalia)* | Act III, Scene I. A Chamber, &c. . . . It is [[motifs/night\|Night]]. Octavio, &c. 1800, 1828, 1829.<br>[Before 12] Octavio (goes up to him and embraces him). 1800, 1828, 1829.<br>[After 56] [Fixing his eye steadfastly on his son's face. 1800, 1828, 1829.<br>[After 57] [Max attempts to answer but hesitates, and casts his eyes to the ground, embarrassed. Octavio, after a pause. 1800, 1828, 1829.<br>Angel, a curious misprint perpetuated in the new edition. [MS. note by Derwent Coleridge.]<br>[Before 168] Max (in excessive agitation). 1800, 1828, 1829.<br>[Before 330] Max (with enthusiasm). 1800, 1828, 1829.<br>[After 330] [Moderates his voice and manner. 1800, 1828, 1829. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | SCENA. — Una stanza nel palazzo dei PICCOLOMINI. — [[motifs/night\|Notte]]. |  
-| *(didascalia)* | OTTAVIO PICCOLOMINI. Un cameriere, con lumi. |  
-| OCTAVIO | E quando mio figlio rientra, conducilo qui.<br>Che ora è? |  
-| VALET | È sul far del mattino. |  
-| OCTAVIO | Posa il lume. Non intendiamo spogliarci.<br>Puoi ritirarti a [[motifs/sleep\|dormire]]. |  
-| *(didascalia)* | [Esce il cameriere. OTTAVIO passeggia, pensoso, per la stanza;<br>MAX PICCOLOMINI entra inosservato, e guarda il<br>padre per alcuni istanti in [[motifs/silence\|silenzio]]. |  
-| MAX | Sei in collera con me? Il cielo sa<br>che quell'odiosa faccenda non fu colpa mia.<br>È vero, sì, vidi la tua firma.<br>Ciò che tu avevi sancito non avrebbe, parrebbe,<br>dovuto spiacermi. Ma — è la mia [[concepts/nature\|natura]] —<br>sai che in simili cose io devo seguire<br>il mio proprio lume, non l'altrui. |  
-| OCTAVIO | (abbracciandolo). Seguilo,<br>oh seguilo ancora più oltre, figlio mio migliore!<br>Questa [[motifs/night\|notte]], caro ragazzo, esso t'ha guidato<br>più fedelmente che l'esempio di tuo padre. |  
-| MAX | Spiegati meno oscuramente. |  
-| OCTAVIO | Lo farò.<br>Ché dopo ciò che è accaduto questa [[motifs/night\|notte]],<br>non devono restare [[motifs/secrets\|segreti]] fra noi due. |  
-| *(didascalia)* | [Siedono entrambi. |  
-| MAX | Max Piccolomini! che pensi tu<br>del giuramento che fu fatto girare per le firme? |  
-| MAX | Lo tengo per cosa d'innocuo significato,<br>benché non [[motifs/love\|ami]] queste dichiarazioni prestabilite. |  
-| OCTAVIO | E per nessun'altra ragione hai rifiutato<br>la firma che volentieri t'avrebbero strappato? |  
-| MAX | Era una faccenda seria —— io ero assente —<br>l'affare in sé non mi parve tanto urgente. |  
-| OCTAVIO | Sii franco, Max. Non avevi dunque alcun sospetto? |  
-| MAX | Sospetto! quale sospetto? Non il minimo. |  
-| OCTAVIO | Ringrazia il tuo buon angelo, Piccolomini:<br>t'ha tratto indietro dall'abisso senza che tu lo sapessi. |  
-| MAX | Non so che cosa tu intenda. |  
-| OCTAVIO | Te lo dirò.<br>Volentieri t'avrebbero estorto, figlio,<br>l'avallo del tuo nome a una scelleratezza;<br>sì, con un solo svolazzo della tua penna,<br>t'avrebbero fatto rinunciare al dovere e all'[[concepts/honour\|onore]]! |  
-| MAX | Ottavio! |  
-| OCTAVIO | Pazienza! Siediti. Molto ancora<br>hai da udire da me, amico! — per anni<br>hai vissuto in un'illusione incomprensibile.<br>Sotto i tuoi occhi il Tradimento va tessendo<br>la più nera tela che mai si filasse per veleno:<br>una potenza d'inferno t'annebbia l'intelletto.<br>Non oso più restare in [[motifs/silence\|silenzio]] — non oso<br>più vederti errare nelle tenebre,<br>senza strapparti la benda dagli occhi. |  
-| MAX | Padre mio!<br>Ma, prima che tu parli, un momento di riflessione!<br>Se le tue rivelazioni dovessero apparire<br>mere congetture — e quasi [[concepts/fear\|temo]]<br>che non saranno altro — risparmiale! Io<br>non sono ora in quell'animo raccolto<br>da poterle ascoltare tranquillamente. |  
-| OCTAVIO | Quanto più profonda ragione hai d'odiare questa luce,<br>tanto più impaziente ragione ho io, figlio mio,<br>d'importerla. All'innocenza<br>e alla saggezza del tuo cuore t'avrei affidato<br>con calma sicurezza — ma vedo la rete<br>che si prepara — ed è il tuo cuore stesso<br>a farmi temere per la tua innocenza — quel segreto<br>che tu nascondi mi strappa il mio.<br>Sappi dunque: ti stanno ingannando! — un giuoco turpissimo<br>con te e con noi tutti — no, ascoltami con calma —<br>sta giocando il Duca in questo momento. Assume<br>la maschera, come se volesse lasciare l'esercito;<br>e in questo istante fa i preparativi<br>per rubare quell'esercito all'Imperatore,<br>e portarlo al nemico! |  
-| MAX | Quella bassa favola da preti la conosco [[motifs/well\|bene]], ma non<br>m'aspettavo d'udirla dalla tua bocca. |  
-| OCTAVIO | Quella bocca,<br>dalla quale la odi in questo momento,<br>ti garantisce che non è favola da preti. |  
-| MAX | Che pazzo furioso hanno creduto il Duca!<br>Come, egli può meditare? — il Duca? — può sognare<br>di poter sedurre ben trentamila<br>truppe provate e fedeli, tutti soldati d'onore,<br>più di mille gentiluomini fra loro,<br>e strapparli ai giuramenti, al dovere, al loro [[concepts/honour\|onore]],<br>e renderli tutti unanimi a compiere<br>un atto che li marchia da furfanti? |  
-| OCTAVIO | Un atto simile,<br>con tale fronte d'infamia, il Duca<br>non lo desidera affatto — ciò che chiede da noi<br>porta un nome assai più mite. Nulla<br>egli vuole, se non dare pace all'Impero.<br>E così, poiché l'Imperatore odia questa pace,<br>perciò il Duca — il Duca ve lo costringerà.<br>Pacificherà tutte le parti dell'Impero,<br>e per il suo incomodo terrà in pagamento<br>(ciò che già tiene in pugno) — la Boemia! |  
-| MAX | Ha egli meritato da noi, Ottavio,<br>che noi — che noi pensiamo di lui così vilmente? |  
-| OCTAVIO | Non è qui in questione ciò che vorremmo pensare.<br>La cosa parla da sé — e le prove son chiarissime!<br>Ascoltami, figlio — non t'è ignoto<br>in che mal credito stiamo presso la [[settings/court\|Corte]].<br>Ma poco sai, o immagini, quali frodi,<br>quali basse trame, quali menzogneri artifici<br>siano stati adoperati — a questo solo fine — per seminare<br>l'ammutinamento nel campo! Tutti i vincoli sono sciolti —<br>sciolti tutti i vincoli che legano l'ufficiale<br>al suo Imperatore e signore, tutti quelli che legano il soldato<br>con affetto al cittadino.<br>Senza legge egli sta, e assedia minaccioso<br>lo stato che ha il dovere di custodire. A tal punto<br>è gonfiato il male, che a quest'ora l'Imperatore<br>davanti ai suoi eserciti — ai suoi propri eserciti — trema;<br>sì, nella sua capitale, nel suo palazzo, teme<br>i pugnali dei traditori, e medita<br>di far fuggire e nascondere la sua tenera prole ——<br>non dagli Svedesi, non dai Luterani —<br>no! dalle sue proprie truppe nasconderla e sottrarla! |  
-| MAX | Cessa, cessa! mi torturi, mi spezzi. So<br>che spesso tremiamo per un vuoto terrore;<br>ma il falso fantasma reca una miseria vera. |  
-| OCTAVIO | Non è fantasma. Una guerra intestina,<br>la più snaturata e crudele di tutte,<br>divamperà in fiamme, se all'istante<br>non corriamo a soffocarla. I Generali<br>sono in gran parte guadagnati da un pezzo;<br>i subalterni vacillano — interi<br>reggimenti e guarnigioni vacillano.<br>A stranieri sono affidate le nostre fortezze;<br>a quel sospetto Schafgotch è ceduta tutta<br>la forza della Slesia: a Tertsky<br>cinque reggimenti, fanti e [[motifs/horse\|cavalli]] — a Isolani,<br>a Illo, Kinsky, Butler, le truppe migliori. |  
-| MAX | E lo stesso a noi due. |  
-| OCTAVIO | Perché il Duca<br>crede d'essersi assicurato di noi — e vuole adescarci<br>ancora più oltre con splendide promesse.<br>A me assegna i principati di Glatz<br>e Sagan; e vedo fin troppo chiaro l'amo<br>con cui non dubita di prendere te. |  
-| MAX | No! no!<br>ti dico — no! |  
-| OCTAVIO | Oh apri finalmente gli occhi!<br>E a quale scopo credi che ci abbia chiamati<br>qui a Pilsen? — per giovarsi<br>del nostro consiglio? — Oh quando mai Friedland<br>ebbe bisogno del nostro consiglio? — Calmati, e ascoltami.<br>Per venderci siamo stati chiamati qui, e,<br>se ricusiamo — per essere suoi ostaggi.<br>Per questo il nobile Galas si tiene in disparte;<br>nemmeno tuo padre avresti veduto qui,<br>se doveri più alti non l'avessero tenuto avvinto. |  
-| MAX | Non ne fa mistero — né gliene occorre —<br>che siamo chiamati qui per lui — lo confessa.<br>Ha bisogno del nostro aiuto per sostenersi —<br>fece tanto per noi; ed è pur giusto<br>che anche noi facciamo ora qualcosa per lui. |  
-| OCTAVIO | E sai tu che cosa dovremmo fare?<br>L'ebbrezza d'Illo te l'ha svelato.<br>Ripensaci — che cosa hai udito, che cosa hai visto?<br>Il foglio contraffatto — l'omissione<br>di quella clausola precisa, così piena di senso,<br>non prova forse che vorrebbero legarci<br>a nulla di buono? |  
-| MAX | Quel foglio contraffatto<br>non mi pare altro che un tiro<br>d'invenzione d'Illo. Questi sottomano<br>trafficanti negli interessi dei grandi usano sempre<br>spingere e precipitare ogni cosa all'estremo.<br>Vedono il Duca in discordia con la [[settings/court\|corte]],<br>e credono ingenuamente di servirlo allargando<br>la rottura irreparabilmente. Credimi, padre,<br>il Duca non sa nulla di tutto questo. |  
-| OCTAVIO | Mi duole<br>di dover gettare a terra, di dover infrangere<br>una [[concepts/faith\|fede]] così speciosa; ma non posso risparmiarti!<br>Ché questo non è [[motifs/time\|tempo]] di tenerezze.<br>Devi prendere misure, e rapide — devi agire.<br>Ti confesserò dunque che tutto<br>ciò che ora t'ho confidato — che tutto<br>ciò che ti pare tanto incredibile,<br>che — sì, te lo dirò — Max! l'ho avuto tutto<br>dalla sua stessa bocca — dalla bocca del Duca l'ho avuto. |  
-| MAX | No! — no! — mai! |  
-| OCTAVIO | Egli stesso mi confidò<br>ciò che io, è vero, avevo scoperto da tempo<br>per altre vie — egli stesso mi confidò<br>che era suo fermo disegno unirsi agli Svedesi;<br>e, alla testa degli eserciti uniti,<br>costringere l'Imperatore — |  
-| MAX | È un impetuoso.<br>La [[settings/court\|Corte]] l'ha punto — è tutto piagato<br>d'ingiurie e d'affronti; e in un momento<br>d'irritazione, che sarebbe se per una volta<br>avesse dimenticato se stesso? È uomo impetuoso. |  
-| OCTAVIO | No, a [[motifs/blood\|sangue]] freddo me lo confessò:<br>e avendo interpretato il mio stupore<br>come un dubbio sul suo potere, mi mostrò<br>le sue prove scritte — mi mostrò lettere,<br>del Sassone e dello Svedese, che promettevano<br>soccorso, e ne definivano la misura. |  
-| MAX | Non può essere! — non può essere! non può essere!<br>Non vedi che non può essere!<br>Gli avresti per forza mostrato<br>tale orrore, tale profondo ribrezzo — che o egli<br>t'avrebbe preso per il suo genio migliore, o<br>tu non staresti ora vivo davanti a me — |  
-| OCTAVIO | Gli ho esposto apertamente le mie obiezioni,<br>l'ho dissuaso con premurosa insistenza;<br>ma il mio orrore, il sentimento intero<br>di tutto il mio cuore — quello l'ho serbato sacro<br>alla mia sola coscienza. |  
-| MAX | E tu sei stato<br>così sleale? Questo non somiglia a mio padre!<br>Non credetti alle tue parole quando mi dicesti<br>male di lui; molto meno posso crederti ora,<br>che calunni [[concepts/self\|te]] stesso. |  
-| OCTAVIO | Non mi sono intruso nel suo segreto. |  
-| MAX | La rettitudine meritava la sua fiducia. |  
-| OCTAVIO | Egli non era più degno di sincerità. |  
-| MAX | La dissimulazione, certo, era ancor meno degna<br>di te, Ottavio! |  
-| OCTAVIO | Gli diedi io motivo<br>di nutrire un dubbio sul mio [[concepts/honour\|onore]]? |  
-| MAX | Che non l'abbia fatto, provò la sua fiducia. |  
-| OCTAVIO | Caro figlio, non è sempre possibile<br>serbare ancora quella purezza infantile<br>che la voce insegna nel più intimo del cuore.<br>Sempre in allarme, sempre in guardia<br>contro le insidie dei malvagi, anche la Virtù<br>talvolta riporta le sue vesti esteriori<br>sporche dalla lotta con l'Iniquità.<br>Questa è la maledizione d'ogni atto malvagio:<br>che, propagandosi sempre, genera male.<br>Non inganno con sofismi la mia [[motifs/soul\|anima]] migliore:<br>non faccio che eseguire gli ordini; l'Imperatore<br>mi prescrive la condotta. Carissimo ragazzo,<br>assai meglio sarebbe, senza dubbio, se tutti<br>obbedissimo sempre al cuore; ma così facendo,<br>in questo nostro soggiorno fra uomini cattivi,<br>dovremmo abbandonare più d'un onesto fine.<br>Ora il nostro dovere è servire l'Imperatore<br>con i mezzi coi quali meglio si può servirlo — il cuore<br>mormori quel che vuole — questo è il nostro dovere! |  
-| MAX | Par cosa stabilita, che oggi<br>io non debba comprenderti, non intenderti.<br>Il Duca, dici, ti versò onestamente<br>il cuore, ma per un fine malvagio;<br>e tu disonestamente l'hai ingannato<br>per un fine buono! [[motifs/silence\|Taci]], te ne prego —<br>non mi rubare l'amico —<br>non farmi perdere il padre! |  
-| OCTAVIO | Non sai ancora tutto, figlio mio. Ho<br>ancora qualcosa da rivelarti. |  
-| *(didascalia)* | [Dopo una pausa. |  
-| OCTAVIO | Il duca Friedland<br>ha fatto i suoi preparativi. Confida<br>nelle sue [[motifs/stars\|stelle]]. Ci crede sprovveduti,<br>e pensa di piombarci addosso di sorpresa.<br>Sì, nel suo sogno di [[concepts/hope\|speranza]], stringe già<br>il cerchio d'oro nella mano. S'inganna.<br>Anche noi siamo stati in moto — egli non stringe<br>che il suo destino malvagio, malvagissimo, misteriosissimo! |  
-| MAX | Oh nulla di temerario, padre! Per tutto ciò ch'è buono<br>te ne scongiuro — nessuna precipitazione! |  
-| OCTAVIO | Con passo lieve s'incamminò sulla sua via malvagia,<br>con passo lieve gli è strisciata dietro la Vendetta.<br>Invisibile già gli sta, oscura, alle spalle —<br>un passo ancora — e rabbrividisce nella sua stretta!<br>Hai visto Questenberg con me. Finora<br>non conosci che il suo incarico apparente;<br>ne portava con sé uno segreto, figlio mio!<br>e quello era per me solo. |  
-| MAX | Mi è dato conoscerlo? |  
-| OCTAVIO | (afferra il documento). Max! |  
-| *(didascalia)* | [Una pausa. |  
-| OCTAVIO | —— Con questa rivelazione pongo nelle tue mani<br>la salvezza dell'Impero e la vita di tuo padre.<br>Caro al tuo intimo cuore è Wallenstein:<br>un forte vincolo d'[[motifs/love\|amore]], di venerazione,<br>t'ha legato a lui fin dalla prima giovinezza.<br>Tu nutri il desiderio. — Oh lascia ch'io<br>prevenga la tua confidenza esitante!<br>La [[concepts/hope\|speranza]] che nutri di legarti<br>ancor più stretto a lui —— |  
-| MAX | Padre —— |  
-| OCTAVIO | Oh figlio mio!<br>Del tuo cuore mi fido senza dubbi. Ma sono<br>altrettanto sicuro del tuo dominio di te?<br>Saprai tu, con volto calmo,<br>entrare al cospetto di quest'uomo, dopo che io<br>t'avrò affidato tutto il suo destino? |  
-| MAX | Secondo<br>come tu m'affiderai, padre, il suo delitto. |  
-| *(didascalia)* | [OTTAVIO trae un foglio dal suo scrittoio, e glielo porge. |  
-| MAX | Che? come? una patente imperiale in piena forma! |  
-| OCTAVIO | Leggila. |  
-| MAX | Il duca Friedland giudicato e condannato! |  
-| OCTAVIO | Proprio così. |  
-| MAX | Oh questo è troppo! Oh infelice errore! |  
-| OCTAVIO | Continua a leggere. Raccogliti. |  
-| MAX | (dopo aver letto oltre, con uno sguardo di spavento e stupore al padre). Come! che! Tu! tu! |  
-| OCTAVIO | Solo per il momento presente, finché il [[archetypes/king\|Re]]<br>d'Ungheria possa unirsi sicuramente all'esercito,<br>il comando è assegnato a me. |  
-| MAX | E credi tu,<br>credi tu davvero che glielo strapperai?<br>Oh non lo [[concepts/hope\|sperare]] mai! — Padre! padre! padre!<br>Ti è imposto un ufficio infausto.<br>Questo foglio qui — questo! e tu lo vorrai eseguire?<br>Il possente in mezzo alla sua oste,<br>circondato dalle sue migliaia, lui tu vorresti<br>disarmare — degradare! Sei perduto, tu e noi tutti. |  
-| OCTAVIO | So a qual rischio mi espongo.<br>Sto nella gran mano di Dio. L'Onnipotente<br>coprirà col suo scudo la casa imperiale,<br>e infrangerà, nella sua ira, l'opera delle tenebre.<br>L'Imperatore ha ancora servi fedeli; e persino<br>qui nel campo vi sono uomini valorosi a sufficienza,<br>che per la buona causa combatteranno da prodi.<br>I fedeli sono stati avvertiti — i pericolosi<br>sono strettamente sorvegliati. Attendo solo il primo passo,<br>e allora immediatamente —— |  
-| MAX | Come! su un sospetto?<br>Immediatamente? |  
-| OCTAVIO | L'Imperatore non è un [[archetypes/tyrant\|tiranno]].<br>Punirà l'atto soltanto, non il desiderio.<br>Il Duca ha ancora in suo potere il proprio destino.<br>Lasci solo incompiuto il tradimento,<br>e sarà silenziosamente rimosso dalla carica,<br>e cederà il posto al figlio regale del suo Imperatore.<br>Un onorevole [[concepts/exile\|esilio]] nei suoi castelli<br>sarà per lui piuttosto un beneficio<br>che una pena. Ma il primo passo aperto —— |  
-| MAX | Che chiami tu un passo simile? Un passo malvagio<br>mai lo farà; ma tu potresti facilmente,<br>anzi l'hai già fatto, fraintenderlo. |  
-| OCTAVIO | Anzi, per quanto punibili fossero<br>i propositi del duca Friedland, tuttavia i passi<br>ch'egli ha compiuto apertamente permettono<br>una mite interpretazione. È mia intenzione<br>lasciare questo foglio del tutto ineseguito<br>finché non si commetta un atto che lo convinca<br>d'alto tradimento, senza [[concepts/doubt\|dubbio]] né scusa,<br>e quello sarà la sua condanna. |  
-| MAX | Ma chi il giudice? |  
-| OCTAVIO | Tu stesso. |  
-| MAX | Per sempre, dunque, questo foglio resterà inerte. |  
-| OCTAVIO | Troppo presto, [[concepts/fear\|temo]], se ne dovranno provare tutti i poteri.<br>Dopo la contro-promessa di questa sera,<br>non può essere ch'egli non si creda<br>sicuro della maggioranza fra noi;<br>e del sentimento generale dell'esercito<br>ha una gradita prova in quella petizione<br>che tu gli consegnasti a nome dei reggimenti.<br>Aggiungi anche questo — ho lettere che il Conte del Reno<br>ha mutato cammino, e viaggia a marce forzate<br>verso la Selva Boema. Che cosa ciò significhi<br>resta ignoto; e, a confermare il sospetto,<br>questa [[motifs/night\|notte]] è giunto qui un gentiluomo svedese. |  
-| MAX | Ho la tua parola. Non passerai all'azione<br>prima d'aver convinto me — me stesso. |  
-| OCTAVIO | È possibile? Ancora, dopo tutto ciò che sai,<br>puoi credere ancora alla sua innocenza? |  
-| MAX | Il tuo giudizio può errare; il mio cuore no.<br>Queste ragioni spiegherebbero il tuo spirito o il mio;<br>ma non spiegano Friedland — io ho [[concepts/faith\|fede]]:<br>ché come lega le sue sorti alle [[motifs/stars\|stelle]],<br>così le somiglia in corsi segreti,<br>mirabili, sempre inesplicabili!<br>Credimi, gli fanno torto. Tutto si scioglierà.<br>Questi fumi, d'un tratto, s'accenderanno in fiamma —<br>gli orli di questa nube nera e tempestosa<br>s'illumineranno all'improvviso, e vedremo<br>l'Inaccessibile uscirne fuori in splendore. |  
-| OCTAVIO | L'attenderò. |  
-| *(didascalia)* | Atto III, Scena I. Una stanza, ecc. . . . È [[motifs/night\|Notte]]. Ottavio, ecc. 1800, 1828, 1829.<br>[Prima di 12] Ottavio (gli si accosta e l'abbraccia). 1800, 1828, 1829.<br>[Dopo 56] [Fissando l'occhio con fermezza sul volto del figlio. 1800, 1828, 1829.<br>[Dopo 57] [Max tenta di rispondere ma esita, e abbassa gli occhi a terra, imbarazzato. Ottavio, dopo una pausa. 1800, 1828, 1829.<br>Angel, un curioso refuso perpetuato nella nuova edizione. [Nota ms. di Derwent Coleridge.]<br>[Prima di 168] Max (in eccessiva agitazione). 1800, 1828, 1829.<br>[Prima di 330] Max (con entusiasmo). 1800, 1828, 1829.<br>[Dopo 330] [Modera la voce e il contegno. 1800, 1828, 1829. |
-
 
 
 <span class="atom-split" data-atom="act_3--scene_2" data-title="THE PICCOLOMINI — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/secrets,motif/letters_writing,concept/secrecy_and_concealment,concept/deception,form/verse_drama,form/tragedy,form/translation,histref/thirty_years_war,setting/austria"></span>
@@ -2094,47 +1134,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | *(didascalia)* | [Before 10] Octavio (eagerly). 1800, 1828, 1829. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | OCTAVIO e MAX come prima. A loro il Cameriere di camera. |  
-| OCTAVIO | Ebbene, che c'è? |  
-| CAMERIERE | Un corriere è alla porta. |  
-| OCTAVIO | Così presto? Da chi viene, dunque? Chi è? |  
-| CAMERIERE | Questo si è rifiutato di dirmelo. |  
-| OCTAVIO | Fallo entrare:<br>e, senti — che non ne trapeli nulla. |  
-| *(didascalia)* | [Esce il Cameriere — entra l'Alfiere. |  
-| OCTAVIO | Ah! Alfiere — siete voi? e venite dal Conte Galas?<br>Datemi le vostre lettere. |  
-| ALFIERE | Il Luogotenente Generale<br>non l'ha affidato a lettere. |  
-| OCTAVIO | E di che si tratta? |  
-| ALFIERE | Mi ha ordinato di dirvi — Posso parlare qui apertamente? |  
-| OCTAVIO | Mio figlio sa tutto. |  
-| ALFIERE | Lo abbiamo preso. |  
-| OCTAVIO | Chi? |  
-| ALFIERE | Sesina,<br>il vecchio negoziatore. |  
-| OCTAVIO | E lo tenete in pugno? |  
-| ALFIERE | Nella Foresta Boema il capitano Mohrbrand<br>lo scovò e lo assicurò ieri sul primo mattino:<br>era allora in cammino verso Regenspurg,<br>e portava con sé dispacci per lo Svedese. |  
-| OCTAVIO | E i dispacci —— |  
-| ALFIERE | Il Luogotenente Generale<br>li ha spediti all'istante a Vienna, e<br>con essi il prigioniero. |  
-| OCTAVIO | Questa sì che è una notizia!<br>Quell'uomo è per noi uno scrigno prezioso,<br>che racchiude cose gravi. — Molto gli si trovò addosso? |  
-| ALFIERE | Sei plichi, credo, con le armi del Conte Tertsky. |  
-| OCTAVIO | Nessuno di pugno del Duca stesso? |  
-| ALFIERE | Non ch'io sappia. |  
-| OCTAVIO | E il vecchio Sesina? |  
-| ALFIERE | Fu preso da gran spavento,<br>quando gli fu detto che doveva andare a Vienna.<br>Ma il Conte Altringer lo esortò a farsi animo,<br>purché rendesse piena e libera confessione. |  
-| OCTAVIO | Altringer è dunque col vostro signore? Avevo udito<br>che giacesse infermo a Linz. |  
-| ALFIERE | Da tre giorni<br>è col mio padrone, il Luogotenente Generale,<br>a Frauenberg. Hanno già raccolto sessanta<br>piccole compagnie, uomini scelti;<br>vi salutano con rispetto e vi assicurano<br>che non attendono se non i vostri ordini. |  
-| OCTAVIO | In pochi giorni possono compiersi grandi eventi.<br>E quando dovete far ritorno? |  
-| ALFIERE | Attendo i vostri ordini. |  
-| OCTAVIO | Restate fino a sera. |  
-| *(didascalia)* | [L'Alfiere fa cenno d'assenso e s'inchina, e sta per uscire. |  
-| OCTAVIO | Nessuno vi ha veduto — eh? |  
-| ALFIERE | Anima viva. Per la porticina del chiostro<br>i Cappuccini, come sempre, mi hanno fatto entrare. |  
-| OCTAVIO | Andate, riposate le membra, e tenetevi celato.<br>Ritengo probabile che ancor prima di sera<br>io vi spedisca. Lo scioglimento<br>di questa faccenda s'avvicina: prima che il giorno,<br>che pure ora albeggia nel cielo,<br>prima che questo giorno fatale tramonti, la sorte<br>che deve decidere il nostro destino sarà tratta. |  
-| *(didascalia)* | [Esce l'Alfiere. |  
-| *(didascalia)* | [Prima del 10] Octavio (con foga). 1800, 1828, 1829. |
-
 
 
 <span class="atom-split" data-atom="act_3--scene_3" data-title="THE PICCOLOMINI — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/fire,motif/noon,motif/prison,motif/ship,motif/sleep,motif/time,motif/well,concept/conscience,setting/ship"></span>
@@ -2158,26 +1157,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | *(didascalia)* | [Before 6] Octavio (alarmed). 1800, 1828, 1829. |
 | *(didascalia)* | [Before 7] Max (returning). 1800, 1828, 1829. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | OCTAVIO e MAX PICCOLOMINI. |  
-| OCTAVIO | [[motifs/well\|Ebbene]] — e ora, figlio mio? Tutto sarà presto chiaro;<br>ché tutto, ne son certo, passò per quel Sesina. |  
-| MAX | Io mi procurerò luce per una via più breve.<br>Addio. |  
-| OCTAVIO | Dove vai? — Resta qui. |  
-| MAX | Dal Duca. |  
-| OCTAVIO | Che —— |  
-| MAX | Se hai creduto che io reciterò<br>una parte in questa tua commedia ——<br>hai fatto su di me un ben grave errore di calcolo.<br>La mia via dev'essere diritta. Sincero con la lingua,<br>falso col cuore — non posso, non so esserlo:<br>né posso sopportare che un uomo si fidi di me —<br>si fidi di me come d'un amico — e poi cullare la mia [[concepts/conscience\|coscienza]]<br>con vili pretesti come questi:— 'Non gliel'ho chiesto —<br>ha fatto tutto a suo rischio — e<br>la mia bocca non gli ha mai mentito.' — No, no!<br>Ciò che un amico crede ch'io sia, quello devo essere.<br>— Andrò dal Duca; prima che questo giorno finisca<br>gli domanderò che voglia salvare<br>il suo buon nome davanti al mondo, e che d'un solo balzo<br>rompa e squarci questa vostra tela di sottil filo.<br>Lo può, lo vorrà! — Io credo ancora in lui.<br>Pure non giurerei che quelle lettere<br>non possano fornirvi, chi sa, prove contro di lui.<br>Fin dove può essersi spinto questo Tertsky —<br>che cosa può non essersi permesso egli stesso<br>di fare, per irretire il nemico,<br>con la scusa delle leggi di guerra? Nulla, tranne<br>la sua stessa bocca, lo condannerà — nulla di meno!<br>E a faccia a faccia andrò a interrogarlo. |  
-| OCTAVIO | Tu vuoi? |  
-| MAX | Lo voglio, com'è certo che questo cuore batte. |  
-| OCTAVIO | Ho fatto, davvero, un errore di calcolo su di te.<br>Contavo su un figlio prudente,<br>che avrebbe benedetto la mano benefica<br>che lo strappava indietro dall'abisso — ed ecco!<br>un essere ammaliato io scopro,<br>che i suoi due occhi ingannano, che la passione smarrisce,<br>che neppure la più larga luce del [[motifs/noon\|meriggio]] può risanare.<br>Va', interrogalo! — Sii abbastanza folle, te ne prego.<br>Il disegno di tuo padre, del tuo Imperatore,<br>va', dallo in libera preda: — costringimi, spingimi<br>a una rottura aperta prima del [[motifs/time\|tempo]]. E ora,<br>ora che un miracolo del cielo aveva custodito<br>il mio segreto disegno fino a quest'ora,<br>e aveva chiuso nel [[motifs/sleep\|sonno]] gli occhi acuti del Sospetto,<br>ch'io sia vissuto per vedere che il mio stesso figlio,<br>con frenetica impresa, annienta<br>le mie penose fatiche e la mia politica di Stato. |  
-| MAX | Sì — questa politica di Stato! Oh come la maledico!<br>Voi col [[motifs/time\|tempo]], con la vostra politica di Stato,<br>lo costringerete al passo estremo: può accadere<br>che, poiché siete decisi ch'egli sia colpevole,<br>colpevole lo farete. Tagliata ogni ritirata,<br>gli chiudete ogni sbocco, lo serrate<br>sempre più stretto, finché alla fine lo costringete —<br>sì, voi, — voi lo costringete, nella sua disperazione,<br>ad appiccare il [[motifs/fire\|fuoco]] alla sua [[motifs/prison\|prigione]]. Padre! Padre!<br>Ciò non può finire [[motifs/well\|bene]] — non può — non finirà!<br>E si decida pure come si vuole,<br>io vedo con cuore presago l'appressarsi<br>d'una catastrofe malaugurata e senza benedizione.<br>Ché questo grande spirito di Monarca, se cade,<br>trascinerà con sé un mondo nella rovina.<br>E come una [[motifs/ship\|nave]] (che a mezzo l'oceano<br>prende [[motifs/fire\|fuoco]]) d'un tratto, e con uno scoppio di tuono<br>esplode, e con sé scaglia in alto il suo equipaggio<br>in fumo e rovina fra il mare e il cielo;<br>così egli, cadendo, trarrà giù nella sua caduta<br>tutti noi, che siamo confitti e incastrati nella sua fortuna.<br>Pensane ciò che vuoi; ma perdonami,<br>ch'io debba procedere per la mia via.<br>Tutto deve restare puro fra lui e me;<br>e, prima che spunti la luce del giorno, si dovrà sapere<br>chi devo perdere — mio padre, o il mio amico. |  
-| *(didascalia)* | [Durante la sua uscita cala il sipario. |  
-| *(didascalia)* | [Prima del 3] Max (che per tutta la scena precedente è stato in una violenta e visibile lotta di sentimenti, alla fine trasale come chi ha preso una decisione). 1800, 1828, 1829. |  
-| *(didascalia)* | [Prima del 6] Octavio (allarmato). 1800, 1828, 1829. |  
-| *(didascalia)* | [Prima del 7] Max (tornando indietro). 1800, 1828, 1829. |
 
 
 
@@ -2206,29 +1185,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | *(didascalia)* | [SENI draws off the black table, and exit. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | SCENA — Una stanza allestita per lavori astrologici, e fornita di carte celesti, di globi, telescopi, quadranti e altri strumenti matematici. — Sette figure colossali, raffiguranti i Pianeti, ciascuna con una stella trasparente di colore diverso sul capo, stanno in semicerchio sul fondo, così che Marte e [[characters/saturn\|Saturno]] sono i più vicini all'occhio. — Il resto della scena, e la sua disposizione, è dato nella quarta scena dell'atto secondo. — Vi dev'essere un sipario davanti alle figure, che si possa calare per nasconderle all'occorrenza. [Nella quinta scena di questo atto dev'essere calato; ma nella settima scena dev'essere di nuovo alzato del tutto o in parte.] |  
-| *(didascalia)* | WALLENSTEIN a un tavolo nero, sul quale è tracciato col [[motifs/chalk\|gesso]] uno Speculum Astrologicum. SENI sta facendo osservazioni da una [[motifs/window\|finestra]]. |  
-| WALLENSTEIN | Tutto [[motifs/well\|bene]] — e ora sia finita, Seni. — Vieni,<br>l'[[motifs/dawn\|alba]] comincia, e Marte governa quest'ora.<br>Dobbiamo lasciare l'operazione. Vieni,<br>sappiamo abbastanza. |  
-| SENI | Vostra Altezza mi permetta<br>solo di contemplare [[characters/venus\|Venere]]. Ora sta sorgendo:<br>come un sole, così risplende a oriente. |  
-| WALLENSTEIN | Ella è al presente nel suo perigeo,<br>e saetta ora giù i suoi influssi più forti.<br>[Contemplando la figura sul tavolo.<br>Aspetto propizio! fatale in congiunzione,<br>alfine i tre possenti uniscono i loro raggi;<br>e i due [[motifs/stars\|astri]] di benedizione, Giove<br>e [[characters/venus\|Venere]], prendono in mezzo il maligno<br>e subdolo Marte, e così costringono<br>al mio servizio quel vecchio seminatore di sciagure;<br>ché a lungo mi guardò ostile, e sempre<br>con raggio obliquo, o perpendicolare,<br>ora in Quartile, ora in Secundano,<br>scagliò i suoi rossi fulmini alle mie [[motifs/stars\|stelle]], turbandone<br>i benedetti influssi e i dolci aspetti.<br>Ora essi hanno vinto il vecchio nemico,<br>e me lo recano nei cieli prigioniero. |  
-| SENI | E in una casa angolare, Altezza — pensateci!<br>Ciò rende ogni influsso di [[topoi/double\|doppia]] forza. |  
-| WALLENSTEIN | E anche sole e [[motifs/moon\|luna]] in aspetto di Sestile,<br>la luce mite con la veemente — così l'[[motifs/love\|amo]].<br>Sol è il cuore, Luna il capo del cielo,<br>ardito sia il disegno, focosa l'esecuzione. |  
-| SENI | E i due possenti Lumina da nessun<br>Maleficus offesi. Ecco! Saturnus,<br>innocuo, impotente, in cadente Domo. |  
-| WALLENSTEIN | L'impero di Saturnus è tramontato;<br>signore della segreta nascita delle cose è lui;<br>nel grembo della terra, e negli abissi<br>dell'[[concepts/imagination\|immaginazione]] domina;<br>e sue son tutte le cose che fuggono la luce.<br>È finito il [[motifs/time\|tempo]] del rimuginare e dell'ordire;<br>ché Giove, il lucente, ora signoreggia,<br>e l'opera oscura, compiuta la preparazione,<br>la trae per forza nel regno della luce.<br>Ora dobbiamo affrettarci all'azione, prima<br>che la figura, e la positura più propizia,<br>si diparta sul mio capo, e riprenda il suo volo;<br>ché i cieli [[motifs/journey\|viaggiano]] sempre, e non sostano. |  
-| *(didascalia)* | [Si bussa alla porta. |  
-| WALLENSTEIN | C'è qualcuno che bussa là. Vedi chi è. |  
-| TERTSKY | (da fuori) Aprite, e fatemi entrare. |  
-| WALLENSTEIN | Sì—è Tertsky.<br>Che c'è di tanto urgente? Siamo occupati. |  
-| TERTSKY | (da fuori) Lasciate ora ogni cosa, ve ne supplico.<br>Non tollera indugio. |  
-| WALLENSTEIN | Apri, Seni! |  
-| *(didascalia)* | [Mentre SENI apre le porte a TERTSKY, WALLENSTEIN tira il sipario davanti alle figure. |  
-| TERTSKY | (entra) L'hai già saputo? È stato preso.<br>Galas lo ha consegnato all'Imperatore. |  
-| *(didascalia)* | [SENI porta via il tavolo nero, ed esce. |
-
 
 
 <span class="atom-split" data-atom="act_4--scene_2" data-title="THE PICCOLOMINI — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/road,motif/secrets"></span>
@@ -2242,16 +1198,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | WALLENSTEIN | Nay, not Sesina? — Say, No! I entreat<br>thee. |
 | TERTSKY | All on his [[motifs/road\|road]] for Regenspurg to the Swede<br>He was plunged down upon by Galas' agent,<br>Who had been long in ambush, lurking for him.<br>There must have been found on him my whole packet<br>To Thur, to Kinsky, to Oxenstirn, to Arnheim:<br>All this is in their hands; they have now an insight<br>Into the whole — our measures, and our motives. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | WALLENSTEIN, IL CONTE TERTSKY. |  
-| WALLENSTEIN | Chi è stato preso? — Chi è stato consegnato? |  
-| TERTSKY | L'uomo che conosce i nostri [[motifs/secrets\|segreti]], che conosce ogni<br>trattativa con lo Svedese e col Sassone,<br>per le cui mani ogni cosa è passata — |  
-| WALLENSTEIN | No, non Sesina? — Di' di no! te ne<br>supplico. |  
-| TERTSKY | Proprio sulla [[motifs/road\|strada]] di Regenspurg, verso lo Svedese,<br>gli è piombato addosso l'agente di Galas,<br>che da lungo stava in agguato, appostato per lui.<br>Gli si dev'essere trovato addosso tutto il mio plico<br>per Thur, per Kinsky, per Oxenstirn, per Arnheim:<br>tutto ciò è nelle loro mani; ora hanno gli occhi<br>dentro ogni cosa — i nostri provvedimenti e i nostri moventi. |
 
 
 
@@ -2295,44 +1241,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | *(didascalia)* | [Exeunt TERTSKY and ILLO.] |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | A loro entra ILLO. |  
-| ILLO | L'ha saputo? |  
-| TERTSKY | L'ha saputo. |  
-| ILLO | Pensi ancora<br>di far la tua pace con l'Imperatore, di riguadagnare<br>la sua fiducia? — Anche se fosse ora tuo desiderio<br>abbandonare ogni tuo disegno, essi pur sanno<br>che cosa hai voluto; dunque devi premere avanti;<br>la ritirata non è più in tuo potere. |  
-| TERTSKY | Hanno documenti contro di noi, e in mano,<br>che provano oltre ogni possibilità di smentita — |  
-| WALLENSTEIN | Di mio pugno — neppure uno iota. Te<br>io punisco per le tue menzogne. |  
-| ILLO | E tu credi<br>che ciò che quest'uomo, che ciò che il marito di tua sorella<br>fece in tuo nome, non ti verrà messo in conto?<br>La sua parola deve valere per la tua parola presso lo Svedese,<br>e non presso coloro che ti odiano a Vienna. |  
-| TERTSKY | Per iscritto non desti nulla — Ma pensa<br>fin dove ti spingesti a viva voce<br>con questo Sesina? E tacerà egli?<br>Se può salvarsi consegnando<br>i tuoi segreti disegni, se li terrà per sé? |  
-| ILLO | Tu stesso non lo credi possibile;<br>e poiché ora hanno prove autentiche<br>di quanto oltre ti sei già spinto, parla! — dicci,<br>che cosa aspetti? non puoi più<br>serbare il tuo comando; e oltre ogni [[concepts/hope\|speranza]] di scampo<br>sei perduto, se lo deponi. |  
-| WALLENSTEIN | Nell'esercito<br>sta la mia sicurezza. L'esercito non mi<br>abbandonerà. Qualunque cosa sappiano,<br>la forza è mia, ed essi la devono ingoiare —<br>e se do cauzione in luogo della mia fedeltà,<br>devono restarne paghi, o almeno parerlo. |  
-| ILLO | L'esercito, Duca, è tuo adesso — per questo momento —<br>è tuo: ma pensa con terrore al lento,<br>al quieto potere del [[motifs/time\|tempo]]. Dalla violenza aperta<br>l'attaccamento dei tuoi soldati ti mette al sicuro<br>oggi — domani; ma se concedi loro una tregua,<br>non uditi, non visti, ti scalzeranno quell'[[motifs/love\|amore]]<br>su cui ora senti d'aver sì fermo appoggio,<br>con astuto furto te li trarranno via<br>l'uno dopo l'altro —— |  
-| WALLENSTEIN | È un maledetto accidente! |  
-| ILLO | Oh, io lo chiamerò un accidente benedetto,<br>se opera su di te come deve,<br>e ti sospinge all'azione — alla decisione.<br>Il Generale svedese —— |  
-| WALLENSTEIN | È arrivato! Sai tu<br>quale sia il suo incarico —— |  
-| ILLO | A te solo<br>vuole affidare lo scopo della sua venuta. |  
-| WALLENSTEIN | Un maledetto, maledetto accidente! Sì, sì,<br>Sesina sa troppo, e non tacerà. |  
-| TERTSKY | È un fuggiasco boemo e un [[archetypes/rebel\|ribelle]],<br>la sua testa è già perduta. Se può salvarsi<br>a tue spese, credi che se ne farà scrupolo?<br>E se lo mettono alla tortura, avrà,<br>avrà quel vigliacco forza bastante —— |  
-| *(didascalia)* | Wallenstein (assorto nei suoi pensieri). |  
-| WALLENSTEIN | La loro fiducia è perduta — irreparabilmente!<br>E in qualunque modo io agisca, sarò<br>e resterò per sempre nel loro pensiero<br>un traditore della patria. Per quanto sinceramente<br>io torni al mio dovere,<br>non mi gioverà più —— |  
-| ILLO | Ti rovinerà,<br>ecco che farà! Non la tua fedeltà,<br>ma la tua debolezza sarà giudicata la sola cagione —— |  
-| *(didascalia)* | Wallenstein (andando su e giù in estrema agitazione). |  
-| WALLENSTEIN | Come! Devo ora mandarlo a effetto davvero,<br>perché troppo liberamente ho scherzato col pensiero?<br>Maledetto chi trescia con un demonio!<br>E devo — devo ora mandarlo a effetto —<br>ora, finché ne ho il potere, deve compiersi? |  
-| ILLO | Ora — ora — prima che possano pararlo e sventarlo! |  
-| WALLENSTEIN | Ho la<br>parola dei Generali — una promessa scritta!<br>Max Piccolomini non compare qui — com'è ciò? |  
-| TERTSKY | Fu —— egli credeva —— |  
-| ILLO | Mera volontà di [[concepts/self\|sé]].<br>Non occorreva cosa simile fra lui e te. |  
-| WALLENSTEIN | Ha pienamente ragione — non occorre cosa simile.<br>Anche i reggimenti rifiutano di marciare per le Fiandre —<br>mi hanno mandato una carta di rimostranza,<br>e apertamente resistono agli ordini Imperiali.<br>Il primo passo verso la rivolta è già fatto. |  
-| ILLO | Credimi, troverai assai più agevole<br>condurli dalla parte del nemico<br>che non dalla parte dello Spagnolo. |  
-| WALLENSTEIN | Voglio però udire<br>che cosa lo Svedese ha da dirmi. |  
-| ILLO | Va', chiamalo!<br>Sta fuori della porta, in attesa. |  
-| WALLENSTEIN | Ferma!<br>Ferma ancora un poco. Mi ha colto<br>tutto di sorpresa, — m'è piombato addosso troppo in fretta;<br>è cosa affatto [[forms/novel\|nuova]], che un accidente,<br>col suo oscuro dominio e la sua cieca opera,<br>debba trascinarmi via con sé. |  
-| ILLO | Prima ascoltalo soltanto,<br>e poi ponderalo. |  
-| *(didascalia)* | [Escono TERTSKY e ILLO.] |
-
 
 
 <span class="atom-split" data-atom="act_4--scene_4" data-title="THE PICCOLOMINI — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="topos/double,motif/road,motif/time,motif/well,concept/courage,concept/faith,concept/fear,concept/guilt,concept/hope,concept/self,concept/temptation,character/nurse"></span>
@@ -2350,20 +1258,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | *(didascalia)* | [After 50] [Pauses again. 1800, 1828, 1829. |
 | *(didascalia)* | [After 62] [Paces in agitation through the chamber, then pauses, and, after the pause, breaks out again into audible soliloquy. 1800, 1828, 1829. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| WALLENSTEIN | Wallenstein. È possibile?<br>È così? Non posso più ciò che vorrei?<br>Non posso più ritrarmi a mio talento? Io<br>devo compiere il fatto, perché vi pensai,<br>e nutrii questo cuore con un sogno? Perché<br>non scacciai dal mio cospetto la [[concepts/temptation\|tentazione]],<br>vagheggiai il pensiero d'un possibile compimento,<br>non mossi passo, lasciai ogni [[motifs/time\|tempo]] incerto,<br>e tenni solo la [[motifs/road\|via]], l'accesso aperto?<br>Per il gran Dio del Cielo! non fu questa<br>la mia seria intenzione, non fu mai proposito.<br>Non feci che trastullarmi a pensarvi.<br>Mi tentò il libero arbitrio, il poter fare<br>o non fare. — Fu dunque delitto<br>far ministra la fantasia alla [[concepts/hope\|speranza]],<br>empir l'aria di vaghi trastulli d'aria,<br>e afferrare scettri fantastici che a me movevano?<br>Non restò libero il volere? Non vedevo<br>la [[motifs/road\|via]] del dovere accanto a me — ma<br>un piccolo passo, e vi ero di nuovo dentro!<br>Dove sono? Dove mi sono lasciato trasportare?<br>Nessuna [[motifs/road\|via]], nessuna traccia dietro me, ma un muro,<br>impenetrabile, insormontabile,<br>sorge obbediente agli incanti ch'io mormorai<br>e non volli — le mie opere torreggiano dietro me.<br>Uomo da punire io sembro, e la [[concepts/guilt\|colpa]],<br>per quanto tenti, non so scrollarmela di dosso;<br>l'equivoco portamento della mia vita<br>depone dalla parte del mio accusatore;<br>e persino i miei atti più puri, da moventi purissimi,<br>il sospetto avvelena con maligna chiosa.<br>Fossi quella cosa per cui passo, quel traditore,<br>mi sarei certo serbato un bel di fuori,<br>avrei tratto le coltri fitte e [[topoi/double\|doppie]] intorno a me,<br>sarei stato calmo e avaro del mio dire.<br>Ma, conscio dell'innocenza<br>del mio intento, del mio incorrotto volere,<br>diedi sfogo ai miei umori, alla mia passione:<br>audaci le parole, perché i fatti non lo erano.<br>Ora ogni misura senza disegno, ogni evento fortuito,<br>la minaccia dell'ira, il vanto di gioia e trionfo,<br>e tutti i giochi di maggio d'un cuore traboccante,<br>tutto congiungeranno, e tutto intesseranno insieme<br>in una sola tela di tradimento; tutto sarà disegno,<br>l'occhio mio mai lontano dal segno remoto,<br>passo che segue passo, ogni passo un accorto avanzare;<br>e di tutto fabbricheranno un'accusa<br>così speciosa, ch'io stesso dovrò ammutolire.<br>Son preso nella mia stessa rete, e solo la forza,<br>null'altro che uno strappo improvviso, può liberarmi.<br>E come, se non così! poiché il puro istinto del cuore<br>mi spinse all'atto ardito, che ora<br>la necessità, la salvezza di [[concepts/self\|sé]], comanda.<br>Severo è lo sguardo fisso della Necessità,<br>non senza brivido più d'una mano umana<br>afferra l'urna misteriosa del destino.<br>Mio era l'atto, finché mi restava in petto;<br>ma una volta lasciato fuggire dal suo cantuccio<br>sicuro nel cuore, sua culla e sua nascita,<br>mandato fuori nell'Estraneo, appartiene<br>per sempre a quelle astute potenze maligne<br>che arte d'uomo non seppe mai piegare.<br>Qual è la tua impresa? il tuo fine? il tuo oggetto?<br>L'hai onestamente confessato a te stesso?<br>Un potere assiso su quieto trono tu vorresti scuotere,<br>potere su un trono antico e consacrato,<br>forte nel possesso, fondato in vecchia usanza;<br>potere da mille radici tenaci e fibrose<br>fitto nella pia [[concepts/faith\|fede]] infantile del popolo.<br>Questa, questa non sarà lotta di forza contro forza.<br>Quella non la temevo. Sfido ogni combattente<br>ch'io possa guardare, fissandolo occhio a occhio,<br>che, pieno egli stesso di [[concepts/courage\|coraggio]], accende [[concepts/courage\|coraggio]]<br>anche in me. È un nemico invisibile<br>quello ch'io [[concepts/fear\|temo]] — un nemico terribile,<br>che nel cuore dell'uomo mi si oppone,<br>dalla sua vile [[concepts/fear\|paura]] soltanto reso a me tremendo.<br>Non ciò che, pieno di vita, animato di forza,<br>fa noto il suo presente essere, non è quello<br>il vero, il pericolosamente formidabile.<br>Oh no! è il comune, il comunissimo,<br>la cosa d'un eterno ieri,<br>ciò che sempre fu, e sempre ritorna,<br>buono domani, perché oggi era buono!<br>Ché di ciò ch'è tutto comune è fatto l'uomo,<br>e l'usanza è la sua [[characters/nurse\|nutrice]]! Guai dunque a chi<br>pone mani irriverenti sulle antiche<br>suppellettili di casa, la cara eredità<br>dei suoi padri. Ché il [[motifs/time\|tempo]] consacra;<br>e ciò che è grigio d'anni diventa religione.<br>Sii in possesso, e avrai il diritto,<br>e sacro te lo custodiranno i molti! |  
-| *(didascalia)* | [Al Paggio, che qui entra. |  
-| WALLENSTEIN | L'ufficiale svedese? — [[motifs/well\|Bene]], entri pure. |  
-| *(didascalia)* | [Il Paggio esce; WALLENSTEIN fissa l'occhio sulla porta, immerso in profondo pensiero. |  
-| WALLENSTEIN | Eppure è puro — ancora! — il delitto non ha<br>varcato ancora questa soglia — così sottile è<br>il confine che divide le due vie della vita. |  
-| *(didascalia)* | [Prima di 1] Wallenstein (in soliloquio). 1800, 1828, 1829. |  
-| *(didascalia)* | [Dopo 25] [Si ferma e resta in profondo pensiero. 1800, 1828, 1829. |  
-| *(didascalia)* | [Dopo 50] [Si ferma di nuovo. 1800, 1828, 1829. |  
-| *(didascalia)* | [Dopo 62] [Cammina agitato per la stanza, poi si ferma, e, dopo la pausa, prorompe di nuovo in soliloquio udibile. 1800, 1828, 1829. |
 
 
 
@@ -2435,72 +1329,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | *(didascalia)* | [Exit WRANGEL. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | WALLENSTEIN e WRANGEL. |  
-| WALLENSTEIN | Il vostro nome è Wrangel? |  
-| WRANGEL | Gustavo Wrangel, generale<br>dei Blu di Sudermania. |  
-| WALLENSTEIN | Fu un Wrangel<br>che mi nocque assai a Stralsunda,<br>e con la sua prode resistenza fu cagione<br>dell'opposizione che quel porto di mare oppose. |  
-| WRANGEL | Fu opera dell'elemento<br>con cui combattevate, mio signore! non mio merito.<br>Il Nettuno baltico rivendicò la sua [[concepts/freedom\|libertà]]:<br>il mare e la terra, parve, non dovevano servire<br>a uno e medesimo padrone. |  
-| *(didascalia)* | Wallenstein (gli fa cenno di sedere, e siede egli stesso). |  
-| WALLENSTEIN | E dove sono le vostre credenziali?<br>Venite munito di pieni poteri, signor generale? |  
-| WRANGEL | Vi sono ancora tanti scrupoli da sciogliere —— |  
-| *(didascalia)* | Wallenstein (dopo aver letto le credenziali). |  
-| WALLENSTEIN | Lettera abile! — Sì — è un prudente,<br>intelligente padrone quello che servite, signor generale!<br>Il Cancelliere mi scrive che non fa che adempiere<br>il disegno stesso del suo Sovrano defunto,<br>aiutandomi alla [[motifs/crown\|corona]] di Boemia. |  
-| WRANGEL | Dice il [[concepts/truth\|vero]]. Il nostro gran [[archetypes/king\|Re]], ora in cielo,<br>tenne sempre in altissimo pregio della Grazia Vostra<br>il senno preminente e il genio militare;<br>e sempre l'Intelletto che comanda,<br>diceva, deve avere il comando, ed essere il [[archetypes/king\|Re]]. |  
-| *(didascalia)* | [Prendendogli la mano. |  
-| WALLENSTEIN | Sì, poteva ben dirlo senza rischio. — Generale Wrangel,<br>via, con lealtà e franchezza — credetemi, io fui sempre<br>svedese in cuore. Eh! l'avete sperimentato<br>e in Slesia e a Norimberga;<br>v'ebbi spesso in mio potere, e vi lasciai<br>sempre sgusciar via per qualche porta di dietro.<br>È questo che la [[settings/court\|Corte]] non mi perdona mai,<br>ed è ciò che mi spinge a questo passo: e poiché<br>i nostri interessi corrono in una stessa direzione,<br>abbiamo pure piena confidenza<br>l'uno nell'altro. |  
-| WRANGEL | La confidenza verrà,<br>purché ciascuno abbia prima la sua sicurtà. |  
-| WALLENSTEIN | Il Cancelliere, vedo, non si fida ancora del tutto;<br>e, lo confesso — il guadagno non sta tutto<br>dalla mia parte — Senza [[concepts/doubt\|dubbio]] egli pensa:<br>se posso giocar falso con l'Imperatore,<br>che è il mio Sovrano, posso far lo stesso<br>col nemico; e che l'una cosa mi sarebbe<br>perdonata più presto che l'altra.<br>Non è anche questa la vostra opinione, signor generale? |  
-| WRANGEL | Qui io ho soltanto un ufficio, non un'opinione. |  
-| WALLENSTEIN | L'Imperatore m'ha spinto all'estremo.<br>Non posso più servirlo con onore.<br>Per la mia sicurezza, in difesa di [[concepts/self\|me]] stesso,<br>faccio questo passo duro, che la mia [[concepts/conscience\|coscienza]] biasima. |  
-| WRANGEL | Lo credo. Tanto oltre non andrebbe alcuno<br>che non vi fosse costretto. |  
-| *(didascalia)* | [Dopo una pausa. |  
-| WRANGEL | Che cosa abbia spinto<br>la vostra principesca Altezza ad agire così<br>verso il vostro Signore Sovrano e Imperatore,<br>non spetta a noi esporlo o criticarlo.<br>Lo Svedese combatte per la sua buona vecchia causa,<br>con la sua buona spada e la sua [[concepts/conscience\|coscienza]]. Questo concorso,<br>questa occasione, è in nostro favore,<br>e in guerra ogni vantaggio è lecito.<br>Prendiamo ciò che s'offre senza far domande;<br>e se tutto avrà le sue giuste e debite proporzioni —— |  
-| WALLENSTEIN | Di che dunque dubitate? Della mia volontà?<br>O del mio potere? M'impegnai col Cancelliere:<br>se mi affidasse sedicimila uomini,<br>passerei all'istante dalla loro parte<br>con diciottomila delle truppe imperiali. |  
-| WRANGEL | La Grazia Vostra è nota come possente capo di guerra,<br>come un secondo Attila e Pirro.<br>Se ne parla ancora con stupore sempre nuovo:<br>come anni or sono, oltre ogni umana [[concepts/faith\|fede]],<br>chiamaste fuori un esercito, come una creazione:<br>eppure —— |  
-| WALLENSTEIN | Eppure? |  
-| WRANGEL | Ma il Cancelliere pensa pur sempre<br>che sarebbe forse più facile chiamar fuori dal nulla<br>sessantamila uomini d'arme,<br>che persuaderne una sessantesima parte — |  
-| WALLENSTEIN | E che? Fuori, amico! |  
-| WRANGEL | A rompere i loro giuramenti. |  
-| WALLENSTEIN | E pensa così? — Giudica da svedese,<br>e da protestante. Voi luterani<br>combattete per la vostra [[historical-references/bible\|Bibbia]]. Vi sta a cuore<br>la causa; e col cuore seguite<br>le vostre bandiere. — Tra voi, chi diserta<br>passando al nemico, ha rotto il patto<br>con due Signori a un [[motifs/time\|tempo]]. — Noi non abbiamo simili grilli. |  
-| WRANGEL | Gran Dio del cielo! Non hanno dunque qui gli uomini<br>né casa né [[motifs/home\|tetto]], né [[motifs/fire\|focolare]], né altare? |  
-| WALLENSTEIN | Vi spiegherò io come stanno le cose —<br>l'Austriaco ha una patria, sì, e l'ama,<br>e ha buona ragione d'[[motifs/love\|amarla]] — ma quest'esercito,<br>che si chiama imperiale, questo che alloggia<br>qui in Boemia, questo non ne ha — non ha patria;<br>è un reietto di tutte le terre straniere,<br>da nessuna città o tribù reclamato, cui nulla appartiene,<br>nulla, tranne il sole universale. |  
-| WRANGEL | Ma allora i Nobili e gli Ufficiali?<br>Una tale diserzione, un tale misfatto,<br>è senza esempio, mio signore Duca,<br>nella [[concepts/history\|storia]] del mondo. |  
-| WALLENSTEIN | Son tutti miei —<br>miei senza condizioni — miei a ogni patto.<br>Non a me, ai vostri occhi dovete credere. |  
-| *(didascalia)* | [Gli porge il foglio che contiene il giuramento scritto. WRANGEL lo legge tutto, e, letto che l'ha, lo posa sul tavolo, restando in silenzio. |  
-| WALLENSTEIN | E dunque?<br>Ora comprendete? |  
-| WRANGEL | Comprenda chi può!<br>Signore Duca, lascio cadere la maschera — sì!<br>Ho pieni poteri per un accordo definitivo.<br>Il Conte del Reno sta a sole quattro giornate di marcia da qui,<br>con quindicimila uomini, e non attende<br>che l'ordine d'avanzare e unirsi al vostro esercito.<br>Quell'ordine lo do io, non appena<br>siamo impegnati. |  
-| WALLENSTEIN | Che chiede il Cancelliere? |  
-| WRANGEL | Dodici reggimenti, ogni uomo svedese — la mia testa<br>ne è la garanzia — e tutto potrebbe alla fine risultare<br>un giuoco falso —— |  
-| WALLENSTEIN | Signor Svedese! |  
-| WRANGEL | Sono dunque costretto<br>a insistere che egli rompa formalmente,<br>irrevocabilmente, con l'Imperatore;<br>altrimenti non uno svedese sarà affidato al duca Friedland. |  
-| WALLENSTEIN | Suvvia, breve e chiaro! Qual è la richiesta? |  
-| WRANGEL | Che disarmi senza indugio i reggimenti spagnoli<br>devoti all'Imperatore, che s'impadronisca di Praga,<br>e agli Svedesi ceda quella [[motifs/city\|città]], insieme<br>al forte passo di Egra. |  
-| WALLENSTEIN | Questo è davvero molto!<br>Praga! — Egra sia concessa — Ma — ma Praga! — non si può.<br>Vi do ogni sicurtà<br>che possiate chiedermi entro comune ragione —<br>ma Praga — la Boemia — queste, signor generale,<br>so proteggerle da me. |  
-| WRANGEL | Non ne [[concepts/doubt\|dubitiamo]].<br>Ma non è la protezione ciò che ora<br>solo ci preme. Vogliamo la sicurtà<br>di non spendere i nostri uomini e il nostro denaro<br>del tutto invano. |  
-| WALLENSTEIN | È ben ragionevole. |  
-| WRANGEL | E finché non siamo indennizzati, tanto a lungo<br>resti Praga in pegno. |  
-| WALLENSTEIN | Vi fidate dunque così poco di noi? |  
-| *(didascalia)* | (alzandosi) |  
-| WRANGEL | Lo Svedese, se vuol trattar [[motifs/well\|bene]] col Tedesco,<br>deve tenere gli occhi aperti. Siamo stati chiamati<br>di là dal Baltico, abbiamo salvato l'impero<br>dalla rovina — col nostro miglior [[motifs/blood\|sangue]] abbiamo suggellato<br>la libertà della [[concepts/faith\|fede]] e la [[concepts/truth\|verità]] evangelica.<br>Ma già ora il beneficio<br>non si sente più, si sente il peso soltanto. ——<br>Ci guardate di traverso, con occhio maligno,<br>come stranieri, intrusi nell'impero,<br>e volentieri ci rimandereste, con qualche misera somma<br>di denaro, a [[motifs/home\|casa]] nelle nostre vecchie foreste.<br>No, no! signore Duca! no! — non fu mai<br>per la paga di Giuda, per oro e argento sonanti,<br>che lasciammo il nostro [[archetypes/king\|Re]] presso la Gran Pietra.<br>No, non per oro e argento hanno sanguinato<br>tanti dei nostri nobili svedesi — né<br>vogliamo, con vuoti allori per compenso,<br>far vela verso il nostro paese. Cittadini<br>vogliamo restare su quel suolo che<br>il nostro Monarca conquistò per sé, e vi morì. |  
-| WALLENSTEIN | Aiutate a tener giù il comune nemico,<br>e la bella terra di confine dovrà pur essere vostra. |  
-| WRANGEL | Ma quando il comune nemico giacerà vinto,<br>chi terrà allora stretta la nostra nuova [[concepts/friendship\|amicizia]]?<br>Sappiamo, duca Friedland! benché forse lo Svedese<br>non avrebbe dovuto saperlo, che voi conducete<br>segrete trattative coi Sassoni.<br>Chi ci garantisce che non siamo noi<br>le vittime di quegli articoli<br>che si crede necessario tenerci nascosti? |  
-| *(didascalia)* | Wallenstein (si alza). |  
-| WALLENSTEIN | Pensate a qualcosa di meglio, Gustavo Wrangel!<br>Di Praga non più. |  
-| WRANGEL | Qui finisce il mio mandato. |  
-| WALLENSTEIN | Consegnarvi la mia capitale!<br>Molto più volentieri farei dietro-front, e tornerei<br>indietro al mio Imperatore. |  
-| WRANGEL | Se il [[motifs/time\|tempo]] lo permette ancora —— |  
-| WALLENSTEIN | Questo dipende da me, anche ora, a ogni ora. |  
-| WRANGEL | Qualche giorno fa, forse. Oggi non più,<br>non più da quando Sesina è prigioniero.<br>Signore Duca, ascoltatemi — Noi crediamo che voi<br>al presente abbiate verso di noi oneste intenzioni.<br>Da ieri ne siamo certi — e ora,<br>poiché questo foglio risponde per le truppe, nulla<br>s'oppone alla nostra piena confidenza.<br>Praga non ci dividerà. Udite! Il Cancelliere<br>si contenta di Albstadt, alla Grazia Vostra<br>cede il Ratschin e la parte stretta;<br>ma Egra soprattutto ci deve aprire le porte,<br>prima che si possa pensare a una congiunzione. |  
-| WALLENSTEIN | Di voi,<br>di voi dunque devo fidarmi, e voi non di me?<br>Rifletterò sulla vostra proposta. |  
-| WRANGEL | Devo pregarvi che la vostra riflessione<br>non occupi troppo [[motifs/time\|tempo]]. Già<br>questa trattativa, signore Duca,<br>si trascina nel secondo anno. Se nulla<br>si conclude questa [[motifs/time\|volta]], il Cancelliere<br>la considererà rotta per sempre. |  
-| WALLENSTEIN | Mi incalzate duramente. Una misura come questa<br>vuol essere meditata. |  
-| WRANGEL | Sì! ma pensate anche a questo:<br>che solo un'azione subitanea può procurarle<br>successo — pensate prima a questo, Altezza. |  
-| *(didascalia)* | [Esce WRANGEL. |
-
 
 
 <span class="atom-split" data-atom="act_4--scene_6" data-title="THE PICCOLOMINI — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="motif/well,concept/mercy"></span>
@@ -2519,21 +1347,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | WALLENSTEIN | To live upon the [[concepts/mercy\|mercy]] of these Swedes!<br>Of these proud-hearted Swedes! I could not bear it. |
 | ILLO | Goest thou as fugitive, as mendicant?<br>Bringest thou not more to them than thou receivest? |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | WALLENSTEIN, TERTSKY e ILLO (rientrano). |  
-| ILLO | Va tutto bene? |  
-| TERTSKY | Vi siete compromesso? |  
-| ILLO | Questo Svedese<br>vi ha lasciato sorridendo. Sì! vi siete compromesso. |  
-| WALLENSTEIN | Nulla ancora è deciso: e (a [[motifs/well\|ben]] pesarlo)<br>mi sento inclinato a lasciar le cose così. |  
-| TERTSKY | Come? Che dite mai? |  
-| WALLENSTEIN | Venga su me ciò che venir dovrà,<br>far male per schivare un male<br>non può essere bene! |  
-| TERTSKY | No, ma riflettete, Duca. |  
-| WALLENSTEIN | Vivere alla [[concepts/mercy\|mercé]] di questi Svedesi!<br>Di questi Svedesi dal cuore superbo! Non potrei sopportarlo. |  
-| ILLO | Vai tu come fuggiasco, come mendicante?<br>Non porti loro più di quanto da loro ricevi? |
 
 
 
@@ -2594,61 +1407,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | *(didascalia)* | [While he is making his exit the curtain drops. |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | A costoro si aggiunge la CONTESSA TERTSKY. |  
-| WALLENSTEIN | Chi vi ha chiamata? Qui non c'è faccenda<br>per donne. |  
-| COUNTESS | Vengo a farvi i miei rallegramenti. |  
-| WALLENSTEIN | Usa la tua autorità, Tertsky, falla uscire. |  
-| COUNTESS | Giungo forse troppo presto? [[concepts/hope\|Spero]] di no. |  
-| WALLENSTEIN | Non aizzarmi contro questa lingua, te ne prego.<br>Sai ch'è l'arma che mi manda in rovina.<br>Sono messo in fuga, se una donna m'assale.<br>Non so trafficare nel mercato delle parole<br>con quel sesso che non ragiona. |  
-| COUNTESS | Io avevo già<br>dato ai Boemi un [[archetypes/king\|re]]. |  
-| WALLENSTEIN | Ne hanno uno,<br>di conseguenza, senza [[concepts/doubt\|dubbio]]. |  
-| COUNTESS | Ah! quale nuovo scrupolo? |  
-| TERTSKY | Il Duca non vuole. |  
-| COUNTESS | Non vuole ciò che deve! |  
-| ILLO | Ora tocca a voi. Tentate. Io resto muto,<br>quando la gente prende a parlarmi di [[concepts/conscience\|coscienza]],<br>e di fedeltà. |  
-| COUNTESS | Come? dunque, quando tutto<br>stava in lontananza remota, quando la [[motifs/road\|via]]<br>si stendeva interminabile davanti ai tuoi occhi,<br>allora avevi [[concepts/courage\|coraggio]] e risolutezza; e ora,<br>ora che il sogno si va avverando,<br>il disegno maturo, l'esito assicurato,<br>ora cominci a fare il codardo?<br>Solo ideata, è una comune scelleratezza;<br>compiuta, un'impresa immortale:<br>e col successo viene a braccetto il perdono;<br>ché ogni evento è arbitrio di Dio. |  
-| *(didascalia)* | Un servo (entra). |  
-| SERVANT | Il colonnello Piccolomini. |  
-| COUNTESS | — Deve attendere. |  
-| WALLENSTEIN | Non posso vederlo ora. Un'altra [[motifs/time\|volta]]. |  
-| SERVANT | Ma non chiede che due minuti d'udienza.<br>Della più urgente [[concepts/nature\|natura]] è la sua faccenda. |  
-| WALLENSTEIN | Chi sa che cosa ci porti? Voglio udirlo. |  
-| COUNTESS | Urgente per lui, senza [[concepts/doubt\|dubbio]]; ma tu puoi attendere. |  
-| WALLENSTEIN | Di che si tratta? |  
-| COUNTESS | Ne sarai informato più tardi.<br>Prima ti stringa un patto con lo Svedese. |  
-| *(didascalia)* | [Esce il servo. |  
-| WALLENSTEIN | Se ancora vi fosse una scelta! se ancora una via<br>di scampo più mite fosse possibile — io ancora<br>la sceglierei, e sfuggirei l'ultimo estremo. |  
-| COUNTESS | Non desideri altro? Una via siffatta<br>ti sta ancora davanti. Congeda questo Wrangel.<br>Scorda le tue antiche speranze, getta lontano<br>tutta la tua vita passata; risolviti a cominciarne<br>una nuova. Ha i suoi eroi anche la Virtù,<br>[[motifs/well\|come]] la Fama e la Fortuna. — A Vienna —<br>via — dall'Imperatore — inginocchiati al trono;<br>porta con te uno scrigno colmo — di' ad alta voce<br>che volevi solo provare la tua fedeltà;<br>che tutto il tuo intento era ingannare lo Svedese. |  
-| ILLO | Anche per questo è troppo tardi. Sanno troppo.<br>Non farebbe che portare il proprio capo al ceppo. |  
-| COUNTESS | Non lo [[concepts/fear\|temo]]. Non hanno prove<br>per condannarlo legalmente, ed evitano<br>di confessare un potere arbitrario.<br>Lasceranno che il Duca si dimetta senza scosse.<br>Vedo come andrà a finire. Il [[archetypes/king\|Re]] d'Ungheria<br>fa la sua comparsa, e da sé s'intenderà<br>che allora il Duca si ritira.<br>Non occorrerà una dichiarazione formale.<br>Il [[characters/young-king\|giovane Re]] farà prestare il giuramento<br>a tutto l'esercito; e così ogni cosa torna<br>all'antica posizione. Una mattina qualunque<br>il Duca parte; ed ecco moto e trambusto<br>dentro i suoi castelli. Andrà a caccia, fabbricherà,<br>sorveglierà le genealogie dei suoi cavalli;<br>si crea una [[settings/court\|corte]], distribuisce chiavi d'oro,<br>e introduce il più rigido cerimoniale<br>in belle proporzioni, e minuta etichetta;<br>tiene tavola aperta e lauta; in breve,<br>si fa possente [[archetypes/king\|Re]] — in miniatura.<br>E finché si porta con prudenza,<br>e non si dà importanza effettiva,<br>lo lasceranno parere ciò che vuole;<br>e chi oserà [[concepts/doubt\|dubitare]] che Friedland parrà<br>un possente Principe fino all'ultima sua ora?<br>[[motifs/well\|Ebbene]], e poi? Il duca Friedland è come gli altri,<br>un Nobile appena uscito dal [[motifs/fire\|fuoco]], che la guerra ha levato<br>a prezzo e corso, una Zucca di Giona,<br>creatura d'una sola [[motifs/night\|notte]] del favore di [[settings/court\|corte]],<br>che con indistinguibile facilità<br>fa Baroni o fa Principi. |  
-| WALLENSTEIN | Portatela via.<br>Fate entrare il giovane conte Piccolomini. |  
-| COUNTESS | Dici sul serio? Te ne scongiuro! Puoi tu<br>acconsentire a portarti da te alla tua [[motifs/grave\|tomba]],<br>a inaridire così ignominiosamente?<br>La tua vita, che s'arrogò tanta altezza,<br>finire in un tale nulla! Essere nulla,<br>quando sempre si fu nulla, è un male<br>che non chiede gran pazienza, un male lieve;<br>ma divenire un nulla, essendo stato —— |  
-| WALLENSTEIN | Mostratemi una via fuori da questa calca che soffoca,<br>o Potenze del Soccorso! Mostratemi una via<br>ch'io sia capace di percorrere. — Io<br>non sono un [[archetypes/hero\|eroe]] di lingua, né bel ciarliero di virtù;<br>non so scaldarmi pensando; non so dire<br>alla buona sorte che mi volge le spalle,<br>magnanimo: «Va'! non ho bisogno di te.»<br>Se cesso d'operare, sono annientato;<br>né pericoli né sacrifici io schiverò,<br>se così posso evitare l'ultimo estremo;<br>ma prima ch'io sprofondi nel nulla,<br>e finisca sì piccolo, io che cominciai sì grande,<br>prima che il mondo mi confonda con quei<br>poveri miseri che un giorno crea e sbriciola,<br>dica questa età e le età venture il mio nome<br>con odio e terrore; e Friedland sia il riscatto<br>d'ogni maledetta impresa! |  
-| COUNTESS | Che c'è dunque qui<br>di tanto contro [[concepts/nature\|natura]]? Aiutami a vederlo!<br>Oh, non soggioghino i notturni folletti della Superstizione<br>il tuo spirito chiaro e lucente! Ti si comanda<br>d'uccidere? — con pugnale aborrito e maledetto,<br>di violare il seno che ti nutrì?<br>Questo sarebbe contro la nostra [[concepts/nature\|natura]], questo ben potrebbe<br>far rabbrividire la tua carne e nausearti il cuore.<br>Eppure non pochi, e per fine più meschino,<br>hanno osato anche questo, sì, e l'hanno compiuto.<br>Che c'è nel tuo caso di così nero e mostruoso?<br>Sei accusato di tradimento — se a torto<br>o a ragione, non è questa ora la questione —<br>sei perduto se non ti giovi presto<br>del potere che possiedi — Friedland! Duca!<br>Dimmi, dove vive creatura tanto mite e mansueta<br>che non metta in opera ogni sua viva facoltà<br>per la conservazione della propria vita?<br>Quale atto è tanto ardito, che la necessità<br>e la disperazione non lo santifichino? |  
-| WALLENSTEIN | Un tempo questo [[characters/ferdinand\|Ferdinando]] mi fu tanto benigno:<br>m'amava; mi stimava; ero posto<br>il più vicino al suo cuore. Ben molte [[motifs/time\|volte]]<br>noi, come amici familiari, a una stessa mensa,<br>abbiamo banchettato insieme. Lui ed io —<br>e i giovani re stessi mi reggevano il bacile<br>per lavarmi — e s'è giunti a questo? |  
-| COUNTESS | Così fedelmente serbi ogni piccolo favore,<br>e non hai [[motifs/memory\|memoria]] per gli oltraggi?<br>Devo rammentarti come a Ratisbona<br>quest'uomo ripagò i tuoi fedeli servigi?<br>Tutti i gradi e tutte le condizioni dell'Impero<br>avevi offeso per farlo grande, — t'eri caricato addosso,<br>addosso a te, l'odio, la maledizione del mondo intero.<br>Non esisteva amico per te in tutta la [[settings/germany\|Germania]],<br>e perché? perché tu eri esistito solo<br>per l'Imperatore. All'Imperatore soltanto<br>s'aggrappò Friedland in quella [[motifs/storm\|tempesta]] che gli si addensò intorno<br>a Ratisbona nella Dieta — ed egli ti lasciò cadere!<br>Ti lasciò cadere! Ti lasciò cadere vittima<br>del Bavarese, di quell'insolente!<br>Deposto, spogliato d'ogni tua dignità<br>e potere, fra gli scherni dei tuoi nemici,<br>fosti lasciato precipitare nell'oscurità. —<br>Non dire che la restituzione del tuo [[concepts/honour\|onore]]<br>abbia espiato quella prima ingiustizia.<br>Non fu onesta benevolenza a rimetterti al posto:<br>la legge della dura necessità ti rimise,<br>cui volentieri s'opponevano, se solo avessero potuto. |  
-| WALLENSTEIN | Non ai loro buoni voti, questo è certo,<br>né all'affetto di lui io debbo<br>quest'alto ufficio; e se ne abuso,<br>non abuserò con ciò d'alcuna fiducia. |  
-| COUNTESS | Affetto! fiducia! — Avevano bisogno di te.<br>La Necessità, impetuosa rimostrante!<br>che non si serve di nomi vuoti né d'apparenze vicarie,<br>che vuole la cosa e non il simbolo,<br>cerca sempre il più grande e il migliore,<br>e al timone lo pone, foss'anche<br>costretta a toglierlo dalla plebaglia —<br>lei, questa Necessità, fu che ti pose<br>in quest'alto ufficio, fu lei che ti diede<br>le tue lettere patenti d'investitura.<br>Ché, fino all'ultimo momento in cui possono,<br>costoro si servono ancora al minor prezzo<br>d'anime servili, di burattini! All'approssimarsi<br>del pericolo estremo, quando un'immagine vuota<br>si scopre immagine vuota e nulla più,<br>allora il potere cade nelle possenti mani<br>della [[concepts/nature\|Natura]], dello spirito nato gigante,<br>che ascolta solo se stesso, e nulla sa<br>di patti, di doveri, di riverenze,<br>e, come la forza sciolta del [[motifs/fire\|fuoco]],<br>indomato incenerisce, prima che le raggiunga,<br>le loro tele sottili, la loro politica artificiosa. |  
-| WALLENSTEIN | È vero! m'hanno sempre visto quale sono —<br>sempre! Non li ho ingannati nel mercato.<br>Mai stimai valesse la pena di nascondere<br>l'abito audace e di tutto avido della mia [[motifs/soul\|anima]]. |  
-| COUNTESS | Anzi — ti sei sempre mostrato<br>uomo formidabile, senza freno;<br>hai esercitato per intero le prerogative<br>della tua impetuosa [[concepts/nature\|natura]], che una volta<br>ti furono concesse. Dunque, Duca, non tu,<br>che sei rimasto sempre coerente con te stesso,<br>ma hanno torto loro, che temendoti<br>affidarono tanto potere a mani che temevano.<br>Ché, per le leggi dello Spirito, ha ragione<br>ogni singolo carattere<br>che opera in stretta coerenza con se stesso.<br>La contraddizione con [[concepts/self\|sé]] è l'unico torto.<br>Eri forse un altro essere, allora, quando<br>otto anni fa spingevi la tua marcia col [[motifs/fire\|fuoco]]<br>e la spada e la desolazione, per i Circoli<br>della [[settings/germany\|Germania]], flagello universale,<br>schernivi ogni ordinamento dell'impero,<br>esercitavi il terribile diritto della forza soltanto,<br>calpestavi al suolo ogni grado, ogni magistratura,<br>tutto per stendere il tuo dominio di Sultano?<br>Quello era il [[motifs/time\|tempo]] di domarti, di frenare<br>la tua superba volontà, d'insegnarti la regola.<br>Ma no! l'Imperatore non sentì tocco di [[concepts/conscience\|coscienza]]:<br>ciò che gli giovava gli piaceva, e senza un mormorio<br>stampò il suo largo sigillo su quelle imprese senza legge.<br>Ciò che in quel [[motifs/time\|tempo]] era giusto, perché lo facevi<br>per lui, oggi d'un tratto è divenuto<br>obbrobrioso, turpe, perché è rivolto<br>contro di lui. — Oh superstizione fragilissima! |  
-| WALLENSTEIN | Mai l'avevo veduto sotto questa luce.<br>È proprio così. L'Imperatore perpetrò<br>per il mio braccio imprese, imprese fuor d'ogni regola.<br>E questo stesso manto di principe ch'io porto,<br>lo debbo a ciò che furono servigi per lui,<br>ma altissimi misfatti contro l'impero. |  
-| COUNTESS | Dunque fra te e lui (confessalo, Friedland!)<br>non può più trattarsi di diritto e di dovere,<br>ma solo di potere e d'occasione.<br>Quell'occasione, ecco! viene laggiù,<br>s'avvicina con rapidi destrieri; e tu d'un balzo<br>gettati sul seggio del carro,<br>afferra con mano ferma le redini, prima che l'avversario<br>ti prevenga, e faccia sua conquista<br>del seggio ora vuoto. Viene il momento —<br>è già qui, in cui devi scrivere<br>il totale assoluto della vasta somma della tua vita.<br>Le costellazioni stanno vittoriose su di te,<br>i pianeti saettano buona sorte in belle congiunzioni,<br>e ti dicono: «Ora è il [[motifs/time\|tempo]]!» I corsi degli astri<br>li hai misurati tutta la vita senza uno scopo?<br>Il quadrante e il cerchio, erano trastulli? |  
-| *(didascalia)* | [Additando i vari oggetti nella stanza. |  
-| COUNTESS | Gli zodiaci, le roteanti sfere del cielo,<br>li hai dipinti su queste pareti, e tutt'intorno a te,<br>in muti simboli presaghi, hai collocato<br>questi sette Signori che presiedono al Destino —<br>per giuoco? Tutta questa preparazione è nulla?<br>Non c'è midollo in quest'arte vuota,<br>sì che nemmeno a te stesso essa giova<br>in nulla, e nessun influsso ha su di te<br>nel grande momento della decisione? —— |  
-| WALLENSTEIN | Mandatemi Wrangel — spedirò all'istante<br>tre corrieri —— |  
-| ILLO | Sia lodato Dio in cielo! |  
-| *(didascalia)* | (uscendo in fretta) |  
-| WALLENSTEIN | È il suo genio malvagio e il mio.<br>Il nostro genio malvagio! Castiga lui<br>per mezzo mio, strumento della sua [[concepts/ambition\|ambizione]];<br>e non m'aspetto di meno, se non che la [[concepts/revenge\|Vendetta]]<br>già ora affili per il mio petto il pugnale.<br>Chi semina i denti del serpente, non [[concepts/hope\|speri]]<br>di mietere lieta messe. Ogni delitto<br>ha, nel momento stesso in cui si compie,<br>il proprio angelo vendicatore — un oscuro presentimento,<br>un sinistro mancare in fondo al cuore.<br>Egli non può più fidarsi di me — dunque non posso<br>più ritrarmi — e venga ciò che deve venire. —<br>Il destino serba pur sempre le sue giuste ragioni,<br>il cuore dentro di noi ne è l'assoluto<br>vicario. |  
-| *(didascalia)* | [A TERTSKY. |  
-| WALLENSTEIN | Va', conduci tu Gustavo Wrangel<br>al mio gabinetto di stato. Io stesso parlerò<br>ai corrieri. — E manda immediatamente<br>un servo a chiamare Ottavio Piccolomini. |  
-| *(didascalia)* | [Alla CONTESSA. |  
-| WALLENSTEIN | Nessuna esultanza — donna, non trionfare!<br>Ché gelose sono le Potenze del Destino.<br>Gioia precoce, e grida prima della vittoria,<br>usurpano i loro diritti e privilegi.<br>Noi seminiamo il seme, ed esse decidono la crescita. |  
-| *(didascalia)* | [Mentre egli esce, cala il sipario. |
-
 
 
 <span class="atom-split" data-atom="act_5--scene_2" data-title="THE PICCOLOMINI — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/night,motif/time"></span>
@@ -2662,16 +1420,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | WALLENSTEIN | Now go, Octavio.<br>This [[motifs/night\|night]] must thou be off, take my own horses:<br>Him here I keep with me — make short farewell —<br>Trust me, I think we all shall meet again<br>In joy and thriving fortunes. |
 | OCTAVIO | *(to his son.)* I shall see you<br>Yet ere I go. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | WALLENSTEIN, OCTAVIO PICCOLOMINI. |  
-| WALLENSTEIN | Mi manda a dire da Linz che giace infermo;<br>ma ho notizia certa che colui<br>si tiene ascoso a Frauenberg con Galas.<br>Assicurati d'entrambi, e me li manda qui.<br>Rammenta: tu assumi sopra te il comando<br>di quei medesimi reggimenti spagnoli, — del continuo<br>fa' preparativi, e non esser mai pronto;<br>e se ti spingono a marciar contro di me,<br>rispondi sempre sì, e sta' come in ceppi.<br>So bene che ti rendo un buon servigio<br>tenendoti fuor d'opera in tal faccenda.<br>Tu ami indugiare fra le belle apparenze;<br>i passi dell'estremo non son tuo dominio,<br>perciò t'ho ricercato questa parte.<br>Mi sarai questa [[motifs/time\|volta]] di massimo aiuto<br>con la tua inerzia. In quel [[motifs/time\|tempo]], se fortuna<br>si dichiari dal mio lato, tu saprai<br>quel che si debba fare. |  
-| *(didascalia)* | Entra MAX PICCOLOMINI. |  
-| WALLENSTEIN | Or va', Octavio.<br>Questa [[motifs/night\|notte]] devi partire, prendi i miei cavalli:<br>costui trattengo qui con me — breve sia il commiato —<br>credimi, penso che tutti c'incontreremo ancora<br>in gioia e in prospere fortune. |  
-| OCTAVIO | *(al figlio.)* Ti rivedrò<br>ancora, prima ch'io parta. |
 
 
 
@@ -2709,39 +1457,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | *(didascalia)* | [After 128] WALLENSTEIN betrays a sudden agitation. 1800, 1828, 1829. |
 | *(didascalia)* | [After 148] MAX stands as convulsed, with a gesture and countenance expressing the most intense anguish. 1800, 1828, 1829. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | WALLENSTEIN, MAX PICCOLOMINI. |  
-| MAX | Mio Generale! |  
-| WALLENSTEIN | Tale non son più, se<br>tu ti dici ufficiale dell'Imperatore. |  
-| MAX | Dunque lascerai l'esercito, Generale? |  
-| WALLENSTEIN | Ho rinunciato al servizio dell'Imperatore. |  
-| MAX | E lascerai l'esercito? |  
-| WALLENSTEIN | Anzi [[concepts/hope\|spero]]<br>di legarlo a me più stretto ancora e più saldo. |  
-| *(didascalia)* | Si siede. |  
-| WALLENSTEIN | Sì, Max, ho indugiato ad aprirtelo,<br>fin quasi all'ora in cui l'agire batte.<br>Il fortunato senso della giovinezza afferra facilmente<br>il diritto assoluto, ed è una gioia<br>esercitare il giudizio semplice<br>là dove i conti tornano alla prova;<br>ma dove accade che di due mali certi<br>uno si debba prendere, e il cuore non tutto<br>si riscatti dalla contesa dei doveri,<br>là è benedizione non avere scelta,<br>e la nuda necessità è grazia e favore.<br>— Questo è ora presente: non guardare dietro a te. —<br>Più non ti giova. Guarda innanzi a te!<br>Non pensare! non giudicare! apprestati ad agire!<br>La [[settings/court\|Corte]] — essa ha decretato la mia rovina,<br>perciò io voglio prevenirla.<br>Ci uniremo agli Svedesi — gente assai valorosa,<br>e nostri buoni amici. |  
-| *(didascalia)* | Si arresta, aspettando la risposta di PICCOLOMINI. |  
-| WALLENSTEIN | Ti ho colto di sorpresa. Non rispondermi.<br>Ti concedo [[motifs/time\|tempo]] di raccoglierti in te. |  
-| *(didascalia)* | Si alza e si ritira in fondo alla scena. MAX resta per lungo [[motifs/time\|tempo]] immobile, in un rapimento di angoscia estrema. Al suo primo moto WALLENSTEIN ritorna e gli si pone dinanzi. |  
-| MAX | Mio Generale, quest'oggi tu mi fai<br>d'età da parlare in mio diritto e in mia persona,<br>ché fino a questo giorno mi fu risparmiata la pena<br>di cercarmi da me la mia [[motifs/road\|via]]. Te ho seguito<br>con la più implicita, incondizionata [[concepts/faith\|fede]],<br>certo del retto sentiero se seguivo te.<br>Oggi, per la prima [[motifs/time\|volta]], tu rimandi<br>me a me stesso, e mi costringi a fare<br>elezione fra te e il mio proprio cuore. |  
-| WALLENSTEIN | Molle ti cullò la tua Fortuna fino a oggi;<br>i tuoi doveri potevi esercitarli per gioco,<br>assecondare ogni amabile istinto, agire sempre<br>con cuore indiviso. Non può rimanere<br>più così. Come nemiche, le strade<br>si scostano l'una dall'altra. Doveri lottano con doveri.<br>Devi pur scegliere il tuo partito nella guerra<br>che ora s'accende fra il tuo amico e colui<br>che è il tuo Imperatore. |  
-| MAX | Guerra! è questo il nome?<br>La guerra è spaventosa come la peste del cielo.<br>Pure è buona, s'è volere del cielo come quella.<br>È buona quella guerra che contro l'Imperatore<br>tu muovi con l'esercito dell'Imperatore stesso?<br>O Dio del cielo! quale mutamento è mai questo.<br>Si conviene a me offrire tale persuasione<br>a te, che come stella fissa del polo<br>eri tutto il mio sguardo sull'oceano senza rotte della vita?<br>Oh! che squarcio tu fai nel mio cuore!<br>L'istinto radicato dell'antica reverenza,<br>la santa abitudine dell'obbedienza,<br>devo strapparle vive dal tuo nome?<br>No, non volgere verso me il tuo volto —<br>fu sempre come un dio che mi guardava!<br>Duca Wallenstein, la sua potenza non è dipartita:<br>i sensi ancora sono nei tuoi lacci, benché,<br>sanguinando, l'[[motifs/soul\|anima]] si sia liberata. |  
-| WALLENSTEIN | Max, ascoltami. |  
-| MAX | Oh! non lo fare, te ne prego, non lo fare!<br>C'è un'[[motifs/soul\|anima]] pura e nobile dentro di te,<br>che nulla sa di quest'atto empio e infausto.<br>La tua volontà è casta, è la sola fantasia<br>che t'ha contaminato — e l'innocenza,<br>essa non si lascerà scacciare<br>da quel volto che sgomenta il mondo. Tu non vorrai,<br>tu non puoi finire in questo. Ridurrebbe<br>ogni creatura umana a slealtà<br>contro la nobiltà della propria [[concepts/nature\|natura]].<br>Giustificherà la volgare miscredenza,<br>che nulla tiene di nobile nel libero arbitrio,<br>e s'affida all'impotenza sola<br>fatta potente solo in un potere ignoto. |  
-| WALLENSTEIN | Il mondo mi giudicherà severo, me l'aspetto.<br>Già ho detto a me [[concepts/self\|stesso]]<br>tutto ciò che tu puoi dirmi. Chi pur evita<br>l'estremo, — può girandogli intorno evitarlo?<br>Ma qui non v'è scelta. Sì — io devo usare<br>o patire violenza — così sta il caso,<br>nient'altro rimane possibile che questo. |  
-| MAX | Oh, questo non è mai possibile per te!<br>È l'ultima disperata risorsa di quelle<br>anime vili, cui l'[[concepts/honour\|onore]], il loro buon nome<br>è il povero risparmio, l'ultimo vile presidio,<br>che, giocato e perduto, giocano se stesse<br>nella folle rabbia del giocare. Tu sei ricco,<br>e glorioso; con un cuore incontaminato<br>puoi far conquista di quanto par più alto!<br>Ma colui che una volta ha operato infamia,<br>più nulla fa in questo mondo. |  
-| WALLENSTEIN | Calma, Max!<br>Molto di grande e d'eccellente ancora<br>compiremo noi due insieme. E se soltanto<br>staremo sull'altezza con dignità, presto<br>si dimentica, Max, per qual [[motifs/road\|via]] salimmo.<br>Credimi, più d'una [[motifs/crown\|corona]] splende ora immacolata,<br>che pure fu ben lorda nel conquistarla.<br>Allo spirito maligno appartiene la terra,<br>non al buono. Tutto ciò che le potenze divine<br>mandano dall'alto sono universali benedizioni:<br>la loro luce ci rallegra, la loro aria ristora,<br>ma mai finora uomo ne fu arricchito:<br>nel loro eterno regno nessun possesso<br>è da contendere — là tutto è comune.<br>La [[motifs/jewel\|gemma]], l'oro sopra ogni cosa pregiato, li vinciamo<br>dalle Potenze ingannatrici, depravate di [[concepts/nature\|natura]],<br>che dimorano sotto il giorno e la benedetta luce del sole.<br>Non senza sacrifici esse sono rese<br>propizie, e non vive [[motifs/soul\|anima]] sulla terra<br>che mai si ritraesse immacolata dal loro servigio. |  
-| *(didascalia)* | gli afferra la mano |  
-| MAX | Quanto è umano, all'essere umano<br>io lo concedo — e allo spirito veemente<br>e lottatore volentieri perdono<br>l'eccesso dell'azione; ma a te, mio Generale!<br>sopra ogni altro io faccio ampia concessione.<br>Ché tu devi muovere un mondo, ed esserne il padrone —<br>t'uccide chi ti condanna all'inazione.<br>Sia dunque! mantieniti al tuo posto<br>con la violenza. Resisti all'Imperatore,<br>e se dev'essere, respingi la forza con la forza:<br>non lo loderò, pure lo posso perdonare.<br>Ma non — non al traditore — sì! — la parola<br>è pronunciata ——<br>non al traditore io posso concedere perdono.<br>Quello non è mero eccesso! non è errore<br>dell'umana [[concepts/nature\|natura]] — è cosa tutta diversa,<br>oh, quello è nero, nero come la fossa d'inferno!<br>Non puoi udirlo nominare, e vorrai farlo?<br>Oh, torna al tuo dovere. Che tu lo possa,<br>lo tengo per certo. Mandami a Vienna.<br>Io farò per te la tua pace con l'Imperatore.<br>Egli non ti conosce. Ma io ti conosco. Egli<br>ti vedrà, Duca! col mio occhio senza nube,<br>e io ti riporterò la sua fiducia. |  
-| WALLENSTEIN | È troppo tardi. Tu non sai ciò che è accaduto. |  
-| MAX | Fosse pur troppo tardi, e le cose andate sì oltre,<br>che un delitto soltanto potesse impedire la tua caduta,<br>allora — cadi! cadi con onore, come ritto stavi.<br>Perdi il comando. Esci dalla scena della guerra.<br>Puoi farlo con splendore — fallo anche<br>con innocenza. Hai vissuto molto per gli altri,<br>vivi alfine per te [[concepts/self\|stesso]]. Io ti seguo.<br>Il mio destino non lo separo mai dal tuo. |  
-| WALLENSTEIN | È troppo tardi! Anche ora, mentre tu perdi<br>le tue parole, una dopo l'altra le pietre miliari<br>son lasciate rapide indietro dai miei corrieri di posta,<br>che portano l'ordine a Praga e a Egra.<br>Cedi a questo. Agiamo come siamo costretti.<br>Non posso dare assenso alla mia stessa onta<br>e rovina. Tu — no — tu non puoi abbandonarmi!<br>Facciamo dunque ciò che va fatto, con dignità,<br>con passo fermo. Che faccio io di peggio<br>di quel che fece il famoso Cesare al Rubicone,<br>quando condusse le legioni contro la sua patria,<br>quelle che la sua patria a lui aveva consegnate?<br>Avesse gettato la spada, sarebbe stato perduto,<br>come io sarei, se solo mi disarmassi.<br>Rintraccio in me qualcosa del suo spirito.<br>Datemi la sua fortuna, quell'altro lo sopporterò. |  
-| *(didascalia)* | MAX lo lascia bruscamente. WALLENSTEIN, trasalito e sopraffatto, continua a guardarlo allontanarsi, ed è ancora in questa posa quando entra TERTSKY. |  
-| *(didascalia)* | [Dopo il 128] WALLENSTEIN tradisce un'improvvisa agitazione. 1800, 1828, 1829. |  
-| *(didascalia)* | [Dopo il 148] MAX sta come in convulsione, con un gesto e un volto che esprimono l'angoscia più intensa. 1800, 1828, 1829. |
 
 
 
@@ -2786,46 +1501,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | ILLO | And he shall never stir from here alive. |
 | WALLENSTEIN | Are ye not like the women, who for ever<br>Only recur to their first word, although<br>One had been talking reason by the hour?<br>Know, that the human being's thoughts and deeds<br>Are not, like ocean billows, blindly moved.<br>The inner world, his microcosmus, is<br>The deep shaft, out of which they [[motifs/spring\|spring]] eternally.<br>They grow by certain laws, like the tree's fruit —<br>No juggling chance can metamorphose them.<br>Have I the human kernel first examined?<br>Then I know, too, the future will and action. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | WALLENSTEIN, TERTSKY. |  
-| TERTSKY | Max Piccolomini t'ha appena lasciato? |  
-| WALLENSTEIN | Dov'è Wrangel? |  
-| TERTSKY | È già partito. |  
-| WALLENSTEIN | Con tanta fretta? |  
-| TERTSKY | È come se la terra l'avesse inghiottito.<br>Appena t'aveva lasciato, che io andai a cercarlo.<br>Volevo dirgli due parole — ma era sparito.<br>Come, quando e dove, nessuno seppe dirmi. Anzi,<br>quasi credo che fosse il diavolo in persona;<br>una creatura umana non avrebbe potuto così d'un tratto<br>svanire. |  
-| *(didascalia)* | Illo (entra). |  
-| ILLO | È vero che vuoi mandare<br>Octavio? |  
-| TERTSKY | Come, Octavio! Mandarlo dove? |  
-| WALLENSTEIN | Va a Frauenberg, e condurrà qui<br>i reggimenti spagnoli e italiani. |  
-| ILLO | No!<br>Ah no, il Cielo non voglia! |  
-| WALLENSTEIN | E perché il Cielo non dovrebbe volerlo? |  
-| ILLO | Lui! — quell'ingannatore! Vorresti affidargli<br>la soldatesca? Lui vuoi lasciarti sfuggire,<br>ora, nell'istante stesso che ci decide —— |  
-| TERTSKY | Tu non lo farai! — No! te ne prego, no! |  
-| WALLENSTEIN | Siete capricciosi. |  
-| ILLO | Oh, ma per questa [[motifs/time\|volta]], Duca,<br>cedi al nostro avvertimento! Non lasciarlo partire. |  
-| WALLENSTEIN | E perché non dovrei fidarmi di lui solo questa [[motifs/time\|volta]],<br>io che sempre di lui mi sono fidato? Che è dunque accaduto,<br>perché io perda di lui la mia buona opinione?<br>Per compiacere ai vostri capricci, non ai miei,<br>dovrei, davvero, deporre un giudizio radicato.<br>Non crediate ch'io sia una donna. Avendo in lui confidato<br>fino a oggi, anche oggi in lui confiderò. |  
-| TERTSKY | Dev'essere lui — lui soltanto? Mandane un altro. |  
-| WALLENSTEIN | Dev'essere lui, che io stesso ho scelto;<br>è [[motifs/well\|ben]] adatto all'impresa. Perciò<br>gliel'ho affidata. |  
-| ILLO | Perché è un Italiano —<br>perciò è [[motifs/well\|ben]] adatto all'impresa. |  
-| WALLENSTEIN | So che non li [[motifs/love\|amate]] — né il padre né il figlio —<br>perché io li stimo, li [[motifs/love\|amo]] — e visibilmente<br>li stimo, li [[motifs/love\|amo]] più di voi e degli altri,<br>appunto come meritano. Perciò sono fastidio agli occhi,<br>spine sul vostro sentiero. Ma le vostre gelosie,<br>in che toccano me o le mie faccende?<br>Valgon essi meno per me perché voi li odiate?<br>[[motifs/love\|Amatevi]] od odiatevi a vostro piacere,<br>lascio a ciascuno i suoi umori e le sue simpatie;<br>pure so quanto ciascuno di voi valga per me. |  
-| ILLO | Von Questenberg, finché fu qui, sempre<br>si aggirava furtivo con questo Octavio. |  
-| WALLENSTEIN | Avvenne a mia saputa e con mio permesso. |  
-| ILLO | So che segreti messaggeri gli giungevano<br>da Galas —— |  
-| WALLENSTEIN | Questo non è vero. |  
-| ILLO | Oh, tu sei cieco<br>coi tuoi occhi che vedon profondo. |  
-| WALLENSTEIN | Tu non scuoterai<br>la mia [[concepts/faith\|fede]] — la mia [[concepts/faith\|fede]], che si fonda<br>sulla più profonda scienza. Se essa è falsa,<br>allora è falsa tutta la scienza delle [[motifs/stars\|stelle]].<br>Ché sappi, io ho un pegno dal fato stesso,<br>che egli è il più fedele dei miei amici. |  
-| ILLO | Hai un pegno che questo pegno non sia falso? |  
-| WALLENSTEIN | Esistono momenti nella vita dell'uomo,<br>in cui egli è più presso alla grande [[motifs/soul\|anima]] del mondo<br>di quanto non sia costume dell'uomo, e liberamente possiede<br>il potere d'interrogare il proprio destino:<br>e tale fu un momento, quando nella [[motifs/night\|notte]]<br>prima dell'azione nelle pianure di Lützen,<br>appoggiato a un albero, pensieri su pensieri,<br>guardavo lontano sulla pianura sinistra.<br>Tutta la mia vita, passata e futura, in quell'istante<br>dinanzi all'occhio della mente scorse in processione,<br>e al destino del mattino seguente<br>lo spirito, colmo d'ansioso presentimento,<br>annodava il futuro più remoto.<br>Allora dissi anche a me stesso: «A tanti<br>tu comandi. Tutti seguono le tue [[motifs/stars\|stelle]],<br>e come su un gran numero pongono il loro Tutto<br>sopra il tuo unico capo, e solo armano<br>il vascello della tua fortuna. Pure un giorno<br>verrà, in cui il destino ancora una volta disperderà<br>tutti costoro in molte diverse direzioni:<br>pochi saranno quelli che ti resteranno fedeli».<br>Bramavo sapere quale fosse il più fedele<br>di tutti, questo campo compreso. Gran Destino,<br>dammi un segno! E sarà quegli l'uomo<br>che, nel mattino imminente, verrà per primo<br>a incontrarmi con un pegno del suo [[motifs/love\|amore]]:<br>e pensando questo, caddi in un sopore.<br>Allora nel mezzo della battaglia fui condotto<br>in spirito. Grande la calca e il tumulto!<br>Poi il mio [[motifs/horse\|cavallo]] fu ucciso sotto di me: caddi:<br>e sopra di me via, del tutto incuranti,<br>passarono [[motifs/horse\|cavallo]] e cavaliere — e così calpestato in pezzi<br>giacevo, e ansimavo come un moribondo.<br>Allora m'afferrò d'improvviso un braccio salvatore;<br>era quello di Octavio — subito mi destai,<br>era pieno giorno, e Octavio mi stava innanzi.<br>«Fratello mio», disse, «non cavalcare oggi<br>il pomellato, come sei solito; ma monta il [[motifs/horse\|cavallo]]<br>che io ho scelto per te. Fallo, fratello!<br>per [[motifs/love\|amore]] di me. Un sogno potente così m'avvertì».<br>Fu la rapidità di quel [[motifs/horse\|cavallo]] che mi strappò<br>dall'ardente inseguimento dei dragoni di Bannier.<br>Mio cugino cavalcò il pomellato in quel giorno.<br>E mai più vidi né [[motifs/horse\|cavallo]] né cavaliere. |  
-| ILLO | Fu un caso. |  
-| WALLENSTEIN | Non esiste cosa alcuna quale il caso.<br>In breve, è segnato e suggellato che questo Octavio<br>è il mio buon angelo — e ora non più parola. |  
-| *(didascalia)* | [Sta per ritirarsi.] |  
-| TERTSKY | Questo è il mio conforto — Max resta nostro ostaggio. |  
-| ILLO | E di qui non si muoverà mai vivo. |  
-| WALLENSTEIN | Non siete voi come le donne, che in eterno<br>solo ritornano alla loro prima parola, benché<br>si sia ragionato con loro per ore intere?<br>Sappiate che i pensieri e le opere dell'essere umano<br>non son mossi alla cieca, come i flutti dell'oceano.<br>Il mondo interno, il suo microcosmo, è<br>il pozzo profondo, onde essi eternamente [[motifs/spring\|sgorgano]].<br>Crescono per leggi certe, come il frutto dell'albero —<br>nessun caso giocoliere può trasformarli.<br>Ho io prima esaminato il nocciolo umano?<br>Allora conosco anche la volontà e l'atto futuri. |
 
 
 
@@ -2879,55 +1554,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | OCTAVIO | You need not be uneasy on that score.<br>That has succeeded. Fortune favour us<br>With all the others only but as much! |
 | *(didascalia)* | [Before 2] Octavio (with an air of mystery). 1800, 1828, 1829.<br>[Before 3] Isolani (assuming the same air of mystery). 1800, 1828, 1829.<br>[Before 32] Isolani (stammering). 1800, 1828, 1829. |
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | SCENA — Una camera nella Casa d'abitazione di PICCOLOMINI. |  
-| *(didascalia)* | OCTAVIO PICCOLOMINI, ISOLANI (che entra). |  
-| ISOLANI | Eccomi — [[motifs/well\|Ebbene]]! chi viene ancora degli altri? |  
-| OCTAVIO | Ma, prima, una parola con voi, conte Isolani. |  
-| ISOLANI | Scoppierà, eh? — Il Duca sta per<br>tentare il colpo? In me, amico, potete riporre<br>piena fiducia. — Anzi, mettetemi alla prova. |  
-| OCTAVIO | Può darsi che accada. |  
-| ISOLANI | Nobile fratello, io non sono<br>di quegli uomini che a parole son valorosi,<br>e quando si viene ai fatti se la svignano.<br>Il Duca s'è comportato con me da amico.<br>Dio sa che è così; e a lui devo tutto ——<br>può contare sulla mia fedeltà. |  
-| OCTAVIO | Questo si vedrà in appresso. |  
-| ISOLANI | State in guardia,<br>non tutti pensano come penso io; e ce n'è molti<br>che tengono ancora per la [[settings/court\|Corte]] — sì, e dicono<br>che quelle firme carpite a nulla li obbligano. |  
-| OCTAVIO | Mi rallegro d'udirlo. |  
-| ISOLANI | Vi rallegrate! |  
-| OCTAVIO | Che l'Imperatore abbia ancora sì valorosi servitori<br>e amici affettuosi. |  
-| ISOLANI | Su, non schernite, ve ne supplico.<br>Non sono gente da nulla, ve l'assicuro. |  
-| OCTAVIO | Ne sono già assicurato. Dio non voglia<br>ch'io scherzi! — Con serissimo animo<br>mi rallegro di vedere una causa onesta<br>così forte. |  
-| ISOLANI | Il diavolo! — che! — ma che significa questo?<br>Non siete dunque —— E per che cosa, allora, son qui? |  
-| OCTAVIO | Perché facciate piena dichiarazione, se<br>vorrete esser detto amico o nemico<br>dell'Imperatore. |  
-| ISOLANI | Tale dichiarazione, amico,<br>la farò a colui nel quale è riposto il diritto<br>di pormi quella domanda. |  
-| OCTAVIO | Se, Conte,<br>quel diritto sia mio, questa carta v'istruisca. |  
-| ISOLANI | Ma, — ma — che! Questa è la mano e il sigillo dell'Imperatore!<br>[Legge.<br>«Poiché gli ufficiali collettivamente<br>in tutto il nostro esercito obbediranno agli ordini<br>del Luogotenente Generale Piccolomini<br>come venissero da Noi». —— Ehm! — Sì! così! — Sì! sì! —<br>Io — io mi rallegro con voi, Luogotenente Generale! |  
-| OCTAVIO | E vi sottomettete all'ordine? |  
-| ISOLANI | Io ——<br>ma m'avete colto così di sorpresa —<br>[[motifs/time\|Tempo]] per riflettere bisogna pure averne —— |  
-| OCTAVIO | Due minuti. |  
-| ISOLANI | Mio Dio! Ma allora il caso è —— |  
-| OCTAVIO | Piano e semplice.<br>Dovete dichiararvi, se siete risoluto<br>a compiere un tradimento contro il vostro Signore e Sovrano,<br>oppure se lo servirete fedelmente. |  
-| ISOLANI | Tradimento! — Mio Dio! — Ma chi parla dunque di tradimento? |  
-| OCTAVIO | Il caso è questo. Il Principe-Duca è un traditore —<br>intende condurre al nemico<br>l'esercito dell'Imperatore. — Or dunque, Conte! — breve e pieno —<br>dite, romperete il vostro giuramento all'Imperatore?<br>Vi venderete al nemico? — Dite, lo farete? |  
-| ISOLANI | Che intendete? Io — io romperei il giuramento, dite,<br>a Sua Maestà Imperiale?<br>L'ho detto io? — Quando, quando l'ho detto? |  
-| OCTAVIO | Non l'avete detto ancora — non ancora. In quest'istante<br>attendo d'udire, Conte, se lo direte. |  
-| ISOLANI | Ah! questo ora mi piace, che voi stesso<br>facciate testimonianza per me ch'io mai l'ho detto. |  
-| OCTAVIO | E rinunciate dunque al Duca? |  
-| ISOLANI | S'egli trama<br>tradimento — ebbene, il tradimento spezza ogni vincolo. |  
-| OCTAVIO | E siete risoluto anche a combattere contro di lui? |  
-| ISOLANI | M'ha reso servigi — ma s'egli è un [[archetypes/villain\|furfante]],<br>lo prenda la perdizione! — Tutti i conti son cancellati. |  
-| OCTAVIO | Mi rallegro che siate così [[motifs/well\|ben]] disposto.<br>Questa [[motifs/night\|notte]] partite nel massimo segreto<br>con tutte le truppe armate alla leggera — deve apparire<br>come se l'ordine venisse dal Duca stesso.<br>A Frauenberg è il luogo del convegno;<br>là il conte Galas vi darà ulteriori ordini. |  
-| ISOLANI | Sarà fatto. Ma voi mi rammenterete<br>presso l'Imperatore — quanto [[motifs/well\|ben]] disposto m'avete trovato. |  
-| OCTAVIO | Non mancherò di menzionarlo onorevolmente. |  
-| *(didascalia)* | [Esce ISOLANI. Entra un Servo. |  
-| OCTAVIO | Come, il colonnello Butler! — Fatelo salire. |  
-| ISOLANI | Perdonatemi anche i miei modi da orso, vecchio padre!<br>Signore Iddio! come potevo sapere, allora, che gran<br>personaggio avessi dinanzi. |  
-| OCTAVIO | Nessuna scusa! |  
-| ISOLANI | Sono un tipo allegro, e se a [[motifs/time\|volte]]<br>mi sfuggiva una parola avventata contro la [[settings/court\|corte]]<br>in mezzo al vino — sapete che non v'era malizia. |  
-| *(didascalia)* | [Esce. |  
-| OCTAVIO | Non occorre che v'inquietiate per questo.<br>Quello è riuscito. Che la fortuna ci favorisca<br>con tutti gli altri soltanto altrettanto! |  
-| *(didascalia)* | [Prima del 2] Octavio (con aria di mistero). 1800, 1828, 1829.<br>[Prima del 3] Isolani (assumendo la stessa aria di mistero). 1800, 1828, 1829.<br>[Prima del 32] Isolani (balbettando). 1800, 1828, 1829. |
 
 
 
@@ -3007,80 +1633,6 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | OCTAVIO | 'Be sure, make haste! Your faithful Isolan.'<br>— O that I had but left this town behind me.<br>To split upon a rock so near the haven! —<br>Away! This is no longer a safe place for me!<br>Where can my son be tarrying? |
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | OCTAVIO PICCOLOMINI, BUTLER. |  
-| BUTLER | Ai vostri ordini, Luogotenente Generale. |  
-| OCTAVIO | Benvenuto, come amico onorato e ospite. |  
-| BUTLER | Mi fate troppo [[concepts/honour\|onore]]. |  
-| OCTAVIO | Voi non avete<br>ricambiato le aperture che ieri vi feci —<br>le fraintendeste, come vuote formalità.<br>Quel desiderio veniva dal mio cuore — ero<br>sincero con voi — ché questo è un [[motifs/time\|tempo]]<br>in cui gli onesti dovrebbero unirsi strettissimi. |  
-| BUTLER | Solo chi ha animo eguale si può unire. |  
-| OCTAVIO | Vero! e io chiamo d'eguale animo tutti gli onesti.<br>Mai imputo a un uomo se non quegli atti<br>ai quali il suo carattere deliberatamente<br>lo sospinge; ché ahimè! la violenza<br>di ciechi malintesi spesso caccia<br>i migliori fra noi fuori dal retto cammino.<br>Passaste per Frauenberg. Il conte Galas<br>nulla vi disse? Ditemi. Egli è mio amico. |  
-| BUTLER | Le sue parole andarono perdute per me. |  
-| OCTAVIO | Molto mi duole<br>d'udirlo: ché il suo consiglio era saggissimo.<br>Io stesso avevo il simile da offrirvi. |  
-| BUTLER | Risparmiate<br>a voi la pena — a me l'imbarazzo<br>d'aver sì mal meritato la vostra buona opinione. |  
-| OCTAVIO | Il [[motifs/time\|tempo]] è prezioso — parliamo apertamente.<br>Sapete come stanno qui le cose. Wallenstein<br>medita tradimento — posso dirvi di più —<br>ha commesso tradimento; poche ore<br>son trascorse da che concluse un patto<br>col nemico. I messaggeri sono ora<br>ben avviati verso Egra e verso Praga.<br>Domani egli intende condurci<br>al nemico. Ma s'inganna;<br>ché la prudenza veglia — l'Imperatore ha ancora<br>molti e fedeli amici qui, e stanno<br>in strettissima [[concepts/union\|unione]], potenti benché invisibili.<br>Questo manifesto condanna il Duca —<br>richiama da lui l'obbedienza dell'esercito,<br>e chiama tutti i leali, tutti gli onesti,<br>a unirsi e a riconoscere in me il loro capo.<br>Scegliete — dividerete con noi una causa onesta?<br>O col malvagio dividerete una malvagia sorte? |  
-| BUTLER | La sua sorte è la mia. |  
-| OCTAVIO | È questa la vostra ultima risoluzione? |  
-| BUTLER | Lo è. |  
-| OCTAVIO | Su, ma ripensateci, colonnello Butler!<br>Avete ancora [[motifs/time\|tempo]]. Dentro il mio fedele petto<br>quella parola avventata resta sepolta.<br>Ritiratela, Butler! scegliete miglior partito:<br>non avete scelto quello giusto. |  
-| BUTLER | Altri comandi<br>per me, Luogotenente Generale? |  
-| OCTAVIO | Guardate i vostri capelli bianchi! Ritirate quella parola! |  
-| BUTLER | Addio! |  
-| OCTAVIO | Come, trarreste questa buona e valorosa spada<br>per una tal causa? In maledizione vorreste<br>mutare la gratitudine che vi siete meritato<br>dall'Austria con quarant'anni di fedeltà? |  
-| BUTLER | Gratitudine dalla Casa d'Austria. |  
-| *(didascalia)* | [Sta per andarsene. |  
-| *(didascalia)* | Octavio lo lascia giungere fino alla porta, poi lo richiama. |  
-| OCTAVIO | Butler! |  
-| BUTLER | Che volete? |  
-| OCTAVIO | Come andò col Conte? |  
-| BUTLER | Conte? che? |  
-| OCTAVIO | Il titolo che bramavate, intendo. |  
-| BUTLER | Inferno e dannazione! |  
-| OCTAVIO | Voi<br>ne faceste istanza —<br>e la vostra istanza fu respinta — Fu così? |  
-| BUTLER | Il vostro insolente scherno non passerà impunito.<br>Snudate! |  
-| OCTAVIO | Su! la vostra spada nel fodero! e ditemi con calma<br>come tutto ciò avvenne. Non vi rifiuterò<br>la vostra soddisfazione, dopo. — Calma, Butler! |  
-| BUTLER | Sappia il mondo intero la debolezza<br>che mai potrò perdonare a me stesso.<br>Luogotenente Generale! Sì — io ho [[concepts/ambition\|ambizione]].<br>Mai seppi sopportare il disprezzo.<br>Mi punse nel vivo che nascita e titolo<br>pesassero nell'esercito più del merito.<br>Non volevo esser da meno del mio pari,<br>così in un'ora sciagurata mi lasciai<br>tentare a quel passo — Fu follia!<br>Ma pure non meritava sì dura penitenza.<br>Poteva esser rifiutato; ma perché aguzzare<br>e avvelenare col disprezzo il rifiuto?<br>Perché gettare a terra e schiacciare col più greve scherno<br>l'uomo dai capelli grigi, il fedele veterano?<br>Perché alla bassezza della sua nascita<br>rimandarlo con sì crudele ruvidezza, solo<br>perché ebbe un'ora debole e si dimenticò di sé?<br>Ma la [[concepts/nature\|natura]] dà un pungiglione anche al verme<br>che il potere sfrenato calpesta per gioco e per insulto. |  
-| OCTAVIO | Dovete essere stato calunniato. Indovinate<br>il nemico che vi rese questo cattivo servigio? |  
-| BUTLER | Sia chi si voglia — un mascalzone di cuore vilissimo,<br>qualche vile favorito di [[settings/court\|corte]] dev'essere, qualche Spagnolo,<br>qualche giovane damerino d'antica famiglia,<br>a cui io possa far ombra, qualche invidioso furfante,<br>punto nell'[[motifs/soul\|anima]] dai bei onori guadagnati da [[concepts/self\|me]] stesso! |  
-| OCTAVIO | Ma ditemi! Il Duca approvò quel passo? |  
-| BUTLER | Egli stesso mi vi spinse, adoperò il suo credito<br>in mio favore con tutto il calore dell'[[concepts/friendship\|amicizia]]. |  
-| OCTAVIO | Davvero? Ne siete certo? |  
-| BUTLER | Ho letto la lettera. |  
-| OCTAVIO | E così io — ma il contenuto era diverso.<br>Per caso sono in possesso di quella lettera —<br>posso lasciare ai vostri occhi di convincervi. |  
-| *(didascalia)* | [Gli dà la lettera. |  
-| BUTLER | Ah! che è questo? |  
-| OCTAVIO | [[concepts/fear\|Temo]], colonnello Butler,<br>che un giuoco infame abbiano giocato con voi.<br>Il Duca, dite, vi spinse a questo passo?<br>Ecco, in questa lettera parla con disprezzo<br>di voi, consiglia il Ministro<br>di dare sano castigo alla vostra presunzione,<br>ché così egli la chiama. |  
-| *(didascalia)* | [BUTLER legge la lettera fino in fondo, le ginocchia gli tremano, afferra una sedia e vi si lascia cadere. |  
-| OCTAVIO | Non avete nemico, non persecutore;<br>non c'è nessuno che vi voglia male. Ascrivete<br>l'insulto che riceveste al solo Duca.<br>Il suo scopo è chiaro e palpabile. Egli volle<br>strapparvi al vostro Imperatore — sperò<br>di ottenere dalla vostra [[concepts/revenge\|vendetta]] ciò che [[motifs/well\|ben]] sapeva<br>(di che la vostra fedeltà lungamente provata lo convinse)<br>mai avrebbe osato attendere dalla vostra calma ragione.<br>Cieco strumento voleva farvi, e con disprezzo<br>usarvi, come mezzo di fini abbiettissimi.<br>Ha ottenuto il suo intento. Troppo [[motifs/well\|bene]] gli è riuscito<br>di allettarvi lontano da quel buon sentiero<br>sul quale camminavate da quarant'anni! |  
-| BUTLER | Potrà mai la Maestà dell'Imperatore perdonarmi? |  
-| OCTAVIO | Più che perdonarvi. Vorrebbe compensare<br>quell'affronto, e quel torto immeritatissimo<br>patito da un meritevole, valoroso veterano.<br>Di suo libero impulso egli conferma il dono<br>che il Duca vi fece a malvagio fine.<br>Il reggimento che ora comandate è vostro. |  
-| *(didascalia)* | [BUTLER tenta di alzarsi, ricade. Dentro di sé lotta con violente emozioni; tenta di parlare, e non può. Alla fine si toglie dalla cintura la spada e la offre a PICCOLOMINI. |  
-| OCTAVIO | Che volete? Riprendetevi, amico. |  
-| BUTLER | Prendetela. |  
-| OCTAVIO | Ma a quale scopo? Calmatevi. |  
-| BUTLER | Oh, prendetela!<br>Non sono più degno di questa spada. |  
-| OCTAVIO | Ricevetela dunque di nuovo dalle mie mani — e<br>portatela con [[concepts/honour\|onore]] per la giusta causa sempre. |  
-| BUTLER | —— Spergiurare a un sì grazioso Sovrano! |  
-| OCTAVIO | Ne farete ammenda. Presto! staccatevi dal Duca! |  
-| BUTLER | Staccarmi da lui! |  
-| OCTAVIO | Che c'è ora? Rifletti. |  
-| BUTLER | Soltanto staccarmi da<br>lui? — Egli muore! — egli muore! |  
-| OCTAVIO | Venitemi dietro a Frauenberg, dove ora<br>tutti i leali si radunano sotto<br>i conti Altringer e Galas. Molti altri<br>ho ricondotto al ricordo del loro dovere.<br>Questa [[motifs/night\|notte]] badate di fuggire da Pilsen. |  
-| BUTLER | Conte Piccolomini! Osa parlarvi<br>d'[[concepts/honour\|onore]] chi una volta ruppe la sua fede? |  
-| OCTAVIO | Chi sì profondamente se ne pente, osa. |  
-| BUTLER | Allora lasciatemi qui, sulla mia parola d'[[concepts/honour\|onore]]! |  
-| OCTAVIO | Qual è il vostro disegno? |  
-| BUTLER | Lasciate me e il mio reggimento. |  
-| OCTAVIO | Ho piena fiducia in voi. Ma ditemi<br>che cosa andate covando? |  
-| BUTLER | Ve lo dirà l'atto.<br>Non chiedetemi altro per ora. Fidatevi di me.<br>Potete fidarvi sicuri. Per il Dio vivente,<br>non lo consegnate al suo buon angelo!<br>Addio. |  
-| *(didascalia)* | [Esce BUTLER. |  
-| SERVO | Uno sconosciuto l'ha lasciata, ed è andato via.<br>I cavalli del Principe-Duca vi attendono di sotto. |  
-| *(didascalia)* | [Esce il Servo. |  
-| OCTAVIO | «Mi raccomando, affrettatevi! Il vostro fedele Isolan».<br>— Oh, avessi già lasciato dietro di me questa città.<br>Spezzarsi su uno scoglio sì presso al porto! —<br>Via! Questo non è più un luogo sicuro per me!<br>Dove mai può indugiare mio figlio? |
-
 
 
 <span class="atom-split" data-atom="act_5--scene_7" data-title="THE PICCOLOMINI — Act V, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="motif/blood,motif/death,motif/love,motif/nature,motif/soul,motif/tears,motif/time,concept/despair,concept/doubt,concept/faith,concept/honour,concept/hope,concept/madness,concept/nature,concept/self,concept/suffering,concept/truth"></span>
@@ -3129,50 +1681,3 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 | *(didascalia)* | [Before 19] Max (rises and contemplates his father with looks of suspicion). 1800, 1828, 1829. |
 | *(didascalia)* | [Before 41] Octavio (more urgently). 1800, 1828, 1829. |
 | *(didascalia)* | [Before 62] Octavio (trembling, and losing all [[concepts/self\|self]]-command). 1800, 1828, 1829. |
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-| Chi parla | Battuta |  
-|---|---|  
-| *(didascalia)* | OCTAVIO e MAX PICCOLOMINI. |  
-| OCTAVIO | Io parto, figlio mio. |  
-| *(didascalia)* | [Non ricevendo risposta, gli prende la mano. |  
-| OCTAVIO | Figlio mio, addio. |  
-| MAX | Addio. |  
-| OCTAVIO | Presto mi seguirai? |  
-| MAX | Io seguir te?<br>La tua via è tortuosa — non è la mia via. |  
-| *(didascalia)* | [OCTAVIO gli lascia la mano e indietreggia di scatto. |  
-| MAX | Oh, fossi stato semplice e sincero,<br>mai si sarebbe giunti a questo — tutto starebbe altrimenti.<br>Egli non avrebbe compiuto quell'atto turpe e orribile,<br>i virtuosi avrebbero serbato su lui il loro influsso:<br>non sarebbe caduto nei lacci dei furfanti.<br>Perché come un ladro, e complice di ladri,<br>gli strisciasti dietro — in agguato per la tua preda?<br>Oh, maledetta menzogna! Madre d'ogni male!<br>Tu demone che generi la miseria, sei tu<br>che ci sprofondi in perdizione. La semplice [[concepts/truth\|verità]],<br>sostegno del mondo, ci avrebbe salvati tutti!<br>Padre, non voglio, non posso scusarti!<br>Wallenstein m'ha ingannato — oh, nel modo più turpe!<br>Ma tu non hai agito molto meglio. |  
-| OCTAVIO | Figlio!<br>Figlio mio, ah! io perdono alla tua agonia! |  
-| MAX | Fu possibile? avesti il cuore, padre mio,<br>avesti il cuore di spingerla a tal punto,<br>con freddo premeditato proposito? Tu —<br>avesti il cuore di volerlo vedere colpevole,<br>piuttosto che salvo? Tu sali per la sua caduta.<br>Octavio, questo non mi piacerà. |  
-| OCTAVIO | Dio del Cielo! |  
-| MAX | Oh, me infelice! certo ho mutato la mia [[concepts/nature\|natura]].<br>Come viene qui il sospetto — nell'[[motifs/soul\|anima]] libera?<br>[[concepts/hope\|Speranza]], fiducia, fede, son perdute; ché tutto<br>mi mentì, tutto ciò che mai amai od onorai.<br>No! No! Non tutto! Ella — ella vive ancora per me,<br>ed è verace, e aperta come i Cieli!<br>L'inganno è dovunque, l'ipocrisia,<br>l'assassinio e il veleno, il tradimento, lo spergiuro:<br>il solo luogo santo è ormai il nostro [[motifs/love\|amore]],<br>il solo non profanato nell'umana [[concepts/nature\|natura]]. |  
-| OCTAVIO | Max! — andremo insieme. Sarà meglio. |  
-| MAX | Che? prima ch'io prenda un ultimo commiato,<br>l'ultimo di tutti — no, mai! |  
-| OCTAVIO | Risparmiati<br>la fitta d'una separazione necessaria.<br>Vieni con me! Vieni, figlio mio! |  
-| *(didascalia)* | [Tenta di portarlo via con sé. |  
-| MAX | No! com'è vero che Dio vive, no! |  
-| OCTAVIO | Vieni con me, te lo comando! Io, tuo padre. |  
-| MAX | Comandami ciò che è umano. Io resto qui. |  
-| OCTAVIO | Max! in nome dell'Imperatore t'ingiungo di venire. |  
-| MAX | Nessun Imperatore ha potere di prescrivere<br>leggi al cuore; e vorresti tu derubarmi<br>della sola benedizione che il mio fato m'ha lasciato,<br>la sua pietà? Deve dunque un atto crudele<br>esser compiuto con crudeltà? L'immutabile<br>dovrò io eseguirlo vilmente — svignarmela,<br>con furtiva codarda fuga abbandonarla? No!<br>Ella vedrà la mia [[concepts/suffering\|sofferenza]], la mia acerba angoscia,<br>udrà i lamenti dell'[[motifs/soul\|anima]] divisa,<br>e piangerà [[motifs/tears\|lacrime]] su me. Oh! la razza umana<br>ha anime d'acciaio — ma ella è come un angelo.<br>Dalla nera mortale [[concepts/madness\|follia]] della [[concepts/despair\|disperazione]]<br>riscatterà la mia [[motifs/soul\|anima]], e con dolci parole<br>di conforto, lamentando, scioglierà questa fitta di [[motifs/death\|morte]]! |  
-| OCTAVIO | Tu non ti strapperai via; non lo puoi.<br>Oh, vieni, figlio mio! t'ingiungo di salvare la tua virtù. |  
-| MAX | Non sprecare invano le tue parole.<br>Il cuore io seguo, ché di lui oso fidarmi. |  
-| OCTAVIO | Max! Max! se quella cosa dannatissima potesse essere,<br>se tu — figlio mio — il mio [[motifs/blood\|sangue]] — (oso pensarlo?)<br>ti vendessi a lui, all'infame,<br>e imprimessi questo marchio sulla nostra nobile casa,<br>allora il mondo vedrà l'orribile atto,<br>e in innaturale combattimento l'acciaio<br>del figlio stillerà del [[motifs/blood\|sangue]] del padre. |  
-| MAX | Oh, avessi tu sempre pensato meglio degli uomini,<br>avresti allora agito meglio. Maledetto sospetto!<br>Empio, misero [[concepts/doubt\|dubbio]]! Per colui<br>nulla resta sulla terra saldo e non divelto,<br>che non ha [[concepts/faith\|fede]]. |  
-| OCTAVIO | E s'io mi fido del tuo cuore,<br>sarà sempre in tuo potere seguirlo? |  
-| MAX | La voce del cuore tu non l'hai sopraffatta — altrettanto poco<br>saprà Wallenstein sopraffarla. |  
-| OCTAVIO | Oh, Max! non ti vedrò mai più! |  
-| MAX | Indegno di te non mi vedrai mai. |  
-| OCTAVIO | Vado a Frauenberg — i Pappenheimer<br>ti lascio qui, e i Lothring pure; Toskana<br>e Tiefenbach restano qui a proteggerti.<br>Ti [[motifs/love\|amano]], e sono fedeli al loro giuramento,<br>e assai più volentieri cadranno in valorosa contesa<br>che abbandonare il loro legittimo capo e il loro [[concepts/honour\|onore]]. |  
-| MAX | Conta su questo: o lascio la mia vita<br>nella lotta, o li conduco fuori da Pilsen. |  
-| OCTAVIO | Addio, figlio mio! |  
-| MAX | Addio! |  
-| OCTAVIO | Come? non uno sguardo<br>d'[[motifs/love\|amore]] filiale? Non una stretta di mano nel partire?<br>È una guerra sanguinosa quella cui andiamo,<br>e l'esito è incerto e nelle tenebre.<br>Non così solevamo separarci — non era così!<br>È dunque vero? non ho più un figlio? |  
-| *(didascalia)* | [MAX gli cade fra le braccia, si tengono per lungo [[motifs/time\|tempo]] in un abbraccio senza parole, poi escono da lati diversi. |  
-| *(didascalia)* | Cala il Sipario. |  
-| *(didascalia)* | [Prima dell'1] (MAX entra quasi in stato di smarrimento per l'estrema agitazione, gli occhi gli roteano stravolti, il passo è malfermo, e sembra non accorgersi del padre, che sta in disparte e lo guarda con volto pieno di compassione. Cammina a lunghi passi per la camera, poi si arresta di nuovo, e infine si getta su una sedia, fissando nel vuoto l'oggetto che gli sta proprio dinanzi). 1800, 1828, 1829. |  
-| *(didascalia)* | [Prima del 19] Max (si alza e contempla il padre con sguardi di sospetto). 1800, 1828, 1829. |  
-| *(didascalia)* | [Prima del 41] Octavio (con maggiore insistenza). 1800, 1828, 1829. |  
-| *(didascalia)* | [Prima del 62] Octavio (tremando, e perdendo ogni dominio di [[concepts/self\|sé]]). 1800, 1828, 1829. |

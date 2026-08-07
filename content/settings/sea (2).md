@@ -27,6 +27,7 @@ tags:
 - [[works/trees-of-pride-(chesterton)|trees of pride (Chesterton)]]
 - [[testi/coleridge/atomized/wonder-and-gratitude-sublime-storm#001_dura_navis|DURA NAVIS (Coleridge)]]
 - [[testi/coleridge/atomized/wonder-and-gratitude-sublime-storm#200_on_revisiting_the_sea-shore_after_long_absence_under_strong_medical_recommendati|ON REVISITING THE SEA-SHORE AFTER LONG ABSENCE, UNDER STRONG MEDICAL RECOMMENDATION NOT TO BATHE (Coleridge)]]
+- [[testi/coleridge/atomized/terror-and-horror-madness#041_the_complaint_of_ninathómafrom_the_same|THE COMPLAINT OF NINATHÓMA FROM THE SAME (Coleridge)]]
 - [[testi/coleridge/atomized/wonder-and-gratitude-sublime-storm#252_to_a_lady_with_falconers_shipwreck|TO A LADY WITH FALCONER’S SHIPWRECK (Coleridge)]]
 - [[testi/dickinson/atomized/sea-water#0107_twas_such_a_little_little_boat|107. 'Twas such a little — little boat (Dickinson)]]
 - [[testi/dickinson/atomized/sea-water#1198_a_soft_sea_washed_around_the_house|1198. A soft Sea washed around the House (Dickinson)]]

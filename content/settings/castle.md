@@ -21,6 +21,7 @@ tags:
 - [[works/secret-fr-brown-(chesterton)|secret Fr Brown (Chesterton)]]
 - [[works/christabel-(coleridge)|CHRISTABEL (Coleridge)]]
 - [[works/remorse-(coleridge)|REMORSE (Coleridge)]]
+- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#158_the_ballad_of_the_dark_ladié|THE BALLAD OF THE DARK LADIÉ (Coleridge)]]
 - [[testi/keats/atomized/crown-pride-fortunes-wheel#002_calidore|CALIDORE (Keats)]]
 - [[works/otho-the-great-(keats)|Otho the Great (Keats)]]
 - [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#031_the_eve_of_st_agnes|THE EVE OF ST. AGNES (Keats)]]

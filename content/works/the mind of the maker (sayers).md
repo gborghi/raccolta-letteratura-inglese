@@ -47,8 +47,6 @@ tags:
   - character/aquinas
   - character/dante
 ---
-<div class="qlang-switch" data-default="en"></div>
-
 
 *by Sayers*  ·  **Cluster:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]
 
@@ -72,42 +70,3 @@ tags:
 **Forms:** [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/literary-criticism|Literary Criticism]]
 **Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/dante|Dante]], [[historical-references/classical-antiquity|Classical Antiquity]]
 **Characters:** [[characters/the-trinity|The Trinity]], [[characters/god-the-father|God The Father]], [[characters/god-the-son|God The Son]], [[characters/god-the-holy-ghost|God The Holy Ghost]], [[archetypes/the-writer|The Writer]], [[archetypes/artist|Artist]], [[characters/augustine|Augustine]], [[characters/aquinas|Aquinas]], [[historical-references/dante|Dante]]
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-*by Sayers*  ·  **Cluster:** The Trinity · Creativity · Apologetics
-
-> [!abstract] 
-> Scrivendo non da apologeta ma da scrittrice di professione, Sayers sostiene che le affermazioni dei credi cristiani su Dio Creatore, messe alla prova dell’esperienza diretta, sono una descrizione esatta della mente creativa umana. Ogni atto del fare è una struttura triplice, trinitaria—l’Idea creativa (il Padre), l’Energia o Attività creativa incarnata nella materia (il Verbo) e la Potenza creativa che risponde nell’anima del lettore (lo Spirito)—tre "Persone" distinte che sono tuttavia un’unica opera. A partire da questa analogia ella illumina il libero arbitrio, il miracolo, il problema del male, l’espressione di sé e il valore del lavoro, e diagnostica un’età moderna che scambia la vita per un "problema" da risolvere anziché per una creazione da compiere.
-
-## Capitoli / Chapters
-
-- [Chapter 1: Preface](/testi/sayers/atomized/the_mind_of_the_maker/chapter_01_preface)
-- [Chapter 2: The "Laws" of Nature and Opinion](/testi/sayers/atomized/the_mind_of_the_maker/chapter_02_the_laws_of_nature_and_opinion)
-- [Chapter 3: The Image of God](/testi/sayers/atomized/the_mind_of_the_maker/chapter_03_the_image_of_god)
-- [Chapter 4: Idea, Energy, Power](/testi/sayers/atomized/the_mind_of_the_maker/chapter_04_idea_energy_power)
-- [Chapter 5: The Energy Revealed in Creation](/testi/sayers/atomized/the_mind_of_the_maker/chapter_05_the_energy_revealed_in_creatio)
-- [Chapter 6: Free Will and Miracle](/testi/sayers/atomized/the_mind_of_the_maker/chapter_06_free_will_and_miracle)
-- [Chapter 7: The Energy Incarnate in Self-Expression](/testi/sayers/atomized/the_mind_of_the_maker/chapter_07_the_energy_incarnate_in_self_e)
-- [Chapter 8: Maker of All Things—Maker of Ill Things](/testi/sayers/atomized/the_mind_of_the_maker/chapter_08_maker_of_all_thingsmaker_of_il)
-- [Chapter 9: Pentecost](/testi/sayers/atomized/the_mind_of_the_maker/chapter_09_pentecost)
-- [Chapter 10: The Love of the Creature](/testi/sayers/atomized/the_mind_of_the_maker/chapter_10_the_love_of_the_creature)
-- [Chapter 11: Scalene Trinities](/testi/sayers/atomized/the_mind_of_the_maker/chapter_11_scalene_trinities)
-- [Chapter 12: Problem Picture](/testi/sayers/atomized/the_mind_of_the_maker/chapter_12_problem_picture)
-- [Chapter 13: Postscript: The Worth of the Work](/testi/sayers/atomized/the_mind_of_the_maker/chapter_13_postscript_the_worth_of_the_wo)
-- [Chapter 14: Appendix](/testi/sayers/atomized/the_mind_of_the_maker/chapter_14_appendix)
-
-## Capitoli / Chapters
-
-- [Chapter 1: Preface](/testi/sayers/atomized/the_mind_of_the_maker#chapter_01_preface)
-- [Chapter 7: The Energy Incarnate in Self-Expression](/testi/sayers/atomized/the_mind_of_the_maker#chapter_07_the_energy_incarnate_in_self_e)
-
-## Connections
-
-**Archetypes:** [[archetypes/artist|Artist]], [[archetypes/christ-figure|Christ Figure]]
-**Motifs:** [[motifs/light-and-dark|Light And Dark]], [[motifs/the-book|The Book]], [[motifs/fire|Fire]], The Cross
-**Themes & Concepts:** [[characters/the-trinity|The Trinity]], [[concepts/creativity|Creativity]], [[concepts/imagination|Imagination]], [[concepts/faith|Faith]], The Artist And Society, [[concepts/fate-and-free-will|Fate And Free Will]], [[concepts/good-vs-evil|Good Vs Evil]], [[concepts/incarnation|Incarnation]], [[concepts/paradox|Paradox]], [[concepts/original-sin|Original Sin]], [[concepts/truth|Truth]], [[concepts/providence|Providence]], [[concepts/creativity-and-artistic-labor|Creativity And Artistic Labor]], [[concepts/love-divine|Love Divine]]
-**Forms:** [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/literary-criticism|Literary Criticism]]
-**Historical References:** [[historical-references/christianity|Christianity]], The Bible, [[historical-references/catholic-church|Catholic Church]], [[historical-references/dante|Dante]], [[historical-references/classical-antiquity|Classical Antiquity]]
-**Characters:** [[characters/the-trinity|The Trinity]], [[characters/god-the-father|God The Father]], [[characters/god-the-son|God The Son]], [[characters/god-the-holy-ghost|God The Holy Ghost]], [[archetypes/the-writer|The Writer]], The Artist, [[characters/augustine|Augustine]], [[characters/aquinas|Aquinas]], [[historical-references/dante|Dante]]

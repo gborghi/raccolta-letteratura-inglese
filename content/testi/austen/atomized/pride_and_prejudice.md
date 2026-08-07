@@ -820,97 +820,6 @@ daughters married: its solace was visiting and news.
 [_Copyright 1894 by George Allen._]]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Capitolo I.
-
-
-È una [[concepts/truth|verità]] universalmente riconosciuta che un uomo solo, possedente di una grande fortuna, debba necessariamente cercare una moglie.
-
-Per quanto poco si possano conoscere i sentimenti o le opinioni di un tale uomo al suo primo arrivo in un quartiere, questa [[concepts/truth|verità]] è così profondamente radicata nella mente delle famiglie circostanti che lui viene considerato la “proprietà legittima” di una di loro figlie.
-
-“Mio caro signor Bennet”, gli disse un giorno sua moglie, “ha sentito che finalmente Netherfield Park è stato affittato?”
-
-Il signor Bennet rispose che non l’aveva fatto.
-
-“Ma sì,” rispose lei; “perché la signora Long è appena stata qui e mi ha raccontato tutto.”
-
-Il signor Bennet non rispose nulla.
-
-“Non vuoi sapere chi l’ha preso?”, gridò sua moglie, impaziente.
-
-“Vuoi dirmelo… e non ho obiezioni ad ascoltarlo.”
-
-Illustrazione:
-
-“È sceso per vedere il posto.”
-
-Copyright 1894 di George Allen.
-
-Questo era un invito più che sufficiente.
-
-“Mia cara, devi sapere che la signora Long dice che Netherfield è stato preso da un giovane uomo molto ricco del nord dell’Inghilterra; è arrivato lunedì in una carrozza a quattro cavalli per vedere la casa e ne è rimasto così soddisfatto che ha accettato immediatamente l’offerta del signor Morris; prenderà possesso della proprietà prima di Michaelmas, e alcuni dei suoi servitori arriveranno nella >casa entro la fine della prossima settimana.”
-
-“Come si chiama?”
-
-“Bingley.”
-
-“È sposato o single?”
-
-“Ah, scapolo, caro mio. Sicuramente! Un uomo single con una grande fortuna; quattro o cinque migliaia all’anno. Che cosa meravigliosa per le nostre ragazze!”
-
-“Come mai? In che modo può influenzarli?”
-
-“Mio caro signor Bennet,” rispose sua moglie, “come può essere così noioso? Dovrebbe sapere che sto pensando al fatto che si sposi con una di loro.”
-
-“È davvero questo il suo piano: stabilirsi qui?”
-
-“Design? Assurdità, come puoi dire una cosa del genere! Ma è molto probabile che lui possa innamorarsi di una di loro, quindi devi andare a trovarlo non appena arriva.”
-
-“Non vedo alcuna ragione per farlo. Tu e le ragazze potete andare, oppure potreste mandarle da sole, il che forse sarebbe ancora meglio; visto che sei altrettanto attraente quanto loro, signor Bingley potrebbe preferirti a tutte.”
-
-“Mia cara, mi lusinghi. Certo che ho avuto la mia parte di [[concepts/beauty|bellezza]], ma ora non pretendo affatto di essere qualcosa di straordinario. Quando una donna ha cinque figlie adulte, dovrebbe smettere di pensare troppo alla propria [[concepts/beauty|bellezza]].”
-
-“In tali casi, una donna spesso non possiede molta [[concepts/beauty|bellezza]] di cui parlare.”
-
-“Ma, caro mio, devi assolutamente andare a trovare il signor Bingley quando arriverà in zona.”
-
-“È molto di più di quanto mi sia impegnato a fare, ve lo assicuro.”
-
-“Ma pensate alle vostre figlie. Immaginate solo quale posizione sociale otterrebbe una di loro in quella famiglia. Sir William e Lady Lucas sono decisi ad andare proprio per questo motivo; del resto, come sapete, non frequentano mai le nuove arrivate nella società. Davvero dovete andare. Altrimenti sarà impossibile per _noi_ incontrarlo.”
-
-“Siete davvero troppo scrupolosi. Sono sicura che il signor Bingley sarà molto felice di vedervi; e vi manderò qualche riga per assicurargli la mia piena approvazione nel caso scelga qualsiasi delle ragazze, anche se devo dire una parola a favore della mia piccola Lizzy.”
-
-“Vorrei che non facessi una cosa del genere. Lizzy non è affatto migliore delle altre; sono sicura che non sia nemmeno la metà attraente di Jane, né la metà gentile di Lydia. Eppure tu le dai sempre la preferenza.”
-
-“Nessuna di loro ha davvero qualcosa che la distingua,” rispose lui: “sono tutte sciocche e ignoranti come le altre ragazze; ma Lizzy possiede una certa vivacità che le altre sorelle non hanno.”
-
-“Signor Bennet, come può trattare i suoi stessi figli in questo modo? Si diverte a infastidirmi. Non ha alcuna compassione per i miei poveri nervi.”
-
-“Mi sbagli, caro mio. Ho un grande rispetto per i tuoi nervi. Sono vecchi amici miei. Li hai menzionati con affetto almeno in questi vent’anni.”
-
-“Ah, non sapete quanto soffro.”
-
-“Ma spero che tu riesca a superare questa difficoltà e che possa vivere abbastanza a lungo da vedere arrivare nel quartiere molti giovani uomini, ogni quattro anni.”
-
-“Non ci sarà alcun utilità per noi, anche se ne arrivassero venti, visto che tu non andrai a trovarli.”
-
-"Ci puoi contare, carissima: non appena ne saranno venti, andrò a trovarli tutti."
-
-Il signor Bennet era un insieme così strano di momenti di vivacità, umorismo sarcastico, riservatezza e capricci, che ventitré anni di esperienza non erano stati sufficienti perché sua moglie potesse comprendere il suo carattere. La mente di lei, invece, era molto più semplice da comprendere: era una donna dallo spirito limitato, con poche conoscenze e un temperamento instabile. Quando si sentiva insoddisfatta, si attribuiva problemi nervosi. L’unico scopo della sua vita era far sposare le sue figlie; il suo unico conforto consisteva nelle visite e nelle notizie che riceveva.
-
-Illustrazione: Il signor e la signora Bennet
-
-Copyright 1894 di George Allen.
-
-
-
-Illustrazione:
-
-“Spero che a Mr. Bingley piaccia”.
-
-Copyright 1894 di George Allen.
-
 
 
 <span class="atom-split" data-atom="chapter_02" data-title="Pride and Prejudice — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="motif/dance,motif/horse,motif/love,motif/time,motif/well,concept/honour,concept/hope"></span>
@@ -1034,74 +943,6 @@ dinner.
 “He rode a black [[motifs/horse|horse]]”
 ]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO II.
-
-Illustrazione
-
-Il signor Bennet era tra i primi ad andare a far visita al signor Bingley. Aveva sempre intenzione di farlo, anche se fino all’ultimo momento assicurava sua moglie che non ci sarebbe andato; e solo la sera seguente alla visita lei ne venne a conoscenza. La cosa fu rivelata in questo modo: notando che sua seconda figlia stava sistemando un cappello, le disse improvvisamente.
-
-“Spero che a Mr. Bingley piaccia, Lizzy.”
-
-“Non siamo nella posizione di sapere _cosa_ piaccia al signor Bingley,” disse sua madre, con rancore, “visto che non dobbiamo andare a far visita.”
-
-“Ma tu dimentichi, mamma,” disse Elizabeth, “che lo incontreremo alle riunioni, e che la signora Long ha promesso di presentarcelo.”
-
-“Non credo che la signora Long possa fare una cosa del genere. Ha due nipoti suoi. È una donna egoista e ipocrita; non ho alcuna stima di lei.”
-
-“Non ne ho più,” disse il signor Bennet; “e sono felice di scoprire che non dipendi da lei per essere servito.”
-
-La signora Bennet decise di non rispondere; ma, incapace di trattenersi, iniziò a rimproverare una delle sue figlie.
-
-“Smettila di tossire, per l’amor del cielo, Kitty. Abbi un po’ di compassione per i miei nervi: li stai distruggendo completamente.”
-
-“Kitty non sa quando tossire… sceglie sempre i momenti peggiori”, disse suo padre.
-
-“Non tossisco per divertimento mio,” rispose Kitty, con ansia. “Quando sarà la tua prossima festa, Lizzy?”
-
-“Tra due settimane.”
-
-“Ah, è proprio così,” gridò sua madre, “e la signora Long non tornerà fino al giorno prima; quindi sarà impossibile per lei presentarlo, perché nemmeno lei lo conoscerà.”
-
-“Allora, mia cara, potrai approfittare dell’aiuto della tua amica e presentare il signor Bingley a _lei_.”
-
-“Impossibile, signor Bennet, impossibile, visto che non lo conosco nemmeno io personalmente; come può lei scherzare in questo modo?”
-
-“Rispetto molto la vostra prudenza. Due settimane di conoscenza sono certamente molto poche. Non si può sapere davvero chi sia una persona dopo soltanto due settimane. Ma se _noi_ non ci azzardiamo, lo farà qualcun altro; in fondo, la signora Long e le sue nipoti devono avere la loro opportunità. Quindi, poiché lei considererà il mio intervento un atto di gentilezza, se voi rifiutate l’incarico, lo assumerò io stesso.”
-
-Le ragazze fissavano il loro padre. La signora Bennet disse soltanto: “Sciocchezze, sciocchezze!”
-
-“Qual può essere il significato di quell’esclamazione così enfatica?” gridò. “Ritenete davvero che le forme di introduzione e l’enfasi posta su di esse siano prive di senso? Non posso del tutto concordare con voi in questo. Che ne pensi tu, Mary? So che sei una giovane donna molto riflessiva, che leggi molti libri e prendi spesso appunti.”
-
-Mary voleva dire qualcosa di molto sensato, ma non sapeva come farlo.
-
-“Mentre Mary sta ancora riflettendo su queste cose”, continuò, “torniamo ora al signor Bingley.”
-
-“Sono stufa del signor Bingley,” gridò sua moglie.
-
-“Mi dispiace molto di saperlo; ma perché non me l’hai detto prima? Se lo avessi saputo stamattina, sicuramente non sarei andato a trovarlo. È davvero sfortunato. Ma ora che sono già stato da lui, non possiamo più evitare questo incontro.”
-
-Lo stupore delle signore era esattamente ciò che lui desiderava; forse quello della signora Bennet superava tutti gli altri; tuttavia, quando il primo momento di gioia fu passato, lei iniziò a dichiarare che era proprio ciò che si aspettava da tempo.
-
-“Che nobile gesto da parte tua, caro signor Bennet! Ma sapevo che alla fine sarei riuscita a convincerti. Ero certa che amassi le tue figlie troppo bene per trascurare un'amicizia del genere. Beh, quanto sono felice! E inoltre è davvero una bella battuta: essere andato questa mattina senza dire una parola fino ad ora, ”
-
-“Ora, Kitty, puoi tossire quanto vuoi,” disse il signor Bennet; e, mentre parlava, uscì dalla stanza, stanco delle esclamazioni entusiastiche di sua moglie.
-
-“Che padre meraviglioso avete, ragazze,” disse lei quando la porta si chiuse. “Non so proprio come riuscirete mai a ripagare lui per la sua gentilezza, né io, del resto. Alla nostra età, non è affatto piacevole dover fare nuove conoscenze ogni giorno; ma per voi saremmo disposte a fare qualsiasi cosa. Lydia, mia cara, anche se sei la più giovane, credo che il signor Bingley ballerà con te al prossimo ballo.”
-
-“Ohi,” disse Lydia con fermezza, “non ho paura; perché anche se sono la più giovane, sono anche la più alta.”
-
-Il resto della serata fu trascorso a chiedersi quando sarebbe tornato per rivedere il signor Bennet, e a decidere quando invitarlo a cena.
-
-Illustrazione: “Sono il più alto”.
-
-
-
-Illustrazione:
-
-“Montava un cavallo nero.”
 
 
 
@@ -1297,71 +1138,6 @@ dear, to have given him one of your set-downs. I quite detest the man.”
 [Illustration]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO III.
-
-Illustrazione
-
-Tuttavia, nonostante tutto ciò che la signora Bennet e le sue cinque figlie potessero chiedere sull’argomento, non fu sufficiente per ottenere dal marito una descrizione soddisfacente di Mr. Bingley. Lo attaccarono in vari modi: con domande dirette, supposizioni ingegnose e congetture vaghe; ma lui riuscì a eludere tutte le loro domande, e alla fine dovettero accontentarsi delle informazioni fornite dalla loro vicina, la signora Lucas. Il suo resoconto era estremamente favorevole: Sir William ne era stato entusiasta. Mr. Bingley era molto giovane, straordinariamente attraente, estremamente piacevole nella compagnia. E per completare il quadro, aveva intenzione di partecipare alla prossima riunione con un gran numero di persone. Non c’era nulla di più delizioso! Amare la danza rappresentava sicuramente un passo verso l’inizio di un [[motifs/love|amore]]; quindi si nutrivano grandi speranze riguardo ai sentimenti di Mr. Bingley.
-
-“Se solo potessi vedere una delle mie figlie sistemata felicemente a Netherfield,” disse la signora Bennet a suo marito, “e tutte le altre altrettanto ben sposate, non desidererei più nulla.”
-
-Dopo pochi giorni, il signor Bingley ricambiò la visita del signor Bennet e trascorse circa dieci minuti nella sua biblioteca con lui. Aveva nutrito l’auspicio di poter vedere le giovani signore, della cui [[concepts/beauty|bellezza]] aveva sentito molto parlare; ma vide soltanto il padre. Le signore, invece, furono un po’ più fortunate, perché ebbero la possibilità di osservare, da una finestra superiore, che indossava un abito blu e cavalcava un cavallo nero.
-
-Poco dopo fu inviata un’invitazione a cena; e la signora Bennet aveva già pianificato i piatti che avrebbero messo in risalto le sue abilità culinarie, quando arrivò una risposta che rimandò tutto. Il signor Bingley doveva recarsi in città il giorno seguente e quindi non poté accettare l’onore dell’invito, ecc. La signora Bennet fu molto turbata: non riusciva a immaginare quale affare potesse trattare in città così presto dopo essere arrivato in Hertfordshire; iniziò quindi a temere che continuasse a viaggiare da un posto all’altro, senza mai stabilirsi a Netherfield come avrebbe dovuto. La signora Lucas la rassicurò un po’, proponendo l’idea che.
-
-Illustrazione:
-
-"#Quando il Partito entrò"
-
-Copyright 1894 di George Allen.
-
-Essendo partito per [[settings/london|Londra]] solo per partecipare a un grande ballo, poco dopo si diffuse la notizia che il signor Bingley avrebbe portato con sé dodici signore e sette gentiluomini all’evento. Le ragazze rimasero deluse di fronte a un numero così elevato di partecipanti femminili; tuttavia, il giorno prima del ballo, vennero rassicurate nell’apprendere che, invece dei dodici previsti, Bingley aveva portato con sé soltanto sei persone: le sue cinque sorelle e un cugino. Quando il gruppo entrò nella sala da ballo, si scoprì che in realtà erano solo in cinque: il signor Bingley, le sue due sorelle, il marito della più anziana e un altro giovane uomo.
-
-Il signor Bingley era attraente e gentiluomo: aveva un aspetto piacevole e modi disinvolti e naturali. Le sue sorelle erano donne eleganti, con un certo spirito di raffinatezza. Suo cognato, il signor Hurst, sembrava semplicemente un gentiluomo; ma suo amico, il signor Darcy, attirò subito l’attenzione di tutti per la sua statura alta e snella, i tratti belli, l’aria nobile, e soprattutto perché si diceva che avesse diecimila sterline all’anno. Gli uomini lo consideravano un uomo davvero distinto; le donne affermavano che fosse molto più attraente del signor Bingley, e per circa metà della serata fu oggetto di grande ammirazione, fino a quando i suoi modi arroganti non suscitarono disgusto, facendo cambiare l’opinione generale su di lui. Si scoprì infatti che era orgoglioso, si considerava superiore al proprio ambiente e disinteressato alle opinioni altrui; e nemmeno la sua vasta proprietà nel Derbyshire riuscì a far sì che il suo aspetto fosse meno sgradevole. Era davvero indegno di essere paragonato a suo amico.
-
-Il signor Bingley si fece subito conoscere da tutte le persone principali presenti nella sala: era vivace e senza riserve, ballò in ogni [[motifs/dance|ballo]], si arrabbiò perché la festa finì così presto, e disse che avrebbe organizzato una festa a Netherfield. Tali qualità amichevoli parlano da sole. Che contrasto con il suo amico! Il signor Darcy ballò soltanto una volta con la signora Hurst e una volta con la signorina Bingley; rifiutò di essere presentato ad altre dame e trascorse il resto della serata camminando per la sala, parlando occasionalmente con i membri del suo gruppo. Il suo carattere era chiaro: era l’uomo più orgoglioso e sgradevole del mondo. Tutti speravano che non tornasse mai più lì. Tra coloro che lo odiavano di più c’era la signora Bennet, la cui avversione per il suo comportamento generale si intensificò ancora di più quando lui ignorò una delle sue figlie.
-
-[[characters/elizabeth-bennet|Elizabeth Bennet]] era stata costretta, a causa della scarsità di gentiluomini, ad ballare due volte; e per parte di quel tempo, il signor Darcy si trovava abbastanza vicino a lei da permetterle di sentire una conversazione tra lui e il signor Bingley, che era venuto dal ballo per qualche minuto nel tentativo di convincere il suo amico ad unirsi a loro.
-
-“Dai, Darcy,” disse lui, “devo farti ballare. Non mi piace vederti stare lì da solo in questo modo stupido. È molto meglio che tu balli.”
-
-“Certo che non lo farò. Sai quanto lo detesti. A meno che non conosca bene la persona con cui dovrei stare insieme. In un evento del genere sarebbe insopportabile. Tue sorelle sono già impegnate, e non c’è nessun’altra donna in questa stanza con cui potrei sedermi senza che fosse una vera punizione per me.”
-
-“Non sarei così schizzinoso come te,” esclamò Bingley, “per un regno intero! Per la mia [[concepts/honour|onore]], non ho mai incontrato tante ragazze piacevoli in vita mia come stasera; e alcune di loro, vedete, sono davvero straordinariamente belle.”
-
-“Tu stai ballando con l’unica ragazza carina della stanza,” disse il signor Darcy, guardando la maggiore delle sorelle Bennet.
-
-“Oh, è la creatura più bella che abbia mai visto! Ma c’è una sua sorella seduta proprio dietro di te: anche lei è molto carina, e oserei dire anche molto piacevole da conoscere. Lasciami chiedere al mio compagno di presentarvi.”
-
-Illustrazione:
-
-“È tollerabile…”
-
-Copyright 1894 di George Allen.
-
-“Cosa intendi?” e, girandosi, fissò Elizabeth per un momento; poi, incontrando il suo sguardo, distolse il proprio e disse freddamente: “È tollerabile, ma non abbastanza bella da tentarmi. In questo momento non ho affatto l’umore di prestare attenzione a giovani donne che vengono ignorate da altri uomini. Meglio che torni dalla tua compagna e goda dei suoi sorrisi, stai solo sprecando il tuo tempo con me.”
-
-Il signor Bingley seguì il suo consiglio. Il signor Darcy se ne andò; e Elizabeth non provava per lui alcun sentimento particolarmente cordiale. Tuttavia, raccontò l’episodio con grande entusiasmo tra i suoi amici; poiché aveva un carattere vivace e giocoso, che le piaceva molto tutto ciò che era ridicolo.
-
-La serata trascorse piacevolmente per tutta la famiglia. La signora Bennet aveva visto sua figlia maggiore essere molto ammirata dal gruppo di persone venute da Netherfield; il signor Bingley aveva ballato con lei due volte, e le sue sorelle l’avevano anche particolarmente lodata. Jane ne era altrettanto compiaciuta quanto sua madre, sebbene in modo più discreto. Elizabeth percepiva la felicità di Jane. Mary aveva sentito Miss Bingley menzionarla come la ragazza più raffinata del vicinato; Catherine e Lydia, invece, erano state abbastanza fortunate da non rimanere mai senza partner durante il ballo. Il che era tutto ciò di cui si curavano in quei momenti. Tornarono quindi a Longbourn, il villaggio dove vivevano e del quale erano le principali abitanti. Trovarono il signor Bennet ancora sveglio: immerso nella lettura, non badava affatto all’[[motifs/time|ora]]; in quel momento era particolarmente curioso riguardo agli sviluppi di quella serata che aveva suscitato tante aspettative. In realtà, avrebbe preferito che tutte le opinioni di sua moglie su quell’estraneo si rivelassero errate. Ma presto scoprì che le cose erano molto diverse da come immaginava.
-
-“Oh, mio caro signor Bennet,” disse entrando nella stanza, “abbiamo trascorso una serata davvero deliziosa, un ballo davvero eccellente. Vorrei che foste stato lì. Jane è stata ammiratissima; nessuno avrebbe potuto fare di meglio. Tutti hanno detto quanto fosse bella; e il signor Bingley l’ha trovata davvero incantevole, e ha ballato con lei due volte. Pensateci solo: ha ballato con lei due volte. E lei è stata l’unica persona nella sala con cui abbia chiesto di ballare una seconda volta. Prima di tutto, ha chiesto di ballare con la signorina Lucas. Sono stata così infastidita quando l’ho visto alzarsi per ballare con lei. Ma in realtà non le era affatto interessato; anzi, nessuno può esserlo, sapete. E sembrava davvero colpito da Jane mentre scendeva la pista da ballo. Così ha chiesto chi fosse, l’hanno presentata a lui e poi ha chiesto di ballare con lei altre due volte. Poi ha ballato con la signorina King, poi con Maria Lucas, ancora una volta con Jane, poi con Lizzy. E il _Boulanger_, ”
-
-“Se avesse avuto anche solo un po’ di compassione per _me_,” gridò suo marito impazientemente,  
-“non avrebbe ballato così tanto! Per l’amor di Dio, smettila di parlare delle sue partner. Oh, se solo si fosse slogato la caviglia al primo [[motifs/dance|ballo]]!”
-
-“Oh, mio caro,” continuò la signora Bennet, “sono davvero molto soddisfatta di lui. È così estremamente attraente! E sue sorelle sono donne incantevoli. Non ho mai visto in vita mia nulla di più elegante dei loro abiti. Oserei dire che il pizzo sul vestito della signora Hurst, ”
-
-Fu di nuovo interrotta. Il signor Bennet si oppose fermamente a qualsiasi descrizione di lusso e raffinatezza. Pertanto, lei fu costretta a cambiare argomento e raccontò, con grande amarezza e un po’ di esagerazione, dell’insolente scortesia del signor Darcy.
-
-“Ma posso assicurarvi,” aggiunse, “che a Lizzy non costa nulla non cercare di compiacerlo; perché è un uomo davvero sgradevole e orribile, del tutto indegno di essere accontentato. Così presuntuoso e arrogante. Non c’era modo di sopportarlo! Andava da una parte all’altra, credendosi davvero molto importante. Nemmeno abbastanza attraente da poter ballare con lui! Vorrei che foste stata lì, cara mia, per dargli una lezione. Lo detesto davvero.”
-
-
-
-Illustrazione
-
 
 
 <span class="atom-split" data-atom="chapter_04" data-title="Pride and Prejudice — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="motif/dance,motif/home,motif/silence,motif/time,motif/well,concept/beauty,concept/friendship,concept/wonder"></span>
@@ -1486,49 +1262,6 @@ commendation to think of her as he chose.
 
 [Illustration: [_Copyright 1894 by George Allen._]]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO IV.
-
-Illustrazione
-
-Quando Jane ed Elizabeth erano da sole, la prima, che in precedenza aveva espresso i suoi elogi per il signor Bingley con cautela, raccontò alla sorella quanto lo ammirasse davvero.
-
-“È esattamente ciò che un giovane dovrebbe essere,” disse lei, “sensato, di buon umore, vivace; e non ho mai visto modi così affabili, tanta disinvoltura, e una tale perfezione nei comportamenti!”
-
-“È anche attraente,” rispose Elizabeth, “e questo è ciò che un giovane dovrebbe essere, se possibile. In questo modo il suo carattere diventa completo.”
-
-“Sono stato molto lusingato dal fatto che mi abbia chiesto di [[motifs/dance|)danzare]] una seconda volta. Non mi aspettavo un complimento del genere.”
-
-“Non l’hai fatto? _Io_ l’ho fatto al posto tuo. Ma questa è una grande differenza tra di noi: i complimenti ti colgono sempre di sorpresa, mentre io mai. Cosa potrebbe essere più naturale se lui te lo chiedesse di nuovo? Non poteva fare a meno di notare che eri circa cinque volte più bella di qualsiasi altra donna nella stanza. E non certo grazie alla sua galanteria. Beh, comunque è davvero molto piacevole, e ti do il permesso di apprezzarlo. Hai già apprezzato molte persone più stupide.”
-
-“Carissima Lizzy!”
-
-“Oh, sei davvero troppo incline ad apprezzare le persone in generale. Non vedi mai alcun difetto in nessuno; ai tuoi occhi, tutti sono buoni e piacevoli. In tutta la mia vita non ti ho mai sentito parlare male di qualcuno.”
-
-“Non vorrei mai essere troppo affrettato nel giudicare qualcuno; ma dico sempre ciò che penso.”
-
-“So che lo sai. Ed è proprio questo che suscita il mio [[concepts/wonder|stupore]]. Con la tua buona sensatezza, essere così sinceramente cieco di fronte alle follie e ai nonsensi degli altri. L’affettazione di candore è abbastanza comune; se ne trova ovunque. Ma essere sinceri senza ostentazione o secondi fini, valorizzare il lato positivo del carattere delle persone e migliorarlo ancora, senza mai menzionare i difetti. Questo appartiene soltanto a te, solo a te. E quindi, ti piacciono anche le sorelle di quest’uomo, vero? I loro modi non sono all’altezza dei suoi.”
-
-“Certo che no, all’inizio; ma sono donne molto piacevoli da conversare con. La signorina Bingley vivrà con suo fratello e si occuperà della sua >casa; e mi sbaglio di grosso se non diventerà una vicina davvero incantevole.”
-
-Elizabeth ascoltava in [[motifs/silence|silenzio]], ma non era convinta: il loro comportamento durante l'assemblea non sembrava mirato a compiacere tutti; e, grazie a una maggiore acutezza di osservazione e a un temperamento meno accomodante rispetto a sua sorella, oltre a un giudizio libero da qualsiasi considerazione per se stesse, era molto poco disposta ad approvarle. In realtà, erano donne davvero distinte: non mancavano di buon umore quando erano felici, né della capacità di essere piacevoli quando lo desideravano; ma erano orgogliose e presuntuose. Erano anche abbastanza attraenti, avevano ricevuto un'educazione in uno dei migliori istituti privati della città, possedevano una fortuna di ventimila sterline, avevano l'abitudine di spendere più di quanto fosse opportuno e frequentavano persone di rango; perciò, sotto ogni aspetto, avevano tutte le ragioni per considerarsi in modo positivo e giudicare negativamente gli altri. Provenivano da una famiglia rispettabile del nord dell'Inghilterra; un fatto che rimase profondamente impresso nella loro memoria, molto più di quanto il patrimonio di loro fratello o il proprio fossero stati ottenuti attraverso il commercio.
-
-Il signor Bingley ereditò da suo padre una proprietà del valore di quasi centomila sterline; suo padre aveva intenzione di acquistare un possedimento, ma non visse abbastanza a lungo per farlo. Anche il signor Bingley aveva lo stesso progetto e talvolta sceglieva la contea in cui stabilirsi; tuttavia, avendo ormai una bella casa e la libertà di gestire un maniero, molti che conoscevano bene la sua indole pensavano che potesse trascorrere il resto dei suoi giorni a Netherfield, lasciando che fosse la prossima generazione ad acquistare il possedimento.
-
-Le sue sorelle erano molto desiderose che possedesse una proprietà tutta sua; ma anche se per il momento viveva soltanto come inquilino, la signorina Bingley non si rifiutava affatto di presiedere alla sua tavola; né la signora Hurst, che aveva sposato un uomo più alla moda che ricco, era meno disposta a considerare la sua casa come la propria quando le conveniva. Il signor Bingley aveva appena due anni quando, su raccomandazione casuale, decise di visitare la casa di Netherfield. La esaminò attentamente per mezz’ora; gli piacquero l’ubicazione e le stanze principali, fu soddisfatto di ciò che il proprietario ne aveva detto in termini positivi, e la acquistò immediatamente.
-
-Tra lui e Darcy esisteva un'amicizia molto solida, nonostante una grande diversità di carattere. A Bingley piaceva molto Darcy per la sua natura spensierata, aperta e flessibile, anche se nessun altro temperamento avrebbe potuto creare un contrasto più marcato con il suo; eppure Bingley non sembrava mai insoddisfatto di lui. Con fiducia assoluta riponeva nella considerazione e nel giudizio di Darcy, che era senz’altro superiore a lui in intelligenza. Bingley non era certo privo di qualità; ma Darcy era davvero intelligente. Allo stesso tempo, Darcy era orgoglioso, riservato e esigente; i suoi modi, sebbene ben educati, non erano particolarmente affabili. In questo senso, il suo amico aveva un grande vantaggio: Bingley era sicuro di essere apprezzato ovunque si presentasse; Darcy, invece, finiva spesso per offendere gli altri.
-
-Il modo in cui parlavano dell’assemblea a Meryton era piuttosto caratteristico. Bingley non aveva mai incontrato persone più piacevoli né ragazze più belle nella sua vita; tutti erano stati estremamente gentili e attenti con lui; non c’era stata alcuna formalità, nessuna rigidità; si era subito sentito a suo agio in mezzo a loro; e per quanto riguardava la signorina Bennet, non riusciva a immaginare un angelo più bella. Darcy, al contrario, aveva visto un gruppo di persone in cui c’era poco [[concepts/beauty|bello]] e nessuna eleganza; nessuno di loro gli suscitava il minimo interesse, e da nessuno riceveva né attenzioni né piacere. Ammetteva che la signorina Bennet fosse carina, ma sorrideva troppo.
-
-La signora Hurst e sua sorella lasciarono che le cose andassero così; tuttavia continuavano ad ammirarla e a piacerle, definendola una ragazza gentile e di cui non avrebbero avuto obiezioni ad approfondire la conoscenza. Pertanto, Miss Bennet fu considerata una ragazza davvero gentile; e loro fratello, autorizzato da tali lodi, poté pensare a lei come desiderava.
-
-
-
-
-Illustrazione: [Copyright 1894 di George Allen.]
 
 
 
@@ -1660,69 +1393,6 @@ would; and the argument ended only with the visit.
 [Illustration]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO V.
-
-Illustrazione
-
-A poca distanza da Longbourn viveva una famiglia con la quale i Bennet erano particolarmente in buoni rapporti. Sir William Lucas aveva precedentemente svolto attività commerciali a Meryton, dove aveva accumulato una discreta fortuna e, durante il suo mandato di sindaco, era stato insignito dell’onore della cavalleria per un discorso rivolto al [[archetypes/king|re]]. Forse questo riconoscimento fu per lui troppo importante: gli fece perdere interesse per gli affari e per la vita nella piccola città mercantile in cui viveva; così, abbandonando entrambi, si trasferì con la sua famiglia in una casa situata a circa un miglio da Meryton, che da quel momento fu chiamata “Lucas Lodge”. Lì poteva godersi pienamente l’importanza che il suo rango gli conferiva e, libero dagli impegni lavorativi, dedicarsi esclusivamente ad essere cortese con tutti. Infatti, sebbene orgoglioso della sua posizione sociale, non era affatto presuntuoso; anzi, era sempre molto attento verso le persone. Di natura inoffensiva, amichevole e disponibile, la sua educazione lo aveva reso particolarmente cortese.
-
-La signora Lucas era una donna molto gentile e premurosa; non troppo intelligente, certo, ma comunque un’ottima vicina per la signora Bennet. Avevano diversi figli. La maggiore di loro, una giovane donna sensata e intelligente, di circa ventisette anni, era un’amica intima di Elizabeth.
-
-Era assolutamente necessario che le signorine Lucas e le signorine Bennet si incontrassero per parlare di un ballo; il giorno seguente, dopo l’incontro, la prima delle due famiglie si recò a Longbourn per ascoltare e scambiare opinioni.
-
-“Hai iniziato la serata molto bene, Charlotte,” disse la signora Bennet con un tono cortese e composto, rivolgendosi alla signorina Lucas. “Sei stata la prima scelta del signor Bingley.”
-
-“Sì… ma sembrava che gli piacesse di più la seconda.”
-
-“Ah, intendi Jane, suppongo, perché ha ballato con lei due volte. Sì, sembrava davvero che la apprezzasse, anzi, credo proprio di sì. Ho sentito qualcosa al riguardo, ma non ricordo esattamente cosa, qualcosa riguardo a Mr. Robinson.”
-
-“Forse vi riferite a ciò che ho sentito casualmente tra lui e il signor Robinson: non ve l’ho già detto? Il signor Robinson gli chiedeva come gli fossero piaciute le nostre riunioni a Meryton, se non pensasse che ci fossero molte donne belle nella sala, e quale di loro riteneva la più bella. Lui ha risposto subito all’ultima domanda: ‘Oh, la maggiore delle signorine Bennet, senza alcun dubbio: su questo punto non possono esserci due opinioni.’”
-
-“Per la mia parola! Beh, è stato davvero deciso con fermezza. Sembra proprio che, ma, comunque sia, potrebbe anche non andare a buon fine, sai.”
-
-“Le mie informazioni sono state più utili delle tue, Eliza,” disse Charlotte. “Il signor Darcy non è certo così interessante da ascoltare come il suo amico, vero? Povera Eliza, essere considerata soltanto ‘sopportabile’, ”
-
-“Vi prego, fate in modo che Lizzy non pensi nemmeno di offendersi per il suo cattivo trattamento, perché è un uomo così sgradevole che sarebbe davvero una sfortuna essere apprezzate da lui. La signora Long mi ha detto ieri [[motifs/night|sera]] che è rimasto seduto accanto a lei per mezz’ora senza aprire bocca nemmeno una volta.”
-
-Illustrazione: “Senza mai aprire le labbra”
-
-Copyright 1894 di George Allen.
-
-“Ne è sicura davvero, signora? Non c’è forse qualche errore?” disse Jane.  
-“Ho certamente visto il signor Darcy parlare con lei.”
-
-“Ah, perché alla fine gli chiese come gli piacesse Netherfield, e lui non poté fare a meno di risponderle; ma lei disse che sembrava molto arrabbiato per essere stato interpellato.”
-
-“La signorina Bingley mi ha detto,” disse Jane, “che lui non parla molto se non tra le persone che conosce bene. Con loro è davvero molto piacevole.”
-
-“Non credo nemmeno una parola di tutto questo, carissima. Se fosse davvero stato così gentile, avrebbe parlato direttamente con la signora Long. Ma posso immaginare com’è andata: tutti dicono che sia pieno di [[concepts/pride|orgoglio]], e probabilmente ha saputo in qualche modo che la signora Long non possiede una carrozza, quindi è dovuto venire al ballo usando un semplice calesse.”
-
-“Non mi dispiace che non parli con la signora Long,” disse la signorina Lucas, “ma avrei voluto che ballasse con Eliza.”
-
-“Un’altra volta, Lizzy,” disse sua madre, “io non ballerei con lui, se fossi in te.”
-
-“Credo, signora, di potervi promettere con certezza che _mai_ danzerò con lui.”
-
-“La sua [[concepts/pride|orgoglio]]”, disse la signorina Lucas, “non mi offende tanto quanto l’[[concepts/pride|orgoglio]] di molte persone, perché in questo caso c’è una scusa. Non si può [[concepts/wonder|meravigliarsi]] che un giovane così distinto, con famiglia, fortuna e tutto a suo favore, abbia un’alta stima di sé stesso. Se posso esprimermi così, ha davvero il _diritto_ di essere orgoglioso.”
-
-“È vero,” rispose Elizabeth, “e avrei potuto facilmente perdonare la sua [[concepts/pride|orgoglio]], se non avesse umiliato il mio.”
-
-“[[concepts/pride|Orgoglio]],” osservò Mary, che si compiaceva della solidità delle proprie riflessioni, “è un difetto molto comune, credo. Da tutto ciò che ho mai letto, sono convinta che sia davvero molto diffuso; che la natura umana ne sia particolarmente soggetta, e che pochi di noi non provino un senso di auto-compiacimento riguardo a qualche qualità, reale o immaginaria. [[concepts/vanity|Vanità]] e [[concepts/pride|orgoglio]] sono cose diverse, anche se spesso vengono usate come sinonimi. Una persona può essere orgogliosa senza essere vanitosa. L’[[concepts/pride|orgoglio]] riguarda più la nostra opinione di noi stessi; la [[concepts/vanity|vanità]], invece, ciò che vorremmo che gli altri pensassero di noi.”
-
-“Se fossi ricco come il signor Darcy,” esclamò un giovane di nome Lucas, che era venuto insieme alle sue sorelle, “non mi importerebbe affatto di essere orgoglioso. Avrei dei cani da caccia e berrei una bottiglia di vino ogni giorno.”
-
-“Allora berresti molto più di quanto dovresti,” disse la signora Bennet; “e se ti vedessi farlo, ti toglierei subito la bottiglia.”
-
-Il ragazzo protestò che lei non dovesse farlo; lei continuò a dichiarare che lo avrebbe fatto; e la discussione terminò solo con quella visita.
-
-Illustrazione
-
-
-
-Illustrazione
-
 
 
 <span class="atom-split" data-atom="chapter_06--part_01" data-title="Pride and Prejudice — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/dance,motif/desire,motif/love,motif/marriage,motif/nature,motif/well,concept/nature,concept/vanity"></span>
@@ -1838,38 +1508,6 @@ with her himself, attended to her conversation with others. His doing so
 drew her notice. It was at Sir William Lucas’s, where a large party were
 assembled.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO VI.
-
-Illustrazione
-
-Le signore di Longbourn presto iniziarono a rendere visite a quelle di Netherfield. Le visite vennero ricambiate in entrambe le direzioni. I modi piacevoli di Miss Bennet conquistarono la simpatia della signora Hurst e di Miss Bingley; e sebbene la madre fosse ritenuta insopportabile e le sorelle minori non degne di essere parlate, per quanto riguarda le due più anziane fu espresso il desiderio di conoscerle meglio. Jane accolse questa attenzione con grande piacere; ma Elizabeth continuò a percepire un atteggiamento sprezzante da parte loro verso tutti, quasi esclusivamente tranne sua sorella, e non riuscì ad affezionarsi a loro. Tuttavia, la gentilezza che dimostravano nei confronti di Jane, per quanto limitata, aveva il suo valore, poiché probabilmente derivava dall’influenza dell’ammirazione del loro fratello. Era evidente, ogni volta che si incontravano, che lui l’ammirasse davvero; e per lei era altrettanto chiaro che Jane stesse iniziando a provare per lui un sentimento simile all’amore, ma rifletteva con soddisfazione che questo probabilmente non sarebbe stato scoperto dal resto del mondo. Jane, infatti, combinava una forte passione con compostezza d’animo e un’allegra disponibilità nel comportamento, elementi che l’avrebbero protetta dalle supposizioni dei curiosi. Ne parlò alla sua amica, Miss Lucas.
-
-“Forse potrebbe essere piacevole,” rispose Charlotte, “poter imporre qualcosa al pubblico in una situazione del genere; ma a volte essere così molto cauti può rivelarsi svantaggioso. Se una donna nasconde i propri sentimenti con la stessa abilità verso la persona che li prova, potrebbe perdere l’opportunità di conquistarla; e allora non sarà certo un grande conforto credere che anche il resto del mondo sia nell’ignoranza. In quasi ogni tipo di affetto c’è tanto di gratitudine quanto di [[concepts/vanity|vanità]], quindi non è sicuro lasciare che queste emozioni seguano il loro corso naturale. Tutti noi possiamo iniziare liberamente: un leggero favore verso qualcuno è del tutto naturale; ma pochi di noi hanno abbastanza determinazione da innamorarsi veramente senza incoraggiamenti. Nove volte su dieci, una donna farebbe meglio a mostrare più affetto di quanto ne provi realmente. Bingley ama sicuramente tua sorella; ma potrebbe non andare oltre questo sentimento, se lei non lo incoraggia.”
-
-“Ma lei lo aiuta comunque, nella misura in cui la sua [[concepts/nature|>natura]] glielo permette. Se io riesco a percepire il suo affetto per lui, allora lui deve davvero essere un ingenuo se non se ne accorge anche lui.”
-
-"#Ricorda, Eliza, che lui non conosce il carattere di Jane come lo conosci tu."
-
-“Ma se una donna prova affetto per un uomo e non cerca di nasconderlo, lui dovrà scoprirlo.”
-
-“Forse deve farlo, se la vede abbastanza spesso. Ma anche se Bingley e Jane si incontrano piuttosto frequentemente, non trascorrono mai molte ore insieme; inoltre, poiché si vedono sempre in grandi gruppi misti, è impossibile che ogni momento possa essere dedicato alla conversazione. Pertanto, Jane dovrebbe sfruttare al massimo ogni mezz’ora in cui può attirare la sua attenzione. Quando avrà la certezza della sua disponibilità, allora avrà tutto il tempo necessario per innamorarsi quanto desidera.”
-
-“Il tuo piano è buono,” rispose Elizabeth, “poiché non si tratta che dell’[[motifs/desire|desiderio]] di sposarsi bene; e se fossi decisa ad ottenere un marito ricco, o qualsiasi marito, oserei dire che lo adotterei anch’io. Ma questi non sono i sentimenti di Jane; lei non agisce con premeditazione. Per il momento, non è nemmeno certa dell’intensità dei propri sentimenti, né della loro ragionevolezza. Lo conosce da soltanto quindici giorni: ha ballato quattro volte con lui a Meryton, lo ha visto una mattina a casa sua e da allora ha pranzato con lui altre quattro volte. Questo non è certo sufficiente per comprendere il suo carattere.”
-
-“Non come lo descrivi tu. Se avesse semplicemente _pranzato_ con lui, avrebbe potuto scoprire soltanto se aveva un buon appetito; ma devi ricordare che insieme hanno trascorso anche quattro serate. E quattro serate possono significare molto.”
-
-“Sì: queste quattro serate hanno permesso loro di constatare che entrambi preferiscono Vingt-un a Commerce, ma per quanto riguarda altre caratteristiche principali, non credo che sia stato scoperto molto di nuovo.”
-
-“Beh,” disse Charlotte, “desidero con tutto il cuore che Jane abbia successo; e anche se si sposasse con lui domani stesso, penso che avrebbe le stesse possibilità di essere felice come se studiasse il suo carattere per dodici mesi. La felicità nel [[motifs/marriage|matrimonio]] dipende interamente dal caso. Anche se i caratteri delle persone coinvolte siano molto simili o ben conosciuti l’uno dall’altro, ciò non aumenta affatto le loro possibilità di essere felici. Di solito, col tempo, i loro caratteri diventano sempre più diversi, e questo porta inevitabilmente a problemi. È quindi meglio sapere il meno possibile sui difetti della persona con cui si passerà la vita.”
-
-“Mi fai ridere, Charlotte. Ma non è giusto. Lo sai che non è giusto, e che tu stessa non agiresti mai in questo modo.”
-
-Occupata ad osservare l’attenzione che il signor Bingley riservava a sua sorella, Elizabeth non sospettava affatto di essere lei stessa oggetto di interesse agli occhi del suo amico. All’inizio, il signor Darcy quasi non le riconosceva alcun pregio estetico: l’aveva guardata senza ammirazione al ballo; e quando si erano incontrati di nuovo, l’aveva osservata soltanto per criticarla. Ma non appena ebbe reso chiara a se stesso e ai suoi amici che il suo viso non presentava alcun tratto particolarmente bello, iniziò a notare che le sue belle iridi scure conferivano al suo volto un’intelligenza insolita. A questa scoperta ne seguirono altre altrettanto imbarazzanti: sebbene con occhio critico avesse individuato più di una imperfezione nella sua figura, dovette ammettere che era snella e attraente; e nonostante affermasse che i suoi modi non fossero quelli tipici del mondo elegante, fu colpito dalla loro naturale vivacità. Lei, però, ne era completamente all’oscuro: ai suoi occhi, lui era semplicemente l’uomo che non riusciva ad essere gradito da nessuno e che non l’aveva trovata abbastanza attraente da ballare con lei.
-
-Iniziò a desiderare di conoscerla meglio; e, come primo passo verso una conversazione diretta con lei, prestò attenzione alle sue discussioni con gli altri. Il suo comportamento attirò la sua attenzione. Era a casa di Sir William Lucas, dove si era riunita un’ampia compagnia.
 
 
 
@@ -2046,100 +1684,6 @@ that all was safe, her wit flowed along.
 
 [_Copyright 1894 by George Allen._]]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-“Cosa intende il signor Darcy”, disse a Charlotte, “ascoltando la mia conversazione con il colonnello Forster?”
-
-“È una domanda a cui può rispondere solo il signor Darcy.”
-
-“Ma se lo fa di nuovo, gli farò sicuramente capire che so cosa sta combinando. Ha uno sguardo molto sarcastico, e se non inizio anch’io a essere irriverente, presto inizierò ad aver paura di lui.”
-
-Illustrazione: “Le suppliche di molti” _[Copyright 1894 di George Allen.]_
-
-Quando si avvicinò a loro poco dopo, sebbene non sembrasse avere alcuna intenzione di parlare, la signorina Lucas sfidò la sua amica a sollevare con lui un argomento del genere. Questo spinse immediatamente Elizabeth a farlo: si rivolse a lui e disse.
-
-“Non le è sembrato, signor Darcy, che mi sia espressa in modo particolarmente bene poco fa, quando scherzavo con il colonnello Forster perché organizzasse una festa a Meryton per noi?”
-
-Con grande energia… ma è un argomento che, inevitabilmente, rende una donna particolarmente energica.
-
-“Sei troppo severo con noi.”
-
-“Tra poco sarà il turno di _lei_ di essere presa in giro,” disse la signorina Lucas. “Ora aprirò lo strumento, Eliza, e tu sai cosa succederà dopo.”
-
-“Sei davvero una creatura molto strana quando si tratta di essere un amico. Sempre che tu voglia che io suoni e canti davanti a tutti! Se la mia [[concepts/vanity|vanità]] avesse una tendenza musicale, saresti stato inestimabile; ma così com’è, preferirei davvero non esibirmi davanti a persone abituate ad ascoltare i migliori artisti.” Tuttavia, di fronte alla perseveranza della signorina Lucas, aggiunse: “Molto bene. Se proprio deve essere così, allora sarà così.” Poi, guardando seriamente il signor Darcy, concluse: “C’è un vecchio detto molto bello, che ovviamente tutti qui conoscono: ‘Tieni la respirazione per raffreddare la tua pappa’. E io terrò la mia respirazione per poter cantare al meglio.”
-
-La sua esibizione fu piacevole, anche se di certo non eccezionale. Dopo una o due canzoni, e prima che potesse accontentare le richieste di molti che volevano che cantasse ancora, sua sorella Mary prese subito il suo posto al pianoforte. Essendo l’unica nella famiglia a non avere particolari talenti naturali, Mary si impegnava molto nello studio e nell’acquisizione di competenze, ed era sempre desiderosa di mostrare le proprie capacità.
-
-Mary non possedeva né genio né gusto; e sebbene la [[concepts/vanity|vanità]] l’avesse spinta a impegnarsi con diligenza, le aveva anche conferito un atteggiamento pedante e un comportamento presuntuoso, che avrebbero potuto rovinare qualunque pregio reale possedesse. Elizabeth, invece, naturale e disinvolta, veniva ascoltata con molto più piacere, anche se non suonava certo altrettanto bene; alla fine di un lungo concerto, Mary era felice di guadagnarsi lodi e gratitudine eseguendo melodie scozzesi e irlandesi, su richiesta delle sue sorelle minori, che insieme ad alcuni membri della famiglia Lucas e a due o tre ufficiali si univano con entusiasmo alla danza all’altro capo della sala.
-
-Il signor Darcy stava lì vicino a loro, in silenziosa indignazione di fronte a un modo del tutto inappropriato per trascorrere la serata, che escludeva qualsiasi conversazione. Troppo immerso nei propri pensieri, non si rese conto che Sir William Lucas era il suo vicino, fino a quando quest’ultimo non iniziò a parlare.
-
-“Che divertimento incantevole per i giovani, signor Darcy! Dopo tutto, non c’è nulla di meglio del ballo. Lo considero uno dei primi segni di raffinatezza in una società ben organizzata.”
-
-“Certamente, signore; inoltre ha il vantaggio di essere di moda anche nelle società meno raffinate del mondo: ogni selvaggio sa [[motifs/dance|danzare]].”
-
-Sir William si limitò a sorridere. “Il vostro amico si esibisce meravigliosamente,” continuò, dopo una pausa, vedendo che Bingley si era unito al gruppo; “e non dubito affatto che anche voi siate un esperto in questa materia, signor Darcy.”
-
-“Avete visto ballare me a Meryton, credo, signore.”
-
-“Sì, davvero; ho provato un piacere notevole a vederlo. Danzate spesso a St. James’s?”
-
-“Mai, signore.”
-
-"#Non pensi che sarebbe un complimento appropriato per quel luogo?"
-
-“È un complimento che non faccio mai a nessun posto, se posso evitarlo.”
-
-“Hai una casa in città, giusto?”
-
-Il signor Darcy fece un inchino.
-
-“Una volta avevo pensato di stabilirmi anch'io in città, poiché mi piace molto la società raffinata; ma non ero del tutto sicuro che l’atmosfera di [[settings/london|Londra]] fosse adatta a Lady Lucas.”
-
-Si fermò in attesa di una risposta; ma il suo compagno non sembrava disposto a darne alcuna. In quel momento, mentre Elizabeth si avvicinava a loro, gli venne l’idea di fare qualcosa di davvero nobile, e le gridò:
-
-“Mia cara signorina Eliza, perché non ballate? Signor Darcy, dovete permettermi di presentarvi questa giovane donna come una compagna davvero ideale per ballare. Non potete rifiutare, ne sono sicura, quando tanta bellezza vi si presenta davanti.” E, prendendole la mano, stava per porgerla a Mr. Darcy, che, sebbene estremamente sorpreso, non era contrario ad accettarla, quando lei all’improvviso ritirò la mano e, con un certo imbarazzo, disse a Sir William:
-
-“Infatti, signore, non ho la minima intenzione di ballare. Vi prego di non pensare che io mi sia mosso in questo modo per chiedere qualcuno con cui ballare.”
-
-Il signor Darcy, con la massima dignità, chiese l’onore di ricevere la sua mano, ma invano. Elizabeth era decisa; nemmeno il tentativo del signor William di convincerla riuscì a farle cambiare idea.
-
-“Miss Eliza, vi distinguite così tanto nella [[motifs/dance|danza]] che sarebbe crudele negarmi la felicità di vedervi esibirvi; e anche se questo signore in generale non apprezza queste attività ricreative, sono sicura che non avrà obiezioni ad accompagnarci per mezz’ora.”
-
-“Il signor Darcy è davvero pieno di cortesia,” disse Elizabeth sorridendo.
-
-“Lo è davvero. Ma considerando le motivazioni che lo spingono, mia cara signorina Eliza, non possiamo meravigliarci della sua disponibilità; chi potrebbe infatti opporsi a un partner del genere?”
-
-Elizabeth rispose con un sorriso beffardo e si allontanò. La sua resistenza non aveva ferito i sentimenti del gentiluomo, il quale continuava a pensare a lei con una certa soddisfazione. Quando fu avvicinata da Miss Bingley.
-
-“Posso indovinare l’argomento dei tuoi pensieri.”
-
-“Immagino di no.”
-
-“Stai pensando a quanto sia insopportabile trascorrere molte serate in questo modo, in una società del genere. E infatti, sono completamente d’accordo con te. Non mi sono mai sentito così infastidito! Quella banalità, eppure tutto quel rumore; quell’assurdità, eppure tutta quella presunzione di queste persone. Darei qualunque cosa per ascoltare le tue critiche su di loro!”
-
-“La tua congettura è completamente sbagliata, te lo assicuro. La mia mente era impegnata in qualcosa di molto più piacevole: stavo riflettendo sul grande piacere che possono procurare due bellissimi occhi su un viso di donna attraente.”
-
-La signorina Bingley fissò immediatamente il suo viso, desiderando che le dicesse quale signora aveva l’onore di ispirare tali riflessioni. Il signor Darcy rispose, con grande coraggio.
-
-“Signorina [[characters/elizabeth-bennet|Elizabeth Bennet]].”
-
-“Signorina [[characters/elizabeth-bennet|Elizabeth Bennet]]!”, ripeté la signorina Bingley. “Sono davvero stupita. Da quanto tempo è diventata così amata da tutti? E quando potrò finalmente augurarvi gioia?”
-
-“Ecco esattamente la domanda che mi aspettavo che mi poneste. L’[[concepts/imagination|immaginazione]] di una donna è molto veloce: passa dall’ammirazione all’[[motifs/love|amore]], dall’[[motifs/love|amore]] al matrimonio, in un istante. Sapevo che avreste voluto augurarmi felicità.”
-
-“No, se la prendete così seriamente, considererò la questione assolutamente risolta. Avrete davvero una suocera incantevole, e naturalmente starà sempre a Pemberley con voi.”
-
-La ascoltava con perfetta indifferenza, mentre lei preferiva divertirsi in quel modo; e poiché la sua calma le assicurava che tutto fosse a posto, il suo spirito giocoso continuò a fluire liberamente.
-
-
-
-Illustrazione:
-
-“Una nota per la signorina Bennet”
-
-Copyright 1894 di George Allen.
 
 
 
@@ -2399,123 +1943,6 @@ back a supply of clothes.
 “covering a screen”
 ]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO VII.
-
-Illustrazione
-
-La proprietà del signor Bennet consisteva quasi interamente in un reddito annuo di duemila sterline; purtroppo, a causa dell’assenza di eredi maschi, tale patrimonio sarebbe passato, in caso di morte senza discendenti diretti, a un lontano parente. La fortuna della loro madre, sebbene sufficiente per le esigenze della sua condizione sociale, non era comunque in grado di compensare la mancanza di mezzi del signor Bennet. Il padre di lei era stato avvocato a Meryton e le aveva lasciato quattromila sterline.
-
-Aveva una sorella sposata con un certo signor Philips, che era stato impiegato di loro padre e gli aveva ereditato l’attività commerciale; inoltre, aveva un fratello che si era stabilito a [[settings/london|Londra]] e si dedicava a una professione rispettabile.
-
-Il villaggio di Longbourn distava soltanto un miglio da Meryton: una distanza davvero comoda per le giovani signore, che di solito vi si recavano tre o quattro volte a settimana per rendere visita alla loro zia e anche per visitare il negozio di modista situato poco lontano. Le due più giovani della famiglia, Catherine e Lydia, erano particolarmente assidue in queste visite: la loro mente era meno attiva rispetto a quella delle loro sorelle, e quando non c’era nulla di meglio da fare, una passeggiata fino a Meryton rappresentava l’occasione perfetta per passare il tempo al mattino e trovare argomenti di conversazione la sera; inoltre, anche se la campagna era generalmente priva di novità, loro riuscivano sempre a ottenerne alcune dalla loro zia. In quel momento, infatti, l’arrivo recente di un reggimento di milizia nella zona le aveva fornite sia notizie che momenti di felicità: il reggimento avrebbe soggiornato lì per tutta la [[motifs/winter|inverna]], e Meryton ne era la base principale.
-
-Le loro visite alla signora Philips ora portavano a ottenere informazioni molto interessanti. Ogni giorno aggiungeva qualcosa alle loro conoscenze sui nomi e sulle relazioni degli ufficiali. Il luogo in cui soggiornavano non rimase a lungo un segreto, e alla fine iniziarono anche ad incontrare gli stessi ufficiali. Il signor Philips li visitò tutti, e questo aprì per le sue nipoti una fonte di felicità mai conosciuta prima. Non parlavano d’altro che degli ufficiali; e la grande fortuna del signor Bingley, menzionata spesso e che rallegrava loro madre, non aveva alcun valore ai loro occhi rispetto alle informazioni riguardanti gli ufficiali.
-
-Dopo aver ascoltato una mattina le loro espressioni entusiaste su questo argomento, il signor Bennet osservò con calma:
-
-“Dalla maniera in cui parli, posso dedurre che siate sicuramente due delle ragazze più sciocche di tutto il paese. Lo sospettavo da un po’ di tempo, ma ora ne sono convinta.”
-
-Catherine era turbata e non rispose; ma Lydia, con assoluta indifferenza, continuò a esprimere la sua ammirazione per il Capitano Carter e la sua [[concepts/hope|speranza]] di vederlo nel corso della giornata, poiché il giorno dopo sarebbe partito per [[settings/london|Londra]].
-
-“Sono davvero sorpresa, caro mio,” disse la signora Bennet, “che tu sia così pronto a ritenere i tuoi stessi figli sciocchi. Se volessi giudicare in modo negativo i figli di qualcuno, certamente non sarebbero i miei.”
-
-“Se i miei figli sono sciocchi, devo [[concepts/hope|sperare]] di esserne sempre consapevole.”
-
-“Sì… ma per coincidenza, sono tutti molto intelligenti.”
-
-“Questo è l’unico punto, mi lusingo di dire, su cui non siamo d’accordo. Speravo che i nostri sentimenti coincidessero in ogni dettaglio, ma devo dissentire da te nel ritenere che le nostre due figlie più giovani siano insolitamente sciocche.”
-
-“Mio caro signor Bennet, non dovete aspettarvi che ragazze del genere abbiano lo stesso senso del dovere dei loro genitori. Quando arriveranno alla nostra età, oserei dire che non penseranno più agli ufficiali, proprio come facciamo noi. Ricordo quando anch’io trovavo molto attraente un abito rosso. E in effetti, ancora oggi lo trovo così; se un giovane e affascinante colonnello, con cinque o sei migliaia di sterline all’anno, desiderasse una delle mie figlie, non gli direi di no. Anzi, quella sera alla casa di Sir William, il colonnello Forster mi è sembrato davvero molto attraente nel suo abito da ufficiale.”
-
-“Mamma,” gridò Lydia, “mia zia dice che il Colonnello Forster e il Capitano Carter non vanno più così spesso da Miss Watson come facevano all’inizio; ora li vede spesso nella biblioteca di Clarke.”
-
-La signora Bennet non poté rispondere perché arrivò il valletto con una lettera per la signorina Bennet; proveniva da Netherfield e il servitore aspettava una risposta. Gli occhi della signora Bennet brillarono di gioia mentre sua figlia leggeva.
-
-“Allora, Jane, da chi viene? Di cosa si tratta? Cosa dice? Dai, Jane, sbrigati a raccontarci; sbrigati, mio [[motifs/love|amore]].”
-
-“È della signorina Bingley,” disse Jane, poi lo lesse ad alta voce.
-
-“Mio caro amico…”
-
-“Se non sei così compassionevole da venire a cena con me e Louisa oggi, rischieremo di odiarci per il resto della nostra vita; infatti, un intero giorno trascorso insieme in privato tra due donne non può mai finire senza una lite. Vieni appena riceverai questa lettera. Mio fratello e gli altri signori andranno a cena con gli ufficiali. Tuo affettuosamente,, ”
-
-“Caroline Bingley”.
-
-“Con gli ufficiali!” gridò Lydia: “Mi chiedo perché mia zia non ce l’abbia detto.”
-
-“Uscire a cena fuori”, disse la signora Bennet; “è davvero sfortunato”.
-
-“Posso prendere la carrozza?” chiese Jane.
-
-“No, caro mio, sarebbe meglio che tu andassi a cavallo, perché sembra probabile che piova; inoltre dovrai trascorrere l’intera [[motifs/night|notte]] là.”
-
-“Sarebbe un ottimo piano,” disse Elizabeth, “se fosti sicura che non proverebbero a mandarla  a casa.”
-
-“Ah, ma i signori avranno la carrozza del signor Bingley per andare a Meryton; e i Hurst non hanno cavalli a disposizione.”
-
-“Preferirei di gran lunga prendere la carrozza.”
-
-“Ma, carina mia, sono sicura che tuo padre non possa permettersi di rinunciare ai cavalli. Sono necessari per la fattoria, vero, signor Bennet?”
-
-Illustrazioni: Prognosi ottimistiche
-
-“Vengono cercati nella fattoria molto più spesso di quanto io riesca a trovarli.”
-
-“Ma se oggi riesci ad ottenerli”, disse Elizabeth, “il desiderio di mia madre sarà realizzato”.
-
-Finalmente riuscì a far ammettere a suo padre che i cavalli erano stati prenotati; quindi Jane fu costretta ad andare a cavallo, e sua madre la accompagnò fino alla porta, facendole molte previsioni “allegramente” negative per quella giornata. Le sue speranze si avverarono: non era passato molto tempo che iniziò a piovere forte. Le sue sorelle erano preoccupate per lei, ma sua madre ne era felice. La pioggia continuò per tutta la sera senza sosta; Jane di certo non avrebbe potuto tornare indietro.
-
-“È davvero stata un’idea fortunata da parte mia!” disse più volte la signora Bennet, come se tutto il merito di quell’iniziativa fosse soltanto suo. Tuttavia, fino al giorno seguente, non si rese conto di tutta la felicità che quel piano aveva portato. Appena finito la colazione, un servitore di Netherfield portò a Elizabeth la seguente nota:–
-
-“Mia cara Lizzie…”
-
-“Stamattina mi sento molto male, il che, suppongo, sia dovuto al fatto che ieri sono rimasto bagnato fradicio. I miei gentili amici non permetteranno che torni a [[motifs/home|casa]] finché non starò meglio. Insistono anche affinché veda il signor [[characters/jones|Jones]]. Quindi, non allarmatevi se sentite dire che è venuto da me. A parte un mal di gola e un mal di testa, non c’è nulla di grave.”
-
-“Tuo, ecc.”
-
-“Beh, mia cara,” disse il signor Bennet quando Elizabeth ebbe letto la nota ad alta voce, “se tua figlia dovesse avere un attacco di malattia grave, se dovesse morire, sarebbe consolante sapere che tutto ciò è avvenuto per colpa del signor Bingley e su tuo ordine.”
-
-“Oh, non ho affatto paura che lei muoia. Le persone non muoiono per semplici raffreddori. Sarà ben curata. Finché rimane lì, tutto va molto [[motifs/well|bene]]. Andrei a vederla se solo potessi prendere la carrozza.”
-
-Elizabeth, sentita molto ansiosa, decise di andare da lei, anche se non c'era alcun mezzo di trasporto disponibile; e poiché non sapeva cavalcare, camminare era l'unica alternativa. Dichiarò con fermezza la sua intenzione.
-
-“Come puoi essere così sciocca,” gridò sua madre, “da pensare a una cosa del genere, in mezzo a tutta questa sporcizia! Non sarai nemmeno presentabile quando arriverai lì.”
-
-“Sarò perfettamente in grado di incontrare Jane… ed è tutto ciò che desidero.”
-
-“È forse un indizio per me, Lizzy… dovrei chiamare i cavalli?” disse suo padre.
-
-“No, assolutamente no. Non voglio evitare questa passeggiata. La distanza non è nulla, quando si ha un motivo per farla. Sono solo tre miglia. Tornerò prima di cena.”
-
-“Ammiro l’attività della vostra bontà”, osservò Mary, “ma ogni impulso emotivo dovrebbe essere guidato dalla ragione; e, a mio parere, lo sforzo compiuto dovrebbe sempre essere proporzionato a ciò che è necessario.”
-
-“Andremo fino a Meryton con te,” dissero Catherine e Lydia.  
-Elizabeth accettò la loro compagnia e le tre giovani signore partirono insieme.
-
-“Se ci affrettiamo”, disse Lydia mentre camminavano, “forse riusciremo a vedere il Capitano Carter prima che se ne vada”.
-
-A Meryton si separarono: i due più giovani tornarono alle locande di una delle mogli degli ufficiali, mentre Elizabeth continuò la sua passeggiata da sola, attraversando campi uno dopo l’altro a passo veloce, saltando stele e superando pozzanghere con impazienza. Alla fine si trovò di fronte alla casa, con gli articolari stanchi, le calze sporche e il viso arrossato dallo sforzo.
-
-La fecero entrare nel salotto da colazione, dove erano riunite quasi tutte tranne Jane; la sua apparizione suscitò grande sorpresa. Il fatto che avesse percorso tre miglia così presto nella giornata, in un tempo così brutto e da sola, sembrava quasi incredibile per la signora Hurst e la signorina Bingley; Elizabeth era convinta che le considerassero con disprezzo per questo. Tuttavia, furono molto gentili con lei; nel comportamento di loro fratello c’era qualcosa di più della semplice cortesia: c’era buon umore e gentilezza. Il signor Darcy disse poco, mentre il signor Hurst non disse assolutamente nulla. Il primo era diviso tra l’ammirazione per la bellezza del suo viso, resa ancora più evidente dall’esercizio fisico, e i dubbi riguardo al motivo che potesse giustificare il suo arrivo da sola fino a quel punto. Il secondo, invece, pensava soltanto al proprio breakfast.
-
-Le sue domande riguardo a sua sorella ricevettero risposte non molto incoraggianti. La signorina Bennet aveva dormito male e, sebbene fosse in piedi, aveva la febbre alta e non era abbastanza [[motifs/well|in salute]] per lasciare la sua stanza. Elizabeth fu felice che la portassero subito da lei; Jane, che fino ad allora si era trattenuta soltanto per paura di causare preoccupazioni o disagi, aveva espresso nella sua lettera quanto desiderasse un tale incontro e fu molto contenta quando Elizabeth arrivò. Tuttavia, non era in grado di sostenere una lunga conversazione; e quando la signorina Bingley le lasciò da sole, poté esprimere soltanto la propria gratitudine per la straordinaria gentilezza che le veniva dimostrata. Elizabeth rimase al suo fianco in silenzio.
-
-Dopo colazione, le sorelle si unirono a loro; e anche Elizabeth iniziò ad affezionarsi a loro, vedendo quanto affetto e premura dimostrassero per Jane. Arrivò l’apotecario; dopo aver esaminato la paziente, disse, come ci si poteva aspettare, che aveva preso un brutto raffreddore e che bisognava fare di tutto per farla guarire; le consigliò di tornare a letto e le promise di prepararle dei decotti. Il consiglio fu seguito prontamente, poiché i sintomi febbrili peggioravano e le doleva terribilmente la testa. Elizabeth non lasciò mai la sua stanza per un momento, né le altre signore vi erano spesso assenti; dato che gli uomini erano fuori, in realtà non avevano nulla da fare altrove.
-
-Quando l’[[motifs/clock|orologio]] suonò le tre, Elizabeth sentì di dover andare e, molto riluttante, lo disse. La signorina Bingley le offrì la carrozza; lei avrebbe accettato solo se insistessero un po’, ma Jane mostrò tale preoccupazione nel momento dell’addio che la signorina Bingley dovette trasformare l’offerta in un invito a rimanere a Netherfield per il momento. Elizabeth acconsentì con grande gratitudine, e fu mandato un servitore a Longbourn per informare la famiglia della sua permanenza e portare indietro dei vestiti.
-
-Illustrazione:
-
-“Arrivò l’apotecario”
-
-
-
-Illustrazione:
-
-"#Coprire lo schermo"
 
 
 
@@ -2780,138 +2207,6 @@ M^{rs} Bennet and her two youngest girls
 [_Copyright 1894 by George Allen._]]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO VIII.
-
-Illustrazione
-
-Alle cinque in [[motifs/clock|orario]], le due signore si ritirarono per vestirsi, e alle sei e mezza Elizabeth fu chiamata a cena. Alle numerose domande che le furono poste in quel momento, tra cui quelle del molto più premuroso Mr. Bingley, non riuscì a dare risposte particolarmente positive. Anche Jane non se la cavava meglio. Le sorelle, sentendo ciò, ripeterono più volte quanto fossero dispiaciute, quanto fosse scioccante avere un brutto raffreddore e quanto detestassero stare malate; dopodiché non pensarono più alla questione. E la loro indifferenza verso Jane, quando non erano immediatamente presenti, permise a Elizabeth di tornare a provare tutto il suo antico disprezzo per lei.
-
-Il loro fratello, in effetti, era l’unico del gruppo che lei potesse considerare con qualche soddisfazione. La sua preoccupazione per Jane era evidente, e le sue attenzioni verso di lei molto piacevoli; queste cose le impedivano di sentirsi così invadente come credeva fosse considerata dagli altri. Riceveva pochissime attenzioni da parte loro: la signorina Bingley era completamente assorbita dal signor Darcy, sua sorella non meno; quanto al signor Hurst, accanto a cui Elizabeth sedeva, era un uomo pigro, che viveva solo per mangiare, bere e giocare a carte. Quando scopriva che lei preferiva un piatto semplice a una zuppa di carne, non aveva nulla da dirle.
-
-Quando la cena finì, tornò direttamente da Jane; non appena Miss Bingley uscì dalla stanza, iniziò a insultarla. I suoi modi venivano definiti davvero molto scarsi: un misto di [[concepts/pride|orgoglio]] e impertinenza; non sapeva conversare, non aveva stile, né gusto, né [[concepts/beauty|bellezza]]. Anche la signora Hurst la pensava allo stesso modo e aggiunse.
-
-“In breve, non ha nulla che possa raccomandarla, se non il fatto di essere un’ottima camminatrice. Non dimenticherò mai l’aspetto che aveva questa mattina. Sembrava davvero quasi selvaggia.”
-
-“Lo ha fatto davvero, Louisa. A malapena sono riuscita a mantenere la calma. È assolutamente assurdo che debba correre in giro per il paese solo perché sua sorella ha preso un raffreddore. I suoi capelli, così disordinati, ”
-
-“Sì, e anche la sua sottoveste. Spero che l’abbiate vista: sei pollici di fango sopra, ne sono assolutamente certa. E l’abito che era stato abbassato per nasconderla non ha affatto funzionato.”
-
-“La tua descrizione potrebbe essere molto accurata, Louisa,” disse Bingley; “ma a me è completamente sfuggito tutto questo. Pensavo che la signorina [[characters/elizabeth-bennet|Elizabeth Bennet]] sembrasse davvero molto bene quando è entrata nella stanza stamattina. Il suo grembiule sporco, invece, mi è del tutto passato inosservato.”
-
-“_Lei_ l’ha notato, signor Darcy, ne sono sicura,” disse la signorina Bingley; “e penso che non vorrà certo che _sua sorella_ faccia una simile scenata.”
-
-"Certamente no."
-
-“Camminare per tre miglia, o quattro miglia, o cinque miglia, immersa nella terra fino alle caviglie, e sola, completamente sola! Cosa poteva voler dire con questo? A mio parere, mostra un tipo orribile di presunzione e indipendenza, una totale disattenzione verso le regole della decenza tipica delle piccole città.”
-
-“Mostra un affetto per sua sorella che è davvero piacevole,” disse Bingley.
-
-“Temo, signor Darcy,” osservò la signorina Bingley sottovoce, “che questa avventura abbia un po’ influenzato il vostro apprezzamento per i suoi bellissimi occhi.”
-
-“Assolutamente no,” rispose: “si erano rallegrati con quell’esercizio.” Seguì una breve pausa, e poi la signora Hurst riprese a parlare.
-
-“Ho un'immensa stima per [[characters/jane-bennet|Jane Bennet]]: è davvero una ragazza molto gentile, e desidero con tutto il cuore che trovi un buon marito. Ma con un padre e una madre del genere, e con origini così umili, temo che non ci siano molte possibilità.”
-
-“Credo di avervi sentito dire che il loro zio è un avvocato a Meryton…”
-
-“Sì; e ne hanno un altro che vive da qualche parte vicino a Cheapside.”
-
-“È un reato grave,” aggiunse sua sorella; e risero entrambe di cuore.
-
-“Anche se avessero zii a sufficienza per riempire l’intero quartiere di Cheapside,” esclamò Bingley, “ciò non li renderebbe affatto meno piacevoli da frequentare.”
-
-“Ma questo sicuramente ridurrà notevolmente le loro possibilità di sposare uomini di qualche rilievo nel mondo,” rispose Darcy.
-
-A questo discorso Bingley non rispose; ma le sue sorelle lo approvarono calorosamente e si divertirono per un po’ a scapito delle relazioni volgari della loro cara amica.
-
-Con un rinnovato affetto, tuttavia, tornarono nella sua stanza dopo aver lasciato la sala da pranzo e sedettero con lei fino al momento in cui fu chiamata per il caffè. Stava ancora molto male, e Elizabeth non volle lasciarla nemmeno per un attimo, fino a tarda sera, quando poté constatare con sollievo che dormiva; solo allora le sembrò giusto, piuttosto che piacevole, scendere lei stessa le scale. Entrando nel salotto, trovò tutta la compagnia seduta attorno al tavolo da toeletta e fu immediatamente invitata a unirsi a loro; ma sospettando che stessero giocando a carte, rifiutò l’invito e, usando sua sorella come scusa, disse che si sarebbe divertita, nel breve tempo che le restava, leggendo un libro. Il signor Hurst la guardò con stupore.
-
-“Preferisci leggere ai giochi di carte?”, disse lui; “È davvero insolito…”
-
-“Signorina Eliza Bennet,” disse la signorina Bingley, “disprezza le carte da gioco. È una grande lettrice e non trova piacere in nulla altro.”
-
-“Non merito né tali lodi né tali rimproveri,” esclamò Elizabeth; “non sono una grande lettrice, e trovo piacere in molte cose.”
-
-“Nel prenderti cura di tua sorella, sono sicuro che tu provi piacere,” disse Bingley; “e spero che questo piacere aumenti presto vedendola completamente guarita.”
-
-Elizabeth gli ringraziò con tutto il cuore, poi si diresse verso un tavolo su cui erano posate alcune libri. Lui le offrì immediatamente di andarle a prendere altre; tutte quelle che la sua biblioteca poteva fornirle.
-
-“Vorrei che la mia collezione fosse più vasta, sia per il tuo beneficio che per il mio stesso onore; ma sono un uomo pigro. E anche se non ne ho molte, ne ho comunque più di quante abbia mai controllate davvero.”
-
-Elizabeth gli assicurò che poteva cavarsela perfettamente con quelle cose presenti nella stanza.
-
-“Sono sorpresa,” disse la signorina Bingley, “che mio padre abbia lasciato una collezione di libri così scarsa. Che deliziosa biblioteca avete a Pemberley, signor Darcy!”
-
-“Dovrebbe essere qualcosa di buono”, rispose: “è il frutto del lavoro di molte generazioni”.
-
-“E poi ci hai aggiunto anche tu tante cose… Comperi sempre libri.”
-
-“Non riesco a comprendere come si possa trascurare una biblioteca familiare in tempi come questi.”
-
-“Negligenza! Sono sicuro che non trascuriate nulla ciò che possa aumentare la bellezza di quel nobile luogo. Charles, quando costruirete _la_ vostra casa, spero che sia almeno la metà più incantevole di Pemberley.”
-
-“Spero proprio che possa accadere.”
-
-“Ma vi consiglierei davvero di effettuare la vostra acquisto in quella zona, e di prendere Pemberley come modello. Non esiste una contea più bella in Inghilterra del Derbyshire.”
-
-Con tutto il mio cuore: comprerei persino Pemberley stesso, se Darcy fosse disposto a venderlo.
-
-“Sto parlando di possibilità, Charles.”
-
-“Per la mia parola, Caroline, penso che sia molto più possibile ottenere Pemberley attraverso un acquisto piuttosto che tramite imitazione.”
-
-Elizabeth era così coinvolta da ciò che stava accadendo che non riusciva quasi a prestare attenzione al suo libro; presto lo mise da parte del tutto e si avvicinò al tavolo da gioco, posizionandosi tra il signor Bingley e sua sorella maggiore per osservare la partita.
-
-“La signorina Darcy è cresciuta molto da quella [[motifs/spring|primavera]]? Sarà alta quanto me?” chiese la signorina Bingley.
-
-“Credo che lo farà. Ora è più o meno alta quanto la signorina [[characters/elizabeth-bennet|Elizabeth Bennet]], anzi forse anche di più.”
-
-“Quanto desidero rivederla! Non ho mai incontrato nessuno che mi abbia reso così felice. Un viso del genere, modi così raffinati, e una tale perfezione per la sua età! La sua esibizione al pianoforte è davvero eccezionale.”
-
-“È davvero sorprendente per me,” disse Bingley, “come le giovani signore riescano ad avere la pazienza di diventare così abili in tutto ciò che fanno.”
-
-“Tutte le giovani signore sono riuscite! Caro Charles, cosa intendi dire?”
-
-“Sì, credo che tutte loro lo facciano. Tutte dipingono tavoli, rivestono schermi e realizzano borse in rete. Conosco a malapena qualcuno che non sia in grado di fare queste cose; e sono sicura di non aver mai sentito parlare di una giovane donna per la prima volta senza che si menzionasse il fatto che fosse molto abile in queste attività.”
-
-“La tua lista delle donne comuni che possiedono vere doti,” disse Darcy, “contiene troppa [[concepts/truth|verità]]. Questo termine viene spesso usato per descrivere molte donne che non lo meritano affatto, se non perché sono riuscite a guadagnare del denaro o ad adornarsi con bei vestiti; ma sono assolutamente in disaccordo con te riguardo alla tua valutazione generale delle donne. Non posso vantarmi di conoscere più di una mezza dozzina, tra tutte le persone che conosco, che possiedano davvero vere qualità.”
-
-“Nemmeno io, ne sono sicura,” disse la signorina Bingley.
-
-“Allora,” osservò Elizabeth, “dovete comprendere molte cose nel vostro concetto di una donna raffinata e competente.”
-
-“Sì; ne comprendo davvero molto.”
-
-“Oh, certamente,” esclamò la sua fedele assistente, “nessuno può davvero essere considerato competente se non supera di molto ciò che si incontra abitualmente. Una donna deve possedere una solida conoscenza della musica, del canto, del disegno, della danza e delle lingue moderne per meritare questo titolo; inoltre, deve avere qualcosa di particolare nel suo modo di comportarsi, nel suo passo, nel tono della sua voce, nelle sue parole e nei suoi gesti. Altrimenti, il titolo non sarebbe affatto meritato.”
-
-“Tutto questo deve possederlo,” aggiunse Darcy; “e inoltre, deve ancora acquisire qualcosa di più sostanziale attraverso una lettura approfondita per migliorare il proprio intelletto.”
-
-“Non mi sorprende più il fatto che tu conosca soltanto sei donne di successo. Ora, piuttosto, mi chiedo come tu possa conoscere anche solo una di loro.”
-
-“Sei davvero così severo nei confronti del tuo stesso sesso al punto di [[concepts/doubt|dubitare]] della possibilità che tutto ciò possa accadere?”
-
-“Non ho mai visto una donna del genere. Non ho mai visto una combinazione di capacità, gusto, impegno e eleganza come quelle che descrivi.”
-
-Sia la signora Hurst che la signorina Bingley espressero forte indignazione per l’ingiustizia di quella sua implicita [[concepts/doubt|dubbio]], sostenendo entrambe di conoscere molte donne che corrispondevano a quella descrizione. Tuttavia, il signor Hurst le richiamò all’ordine, lamentandosi amaramente della loro mancanza di attenzione verso ciò che stava accadendo. Poiché ogni conversazione fu così interrotta, Elizabeth lasciò presto la stanza.
-
-“Eliza Bennet,” disse Miss Bingley non appena la porta si chiuse alle sue spalle, “è una di quelle giovani donne che cercano di piacere al sesso opposto sminuendo il proprio valore; e sono sicura che con molti uomini ci riescano; ma, a mio parere, è un espediente meschino, un’arte davvero spregevole.”
-
-“Indubbiamente,” rispose Darcy, a cui questa osservazione era rivolta principalmente, “in _tutte_ quelle arti che le signore talvolta si degnano di utilizzare per conquistare qualcuno c’è qualcosa di meschino. Qualsiasi cosa abbia a che fare con l’astuzia è spregevole.”
-
-La signorina Bingley non fu del tutto soddisfatta di questa risposta, quindi non continuò l’argomento.
-
-Elizabeth si unì di nuovo a loro solo per dire che sua sorella stava peggio e che lei non poteva lasciarla. Bingley insistette affinché Mr. [[characters/jones|Jones]] venisse chiamato immediatamente; mentre le sue sorelle, convinte che nessun consiglio proveniente dalla campagna potesse essere d’aiuto, suggerirono di inviare qualcuno in città per chiamare uno dei medici più rinomati. Lei non volle nemmeno considerare questa possibilità; ma non era del tutto contraria all’idea proposta dal fratello, e fu deciso che Mr. [[characters/jones|Jones]] venisse chiamato la mattina seguente, a meno che Miss Bennet non migliorasse decisamente. Bingley si sentiva molto a disagio; le sue sorelle dichiararono di essere disperate. Tuttavia, cercavano di consolarsi cantando duetti dopo cena; mentre lui non trovava modo migliore per alleviare i propri sentimenti se non dando istruzioni alla propria governante affinché venisse prestata ogni possibile attenzione alla signorina malata e a sua sorella.
-
-
-
-Illustrazione:
-
-Signora Bennet e le sue due figlie più giovani
-
-Copyright 1894 di George Allen.
-
 
 
 <span class="atom-split" data-atom="chapter_09" data-title="Pride and Prejudice — Chapter 9" data-chapter="Chapter 09" data-kind="chapter" data-tags="archetype/child,motif/home,motif/love,motif/night,motif/silence,motif/time,motif/well,concept/beauty,concept/hope,concept/self,concept/wonder,form/sonnet,setting/london,character/charlotte_lucas,character/jones"></span>
@@ -3117,94 +2412,6 @@ all Miss Bingley’s witticisms on _fine eyes_.
 [Illustration]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO IX.
-
-Illustrazione
-
-Elizabeth trascorse la maggior parte della [[motifs/night|notte]] nella stanza di sua sorella, e al mattino ebbe il piacere di poter rispondere in modo soddisfacente alle domande che aveva ricevuto molto presto da Mr. Bingley tramite una cameriera, e poco dopo anche dalle due eleganti signore che servivano le sue sorelle. Nonostante questo, chiese comunque che venisse inviata una nota a Longbourn, desiderando che sua madre andasse a trovare Jane per formarsi un’opinione personale sulla sua situazione. La nota fu immediatamente spedita e il suo contenuto attuato senza indugio. La signora Bennet, accompagnata dalle sue due figlie più giovani, arrivò a Netherfield poco dopo la colazione di famiglia.
-
-Se avesse trovato Jane in qualche pericolo evidente, la signora Bennet sarebbe stata molto angosciata; ma essendo certa che la sua malattia non fosse grave, non desiderava affatto che si riprendesse immediatamente, poiché una sua guarigione l’avrebbe probabilmente portata via da Netherfield. Pertanto, non volle ascoltare la proposta della figlia di farla trasportare a [[motifs/home|casa]]; lo stesso valeva per il farmacista, che arrivò più o meno nello stesso [[motifs/time|tempo]] e riteneva anch’egli che non fosse affatto opportuno. Dopo essere rimasta un po’ con Jane, alla comparsa e all’invito della signorina Bingley, la madre e le tre figlie la seguirono nella sala da pranzo. Bingley le accolse con la speranza che la signora Bennet non avesse trovato Miss Bennet in condizioni peggiori di quanto si aspettasse.
-
-“Infatti sì, signore,” fu la sua risposta. “È troppo malata per essere spostata. Il signor [[characters/jones|Jones]] dice che non dobbiamo nemmeno pensare a trasferirla. Dobbiamo approfittare ancora un po’ della vostra gentilezza.”
-
-“Rimosso!”, esclamò Bingley. “Non si deve nemmeno pensare a una cosa del genere. Mia sorella, ne sono sicuro, non accetterà mai che lei venga rimossa.”
-
-“Può star certa, signora,” disse la signorina Bingley con un tono freddamente cortese, “che la signorina Bennet riceverà ogni possibile attenzione finché rimarrà con noi.”
-
-La signora Bennet fu molto grata per i suoi ringraziamenti.
-
-“Sono sicura,” aggiunse, “se non fosse per amici così buoni, non so cosa ne sarebbe di lei. È davvero molto malata e soffre molto, ma con la massima pazienza del mondo, come sempre. Ha, senza eccezione, il carattere più dolce che abbia mai incontrato. Spesso dico alle mie altre ragazze che non sono niente rispetto a lei. Qui avete una stanza molto bella, signor Bingley, e un panorama incantevole da quel sentiero di ghiaia. Non conosco nessun posto in campagna paragonabile a Netherfield. Spero che non pensiate di lasciarlo così presto, anche se il vostro contratto d’affitto è breve.”
-
-“Qualunque cosa faccia, la faccio sempre di fretta,” rispose lui; “quindi, se decidessi di lasciare Netherfield, probabilmente me ne andrei in cinque minuti. Tuttavia, al momento, ritengo di essere completamente deciso a rimanere qui.”
-
-“Era esattamente ciò che avrei dovuto aspettarmi da te,” disse Elizabeth.
-
-“Cominci a capirmi, vero?”, esclamò, voltandosi verso di lei.
-
-“Ah sì… capisco perfettamente cosa intendi.”
-
-“Vorrei poter considerare questo un complimento; ma essere così facilmente attraversato, temo sia davvero triste.”
-
-“È proprio così che stanno le cose. Non si può necessariamente dedurre che un carattere profondo e complesso sia più o meno meritevole di apprezzamento rispetto a uno come il tuo.”
-
-“Lizzy,” gridò sua madre, “ricorda dove ti trovi e non correre più in quel modo selvaggio come ti è permesso fare a [[motifs/home|casa]].”
-
-“Prima non lo sapevo,” continuò immediatamente Bingley, “che tu fossi un osservatore attento dei caratteri umani. Deve essere uno studio davvero interessante.”
-
-“Sì… ma i personaggi complessi sono davvero quelli più divertenti. Almeno hanno questo vantaggio.”
-
-“Questo paese,” disse Darcy, “in generale offre pochi soggetti per uno studio del genere. In una zona rurale si vive all’interno di un ambiente molto ristretto e monotono.”
-
-“Ma le persone stesse cambiano così tanto, che c’è sempre qualcosa di nuovo da osservare in loro.”
-
-“Sì, certamente,” esclamò la signora Bennet, offesa dal modo in cui aveva menzionato i quartieri rurali. “Vi assicuro che nelle campagne succedono esattamente le stesse cose che in città.”
-
-Tutti rimasero sorpresi; e Darcy, dopo averla guardata per un momento, si allontanò in silenzio. La signora Bennet, che pensava di aver ottenuto una vittoria completa su di lui, continuò la sua “vittoria”.
-
-“Non vedo alcun grande vantaggio che [[settings/london|Londra]] abbia rispetto alla campagna, per quanto mi riguarda, tranne per i negozi e i luoghi pubblici. La campagna è decisamente più piacevole, non è vero, signor Bingley?”
-
-“Quando sono in campagna,” rispose, “non desidero mai lasciarla; e quando sono in città, è più o meno lo stesso. Ognuno dei due luoghi ha i suoi vantaggi, e posso essere altrettanto felice in entrambi.”
-
-“Ah, è perché hai un carattere giusto. Ma quel gentiluomo,” guardando Darcy, “sembrava pensare che la campagna non valesse assolutamente nulla.”
-
-“Infatti, mamma, vi sbagliate,” disse Elizabeth, arrossendo per sua madre. “Avete completamente frainteso il signor Darcy. Voleva solo dire che in campagna non si incontrano tante persone diverse rispetto alla città, e questo dovete ammettere che è vero.”
-
-“Certo, mia cara, nessuno ha detto che ce ne fossero; ma per quanto riguarda il fatto di non incontrare molte persone in questo quartiere, credo che ci siano pochi quartieri più grandi di questo. So che ceniamo con ventiquattro famiglie.”
-
-Solo la preoccupazione per Elizabeth permetteva a Bingley di mantenere la sua calma esteriore. Sua sorella, meno delicata, rivolse uno sguardo al signor Darcy con un sorriso molto espressivo. Per cercare di deviare i pensieri di sua madre, Elizabeth le chiese se [[characters/charlotte-lucas|Charlotte Lucas]] fosse stata a Longbourn da quando lei era partita.
-
-“Sì, ieri ha chiamato con suo padre. Che uomo piacevole il signor William, vero, signor Bingley? È davvero un esempio di buone maniere, così gentile e disinvolto! Ha sempre qualcosa da dire a tutti. Questo è per me l’essenza delle buone maniere; mentre quelle persone che si considerano molto importanti e che non aprono mai bocca, sbagliano completamente.”
-
-Ha cenato con te Charlotte?
-
-“No, lei sarebbe tornata a [[motifs/home|casa]]. Immagino che la cercassero per via delle torte di carne tritata. Per quanto mi riguarda, signor Bingley, io tengo sempre domestici in grado di svolgere da soli i loro compiti; le mie figlie sono state educate in modo diverso. Ma ognuno può giudicare per sé. Le Lucase sono ragazze davvero perbene, ve lo assicuro. Peccato che non siano belle! Non che io consideri Charlotte particolarmente brutta, ma lei è comunque una nostra amica intima.”
-
-“Sembra davvero una giovane donna molto piacevole,” disse Bingley.
-
-“Oh mio Dio, sì; ma devi ammettere che è davvero molto semplice d’aspetto. Anche Lady Lucas lo ha detto spesso, e invidiava la [[concepts/beauty|bellezza]] di Jane. Non mi piace vantarmi della mia propria [[archetypes/child|figlia]]; ma onestamente, Jane, non si vedono spesso persone più belle di lei. È quello che tutti dicono. Non mi fido troppo della mia propia parzialità. Quando aveva solo quindici anni, c’era un gentiluomo a casa di mio fratello Gardiner in città che era davvero molto [[motifs/love|innamorato]] di lei; mia cognata era sicura che le avrebbe fatto una proposta prima che partissimo. Ma alla fine non lo fece. Forse pensava che fosse troppo giovane. Comunque, le scrisse alcuni versi, e erano davvero molto belli.”
-
-“E così finì la sua passione,” disse Elizabeth, con impazienza. “Credo che ci siano stati molti altri a essere sopraffatti nello stesso modo. Mi chiedo chi sia stato il primo a scoprire l’efficacia della poesia nel scacciare l’[[motifs/love|amore]]!”
-
-“Sono abituato a considerare la poesia come il _nutrimento_ dell’[[motifs/love|amore]]”, disse Darcy.
-
-“Di un amore nobile, forte e sano, forse sì. Tutto nutre ciò che è già forte. Ma se si tratta soltanto di una debole, tenue inclinazione, sono convinto che un solo bel [[forms/sonnet|sonetto]] possa farla svanire del tutto.”
-
-Darcy si limitò a sorridere; il lungo silenzio che seguì fece tremare Elizabeth, temendo che sua madre potesse nuovamente mettersi in imbarazzo. Avrebbe voluto parlare, ma non le veniva in mente nulla da dire; dopo un breve momento di silenzio, la signora Bennet riprese a ringraziare il signor Bingley per la sua gentilezza verso Jane, scusandosi anche per averlo disturbato con Lizzy. Il signor Bingley rispose con cortesia naturale, costringendo anche sua sorella minore ad essere educata e a dire ciò che l’occasione richiedeva. Lei eseguì il proprio dovere, sebbene senza grande grazia, ma la signora Bennet ne fu soddisfatta e poco dopo ordinò di preparare la carrozza. A quel segnale, la figlia più giovane si fece avanti; le due ragazze avevano sussurrato tra loro per tutta la durata della visita, e il risultato fu che la più giovane accusò il signor Bingley di aver promesso, al suo arrivo in campagna, di organizzare un ballo a Netherfield.
-
-Lydia era una ragazza robusta e ben sviluppata, di quindici anni, con una pelle bella e un viso sorridente; molto amata da sua madre, la cui affetto l’aveva fatta partecipare a eventi pubblici fin da piccola. Aveva uno spirito vivace e una sorta di naturale sicurezza in sé stessa; le attenzioni degli ufficiali, attratti sia dai deliziosi pasti offerti dal suo zio che dal suo modo disinvolto di comportarsi, avevano ulteriormente rafforzato questa sua fiducia in se. Per questo motivo, fu completamente a proprio agio nel parlare con il signor Bingley riguardo al ballo e gli ricordò bruscamente la sua promessa, aggiungendo che sarebbe stato l’atto più vergognoso del mondo se non l’avesse mantenuta. La risposta che lui le diede fu davvero piacevole alle orecchie di sua madre.
-
-“Sono assolutamente pronto, vi assicuro, a mantenere la mia promessa; e quando vostra sorella si sarà ripresa, potrete, se lo desiderate, fissare il giorno esatto del ballo. Ma non vorreste certo ballare mentre lei è malata, vero?”
-
-Lydia dichiarò di essere soddisfatta. “Oh sì, sarebbe molto meglio aspettare che Jane si rimetta completamente; e entro quel momento, molto probabilmente, il Capitano Carter sarà di nuovo a Meryton. E quando avrete organizzato la vostra festa,” aggiunse, “insisterò affinché ne organizzino anche loro una. Dirò al Colonnello Forster che sarebbe davvero un peccato se non lo facessero.”
-
-La signora Bennet e le sue figlie se ne andarono allora, ed Elizabeth tornò immediatamente da Jane, lasciando che il comportamento suo e di sua famiglia fosse oggetto dei commenti delle due signore e del signor Darcy; tuttavia, quest’ultimo non fu persuaso ad unirsi alle loro critiche nei suoi confronti, nonostante tutti i battute spiritose della signorina Bingley sui “belli occhi”.
-
-
-
-Illustrazione
-
 
 
 <span class="atom-split" data-atom="chapter_10--part_01" data-title="Pride and Prejudice — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/desire,motif/horse,motif/leaves,motif/night,motif/time,motif/well,concept/friendship,concept/honour,concept/humility"></span>
@@ -3361,86 +2568,6 @@ very great moment, should you think ill of that person for complying
 with the [[motifs/desire|desire]], without waiting to be argued into it?”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO X.
-
-Illustrazione
-
-La giornata trascorse più o meno come la precedente. La signora Hurst e la signorina Bingley avevano trascorso alcune ore della mattinata con il malato, il quale continuava a migliorare, sebbene lentamente; alla sera, Elizabeth si unì al loro gruppo in salotto. Tuttavia, il tavolino da toeletta non comparve. Il signor Darcy stava scrivendo, mentre la signorina Bingley, seduta accanto a lui, osservava l’avanzamento della sua lettera e di tanto in tanto attirava la sua attenzione inviandogli messaggi per sua sorella. Il signor Hurst e il signor Bingley stavano giocando a piquet, e la signora Hurst li osservava mentre giocavano.
-
-Elizabeth iniziò a fare del lavoro a maglia e si divertì molto osservando ciò che accadeva tra Darcy e il suo compagno. Le continue lodi della signora riguardo alla sua calligrafia, all’ordine delle righe o alla lunghezza della lettera, unite all’assoluta indifferenza con cui venivano accolte queste lodi, creavano un dialogo curioso e in perfetta sintonia con la sua opinione su di lui.
-
-“Che felicità proverà la signorina Darcy nel ricevere una lettera del genere!”
-
-Non rispose affatto.
-
-Scrivi con una velocità insolita.
-
-“Ti sbagli. Scrivo abbastanza lentamente.”
-
-“Quante lettere si devono scrivere nel corso di un anno. Lettere d’affari, per di più. Le troverei davvero odiose!”
-
-“È fortunato, dunque, che siano toccati a me invece che a te.”
-
-“Dì pure a tua sorella che desidero molto vederla.”
-
-“Gliel’ho già detto una volta, per volere tuo.”
-
-“Temo che non vi piaccia la vostra penna. Lasciate che ve la ripari io. Riparo le penne in modo davvero eccellente.”
-
-“Grazie… ma io sistemo sempre le cose da solo.”
-
-"#Come fai a riuscire a scrivere in modo così uniforme?"
-
-Era in silenzio.
-
-“Dì a tua sorella che sono molto felice di sapere dei suoi progressi con l’arpa, e pregala di farle sapere che sono davvero entusiasta del suo bellissimo progetto per un tavolo; penso sia infinitamente superiore a quello della signorina Grantley.”
-
-“Mi concedete il permesso di rimandare le mie espressioni di ammirazione fino a quando non vi scriverò di nuovo? Al momento, non ho lo spazio necessario per farle giustizia.”
-
-“Ah, non ha alcuna importanza. La rivedrò a gennaio. Ma scrive sempre lettere così lunghe e affascinanti per lei, signor Darcy?”
-
-“Di solito sono lunghi… ma se siano sempre affascinanti, non spetta a me dirlo.”
-
-“È una regola per me: chi è in grado di scrivere una lunga lettera con facilità non può scrivere male.”
-
-“Questo non va affatto come complimento per Darcy, Caroline,” esclamò suo fratello, “perché lui _non_ scrive con facilità. Studia troppo per poter comporre frasi di quattro sillabe. Non è vero, Darcy?”
-
-“Il mio stile di scrittura è molto diverso dal tuo.”
-
-“Oh,” esclamò la signorina Bingley, “Charles scrive nel modo più negligente che si possa immaginare. Omette metà delle parole e cancella il resto.”
-
-“I miei pensieri scorrono così velocemente che non ho il [[motifs/time|tempo]] per esprimerli; di conseguenza, a volte le mie lettere non trasmettono affatto alcun significato ai miei interlocutori.”
-
-“La sua [[concepts/humility|umiltà]], signor Bingley”, disse Elizabeth, “deve sicuramente dissuadere da qualsiasi rimprovero.”
-
-“Niente è più ingannevole,” disse Darcy, “dell’apparenza della [[concepts/humility|umiltà]]. Spesso si tratta soltanto di una mancanza di considerazione nelle proprie opinioni, e a volte di un complimento indiretto.”
-
-“E quale dei due chiami ‘la mia’ recente dimostrazione di modestia?”
-
-“Quella sorta di vanteria indiretta: in realtà sei molto orgoglioso dei tuoi difetti nella scrittura, perché li consideri il risultato di una rapidità di pensiero e di una mancanza di cura nell’esecuzione; difetti che, anche se non particolarmente apprezzabili, ti sembrano comunque molto interessanti. La capacità di fare le cose in fretta è sempre molto apprezzata da chi la possiede, spesso senza alcuna attenzione alle imperfezioni del risultato. Quando stamattina hai detto alla signora Bennet che, se mai avessi deciso di lasciare Netherfield, te ne saresti andato in cinque minuti, intendevi farne un genere di elogio, un complimento per te stesso; eppure, cosa c’è di davvero lodevole in una precipitazione che lascia inevitabilmente incompiute molte cose importanti e non porta alcun reale vantaggio né a te né ad altri?”
-
-“No,” esclamò Bingley, “è troppo. Ricordare di notte tutte le sciocchezze dette al mattino. Eppure, per la mia [[concepts/honour|onore]], credevo davvero che ciò che avevo detto su me stesso fosse vero. E lo credo ancora adesso. Almeno, quindi, non ho assunto un comportamento affrettato e inutile soltanto per fare bella figura davanti alle signore.”
-
-“Credo che tu ci abbia creduto; ma non sono affatto convinto che saresti partito con tanta fretta. Il tuo comportamento dipenderebbe altrettanto dal caso quanto quello di qualsiasi altro uomo che conosca; e se, mentre stavi montando a cavallo, un amico ti dicesse: ‘Bingley, sarebbe meglio che restassi fino alla prossima settimana’, probabilmente lo faresti. Probabilmente non partiresti. E, in altre parole, potresti anche decidere di rimanere per un mese intero.”
-
-“Con questo hai solo dimostrato,” esclamò Elizabeth, “che il signor Bingley non ha rispettato i propri veri sentimenti. Ora lo hai messo in mostra molto più di quanto lui stesso avesse fatto.”
-
-“Sono estremamente grato,” disse Bingley, “per il fatto che hai interpretato ciò che mio amico ha detto come un complimento sulla dolcezza del mio carattere. Ma temo che tu stia dando a quelle parole un significato diverso da quello che quell’uomo intendeva affatto; infatti, lui sicuramente avrebbe pensato meglio di me se, in una situazione del genere, io avessi negato categoricamente e me ne fossi andato il più velocemente possibile.”
-
-“Allora, il signor Darcy ritiene che la precipitazione della vostra intenzione iniziale sia stata compensata dalla vostra ostinazione nel mantenerla?”
-
-“Per la mia parola, non riesco proprio a spiegare la cosa… Darcy dovrà parlare per sé stesso.”
-
-“Vi aspettate che io mi assuma la responsabilità di opinioni che voi stesso definite mie, ma che io non ho mai riconosciuto come tali. Tuttavia, ammettendo che le cose stiano davvero come voi dite, dovete ricordare, signorina Bennet, che l’amico che dovrebbe desiderare il suo ritorno in casa e la rinuncia al suo piano non ha fatto altro che esprimere questo desiderio, chiederlo senza fornire alcuna argomentazione a sostegno della sua opportunità.”
-
-“Cedere facilmente e senza resistenza alle persuasioni di un amico non rappresenta certo un merito da parte tua.”
-
-“Arrendersi senza convinzione non rappresenta certo un complimento per la comprensione di nessuno dei due.”
-
-“A mio parere, signor Darcy, lei non tiene affatto conto dell’influenza della [[concepts/friendship|amicizia]] e dell’affetto. Il rispetto per la persona che chiede qualcosa spesso spinge a cedere facilmente, senza bisogno di argomentazioni. Non sto parlando specificamente del caso che ha menzionato riguardo al signor Bingley. Forse possiamo aspettare che tale situazione si verifichi prima di discutere della discrezione del suo comportamento in quel frangente. Ma, in generale, tra amici, quando uno dei due desidera che l’altro cambi una decisione non particolarmente importante, penserebbe male di quella persona se accettasse il suo desiderio senza aspettare alcuna spiegazione?”
-
 
 
 <span class="atom-split" data-atom="chapter_10--part_02" data-title="Pride and Prejudice — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/dance,motif/desire,motif/fire,motif/home,motif/marriage,motif/pain,motif/silence,motif/well,concept/hope,character/sunday"></span>
@@ -3590,80 +2717,6 @@ as to intend leaving her room for a couple of hours that evening.
 
 [_Copyright 1894 by George Allen._]]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-“Non sarebbe opportuno, prima di procedere su questo argomento, stabilire con maggiore precisione il grado di importanza che questa richiesta riveste, così come il livello di intimità esistente tra le parti?”
-
-“Certamente,” esclamò Bingley; “diamo ascolto a tutti i dettagli, senza dimenticare la loro altezza e dimensioni relative, perché questo avrà un peso maggiore nell’argomentazione, signorina Bennet, di quanto possiate pensare. Vi assicuro che se Darcy non fosse così alto rispetto a me, non gli presterei nemmeno la metà dell’attenzione che gli do. Dichiaro apertamente di non conoscere nessuno più sgradevole di Darcy in particolari occasioni e in luoghi specifici; soprattutto nella sua stessa casa, e in una[[characters/sunday|)domenica sera]]», quando non ha nulla da fare.”
-
-Il signor Darcy sorrise; ma Elizabeth pensò di poter notare che fosse piuttosto offeso, e per questo trattenne la sua risata. La signorina Bingley provava profonda indignazione per l’offesa subita da lui, a causa delle sciocchezze dette dal fratello di lei durante quella discussione.
-
-“Vedo chiaramente il tuo piano, Bingley,” disse il suo amico. “Non ti piacciono le discussioni e vuoi semplicemente [[motifs/silence|zittire]] tutti.”
-
-“Forse sì. Le discussioni assomigliano troppo alle dispute. Se voi e la signorina Bennet rimandaste le vostre argomentazioni finché non sarò uscito dalla stanza, ne sarei molto grato; dopodiché potrete dire di me tutto quello che volete.”
-
-“Quello che chiedi,” disse Elizabeth, “non rappresenta alcun sacrificio da parte mia; e il signor Darcy farebbe meglio a finire la sua lettera.”
-
-Il signor Darcy seguì il suo consiglio e finì davvero di scrivere la sua lettera.
-
-Quando quell’occupazione fu terminata, chiese a Miss Bingley ed Elizabeth il permesso di suonare un po’ di musica. Miss Bingley si avvicinò prontamente al pianoforte; dopo aver gentilmente invitato Elizabeth ad iniziare, ma ricevendo da quest’ultima una risposta altrettanto gentile ma decisa nel rifiutare, si sedette lei stessa a suonare.
-
-La signora Hurst cantava insieme a sua sorella; e mentre erano impegnate in questo, Elizabeth, sfogliando alcuni libri di musica posati sul pianoforte, non poté fare a meno di notare quanto spesso gli occhi del signor Darcy fossero fissi su di lei. Non riusciva proprio a credere che potesse essere oggetto di ammirazione per un uomo così importante; eppure il fatto che la guardasse proprio perché non le piaceva era ancora più strano. Alla fine, concluse che probabilmente attirava la sua attenzione perché, secondo i suoi criteri di giudizio, c’era qualcosa in lei che era più sbagliato e riprovevole rispetto a qualsiasi altra persona presente. Quella supposizione non le causò alcun dolore. Lo stimava così poco da non curarsi affatto della sua approvazione.
-
-Dopo aver suonato alcune canzoni italiane, la signorina Bingley variò l’atmosfera con una vivace melodia scozzese; poco dopo, il signor Darcy, avvicinandosi a Elizabeth, le disse:
-
-“Non provate forse un grande desiderio, signorina Bennet, di cogliere l’occasione per ballare una danza veloce?”
-
-Sorrise, ma non rispose. Lui ripeté la domanda, sorpreso dal suo [[motifs/silence|silenzio]].
-
-“Oh,” disse lei, “ti ho sentito prima; ma non riuscivo subito a decidere cosa rispondere. So che volevi che dicessi ‘Sì’, così da poter goderti il piacere di disprezzare i miei gusti. Ma io adoro sempre rovinare queste sortite e impedire alle persone di realizzare i loro piani maliziosi. Quindi ho deciso di dirti chiaramente che non voglio assolutamente [[motifs/dance|danzare]]; disprezzami pure, se ne hai il coraggio.”
-
-“Certamente non oso.”
-
-Elizabeth, che si aspettava quasi di dovergli affrontare delle obiezioni, rimase sorpresa dalla sua galanteria; ma nel suo modo di comportarsi c'era un misto di dolcezza e malizia che le rendeva difficile prendere qualsiasi iniziativa contro di lui. E Darcy non era mai stato così affascinato da una donna come lo fu da lei. Credeva davvero che, se non fosse stato per la inferiorità delle sue origini sociali, avrebbe potuto correre dei rischi.
-
-La signorina Bingley vide, o sospettò, abbastanza per provare gelosia; e la sua grande ansia per il recupero della sua cara amica Jane trovò un po’ di conforto nel suo [[motifs/desire|desiderio]] di liberarsi di Elizabeth.
-
-Spesso cercava di provocare Darcy affinché iniziasse a disprezzare la sua ospite, parlando del loro presunto [[motifs/marriage|mattrimonio]] e pianificando la sua felicità in un tale legame.
-
-“Spero,” disse lei mentre camminavano insieme tra i cespugli il giorno dopo, “che tu dia qualche suggerimento a tua suocera, quando avverrà questo desiderato evento, riguardo al vantaggio di tenere la bocca chiusa; e se possibile, cerca anche di far smettere le ragazze più giovani dal correre dietro agli ufficiali. E, se posso permettermi di menzionare un argomento così delicato, sforzati anche di controllare quel piccolo atteggiamento, che rasenta l’arroganza e l’impertinenza, che tua moglie possiede.”
-
-Illustrazione:
-
-"No, no; rimani dove sei."
-
-Copyright 1894 di George Allen.
-
-Qualcos’altro che potresti suggerire per la mia felicità domestica?
-
-“Ah sì, per favore fate mettere i ritratti di vostro zio e vostra zia Philips nella galleria di Pemberley. Metteteli accanto a vostro prozio, il giudice: appartengono alla stessa professione, sapete, solo in settori diversi. Per quanto riguarda il ritratto di vostra Elizabeth, non cercate nemmeno di farlo fare; quale pittore potrebbe rendere giustizia a quegli occhi meravigliosi?”
-
-“Non sarebbe affatto facile catturare la loro espressione visiva; tuttavia, il loro colore e la loro forma, nonché le ciglia così straordinariamente sottili, potrebbero essere riprodotti.”
-
-In quel momento furono incontrate da un’altra persona che stava passeggiando: la signora Hurst ed Elizabeth in persona.
-
-“Non sapevo che avessi intenzione di andare a piedi,” disse la signorina Bingley, con un certo imbarazzo, temendo che qualcuno potesse averli sentiti.
-
-“Ci avete usato in modo spregevole,” rispose la signora Hurst, “andando via senza dirci che sareste usciti.”
-
-Poi, prendendo il braccio di Mr. Darcy che non era impegnato in alcun gesto, lasciò Elizabeth a camminare da sola. Il sentiero permetteva il passaggio di soltanto tre persone. Mr. Darcy si rese conto della loro scortesia e immediatamente disse.
-
-“Questo sentiero non è abbastanza largo per il nostro gruppo; sarebbe meglio entrare nell’avenue.”
-
-Ma Elizabeth, che non aveva la minima intenzione di rimanere con loro, rispose ridendo:–
-
-“No, no; restate dove siete. Siete disposti in modo incantevole e sembrate avere un vantaggio insolito. La scena pittoresca verrebbe rovinata dall’aggiunta di una quarta persona. Addio.”
-
-Poi se ne andò felice e contenta, sperando di tornare a [[motifs/home|casa]] entro un giorno o due. Jane si era già ripresa abbastanza da voler uscire dalla sua stanza per un paio d’ore quella sera stessa.
-
-
-
-Illustrazione:
-
-“Accumulare il [[motifs/fire|fuoco]]”
-
-Copyright 1894 di George Allen.
 
 
 
@@ -3862,84 +2915,6 @@ it. He began to feel the danger of paying Elizabeth too much attention.
 [Illustration]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XI.
-
-Illustrazione
-
-Dopo che le signore se ne furono andate dopo cena, Elizabeth corse da sua sorella e, vedendola ben protetta dal freddo, la accompagnò nel salotto, dove fu accolta dalle sue due amiche con molte espressioni di piacere; Elizabeth non le aveva mai viste così piacevoli come in quell’ora che trascorse prima dell’arrivo dei signori. Le loro capacità di conversazione erano notevoli: riuscivano a descrivere con precisione un evento, a raccontare aneddoti con umorismo e a ridere allegramente delle loro conoscenze comuni.
-
-Ma quando i signori entrarono, Jane non fu più l’oggetto principale dell’attenzione; gli occhi di Miss Bingley si rivolsero immediatamente verso Darcy, e lei aveva qualcosa da dirgli prima ancora che lui avesse fatto molti passi avanti. Lui si rivolse direttamente a Miss Bennet con un cordiale complimento; anche il signor Hurst le fece un leggero inchino e disse di essere “molto felice”; tuttavia, l’attenzione e la calore furono riservati soprattutto alle parole di Bingley. Questi era pieno di gioia e attenzioni verso di lei; i primi trenta minuti trascorsero nel ravvivare il fuoco, per evitare che lei soffrisse a causa del cambio di ambiente; su sua richiesta, si spostò dall’altra parte del camino, in modo da trovarsi più lontana dalla porta. Lui poi si sedette accanto a lei e quasi non parlò con nessun altro. Elizabeth, che era impegnata nell’angolo opposto, osservava tutto questo con grande piacere.
-
-Dopo che il tè fu finito, il signor Hurst ricordò alla sua cognata di preparare il tavolo da gioco – ma invano. Lei aveva ottenuto informazioni private secondo cui il signor Darcy non desiderava giocare a carte, e ben presto anche la sua aperta richiesta venne rifiutata. Le assicurò che nessuno aveva intenzione di giocare, e il [[motifs/silence|silenzio]] di tutta la compagnia su quel tema sembrava confermare le sue parole. Il signor Hurst non ebbe quindi altra scelta se non sdraiarsi su uno dei divani e andare a [[motifs/sleep|dormire]]. Darcy prese un libro; la signorina Bingley fece lo stesso; mentre la signora Hurst, occupata principalmente a giocare con i suoi braccialetti e anelli, di tanto in tanto si univa alla conversazione tra suo fratello e la signorina Bennet.
-
-L’attenzione di Miss Bingley era altrettanto concentrata nel seguire i progressi del signor Darcy nella lettura del suo libro, quanto nella lettura del proprio; continuava costantemente a porgli domande o a guardare la sua pagina. Tuttavia, non riusciva a farlo entrare in conversazione con lei: lui rispondeva semplicemente alle sue domande e proseguiva nella lettura. Alla fine, completamente esausta dal tentativo di divertirsi con il proprio libro – che aveva scelto soltanto perché era il secondo volume di quello del signor Darcy – emise un grande sbadiglio e disse: “Che piacere trascorrere una serata in questo modo! Devo ammettere che non esiste divertimento più grande della lettura. Si stancha molto più facilmente di qualsiasi altra cosa che di un libro! Quando avrò una mia casa, sarò infelice se non disporrò di una biblioteca eccellente.”
-
-Nessuno rispose. Allora sbadigliò di nuovo, gettò da parte il libro e guardò intorno nella stanza nella speranza di trovare qualcosa che la divertisse; quando sentì suo fratello menzionare un ballo in relazione a Miss Bennet, si girò improvvisamente verso di lui e disse:
-
-“Addio Charles, sei davvero serio nell’idea di organizzare una [[motifs/dance|danza]] a Netherfield? Ti consiglierei, prima di decidere, di consultare i desideri del gruppo presente; mi sbaglio molto se tra noi non ci sono persone per cui un ballo rappresenterebbe più un tormento che un piacere.”
-
-“Se intendi Darcy,” esclamò suo fratello, “può andare a letto, se vuole, prima che inizi; ma per quanto riguarda il ballo, è già tutto deciso, e non appena Nicholls avrà preparato abbastanza zuppa bianca, manderò in giro le mie carte.”
-
-“Preferirei di gran lunga le feste con i balli,” rispose, “se si svolgessero in un modo diverso; ma il solito procedimento di queste riunioni è insopportabilmente noioso. Sarebbe sicuramente molto più razionale se al posto dei balli fossero le conversazioni a costituire l’ordine del giorno.”
-
-“Molto più razionale, mia cara Caroline, oserei dire. Ma non sarebbe affatto come una vera festa in maschera.”
-
-Miss Bingley non rispose nulla e poco dopo si alzò e iniziò a camminare per la stanza. La sua figura era elegante e camminava con grazia; ma Darcy, verso il quale tutto ciò era diretto, continuava imperterribilmente a studiare. Nella disperazione dei suoi sentimenti, decise di tentare un’ultima volta: si rivolse quindi a Elizabeth e disse.
-
-“Signorina Eliza Bennet, lasciate che vi convinca a seguire il mio esempio e a fare un giro per la stanza. Vi assicuro che è molto rinfrescante dopo essere state sedute nello stesso posto per così tanto tempo.”
-
-Elizabeth rimase sorpresa, ma acconsentì immediatamente. La signorina Bingley riuscì comunque nell’obiettivo reale della sua cortesia: il signor Darcy alzò lo sguardo. Era altrettanto consapevole dell’insolita attenzione che gli veniva rivolta da quella parte quanto lo era Elizabeth stessa, e inconsciamente chiuse il libro. Gli fu chiesto di unirsi a loro, ma rifiutò, osservando che poteva immaginare solo due motivi per cui avessero deciso di camminare insieme nella stanza, e che in entrambi i casi la sua presenza avrebbe interferito con le loro intenzioni. Cosa intendeva? Lei moriva dalla curiosità di sapere quale fosse il suo vero significato, e chiese a Elizabeth se riuscisse a comprenderlo.
-
-“Assolutamente no,” fu la sua risposta; “ma, credetemi, intende essere severo con noi, e il modo più sicuro per deluderlo è non chiedere nulla al riguardo.”
-
-Tuttavia, la signorina Bingley non era in grado di deludere il signor Darcy in alcun modo, e quindi insistette nel chiedergli una spiegazione per i suoi due motivi.
-
-“Non ho la minima obiezione ad spiegarvelo,” disse non appena lei gli permise di parlare. “O scegliete questo modo per trascorrere la serata perché vi fidate a vicenda e avete questioni segrete da discutere, oppure perché siete consapevoli che i vostri corpi risaltano al meglio camminando. Se è il primo caso, sarei completamente d’intralcio; se invece è il secondo, potrò ammirarvi molto di più mentre sono seduto accanto al [[motifs/fire|focolare]].”
-
-“Oh, che orrore!” esclamò la signorina Bingley. “Non ho mai sentito nulla di così abominabile. Come possiamo punirlo per un discorso del genere?”
-
-“Niente è così facile, se solo si ha la voglia,” disse Elizabeth. “Tutti noi possiamo infastidire e punire gli altri. Prendetelo in giro, ridete di lui. Essendo così intime, sicuramente sapete come farlo.”
-
-“Ma per la mia [[concepts/honour|onore]], non è vero. Vi assicuro che la mia esperienza personale non mi ha ancora insegnato nulla del genere. La calma e la presenza di spirito. No, credo che possa sfidarci proprio in quel campo. E per quanto riguarda il riso, non vorremmo certo metterci in imbarazzo cercando di ridere senza un motivo valido. Il signor Darcy può pure abbracciarsi da solo.”
-
-“Non si deve mai ridere di Mr. Darcy!” esclamò Elizabeth. “È un vantaggio davvero insolito. E spero che rimanga tale, perché per me sarebbe una grande perdita avere molti conoscenti del genere. Io amo molto ridere.”
-
-“Signorina Bingley,” disse lui, “mi ha dato credito per qualcosa che non merito affatto. Anche gli uomini più saggi e migliori, e le loro azioni più nobili, possono risultare ridicoli nelle mani di una persona il cui unico scopo nella vita è fare battute.”
-
-“Certo,” rispose Elizabeth, “esistono persone del genere, ma spero di non essere una di loro. Spero di non mai deridere ciò che è saggio o buono. Le follie e le sciocchezze, i capricci e le contraddizioni, beh, mi divertono davvero, lo ammetto, e rido di esse ogni volta che ne ho l’occasione. Ma queste cose, suppongo, sono proprio ciò che manca a te.”
-
-“Forse questo non è possibile per nessuno. Ma evitare quelle debolezze che spesso espongono una profonda comprensione al ridicolo è stato lo scopo della mia vita.”
-
-“Come la [[concepts/vanity|vanità]] e l’[[concepts/pride|orgoglio]].”
-
-“Sì, l’[[concepts/vanity|vanità]] è davvero una debolezza. Ma l’[[concepts/pride|orgoglio]], quando si tratta di una vera superiorità intellettuale, l’[[concepts/pride|orgoglio]] sarà sempre sotto controllo.”
-
-Elizabeth si girò dall’altra parte per nascondere un sorriso.
-
-“Immagino che la sua valutazione del signor Darcy sia finita,” disse la signorina Bingley; “e allora, qual è il risultato?”
-
-“Sono assolutamente convinta che il signor Darcy non abbia alcun difetto; lui stesso lo ammette senza nasconderlo.”
-
-“No,” disse Darcy, “non ho mai fatto simili pretese. Ho abbastanza difetti, ma spero che non siano di quel tipo che potrebbero essere fraintesi. Non oso garantire per il mio carattere. Credo sia troppo rigido; certamente molto poco adatto alle esigenze del mondo. Non riesco a dimenticare subito le follie e i vizi degli altri, né le offese che mi hanno fatto. I miei sentimenti non si alterano facilmente al tentativo di influenzarli. Forse il mio carattere potrebbe essere definito risentito. Una volta persa la mia stima per qualcuno, questa viene perduta per sempre.”
-
-“Quello è davvero un difetto,” esclamò Elizabeth. “Un rancore implacabile rappresenta una macchia nel carattere di una persona. Ma hai scelto bene il tuo errore. Davvero non riesco a riderci sopra. Sei al sicuro da me.”
-
-“Credo che in ogni carattere esista una tendenza verso un certo male, un difetto naturale che nemmeno la migliore [[concepts/education|educazione]] può eliminare.”
-
-“E il tuo difetto è la tendenza ad odiare tutti.”
-
-“E la tua,” rispose lui sorridendo, “è quella di fraintenderle deliberatamente.”
-
-“Per favore, suoniamo un po’ di musica”, esclamò la signorina Bingley, stufa di una conversazione della quale non partecipava affatto. “Louisa, non ti dispiacerà se sveglio il signor Hurst, vero?”
-
-Sua sorella non fece la minima obiezione, e il pianoforte fu aperto; dopo alcuni momenti di riflessione, a Darcy non dispiacque più farlo. Cominciò a rendersi conto del pericolo che rappresentava prestare troppa attenzione a Elizabeth.
-
-
-
-Illustrazione
-
 
 
 <span class="atom-split" data-atom="chapter_12" data-title="Pride and Prejudice — Chapter 12" data-chapter="Chapter 12" data-kind="chapter" data-tags="motif/home,motif/nature,motif/time,motif/well,concept/hope,concept/jealousy,concept/nature,character/sunday"></span>
@@ -4020,30 +2995,6 @@ had actually been hinted that Colonel Forster was going to be married.
 
 [Illustration]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XII.
-
-Illustrazione
-
-In seguito a un accordo tra le sorelle, Elizabeth scrisse la mattina seguente alla madre, chiedendole di far venire la carrozza per loro entro la giornata. Ma la signora Bennet, che aveva previsto che le sue figlie rimanessero a Netherfield fino al martedì successivo – giorno in cui sarebbe terminata esattamente la settimana di Jane – non riusciva ad accettare il loro ritorno prima di allora. La sua risposta, pertanto, non fu favorevole, almeno non ai desideri di Elizabeth, che anelava a tornare a [[motifs/home|casa]]. La signora Bennet le comunicò che non sarebbe stato possibile avere la carrozza prima del martedì; nel postscript aggiunse inoltre che, se il signor Bingley e sua sorella avessero insistito perché rimanessero più a lungo, lei non avrebbe avuto obiezioni. Tuttavia, Elizabeth era fermamente decisa a non trattenersi oltre; anzi, non si aspettava nemmeno che venisse loro chiesto di farlo. Temendo invece di essere considerate invadenti per aver soggiornato troppo a lungo, esortò Jane a prendere in prestito immediatamente la carrozza del signor Bingley. Alla fine si decise di menzionare il loro piano originale di lasciare Netherfield quella mattina e di fare la richiesta.
-
-La notizia della loro partenza suscitò molte preoccupazioni tra le persone coinvolte; si disse molto, soprattutto nel desiderio che rimanessero almeno fino al giorno seguente per continuare a lavorare su “Jane”; così la loro partenza fu rinviata. A quel punto, la signorina Bingley si pentì di aver proposto il rinvio: il suo [[concepts/jealousy|invidia]] e il suo disprezzo verso una delle sorelle superavano di gran lunga il suo affetto per l’altra.
-
-Il padrone della casa ascoltò con grande tristezza che loro dovevano andarsene così presto, e cercò più volte di convincere la signorina Bennet che non sarebbe stato sicuro per lei, che non si era ancora completamente ripresa; ma Jane rimase ferma nella sua decisione, convinta di avere ragione.
-
-Per il signor Darcy fu una notizia molto gradita: Elizabeth era rimasta a Netherfield abbastanza a lungo. Lei lo attirava più di quanto gli piacesse; inoltre, la signorina Bingley si comportava in modo scortese nei suoi confronti e, con lui, ancora più provocatoria del solito. Decise saggiamente di essere particolarmente attento affinché nessun segno di ammirazione potesse sfuggirgli ora – nulla che potesse farle nutrire la speranza di influenzare la sua felicità. Era consapevole che, se tale idea fosse stata sollevata, il suo comportamento durante l’ultimo giorno avrebbe avuto un peso decisivo nel confermarla o distruggerla. Deciso a perseguire il proprio obiettivo, non le parlò quasi affatto per tutta la giornata di sabato; e anche quando rimasero soli per mezz’ora, continuò con grande determinazione a leggere il suo libro, rifiutandosi persino di guardarla.
-
-[[characters/sunday|Domenica]], dopo la funzione mattutina, ebbe luogo quella separazione che piaceva quasi a tutti. La cortesia di Miss Bingley verso Elizabeth aumentò rapidamente, così come il suo affetto per Jane; e quando si congedarono, dopo aver assicurato a quest’ultima che le sarebbe sempre stato un piacere vederla sia a Longbourn che a Netherfield, e dopo averla abbracciata con grande tenerezza, le strinse anche la mano. Elizabeth salutò l’intero gruppo nel più allegro spirito.
-
-Non furono accolti molto cordialmente a [[motifs/home|casa]] dalla loro madre. La signora Bennet si chiese il motivo della loro visita, pensò che fosse molto sciocco causare tanti problemi e fu sicura che Jane avrebbe preso di nuovo freddo. Ma loro padre, sebbene fosse molto laconico nel manifestare la sua gioia, era in realtà molto felice di vederli; aveva sempre riconosciuto l’importanza che avevano all’interno della famiglia. La conversazione serale, quando erano tutti riuniti, aveva perso gran parte del suo spirito e quasi tutto il suo senso a causa dell’assenza di Jane ed Elizabeth.
-
-Trovarono Mary, come al solito, immersa nello studio del contrabbasso e della [[concepts/nature|natura]] umana; aveva alcuni nuovi estratti da ammirare e alcune nuove osservazioni sulla logora moralità da ascoltare. Catherine e Lydia avevano per loro informazioni di altro genere: molto era stato fatto, molto si era detto nel reggimento da mercoledì scorso; alcuni ufficiali avevano pranzato di recente con loro zio; un soldato semplice era stato frustato; e in realtà era stata fatta trapelare l’informazione che il colonnello Forster stava per sposarsi.
-
-
-
-Illustrazione
 
 
 
@@ -4240,76 +3191,6 @@ quarter of an hour.
 [Illustration]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XIII
-
-Illustrazione
-
-“Spero davvero, mia cara,” disse il signor Bennet a sua moglie mentre pranzavano la mattina seguente, “che tu abbia ordinato un buon pasto oggi, perché ho motivo di aspettare l’arrivo di un nuovo membro nella nostra famiglia.”
-
-“A chi ti riferisci, caro mio? Non conosco nessuno che debba venire, ne sono sicura. A meno che [[characters/charlotte-lucas|Charlotte Lucas]] non decida di passare da noi; e spero che i miei pasti siano abbastanza buoni per lei. Non credo che a casa sua abbia l’abitudine di mangiare cose del genere.”
-
-“La persona di cui parlo è un gentiluomo… e uno sconosciuto.”
-
-Gli occhi di Mrs. Bennet brillavano. “Un gentiluomo e uno sconosciuto. Deve essere il signor Bingley, ne sono sicura. Ma Jane, non hai mai detto una parola al riguardo. Che furba che sei! Beh, sarò davvero molto felice di incontrare il signor Bingley. Ma, mio Dio, che sfortuna! Oggi non c’è nemmeno un po’ di pesce da mangiare. Lydia, mia cara, suona la campanella. Devo parlare subito con il signor Hill.”
-
-“Non è il signor Bingley,” disse suo marito; “è una persona che non ho mai visto in tutta la mia vita.”
-
-Ciò suscitò grande meraviglia; e ebbe il piacere di essere interrogato con avidità sia da sua moglie che dalle sue cinque figlie contemporaneamente.
-
-Dopo essersi divertito per un po’ con la loro curiosità, spiegò così: “Circa un mese fa ho ricevuto questa lettera e circa quindici giorni fa le ho risposto; pensavo infatti che si trattasse di una questione delicata che richiedeva un intervento tempestivo. È della mia cugina, il signor Collins, il quale, quando io morirò, potrà scacciarvi tutti da questa casa quando vorrà.”
-
-“Oh, mio caro,” gridò sua moglie, “non riesco a sopportare nemmeno di sentirne parlare. Per favore, non parlate più di quell’uomo odioso. Penso davvero che sia la cosa più terribile al mondo che la vostra eredità venga sottratta ai vostri stessi figli; e sono sicura che, se fossi stata in voi, avrei cercato già da tempo di fare qualcosa al riguardo.”
-
-Jane ed Elizabeth cercarono di spiegarle la [[concepts/nature|natura]] di un’assegnazione ereditaria. Avevano già provato molte volte in passato; ma si trattava di un argomento su cui la signora Bennet era del tutto irragionevole; continuò quindi a lamentarsi amaramente della crudeltà di destinare un patrimonio lontano da una famiglia di cinque figlie femmine, a favore di un uomo di cui a nessuno importava nulla.
-
-“Certamente si tratta di un affare molto ingiusto,” disse il signor Bennet; “e nulla può scagionare il signor Collins dall’[[concepts/guilt|colpa]] di aver ereditato Longbourn. Ma se ascoltate la sua lettera, forse vi commuoverete un po’ per il modo in cui si è espresso.”
-
-“No, ne sono sicura che non lo farò; e penso che sia stato molto scortese da parte sua scriverti del tutto, e anche molto ipocrita. Odio questi falsi amici. Perché non poteva semplicemente continuare a litigare con te, come faceva suo padre prima di lui?”
-
-“Difatti, sembra proprio che abbia avuto alcuni rimorsi filiali in merito, come sentirete presto.”
-
-/* DESTRA: “Hunsford, vicino a Westerham, [[characters/kent|Kent]], _15 ottobre_.” */
-
-Caro Signore,
-
-“La discordia che esisteva tra voi e mio defunto e onorato padre mi causava sempre grande angoscia; e da quando ho avuto la sfortuna di perderlo, ho spesso desiderato rimediare a questa frattura. Tuttavia, per un certo periodo, sono stato trattenuto dai miei dubbi, temendo che fosse irrispettoso verso la sua memoria mantenere buoni rapporti con chiunque fosse stato oggetto delle sue antipatie.” – “Ecco, signora Bennet, ” – “Ora, però, ho preso una decisione: essendomi ordinato sacerdote a Pasqua, sono stato così fortunato da ricevere il favore della Nobile Signora Catherine de Bourgh, vedova di Sir Lewis de Bourgh. La sua generosità mi ha permesso di ottenere la preziosa parrocchia di questa chiesa. Farò del mio meglio per dimostrare la mia gratitudine verso di lei e per rispettare rigorosamente le cerimonie della Chiesa d’Inghilterra. In qualità di sacerdote, inoltre, ritengo sia mio dovere promuovere la pace in tutte le famiglie che rientrano nel mio ambito d’influenza. Spero quindi che le mie offerte di buona volontà siano considerate lodevoli; e confido che il fatto di essere il prossimo erede del patrimonio di Longbourn venga ignorato da voi, senza che questo vi induca a rifiutare la mia proposta di pace. Non potrei sopportare l’idea di causare dolore alle vostre adorabili figlie. Vi chiedo scusa per questo e vi assicuro della mia disponibilità a rimediare in ogni modo possibile. Ma solo in futuro. Se non avete obiezioni ad accogliermi nella vostra casa, mi propongo di venire da voi lunedì 18 novembre alle quattro del pomeriggio. Probabilmente rimarrò ospite presso di voi fino a sabato sera. La Signora Catherine, infatti, non si oppone affatto alle mie occasionali assenze la domenica, purché un altro sacerdote prenda il mio posto quel giorno. Vi invio i miei più rispettosi saluti, insieme ai migliori auguri per voi e le vostre figlie. Il vostro devoto amico.”
-
-"#William Collins."
-
-“Alle quattro in punto, dunque, possiamo aspettarci questo gentiluomo pacifista,” disse il signor Bennet mentre ripiegava la lettera. “Sembra davvero un giovane molto coscienzioso e cortese; non dubito che si rivelerà una conoscenza preziosa, soprattutto se Lady Catherine sarà così indulgente da permettergli di venire da noi di nuovo.”
-
-“C’è del vero in quello che dice riguardo alle ragazze; e, se è disposto a fare qualcosa per rimediare, non sarò certo io ad impedirglielo.”
-
-“Anche se è difficile,” disse Jane, “indovinare in che modo intenda farci scontare quella penitenza che ritiene ci spetti, certamente questo desiderio va a suo onore.”
-
-Quello che colpì maggiormente Elizabeth fu la sua straordinaria deferenza verso Lady Catherine, nonché la sua gentile disponibilità ad battezzare, sposare e seppellire i suoi parrocchiani ogni volta che ce ne fosse stato bisogno.
-
-“Deve essere una stranezza, penso,” disse lei. “Non riesco a capirlo. C’è qualcosa di molto presuntuoso nel suo modo di fare. E cosa intende dire scusandosi per essere il successore legittimo? Non possiamo certo pensare che vorrebbe aiutare in qualche modo, se potesse. Può davvero essere una persona sensata, signore?”
-
-“No, mio caro; non credo proprio. Ho grandi speranze di trovarlo esattamente il contrario. Nella sua lettera c’è un misto di servilismo e [[concepts/self|egoismo]] che promette bene. Non vedo l’ora di incontrarlo.”
-
-“Per quanto riguarda la composizione,” disse Mary, “la sua lettera non sembra presentare difetti. L’idea del ramo d’olivo forse non è del tutto nuova, ma penso che sia stata espressa in modo [[motifs/well|ottimo]].”
-
-Per Catherine e Lydia, né la lettera né il suo autore rappresentavano alcun interesse. Era quasi impossibile che loro cugino arrivasse indossando un mantello rosso scuro, e da diverse settimane ormai non provavano più alcuna gioia nell’interazione con un uomo vestito di un altro colore. Per quanto riguarda loro madre, la lettera del signor Collins aveva mitigato in gran parte il suo malumore, e ora si stava preparando ad incontrarlo con una calma che sorprese molto suo marito e le sue figlie.
-
-Il signor Collins era puntuale all’ora concordata e fu accolto con grande cortesia da tutta la famiglia. Il signor Bennet, in effetti, parlò poco; ma le signore erano più che disposte a conversare, e il signor Collins sembrava né aver bisogno di incoraggiamenti né essere propenso al silenzio. Era un giovane alto e dall’aspetto imponente, di ventiquattro anni. Il suo modo di comportarsi era molto formale; non era ancora trascorso molto tempo da quando si era seduto che iniziò a lodare la signora Bennet per avere delle figlie così belle, dicendo di averne sentito parlare molto bene, ma che in questo caso la fama non aveva deluso le aspettative; aggiunse inoltre di non dubitare affatto che tutte loro avrebbero trovato presto un buon marito. Questi complimenti non piacquero molto a alcuni dei presenti; ma la signora Bennet, che non si offendeva facilmente per simili lodi, rispose con grande gratitudine.
-
-“Siete molto gentile, signore, ne sono sicuro; e desidero con tutto il mio cuore che le cose vadano davvero così; altrimenti sarebbero davvero in difficoltà. Tutto è stato sistemato in modo così strano, ”
-
-“Forse vi riferite alle condizioni legate alla successione di questa proprietà…”
-
-“Ah, signore, davvero. È una situazione molto grave per le mie povere ragazze, deve ammetterlo. Non che voglia rimproverarvi, perché so bene che in questo mondo queste cose sono puramente casuali. Non si può mai prevedere come andranno a finire le proprietà non appena vengono messe sotto sequestro.”
-
-“Sono molto consapevole delle difficoltà che i miei cari cugini devono affrontare, signora, e potrei dire molto sull’argomento, ma desidero evitare di sembrare troppo audace o precipitosa. Posso comunque assicurare alle giovani signore che sono venuta qui con l’intenzione di ammirarle. Per il momento non dirò altro, ma forse, quando ci conosceremo meglio, ”
-
-Fu interrotto da un invito a cena; le ragazze si sorrisero a vicenda. Non erano però le uniche oggetto dell’ammirazione del signor Collins. Il salone, la sala da pranzo e tutti i mobili presenti furono esaminati e lodati; e le sue lodi avrebbero certamente toccato il cuore della signora Bennet, se non fosse stata quella umiliante ipotesi che lui considerasse tutto ciò come sua futura proprietà. Anche la cena fu molto apprezzata; egli chiese quindi a quale delle sue belle cugine si dovesse attribuire l’eccellenza della cucina. Ma in questo caso fu la signora Bennet ad informarlo, con una certa asprezza, che le sue figlie erano più che capaci di mantenere un buon cuoco e che loro stesse non avevano nulla a che fare in cucina. Lui chiese scusa per averla offesa; lei, con tono più gentile, dichiarò di non essere affatto offesa; ma lui continuò ad scusarsi per circa un quarto d’ora.
-
-
-
-Illustrazione
-
 
 
 <span class="atom-split" data-atom="chapter_14" data-title="Pride and Prejudice — Chapter 14" data-chapter="Chapter 14" data-kind="chapter" data-tags="motif/garden,motif/time,concept/beauty,concept/education,concept/honour,setting/court,character/richard"></span>
@@ -4448,56 +3329,6 @@ for backgammon.
 
 [Illustration]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XIV
-
-Illustrazione
-
-Durante la cena, il signor Bennet parlò quasi del tutto; ma quando i servitori si furono ritirati, ritenne che fosse arrivato il momento di intrattenersi un po’ con il suo ospite e così iniziò un argomento su cui sperava che l’altro brillasse, osservando quanto sembrasse fortunato ad avere Lady Catherine de Bourgh come protettrice. L’attenzione che lei dedicava ai suoi desideri e la cura che aveva per il suo comfort apparivano davvero notevoli. Il signor Bennet non avrebbe potuto scegliere meglio: il signor Collins era eloquente nel lodarla. Quell’argomento lo portò a un tono di solennità insolita; con grande serietà protestò di non aver mai visto in vita sua comportamenti del genere da parte di una persona di rango, tale affabilità e condiscendenza da parte di Lady Catherine. Lei aveva avuto la gentilezza di approvare entrambi i discorsi che lui aveva avuto l’onore di tenere davanti a lei; inoltre lo aveva invitato due volte a cena a Rosings, e solo il sabato precedente lo aveva fatto chiamare per partecipare al gioco del quadrille quella sera. Sapeva che molte persone consideravano Lady Catherine una donna orgogliosa, ma lui non aveva mai notato in lei nulla di simile: lei gli parlava sempre come avrebbe fatto con qualsiasi altro gentiluomo; non si era mai opposta al suo partecipare alle attività del vicinato, né al fatto che occasionalmente lasciasse la sua parrocchia per una settimana o due per visitare i suoi parenti. Aveva persino avuto la gentilezza di suggerirgli di sposarsi il prima possibile, purché scegliesse con saggezza. E una volta lo aveva anche visitato nella sua umile canonica, dove aveva apprezzato pienamente tutti i cambiamenti che lui aveva apportato; anzi, gli aveva persino suggerito alcuni altri interventi, come l’aggiunta di alcune mensole negli armadi al piano di sopra.
-
-“Tutto ciò è davvero molto appropriato e cortese, ne sono sicura,” disse la signora Bennet, “e oserei dire che sia una donna molto piacevole. È un peccato che le grandi dame in generale non siano più simili a lei. Vive vicino a voi, signore?”
-
-“Il [[motifs/garden|giardino]] in cui si trova la mia umile dimora è separato da un semplice sentiero soltanto da Rosings Park, la residenza della sua Signoria.”
-
-“Credo abbia detto che è una vedova, signore… Ha qualche familiare?”
-
-“Ha una sola figlia, l’ereditiera di Rosings e di un patrimonio molto esteso.”
-
-“Ah,” esclamò la signora Bennet scuotendo la testa, “allora lei ha più fortuna di molte altre ragazze. E che tipo di giovane donna è? È bella?”
-
-“È davvero una giovane signora molto affascinante. Anche Lady Catherine stessa afferma che, per quanto riguarda la vera [[concepts/beauty|bellezza]], Miss de Bourgh è di gran lunga superiore alle più attraenti donne della sua età; nei suoi tratti c’è infatti ciò che caratterizza una giovane donna di nobile origine. Purtroppo, però, ha una costituzione delicata, il che le ha impedito di raggiungere quei risultati in molte aree in cui altrimenti avrebbe sicuramente avuto successo, come mi ha riferito la signora che si è occupata della sua [[concepts/education|educazione]] e che ancora oggi vive con loro. Tuttavia, è estremamente gentile e spesso si degna di passare davanti alla mia umile dimora nella sua piccola carrozza a due cavalli.”
-
-“È stata presentata? Non ricordo il suo nome tra le dame della [[settings/court|corte]].”
-
-“Lo stato di salute indifferente di lei sfortunatamente le impedisce di trovarsi in città; e per questo motivo, come ho detto personalmente un giorno a Lady Catherine, la [[settings/court|Corte]] britannica si è privata del suo ornamento più brillante. Sua Signoria sembrava apprezzare questa idea; e potete immaginare che io sia sempre felice di fare quei piccoli complimenti delicati che sono sempre graditi alle signore. Ho detto più volte a Lady Catherine che sua figlia incantevole sembra nata per essere duchessa; e che il rango più elevato, invece di darle importanza, ne sarebbe soltanto arricchito. Sono proprio questi piccoli gesti quelli che piacciono a Sua Signoria. E ritengo di avere un dovere particolare nel prestargli attenzione.”
-
-“Giudicate molto saggiamente,” disse il signor Bennet; “e vi è davvero da felicitarsi che possediate il talento di lusingare con delicatezza. Posso chiedervi se queste piacevoli attenzioni derivano dall’impulso del momento, o sono il risultato di un precedente studio?”
-
-“Sorgono principalmente da ciò che accade in quel momento; e anche se a volte mi diverto a suggerire e organizzare piccoli complimenti eleganti adatti a occasioni ordinarie, desidero sempre che appaiano il più naturali possibile.”
-
-Le aspettative del signor Bennet furono pienamente soddisfatte: suo cugino era davvero tanto assurdo quanto lui aveva sperato; e lui lo ascoltava con grande piacere, mantenendo al contempo un’aria di estrema compostezza, senza bisogno, se non per qualche occhiata occasionale a Elizabeth, di alcun compagno nel proprio divertimento.
-
-Tuttavia, entro l’ora del tè, la dose somministrata era già sufficiente; il signor Bennet fu felice di invitare di nuovo il suo ospite nel salotto. Dopo che il tè fu finito, fu ancora più contento di invitarlo nuovamente.
-
-Illustrazione:
-
-“Ha protestato dicendo di non aver mai letto romanzi” – H.T., febbraio 1994
-
-Per leggere ad alta voce alle signore. Il signor Collins acconsentì prontamente, e fu portata fuori un libro; ma non appena lo vide (poiché tutto indicava che provenisse da una biblioteca in prestito), indietreggiò di scatto e, chiedendo scusa, protestò di non aver mai letto romanzi. Kitty lo fissò sbalordita, mentre Lydia esclamò. Furono portati fuori altri libri, e dopo qualche esitazione lui ne scelse “I sermoni di Fordyce”. Quando aprì il volume, Lydia rimase a bocca aperta; e prima ancora che riuscisse a leggere tre pagine con una solennità estremamente monotona, lei lo interruppe.
-
-“Mamma, sai che mio zio Philips parla di respingere [[characters/richard|Richard]]? E se lo farà, il Colonnello Forster lo assumerà. Mia zia me l’ha detto lei stessa sabato. Domani andrò a piedi fino a Meryton per saperne di più e chiedere quando il signor Denny tornerà in città.”
-
-Le due sorelle maggiori di Lydia le dissero di tenere la bocca chiusa; ma il signor Collins, offeso profondamente, mise da parte il suo libro e disse:–
-
-“Ho spesso notato quanto poco interessino alle ragazze giovani i libri di carattere serio, anche se scritti esclusivamente a loro vantaggio. Devo ammettere che mi sorprende; infatti non c’è nulla di più benefico per loro dell’istruzione. Ma non disturberò più mia cugina.”
-
-Poi, rivolgendosi a Mr. Bennet, si offrì di giocare a dama contro di lui. Mr. Bennet accettò la sfida, osservando che aveva agito molto saggiamente lasciando le ragazze alle loro piccole distrazioni. La signora Bennet e le sue figlie si scusarono in modo molto educato per l’interruzione causata da Lydia, promettendo che non sarebbe più accaduto se lui avesse ripreso a leggere il suo libro; ma Mr. Collins, dopo aver assicurato loro di non provare alcun rancore verso la sua giovane cugina e di non considerare mai il suo comportamento come un affronto, si sedette a un altro tavolo con Mr. Bennet e si preparò a giocare a dama.
-
-
-
-Illustrazione
 
 
 
@@ -4674,42 +3505,6 @@ much attention in the whole course of his life.
 [Illustration]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XV.
-
-Illustrazione
-
-Il signor Collins non era un uomo sensato; la mancanza di istruzione e l’assenza di contatti sociali non avevano certo migliorato le sue qualità. La maggior parte della sua vita era trascorsa sotto la guida di un padre ignorante e avaro; sebbene appartenesse a un’università, vi aveva frequentato soltanto per ottenere i requisiti necessari, senza però acquisire conoscenze utili. L’educazione rigida ricevuta da bambino gli aveva inizialmente conferito grande umiltà nel comportamento; tuttavia, questa qualità veniva ora in parte compensata dall’arroganza derivante da una mente debole, dalla vita ritirata e dalle fortune improvvisamente arrivate. Una fortunata opportunità gli permise di essere presentato a Lady Catherine de Bourgh quando il posto di parroco a Hunsford divenne vacante; il rispetto che provava per il suo alto rango e la venerazione che nutriva nei suoi confronti, uniti a una buona opinione di sé stesso riguardo alla propria autorità clericale e al proprio ruolo di rettore, lo resero un individuo caratterizzato da un misto di orgoglio e ossequiosità, presunzione e umiltà.
-
-Ora che possedeva una bella casa e un reddito più che sufficiente, intendeva sposarsi; cercando di ristabilire buoni rapporti con la famiglia Longbourn, aveva già in mente una moglie: voleva scegliere una delle loro figlie, purché fossero davvero belle e affabile come si diceva. Questo era il suo piano per rimediare, per espiare il fatto di aver ereditato la proprietà del padre di loro; e lo riteneva un piano eccellente, pieno di opportunità e convenienza, e anche estremamente generoso e disinteressato da parte sua.
-
-Il suo piano non cambiò nemmeno quando li vide. Il bel viso di Miss Bennet confermò le sue opinioni e rafforzò tutte le sue idee riguardo a ciò che era dovuto in base all’anzianità; per la prima volta, lei divenne la sua scelta definitiva. Tuttavia, il giorno seguente qualcosa cambiò: dopo un quarto d’ora di conversazione privata con Mrs. Bennet prima della colazione, una discussione iniziata dalla sua parrocchia e che naturalmente portò all’espressione delle sue speranze riguardo a trovare una moglie adatta per la sua casa a Longbourn, gli fece ricevere da lei, tra sorrisi compiacenti e incoraggiamenti generali, un avvertimento proprio contro Jane, “Per quanto riguarda le sue figlie più giovani, non poteva assicurarlo con certezza. Non sapeva di alcuna preferenza particolare. Ma la sua figlia maggiore, doveva pur menzionarla. Sentiva di dover suggerire che probabilmente sarebbe stata presto data in sposa.”
-
-A Mr. Collins bastò sostituire “Jane” con “Elizabeth”, e fu fatto subito, mentre la signora Bennet stava ravvivando il [[motifs/fire|fuoco]]. Elizabeth, essendo ugualmente vicina a Jane per ordine di nascita e [[concepts/beauty|bellezza]], le succedette naturalmente.
-
-La signora Bennet tenne a mente quel suggerimento e sperava che presto avrebbe potuto far sposare due delle sue figlie; l’uomo di cui il giorno prima non voleva nemmeno parlare, ora era molto nel suo favore.
-
-L’intenzione di Lydia di recarsi a Meryton non fu dimenticata: tutte le sorelle, tranne Mary, acconsentirono ad accompagnarla; e il signor Collins avrebbe partecipato al loro viaggio, su richiesta del signor Bennet, che desiderava ardentemente sbarazzarsi di lui per poter godere in solitudine della sua biblioteca. Infatti, dopo colazione il signor Collins lo aveva seguito lì e vi sarebbe rimasto, apparentemente impegnato nella lettura di uno dei volumi più grandi della collezione, ma in realtà conversando senza sosta con il signor Bennet riguardo alla sua casa e al suo giardino a Hunsford. Tali comportamenti irritavano profondamente il signor Bennet. Nella sua biblioteca aveva sempre trovato tranquillità e silenzio; e sebbene, come aveva detto a Elizabeth, fosse preparato ad incontrare follia e presunzione in tutte le altre stanze della casa, lì era abituato a essere al riparo da tali cose. Per questo motivo fu molto gentile nell’invitare il signor Collins a unirsi alle sue figlie nella passeggiata; e il signor Collins, che in realtà era molto più adatto a camminare che a leggere, fu estremamente felice di chiudere il suo grosso libro e andarsene.
-
-Con le sue parole pompose da un lato e gli assensi cortesi dei suoi cugini dall’altro, il loro  tempo trascorse fino al momento in cui entrarono a Meryton. A quel punto, l’attenzione dei più giovani non era più rivolta verso di lui; i loro occhi si dirigevano immediatamente lungo la strada alla ricerca degli ufficiali. E solo un cappello molto elegante, o una stoffa di mussola davvero nuova esposta in vetrina, riuscivano a attirare il loro interesse.
-
-Ma l’attenzione di tutte le signore fu presto attratta da un giovane che non avevano mai visto prima, dall’aspetto molto distinto, che camminava insieme a un ufficiale dall’altra parte della strada. Quell’ufficiale era proprio il signor Denny, di cui Lydia era venuta a chiedere notizie riguardo al suo ritorno da [[settings/london|Londra]], e lui si inchinò quando loro passarono. Tutti furono colpiti dall’aspetto del giovane sconosciuto; tutti si chiesero chi potesse essere. Kitty e Lydia, decise a scoprirlo se possibile, attraversarono la strada fingendo di voler comprare qualcosa in un negozio di fronte, e fortunatamente stavano appena raggiungendo il marciapiede quando i due gentiluomini tornarono indietro e arrivarono nello stesso punto. Il signor Denny si rivolse direttamente a loro e chiese il permesso di presentare il suo amico, il signor Wickham, che era tornato con lui il giorno prima dalla città e, disse con gioia, aveva accettato un incarico nel loro reggimento. Era esattamente ciò che si desiderava: quel giovane aveva proprio tutto ciò che rende un uomo particolarmente affascinante. Il suo aspetto era davvero notevole: possedeva tutte le qualità più belle della [[concepts/beauty|bellezza]]: un viso attraente, una figura snella e un modo di parlare molto piacevole. La presentazione fu seguita da una conversazione vivace e disinvolta, al tempo stesso perfettamente corretta e modesta; l’intero gruppo stava ancora chiacchierando piacevolmente quando il rumore dei cavalli attirò la loro attenzione: videro Darcy e Bingley che scendevano per la strada. Riconoscendo le signore del gruppo, i due gentiluomini si avvicinarono subito a loro e iniziarono le solite formalità di cortesia. Bingley fu il principale interlocutore, e Miss Bennet l’oggetto principale delle sue attenzioni; disse che stava andando a Longbourn apposta per chiederle notizie. Il signor Darcy lo confermò con un inchino e stava per distogliere lo sguardo da Elizabeth quando improvvisamente furono attratti dall’aspetto del giovane sconosciuto; Elizabeth, vedendo i loro volti mentre si guardavano, rimase estremamente sorpresa dall’effetto di quell’incontro. Entrambi cambiarono colore: uno divenne pallido, l’altro rosso. Dopo alcuni momenti, il signor Wickham si toccò il cappello in segno di saluto; anche il signor Denny rispose al gesto. Che significato poteva avere tutto ciò? Era impossibile immaginarlo, ma era impossibile non desiderare di saperlo.
-
-Un minuto dopo, il signor Bingley si congedò, senza sembrare aver notato ciò che era accaduto, e proseguì il suo viaggio insieme al suo amico.
-
-Il signor Denny e il signor Wickham accompagnarono le giovani signore fino alla porta della casa del signor Philips; poi si inchinarono, nonostante le insistenti preghiere di Miss Lydia che li invitasse ad entrare, e anche nonostante la signora Philips avesse aperto la finestra del salotto, esortandoli ad accettare l’invito.
-
-La signora Philips era sempre felice di vedere le sue nipoti; le due più grandi, a causa della loro recente assenza, erano particolarmente benvenute; e lei esprimeva con entusiasmo la sua sorpresa per il loro improvviso ritorno a casa, poiché, dato che non erano state riportate con la loro stessa carrozza, lei non avrebbe mai saputo nulla se non fosse stata casualmente avvicinata dal commesso del negozio del signor Jones in strada, il quale le aveva detto che non sarebbero più stati inviati alcun documento a Netherfield, poiché le signorine Bennet erano partite. Quando Jane presentò il signor Collins, la signora Philips lo accolse con la massima cortesia, e lui ricambiò con altrettanta gentilezza, scusandosi per l’intrusione, dato che non conosceva lei in precedenza; tuttavia, si compiaceva nel pensare che tale comportamento potesse essere giustificato dalla sua relazione con le giovani signore che lo avevano presentato a lei. La signora Philips era davvero colpita da tanta buona educazione; ma la sua attenzione verso uno straniero fu presto interrotta dalle domande riguardanti l’altro, di cui poteva dire alle sue nipoti soltanto ciò che già sapevano: che il signor Denny lo aveva portato da Londra e che avrebbe ricevuto una nomina a tenente nel ----shire. Aveva osservato lui per l’ultima ora mentre camminava su e giù per la strada; se fosse apparso il signor Wickham, Kitty e Lydia avrebbero sicuramente continuato quella “occupazione”; ma purtroppo in quel momento nessuno passava davanti alle finestre, tranne alcuni ufficiali che, rispetto a quell’estraneo, sembravano “ragazzi stupidi e sgradevoli”. Alcuni di loro avrebbero pranzato dai Philips il giorno dopo, e la zia promise di far chiamare suo marito dal signor Wickham e di invitarlo anche se la famiglia di Longbourn fosse venuta quella sera. Fu concordato; e la signora Philips assicurò che avrebbero avuto una bella partita divertente con i biglietti della lotteria, seguita da una piccola cena calda. La prospettiva di tali piaceri era davvero incoraggiante, e si separarono in ottimi rapporti. Il signor Collins ripeté le sue scuse prima di lasciare la stanza, e fu rassicurato con instancabile cortesia che non erano affatto necessarie.
-
-Mentre tornavano a [[motifs/home|casa]], Elizabeth raccontò a Jane ciò che aveva visto tra quei due gentiluomini; ma anche se Jane avrebbe difeso uno o entrambi, nel caso in cui si fossero dimostrati in errore, non sarebbe stata in grado di spiegare un comportamento del genere meglio di sua sorella.
-
-Al suo ritorno, il signor Collins rese la signora Bennet molto felice lodando i modi e la cortesia della signora Philips. Sostenne che, ad eccezione di lady Catherine e sua figlia, non aveva mai visto una donna più elegante; infatti lei lo aveva accolto con estrema gentilezza e addirittura lo aveva incluso esplicitamente nell’invito per la serata seguente, nonostante non lo conoscesse affatto prima. Immaginò che ci fosse qualche legame tra lui e loro, ma comunque non aveva mai ricevuto tanta attenzione in tutta la sua vita.
-
-
-
-Illustrazione
-
 
 
 <span class="atom-split" data-atom="chapter_16--part_01" data-title="Pride and Prejudice — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/night,motif/summer,motif/well,concept/history,concept/hope,concept/pride,form/history"></span>
@@ -4832,48 +3627,6 @@ neighbourhood, except Netherfield. He is not at all liked in
 Hertfordshire. Everybody is disgusted with his [[concepts/pride|pride]]. You will not find
 him more favourably spoken of by anyone.”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XVI.
-
-Illustrazione
-
-Poiché non furono sollevate obiezioni all’invito che i giovani avevano ricevuto da loro zia, e tutte le remore del signor Collins riguardo al fatto di lasciare il signor e la signora Bennet anche solo per una sera durante la sua visita vennero fermamente ignorate, la carrozza lo portò insieme ai suoi cinque cugini all’ora opportuna a Meryton; le ragazze ebbero poi la gioia di apprendere, entrando nel salotto, che il signor Wickham aveva accettato l’invito di loro zio e si trovava in quel momento nella casa.
-
-Quando queste informazioni furono fornite e tutti si furono seduti, il signor Collins ebbe il tempo di guardarsi intorno e ammirare l’ambiente; rimase così colpito dalle dimensioni e dall’arredamento dell’appartamento che dichiarò di essersi quasi creduto nella piccola sala da pranzo estiva di Rosings. Questa comparazione, all’inizio, non gli procurò grande soddisfazione; ma quando la signora Philips capì cosa fosse Rosings e chi ne era il proprietario, dopo aver ascoltato la descrizione di una sola delle sale da ricevimento della signorina Catherine e scoprendo che solo il camino aveva costato ottocento sterline, comprese appieno il significato di quel complimento. E probabilmente non avrebbe nemmeno trovato offensivo paragonare quell’appartamento alla stanza della governante.
-
-Mentre le descriveva tutta la maestosità di Lady Catherine e della sua residenza, facendo occasionalmente digressioni in lode della propria umile dimora e dei miglioramenti che stava subendo, si intratteneva felicemente fino all’arrivo degli altri gentiluomini; inoltre trovò nella signora Philips un’ascoltatrice molto attenta: la sua opinione sulla sua importanza cresceva di pari passo con ciò che ascoltava, e lei si era ripromessa di diffondere tutto quanto tra i suoi vicini non appena ne avesse avuto l’occasione. Per le ragazze, che non riuscivano a prestare attenzione al loro cugino e avevano solo voglia di suonare uno strumento o di esaminare le proprie scarse imitazioni di porcellane sulla mensola del camino, l’attesa sembrava interminabile. Ma finalmente arrivò il momento. Gli uomini entrarono nella stanza; quando il signor Wickham fece il suo ingresso, Elizabeth si rese conto di non averlo mai visto prima, né di averci pensato in modo particolare da allora. Senza provare la minima ammirazione irragionevole per lui. Gli ufficiali del ----shire erano nel complesso un gruppo molto rispettabile e gentiluomo; i migliori tra loro facevano parte di quel gruppo. Ma il signor Wickham li superava tutti in termini di aspetto, portamento e modo di camminare, proprio come loro erano superiori a quell’untuoso zio Philips, con il suo viso rotondo e il suo odore di vino Porto, che li seguì nella stanza.
-
-Illustrazione:
-
-“Il personale ufficiale della contea di ----”
-
-Copyright 1894 di George Allen.
-
-Il signor Wickham era l’uomo fortunato verso il quale quasi tutti gli sguardi femminili si rivolgevano; Elizabeth, invece, era la donna fortunata che alla fine lo fece suo. Il modo piacevole con cui iniziò immediatamente a conversare – anche se l’argomento riguardava soltanto una notte umida e la probabilità di una stagione piovosa – le fece capire che anche il tema più banale e noioso potesse diventare interessante grazie all’abilità del parlante.
-
-Con avversari così impegnativi per attirare l’attenzione delle giovani donne, come il signor Wickham e gli ufficiali, il signor Collins sembrava cadere in secondo piano; per le ragazze giovani, certamente non rappresentava nulla di significativo; tuttavia, di tanto in tanto trovava una ascoltatrice attenta nella signora Philips, che, con la sua premura, si assicurava che avesse sempre a disposizione caffè e muffin in abbondanza.
-
-Quando furono allestiti i tavoli da gioco, ebbe l’opportunità di renderle un favore, sedendosi a giocare a carte in cambio.
-
-“Al momento conosco poco di questo gioco,” disse lui, “ma sarò felice di migliorare le mie conoscenze; perché nella mia situazione attuale, ” La signora Philips era molto grata per la sua disponibilità, ma non riusciva ad aspettare il motivo che avrebbe fornito.
-
-Il signor Wickham non giocava a whist, e fu accolto con grande piacere all’altro tavolo, tra Elizabeth e Lydia. All’inizio sembrava che Lydia potesse assorbirlo completamente nella conversazione, poiché era molto loquace; ma poiché amava anche moltissimo i biglietti della lotteria, presto iniziò a interessarsi troppo al gioco, diventando troppo ansiosa di fare scommesse e esclamare di gioia quando vindeva, per poter prestare attenzione a qualcuno in particolare. Tenendo conto delle normali esigenze del gioco, il signor Wickham aveva quindi tutto il tempo per parlare con Elizabeth, che era molto disposta ad ascoltarlo, anche se quello che desiderava davvero sapere non poteva certo sperare di sentirglielo dire: la storia del suo incontro con il signor Darcy. Non osava nemmeno menzionare quel gentiluomo. Tuttavia, la sua curiosità fu inaspettatamente soddisfatta. Il signor Wickham stesso iniziò ad affrontare l’argomento. Chiese a quale distanza si trovasse Netherfield da Meryton; e, dopo aver ricevuto la risposta, domandò con esitazione da quanto tempo il signor Darcy vi soggiornasse.
-
-“Circa un mese,” disse Elizabeth; e poi, non volendo lasciar cadere l’argomento, aggiunse: “So che è un uomo molto ricco nel Derbyshire.”
-
-“Sì,” rispose Wickham; “la sua proprietà laggiù è davvero considerevole. Un reddito netto di diecimila sterline all’anno. Non avreste potuto incontrare nessuno più adatto di me per fornirvi informazioni precise in merito, poiché fin da bambino ho avuto rapporti particolari con la sua famiglia.”
-
-Elizabeth non poté fare a meno di mostrarsi sorpresa.
-
-“Potreste essere molto sorpresa, signorina Bennet, da una tale affermazione, soprattutto dopo aver visto, come probabilmente avrete notato, l’atteggiamento piuttosto freddo del nostro incontro di ieri. Conoscete bene il signor Darcy?”
-
-“Per quanto desideri essere così,” esclamò Elizabeth con calore, “ho trascorso quattro giorni nella stessa casa con lui e lo trovo davvero molto sgradevole.”
-
-“Non ho il diritto di esprimere la mia opinione su se sia piacevole o meno,” disse Wickham, “non sono qualificato per farlo. Lo conosco da troppo tempo e troppo bene per poter giudicarlo in modo imparziale. È impossibile che io possa essere oggettivo. Ma credo che la tua opinione su di lui sorprenderebbe tutti in generale; forse, in altri contesti, non la esprimeresti con tanta forza. Qui, infatti, ti trovi nella tua stessa famiglia.”
-
-“Giuro su quanto è sacro per me, non dico qui nulla di più di quanto potrei dire in qualsiasi altro casa del quartiere, tranne che a Netherfield. A Hertfordshire non è affatto apprezzato; tutti sono disgustati dalla sua [[concepts/pride|orgoglio]]. Non troverete nessuno che parli bene di lui.”
 
 
 
@@ -5009,54 +3762,6 @@ and when, immediately before my father’s [[motifs/death|death]], Mr. Darcy gav
 voluntary promise of providing for me, I am convinced that he felt it
 to be as much a debt of gratitude to _him_ as of affection to myself.”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-“Non posso fingere di essere dispiaciuto,” disse Wickham, dopo una breve pausa, “che lui o qualsiasi altro uomo non venga valutato secondo i suoi meriti; ma nel suo caso credo che ciò accada raramente. Il mondo è accecato dalla sua fortuna e dal suo status sociale, oppure spaventato dai suoi modi altezzosi e imponenti, e lo vede soltanto così come lui stesso desidera essere visto.”
-
-“Dovrei considerarlo, anche sulla base della nostra scarsa conoscenza, un uomo di cattivo temperamento.”
-
-Wickham si limitò a scuotere la testa.
-
-“Mi chiedo,” disse lui, alla prima occasione di parlare, “se sia probabile che rimanga in questo paese ancora a lungo.”
-
-“Non ne so assolutamente nulla; ma non ho sentito parlare della sua partenza quando ero a Netherfield. Spero che i tuoi piani a favore del ----shire non vengano influenzati dal suo essere nelle vicinanze.”
-
-“Oh no. Non è certo mio compito che il signor Darcy mi allontani. Se lui vuole evitare di vedermi, deve andarsene. Non siamo in buoni rapporti, e incontrarlo mi provoca sempre grande dolore. Ma non ho alcun motivo per evitarlo, se non quello di esprimere ad alta voce tutto il mio risentimento per il modo in cui si è comportato, e per i profondi rimpianti che provo nel vedere che sia diventato ciò che è. Suo padre, la signorina Bennet, il defunto signor Darcy, era uno degli uomini migliori che siano mai esistiti. Il vero amico che abbia mai avuto. E non potrò mai stare in sua compagnia senza che mille dolci ricordi mi addolorino profondamente. Il suo comportamento verso di me è stato scandaloso. Ma credo davvero di potergli perdonare qualsiasi cosa, tranne il fatto che abbia deluso le speranze e disonorato la memoria di suo padre.”
-
-A Elizabeth sembrò che l’interesse per quell’argomento crescesse sempre di più, quindi ascoltò con tutto il cuore; tuttavia, la sua delicatezza naturale le impedì di approfondire ulteriormente l’argomento.
-
-Il signor Wickham iniziò a parlare di argomenti più generali: Meryton, il quartiere, la società. Sembrava molto soddisfatto di tutto ciò che aveva visto finora, e soprattutto riguardo alla società locale, parlava con gentilezza ma anche con una galanteria piuttosto evidente.
-
-“Era proprio la prospettiva di una compagnia costante e di buona compagnia,” aggiunse, “che rappresentava il mio principale motivo per entrare nella società del ----shire. So che si tratta di un gruppo molto rispettabile e piacevole; inoltre, il mio amico Denny mi ha ancora più incoraggiato raccontandomi delle loro attuali condizioni di vita, nonché dell’enorme attenzione e degli ottimi contatti che Meryton aveva ottenuto per loro. Devo ammettere che la compagnia è necessaria per me: sono stato un uomo deluso, e il mio spirito non può sopportare la [[concepts/solitude|solitudine]]. _Devo_ assolutamente avere impegni e compagnia. La vita militare non era quella che mi era destinata in origine, ma le circostanze attuali l’hanno resa possibile. In realtà, la chiesa avrebbe dovuto essere la mia professione. Sono stato educato per il sacerdozio; e a quest’ora avrei potuto disporre di una posizione molto prestigiosa, se solo quel gentiluomo di cui parlavamo poco fa avesse acconsentito.”
-
-“Certamente!”
-
-“Sì, il defunto signor Darcy mi ha lasciato in eredità la prossima assegnazione dei beni che lui stesso aveva donato. Era mio padrino e mi voleva molto bene. Non riesco nemmeno a esprimere appieno la sua gentilezza. Voleva assicurarmi un futuro agiato, e credeva di averlo fatto; ma quando arrivò il momento di distribuire i beni, questi furono dati ad altri.”
-
-“Mio Dio!” esclamò Elizabeth; “ma come è possibile? Come può la sua volontà essere ignorata? Perché non hai cercato un rimedio legale?”
-
-“Il testamento era formulato in modo così informale da non lasciarmi alcuna speranza legalmente parlando. Un uomo d’onore non avrebbe potuto dubitare delle intenzioni del testatore, ma il signor Darcy ha scelto di farlo, o meglio, di considerarlo semplicemente una raccomandazione condizionale, sostenendo che io avessi perso ogni diritto ad esso a causa della mia stravaganza e imprudenza. È certo che la proprietà è diventata disponibile due anni fa, proprio quando avevo l’età giusta per ereditarla, ed è stata assegnata a un altro uomo; altrettanto certo è che non posso accusarmi di aver fatto nulla per meritarmi di perderla. Ho un temperamento appassionato e spesso ho espresso liberamente le mie opinioni su di lui. Forse anche in modo troppo diretto. Non ricordo niente di peggio. Ma il fatto è che siamo persone molto diverse, e lui mi odia.”
-
-“È davvero scioccante! Merita di essere umiliato pubblicamente.”
-
-“Prima o poi lui diventerà, ma non sarà per merito mio. Finché non riuscirò a dimenticare suo padre, non potrò mai sfidarlo o smascherarlo.”
-
-Elizabeth lo lodò per tali sentimenti e lo trovò più attraente che mai quando li esprimeva.
-
-“Ma quale,” disse lei dopo una pausa, “può essere stato il suo movente? cosa può averlo spinto a comportarsi in modo così crudele?”
-
-“Un disprezzo profondo e deciso nei miei confronti, un disprezzo che non posso fare a meno di attribuire, in parte, alla [[concepts/jealousy|invidia]]. Se il defunto signor Darcy mi avesse stimato di meno, suo figlio forse avrebbe potuto tollerarmi meglio; ma l’insolita affezione del padre per me lo irritava, credo, fin da quando era molto giovane. Non aveva il temperamento adatto per sopportare quel tipo di competizione, quel genere di preferenza che spesso veniva accordata a me.”
-
-“Non pensavo che il signor Darcy fosse così cattivo. Anche se non mi è mai piaciuto, non lo ritenevo davvero così malvagio. Pensavo che disprezzasse in generale i suoi simili, ma non avrei mai sospettato che potesse ricorrere a una vendetta così maliziosa, a un'ingiustizia e a un'atrocità del genere!”
-
-Dopo alcuni minuti di riflessione, però, continuò: “Ricordo davvero che un giorno, a Netherfield, si vantava dell’implacabilità dei suoi risentimenti, del fatto che avesse un carattere irremissibile. Il suo temperamento deve essere terribile.”
-
-“Non mi fiderò di me stesso in questa questione,” rispose Wickham; “difficilmente potrei essere giusto con lui.”
-
-Elizabeth era di nuovo immersa nei suoi pensieri; dopo un po’ esclamò: “Trattare in questo modo il figlioccio, l’amico, il favorito di suo padre, ” Avrebbe potuto aggiungere: “Un giovane, inoltre, proprio come _tu_, il cui aspetto stesso testimonia della tua gentilezza.” Ma si limitò a dire: “E poi, uno che probabilmente era stato il suo compagno d’infanzia; legati l’uno all’altro, come hai detto tu, in modo molto stretto.”
-
-“Siamo nati nella stessa parrocchia, nello stesso parco; la maggior parte della nostra giovinezza l’abbiamo trascorsa insieme: eravamo ospiti della stessa casa, condividevamo gli stessi divertimenti e ricevevamo lo stesso affetto da parte dei nostri genitori. Mio padre iniziò la sua vita nella professione che vostro zio, il signor Philips, sembra onorare molto; ma abbandonò tutto per essere d’aiuto al defunto signor Darcy, dedicando tutto il suo tempo alla cura della proprietà di Pemberley. Il signor Darcy lo stimava molto e ne era un amico intimo e fidato. Spesso riconosceva di dovere molto all’attenta supervisione di mio padre; e quando, poco prima della sua morte, il signor Darcy gli fece la promessa volontaria di provvedere a me, sono convinta che considerasse questo un debito di gratitudine verso di lui, tanto quanto un segno di affetto nei miei confronti.”
 
 
 
@@ -5196,58 +3901,6 @@ before the carriage stopped at Longbourn House.
 “delighted to see their dear friend again”
 ]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-“Che strano!” esclamò Elizabeth. “Che abominevole! Mi [[concepts/wonder|chiedo]] come mai proprio la [[concepts/pride|orgoglio]] di questo signor Darcy non lo abbia spinto ad essere giusto con te. Se non per un motivo migliore, allora è solo perché non era abbastanza orgoglioso da comportarsi in modo disonesto. Perché disonesto, devo proprio chiamarlo così.”
-
-“È davvero meraviglioso,” rispose Wickham; “perché quasi tutte le sue azioni possono essere spiegate dalla [[concepts/pride|orgoglio]]; e l’[[concepts/pride|orgoglio]] è spesso stato il suo miglior alleato. È stato questo sentimento a legarlo maggiormente alla virtù rispetto ad altri. Ma nessuno di noi è sempre coerente nei propri comportamenti; e nel suo atteggiamento verso di me c’erano impulsi ancora più forti dell’[[concepts/pride|orgoglio]].”
-
-“Può mai una tale abominabile [[concepts/pride|orgoglio]] come la sua portargli del bene?”
-
-“Sì; questo atteggiamento lo ha spesso portato ad essere generoso e munifico: a donare liberamente il proprio denaro, a dimostrare ospitalità, ad aiutare i propri inquilini e a soccorrere i poveri. Il [[concepts/pride|orgoglio]] familiare, e soprattutto il [[concepts/pride|orgoglio]] filiale – poiché è molto fiero di ciò che suo padre era stato – hanno giocato un ruolo fondamentale in questo comportamento. Non vuole assolutamente disonorare la propria famiglia, decadere dalle qualità apprezzate dalla gente o perdere l’influenza della Casa Pemberley. Inoltre, possiede anche un [[concepts/pride|orgoglio]] fraterno; unito a un certo affetto verso i propri fratelli, questo lo rende un tutore molto premuroso e attento nei loro confronti. E di solito viene lodato come il fratello più premuroso e migliore.”
-
-Che tipo di ragazza è la signorina Darcy?
-
-Scosse la testa. “Vorrei poter definirla gentile. Mi fa male parlare male di una Darcy; ma assomiglia troppo a suo fratello: è davvero molto orgogliosa. Da bambina era affettuosa e piacevole, e mi voleva molto bene; ho trascorso ore intere a divertirla. Ma ora non significa nulla per me. È una ragazza carina, circa quindici o sedici anni, e, a quanto so, molto colta. Dopo la morte di suo padre, la sua famiglia si è trasferita a [[settings/london|Londra]], dove vive una signora che si occupa della sua [[concepts/education|educazione]].”
-
-Dopo molte pause e molti tentativi con altri soggetti, Elizabeth non poté fare a meno di tornare ancora una volta al primo e dire:–
-
-“Sono sorpresa dalla sua intimità con il signor Bingley. Come può il signor Bingley, che sembra avere un ottimo umorismo e che, credo davvero, sia molto affabile, essere amico di una persona del genere? Come possono andare d’accordo? Lo conosci tu il signor Bingley?”
-
-“No affatto.”
-
-“È un uomo dal carattere mite, affabile e incantevole… Non può nemmeno immaginare cosa sia realmente il signor Darcy.”
-
-“Probabilmente no; ma il signor Darcy può piacere a chiunque voglia. Non ha bisogno di particolari capacità. Può essere un compagno gradevole se ritiene che ne valga la pena. Tra coloro che sono al suo stesso livello sociale, è molto diverso da come si comporta con le persone meno benestanti. Il suo [[concepts/pride|orgoglio]] non lo abbandona mai; ma con i ricchi è generoso, giusto, sincero, razionale, onesto, e forse anche piacevole, se si tiene conto della fortuna e dell’aspetto esteriore.”
-
-La festa a suon di flauto si sciolse poco dopo; i giocatori si radunarono intorno all’altro tavolo, e il signor Collins prese posto tra sua cugina Elizabeth e la signora Philips. Quest’ultima gli fece le solite domande riguardo al suo successo. Non era stato molto grande: aveva perso tutti i punti; ma quando la signora Philips iniziò a mostrare preoccupazione, lui le assicurò con grande serietà che non aveva alcuna importanza; considerava quei soldi una semplice sciocchezza e le chiese di non angosciarsi.
-
-“So molto bene, signora,” disse lui, “che quando le persone si siedono attorno a un tavolo da gioco devono accettare i rischi che ci sono in queste situazioni. E fortunatamente non mi trovo in condizioni tali da considerare cinque scellini qualcosa di importante. Senz’altro, ci sono molte persone che non potrebbero dire lo stesso; ma grazie a Lady Catherine de Bourgh, sono al di sopra della necessità di preoccuparmi di cose così insignificanti.”
-
-L’attenzione di Mr. Wickham fu catturata; dopo aver osservato per qualche momento Mr. Collins, chiese sottovoce a Elizabeth se le sue relazioni fossero molto strette con la famiglia dei De Bourgh.
-
-“[[characters/lady-catherine-de-bourgh|Lady Catherine de Bourgh]],” rispose lei, “gli ha recentemente concesso un appannaggio. Non so esattamente come il signor Collins abbia attirato la sua attenzione per la prima volta, ma di certo non la conosce da molto tempo.”
-
-“Naturalmente sapete che [[characters/lady-catherine-de-bourgh|Lady Catherine de Bourgh]] e [[characters/lady-anne|Lady Anne]] Darcy erano sorelle; di conseguenza, lei è zia dell’attuale signor Darcy.”
-
-“No, assolutamente no. Non sapevo nulla delle relazioni di Lady Catherine. Non avevo mai sentito parlare della sua esistenza fino al giorno prima di ieri.”
-
-“Sua figlia, la signorina de Bourgh, erediterà una fortuna molto grande, e si ritiene che lei e suo cugino uniranno le due proprietà.”
-
-Questa informazione fece sorridere Elizabeth, pensando alla povera signorina Bingley. Tutti i suoi sforzi devono essere stati vani, così come il suo affetto per sua sorella e i suoi elogi nei suoi confronti, se lui era già destinato a un’altra persona.
-
-“Signor Collins,” disse lei, “parla molto bene sia di Lady Catherine che di sua figlia; ma, a causa di alcune cose che ha raccontato su di lei, sospetto che la sua gratitudine lo inganni; e che, nonostante sia la sua protettrice, lei sia una donna arrogante e presuntuosa.”
-
-“Credo che sia davvero molto intelligente,” rispose Wickham; “non la vedo da molti anni, ma ricordo benissimo di non averla mai trovata simpatica: i suoi modi erano autoritari e insolenti. Ha la reputazione di essere straordinariamente sensata e intelligente; tuttavia credo che gran parte delle sue capacità derivi dal suo rango e dalla sua fortuna, in parte dai suoi modi autoritari, e il resto dall’[[concepts/pride|orgoglio]] di suo nipote, che vuole che tutte le persone a lui legate siano considerate di prim’ordine.”
-
-Elizabeth riconobbe che lui aveva fornito una spiegazione molto razionale dell’evento, e continuarono a parlare insieme con reciproca soddisfazione, fino a quando la cena non pose fine alle loro conversazioni, permettendo alle altre signore di ricevere anch’esse l’attenzione di Mr. Wickham. Nel frastuono della festa serale organizzata dalla signora Philips non era possibile proseguire una vera e propria conversazione, ma i suoi modi lo resero molto gradito a tutti. Quello che diceva veniva sempre espresso in modo chiaro e appropriato; ciò che faceva, invece, era sempre eseguito con grazia. Elizabeth tornò a casa con la mente piena di lui: non riusciva a pensare ad altro se non a Mr. Wickham e a ciò che le aveva detto. Tuttavia, durante il viaggio non ebbe nemmeno l’opportunità di menzionarne il nome, poiché né Lydia né il signor Collins smisero mai di parlare. Lydia continuava incessantemente a parlare di biglietti della lotteria, dei pesci che aveva perso e di quelli che aveva vinto; il signor Collins, intanto, descriveva con entusiasmo la cortesia della signora e del signor Philips, sostenendo di non curarsi affatto delle sue perdite a carte, elencando tutti i piatti serviti a cena e temendo più volte di aver intralciato i suoi cugini. Aveva così tanto da dire che riuscì a parlare solo fino al momento in cui la carrozza si fermò a Longbourn House.
-
-
-
-Illustrazione:
-
-“Felice di rivedere il loro caro amico”
 
 
 
@@ -5392,46 +4045,6 @@ endurable to Kitty and Lydia.
 [Illustration]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XVII.
-
-Illustrazione
-
-Il giorno dopo, Elizabeth raccontò a Jane ciò che era accaduto tra lei e il signor Wickham. Jane ascoltò con stupore e preoccupazione: non riusciva a credere che il signor Darcy potesse essere così indegno dell’affetto del signor Bingley; tuttavia, non era nel suo [[concepts/nature|carattere]] mettere in dubbio la veridicità di un giovane dall’aspetto così affabile come Wickham. L’idea che potesse davvero aver subito un trattamento così crudele bastava a suscitare in lei grande interesse; quindi, non le restava altro da fare se non pensare bene di entrambi, difendere il comportamento di ciascuno e attribuire a incidenti o errori tutto ciò che non poteva essere spiegato in altro modo.
-
-“Entrambi,” disse lei, “sono stati ingannati, oserei dire, in qualche modo che noi non possiamo nemmeno immaginare. Probabilmente persone interessate hanno presentato ciascuno di loro in modo distorto all’altro. In breve, è impossibile per noi ipotizzare le cause o le circostanze che possono averli allontanati, senza che ci sia stata alcuna colpa da parte di entrambi.”
-
-“Assolutamente vero; e ora, mia cara Jane, cosa hai da dire a difesa di quelle persone interessate che probabilmente sono state coinvolte in questa faccenda? Scagiona anche loro, altrimenti dovremo pensare male di qualcuno.”
-
-“Ridi pure quanto vuoi, ma non riuscirai a farmi cambiare opinione. Mia cara Lizzy, pensa solo a quale luce disonorevole viene messo il signor Darcy nel trattare in questo modo la persona preferita da suo padre, una persona per cui suo padre aveva promesso di provvedere. È impossibile. Nessun uomo con un minimo di umanità, nessuno che tenga alla propria reputazione, potrebbe comportarsi così. Possibile che i suoi amici più intimi siano stati così ingannati su di lui? Oh no.”
-
-“Riesco molto più facilmente a credere che il signor Bingley sia stato imposto a noi, piuttosto che che il signor Wickham abbia inventato una storia del genere su di sé, come me l’ha raccontata la scorsa [[motifs/night|notte]]; nomi, fatti, tutto è stato menzionato senza alcuna esitazione. Se non fosse così, che il signor Darcy lo contraddica. Inoltre, nei suoi sguardi c’era davvero della [[concepts/truth|verità]].”
-
-“È davvero difficile… è angosciante. Non si sa cosa pensare.”
-
-“Mi scusi… si sa esattamente cosa pensare.”
-
-Ma Jane poteva essere certa di una sola cosa: che il signor Bingley, se fosse stato costretto ad accettare quella situazione, avrebbe sofferto molto quando tutto fosse diventato di dominio pubblico.
-
-Le due giovani signore furono chiamate fuori dal cespuglieto, dove si era svolta quella conversazione, dall’arrivo proprio di alcune delle persone di cui avevano parlato: il signor Bingley e sue sorelle vennero a invitarle personalmente al tanto atteso ballo a Netherfield, fissato per il seguente martedì. Le due signore furono molto felici di rivedere la loro cara amica; dissero che era passata un’eternità da quando si erano incontrate e chiesero più volte cosa avesse fatto da quando si erano separate. All’ resto della famiglia prestarono poca attenzione: evitarono il più possibile la signora Bennet, dissero poco a Elizabeth e nulla affatto alle altre persone presenti. Poco dopo se ne andarono di nuovo, alzandosi dai loro posti con tale fretta da sorprendere il loro fratello, e partirono come se volessero sfuggire alle gentilezze della signora Bennet.
-
-La prospettiva del ballo a Netherfield era estremamente gradita a tutte le donne della famiglia. La signora Bennet considerò l’invito come un complimento rivolto alla sua figlia maggiore, e fu particolarmente lusingata dal fatto che fosse stato inviato direttamente da Mr. Bingley, anziché tramite una semplice cartolina formale. Jane si immaginava una serata felice in compagnia delle sue due amiche e dell’attenzione del loro fratello; Elizabeth, invece, pensava con piacere all’idea di ballare molto con Mr. Wickham e di vedere confermate tutte le sue speranze nel comportamento di Mr. Darcy. Quanto a Catherine e Lydia, la loro felicità non dipendeva da un singolo evento o da una persona specifica: anche se entrambe, come Elizabeth, avevano intenzione di ballare per metà della serata con Mr. Wickham, lui non era certo l’unico partner possibile. E dopotutto, un ballo è pur sempre un ballo. Anche Mary poteva assicurare alla sua famiglia di non essere affatto contraria all’idea.
-
-“Anche se posso trascorrere le mattine da sola,” disse lei, “è sufficiente. Penso che non sia un sacrificio partecipare occasionalmente agli eventi serali. La società ha i suoi diritti su di noi tutti; e io mi considero una di quelle persone che ritengono che momenti di riposo e divertimento siano desiderabili per tutti.”
-
-Quella sera, l’umore di Elizabeth era così allegrato che, sebbene di solito non parlasse inutilmente con il signor Collins, non poté fare a meno di chiedergli se avesse intenzione di accettare l’invito del signor Bingley e, nel caso affermativo, se ritenesse appropriato partecipare alle attività serali; rimase piuttosto sorpresa nello scoprire che lui non aveva alcuna esitazione al riguardo e non temeva affatto di ricevere rimproveri, né dall’arcivescovo né da [[characters/lady-catherine-de-bourgh|Lady Catherine de Bourgh]], se avesse osato partecipare alla danza.
-
-“Vi assicuro che non ho affatto alcuna opinione negativa,” disse lui, “riguardo al fatto che un ballo di questo tipo, organizzato da un giovane di buone qualità e rivolto a persone rispettabili, possa avere qualche conseguenza negativa; anzi, non vedo alcun motivo per oppormi al ballo stesso, e spero addirittura di ricevere l’onore di ballare con tutte le mie belle cugine durante la serata. E approfitto di questa occasione per chiedervi, signorina Elizabeth, di concedermi i primi due balli; una preferenza che, sono certo, mia cugina Jane attribuirà a motivi giusti, e non a alcun segno di mancanza di rispetto verso di lei.”
-
-Elizabeth si sentì completamente sopraffatta da quelle circostanze. Aveva appena accettato di fidanzarsi con Wickham proprio per quei balli; e ora invece doveva accettare la proposta di Mr. Collins. La sua vivacità, in quel momento, era davvero fuori luogo. Tuttavia, non c’era nulla da fare: la felicità di Mr. Wickham e la sua stessa dovevano essere rinviate ancora un po’, e lei accettò la proposta di Mr. Collins con tutta la grazia possibile. Non era affatto lusingata dalla sua galanteria, poiché quella condotta sembrava suggerire qualcosa di più. Solo allora le venne in mente che era stata proprio lei ad essere scelta tra tutte sue sorelle come degna di diventare la padrona di Hunsford Parsonage, e di partecipare alle riunioni a Rosings, in assenza di ospiti più qualificati. Quell’idea divenne presto una certezza: osservava sempre di più le sue attenzioni verso di lei, sentiva spesso i suoi complimenti sul suo spirito e sulla sua vivacità. Anche se era più sorpresa che compiaciuta da questo effetto delle sue attrattive, non passò molto tempo prima che sua madre le facesse capire quanto fosse gradita l’eventualità del loro [[motifs/marriage|matrimonio]]. Tuttavia, Elizabeth decise di non dare retta a quel suggerimento, ben consapevole che qualsiasi risposta avrebbe scatenato una grave disputa. Forse Mr. Collins non le avrebbe mai fatto quella proposta. E fino ad allora, non aveva senso litigare per lui.
-
-Se non ci fosse stata la festa a Netherfield da preparare e di cui parlare, le giovani Miss Bennet si sarebbero trovate in una condizione davvero misera in questo momento; infatti, dal giorno dell’invito fino al giorno della festa, il continuo piovere aveva impedito loro di recarsi a Meryton anche una sola volta. Nessuna zia, nessun ufficiale militare, nessuna notizia da ricevere. Anche i fiori da mettere nelle scarpe per la festa a Netherfield furono acquistati tramite intermediari. Persino Elizabeth avrebbe potuto trovare difficoltà ad alimentare la sua pazienza in un clima che ostacolava completamente lo sviluppo della sua conoscenza con il signor Wickham; e solo una [[motifs/dance|danza]] di martedì avrebbe potuto rendere tollerabili venerdì, sabato, [[characters/sunday|)domenica]] e lunedì per Kitty e Lydia.
-
-
-
-Illustrazione
-
 
 
 <span class="atom-split" data-atom="chapter_18--part_01" data-title="Pride and Prejudice — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/dance,motif/silence,motif/time,motif/well,concept/doubt,concept/temptation,character/charlotte_lucas"></span>
@@ -5553,48 +4166,6 @@ walk to Meryton. She answered in the affirmative; and, unable to resist
 the [[concepts/temptation|temptation]], added, “When you met us there the other day, we had just
 been forming a new acquaintance.”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XVIII.
-
-Illustrazione
-
-Fino a quando Elizabeth non entrò nel salotto di Netherfield e cercò invano il signor Wickham tra quel gruppo di uomini in abiti rossi riuniti lì, non le era mai passato per la mente che potesse non essere presente. La certezza di incontrarlo non era stata minimamente scossa da alcun ricordo che avrebbe potuto farla preoccupare. Si era vestita con particolare cura e si era preparata con grande entusiasmo per conquistare tutto ciò che ancora restava del suo cuore, convinta che non fosse impossibile riuscirci nel corso della serata. Ma in un istante le balenò l’orribile sospetto che fosse stato intenzionalmente escluso dall’invito dei Bingley, a piacimento del signor Darcy; e sebbene non fosse proprio così, la sua assenza fu confermata dal suo amico il signor Denny, al quale Lydia si rivolse con ansia. Questi le disse che Wickham era stato costretto ad andare in città per affari il giorno prima e non era ancora tornato; aggiunse poi, con un sorriso significativo.
-
-“Non riesco a immaginare che gli affari suoi lo abbiano costretto ad andarsene proprio ora, se non fosse stato desideroso di evitare un certo signore qui presente.”
-
-Questa parte della sua intelligenza, sebbene non fosse nota a Lydia, fu notata da Elizabeth; e poiché le confermava che Darcy era altrettanto responsabile dell’assenza di Wickham quanto se la sua prima supposizione fosse stata corretta, ogni sentimento di disappunto nei suoi confronti si acuì ulteriormente a causa della delusione immediata. Fu quindi quasi impossibile per lei rispondere in modo civile alle gentili domande che lui le fece subito dopo. Prestare attenzione a Darcy, essere tolleranti e pazienti con lui significava in realtà danneggiare Wickham. Era decisa a evitare qualsiasi tipo di conversazione con lui e si allontanò con un certo grado di malumore che non riuscì del tutto a controllare, nemmeno quando parlò con il signor Bingley, la cui cieca preferenza per lei la irritava profondamente.
-
-Ma Elizabeth non era fatta per un umore malinconico; e sebbene tutte le sue speranze per quella serata fossero distrutte, questo non riuscì a durare a lungo nel suo spirito. Dopo aver condiviso tutte le sue preoccupazioni con [[characters/charlotte-lucas|Charlotte Lucas]], che non vedeva da una settimana, riuscì presto a distogliere la sua attenzione dalle proprie difficoltà e ad osservare con interesse le stranezze di suo cugino. Tuttavia, i primi due balli riportarono in lei il dolore: si trattava di danze particolarmente imbarazzanti. Il signor Collins, goffo e solenne, si scusava invece di partecipare attivamente al ballo e spesso commetteva errori senza nemmeno rendersene conto, causandole grande imbarazzo e sofferenza. Il momento in cui riuscì finalmente a liberarsi di lui fu un vero sollievo per lei.
-
-Ballò poi con un ufficiale e poté finalmente parlare di Wickham, venendo a sapere che era universalmente apprezzato. Quando quelle danze terminarono, tornò da [[characters/charlotte-lucas|Charlotte Lucas]] e stava conversando con lei quando, all’improvviso, il signor Darcy le si avvicinò chiedendole la mano. La colse talmente di sorpresa che, senza nemmeno pensarci, accettò la sua proposta. Lui se ne andò subito dopo, lasciandola preoccupata per la propria mancanza di presenza di spirito. Charlotte cercò di consolarla.
-
-“Oserei dire che lo troverete molto piacevole.”
-
-“Dio non voglia! Quello sarebbe il più grande disastro di tutti. Trovare un uomo gradevole che, però, si desidera odiare. Non augurarmi una simile sfortuna.”
-
-Quando la danza ricominciò, tuttavia, e Darcy si avvicinò per chiederle la mano, Charlotte non poté fare a meno di sussurrarle di non comportarsi come una sciocca, di non lasciare che il suo interesse per Wickham la facesse apparire sgradevole agli occhi di un uomo spesso molto importante. Elizabeth non rispose nulla e prese il suo posto nella formazione dei ballerini, stupita dalla dignità che le veniva concessa: poter stare di fronte a Mr. Darcy. E nei volti dei suoi vicini leggeva lo stesso stupore. Rimasero in piedi per qualche momento senza dire una parola; lei iniziò a pensare che quel silenzio sarebbe durato per entrambe le danze, e all’inizio decise di non romperlo. Ma poi, immaginando che fosse ancora più umiliante costringere il suo partner a parlare, fece un commento su una mossa della danza. Lui rispose, e poi tornò al silenzio. Dopo alcuni minuti, gli rivolse di nuovo la parola.
-
-“Ora è il _vostro_ turno di dire qualcosa, signor Darcy. Io ho parlato della [[motifs/dance|danza]], e voi dovreste fare qualche commento riguardo alle dimensioni della sala o al numero delle coppie presenti.”
-
-Sorrise e le assicurò che qualsiasi cosa desiderasse che dicesse, l'avrebbe detta.
-
-“Molto bene; per il momento quella risposta va benissimo. Forse, in futuro, potrò osservare che i balli privati sono molto più piacevoli di quelli pubblici. Ma ora possiamo tacere.”
-
-Parli seguendo delle regole, quando balli?
-
-“A volte sì. Bisogna parlare un po’, capisci? Sarebbe strano rimanere completamente in silenzio per mezz’ora insieme; eppure, a vantaggio di alcuni, la conversazione dovrebbe essere gestita in modo che loro debbano sforzarsi di dire il meno possibile.”
-
-“Nel presente caso stai prendendo in considerazione i tuoi sentimenti personali, o immagini di stare soddisfacendo i miei?”
-
-“Entrambi,” rispose Elizabeth con un sorriso malizioso; “perché ho sempre notato una grande somiglianza nel modo in cui pensiamo. Siamo entrambe di indole antisociale e taciturna, riluttanti a parlare, a meno che non intendiamo dire qualcosa che stupisca tutta la stanza e venga tramandato alle generazioni future con tutto lo _splendore_ di un proverbio.”
-
-“Non credo che questa somiglianza sia poi così evidente rispetto al tuo vero carattere,” disse lui. “Quanto invece si avvicini al mio, non posso dirlo con certezza. Tu, senza dubbio, la consideri un ritratto fedele.”
-
-Non devo giudicare da solo la mia prestazione.
-
-Non rispose nulla; e rimasero di nuovo in silenzio fino a quando non finirono la [[motifs/dance|danza]], quando le chiese se lei e le sue sorelle non andassero spesso a Meryton a piedi. Lei rispose di sì; e, incapace di resistere alla [[concepts/temptation|tentazione]], aggiunse: “Quando ci hai incontrate lì l’altro giorno, avevamo appena fatto conoscenza con qualcuno nuovo.”
 
 
 
@@ -5733,72 +4304,6 @@ worse than of being the son of Mr. Darcy’s steward, and of _that_, I can
 assure you, he informed me himself.”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-L’effetto fu immediato. Un tono più marcato di _superiorità_ si diffuse sul suo volto, ma non disse una parola; e Elizabeth, sebbene si rimproverasse per la propria debolezza, non riuscì a continuare. Alla fine Darcy parlò, in modo forzato, dicendo:–
-
-“Il signor Wickham possiede modi così affabili da garantirgli la capacità di farsi degli amici; se sia altrettanto bravo a mantenerli, invece, è meno certo.”
-
-“È stato così sfortunato da perdere la tua [[concepts/friendship|amicizia]],” rispose Elizabeth, con enfasi, “e in un modo che probabilmente dovrà sopportare per tutta la vita.”
-
-Darcy non rispose e sembrava desideroso di cambiare argomento. In quel momento Sir William Lucas si avvicinò a loro, intenzionato di passare attraverso il gruppo per raggiungere l’altra parte della stanza; ma, notando il signor Darcy, si fermò e, con un inchino pieno di superiorità, gli fece i complimenti per la sua danza e per la sua partner.
-
-“Sono davvero molto grato, caro signore; un ballo di tale livello non si vede spesso. È evidente che appartengiate ai circoli più elevati. Tuttavia, permettetemi di dire che anche la vostra affascinante compagna non vi fa vergogna. E spero davvero di poter godere ancora molte volte di questa piacevole compagnia, soprattutto quando avverrà un certo evento desiderato. Mia cara signorina Eliza, ” (guardando sua sorella e Bingley). “Che congratulazioni arriveranno allora! Mi rivolgo a Mr. Darcy. Ma non voglio interrompervi, signore. Non mi ringrazierete certo per avervi trattenuto lontano dalla deliziosa conversazione di quella giovane signorina, i cui occhi luminosi, inoltre, sembrano anche rimproverarmi, ”
-
-Illustrazione:
-
-“Danze di tale livello superiore non si vedono spesso.”
-
-Copyright 1894 di George Allen.
-
-La seconda parte di questo discorso fu appena percettibile da Darcy; ma allusione fatta da Sir William al suo amico sembrò colpirlo profondamente, e i suoi occhi si fissarono, con un’espressione molto seria, su Bingley e Jane, che stavano ballando insieme. Tuttavia, riprendendosi rapidamente, si rivolse alla sua partner e disse:
-
-“L’interruzione di Sir William mi ha fatto dimenticare di cosa stavamo parlando.”
-
-“Non credo che abbiamo davvero parlato molto. Sir William non avrebbe potuto interrompere due persone in una stanza che avevano così poco da dirsi. Abbiamo già provato con due o tre argomenti, ma senza successo; non riesco nemmeno a immaginare di cosa parleremo adesso.”
-
-“Che ne pensi dei libri?” disse lui, sorridendo.
-
-Libri… oh no! Sono sicura che noi due non abbiamo mai letto gli stessi libri, o almeno non li abbiamo letti con gli stessi sentimenti.
-
-“Mi dispiace che tu la pensi così; ma se è davvero così, almeno non mancheranno argomenti di discussione. Possiamo confrontare le nostre diverse opinioni.”
-
-“Mai… non posso parlare di libri in una sala da ballo; la mia mente è sempre occupata da altre cose.”
-
-“Nelle scene del genere, il _presente_ ti assorbe sempre completamente, non è vero?”, disse lui, con un’espressione di [[concepts/doubt|dubbio]].
-
-“Sì, sempre,” rispose lei, senza sapere ciò che stava dicendo; perché i suoi pensieri si erano allontanati molto dall’argomento in discussione, come dimostrò poco dopo esclamando improvvisamente: “Ricordo di avervi sentito dire una volta, signor Darcy, che quasi mai perdonavate; che il vostro risentimento, una volta sorto, era impossibile da placare. Immagino siate molto attento a non farlo mai sorgere, ”
-
-“Lo sono,” disse lui, con voce ferma.
-
-“E mai permettere che i pregiudizi offuschino la tua visione?”
-
-“Non lo spero affatto.”
-
-“È particolarmente dovere di coloro che non cambiano mai opinione
-assicurarsi di giudicare correttamente fin dall’inizio.”
-
-A cosa mirano queste domande?
-
-“Solo per illustrare meglio il tuo carattere,” disse lei, cercando di scacciare la sua serietà. “Sto provando a capirlo meglio.”
-
-“E qual è il tuo successo?”
-
-Scosse la testa. “Per niente. Ascolto storie così diverse su di te che mi lasciano davvero perplessa.”
-
-“Posso credere facilmente,” rispose seriamente, “che le descrizioni riguardanti me possano variare notevolmente; e vorrei, signorina Bennet, che in questo momento non cercaste di delineare il mio carattere, poiché ci sono motivi per temere che tale descrizione non porti a nulla di positivo per nessuno dei due.”
-
-“Ma se non ritraggo il tuo volto ora, forse non ne avrò mai più un’altra opportunità.”
-
-“Assolutamente non intendo privarti di alcun piacere,” rispose lui freddamente.  
-Lei non disse più nulla e insieme scesero l’altro [[motifs/dance|piano]] della sala da ballo, poi si separarono in [[motifs/silence|silenzio]]; entrambi insoddisfatti, sebbene non nello stesso grado: nel cuore di Darcy infatti esisteva un sentimento abbastanza forte per lei, che presto gli fece perdonare il suo comportamento e indirizzò tutta la sua rabbia verso qualcun altro.
-
-Non erano ancora trascorsi molti minuti quando la signorina Bingley si avvicinò a lei e, con un'espressione di distacco cortese, le disse:
-
-“Dunque, signorina Eliza, ho sentito dire che lei sia molto soddisfatta di George Wickham. Sua sorella mi ha parlato spesso di lui e mi ha fatto mille domande. Ho scoperto che quel giovane dimenticò di dirle, tra le altre cose, che era il figlio di vecchio Wickham, l’ex maggiordomo del defunto signor Darcy. Tuttavia, come amica, le consiglio di non dare troppa credibilità a tutte le sue affermazioni. Per quanto riguarda l’eventualità che il signor Darcy lo abbia trattato male, è assolutamente falso: al contrario, il signor Darcy è sempre stato estremamente gentile con lui, anche se George Wickham si è comportato in modo molto disonorevole nei suoi confronti. Non conosco i dettagli, ma so molto bene che il signor Darcy non ha alcuna colpa; non sopporta nemmeno di sentir menzionare George Wickham. E anche se mio fratello pensava che fosse impossibile evitare di includerlo nell’invito rivolto agli ufficiali, fu estremamente sollevato nello scoprire che lui stesso si era tenuto alla larga. Il fatto che sia venuto in campagna è davvero molto sfrontato. Non so proprio come abbia potuto osare farlo. Mi dispiace per lei, signorina Eliza, per questa scoperta riguardo alle colpe del suo preferito. Ma, onestamente, considerando la sua origine, non si poteva certo aspettarsi di meglio.”
-
-“Secondo quanto dici, la sua [[concepts/guilt|colpa]] e il suo lignaggio sembrano essere la stessa cosa,” disse Elizabeth con rabbia; “perché ho sentito te accusarlo di nulla di peggio che di essere il figlio dello steward del signor Darcy, e di questo, posso assicurartelo, me lo ha detto lui stesso.”
-
 
 
 <span class="atom-split" data-atom="chapter_18--part_03" data-title="Pride and Prejudice — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/time,motif/well,concept/conscience,concept/doubt,concept/education,concept/freedom,concept/history,concept/honour,concept/hope,concept/humility,concept/wonder,form/history,character/lady_catherine_de_bourgh"></span>
@@ -5915,39 +4420,6 @@ abundantly increasing with the length of his second speech; and at the
 end of it he only made him a slight bow, and moved another way: Mr.
 Collins then returned to Elizabeth.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-“Mi scusi,” rispose la signorina Bingley, girandosi via con un sorriso beffardo.  
-“Perdoni la mia intromissione; era dettata da buone intenzioni.”
-
-“Ragazza insolente!” pensò Elizabeth tra sé. “Ti sbagli di grosso se credi di potermi influenzare con un attacco così meschino. Non vedo in tutto questo altro che la tua stessa ignoranza volontaria e la malvagità del signor Darcy.” Poi andò a cercare sua sorella maggiore, che aveva promesso di indagare sullo stesso argomento riguardante Bingley. Jane l’accolse con un sorriso così dolce e compiaciuto, con un’espressione così felice, da far chiaramente capire quanto fosse soddisfatta degli eventi della serata. Elizabeth intuì immediatamente i suoi sentimenti; in quel momento, ogni preoccupazione per Wickham, ogni risentimento verso i suoi nemici, tutto venne sopraffatto dalla [[concepts/hope|speranza]] che Jane fosse sulla strada giusta verso la felicità.
-
-“Voglio sapere,” disse lei, con un'espressione altrettanto sorridente di quella di sua sorella, “cosa hai appreso su Mr. Wickham. Ma forse sei stato troppo impegnato in altre cose per pensare a qualcun altro. In tal caso, puoi essere certo del mio perdono.”
-
-“No,” rispose Jane, “non l’ho dimenticato; ma non ho nulla di soddisfacente da raccontarti. Il signor Bingley non conosce tutta la sua [[concepts/history|storia]] e ignora completamente le circostanze che hanno principalmente offeso il signor Darcy; tuttavia può garantire per il buon comportamento, la probità e l’[[concepts/honour|onore]] del suo amico, ed è assolutamente convinto che il signor Wickham meriti molto meno attenzione da parte del signor Darcy di quanta ne abbia ricevuta; purtroppo, secondo quanto lui e sua sorella dicono, il signor Wickham non è affatto un giovane rispettabile. Temo che sia stato molto imprudente e che si meriti davvero di aver perso l’affetto del signor Darcy.”
-
-“Il signor Bingley non conosce nemmeno il signor Wickham personalmente.”
-
-“No; non lo vide mai fino alla mattina seguente a Meryton.”
-
-“Quindi, questo è ciò che ha ricevuto dal signor Darcy. Sono perfettamente soddisfatta. Ma cosa dice riguardo ai beni mobili?”
-
-“Non ricorda esattamente le circostanze, anche se ne ha parlato più volte con il signor Darcy, ma ritiene che quella responsabilità gli sia stata affidata soltanto in modo _condizionato_.”
-
-“Non ho alcun [[concepts/doubt|dubbio]] sulla sincerità del signor Bingley,” disse Elizabeth con calore, “ma dovete scusarmi se non mi lascio convincere soltanto dalle sue affermazioni. La difesa che il signor Bingley ha fatto del suo amico è stata davvero efficace, lo ammetto; ma poiché lui non conosce alcune parti della storia e ha appreso il resto direttamente da quell’amico, oserei comunque continuare a considerare entrambi i signori nello stesso modo di prima.”
-
-Allora lei cambiò argomento di conversazione in uno che fosse più gradito a entrambi, e su cui non potesse esserci alcuna differenza di opinione. Elizabeth ascoltò con piacere le speranze felici, sebbene modeste, che Jane nutriva riguardo all’interesse di Bingley per lei, e fece tutto il possibile per rafforzare la sua fiducia in esse. Quando anche il signor Bingley si unì a loro, Elizabeth si allontanò con la signorina Lucas; a cui aveva appena risposto brevemente riguardo alla piacevolezza della sua compagna di conversazione, quando il signor Collins si avvicinò a loro e le comunicò con grande entusiasmo di essere appena riuscito a fare una scoperta di estrema importanza.
-
-“Ho scoperto,” disse, “per un caso straordinario, che in questa stanza c’è una parente stretta della mia protettrice. Ho sentito per caso il gentiluomo stesso menzionare alla giovane signora che tiene in ordine questa casa i nomi di sua cugina, la signorina De Bourgh, e di sua madre, lady Catherine. Che strano coincidere! Chi avrebbe mai pensato di incontrare, in questa riunione, forse un nipote di lady Catherine de Bourgh. Sono molto grato che questa scoperta sia avvenuta in [[motifs/time|tempo]] giusto, così da poterle rendere omaggio ora stesso; spero che mi perdoni per non averlo fatto prima. La mia totale ignoranza riguardo a questa parentela deve certamente costituire una scusa sufficiente.”
-
-“Non intenderai presentarti al signor Darcy?”
-
-“Infatti lo sono. Chiederò il suo perdono per non averlo fatto prima. Credo che sia il nipote di Lady Catherine. Sarà in mio potere assicurargli che sua signoria stava molto bene ieri sera.”
-
-Elizabeth si sforzò molto di dissuaderlo da un simile piano; gli assicurò che il signor Darcy avrebbe considerato il suo rivolgersi a lui senza presentazioni come una [[concepts/freedom|irriverenza]], piuttosto che un complimento per sua zia; che non era affatto necessario alcun comunicato da entrambe le parti, e che, qualora ci fosse stato bisogno di farlo, sarebbe spettato al signor Darcy, essendo lui la persona di rango superiore. Il signor Collins l’ascoltò con l’aria decisa di seguire soltanto i propri desideri; quando lei finì di parlare, rispose così:
-
-“Mia cara signorina Elizabeth, ho la massima stima del vostro eccellente giudizio in tutte le questioni che rientrano nell’ambito delle vostre conoscenze, ma permettetemi di dire che deve esserci una notevole differenza tra le forme convenzionali di cerimonia adottate dai laici e quelle che regolamentano il comportamento del clero; infatti ritengo che l’ufficio clericale sia, per dignità, paragonabile al più alto rango del regno, a condizione che venga mantenuta una dovuta umiltà nel comportamento. Pertanto, devo seguire le indicazioni della mia coscienza in questa circostanza, e compiere ciò che ritengo sia mio dovere. Perdonatemi se non ho tenuto conto dei vostri consigli, che in ogni altro ambito saranno sempre la mia guida, ma in questo caso ritengo di essere più adatta, grazie alla mia educazione e allo studio costante, a decidere ciò che è giusto rispetto a una giovane donna come voi.” Dopo aver fatto un profondo inchino, se ne andò, lasciandola libera di criticare il signor Darcy, il cui comportamento, nel ricevere le sue avances, fu oggetto della sua attenta osservazione; l’indignazione del signor Darcy per essere stato trattato in quel modo era evidente. Il cugino di Elizabeth iniziò il suo discorso con un inchino solenne, e sebbene lei non riuscisse a sentire una parola, ebbe l’impressione di ascoltarlo tutto; nei movimenti delle sue labbra lesse le parole “scusa”, “Hunsford” e “Lady Catherine de Bourgh”. Le dispiaceva che si esponesse a un uomo del genere. Il signor Darcy lo osservava con palese meraviglia; quando finalmente il signor Collins gli permise di parlare, lui rispose con un tono distaccato e cortese. Tuttavia il signor Collins non si arrese e continuò a parlare, il disprezzo del signor Darcy sembrava aumentare sempre di più con il proseguire del suo discorso; alla fine, dopo avergli fatto solo un lieve inchino, se ne andò. Il signor Collins tornò quindi da Elizabeth.
 
 
 
@@ -6070,28 +4542,6 @@ having spoken so sensibly, and observed, in a half-whisper to Lady
 Lucas, that he was a remarkably clever, good kind of young man.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Non ho alcun motivo, vi assicuro,” disse, “di essere insoddisfatto del modo in cui sono stato accolto. Il signor Darcy sembrava molto contento dell’attenzione che gli è stata rivolta. Mi ha risposto con la massima cortesia e mi ha persino fatto l’onore di dire che era così [[motifs/well|convinto]] del buon giudizio della signora Catherine da essere certo che lei non potesse mai concedere un favore indegno. È davvero un pensiero molto gentile. Nel complesso, sono molto soddisfatto di lui.”
-
-Poiché Elizabeth non aveva più alcun interesse personale da perseguire, rivolse quasi interamente la sua attenzione a sua sorella e al signor Bingley; e le piacevoli riflessioni che queste osservazioni le suscitavano la rendevano forse quasi altrettanto felice di Jane. Immaginava sua sorella sistemata in quella stessa casa, nella massima felicità che un matrimonio basato su vero affetto potesse donare; e si sentiva in grado, in tali circostanze, di provare persino simpatia per le due sorelle di Bingley. Vedeva chiaramente che anche i pensieri di sua madre erano nella stessa direzione, e decise quindi di non avvicinarsi a lei, per non rischiare di sentire cose spiacevoli. Quando si sedettero a cena, considerò una vera sfortuna il fatto che fossero costrette a stare insieme; e fu profondamente infastidita nel constatare che sua madre parlava con Lady Lucas liberamente, apertamente, e solo di quanto si aspettasse che Jane sposasse presto il signor Bingley. Era un argomento molto interessante, e la signora Bennet sembrava incapace di stancarsi nel elencare i vantaggi di quel matrimonio: lui era un giovane così attraente, così ricco, e viveva a soli tre miglia da loro. Questi erano i primi motivi di soddisfazione; inoltre, era confortante pensare quanto le due sorelle amassero Jane, e essere certa che desiderassero ardentemente quel legame tanto quanto lei. Inoltre, per le sue figlie più giovani, rappresentava un’ottima opportunità: il matrimonio di Jane avrebbe sicuramente favorito i loro rapporti con altri uomini ricchi; e infine, era molto piacevole, nella sua età, poter affidare le proprie figlie single alle cure della sorella, così da non essere costretta a frequentare troppo spesso la società. Era necessario considerare questa situazione come qualcosa di positivo, perché in occasioni del genere è così che si deve comportare; ma nessuno era meno incline della signora Bennet ad trovare conforto nel rimanere a casa, in qualsiasi momento della sua vita. Concluse quindi i suoi pensieri con molti auguri affinché anche Lady Lucas potesse presto essere altrettanto fortunata, anche se, ovviamente, credeva con certezza che ci fossero poche possibilità che ciò accadesse.
-
-Inutilmente Elizabeth cercò di frenare la velocità con cui sua madre parlava, o di convincerla a descrivere la propria felicità in un sussurro meno udibile; poiché, con suo immenso fastidio, si rese conto che Mr. Darcy, seduto di fronte a loro, aveva sentito tutto. Sua madre la rimproverò soltanto per essere sciocca.
-
-“Che rapporto ha il signor Darcy con me, per favore, da farmi temerlo? Sono sicura che non gli dobbiamo alcuna particolare cortesia tale da essere costretti a dire cose che potrebbero non piacergli.”
-
-“Per l’amor del cielo, signora, parlate più piano. Che vantaggio potrebbe esserci per voi nel offendere il signor Darcy? Così facendo, non farete mai una buona impressione su suo amico.”
-
-Tuttavia, nulla di ciò che lei poteva dire aveva alcun effetto. Sua madre continuava a parlare delle sue opinioni con lo stesso tono comprensibile. Elizabeth arrossiva ancora e ancora per vergogna e frustrazione. Non riusciva a fare a meno di lanciare frequentemente occhiate al signor Darcy, anche se ogni suo sguardo le confermava ciò che temeva: poiché lui non la guardava sempre, lei era comunque convinta che la sua attenzione fosse invariabilmente rivolta a lei. L’espressione del suo viso cambiava gradualmente, passando da un disprezzo indignato a una gravità composta e ferma.
-
-Finalmente, però, la signora Bennet non ebbe più nulla da dire; e Lady Lucas, che da tempo sbadigliava di fronte a quelle descrizioni di piaceri dei quali non vedeva alcuna possibilità di partecipare, fu lasciata alle delizie del prosciutto freddo e della pollo. Elizabeth iniziò finalmente a riprendersi. Ma la tranquillità durò poco: dopo cena si parlò di cantare, e lei vide con dolore Mary, dopo poche suppliche, prepararsi ad accontentare tutti. Con molti sguardi significativi e silenziose preghiere cercò di impedirle di farlo. Ma invano: Mary non capiva; per lei era un’ottima opportunità per mostrare le sue capacità, e così iniziò a cantare. Gli occhi di Elizabeth erano fissi su di lei, pieni di dolore; osservava con impazienza ogni strofa della canzone. Ma alla fine tutto si rivelò inutile: dopo mezzo minuto, Mary iniziò un’altra canzone. Le capacità vocali di Mary non erano affatto adatte a una simile esibizione; la sua voce era debole e il suo modo di cantare artificioso. Elizabeth soffriva terribilmente. Guardò Jane per vedere come la stesse prendendo. Ma Jane parlava tranquillamente con Bingley. Guardò anche le sue due sorelle: ridevano tra loro, e Darcy continuava a rimanere serio e impassibile. Guardò poi suo padre, sperando che intervenisse per fermare Mary. Lui capì il messaggio e, quando Mary finì la seconda canzone, disse ad alta voce:
-
-“Questo andrà estremamente bene, [[archetypes/child|bambino]]. Ci hai divertiti abbastanza a lungo. Lascia che anche le altre giovani signorine abbiano la loro opportunità di esibirsi.”
-
-Mary, sebbene fingesse di non sentire, era piuttosto turbata; mentre Elizabeth, compassionevole sia verso di lei che verso le parole pronunciate da suo padre, temeva che la sua ansia non avesse portato a nulla di positivo. Gli altri partecipanti, intanto, erano già impegnati in altre attività.
-
-“Se io,” disse il signor Collins, “ fossi così fortunato da saper cantare, sarei certamente molto felice di intrattenere tutti con una canzone; infatti considero la musica un passatempo assolutamente [[archetypes/innocent|innocente]] e perfettamente compatibile con la professione di un clérigo. Tuttavia, non intendo affermare che sia giusto dedicare troppo del nostro [[motifs/time|tempo]] alla musica, poiché ci sono sicuramente altre cose alle quali prestare attenzione. Il parroco ha molte responsabilità: innanzitutto deve stipulare accordi per la riscossione dei decimi in modo che siano vantaggiosi per lui e non offensivi nei confronti del suo protettore; deve anche scrivere personalmente i suoi sermoni. Il tempo che rimane non sarà certo troppo per adempiere ai doveri parrocchiali, né per prendersi cura della propria abitazione, che deve essere resa il più confortevole possibile. Inoltre, ritengo di fondamentale importanza che il parroco mantenga un comportamento attento e cordiale verso tutti, soprattutto verso coloro a cui deve la sua posizione. Non posso esimergere lui da questo dovere; né potrei considerare positivo un uomo che trascurasse l’opportunità di dimostrare rispetto verso chiunque sia legato alla sua famiglia.” Dopo aver fatto un inchino al signor Darcy, concluse il suo discorso, pronunciato a voce abbastanza alta da essere udito da metà della sala. Molti lo fissarono con sorpresa; molti sorrisero. Ma nessuno sembrava divertirsi più del signor Bennet stesso, mentre sua moglie lodò seriamente il signor Collins per aver parlato in modo così sensato, e sussurrò alla signora Lucas che era davvero un giovane molto intelligente e gentile.
-
 
 
 <span class="atom-split" data-atom="chapter_18--part_05" data-title="Pride and Prejudice — Chapter 18 (part 5)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/dance,motif/silence,motif/time,concept/hope,setting/london"></span>
@@ -6172,26 +4622,6 @@ was eclipsed by Mr. Bingley and Netherfield.
 “to assure you in the most animated language”
 ]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-A Elizabeth sembrava che, se la sua famiglia avesse deciso di esibirsi al massimo durante la serata, sarebbe stato impossibile per loro interpretare i propri ruoli con maggiore entusiasmo o ottenere un risultato più soddisfacente; ed era felice che a Bingley e a sua sorella fosse sfuggito qualcosa di ciò che era accaduto, e che i suoi sentimenti non venissero troppo turbati da quella follia che doveva aver assistito. Tuttavia, il fatto che le sue due sorelle e il signor Darcy avessero l’opportunità di deridere le sue relazioni era già abbastanza grave; e non riusciva a decidere se fosse più insopportabile il silenzioso disprezzo del gentiluomo o i sorrisi insolenti delle signore.
-
-Il resto della serata le portò solo piccolo divertimento. Fu presa in giro da Mr. Collins, che continuò con grande insistenza a stare al suo fianco; e sebbene non riuscisse a convincerla a ballare di nuovo con lui, impedì comunque che ballasse con altri. Inutilmente lei lo pregò di andare a parlare con un’altra persona, offrendosi persino di presentargli qualsiasi giovane donna nella stanza. Lui le assicurò che, per quanto riguardava il ballo, gli era completamente indifferente; che il suo vero obiettivo era quello di farsi apprezzare da lei attraverso attenzioni delicate; e che quindi avrebbe fatto in modo di rimanere vicino a lei per tutta la serata. Non c’era modo di discutere su un simile progetto. Il maggior sollievo le venne dalla sua amica Miss Lucas, che spesso li raggiungeva e, con gentilezza, distraeva Mr. Collins parlando con lui.
-
-Almeno era libera dal rischio di attirare ulteriori attenzioni da parte del signor Darcy: anche se spesso si trovava a pochissima distanza da lui, lui non si avvicinava mai abbastanza da parlare con lei. Lei riteneva che ciò fosse il probabile risultato delle sue allusioni al signor Wickham, e ne era felice.
-
-Il gruppo dei Longbourn fu l’ultimo ad andarsene; e, grazie a una manovra della signora Bennet, dovettero aspettare la loro carrozza per un quarto d’ora dopo che tutti gli altri se n’erano andati, il che diede loro il tempo di vedere quanto calorosamente venissero congedati da alcuni membri della famiglia. La signora Hurst e sua sorella aprirono a malapena bocca, se non per lamentarsi di stanchezza, ed erano chiaramente impazienti di rimanere sole in quella casa. Rifiutarono ogni tentativo da parte della signora Bennet di intrattenerle in conversazione, e così facendo imposero un’atmosfera di noia su tutto il gruppo; questa situazione non venne minimamente alleviata dai lunghi discorsi del signor Collins, che elogiava il signor Bingley e le sue sorelle per l’eleganza delle loro feste, nonché per l’ospitalità e la cortesia dimostrate nei confronti degli ospiti. Darcy non disse assolutamente nulla; il signor Bennet, altrettanto silenzioso, godette invece della scena che si svolgeva intorno a lui. Il signor Bingley e Jane stavano in disparte dal resto del gruppo, parlando soltanto tra loro. Elizabeth mantenne un silenzio altrettanto risoluto di quello della signora Hurst o della signorina Bingley; persino Lydia era troppo stanca per dire altro che occasionalmente esclamare: “Dio mio, quanto sono stanca!”, accompagnando queste parole da un sonoro sbadiglio.
-
-Quando finalmente si alzarono per congedarsi, la signora Bennet fu estremamente gentile nella sua [[concepts/hope|speranza]] di rivedere presto tutta la famiglia a Longbourn; e si rivolse in particolare al signor Bingley, assicurandogli quanto sarebbero stati felici se avesse partecipato a una cena in famiglia con loro in qualsiasi [[motifs/time|momento]], senza bisogno di un invito formale. Il signor Bingley fu molto grato e si impegnò subito ad approfittare della prima occasione possibile per andarla a trovare al suo ritorno da [[settings/london|)Londra]], dove era costretto a recarsi il giorno seguente per un breve periodo.
-
-La signora Bennet era assolutamente soddisfatta; e lasciò la casa con la piacevole convinzione che, tenendo conto delle necessarie preparazioni per l’insediamento, le nuove carrozze e i vestiti da sposa, sua figlia sarebbe senza dubbio sistemata a Netherfield entro tre o quattro mesi. Pensava con altrettanta certezza che anche un’altra sua figlia si sarebbe sposata con il signor Collins, e ne provava una notevole gioia, sebbene non uguale. Elizabeth era la meno cara a suo cuore di tutte le sue figlie; e sebbene quell’uomo e quel matrimonio fossero più che adeguati per _lei_, il valore di entrambi veniva oscurato da quello del signor Bingley e da Netherfield.
-
-
-
-Illustrazione:
-
-“Per assicurarvelo con il linguaggio più appassionato possibile…”
 
 
 
@@ -6395,60 +4825,6 @@ not be mistaken for the affectation and coquetry of an elegant female.
 [Illustration]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XIX.
-
-Illustrazione
-
-Il giorno seguente si aprì una nuova fase a Longbourn. Il signor Collins fece la sua dichiarazione in modo formale. Avendo deciso di farlo senza perdere tempo, poiché il suo congedo durava soltanto fino al sabato successivo, e non provando alcun timore che ciò potesse causargli disagio anche in quel momento, procedette in modo molto ordinato, seguendo tutte le formalità che riteneva fossero necessarie. Dopo aver trovato la signora Bennet, Elizabeth e una delle ragazze più giovani insieme, poco dopo colazione, si rivolse alla madre con queste parole:
-
-“Posso sperare, signora, che voi vi interessiate alla vostra bella figlia Elizabeth, quando chiederò l’onore di un colloquio privato con lei questa mattina?”
-
-Prima ancora che Elizabeth avesse il tempo di fare altro che arrossire per la sorpresa, la signora Bennet rispose immediatamente:–
-
-“Oh cara! Sì, certamente. Sono sicura che Lizzy sarà molto felice. Sono sicura che non avrà obiezioni. Vieni, Kitty, voglio che tu vada di sopra.” E, raccogliendo i suoi lavori, stava per andarsene quando Elizabeth la chiamò.
-
-“Carissima signora, non andate via. La prego, non andate. Il signor Collins deve scusarmi. Non ha nulla da dirmi che qualcun altro non debba sentire. Io me ne andrò comunque.”
-
-“No, no, sciocchezze, Lizzy. I desidero che tu rimanga dove sei.” E quando Elizabeth, con espressioni di fastidio ed imbarazzo, sembrò sul punto di andarsene, aggiunse: “Lizzy, insisto affinché tu resti e ascolti il signor Collins.”
-
-Elizabeth non avrebbe opposto alcuna obiezione a un tale ordine; e dopo un attimo di riflessione, si rese conto anche lei che sarebbe stato più saggio risolvere la questione il prima possibile e in modo il più silenzioso possibile. Così si rimise a sedere e cercò di nascondere, con un continuo impego, i sentimenti contrastanti che provava tra angoscia e distrazione. La signora Bennet e Kitty se ne andarono, e non appena loro furono lontane, il signor Collins iniziò.
-
-“Credetemi, cara signorina Elizabeth: la vostra modestia, lontano dall’esservi d’intralcio, aggiunge anzi valore alle vostre altre qualità. Sareste stata meno affascinante ai miei occhi se non ci fosse questa leggera riluttanza da parte vostra; ma permettetemi di assicurarvi che ho l’autorizzazione della vostra rispettabile madre per parlarvi in questo modo. Non potete certo [[concepts/doubt|dubitare]] dello scopo delle mie parole, per quanto la vostra naturale delicatezza possa spingervi a nasconderlo; i miei sentimenti sono stati troppo evidenti per essere fraintesi. Appena entrato in questa casa, vi ho riconosciuta come la compagna della mia vita futura. Ma prima che le mie emozioni mi portino a prendere decisioni affrettate al riguardo, forse sarà opportuno spiegarvi i motivi per cui desidero sposarmi, e soprattutto il motivo per cui sono venuto in Hertfordshire con l’intenzione di scegliermi una moglie, come infatti ho fatto.”
-
-L’idea che il signor Collins, con tutta la sua solenne compostezza, potesse essere sopraffatto dai propri sentimenti fece ridere Elizabeth così tanto che non riuscì nemmeno a sfruttare il breve momento di pausa che lui le aveva concesso per cercare di fermarlo; e lui continuò.
-
-“I motivi per cui desidero sposarmi sono, innanzitutto, che ritengo sia giusto che ogni clérigo in condizioni economiche agiate (come me) dia l’esempio del matrimonio nella propria parrocchia; in secondo luogo, sono convinto che questo aumenterà notevolmente la mia felicità; e, terzo – cosa forse avrei dovuto menzionare prima – si tratta anche del consiglio esplicito della nobile signora che ho l’onore di chiamare mia protettrice. Lei stessa mi ha espresso due volte il suo parere su questo argomento (senza nemmeno che io glielo chiedessi!); ed è stato proprio sabato sera, mentre giocavamo a quadriglia e la signora Jenkinson sistemava lo sgabello della signorina De Bourgh, che lei mi disse: ‘Signor Collins, deve sposarsi. Un clérigo come lei deve assolutamente sposarsi. Scegliate bene, scegliete una donna gentile, per il mio bene e anche per il vostro; che sia una persona attiva, capace di gestire con parsimonia un piccolo reddito. Questo è il mio consiglio. Trovate questa donna il prima possibile, portatela a Hunsford e io verrò a farle visita.’ Permettetemi inoltre di sottolineare, mia cara cugina, che considero l’attenzione e la gentilezza della signora Catherine de Bourgh tra i maggiori vantaggi che posso offrirvi. I suoi modi sono davvero incomparabili; e credo che il vostro spirito e la vostra vivacità possano piacerle, soprattutto se abbinati al rispetto e alla compostezza che il suo rango richiede inevitabilmente. Ecco quindi i motivi generali che mi spingono a favore del matrimonio. Resta da spiegare perché ho scelto Longbourn invece della mia zona d’origine, dove sono sicuro esistano molte giovani donne amabili. Ma il fatto è che, essendo io l’erede di questa proprietà dopo la morte di vostro onorevole padre (che tuttavia potrebbe vivere ancora molti anni), non avrei potuto accontentarmi se non scegliendo una moglie tra le sue figlie, in modo che la loro perdita fosse il più ridotta possibile quando si verifichasse quell’evento tragico, il quale, come ho già detto, potrebbe non accadere per molti anni. Questo è stato il mio motivo, mia cara cugina, e spero che questo non diminuisca affatto la stima che avete per me. Ora non mi resta altro da fare se non assicurarvi con tutto il fervore possibile dell’intensità dei miei sentimenti. Per quanto riguarda la fortuna, non ne ho alcun bisogno, e non chiederò nulla del genere a vostro padre, poiché so bene che non potrebbe accontentarmi; inoltre, mille sterline annue al 4%, che non diventeranno vostre fino alla morte di vostra madre, sono tutto ciò a cui avrete mai diritto. Su questo punto, quindi, rimarrò sempre in silenzio, e potete essere certa che nessuna accusa ingiusta uscirà dalle mie labbra quando saremo sposati.”
-
-Era assolutamente necessario interromperlo in quel momento.
-
-“Siete troppo affrettato, signore,” gridò lei. “Dimenticate che non ho ancora dato alcuna risposta. Lasciate che lo faccia senza ulteriori perdite di [[motifs/time|tempo]]. Accettate le mie ringraziamenti per il complimento che mi state rivolgendo. Apprezzo molto l’[[concepts/honour|onore]] delle vostre proposte, ma è impossibile per me accettarle.”
-
-“Ora non è certo il momento per imparare cose del genere,” rispose il signor Collins, facendo un gesto formale con la mano, “che sia consuetudine tra le giovani donne rifiutare le proposte dell’uomo che in realtà intendono accettare non appena queste vengono fatte per la prima volta; e che a volte il rifiuto si ripeta anche una seconda o addirittura una terza volta. Pertanto, nulla mi scoraggia per ciò che avete appena detto, e spero di potervi portare all’altare molto presto.”
-
-“Per la mia parola, signore,” esclamò Elizabeth, “la vostra [[concepts/hope|speranza]] è davvero straordinaria, considerando ciò che ho detto. Vi assicuro che non sono una di quelle giovani donne (se ne esistono davvero) così audaci da rischiare la propria felicità nella speranza di essere chieste una seconda volta. Rifiuto seriamente. Non potreste rendermi felice, e sono convinta di essere l’ultima donna al mondo che potrebbe rendervi felici. Anzi, se la vostra amica Lady Catherine mi conoscesse, sono certa che ritenerebbe che non sia affatto adatta a questa situazione.”
-
-“Se solo fosse certo che Lady Catherine la pensasse così,” disse il signor Collins con grande serietà, “ma non riesco a immaginare che Sua Signoria possa disapprovarti in alcun modo. E puoi essere sicuro che, quando avrò l’onore di rivederla, parlerò delle tue qualità come la modestia, l’economia e altre virtù amabili.”
-
-“Infatti, signor Collins, ogni lode per me sarebbe inutile. Dovete permettermi di giudicare da sola e avere la gentilezza di credere a ciò che dico. Vi auguro molta felicità e ricchezza; rifiutando la vostra proposta, faccio tutto il possibile per evitare che le cose vadano diversamente. Offrendomi questa opportunità, avete sicuramente tenuto conto delle delicatezze dei vostri sentimenti riguardo alla mia famiglia, e potrete quindi prendervi possesso della tenuta di Longbourn non appena essa passerà in vostra proprietà, senza alcun rimorso. Pertanto, questa questione può essere considerata definitivamente risolta.” E, alzandosi mentre parlava così, stava per lasciare la stanza, se non fosse stato per le parole di signor Collins.
-
-“Quando mi darò l’onore di parlarti ancora sull’argomento, spero di ricevere una risposta più favorevole di quella che mi hai dato finora; anche se per ora non ti accuso affatto di crudeltà, poiché so bene che rifiutare un uomo al primo approccio sia una consuetudine consolidata nel vostro sesso. E forse, in questo momento stesso, hai detto qualcosa proprio per incoraggiarmi nella mia proposta, nel rispetto della vera delicatezza del carattere femminile.”
-
-“Davvero, signor Collins,” esclamò Elizabeth con un certo calore, “mi confondete terribilmente. Se ciò che ho detto finora può essere interpretato da voi come un incoraggiamento, non so proprio come esprimere il mio rifiuto in modo tale da convincervi che si tratta effettivamente di questo.”
-
-“Devo permettermi di lusingarmi un po’, mia cara cugina: il vostro rifiuto delle mie proposte non può che essere dettato da parole. Le ragioni per cui lo credo sono queste: non mi sembra affatto che la mia mano sia indegna della vostra accettazione, né che le condizioni che posso offrirvi siano meno desiderabili. La mia situazione sociale, i miei legami con la famiglia De Bourgh e il mio rapporto con la vostra stessa famiglia rappresentano fattori molto a mio favore; inoltre, dovreste tenere presente che, nonostante le vostre molteplici attrattive, non è affatto certo che un’altra proposta di [[motifs/marriage|matrimonio]] vi venga mai fatta. La vostra dote, purtroppo, è così modesta da poter annullare completamente gli effetti della vostra bellezza e delle vostre qualità amabili. Pertanto, poiché devo concludere che il vostro rifiuto non sia serio, preferisco attribuirlo al desiderio di alimentare il mio [[motifs/love|amore]] attraverso la suspense, secondo l’usanza comune delle donne eleganti.”
-
-“Vi assicuro sinceramente, signore, che non ho alcuna intenzione di mostrare quel tipo di eleganza che consiste nel tormentare un uomo rispettabile. Preferirei essere ritenuta sincera piuttosto che ricevere complimenti falsi. Vi ringrazio ancora una volta per l’[[concepts/honour|onore]] che mi avete fatto con le vostre proposte, ma accettarle è assolutamente impossibile: i miei sentimenti me lo vietano in ogni modo. Posso essere più chiara? Non consideratemi ora come una donna elegante intenzionata a darvi fastidio, ma come una persona razionale che parla la [[concepts/truth|verità]] dal profondo del cuore.”
-
-“Sei davvero incantevole in ogni modo!”, esclamò lui con un tono di goffa galanteria; “e sono convinto che, se approvate dall’autorità esplicita dei tuoi eccellenti genitori, le mie proposte saranno sicuramente accettate.”
-
-Di fronte a una tale perseveranza nella deliberata [[concepts/self-deception|autoinganno]], Elizabeth non rispondeva nulla e si ritirava immediatamente in [[motifs/silence|silenzio]]; era decisa che, se lui avesse continuato a considerare i suoi ripetuti rifiuti come incoraggiamenti lusinghieri, avrebbe chiesto aiuto a suo padre, il cui rifiuto sarebbe stato espresso in modo decisivo e chiaro, e il cui comportamento, almeno, non poteva essere scambiato per le affettazioni o la civetteria di una donna elegante.
-
-
-
-Illustrazione
-
 
 
 <span class="atom-split" data-atom="chapter_20" data-title="Pride and Prejudice — Chapter 20" data-chapter="Chapter 20" data-kind="chapter" data-tags="archetype/child,motif/love,motif/marriage,motif/silence,motif/time,motif/well,motif/window,concept/doubt,concept/fear,concept/hope,concept/melancholy,concept/pride,concept/resignation,concept/solitude,character/charlotte_lucas"></span>
@@ -6648,90 +5024,6 @@ has been at all reprehensible, I here beg leave to apologize.”
 
 [Illustration]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XX.
-
-Illustrazione
-
-A Mr. Collins non fu concesso molto tempo per contemplare in silenzio il successo della sua [[motifs/love|storia d’amore]]; infatti, la signora Bennet, che aveva indugiato nell’atrio aspettando la fine della conversazione, non appena vide Elizabeth aprire la porta e dirigersi rapidamente verso le scale, entrò subito nella sala da pranzo e li congratulò entrambi con calore per l’imminente unione. Mr. Collins accolse queste felicitazioni con uguale gioia e poi iniziò a raccontare i dettagli dell’incontro, convinto di avere tutte le ragioni di essere soddisfatto: il rifiuto categorico ricevuto da sua cugina derivava certamente dalla sua timidezza e dalla genuina delicatezza del suo carattere.
-
-Tuttavia, queste informazioni sorpresero la signora Bennet: le sarebbe piaciuto molto credere che sua figlia avesse voluto incoraggiarlo protestando contro le sue proposte, ma non osava crederci e non poté fare a meno di dirlo.
-
-“Ma si fidi, signor Collins,” aggiunse lei, “che Lizzy verrà fatta ragionare. Ne parlerò direttamente con lei. È una ragazza molto testarda e sciocca, e non conosce i propri interessi; ma io _farò_ sì che li conosca.”
-
-“Perdonatemi se vi interrompo, signora,” esclamò il signor Collins; “ma se lei è davvero testarda e sciocca, non so se possa essere davvero una moglie desiderabile per un uomo nella mia situazione, che naturalmente cerca la felicità attraverso lo [[motifs/marriage|matrimonio]]. Pertanto, se insiste nel rifiutare le mie proposte, forse sarebbe meglio non costringerla ad accettarmi, perché, se è soggetta a simili difetti di carattere, probabilmente non potrebbe contribuire molto alla mia felicità.”
-
-“Signore, mi state completamente fraintendendo,” disse la signora Bennet, allarmata. “Lizzy è solo testarda in queste cose. In tutto il resto, è una ragazza altrettanto gentile e buona di cuore come chiunque altro. Andrò subito dal signor Bennet, e sono sicura che risolveremo la questione molto presto.”
-
-Non gli diede nemmeno il tempo di rispondere; si affrettò immediatamente verso suo marito e, entrando nella biblioteca, gridò:
-
-“Oh, signor Bennet, vi cercano immediatamente; tutti siamo nel caos. Dovete venire a far sì che Lizzy sposi il signor Collins, perché lei giura che non lo sposerà; e se non vi affrettate, lui cambierà idea e non sposerà _lei_.”
-
-Quando lei entrò, il signor Bennet alzò lo sguardo dal libro e lo fissò sul suo viso con un’espressione calma e indifferente, che non cambiò minimamente dopo la sua comunicazione.
-
-“Non ho il piacere di capirvi,” disse lui quando lei ebbe finito il suo discorso. “Di cosa state parlando?”
-
-“Di Mr. Collins e Lizzy. Lizzy dichiara che non vuole avere Mr. Collins, e Mr. Collins inizia a dire che non vuole avere Lizzy.”
-
-“E cosa dovrei fare in questa situazione? Sembra davvero senza speranza…”
-
-"Parla tu stesso con Lizzy al riguardo. Dille che insisti affinché lo sposi."
-
-"Chiamatela qui; ascolterà il mio parere."
-
-La signora Bennet suonò il campanello e la signorina Elizabeth fu chiamata in biblioteca.
-
-“Vieni qui, [[archetypes/child|bambino]],” gridò suo padre non appena la vide apparire. “Ti ho chiamato per una questione importante. So che il signor Collins ti ha fatto un’offerta di [[motifs/marriage|matrimonio]]. È vero?”
-
-Elizabeth rispose che era così.
-
-“Molto bene. E allora hai rifiutato questa proposta di [[motifs/marriage|matrimonio]]?”
-
-“Sì, signore.”
-
-“Molto bene. Ora arriviamo al punto. Tua madre insiste affinché tu lo accetti, non è vero, signora Bennet?”
-
-“Sì, altrimenti non la rivedrò mai più.”
-
-“Un'alternativa sfortunata ti attende, Elizabeth. Da questo momento in poi dovrai considerarti una straniera per uno dei tuoi genitori. Tua madre non ti rivedrà mai più se _non_ sposi il signor Collins, e io non ti rivedrò mai più se _lo sposi_.”
-
-Elizabeth non poté fare a meno di sorridere di fronte a una conclusione del genere, partita da un inizio del tutto diverso; ma la signora Bennet, che si era convinta che suo marito considerasse la situazione esattamente come lei desiderava, fu estremamente delusa.
-
-“Cosa intendete dire, signor Bennet, parlando in questo modo? Mi avevate promesso di _insistere_ affinché lei lo sposasse.”
-
-“Mia cara,” rispose suo marito, “ho due piccole richieste da farti. Prima di tutto, vorrei che mi permettessi di utilizzare liberamente la mia intelligenza in questa circostanza; in secondo luogo, vorrei poter usare la mia stanza. Sarei felice di avere tutta la biblioteca a mia disposizione il prima possibile.”
-
-Ancora no, tuttavia, nonostante la delusione nei confronti di suo marito, la signora Bennet non desistette dal suo intento. Parlò più e più volte con Elizabeth, cercando di persuaderla o minacciarla a seconda delle circostanze. Tentò in tutti i modi di convincere Jane ad appoggiare le sue richieste, ma Jane, con la massima gentilezza possibile, rifiutò di intervenire; mentre Elizabeth rispondeva alle sue insistenze, a volte con sincera serietà e altre volte con scherzosa allegria. Sebbene il suo atteggiamento cambiasse spesso, la sua determinazione rimase immutata.
-
-Nel frattempo, il signor Collins rifletteva in [[concepts/solitude|solitudine]] su quanto era accaduto. Si considerava troppo [[motifs/well|buono]] di cuore per capire quale potesse essere il motivo per cui sua cugina lo avesse rifiutato; e sebbene la sua [[concepts/pride|orgoglio]] fosse ferito, non provava alcun altro dolore. Il suo affetto per lei era del tutto immaginario; inoltre, il pensiero che potesse meritare le rimproveri di sua madre gli impediva di provare qualsiasi rimorso.
-
-Mentre la famiglia era immersa in questa confusione, [[characters/charlotte-lucas|Charlotte Lucas]] venne a trascorrere la giornata con loro. Fu accolta nell’ingresso da Lydia, che, correndole incontro, le sussurrò: “Sono felice che tu sia arrivata, perché qui c’è davvero tanto divertimento! Cosa pensi che sia successo stamattina? Il signor Collins ha fatto una proposta a Lizzy, ma lei l’ha rifiutata.”
-
-Illustrazione:
-
-"#Entrarono nella sala da pranzo"
-
-Charlotte non ebbe quasi il tempo di rispondere che arrivò anche Kitty, venuta a portare la stessa notizia. Non appena entrarono in sala da pranzo, dove la signora Bennet era sola, anche lei iniziò ad affrontare l’argomento, chiedendo alla signorina Lucas di mostrare compassione e di convincere la sua amica Lizzy a conformarsi ai desideri della sua famiglia. “Per favore, cara signorina Lucas,” aggiunse con un tono [[concepts/melancholy|melancolico]], “perché nessuno è dalla mia parte, nessuno mi sostiene; vengo trattata crudelmente, nessuno si preoccupa dei miei poveri nervi.”
-
-La risposta di Charlotte fu interrotta dall’arrivo di Jane ed Elizabeth.
-
-“Ah, eccola che arriva,” continuò la signora Bennet, “con quell’aria di indifferenza, senza curarsi affatto di noi, come se fossimo a York, purché possa fare a modo suo. Ma ti dico una cosa, Miss Lizzy: se continui a rifiutare ogni proposta di [[motifs/marriage|matrimonio]] in questo modo, non troverai mai un marito. E sono sicura che non so chi si occuperà di te quando tuo padre morirà. _Io_ non potrò più mantenerti. Quindi ti avviso: da oggi stesso ho finito con te. Te l’avevo detto in biblioteca, ricordi? Che non avrei mai più parlato con te. E manterrò la mia parola. Non provo alcun piacere a parlare con figli ingrati. Anzi, in realtà non provo molto piacere a parlare con nessuno. Le persone che soffrono come me di disturbi nervosi difficilmente hanno voglia di parlare. Nessuno può immaginare quanto soffro. Ma è sempre così: coloro che non si lamentano mai non suscitano pietà.”
-
-Le sue figlie ascoltavano in [[motifs/silence|silenzio]] queste parole; capivano che qualsiasi tentativo di ragionare con lei o di calmarla avrebbe solo aumentato la sua irritazione. Continuò quindi a parlare senza alcuna interruzione da parte loro, fino a quando non arrivò il signor Collins, che entrò con un’aria più solenne del solito. Non appena lo vide, disse alle ragazze:
-
-“Ora insisto davvero: voi tutti dovete tenere la bocca chiusa e lasciare che il signor Collins e io possiamo parlare un po’ da soli.”
-
-Elizabeth uscì silenziosamente dalla stanza; Jane e Kitty la seguirono, ma Lydia rimase ferma sul suo posto, decisa ad ascoltare tutto ciò che poteva; mentre Charlotte, prima trattenuta dalle cortesie di Mr. Collins, il cui interesse per lei e tutta la sua famiglia era davvero minuzioso, e poi spinta da una certa curiosità, si accontentò di avvicinarsi alla [[motifs/window|finestra]] e fingere di non sentire nulla. Con voce triste, la signora Bennet iniziò così la conversazione prevista:–
-
-“Ah, signor Collins!”
-
-“Mia cara signora,” rispose lui, “lasciate che per sempre tacciamo su questo argomento. Non oso certo,” proseguì poi, con voce che rivelava il suo dispiacere, “ritenere offensivo il comportamento di vostra figlia. La [[concepts/resignation|resignazione]] ai mali inevitabili è il dovere di tutti noi; soprattutto di un giovane che, come me, ha avuto la fortuna di ottenere una posizione elevata in giovane età. E credo di essere davvero rassegnato. Forse questa rassegnazione è ancora più profonda perché, se mia cugina mi avesse onorato con la sua mano, forse non sarei stato così sicuro della mia felicità. Ho spesso osservato che la [[concepts/resignation|resignazione]] diventa davvero perfetta quando la benedizione negata inizia a perdere valore ai nostri occhi. Non vorrete certo considerare che io manchi di rispetto verso la vostra famiglia, mia cara signora, ritirando le mie pretese senza prima chiedervi di intervenire a mio favore. Forse il mio comportamento può sembrare inappropriato per aver accettato la rifiutazione direttamente dalle labbra di vostra figlia invece che da voi stessa; ma tutti noi possiamo commettere errori. Sono certo che ho agito con le migliori intenzioni. Il mio obiettivo era trovare una compagna adatta per me, tenendo sempre a mente i vantaggi per tutta la vostra famiglia. E se il mio modo di comportarmi è stato in qualche modo criticabile, vi chiedo scusa.”
-
-
-
-Illustrazione
 
 
 
@@ -6955,76 +5247,6 @@ care to have two full courses.
 [Illustration]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XXI.
-
-Illustrazione
-
-La discussione riguardo alla proposta del signor Collins era ormai quasi giunta al termine; Elizabeth doveva semplicemente sopportare i sentimenti sgradevoli che ne derivavano, nonché occasionalmente alcune allusioni irritanti da parte di sua madre. Per quanto riguarda il signor Collins stesso, i suoi sentimenti si manifestavano principalmente non attraverso imbarazzo o tristezza, né cercando di evitarla, ma attraverso un comportamento freddo e un silenzio pieno di risentimento. Raramente le parlava; inoltre, l’attenzione che prima dedicava a lei veniva ora rivolta alla signorina Lucas, la cui gentilezza nell’ascoltarlo rappresentava per tutti loro un vero sollievo, soprattutto per la sua amica.
-
-Il giorno seguente non portò alcun miglioramento nello umore né nella salute cattiva della signora Bennet. Anche il signor Collins era ancora nel medesimo stato di furiosa [[concepts/pride|orgoglio]]. Elizabeth aveva sperato che il suo risentimento potesse accorciare la durata della sua visita, ma non sembrava affatto che questo influenzasse i suoi piani. Aveva deciso di partire sabato e intendeva comunque rimanere fino a quel giorno.
-
-Dopo colazione, le ragazze si diressero verso Meryton per chiedere se il signor Wickham fosse tornato e per lamentare la sua assenza al ballo di Netherfield. Lui le raggiunse non appena entrarono in città e le accompagnò fino a casa della loro zia, dove il suo rammarico, l’irritazione e la preoccupazione di tutti furono ampiamente discussi. Tuttavia, Elizabeth seppe da lui stesso che la necessità della sua assenza era stata _imposta_ da lui stesso.
-
-“Ho scoperto,” disse, “che, man mano che il [[motifs/time|tempo]] si avvicinava, sarebbe stato meglio per me evitare di incontrare il signor Darcy; stare nella stessa stanza, partecipare alle stesse attività con lui per così molte ore consecutive potrebbe rivelarsi qualcosa che non riesco a sopportare, e potrebbero verificarsi situazioni sgradevoli, non solo per me.”
-
-Lei approvò molto la sua pazienza; e ebbero il tempo di discuterne ampiamente, scambiandosi tutti i complimenti che si possono rivolgere in modo cortese l’uno all’altro, mentre Wickham e un altro ufficiale li accompagnavano fino a Longbourn. Durante il cammino, lui le prestò particolare attenzione. Il fatto che li accompagnasse presentava un doppio vantaggio: lei ne percepiva tutta la cortesia che comportava; inoltre, rappresentava l’occasione perfetta per presentarlo ai suoi genitori.
-
-Illustrazione: “Tornato indietro con loro”
-
-Copyright 1894 di George Allen.
-
-Poco dopo il loro ritorno, una lettera fu consegnata alla signorina Bennet; proveniva da Netherfield ed fu aperta immediatamente. L’invito conteneva un foglio di carta elegante e finemente stampata, interamente scritto con la bella grafia di una donna; Elizabeth notò subito il cambiamento nell’espressione della sorella mentre lo leggeva, e vide che si soffermava con attenzione su alcune parti particolari. Jane si riprese in fretta, mise via la lettera e cercò di unirsi alle conversazioni con il suo solito buon umore; ma Elizabeth provava una certa ansia riguardo a quel argomento, che le impediva persino di prestare attenzione a Wickham. Non appena lui e il suo compagno se ne furono andati, Jane la invitò ad accompagnarla al piano di sopra. Una volta nella loro stanza, Jane estrasse la lettera e disse: “È di Caroline Bingley. Quello che contiene mi ha davvero sorpresa molto. Tutto il gruppo è già partito da Netherfield e si sta dirigendo in città; non hanno alcuna intenzione di tornare indietro. Ascolterai cosa dice.”
-
-Poi lesse ad alta voce la prima frase, che riportava l’informazione secondo cui avevano appena deciso di seguire il fratello direttamente in città, e che quel giorno avrebbero pranzato in Grosvenor Street, dove il signor Hurst possedeva una casa. La frase successiva recitava: “Non pretendo di rimpiangere nulla di ciò che lascerò nell’Hertfordshire, tranne la tua compagnia, mio carissimo amico; ma speriamo che in futuro possiamo godere nuovamente di quei piacevoli rapporti che abbiamo condiviso finora, e nel frattempo possiamo alleviare il dolore della separazione attraverso una corrispondenza frequente e sincera. Mi affido a te per questo.” A queste parole altisonanti, Elizabeth rispose con totale indifferenza; e sebbene la loro improvvisa partenza l’avesse sorpresa, non vedeva nulla di davvero lamentevole in essa: non si poteva certo pensare che la loro assenza da Netherfield impedisse al signor Bingley di trovarsi lì; e riguardo alla perdita della loro compagnia, era convinta che Jane avrebbe presto smesso di considerarla un ostacolo per godere della sua presenza.
-
-“È sfortunato,” disse lei dopo una breve pausa, “che tu non possa rivedere i tuoi amici prima che lascino il paese. Ma forse possiamo [[concepts/hope|sperare]] che il periodo di felicità futuro, a cui Miss Bingley aspira, arrivi prima del previsto, e che l’incantevole rapporto che avete avuto come amici possa essere rinnovato, ora con ancora maggiore soddisfazione, come rapporto tra sorelle. Mr. Bingley non rimarrà trattenuto a [[settings/london|Londra]] da loro.”
-
-“Caroline afferma decisamente che nessuno del gruppo tornerà nell’Hertfordshire in questo [[motifs/winter|inverno]]. Ve lo leggerò ad alta voce.”
-
-“Quando mio fratello ci ha lasciati ieri, pensava che l’affare che lo aveva portato a [[settings/london|Londra]] potesse essere concluso in tre o quattro giorni; ma poiché siamo certi che non sarà così, e allo stesso tempo convinti che quando Charles arriverà in città non avrà alcuna fretta di ripartire, abbiamo deciso di seguirlo lì, affinché non debba trascorrere i suoi momenti liberi in un hotel scomodo. Molti dei miei conoscenti sono già lì per l’[[motifs/winter|inverno]]: vorrei tanto che anche tu, mio carissimo amico, avessi intenzione di unirti a loro, ma di questo [[concepts/despair|spero poco]]. Spero sinceramente che il tuo Natale nell’Hertfordshire sia pieno delle gioie che questa stagione solitamente porta, e che i tuoi ammiratori siano così numerosi da farti dimenticare la mancanza di quei tre di cui ti priviremo.”
-
-“È evidente da questo,” aggiunse Jane, “che non tornerà più quest’[[motifs/winter|inverno]].”
-
-“È evidente che la signorina Bingley non intenda affatto che lui _debba_ farlo.”
-
-“Perché dovresti pensare così? Deve essere stata una sua scelta; lui è il padrone di se stesso. Ma tu non sai _tutto_. Ti leggerò quel passaggio che mi ferisce particolarmente. Non avrò alcuna riserva con te. ‘Il signor Darcy non vede l’ora di rivedere sua sorella; e, a dire la verità, nemmeno noi siamo meno desiderosi di incontrarla di nuovo. Davvero, non credo che Georgiana Darcy abbia un pari per bellezza, eleganza e cultura. L’affetto che suscita in me e in Louisa diventa ancora più profondo al pensiero che, forse, in futuro diventerà nostra sorella. Non so se ti abbia mai parlato dei miei sentimenti su questo argomento, ma non partirò da qui senza condividerli con te. E spero che non li considererai irragionevoli. Mio fratello la ammira molto già; ora avrà molte occasioni per incontrarla in modo molto intimo. Tutti i suoi parenti desiderano questa unione tanto quanto lui stesso. E, credo, l’affetto che provo per Charles non mi inganna, quando dico che è davvero il tipo di uomo capace di conquistare il cuore di qualsiasi donna. Con tutte queste circostanze a favore di una relazione. Non sbaglio, cara Jane, nell’augurarmi un evento che porterà felicità a tante persone?’ Cosa ne pensi di questa frase, mia cara Lizzy?” disse Jane, finendo di leggere. “Non è abbastanza chiara? Non dichiara esplicitamente che Caroline non si aspetta né desidera che io diventi sua sorella. Che è completamente convinta dell’indifferenza di suo fratello. E che, se sospetta la natura dei miei sentimenti per lui, vuole soltanto mettermi in guardia. Esiste un’altra interpretazione possibile di questo testo?”
-
-“Sì, è possibile; il mio caso è completamente diverso. Vuoi ascoltarlo?”
-
-Con grande piacere.
-
-“Te lo spiego in poche parole. La signorina Bingley si rende conto che suo fratello è [[motifs/love|innamorato]] di te e vuole che sposi la signorina Darcy. Lo segue in città nella speranza di trattenerlo lì, e cerca di convincerti che lui non abbia interesse per te.”
-
-Jane scosse la testa.
-
-“Davvero, Jane, dovresti credermi. Nessuno che vi abbia visti insieme può [[concepts/doubt|dubitare]] del suo affetto; sono sicura che nemmeno la signorina Bingley possa farlo: non è certo una persona così ingenua. Se avesse notato anche solo la metà dell’[[motifs/love|amore]] che il signor Darcy prova per lei, avrebbe già ordinato i suoi abiti da sposa. Ma la situazione è questa: non siamo abbastanza ricchi né nobili per loro; e lei desidera ancora di più far sposare sua sorella con il signor Darcy, pensando che, una volta avvenuto un primo matrimonio tra parenti, le sarà più facile ottenere anche il secondo. C’è sicuramente del calcolo nella sua decisione, e oserei dire che potrebbe riuscire, se solo la signorina de Bourgh non fosse di mezzo. Ma, mia cara Jane, non puoi davvero pensare che, solo perché la signorina Bingley ti dice che suo fratello ammira molto la signorina Darcy, lui abbia anche solo un minimo meno di stima per i tuoi meriti rispetto a quando ti ha lasciata martedì. O che lei possa convincerlo che, invece di essere [[motifs/love|innamorato]] di te, sia davvero molto innamorato della sua amica.”
-
-“Se pensassimo entrambi allo stesso modo riguardo a Miss Bingley,” rispose Jane, “la tua descrizione di tutta questa situazione potrebbe rendermi molto più tranquilla. Ma so che le basi su cui si fonda tutto ciò sono ingiuste. Caroline non è capace di ingannare deliberatamente nessuno; e l’unica cosa che posso [[concepts/hope|sperare]] in questo caso è che sia lei stessa ad essere stata ingannata.”
-
-“Esatto. Non avresti potuto avere un’idea più felice, visto che non troverai conforto nella mia: credi pure che sia stata ingannata, senza esitazione. Ora hai adempiuto al tuo dovere verso di lei e non devi più preoccuparti.”
-
-“Ma, mia cara sorella, potrei davvero essere felice, anche ammettendo il meglio, accettando un uomo le cui sorelle e amici desiderano tutti che si sposi altrove?”
-
-“Devi decidere da sola,” disse Elizabeth; “e se, dopo una seria riflessione, ritieni che la sofferenza di non obbedire alle sue due sorelle sia maggiore della felicità di diventare sua moglie, ti consiglio assolutamente di rifiutarlo.”
-
-“Come puoi parlare in questo modo?” disse Jane, sorridendo debolmente; “devi sapere che, anche se mi addolorasse molto il loro disappunto, non esiterei mai.”
-
-“Non pensavo che lo avresti fatto; e dato questo, non posso provare molta compassione per la tua situazione.”
-
-“Ma se non dovesse tornare più in questo [[motifs/winter|inverno]], la mia scelta non sarà mai necessaria. In sei mesi possono accadere mille cose.”
-
-L’idea che lui non tornasse più veniva considerata con il massimo disprezzo da Elizabeth. Le sembrava soltanto un’espressione dei desideri interessati di Caroline; e non poteva nemmeno per un istante pensare che tali desideri, per quanto espliciti o abilmente espressi, potessero influenzare un giovane così completamente indipendente da tutti.
-
-Lei spiegò a sua sorella, con la massima chiarezza possibile, ciò che provava in merito a quella questione, e presto ebbe il piacere di constatare l’effetto positivo delle sue parole. Il carattere di Jane non era scoraggiato; gradualmente iniziò ad [[concepts/hope|sperare]], anche se a volte il dubbio riguardo ai sentimenti di Bingley sopraffaceva quella speranza, impedendole di credere che lui sarebbe tornato a Netherfield e avrebbe esaudito ogni suo desiderio.
-
-Convinsero tutti che la signora Bennet dovesse venire a sapere della partenza della famiglia, senza però allarmarsi riguardo al comportamento del gentiluomo; tuttavia anche questa comunicazione parziale le causò grande preoccupazione, e si lamentò amaramente del fatto che le signore decidessero proprio in quel momento di andarsene, mentre stavano diventando sempre più intime tra loro. Dopo averlo rimpianto a lungo, però, trovò conforto nel pensare che il signor Bingley sarebbe presto tornato e avrebbe di nuovo pranzato a Longbourn; alla fine, concluse con la consolazione che, anche se era stato invitato solo a un pasto familiare, si sarebbe assicurata di preparare due portate complete.
-
-
-
-Illustrazione
-
 
 
 <span class="atom-split" data-atom="chapter_22" data-title="Pride and Prejudice — Chapter 22" data-chapter="Chapter 22" data-kind="chapter" data-tags="motif/desire,motif/fire,motif/home,motif/journey,motif/love,motif/marriage,motif/nature,motif/night,motif/time,motif/well,motif/window,concept/friendship,concept/hope,concept/longing,concept/nature,concept/self,concept/wonder,character/elizabeth_bennet"></span>
@@ -7222,66 +5444,6 @@ she had chosen.
 [_Copyright 1894 by George Allen._]]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XXII.
-
-Illustrazione
-
-I Bennet erano stati invitati a cena dai Lucas; e ancora una volta, durante la parte più calda della giornata, la signorina Lucas fu così gentile da ascoltare il signor Collins. Elizabeth ne approfittò per ringraziarla. “Questo lo mantiene di buon umore,” disse, “e sono più in debito con voi di quanto possa esprimere.”
-
-Charlotte assicurò la sua amica di essere molto soddisfatta nel poter essere utile, e che questo le ripagava ampiamente del piccolo sacrificio rappresentato dal tempo che dedicava a tale compito. Questo fu molto gentile da parte sua; ma la gentilezza di Charlotte andò ancora oltre quanto Elizabeth potesse immaginare: il suo scopo era proprio quello di impedire che il signor Collins continuasse a rivolgersi a lei, attirando così su di sé le sue attenzioni. Questa era esattamente la strategia della signorina Lucas; e le circostanze sembravano così favorevoli che, quando si separarono quella sera, lei avrebbe potuto essere quasi certa del successo, se solo il signor Collins non fosse partito così presto da Hertfordshire. Ma in questo modo lei trascurò la natura indipendente e risoluta del suo carattere: infatti, lui riuscì a fuggire dalla casa dei Lucas la mattina seguente con grande astuzia, per correre subito da lei. Era ansioso di evitare che i suoi cugini si accorgessero della sua partenza, convinto che, se lo avessero visto andarsene, avrebbero sicuramente intuito le sue intenzioni; e non voleva che il tentativo venisse conosciuto prima che potesse avere successo, perché, anche se si sentiva abbastanza sicuro – e con ragione, dato l’incoraggiamento ricevuto da Charlotte – rimaneva comunque un po’ diffidente, soprattutto dopo quanto era accaduto mercoledì. Tuttavia, il suo incontro con lei fu di natura estremamente lusinghiera. La signorina Lucas lo vide dalla finestra mentre si avvicinava alla casa e decise immediatamente di incontrarlo per caso nel vicolo. Ma non osava nemmeno sperare che un tale amore e tanta eloquenza lo aspettassero lì.
-
-In così poco [[motifs/time|tempo]] quanto ne permettevano i lunghi discorsi del signor Collins, tutto fu sistemato a loro reciproca soddisfazione; e non appena entrarono in casa, lui le chiese con sincera insistenza di indicargli la data che lo avrebbe reso l’uomo più felice del mondo. Anche se una tale richiesta doveva essere accantonata per il momento, la signorina Lucas non aveva alcuna intenzione di mettere a rischio la sua felicità. La stupidità con cui la [[concepts/nature|natura]] lo aveva dotato impediva certamente che il suo corteggiamento possedesse quel fascino capace di far desiderare a una donna che continuasse; inoltre, la signorina Lucas lo accettava soltanto per il puro e disinteressato [[motifs/desire|desiderio]] di stabilirsi, senza curarsi affatto del tempo necessario per raggiungere questo scopo.
-
-Sir William e Lady Lucas furono immediatamente interpellati per ottenere il loro consenso; esso fu dato con grande gioia e sollecitudine. Le attuali condizioni di Mr. Collins rendevano questa unione particolarmente adatta per loro figlia, alla quale non potevano offrire una grande dote; inoltre, le prospettive future di ricchezza di Mr. Collins erano estremamente promettenti. Lady Lucas iniziò immediatamente a calcolare i pro e i contro della situazione, con un interesse molto maggiore di quanto la questione meritasse.
-
-Illustrazione:
-
-“Tanta [[motifs/love|amore]] ed eloquenza, ”
-
-Copyright 1894 di George Allen.
-
-Era eccitata al pensiero di quanti anni ancora potesse vivere il signor Bennet; inoltre, sir William affermava con certezza che non appena il signor Collins avesse ereditato la tenuta di Longbourn, sarebbe stato molto opportuno che lui e sua moglie si presentassero a St. James’s. In breve, tutta la famiglia era profondamente felice in quell’occasione. Le ragazze più giovani speravano di poter debuttare un anno o due prima del previsto; i ragazzi, invece, erano sollevati dall’angoscia che Charlotte potesse morire zitella. Charlotte stessa era abbastanza serena: aveva ottenuto ciò che desiderava e aveva avuto il tempo di rifletterci sopra. Nel complesso, i suoi pensieri erano soddisfacenti. Certo, il signor Collins non era né sensato né piacevole da frequentare; la sua compagnia risultava noiosa, e il suo interesse per lei doveva essere puramente immaginario. Ma sarebbe comunque diventato suo marito. Senza avere grandi aspettative riguardo agli uomini o al matrimonio, il matrimonio era sempre stato il suo obiettivo: rappresentava l’unica opportunità onorevole per giovani donne ben educate e di modesta condizione. E, anche se non garantiva necessariamente la felicità, era sicuramente il mezzo migliore per evitare la povertà. Ora che aveva ottenuto ciò che desiderava, a ventisette anni, senza mai essere stata particolarmente attraente, si sentiva davvero fortunata. L’unica cosa sgradevole in tutta questa situazione era il fatto che quella notizia avrebbe sicuramente sorpreso Elizabeth Bennet, la cui amicizia le era più cara di qualsiasi altra. Elizabeth si sarebbe chiesta spiegazioni e probabilmente l’avrebbe rimproverata; e, anche se Charlotte non intendeva cambiare idea, i suoi sentimenti ne avrebbero sicuramente sofferto. Decise quindi di informarla personalmente. E così, quando il signor Collins tornò a Longbourn per cena, gli chiese di non menzionare nulla di ciò che era accaduto davanti alla famiglia. Naturalmente lui promise di mantenere il segreto. Ma non fu facile farlo: la curiosità suscitata dalla sua lunga assenza esplose in domande dirette al suo ritorno, e gli ci volle molta astuzia per evitare di rispondere. Nel frattempo, provava anche un grande autocontrollo, perché desiderava ardentemente condividere la notizia della sua felice storia d’amore.
-
-Poiché doveva iniziare il suo [[motifs/journey|Viaggio]] molto presto la mattina seguente e quindi non avrebbe potuto incontrare nessuno della famiglia, la cerimonia di addio ebbe luogo quando le signore si ritirarono per la [[motifs/night|notte]]; la signora Bennet, con grande cortesia e affetto, esprime quanto sarebbero state felici di rivederlo a Longbourn non appena i suoi altri impegni gli avessero permesso di far loro visita.
-
-“Mia cara signora,” rispose lui, “questa invito è particolarmente lusinghiero, perché è proprio ciò che speravo di ricevere; e possiate essere certa che ne approfitterò il prima possibile.”
-
-Erano tutti stupiti; e il signor Bennet, che certamente non desiderava un ritorno così rapido, disse immediatamente:–
-
-“Ma non esiste il rischio che Lady Catherine disapprovi, mio buon signore? È meglio trascurare le proprie relazioni piuttosto che correre il rischio di offendere la propria protettrice.”
-
-“Mio caro signore,” rispose il signor Collins, “sono particolarmente grato per questa gentile avvertenza, e potete essere certo che non compirò un passo così importante senza il consenso di Sua Signoria.”
-
-“Non si può mai essere abbastanza cauti. Rischiare qualsiasi cosa pur di evitare la sua disapprovazione; e se ritieni che il tuo ritorno da noi possa causarle problemi – il che, a mio parere, è molto probabile – rimani tranquillamente a [[motifs/home|casa]] e fida nel fatto che _noi_ non ci offenderemo.”
-
-“Credetemi, mio caro signore, la mia gratitudine è profondamente commossa da una tale attenzione affettuosa; state certo che riceverete presto da me una lettera di ringraziamento per questo, così come per ogni altra dimostrazione della vostra considerazione durante il mio soggiorno in Hertfordshire. Per quanto riguarda le mie care cugine, anche se la mia assenza potrebbe non essere abbastanza lunga da rendere necessario farlo, mi permetto ora di augurare loro salute e felicità, senza escludere mia cugina Elizabeth.”
-
-Con le dovute cortesie, le signore si ritirarono; tutte erano ugualmente sorprese nello scoprire che lui intendeva tornare presto. La signora Bennet pensò che questo significasse che aveva intenzione di fare la corte a una delle sue figlie più giovani, e forse Mary avrebbe potuto essere convinta ad accettarlo. Riteneva che le sue capacità fossero molto superiori a quelle delle altre: nelle sue riflessioni c’era una serietà che spesso le colpiva; e sebbene non fosse affatto intelligente quanto lei, pensava che, incoraggiato a leggere e a migliorarsi grazie al suo esempio, potesse diventare un compagno molto piacevole. Ma la mattina seguente, ogni speranza del genere svanì. Poco dopo colazione, la signorina Lucas venne da Elizabeth e le raccontò quanto accaduto il giorno prima in privato.
-
-La possibilità che il signor Collins si immaginasse di essere [[motifs/love|innamorato]] della sua amica era già venuta in mente a Elizabeth negli ultimi uno o due giorni; ma che Charlotte potesse incoraggiarlo sembrava altrettanto improbabile quanto che lei stessa potesse farlo; perciò la sua sorpresa fu così grande da superare, all’inizio, ogni limite del decoro, e non riuscì a trattenersi dal gridare.
-
-"Promessa a Mr. Collins! Mia cara Charlotte, impossibile!"
-
-L’espressione serena che la signorina Lucas aveva mantenuto mentre raccontava la sua storia lasciò il posto a un momento di confusione quando ricevette una rimprovera così diretta; tuttavia, poiché non si trattava di nulla di più di ciò che si aspettava, riacquistò rapidamente la calma e rispose con tranquillità:
-
-“Perché dovresti sorprenderti, mia cara Eliza? Pensi davvero che sia incredibile che il signor Collins riesca ad ottenere la stima di qualsiasi donna, solo perché non è stato così fortunato da riuscire con te?”
-
-Ma Elizabeth si era ormai ripresa; e, facendo uno sforzo notevole, riuscì a assicurarle, con una certa fermezza, che l’idea di stabilire un legame con lei le risultava molto gradita e che desiderava per lei tutta la felicità immaginabile.
-
-“Capisco ciò che provi,” rispose Charlotte; “devi essere sorpresa, molto sorpresa, visto che poco tempo fa il signor Collins desiderava sposarti. Ma quando avrai avuto il tempo di rifletterci bene, spero che sarai soddisfatta di ciò che ho fatto. Non sono romantica, lo sai. Non lo sono mai stata. Chiedo soltanto una casa confortevole; e, considerando il carattere, le relazioni sociali e la situazione economica del signor Collins, sono convinta che le mie possibilità di essere felice con lui siano altrettanto buone quanto quelle della maggior parte delle persone che entrano nel [[motifs/marriage|matrimonio]].”
-
-Elizabeth rispose tranquillamente: “Indubbiamente”; e, dopo un imbarazzante silenzio, tornarono con il resto della famiglia. Charlotte non rimase a lungo; così Elizabeth rimase sola a riflettere su quanto aveva sentito. Trascorse molto tempo prima che riuscisse ad accettare l’idea di un matrimonio così inadatto. La stranezza del fatto che il signor Collins avesse fatto due proposte di [[motifs/marriage|matrimonio]] in tre giorni non era nulla rispetto al fatto che ora quelle proposte fossero state accettate. Aveva sempre pensato che l’opinione di Charlotte sul matrimonio non fosse esattamente la stessa della sua; ma non avrebbe mai immaginato che, quando si trattava di scegliere tra sentimenti nobili e vantaggi materiali, Charlotte potesse sacrificare tutto ciò che era più prezioso. Charlotte, moglie del signor Collins, quale immagine umiliante! E al dolore di vedere un’amica rovinarsi la reputazione e perdere il proprio valore agli occhi degli altri, si aggiungeva la dolorosa consapevolezza che fosse impossibile per quell’amica essere veramente felice nella scelta che aveva fatto.
-
-
-
-Illustrazione:
-
-“Deve essersi completamente sbagliato”, protestò.
-
-Copyright 1894 di George Allen.
-
 
 
 <span class="atom-split" data-atom="chapter_23" data-title="Pride and Prejudice — Chapter 23" data-chapter="Chapter 23" data-kind="chapter" data-tags="archetype/lover,motif/desire,motif/love,motif/marriage,motif/time,motif/well,motif/winter,concept/conscience,concept/fear,concept/hope,concept/self,concept/truth,setting/london,character/charlotte_lucas"></span>
@@ -7471,70 +5633,6 @@ Why should _he_ have it more than anybody else?”
 
 [Illustration]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XXIII.
-
-Illustrazione
-
-Elizabeth era seduta con sua madre e sue sorelle, riflettendo su ciò che aveva sentito e dubitando se avesse il diritto di parlarne, quando stesso Sir William Lucas si presentò, inviato dalla figlia per annunciare il suo fidanzamento con la famiglia. Con molti complimenti rivolti a loro e molta soddisfazione per l’opportunità che questo legame rappresentava per le due famiglie, spiegò dettagliatamente la situazione; un pubblico che non solo era perplesso, ma addirittura incredulo. La signora Bennet, con più insistenza che cortesia, protestò che lui doveva essersi completamente sbagliato; mentre Lydia, sempre impulsiva e spesso scortese, esclamò ad alta voce.
-
-“Mio Dio! Signor William, come può raccontare una cosa del genere? Non sa che il signor Collins vuole sposare Lizzy?”
-
-Nientemeno che la compiacenza di un cortigiano avrebbe potuto sopportare senza rabbia un tale trattamento; ma l’eleganza di modi di Sir William gli permise di superare tutto ciò; e sebbene chiedesse il permesso di affermare con certezza la [[concepts/truth|verità]] delle sue informazioni, ascoltò tutta quella loro impertinenza con la massima cortesia e tolleranza.
-
-Elizabeth, sentendosi in dovere di aiutarlo a uscire da una situazione così sgradevole, si offrì volontaria per confermare quanto lui aveva raccontato, facendo riferimento alla propria conoscenza precedente riguardo a quell’argomento, avuta direttamente da Charlotte; inoltre cercò di placare le esclamazioni di sua madre e delle sue sorelle, manifestando con sincera gioia i propri complimenti per Sir William. Jane si unì prontamente a lei in queste manifestazioni di approvazione, e insieme fecero varie osservazioni sulla felicità che ci si poteva aspettare da quel matrimonio, sull’eccellente carattere del signor Collins e sulla comoda distanza di Hunsford da [[settings/london|Londra]].
-
-In realtà, la signora Bennet era talmente sopraffatta che non riusciva a dire molto finché il signor William era presente; ma non appena lui se ne andò, i suoi sentimenti trovarono rapidamente uno sfogo. Prima di tutto, insisteva nel negare l’intera faccenda; in secondo luogo, era assolutamente certa che il signor Collins fosse stato ingannato; in terzo luogo, credeva che loro due non avrebbero mai potuto essere felici insieme; e, infine, pensava che quel matrimonio potesse essere annullato. Tuttavia, da tutto ciò si potevano trarre due conclusioni chiare: la prima era che Elizabeth fosse la vera causa di tutti quei problemi; la seconda era che lei stessa fosse stata crudelmente ingannata da tutti loro. Su questi due punti insistette per il resto della giornata. Niente riusciva a consolarla o a calmarla; nemmeno quella giornata fece diminuire il suo risentimento. Trascorse una settimana prima che potesse guardare Elizabeth senza rimproverarla; un mese prima che potesse parlare con il signor William o la signora Lucas senza essere scortese; e molti mesi prima che riuscisse finalmente a perdonare loro e loro figlia.
-
-In quell’occasione, le emozioni del signor Bennet erano molto più tranquille; quelle che provava, dichiarò, erano di tipo assai piacevole. Gli faceva infatti piacere scoprire che [[characters/charlotte-lucas|Charlotte Lucas]], che aveva sempre ritenuto abbastanza sensata, era altrettanto sciocca quanto sua moglie, e persino più sciocca di sua figlia!
-
-Jane confessò di essere un po' sorpresa da quel matrimonio; ma esprimeva più la sua sincera [[motifs/desire|desiderio]] per la loro felicità che la propria meraviglia. Nemmeno Elizabeth riuscì a convincerla che si trattasse di una cosa improbabile. Kitty e Lydia non provavano affatto invidia per la signorina Lucas, poiché il signor Collins era soltanto un clérigo; e quella notizia non le interessava in alcun modo, se non come un pettegolezzo da diffondere a Meryton.
-
-Lady Lucas non poteva non provare soddisfazione nel riuscire a replicare a Mrs. Bennet riguardo al conforto derivante dal vedere una figlia ben sposata; per questo andava a Longbourn più spesso del solito per esprimere la sua felicità, anche se l’aspetto cupo e i commenti cattivi di Mrs. Bennet avrebbero potuto facilmente rovinare quella gioia.
-
-Tra Elizabeth e Charlotte esisteva una sorta di riserbo che le impediva di parlare apertamente dell’argomento; Elizabeth era convinta che tra loro non potesse mai più sorgere una vera fiducia reciproca. Delusa da Charlotte, iniziò a guardare con maggiore affetto sua sorella, della cui rettitudine e delicatezza era certa che la sua opinione non avrebbe mai potuto cambiare; inoltre, per la felicità di sua sorella si preoccupava sempre di più, poiché Bingley era ormai assente da una settimana e non si avevano notizie del suo ritorno.
-
-Jane aveva inviato a Caroline una risposta anticipata alla sua lettera e contava i giorni in attesa di riceverne un’altra. La tanto attesa lettera di ringraziamento da parte del signor Collins arrivò martedì, indirizzata a loro padre e scritta con tutta la solennità dovuta a una gratitudine che dodici mesi trascorsi nella famiglia avrebbero potuto ispirare. Dopo essersi assicurato di aver compiuto il proprio dovere in questo senso, proseguì raccontando loro, con molte espressioni entusiaste, della propria felicità nell’aver conquistato l’affetto della loro gentile vicina, la signorina Lucas; spiegò poi che era stato soltanto desideroso di godere della sua compagnia il motivo per cui aveva accettato con tanta disponibilità il loro invito a tornare a Longbourn, dove sperava di poter rientrare lunedì prossimo. Aggiunse inoltre che Lady Catherine approvava così calorosamente il suo matrimonio da volerne la celebrazione al più presto possibile; credeva quindi che questo fosse un argomento irrefutabile per convincere la sua adorata Charlotte a fissare una data anticipata, affinché potesse diventare l’uomo più felice del mondo.
-
-Il ritorno del signor Collins in Hertfordshire non rappresentava più una fonte di piacere per la signora Bennet. Al contrario, lei era altrettanto disposta a lamentarsene quanto suo marito. Era molto strano che fosse venuto a Longbourn invece che a Lucas Lodge; inoltre, era anche molto scomodo e estremamente fastidioso. Odiava avere ospiti in casa mentre la sua salute era così precaria, e gli innamorati erano, tra tutte le persone, quelli più sgradevoli da ricevere. Questi erano i dolci lamenti della signora Bennet, ma essi venivano sopraffatti dalla ancora maggiore angoscia causata dall’assenza continua del signor Bingley.
-
-Né Jane né Elizabeth si sentivano a loro agio parlando di questo argomento. I giorni passavano senza che arrivassero altre notizie su di lui, se non quella che presto iniziò a circolare a Meryton secondo cui non sarebbe più tornato a Netherfield per tutta la [[motifs/winter|inverno]]; una notizia che fece infuriare molto la signora Bennet, la quale non mancava mai di smentirla definendola una falsità scandalosa.
-
-Anche Elizabeth iniziò a  temere: non che Bingley fosse indifferente, ma che le sue sorelle riuscissero nel loro intento di tenerlo lontano da lei. Nonostante non volesse ammettere un’idea così dannosa per la felicità di Jane e così disonorevole per la stabilità del suo [[archetypes/lover|amante]], non riusciva a impedire che tale pensiero continuasse a ripresentarsi frequentemente. Gli sforzi congiunti delle sue due sorelle spietate, uniti a quelli del suo amico influente, e alle attrazioni offerte da Miss Darcy e ai divertimenti di [[settings/london|Londra]], potevano rivelarsi troppo forti per la tenacia dei suoi sentimenti.
-
-Per quanto riguarda Jane, la sua ansia in questa situazione di suspense era, naturalmente, più dolorosa di quella di Elizabeth; ma qualunque cosa provasse, desiderava nasconderla; per questo motivo, tra lei ed Elizabeth non si menzionò mai l’argomento. Tuttavia, poiché nessuna delicatezza riusciva a trattenere sua madre, quasi ogni ora lei parlava di Bingley, esprimeva la sua impazienza per il suo arrivo, o addirittura chiedeva a Jane di ammettere che, se lui non fosse tornato, si sarebbe considerata molto ingiustamente trattata. Fu necessaria tutta la calma e la gentilezza di Jane per sopportare queste continue pressioni con tollerabile tranquillità.
-
-Il signor Collins tornò puntualmente ogni due settimane di lunedì, ma il suo ricevimento a Longbourn non fu altrettanto cordiale come la prima volta che era stato presentato alla famiglia. Tuttavia, era troppo felice per aver bisogno di molta attenzione; e, fortunatamente per gli altri, le faccende legate all’[[motifs/love|amore]] li liberarono da gran parte della sua compagnia. Trascorreva la maggior parte del tempo a Lucas Lodge e tornava a Longbourn soltanto di [[motifs/time|tempo]] in tempo per scusarsi della sua assenza prima che tutta la famiglia andasse a letto.
-
-Illustrazione:
-
-"#Quando parlava a bassa voce_"
-
-La signora Bennet era davvero in una condizione molto misera. Solo il menzionare qualsiasi cosa riguardante quel matrimonio la gettava in un’angoscia dovuta al cattivo umore; e ovunque andasse, era certa di sentirne parlare. La vista della signorina Lucas le risultava insopportabile; essendo considerata la sua successora in quella casa, la odiava con gelosia e disprezzo. Ogni volta che Charlotte veniva a trovarli, lei concludeva che stesse aspettando solo l’occasione per prendere il suo posto; e ogni volta che Charlotte parlava sottovoce con il signor Collins, era convinta che stessero discutendo della tenuta di Longbourn, e si riprometteva di cacciare lei e le sue figlie da quella casa non appena il signor Bennet fosse morto. Si lamentava amaramente di tutto questo con suo marito.
-
-“Davvero, signor Bennet,” disse lei, “è molto difficile pensare che Charlotte Lucas possa mai diventare la padrona di questa casa, che io debba essere costretta a farle posto e vivere per vedere lei prendere il mio posto qui!”
-
-“Mia cara, non lasciarti prendere da pensieri così cupi. Diamo[[concepts/hope|un’occhiata]] alle cose positive. Speriamo che _io_ possa essere la sopravvissuta.”
-
-Questo non fu molto consolante per la signora Bennet; quindi, invece di rispondere in alcun modo, continuò come prima.
-
-“Non riesco a sopportare l’idea che possiedano tutta questa proprietà. Se non ci fosse la clausola di successione obbligatoria, non mi dispiacerebbe affatto.”
-
-“Cosa non dovresti considerare un problema?”
-
-“Non mi dispiacerebbe affatto nulla.”
-
-Sia ringraziato chi è stato risparmiato da una tale insensibilità.
-
-“Non potrò mai essere abbastanza grata, signor Bennet, per qualsiasi cosa riguardi questa questione dell’eredità. Non riesco a capire come qualcuno possa avere la [[concepts/conscience|coscienza]] di privare le proprie figlie di un patrimonio. E tutto questo solo per il signor Collins! Perché dovrebbe averlo lui più di chiunque altro?”
-
-“Lascio a te decidere”, disse il signor Bennet.
-
-
-
-Illustrazione
 
 
 
@@ -7751,79 +5849,6 @@ Mr. Darcy was condemned as the worst of men.
 [Illustration]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XXIV.
-
-Illustrazione
-
-Arrivò la lettera di Miss Bingley, che pose fine a tutte le [[concepts/doubt|dubbi]]. La prima stessa frase confermava che erano tutti sistemati a [[settings/london|)Londra]] per l’[[motifs/winter|inverno]], e la lettera terminava con il rammarico di suo fratello per non aver avuto il [[motifs/time|tempo]] di salutare i suoi amici nell’Hertfordshire prima di lasciare il paese.
-
-[[concepts/hope|Speranza]] era finita, completamente finita; e quando Jane riuscì a leggere il resto della lettera, trovò ben poco, oltre all’affetto dichiarato dall’autrice, che potesse darle conforto. La maggior parte del contenuto riguardava le lodi rivolte a Miss Darcy; venivano nuovamente sottolineati i suoi numerosi pregi; Caroline si compiaceva felicemente della loro crescente intimità e osava predire la realizzazione dei desideri espressi nella lettera precedente. Scriveva anche con grande gioia del fatto che suo fratello fosse ospite in casa di Mr. Darcy, e menzionava con entusiasmo alcuni progetti di quest’ultimo riguardo al nuovo arredamento.
-
-Elizabeth, a cui Jane raccontò subito tutto ciò che era accaduto, ascoltò in silenziosa indignazione. Il suo cuore era diviso tra la preoccupazione per sua sorella e il risentimento verso tutti gli altri. Non credette affatto alle affermazioni di Caroline secondo cui suo fratello avesse una preferenza per Miss Darcy; dubitava forse meno del fatto che lui fosse davvero innamorato di Jane di quanto lo fosse sempre stata lei stessa. Eppure, nonostante fosse sempre stata disposta a simpatizzare con lui, non poteva fare a meno di provare rabbia – e persino disprezzo – per quella sua mancanza di fermezza, per quell’indolenza che lo rendeva schiavo dei suoi amici calcolatori e lo spingeva a sacrificare la propria felicità ai capricci loro. Se solo la sua stessa felicità fosse stata l’unica in gioco. Forse allora gli sarebbe stato permesso di agire come meglio credeva; ma quella di sua sorella era coinvolta nella questione, e lei era certa che anche lui se ne rendesse conto. In breve, si trattava di un argomento su cui riflettere a lungo, ma senza alcun risultato concreto. Non riusciva a pensare ad altro; eppure, che l’interesse di Bingley per Jane fosse davvero svanito, o che fosse stato soffocato dall’intervento dei suoi amici; che lui fosse a conoscenza dell’affetto di Jane, o che questo gli fosse sfuggito, in ogni caso, anche se la sua opinione su di lui ne sarebbe stata profondamente influenzata, la situazione di sua sorella rimaneva la stessa, e la sua pace interiore era ugualmente ferita.
-
-Trascorsero un giorno o due prima che Jane trovasse il [[concepts/courage|coraggio]] di parlare dei suoi sentimenti a Elizabeth; ma infine, quando la signora Bennet le lasciò da sole, dopo una lunga discussione più del solito riguardo a Netherfield e al suo padrone, non poté fare a meno di dire.
-
-“Ah, se solo mia cara madre riuscisse a controllarsi di più! Non ha la minima idea del [[motifs/pain|dolore]] che mi provoca con i suoi continui pensieri su di lui. Ma non me ne lamenterò. Non durerà a lungo. L’oblitereranno tutti, e torneremo tutti come eravamo prima.”
-
-Elizabeth guardò sua sorella con un'attenzione incredula, ma non disse nulla.
-
-“Tu [[concepts/doubt|mi dubiti]]”, esclamò Jane, arrossendo leggermente; “infatti, non hai alcun motivo. Lui può rimanere nella mia [[motifs/memory|memoria]] come l’uomo più gentile che abbia conosciuto, ma nient'altro. Non ho né [[concepts/hope|speranze]] né [[concepts/fear|paura]], e non ho nulla di cui rimproverarlo. Grazie a Dio, non ho quel [[motifs/pain|dolore]]. Quindi, con un po’ di [[motifs/time|tempo]], sicuramente cercherò di superare questa situazione, ”
-
-Con voce più ferma, aggiunse presto: “Ho immediatamente questo conforto: si è trattato soltanto di un errore di immaginazione da parte mia, e non ha causato danno a nessuno tranne che a me stessa.”
-
-“Mia cara Jane,” esclamò Elizabeth, “sei troppo gentile. La tua dolcezza e la tua altruismo sono davvero angelici; non so proprio cosa dire. Sembra che non ti abbia mai reso giustizia, o che non ti abbia amata come meriti.”
-
-La signorina Bennet negò con entusiasmo qualsiasi merito straordinario, attribuendo i complimenti all'affetto sincero di sua sorella.
-
-“No,” disse Elizabeth, “questo non è giusto. _Tu_ vuoi che tutti siano considerati rispettabili, e ti offendi se parlo male di qualcuno. _Io_ voglio solo pensare che tu sia perfetto, ma tu ti opponi a questo desiderio mio. Non temere che io possa esagerare, che possa violare il tuo diritto alla stima universale. Non c’è motivo. Ci sono poche persone che io ami davvero, e ancora meno di cui abbia una buona opinione. Più conosco il mondo, più ne sono insoddisfatta; ogni giorno conferma la mia convinzione sull’incoerenza dei caratteri umani, e sulla scarsa affidabilità delle apparenze di merito o buon senso. Di recente ho incontrato due casi. Uno non lo menzionerò, l’altro è il matrimonio di Charlotte. È incomprensibile! Da ogni punto di vista, è assolutamente incomprensibile!”
-
-“Mia cara Lizzy, non lasciarti dominare da sentimenti del genere. Ti rovinerebbero la felicità. Non consideri abbastanza le differenze di situazione e carattere tra voi. Pensa alla rispettabilità del signor Collins e al carattere prudente e stabile di Charlotte. Ricorda che appartiene a una grande famiglia; per quanto riguarda la fortuna, è senz’altro un partito ideale. E sii pronta ad ammettere, per il bene di tutti, che lei possa provare qualcosa di simile al rispetto e all’apprezzamento per nostro cugino.”
-
-“Per compiacerla, cercherei di credere quasi a qualsiasi cosa. Ma nessun altro potrebbe trarre beneficio da una tale convinzione; perché se fossi persuasa che Charlotte provasse qualche interesse per lui, penserei solo che la sua intelligenza sia ancora peggiore di quanto non ritenga il suo cuore. Mia cara Jane, il signor Collins è un uomo presuntuoso, pomposo, bigotto e sciocco. Lo sapete bene, proprio come lo so io; e dovete riconoscere, proprio come faccio io, che una donna che lo sposa non può avere un modo di pensare corretto. Non lo difenderete, anche se si tratta di [[characters/charlotte-lucas|Charlotte Lucas]]. Non cambierete, per il bene di una singola persona, i principi della giustizia e dell’integrità. E non cercherete di convincere né me né voi stessa che l’egoismo sia saggezza, né che l’indifferenza verso i pericoli rappresenti la sicurezza della felicità.”
-
-“Devo dire che il tuo linguaggio è un po’ troppo duro quando parli di entrambi,” rispose Jane; “e spero che tu ne sia convinta vedendoli felici insieme. Ma basta di questo. Hai accennato a qualcos’altro: hai menzionato _due_ casi. Non posso fraintenderti, ma ti prego, cara Lizzy, di non addolorarmi pensando che quella persona sia da incolpare e dicendo che la tua opinione su di lui sia cambiata. Non dobbiamo essere così pronte a credere di essere state intenzionalmente offese. Non possiamo aspettarci che un giovane vivace sia sempre così cauto e riservato. Spesso è soltanto la nostra stessa [[concepts/vanity|vanità]] a ingannarci. Le donne pensano che l’ammirazione significhi di più di quanto in realtà significhi.”
-
-“E gli uomini fanno in modo che ciò avvenga.”
-
-“Se viene fatto intenzionalmente, non può essere giustificato; ma non ho alcuna idea che nel mondo esista tutta quella premeditazione che alcune persone immaginano.”
-
-“Non attribuisco affatto alcuna intenzione maliziosa al comportamento del signor Bingley,” disse Elizabeth; “ma anche senza voler fare del male o rendere gli altri infelici, possono comunque verificarsi errori e sofferenze. La superficialità, la mancanza di considerazione per i sentimenti altrui e l’assenza di determinazione sono sicuramente cause di tali problemi.”
-
-“E lo attribuisci a uno di loro due?”
-
-“Sì; fino alla fine. Ma se continuo, vi offenderò dicendo ciò che penso delle persone che voi stimate. Fermatemi, finché potete.”
-
-“Quindi insisti nel pensare che siano le sue sorelle ad influenzarlo?”
-
-“Sì, insieme al suo amico.”
-
-“Non riesco a crederci. Perché dovrebbero cercare di influenzarlo? Dovrebbero solo desiderare la sua felicità; e se lui è legato a me, nessun’altra donna potrà garantirgliela.”
-
-“La tua prima affermazione è falsa. Potrebbero desiderare molte cose, oltre alla sua felicità: potrebbero voler che aumenti la sua ricchezza e il suo rango sociale; potrebbero voler che si sposi con una ragazza che possieda denaro, importanti contatti sociali e [[concepts/pride|orgoglio]].”
-
-“Senza alcun [[concepts/doubt|dubbio]], desiderano davvero che lui scelga la signorina Darcy,” rispose Jane;  
-“ma forse i loro motivi sono più nobili di quanto tu possa pensare. La conoscono da molto più tempo di me; non c’è da [[concepts/wonder|sorprendersi]] se la amino di più. Ma, qualunque siano i loro desideri personali, è molto improbabile che si oppongano a quelli di loro fratello. Quale sorella permetterebbe a sé stessa di farlo, a meno che non ci fosse qualcosa di davvero inaccettabile? Se pensassero che lui sia interessato a me, non cercherebbero di separarci; e se lo fosse davvero, non riuscirebbero mai nel loro intento. Supponendo l’esistenza di un tale sentimento, fai sembrare tutti comportarsi in modo innaturale e sbagliato, e me soprattutto molto infelice. Non tormentarmi con queste idee. Non mi vergogno di essere stata ingannata, o, almeno, è una cosa insignificante, niente rispetto a ciò che proverei se pensassi male di lui o delle sue sorelle. Lasciami considerare la situazione nel modo migliore possibile, in base a quanto possa essere interpretata.”
-
-Elizabeth non poteva opporsi a un tale desiderio; e da quel [[motifs/time|momento]] il nome del signor Bingley quasi mai fu menzionato tra loro.
-
-La signora Bennet continuava ancora a [[concepts/wonder|meravigliarsi]] e a rammaricarsi del fatto che lui non tornasse più; e sebbene quasi ogni giorno Elizabeth cercasse di spiegarle chiaramente la situazione, sembrava improbabile che lei riuscisse un giorno a considerarla senza più confusione. Sua figlia cercava di convincerla di ciò in cui nemmeno lei credeva, cioè che l’attenzione di lui verso Jane fosse stata soltanto il risultato di un interesse passeggero e comune, svanito non appena lui aveva smesso di vederla; ma anche se la possibilità di una tale spiegazione veniva ammessa all’epoca, ogni giorno lei ripeteva sempre la stessa storia. L’unica consolazione per la signora Bennet era che il signor Bingley sarebbe sicuramente tornato in campagna durante l’estate.
-
-Il signor Bennet affrontò la questione in modo diverso. “Senti, Lizzy,” le disse un giorno, “sembra che tua sorella sia stata rifiutata in amore. Le faccio i complimenti. Dopo il matrimonio, a una ragazza piace talvolta essere rifiutata in amore di tanto in tanto. È qualcosa su cui riflettere, e le conferisce una sorta di distinzione tra le sue compagne. Quando sarà il tuo turno? Non vorrai certo permettere che Jane ti superi troppo presto. Ora è il tuo momento. A Meryton ci sono abbastanza giovani ufficiali per deludere tutte le ragazze della zona. Lascia che Wickham sia il tuo uomo. È un ragazzo piacevole, e ti lascierebbe in modo onorevole, ”
-
-“Grazie, signore, ma anche un uomo meno gradevole mi sarebbe sufficiente. Non possiamo tutti aspettarci la fortuna di Jane.”
-
-“Vero,” disse il signor Bennet; “ma è consolante pensare che, qualunque cosa di quel genere possa capitarti, hai una madre affettuosa che farà sempre del suo meglio per aiutarti.”
-
-La compagnia di Mr. Wickham risultò di grande aiuto nel dissipare la tristezza che gli eventi recenti e perversi avevano causato in molti membri della famiglia Longbourn. Lo vedevano spesso, e alle sue altre qualità si aggiungeva ora quella della schiettezza e dell’apertura. Tutto ciò che Elizabeth aveva già sentito, le sue pretese nei confronti di Mr. Darcy, e tutto ciò che aveva sofferto a causa sua venivano ora ammessi apertamente e discussi in pubblico; tutti erano felici di rendersi conto di quanto avessero sempre disprezzato Mr. Darcy, anche prima di conoscere tutta la verità.
-
-La signorina Bennet era l’unica persona che potesse ritenere esistessero circostanze attenuanti in quel caso sconosciute alla società dell’Hertfordshire: la sua sincerità mite e costante spingeva sempre a concedere delle scuse e a considerare la possibilità di errori; ma per tutti gli altri il signor Darcy era condannato come il peggiore degli uomini.
-
-
-
-Illustrazione
-
 
 
 <span class="atom-split" data-atom="chapter_25" data-title="Pride and Prejudice — Chapter 25" data-chapter="Chapter 25" data-kind="chapter" data-tags="motif/dance,motif/death,motif/home,motif/love,motif/marriage,motif/nature,motif/pain,motif/time,motif/well,concept/education,concept/hope,concept/nature,setting/london"></span>
@@ -8004,65 +6029,6 @@ ill-natured boy.
 ]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XXV.
-
-Illustrazione
-
-Dopo una settimana trascorsa tra dichiarazioni d’[[motifs/love|amore]] e progetti di felicità, il signor Collins fu chiamato dalla sua affabile Charlotte con l’arrivo del sabato. Tuttavia, il [[motifs/pain|dolore]] della separazione poté essere alleviato da parte sua grazie ai preparativi per l’accoglienza di sua moglie; aveva infatti motivo di [[concepts/hope|sperare]] che, poco dopo il suo prossimo ritorno in Hertfordshire, sarebbe stato fissato il giorno che lo avrebbe reso l’uomo più felice del mondo. Si congedò dalle sue parenti a Longbourn con la stessa solennità di prima; augurò ancora una volta salute e felicità alle sue belle cugine e promise al loro padre di scrivere un’altra lettera di ringraziamento.
-
-Il lunedì seguente, la signora Bennet ebbe il piacere di ricevere suo fratello e sua moglie, che come al solito vennero a trascorrere Natale a Longbourn. Il signor Gardiner era un uomo sensato e gentiluomo, decisamente superiore a sua sorella, sia per [[motifs/well|natura]] che per [[concepts/nature|educazione]]. Le signore di Netherfield avrebbero faticato a credere che un uomo che viveva di mestiere e aveva i propri magazzini proprio lì potesse essere così ben educato e piacevole. La signora Gardiner, che era alcuni anni più giovane della signora Bennet e della signora Philips, era una donna amabile, intelligente ed elegante, molto amata dalle sue nipoti di Longbourn. In particolare, esisteva un rapporto molto speciale tra lei e le due figlie maggiori della signora Bennet; spesso queste ultime soggiornavano con lei in città.
-
-La prima cosa che la signora Gardiner fece al suo arrivo fu distribuire i suoi regali e descrivere le ultime mode. Una volta fatto questo, toccò a lei ascoltare. La signora Bennet aveva molte lamentele da esprimere: tutti erano stati molto maltrattati da quando aveva visto sua sorella l’ultima volta. Due delle sue figlie erano state sul punto di [[motifs/marriage|sposarsi]], ma alla fine non era successo nulla.
-
-“Non biasimo Jane,” continuò, “perché se avesse potuto, avrebbe ottenuto il signor Bingley. Ma, Lizzy! Oh, sorella. È davvero difficile pensare che a quest’ora potrebbe essere diventata la moglie del signor Collins, se non fosse stata per la sua stessa capricciosità. Lui le ha fatto una proposta proprio in questa stanza, e lei l’ha rifiutato. La conseguenza è che Lady Lucas avrà una figlia sposata prima di me, e che la tenuta di Longbourn rimarrà comunque destinata a qualcun altro come sempre. I Lucase sono davvero persone molto calcolatrici. Pensano solo a ciò che possono ottenere. Mi dispiace dirlo, ma è così. È molto frustrante essere ostacolata proprio nella mia stessa famiglia, e avere vicini che pensano prima a se stessi che a chiunque altro. Comunque, il tuo arrivo in questo momento è davvero un grande conforto. E sono molto felice di sentire ciò che ci racconti riguardo alle maniche lunghe.”
-
-La signora Gardiner, a cui questa notizia era già stata comunicata in precedenza, durante la corrispondenza tra Jane ed Elizabeth, rispose in modo evasivo alla domanda della sorella e, per compassione verso le sue nipoti, cambiò argomento di conversazione.
-
-Quando rimase solo con Elizabeth in seguito, lei parlò ancora dell’argomento.  
-“Sembra davvero un matrimonio desiderabile per Jane,” disse. “Mi dispiace che non sia andato a buon fine. Ma queste cose succedono spesso! Un giovane come il signor Bingley, descritto da te, si innamora facilmente di una ragazza carina in poche settimane; e quando gli eventi li separano, dimentica lei altrettanto facilmente. Quindi queste incostanze sono davvero molto comuni.”
-
-Illustrazione:
-
-Offese due o tre giovani signore
-
-Copyright 1894 di George Allen.
-
-“Un'ottima consolazione, in un certo senso,” disse Elizabeth; “ma non basterà per _noi_. Non soffriamo per caso. Non capita spesso che l’intervento degli amici riesca a convincere un giovane di mezzi economici indipendenti a dimenticare una ragazza di cui era profondamente [[motifs/love|innamorato]] soltanto pochi giorni prima.”
-
-“Ma quell’espressione ‘un amore violento’ è così banale, così dubbia, così vaga, che non mi dà alcuna idea precisa. Viene spesso usata per descrivere sentimenti nati dopo soltanto mezz’ora di conoscenza, tanto quanto per indicare un legame vero e profondo. Per favore, quanto ‘violento’ era davvero l’amore del signor Bingley?”
-
-“Non ho mai visto un atteggiamento più promettente; stava diventando sempre meno attento alle altre persone, completamente assorbito da lei. Ogni volta che si incontravano, la loro intimità cresceva ancora di più. Al proprio ballo, offese due o tre giovani signore rifiutandosi di chiederle di ballare; e io stessa gli ho parlato due volte senza ricevere risposta. Potrebbero esserci segni più evidenti? Non è forse l’indifferenza verso gli altri l’essenza stessa dell’[[motifs/love|amore]]?”
-
-“Oh, sì! Quel tipo di [[motifs/love|amore]] che immagino lui abbia provato. Povera Jane! Mi dispiace per lei, perché, data la sua natura, forse non riuscirà a superare facilmente questa situazione. Sarebbe stato meglio che fosse successo a _te_, Lizzy; tu saresti riuscita a superarlo più in fretta, ridendoci sopra. Ma pensi che si possa convincerla a tornare con noi? Un cambiamento di ambiente potrebbe essere d’aiuto. E forse anche un po’ di distacco da [[motifs/home|casa]] potrebbe risultare altrettanto efficace.”
-
-Elizabeth fu estremamente soddisfatta di questa proposta e ritenne che sua sorella fosse pronta ad accettarla senza esitazioni.
-
-“Spero,” aggiunse la signora Gardiner, “che nessuna considerazione legata a questo giovane possa influenzarla. Viviamo in una parte così diversa della città, le nostre conoscenze sono molto diverse, e, come ben sapete, usciamo raramente di casa; quindi è molto improbabile che si incontrino, a meno che lui non venga davvero a trovarla.”
-
-“E questo è davvero impossibile; poiché in questo momento si trova sotto la custodia del suo amico, e il signor Darcy non permetterebbe mai che lui andasse a trovare Jane in una zona del genere di [[settings/london|Londra]]! Mia cara zia, come avete potuto pensarlo? Forse il signor Darcy ha sentito parlare di una strada come Gracechurch Street, ma dubito che ritenesse sufficienti nemmeno un mese di purificazione per liberarsi delle impurità che vi si trovano. E credetemi: il signor Bingley non fa mai nulla senza di lui.”
-
-“Meglio così. Spero che non si incontrino affatto. Ma non corrisponde forse Jane con sua sorella? Lei non potrà certo aiutarli a mettersi in contatto.”
-
-Interromperà completamente ogni rapporto con quella persona.
-
-Ma, nonostante l’aria di certezza con cui Elizabeth cercava di far credere che la situazione fosse così, e soprattutto considerando il fatto che Bingley venisse tenuto all’oscuro dell’esistenza di Jane, lei provava comunque una certa preoccupazione al riguardo. Dopo averci riflettuto attentamente, si rese conto che non riteneva la situazione del tutto disperata. Era possibile, e a volte le sembrava anche probabile, che il suo affetto potesse ravvivarsi e che l’influenza dei suoi amici potesse essere efficacemente contrastata dall’attrattiva naturale di Jane.
-
-La signorina Bennet accettò con piacere l’invito di sua zia; e in quel momento, i Bingley non le venivano in mente in modo diverso da come sperava: poiché Caroline non viveva nella stessa casa di suo fratello, lei avrebbe potuto occasionalmente trascorrere del tempo con lei, senza alcun rischio di incontrarlo.
-
-I Gardiner rimasero una settimana a Longbourn; e con la presenza dei Philips, dei Lucas e degli ufficiali, non passava giorno senza qualche evento sociale. La signora Bennet si era premurata così tanto di organizzare divertimenti per suo fratello e sua sorella, che questi non mangiarono nemmeno una volta una cena in famiglia. Quando gli eventi sociali avvenivano a [[motifs/home|casa]], alcuni degli ufficiali vi partecipavano sempre; tra questi, il signor Wickham era sicuramente uno di loro. In queste occasioni, la signora Gardiner, resa sospettosa dalle lodi appassionate che Elizabeth aveva per lui, li osservava attentamente. Senza supporre che i due fossero seriamente [[motifs/love|innamorati]], era evidente il loro reciproco interesse, il che la rendeva un po’ preoccupata; decise quindi di parlare con Elizabeth sull’argomento prima di lasciare l’Hertfordshire, per farle comprendere quanto fosse imprudente incoraggiare un tale sentimento.
-
-Per quanto riguardava la signora Gardiner, Wickham disponeva di un mezzo per darle piacere, un mezzo che non aveva nulla a che fare con le sue abilità generali. Circa dieci o dodici anni prima, prima del suo [[motifs/marriage|matrimonio]], lei aveva trascorso un periodo considerevole proprio in quella parte del Derbyshire dove lui viveva. Pertanto, condividevano molti conoscenti in comune; e sebbene Wickham non vi fosse più tornato da quando il padre di Darcy era morto, cinque anni prima, egli poteva comunque fornirle informazioni più aggiornate sui suoi vecchi amici di quanto lei avesse potuto ottenere in altro modo.
-
-La signora Gardiner aveva conosciuto Pemberley e conosceva perfettamente il carattere del defunto signor Darcy. Quindi, qui c'era un argomento di conversazione inesauribile. Confrontando le sue memorie su Pemberley con la descrizione dettagliata che Wickham poteva fornire, e lodando il carattere del suo ex proprietario, lei riusciva a compiacere sia lui che se stessa. Quando venne a sapere di come il presente signor Darcy lo trattasse, cercò di ricordare qualcosa riguardo al presunto carattere di quel gentiluomo da ragazzo, e alla fine fu certa di aver sentito dire in passato che il signor Fitzwilliam Darcy fosse un ragazzo molto orgoglioso e cattivo.
-
-
-
-Illustrazione:
-
-"#Vieni a trovarmi?"
-
 
 
 <span class="atom-split" data-atom="chapter_26--part_01" data-title="Pride and Prejudice — Chapter 26 (part 1)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/home,motif/love,motif/marriage,motif/rose,motif/time,motif/well,concept/honour,concept/hope,setting/london,character/kent,character/maria"></span>
@@ -8184,52 +6150,6 @@ Jane had already written a few lines to her sister, to announce their
 safe arrival in [[settings/london|London]]; and when she wrote again, Elizabeth hoped it
 would be in her power to say something of the Bingleys.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XXVI.
-
-Illustrazione
-
-Il consiglio di Mrs. Gardiner a Elizabeth fu dato puntualmente e con gentilezza alla prima opportunità favorevole per parlare con lei da sola: dopo averle detto onestamente ciò che pensava, proseguì così:–
-
-“Sei una ragazza troppo sensata, Lizzy, per innamorarti solo perché ti è stato detto di non farlo; quindi non ho paura di parlare apertamente. Sul serio, vorrei che fossi molto attenta. Non coinvolgerti tu stessa, né cercare di coinvolgerlo in un rapporto d’amore che, a causa della mancanza di fortuna, sarebbe estremamente imprudente. Non ho nulla contro di _lui_: è un giovane davvero interessante; e se avesse la fortuna che merita, penso che non potresti desiderare di meglio. Ma così come stanno le cose, non devi lasciare che la tua fantasia ti porti fuori strada. Hai buon senso, e tutti ci aspettiamo che lo utilizzi. Sono sicura che tuo padre si affiderà alla tua determinazione e al tuo comportamento. Non devi deluderlo.”
-
-“Mia cara zia, la situazione è davvero seria.”
-
-“Sì, e spero che anche tu ti impegni seriamente allo stesso modo.”
-
-“Allora, non c’è motivo di preoccuparsi. Mi occuperò da sola di me stessa, e anche del signor Wickham. Non dovrà innamorarsi di me, se riesco a impedirlo.”
-
-“Elizabeth, non stai scherzando, vero?”
-
-“Mi scusi. Provverò di nuovo. Al momento non sono innamorata del signor Wickham; no, certamente no. Ma lui è, senza dubbio, l’uomo più piacevole che abbia mai conosciuto. E se davvero dovesse provare dei sentimenti per me, credo che sarebbe meglio se non lo facesse. Capisco quanto sia imprudente. Oh, quel detestabile signor Darcy! L’opinione di mio padre su di me mi rende molto onorata; perderela significherebbe per me la rovina. Tuttavia, mio padre ha una certa simpatia per il signor Wickham. In breve, cara zia, mi dispiacerebbe moltissimo se fossi la causa della vostra infelicità. Ma visto che ogni giorno vediamo come, quando c’è affetto tra giovani, raramente manchi loro il denaro necessario per impegnarsi l’uno con l’altro, come posso promettervi di essere più saggia di tante altre persone? Se dovessi essere tentata, come potrei sapere che resistere sarebbe la cosa migliore? Tutto ciò che posso promettervi, quindi, è di non affrettarmi. Non mi affretterò a credere di essere il suo primo amore. Quando sarò in sua compagnia, non farò alcun desiderio. In breve, farò del mio meglio.”
-
-“Forse andrà meglio se impedite che venga qui così spesso. Almeno non dovreste ricordare a vostra madre di invitarlo.”
-
-“Come ho fatto l’altro giorno,” disse Elizabeth, con un sorriso consapevole; “certamente, sarà saggio da parte mia astenermi da _quello_. Ma non pensate che lui sia sempre qui così spesso. È a causa vostra se è stato invitato così frequentemente questa settimana. Conoscete le idee di mia madre riguardo alla necessità che i suoi amici siano sempre insieme. Ma davvero, e sulla mia [[concepts/honour|onore]], cercherò di fare ciò che ritengo più saggio; ora spero che siate soddisfatti.”
-
-Sua zia le assicurò che era così; ed Elizabeth, dopo averle ringraziato per la gentilezza dei suoi consigli, si separarono. Un esempio meraviglioso di come si possano dare suggerimenti su un tale argomento senza suscitare rancore.
-
-Il signor Collins tornò in Hertfordshire poco dopo che i Gardiner e Jane se n’erano andati; ma poiché si stabilì presso la famiglia Lucas, il suo arrivo non causò grandi inconvenienti a Mrs. Bennet. Il suo [[motifs/marriage|matrimonio]] era ormai prossimo; lei aveva finalmente accettato l’idea che fosse inevitabile, e anzi, in tono ostile, ripeteva spesso di “sperare” che fossero felici. La data del matrimonio era fissata per il giovedì, e mercoledì la signorina Lucas venne a fare le sue visite di addio; quando si alzò per andarsene, Elizabeth, imbarazzata dalle parole poco gentili e riluttanti della madre, l’accompagnò fuori dalla stanza. Mentre scendevano le scale insieme, Charlotte disse:–
-
-“Spero di ricevere spesso tue notizie, Eliza.”
-
-“Certo che lo farai.”
-
-“E ho un altro favore da chiederti… Verrai a trovarmi?”
-
-“Spero che ci incontreremo spesso nel Hertfordshire.”
-
-“Non è probabile che lasci [[characters/kent|Kent]] per un certo periodo di tempo. Quindi, promettimi di venire a Hunsford.”
-
-Elizabeth non poté rifiutare, anche se prevedeva che quell’incontro non le avrebbe portato alcun piacere.
-
-“Mio padre e [[characters/maria|Maria]] verranno da me a marzo,” aggiunse Charlotte, “e spero che acconsentirai ad unirti a noi. Davvero, Eliza, sarai la benvenuta quanto loro.”
-
-Il matrimonio ebbe luogo: la sposa e lo sposo partirono da davanti alla chiesa diretti verso [[characters/kent|Kent]], e come al solito tutti avevano molto da dire o da ascoltare sull’argomento. Presto Elizabeth ricevette notizie dalla sua amica, e la loro corrispondenza continuò regolare e frequente come sempre; tuttavia era impossibile che fosse altrettanto sincera. Ogni volta che scriveva a Charlotte, Elizabeth aveva l’impressione che tutto il calore dell’intimità tra loro fosse svanito; e sebbene si fosse ripromessa di non diminuire l’intensità della loro corrispondenza, lo faceva più per ciò che erano state in passato che per ciò che erano in quel momento. Le prime lettere di Charlotte furono lette con grande interesse: era naturale essere curiosi di sapere come avrebbe descritto la sua nuova [[motifs/home|casa]], come l’avrebbe trovata Lady Catherine, e quanto fosse felice. Tuttavia, dopo averle lette, Elizabeth si rese conto che Charlotte esprimeva i suoi pensieri esattamente come lei aveva previsto. Scriveva con allegria, sembrava circondata da comodità, e non menzionava nulla di negativo. La casa, i mobili, il quartiere e le strade le piacevano tutti; inoltre, il comportamento di Lady Catherine era estremamente amichevole e premuroso. L’immagine che Mr. Collins aveva dato di Hunsford e Rosings cominciò a sembrare meno negativa. E Elizabeth capì che avrebbe dovuto aspettare la propria visita per scoprire il resto.
-
-Jane aveva già scritto alcune righe alla sua sorella per annunciare il loro arrivo sano e salvo a [[settings/london|Londra]]; e quando scrisse di nuovo, Elizabeth sperava che potesse raccontare qualcosa sui Bingley.
 
 
 
@@ -8361,35 +6281,6 @@ plain.”
 “On the Stairs”
 ]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-La sua impazienza per questa seconda lettera fu ricompensata esattamente come lo è di solito l’impazienza. Jane era in città da una settimana, senza aver visto né sentito nulla da Caroline. Tuttavia, ne dava la spiegazione supponendo che la sua ultima lettera inviata all’amica da Longbourn fosse stata perduta per qualche motivo.
-
-“Mia zia,” continuò, “domani andrà in quella parte della città, e approfitterò dell’occasione per fare una visita in Grosvenor Street.”
-
-Scrisse di nuovo quando la visita fu effettuata e aveva incontrato Miss Bingley.  
-“Non credo che Caroline stesse bene,” diceva nella sua lettera, “ma era molto felice di vedermi e mi rimproverò per non averla avvisata del mio arrivo a [[settings/london|Londra]]. Quindi avevo ragione: la mia ultima lettera non le era mai arrivata. Naturalmente chiesi notizie di loro fratello; stava bene, ma era così impegnato con il signor Darcy che quasi non lo vedevano mai. Scoprii anche che Miss Darcy sarebbe venuta a cena da noi: vorrei tanto poterla incontrare. La mia visita fu breve, poiché Caroline e la signora Hurst stavano per uscire. Credo che presto li rivedrò qui.”
-
-Elizabeth scosse la testa leggendo questa lettera. Le sembrava evidente che solo un incidente potesse far scoprire al signor Bingley che sua sorella si trovava in città.
-
-Passarono quattro settimane e Jane non lo vide mai più. Cercò di convincersi che non ne rimpiangesse; ma ormai non poteva più ignorare l’indifferenza di Miss Bingley. Dopo aver atteso ogni mattina a casa sua per due settimane, inventando ogni sera una nuova scusa per la sua assenza, la visita finalmente arrivò. Ma la brevità della sua permanenza, e soprattutto il cambiamento nel suo comportamento, impedirono a Jane di continuare a ingannarsi. La lettera che scrisse in quell’occasione a sua sorella dimostrerà ciò che provava.
-
-“La mia cara Lizzy, ne sono sicura, non riuscirà mai a prevalere sulla propria ragione e a non agire a mio svantaggio, quando confesserò di essere stata completamente ingannata riguardo ai sentimenti di Miss Bingley per me. Ma, cara sorella, anche se questi fatti hanno dimostrato che avevi ragione, non considerarmi testarda se insisto nel dire che, data la sua condotta, la mia fiducia in lei era altrettanto naturale quanto il tuo sospetto. Non riesco affatto a comprendere il motivo per cui volesse instaurare un rapporto più stretto con me; ma, se le stesse circostanze si ripetessero, sono certa che cadrei di nuovo nell’inganno. Caroline non mi ha risposto alle mie visite fino a ieri; in tutto quel tempo non ho ricevuto né una lettera né una parola da lei. Quando finalmente è venuta, era evidente che non ne provava alcun piacere: si è scusata in modo formale per non essere venuta prima, non ha detto nulla riguardo al desiderio di rivedermi e, sotto ogni aspetto, era completamente cambiata. Quando se n’è andata, ho deciso definitivamente di interrompere quel rapporto. Mi dispiace per lei, anche se non posso fare a meno di rimproverarla: ha commesso un grave errore nel prendersi gioco di me in quel modo; posso dire con certezza che ogni tentativo di avvicinamento è partito da parte sua. Ma mi dispiace davvero, perché sicuramente si rende conto di aver agito male. E sono convinta che la causa sia l’ansia per suo fratello. Non ho bisogno di spiegarmi oltre; anche se sappiamo entrambe che quell’ansia è del tutto infondata, se lei la prova, questo può facilmente spiegare il suo comportamento nei miei confronti. E poiché lui è così caro per sua sorella, qualsiasi preoccupazione lei possa provare per lui è naturale e comprensibile. Tuttavia, non posso fare a meno di meravigliarmi che abbia ancora queste paure. Se davvero gli importasse di me, ci saremmo incontrate molto tempo fa. Sono certa che sappia della mia presenza in città, da qualcosa che lei stessa ha detto. Eppure, dal modo in cui parla, sembra volersi convincere che lui abbia davvero un debole per Miss Darcy. Non riesco a capirlo. Se non temessi di giudicare troppo severamente, quasi direi che tutto questo presenta chiari segni di doppiezza. Cercherò di scacciare ogni pensiero doloroso e di pensare solo a ciò che può rendermi felice: il tuo affetto, la gentilezza incondizionata di mio zio e mia zia. Scrivimi presto. Miss Bingley ha detto qualcosa riguardo al fatto che lui non tornerà mai più a Netherfield, che abbandonerà quella casa. Ma non con certezza. Meglio non parlarne. Sono molto felice che tu riceva notizie così piacevoli dai nostri amici a Hunsford. Per favore, vai a trovarli insieme a Sir William e Maria. Sono sicura che ti troverai molto bene lì.”
-
-“Tuo, ecc.”
-
-Questa lettera causò a Elizabeth un certo [[motifs/pain|dolore]]; ma il suo spirito si rialzò quando pensò che Jane, almeno, non sarebbe più stata ingannata da quella sorella. Qualsiasi speranza riguardo al fratello era ormai completamente svanita; lei non avrebbe nemmeno desiderato un ripristino delle sue attenzioni verso di lei. Il suo carattere le appariva sempre peggiore ogni volta che ci pensava; e, come punizione per lui, e anche come possibile vantaggio per Jane, sperava sinceramente che presto si sposasse con la sorella del signor Darcy: secondo quanto raccontato da Wickham, quella donna lo avrebbe fatto pentire amaramente di tutto ciò che aveva gettato via.
-
-A quell’[[motifs/time|momento]], la signora Gardiner ricordò a Elizabeth la sua promessa riguardo a quel gentiluomo e chiese informazioni; Elizabeth le inviò quelle che avrebbero potuto soddisfare di più sua zia che lei stessa. La presunta preferenza di lui per lei era svanita, le sue attenzioni si erano spostate altrove: ora ammirava un’altra donna. Elizabeth era abbastanza attenta da accorgersene, ma riusciva a osservare e scrivere al riguardo senza provare alcun [[motifs/pain|dolore]] reale. Il suo cuore era stato appena toccato, e la sua [[concepts/vanity|vanità]] si accontentava del pensiero che _lei_ sarebbe stata la sua unica scelta, se solo il destino lo avesse permesso. L’improvvisa acquisizione di diecimila sterline rappresentava senz’altro il fattore più attraente di quella giovane donna; tuttavia, forse meno perspicace in questo caso rispetto a quanto lo fosse stata riguardo a Charlotte, Elizabeth non ebbe nulla in contrario al suo desiderio di indipendenza. Al contrario, tutto ciò sembrava del tutto naturale; e sebbene potesse immaginare che gli fosse costato qualche difficoltà rinunciare a lei, era pronta ad considerarlo un passo saggio e vantaggioso per entrambi, e poteva davvero augurargli felicità.
-
-Tutto ciò fu riferito alla signora Gardiner; e dopo aver descritto le circostanze, lei proseguì così: “Ora sono convinta, mia cara zia, che in realtà non ho mai provato veramente amore; perché se davvero avessi sperimentato quella passione pura ed elevata, ora odierei il suo stesso nome e desidererei per lui ogni sorta di male. Ma i miei sentimenti nei suoi confronti non sono solo cordiali, anzi, sono anche imparziali verso la signorina [[archetypes/king|King]]. Non riesco affatto a sentire odio per lei, né il minimo riluttanza nel considerarla una ragazza molto perbene. In tutto questo non c’è alcun amore. La mia attenzione e prudenza sono state efficaci; e anche se sicuramente sarei un oggetto di maggiore interesse per tutti i miei conoscenti, se fossi davvero perdutamente innamorata di lui, non direi di rimpiangere la mia relativa insignificanza. L’importanza, a volte, può essere acquistata a un prezzo troppo alto. Kitty e Lydia prendono molto più sul serio la sua infedeltà di quanto faccia io. Sono giovani, e non sono ancora giunte alla sgradevole consapevolezza che i giovani attraenti debbano pur avere qualcosa per vivere, proprio come le persone comuni, ”
-
-
-
-Illustrazione:
-
-"In cima alle scale"
 
 
 
@@ -8545,64 +6436,6 @@ insupportable than those of the generality of travellers.”
 “At the door”
 ]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XXVII.
-
-Illustrazione
-
-Nella famiglia Longbourn non ci furono eventi più importanti di questi; per il resto, la vita scorreva piuttosto monotona, con solo le occasionali passeggiate a Meryton, a volte fangose e a volte fredde. Gennaio e febbraio trascorsero così. A marzo, Elizabeth avrebbe dovuto recarsi a Hunsford. All’inizio non aveva preso molto sul serio l’idea di andarci; ma presto si rese conto che Charlotte contava molto su quel viaggio, e gradualmente iniziò a considerarlo con maggiore entusiasmo e sicurezza. La distanza aveva aumentato il suo desiderio di rivedere Charlotte e aveva mitigato il suo disgusto per Mr. Collins. C’era qualcosa di nuovo in quel progetto; e, data una madre del genere e sorelle così poco socievoli, la “casa” non poteva certo essere perfetta. Quindi, un piccolo cambiamento non era affatto spiacevole. Inoltre, il viaggio le avrebbe permesso di vedere Jane; insomma, man mano che il momento si avvicinava, avrebbe trovato molto spiacevole qualsiasi ritardo. Tuttavia, tutto andò liscio e alla fine tutto fu organizzato secondo i piani iniziali di Charlotte: lei avrebbe accompagnato Sir William e sua seconda figlia. In seguito, fu aggiunto anche il piacere di trascorrere una notte a [[settings/london|Londra]], rendendo il piano ancora più perfetto.
-
-L’unico [[motifs/pain|)dolore]] era quello di dover lasciare suo padre, che sicuramente le sarebbe mancato molto; inoltre, quando arrivò il momento, a lui non piaceva affatto che se ne andasse, al punto che le disse di scrivergli e quasi le promise di rispondere alla sua lettera.
-
-L’addio tra lei e il signor Wickham fu perfettamente cordiale; da parte sua, addirittura ancora di più. La sua attuale relazione non poteva fargli dimenticare che Elizabeth era stata la prima a suscitare il suo interesse e ad meritarlo, la prima ad ascoltarlo e a compiangerlo, la prima che aveva ammirato in lui. Nel modo in cui le disse addio, desiderandole ogni felicità, ricordandole ciò che avrebbe trovato in [[characters/lady-catherine-de-bourgh|Lady Catherine de Bourgh]] e fiducioso nel fatto che il loro giudizio su di lei – e su chiunque altro – sarebbe sempre stato lo stesso, c’era una premura, un interesse tale da farle sentire che lui l’avrebbe sempre legata a sé con un affetto sincero. E se ne separò convinta che, sia sposato che single, lui sarebbe sempre stato il suo modello di persona amabile e piacevole.
-
-I suoi compagni di viaggio, il giorno seguente, non erano certo il tipo da farle pensare che lui fosse meno gradevole. Sir William Lucas e sua figlia [[characters/maria|Maria]], una ragazza di buon carattere ma altrettanto vuota di cervello quanto suo padre, non avevano nulla da dire di interessante; ascoltarli era tanto noioso quanto il rumore delle ruote della carrozza. Elizabeth amava le assurdità, ma conosceva Sir William da troppo tempo. Non poteva certo imparare nulla di nuovo sulle “meraviglie” della sua nomina a cavaliere; inoltre, le sue cortesie erano ormai stanche, proprio come le informazioni che forniva.
-
-Si trattava di un [[motifs/journey|viaggio]] lungo soltanto ventiquattro miglia; iniziarono così presto che arrivarono in Gracechurch Street già a [[motifs/noon|mattina]]. Mentre si dirigevano verso la porta del signor Gardiner, Jane era alla finestra del salotto ad aspettarli: quando entrarono nel corridoio, lei era lì ad accoglierli. Elizabeth, guardandola attentamente in viso, fu felice di vedere che era sana e bella come sempre. Sulle scale c’era un gruppo di bambini, i cui desideri di vedere la loro cugina non gli permettevano di aspettare nel salotto; inoltre, essendo passati dodici mesi dall’ultima volta che l’avevano vista, erano troppo timidi per scendere più giù. Tutto era gioia e gentilezza. La giornata trascorse in modo molto piacevole: la mattina tra il trambusto e le compere, e la sera al teatro.
-
-Elizabeth trovò quindi il modo di sedersi accanto a sua zia. Il loro primo argomento di conversazione fu sua sorella; ed ella rimase più addolorata che sorpresa nell’apprendere, in risposta alle sue domande dettagliate, che sebbene Jane si sforzasse sempre di mantenere il proprio spirito alto, ci fossero periodi di depressione. Tuttavia, era ragionevole [[concepts/hope|sperare]] che tali momenti non durassero a lungo. La signora Gardiner le raccontò anche i dettagli della visita di Miss Bingley in Gracechurch Street, nonché delle conversazioni avvenute in diverse occasioni tra Jane e lei stessa, le quali dimostravano che la prima aveva sinceramente rinunciato a quella conoscenza.
-
-La signora Gardiner poi esortò sua nipote riguardo alla tradimento di Wickham e le fece i complimenti per il modo in cui lo aveva affrontato così [[motifs/well|benissimo]].
-
-“Ma, cara Elizabeth,” aggiunse, “che tipo di ragazza è la signorina [[archetypes/king|King]]? Mi dispiacerebbe pensare che la nostra amica sia interessata solo al denaro.”
-
-“Prega, mia cara zia: qual è la differenza, nelle questioni matrimoniali, tra un movente mercenario e uno prudente? Dove finisce la discrezione e inizia l’avarizia? L’anno scorso a Natale avevi paura che mi sposasse, perché sarebbe stato imprudente; e ora, perché cerca di prendersi una ragazza con soltanto diecimila sterline, vuoi dimostrare che è motivato da interessi materiali.”
-
-“Se solo mi dite che tipo di ragazza sia la signorina [[archetypes/king|King]], allora saprò cosa pensare.”
-
-“Credo che sia una ragazza molto gentile e perbene; non conosco nulla di negativo su di lei.”
-
-“Ma non le prestò la minima attenzione fino alla [[motifs/death|morte]] di suo nonno, quando lei divenne la padrona di questa fortuna, ”
-
-“No, perché dovrebbe farlo? Se non fosse permesso a lui conquistare i miei affetti solo perché non ho soldi, quale motivo ci sarebbe per innamorarsi di una ragazza di cui non gli importa nulla e che è altrettanto povera?”
-
-“Ma sembra poco delicato attirare la sua attenzione su di lei così presto, dopo questo evento.”
-
-“Un uomo in difficoltà non ha [[motifs/time|tempo]] per tutte quelle eleganti formalità che altre persone possono rispettare. Se _lei_ non si oppone, perché dovremmo noi farlo?”
-
-Il fatto che lei non obietti non giustifica lui. Dimostra soltanto che anche lei è carente in qualcosa: sensibilità o sentimenti.
-
-“Beh,” esclamò Elizabeth, “faccia come vuole. _Lui_ sarà un mercenario, e _lei_ sarà sciocca.”
-
-“No, Lizzy, è proprio questo che _non_ scelgo. Dovrei sentirmi in colpa, sai. Pensare male di un giovane che ha vissuto così a lungo nel Derbyshire, ”
-
-“Oh, se si tratta solo di questo, ho un’opinione molto negativa dei giovani che vivono nel Derbyshire; e i loro amici intimi che abitano nell’Hertfordshire non sono certo migliori. Ne ho abbastanza di tutti quanti. Grazie al cielo! Domani andrò da qualche parte dove troverò un uomo che non possiede nemmeno una qualità positiva, né maniere né buon senso che possano fargli onore. Alla fine, gli uomini stupidi sono gli unici degni di essere conosciuti.”
-
-"#Attenta, Lizzy: quel discorso sembra portare inevitabilmente alla delusione."
-
-Prima che venissero separati dalla fine della rappresentazione, ebbe la felicità inaspettata di ricevere un invito a accompagnare zio e zia in un viaggio di piacere che avevano proposto di fare durante l’[[motifs/summer|estate]].
-
-“Non abbiamo ancora deciso fino a dove ci porterà questa strada,” disse la signora Gardiner; “ma forse, fino ai laghi.”
-
-Nessun piano avrebbe potuto essere più gradito a Elizabeth, e la sua accettazione dell’invito fu davvero pronta e piena di gratitudine. “Mia cara, adorata zia,” esclamò con entusiasmo, “che gioia! che felicità! Mi date nuova vita e vigore. Addio alla delusione e allo sconforto. Che cosa sono gli uomini rispetto a rocce e [[settings/mountains|montagne]]? Oh, quali ore di estrema felicità trascorreremo insieme! E quando torneremo, non sarà come per gli altri viaggiatori, che non riescono nemmeno a dare un’idea precisa di ciò che hanno visto. Noi sapremo esattamente dove siamo stati, ricorderemo tutto ciò che abbiamo visto. Laghi, [[settings/mountains|montagne]] e fiumi non saranno confusi nella nostra memoria; e quando cercheremo di descrivere una scena particolare, non inizieremo a discutere sulla sua posizione relativa. Lasciate che le nostre prime parole siano meno insopportabili di quelle della maggior parte dei viaggiatori, ”
-
-
-
-Illustrazione:
-
-“Alla porta”
 
 
 
@@ -8777,67 +6610,6 @@ to dine at Rosings the next day.
 [_Copyright 1894 by George Allen._]]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XXVIII.
-
-Illustrazione
-
-Ogni oggetto presente nel[[motifs/journey|viaggio]] del giorno seguente era nuovo e interessante per Elizabeth; il suo umore era sereno e gioioso, perché aveva visto sua sorella in così buona salute da non provare alcuna preoccupazione per la sua condizione, e l’idea di questo viaggio verso il nord rappresentava per lei una fonte continua di felicità.
-
-Quando lasciarono la strada principale per imboccare la strada che conduceva a Hunsford, tutti gli occhi erano alla ricerca della canonica; ogni svolta sembrava poter rivelarne l’ubicazione. Il limitare del parco di Rosings era il confine su un lato; Elizabeth sorrise al ricordo di tutto ciò che aveva sentito sui suoi abitanti.
-
-Finalmente si intravedeva la canonica. Il [[motifs/garden|jardino]] che digradava verso la [[motifs/road|strada]], la casa situata al suo interno, i cespugli di piante verdi e la siepe di alloro: tutto indicava che stavano arrivando. Il signor Collins e Charlotte apparvero alla porta, e la carrozza si fermò presso il piccolo cancello che, attraverso un breve sentiero in ghiaia, conduceva alla casa, tra i saluti e i sorrisi di tutti i presenti. In un attimo scesero dalla carrozza, felici di rivedersi. La signora Collins accolse la sua amica con grande gioia, e Elizabeth fu ancora più soddisfatta della propria decisione quando si rese conto dell’affetto con cui veniva accolta. Notò immediatamente che i modi del suo cugino non erano cambiati dopo il [[motifs/marriage|matrimonio]]: la sua cortesia formale era esattamente quella di sempre; e le dedicò alcuni minuti al cancello per ascoltare e soddisfare le sue domande su tutta la sua famiglia. Poi, senza ulteriori ritardi – se non quello che egli impiegò per indicare l’eleganza dell’ingresso – furono fatti entrare nella casa; appena arrivati nel salotto, lui li accolse una seconda volta con solenne formalità nella sua umile dimora, ripetendo puntualmente le offerte di rinfreschi da parte di sua moglie.
-
-Elizabeth era pronta ad ammirarlo nel suo splendore; e non poteva fare a meno di pensare che, mostrando con tanta cura le proporzioni armoniose della stanza, il suo aspetto e i suoi mobili, lui si stesse rivolgendo particolarmente a lei, come se volesse farle comprendere quanto avesse perso rifiutandolo. Ma sebbene tutto sembrasse ordinato e confortevole, lei non fu in grado di soddisfarlo con alcun segno di pentimento; anzi, guardava con meraviglia la sua amica, per il fatto che potesse apparire così serena in compagnia di un simile individuo. Quando il signor Collins diceva qualcosa di cui sua moglie avrebbe potuto vergognarsi – il che accadeva abbastanza spesso – lei non poteva fare a meno di rivolgere lo sguardo verso Charlotte. Una o due volte notò un leggero rossore sul suo viso; ma nel complesso Charlotte, con saggezza, fingeva di non aver sentito nulla. Dopo essersi soffermata abbastanza a ammirare ogni singolo pezzo di mobilio nella stanza – dal comodino al paravento – e dopo aver raccontato del loro viaggio e di tutto ciò che era accaduto a Londra, il signor Collins le invitò a fare una passeggiata nel giardino, che era ampio e ben curato, e della cui coltivazione si occupava personalmente. Lavorare nel proprio giardino rappresentava uno dei suoi piaceri più legittimi; ed Elizabeth ammirava il modo in cui Charlotte parlava con entusiasmo dell’efficacia di tale attività, riconoscendo che lei stessa la incoraggiava al massimo. Mentre le faceva visitare ogni angolo del giardino, indicando con precisione ogni singola vista, nessuna di esse poteva competere con il panorama di Rosings, che si apriva attraverso un varco tra gli alberi situati quasi di fronte all’ingresso della sua casa. Si trattava di un bell’edificio moderno, ben posizionato su un terreno in salita.
-
-Dalla sua [[motifs/garden|giardina]], il signor Collins avrebbe potuto mostrar loro i due prati che possedeva; ma le signore, non avendo scarpe adatte per camminare sulle tracce del gelo bianco rimasto dopo la notte precedente, decisero di tornare indietro. Mentre Sir William lo accompagnava, Charlotte portò sua sorella e la sua amica oltre la casa, evidentemente molto soddisfatta all’idea di poterla mostrare senza l’aiuto del marito. Era piuttosto piccola, ma ben costruita e comoda; inoltre, tutto era sistemato con cura e ordine, e Elizabeth attribuì tutto questo a Charlotte. Quando si riusciva a dimenticare il signor Collins, l’ambiente risultava davvero molto accogliente. E dal piacere evidente che Charlotte ne provava, Elizabeth dedusse che probabilmente lui venisse spesso dimenticato.
-
-Aveva già saputo che Lady Catherine si trovava ancora nel paese. Ne fu parlato di nuovo durante la cena, quando anche il signor Collins intervenne nella conversazione e osservò.
-
-“Sì, signorina Elizabeth, avrete l’onore di incontrare lady Catherine de Bourgh la prossima [[characters/sunday|)domenica]] in chiesa, e non c’è bisogno che vi dica che rimarrete deliziata da lei. È piena di affabilità e gentilezza, e dubito che non riceverete anche voi la sua attenzione dopo la funzione. Non esito a dire che includerà sia voi che mia sorella [[characters/maria|Maria]] in ogni invito che ci farà durante il vostro soggiorno qui. Il suo comportamento verso mia cara Charlotte è davvero incantevole: pranziamo a Rosings due volte alla settimana e non ci viene mai permesso di tornare a casa a piedi; la carrozza di sua signoria viene sempre messa a disposizione per noi. Anzi, dovrei dire una delle sue carrozze, perché ne possiede diverse.”
-
-“La signora Catherine è davvero una donna molto rispettabile e sensata,” aggiunse Charlotte, “e inoltre un vicina estremamente attenta.”
-
-“Assolutamente vero, mia cara; è proprio quello che dico io. È il tipo di donna verso cui non si può mai essere abbastanza rispettosi.”
-
-La serata trascorse principalmente a parlare delle notizie riguardanti Hertfordshire e a ripetere ciò che era già stato scritto; al termine, Elizabeth, nella solitudine della sua stanza, dovette riflettere sul grado di soddisfazione di Charlotte, sulla sua capacità di guidare il marito con saggezza e di sopportarlo con calma, e dovette ammettere che tutto procedeva molto bene. Dovette inoltre prevedere come sarebbe trascorsa la sua visita: l’atmosfera tranquilla delle loro abituali attività quotidiane, le fastidiose interruzioni causate dal signor Collins e le gioie derivanti dai loro rapporti con Rosings. Una vivace [[concepts/imagination|immaginazione]] le aiutò presto a chiarire tutto ciò.
-
-Verso metà del giorno seguente, mentre si preparava per una passeggiata nella sua stanza, un improvviso rumore al piano di sotto sembrò gettare tutta la casa nel caos; dopo aver ascoltato per un momento, sentì qualcuno correre su per le scale in fretta e furia, chiamandola ad alta voce. Aprì la porta e incontrò [[characters/maria|Maria]] sul pianerottolo, che, senza fiato per l’agitazione, gridò.
-
-Illustrazione:
-
-"In conversazione con le signore"
-
-[Copyright 1894 di George Allen.]
-
-“Oh, mia cara Eliza! Ti prego, vieni subito in sala da pranzo, perché c’è una scena davvero incredibile da vedere. Non ti dirò di cosa si tratta. Sbrigati, vieni immediatamente.”
-
-Elizabeth pose domande invano; [[characters/maria|Maria]] non le avrebbe detto nulla di più;
-e così entrarono nel salone da pranzo che si affacciava sulla stradina, in mezzo a questa [[concepts/wonder|misteriosa situazione]]: c'erano due signore che si erano fermate in una piccola carrozza davanti al cancello del [[motifs/garden|giardino]].
-
-“E questo è tutto?” esclamò Elizabeth. “Mi aspettavo almeno che i maiali fossero stati portati nel [[motifs/garden|giardino]], e invece non c’è nulla tranne Lady Catherine e sua figlia!”
-
-“Ma cara,” disse [[characters/maria|Maria]], molto scioccata dall'errore, “non è Lady Catherine. Quella signora anziana è la signora Jenkinson, che vive con loro; l’altra è Miss De Bourgh. Guardala un po’. È davvero una creaturina minuscola. Chi avrebbe mai pensato che potesse essere così magra e piccola!”
-
-“È terribilmente scortese tenere Charlotte fuori casa con tutto questo [[motifs/wind|vento]]. Perché non entra?”
-
-“Oh, Charlotte dice che quasi mai lo fa. È davvero la più grande gentilezza quando la signorina De Bourgh viene qui.”
-
-“Mi piace il suo aspetto,” disse Elizabeth, presa da altri pensieri. “Sembra malaticcia e, un po’ triste. Sì, andrà benissimo per lui. Sarà una moglie perfetta.”
-
-Il signor Collins e Charlotte stavano entrambi in piedi al cancello, conversando con le signore; mentre Sir William, a grande divertimento di Elizabeth, si trovava sulla soglia, immerso nella contemplazione della “grandezza” che aveva davanti a sé, e inchinandosi continuamente ogni volta che la signorina De Bourgh guardava in quella direzione.
-
-Alla fine non ci fu più nulla da dire; le signore continuarono il loro viaggio, mentre gli altri rientrarono nella casa. Non appena il signor Collins vide le due ragazze, iniziò a congratularsi con loro per la loro fortuna; Charlotte spiegò che l’intero gruppo era stato invitato a pranzo a Rosings il giorno seguente.
-
-
-
-Illustrazione:
-
-“Lady Catherine”, disse lei, “mi avete regalato un vero tesoro.”
-
-Copyright 1894 di George Allen.
-
 
 
 <span class="atom-split" data-atom="chapter_29--part_01" data-title="Pride and Prejudice — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/desire,motif/silence,motif/summer,concept/beauty,concept/courage,concept/self,setting/court,character/bottom,character/maria,character/sunday"></span>
@@ -8966,41 +6738,6 @@ little Miss de Bourgh ate, pressing her to try some other dish and
 fearing she was indisposed. [[characters/maria|Maria]] thought speaking out of the question,
 and the gentlemen did nothing but eat and admire.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XXIX.
-
-Illustrazione
-
-Il trionfo di Mr. Collins, grazie a questa invitazione, fu completo. Poter mostrare ai suoi visitatori meravigliati la grandezza della sua protettrice, e far loro vedere la gentilezza che lei dimostrava verso di lui e sua moglie, era esattamente ciò che desiderava; e il fatto che tale opportunità gli fosse data così presto rappresentava un esempio di tale condiscendenza da parte di Lady Catherine, che non sapeva come ammirarla abbastanza.
-
-“Confesso,” disse, “che non sarei affatto rimasto sorpreso se Sua Signoria ci avesse chiesto di andare a bere il tè e trascorrere la serata a Rosings il [[characters/sunday|domenica]]. Anzi, considerando la sua gentilezza, me l’aspettavo quasi. Ma chi avrebbe potuto prevedere un’attenzione del genere? Chi avrebbe mai immaginato che ricevessimo un invito a cena lì, e per di più un invito che includeva tutta la compagnia, così poco dopo il vostro arrivo?”
-
-“Non sono affatto sorpreso da ciò che è accaduto,” rispose Sir William,  
-“dati i miei contatti con le persone di alto rango, che la mia posizione nella vita mi ha permesso di avere. Per quanto riguarda la [[settings/court|corte]], casi del genere di comportamento elegante non sono affatto rari.”
-
-Per tutto il giorno e la mattina seguente si parlò quasi esclusivamente della loro visita a Rosings. Il signor Collins li istruiva con cura su ciò che avrebbero potuto aspettarsi, per evitare che la vista di stanze così lussuose, di tanti servitori e di una cena così sontuosa li sopraffacesse completamente.
-
-Quando le signore si separarono per andare in bagno, lui disse a Elizabeth…
-
-“Non preoccuparti troppo, mia cara cugina, per il tuo abbigliamento. Lady Catherine non si aspetta certo da noi quell’eleganza nell’abbigliamento che è tipica di lei e di sua figlia. Ti consiglio semplicemente di indossare quelle tue vesti che sono migliori delle altre. Non c’è motivo di fare di più. Lady Catherine non penserà male di te se sei vestita in modo semplice; a lei piace che venga rispettato il distacco sociale.”
-
-Mentre si vestivano, lui venne due o tre volte alle loro rispettive porte, esortandoli ad affrettarsi, poiché Lady Catherine si lamentava molto di dover aspettare per la cena. Tali descrizioni imponenti della sua nobile signoria e del suo stile di vita spaventarono davvero [[characters/maria|Maria]] Lucas, che non era abituata a frequentare simili ambienti; lei attendeva con ansia il proprio incontro a Rosings, proprio come suo padre aveva temuto il proprio ingresso a St. James’s.
-
-Poiché il tempo era bello, fecero una piacevole passeggiata di circa mezzo miglio attraverso il parco. Ogni parco ha la sua [[concepts/beauty|bellezza]] e i suoi panorami; ed Elizabeth vide molte cose che le piacquero, anche se non fu così entusiasta come il signor Collins si aspettava che quella scena potesse ispirarla. Fu appena influenzata dalla descrizione delle finestre davanti alla casa e dal racconto del costo totale dei vetri che originariamente erano stati acquistati da Sir Lewis de Bourgh.
-
-Mentre salivano i gradini che conducevano all’atrio, l’allarme di [[characters/maria|Maria]] aumentava di momento in momento; anche Sir William non sembrava del tutto calmo. Tuttavia, il [[concepts/courage|coraggio]] di Elizabeth non la tradì. Non aveva sentito nulla riguardo a Lady Catherine che potesse farle temere qualche suo straordinario talento o virtù miracolosa; inoltre, riteneva di poter assistere senza timore alla semplice ma imponente dignità derivante dalla ricchezza e dal rango sociale.
-
-Dall’ingresso, il cui bell’assetto e gli ornamenti raffinati furono evidenziati con entusiasmo dal signor Collins, seguirono i servitori attraverso un anticamera fino alla stanza dove sedevano Lady Catherine, sua figlia e la signora Jenkinson. La signora, con grande cortesia, si alzò per accoglierli; poiché la signora Collins aveva concordato con suo marito che fosse lei ad occuparsi dell’introduzione, questa ebbe luogo in modo appropriato, senza quelle scuse o ringraziamenti che lui avrebbe ritenuto necessari.
-
-Nonostante avesse frequentato St. James’s, Sir William era così completamente sopraffatto dalla maestosità che lo circondava da avere appena abbastanza [[concepts/courage|coraggio]] per fare un profondo inchino e prendere posto in silenzio; sua figlia, spaventata a morte, sedeva sul bordo della sedia senza sapere dove guardare. Elizabeth, invece, riuscì a mantenere la calma e osservò con tranquillità le tre signore davanti a sé. Lady Catherine era una donna alta e robusta, dalle caratteristiche facciali marcate che un tempo avrebbero potuto essere considerate attraenti; il suo atteggiamento non era affatto cordiale, e nemmeno il modo in cui li ricevette fece sì che i suoi ospiti dimenticassero la loro condizione inferiore. Il suo [[motifs/silence|silenzio]] non la rendeva particolarmente minacciosa; tuttavia, qualsiasi cosa dicesse veniva pronunciata con un tono autoritario che evidenziava la sua grande importanza personale, e questo fece immediatamente pensare a Elizabeth di Mr. Wickham. Dalla situazione nel suo complesso, concluse che Lady Catherine fosse esattamente come lui l’aveva descritta.
-
-Dopo aver esaminato la madre, nella cui espressione e comportamento notò subito alcune somiglianze con il signor Darcy, rivolse lo sguardo alla figlia: avrebbe quasi potuto condividere lo stupore di [[characters/maria|Maria]] nel vedere quanto fosse magra e piccola. Non c’era alcuna somiglianza tra le due donne, né nell’aspetto fisico né nel viso. La signorina de Bourgh era pallida e malaticcia; i suoi tratti, sebbene non fossero brutti, erano insignificanti; parlava molto poco, solo a bassa voce, con la signora Jenkinson, la cui apparenza non presentava nulla di particolare; quest’ultima ascoltava attentamente tutto ciò che diceva e posizionava uno schermo davanti ai suoi occhi nel modo giusto.
-
-Dopo essere rimasti seduti per alcuni minuti, furono tutti mandati vicino a una delle finestre per ammirare il panorama. Il signor Collins li accompagnò, indicando loro le bellezze del paesaggio, mentre la signora Catherine spiegò gentilmente che in [[motifs/summer|estate]] quel panorama era ancora molto più bello da vedere.
-
-La cena era davvero sontuosa: c'erano tutti i servitori e tutti gli oggetti da tavola che il signor Collins aveva promesso; e, come aveva previsto, si sedette in fondo al tavolo, su esortazione della sua signora, e sembrava convinto che la vita non potesse offrire nulla di meglio. Tagliò la carne, mangiò con grande appetito e lodò ogni piatto con entusiasmo; ogni portata veniva prima elogiata da lui, poi dal signor William, il quale ormai si era completamente ripreso e ripeteva fedelmente quanto diceva suo genero, in modo che Elizabeth non riusciva a capire come la signora Catherine potesse sopportarlo. Ma lei sembrava compiaciuta da quell’eccessivo apprezzamento e sorrideva affabilmente, soprattutto quando qualche piatto era nuovo per loro. La conversazione durante la cena fu scarsa: Elizabeth era pronta a parlare non appena si presentava l’occasione, ma sedeva tra Charlotte e Miss de Bourgh; la prima ascoltava attentamente la signora Catherine, mentre la seconda non disse una parola per tutta la durata del pasto. La signora Jenkinson era principalmente impegnata a osservare quanto poco mangiasse Miss de Bourgh, incoraggiandola a provare altri piatti e temendo che fosse malata. [[characters/maria|Maria]] riteneva inutile parlare, e gli uomini non facevano altro che mangiare e lodare.
 
 
 
@@ -9155,68 +6892,6 @@ praise into his own hands.
 [Illustration]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Quando le signore tornarono nel salotto, non c’era molto da fare se non ascoltare Lady Catherine parlare; lei continuò senza interruzioni fino all’arrivo del caffè, esprimendo il proprio parere su ogni argomento in modo così deciso da dimostrare chiaramente che non era abituata a vedere le proprie opinioni contestate. Interrogò con familiarità e dettaglio sulle questioni domestiche di Charlotte e le diede molti consigli riguardo alla gestione di tutto ciò; le spiegò come ogni cosa dovesse essere organizzata in una famiglia così piccola come la sua, e le fornì indicazioni su come prendersi cura delle mucche e degli animali da allevamento. Elizabeth si rese conto che non esisteva nulla che potesse sfuggire all’attenzione di questa nobile signora, nulla che potesse offrirle l’occasione di dare ordini agli altri. Durante le pause del suo discorso con la signora Collins, rivolse varie domande a Maria ed Elizabeth, ma soprattutto a quest’ultima, di cui conosceva meno cose; osservò inoltre alla signora Collins che Elizabeth era una ragazza molto gentile e carina. Le chiese più volte quante sorelle avesse, se fossero più grandi o più giovani di lei, se qualcuna di loro sarebbe probabilmente andata a sposarsi, se fossero belle, dove avessero ricevuto un’educazione, quale tipo di carrozza possedesse suo padre e quale fosse il cognome da nubile di sua madre. Elizabeth trovò tutte queste domande molto indiscrete, ma le rispose con grande calma. A quel punto Lady Catherine osservò.
-
-“L’eredità di vostro padre è destinata a Mr. Collins, giusto? Per vostro bene,” disse rivolgendosi a Charlotte, “ne sono felice; altrimenti non vedo alcun motivo per destinare eredità attraverso la linea femminile. Nella famiglia di Sir Lewis de Bourgh non si riteneva necessario farlo. Suonate e cantate, signorina Bennet?”
-
-“Un po, davvero’.”
-
-“Allora, un giorno o l’altro saremo felici di ascoltarti. Il nostro strumento è davvero eccezionale, probabilmente superiore agli altri, lo proverai sicuramente un giorno. Tue sorelle sanno suonare e cantare?”
-
-“Uno di loro sì.”
-
-“Perché nessuno di voi ha imparato? Avreste dovuto tutti imparare. Le ragazze Webb giocano tutte, e il loro padre non ha un reddito così alto come il vostro. Voi disegnate?”
-
-"No, affatto."
-
-“Nessuno di voi?”
-
-"Nessuno."
-
-“È molto strano. Ma immagino che tu non abbia avuto l’opportunità. Tua madre avrebbe dovuto portarti in città ogni [[motifs/spring|primavera]], per il tuo bene e per farti imparare dai maestri.”
-
-“Mia madre non avrebbe obiezioni, ma mio padre odia [[settings/london|Londra]].”
-
-La tua tutrice se n’è andata?
-
-“Non abbiamo mai avuto una governante.”
-
-“Nessuna tutrice! Come è stato possibile? Cinque figlie cresciute in casa senza una tutrice. Non ho mai sentito parlare di una cosa del genere. Tua madre deve essere stata davvero disposta a sacrificarsi molto per la tua [[concepts/education|istruzione]].”
-
-Elizabeth faticava a trattenersi dal sorridere, mentre le assicurava che non era andata così.
-
-“Allora, chi ti ha insegnato? Chi si è preso cura di te? Senza una tata, devi essere stato trascurato.”
-
-“Rispetto a alcune famiglie, credo che la nostra fosse una di quelle favorevoli; ma coloro di noi che desideravano imparare non hanno mai mancato degli strumenti necessari. Siamo sempre stati incoraggiati a leggere e avevamo tutti gli insegnanti di cui avevamo bisogno. Quelli, invece, che sceglievano di essere pigri, beh, loro sì che potevano permetterselo.”
-
-“Ah no, non ne ho alcun [[concepts/doubt|dubbio]]; ma è proprio ciò che una governante può evitare. E se avessi conosciuto vostra madre, le avrei consigliato assolutamente di assumerne una. Dico sempre che, nell’[[concepts/education|educazione]], nulla può essere fatto senza un insegnamento costante e regolare, e solo una governante può fornirlo. È meraviglioso quante famiglie abbia potuto aiutare in questo modo. Sono sempre felice quando riesco a sistemare bene una giovane donna. Quattro nipoti della signora Jenkinson sono ora in ottime condizioni grazie a me; e solo l’altro giorno ho consigliato un’altra ragazza, di cui mi era stata fatta menzione casualmente. La famiglia ne è molto soddisfatta. Signora Collins, le ho già parlato dell’incontro di ieri con Lady Metcalfe, che è venuta a ringraziarmi? Ritiene davvero Miss Pope un vero tesoro, ‘Lady Catherine,’ mi ha detto, ‘mi ha regalato un vero tesoro.’ Le sue sorelle più giovani sono fuori casa, signorina Bennet?”
-
-“Sì, signora, tutto a posto.”
-
-“Tutti e cinque insieme? Molto strano. E tu sei solo il secondo ad andarsene. I più giovani se ne vanno prima che quelli più grandi si sposino. Le tue sorelle devono essere molto giovani, allora, ”
-
-“Sì, mia figlia minore non ha ancora sedici anni. Forse lei è troppo giovane per frequentare molte compagnie. Ma davvero, signora, penso che sarebbe molto ingiusto impedire alle sorelle più giovani di partecipare alle attività sociali e ai divertimenti, soprattutto se la maggiore non ha i mezzi o l’interesse a sposarsi presto. La figlia più piccola ha lo stesso diritto ai piaceri della gioventù della prima. E tenerla indietro per un motivo del genere? Non credo che ciò possa favorire affetto fraterno o una mentalità raffinata.”
-
-“Per la mia parola,” disse Sua Signoria, “esprimi il tuo parere in modo molto deciso per una persona così giovane. Per favore, quanti anni hai?”
-
-“Con tre sorelle più giovani ormai adulte,” rispose Elizabeth sorridendo, “vostra Signoria difficilmente può aspettarsi che io la possieda ancora.”
-
-Lady Catherine sembrava davvero sorpresa per non aver ricevuto una risposta diretta; e Elizabeth sospettò di essere la prima persona al mondo a osare prendersi gioco di una tale dignitosa impertinenza.
-
-“Non puoi avere più di vent’anni, ne sono sicuro… quindi non c’è bisogno che nasconda la tua età.”
-
-"#Non ho ventidue anni."
-
-Quando i signori si unirono a loro e il tè fu finito, furono preparati i tavoli da gioco. Lady Catherine, Sir William, nonché il signor e la signora Collins sedettero per giocare a quadriglia; mentre Miss De Bourgh scelse di giocare al casinò, le due ragazze ebbero l’onore di aiutare la signora Jenkinson a formare il proprio gruppo. Il loro tavolo era estremamente noioso: quasi nessuna parola veniva pronunciata che non riguardasse il gioco, tranne quando la signora Jenkinson esprimeva le sue preoccupazioni riguardo al fatto che Miss De Bourgh potesse sentirsi troppo calda o troppo fredda, oppure che avesse troppa o troppo poca luce. Al tavolo accanto, invece, si svolgevano molte più conversazioni. Lady Catherine, per lo più, commentava gli errori degli altri tre giocatori o raccontava aneddoti personali. Il signor Collins si limitava ad approvare tutto ciò che lei diceva, ringraziandola per ogni vincita e scusandosi se, a suo parere, ne aveva ottenute troppe. Sir William non diceva molto: stava semplicemente accumulando nella sua memoria aneddoti e nomi nobili.
-
-Dopo che Lady Catherine e sua figlia avevano giocato per tutto il tempo che desideravano, i tavoli furono smontati; la carrozza fu offerta a Mrs. Collins, accettata con gratitudine e immediatamente preparata per la partenza. La compagnia si riunì quindi intorno al [[motifs/fire|focolare]] per ascoltare Lady Catherine predire il tempo che avrebbero avuto il giorno seguente. Furono chiamati all’improvviso dall’arrivo della carrozza; dopo molte parole di ringraziamento da parte di Mr. Collins e altrettanti inchini da parte di Sir William, partirono. Non appena se ne furono andati, Elizabeth fu invitata dalla sua cugina a esprimere il proprio parere su tutto ciò che aveva visto a Rosings; per amor di Charlotte, lei descrisse la situazione in modo più favorevole del vero. Tuttavia, le sue lodi, sebbene le fossero costate qualche sforzo, non riuscirono affatto a soddisfare Mr. Collins, il quale dovette ben presto intervenire personalmente per difendere la reputazione di sua moglie.
-
-
-
-Illustrazione
-
 
 
 <span class="atom-split" data-atom="chapter_30" data-title="Pride and Prejudice — Chapter 30" data-chapter="Chapter 30" data-kind="chapter" data-tags="motif/garden,motif/home,motif/road,motif/silence,motif/time,motif/well,motif/window,concept/honour"></span>
@@ -9365,54 +7040,6 @@ away.
 “At Church”
 ]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XXX.
-
-Illustrazione
-
-Sir William rimase a Hunsford solo una settimana; ma la sua visita fu sufficiente per convincersi che sua figlia fosse sistemata in modo molto confortevole, e che avesse un marito e dei vicini davvero rari da trovare. Mentre Sir William era con loro, il signor Collins dedicava le mattine a portarlo in giro in calesa e a fargli visitare la zona; ma una volta che lui se ne andò, tutta la famiglia tornò alle proprie abitudini quotidiane. Elizabeth fu sollevata nel constatare che questo cambiamento non influenzasse negativamente le loro relazioni con il cugino: infatti, il periodo tra colazione e cena veniva ora trascorso da lui lavorando in giardino, leggendo o scrivendo, oppure guardando fuori dalla finestra nella sua stanza, che si affacciava sulla strada. La stanza dove sedevano le signore era situata sul lato opposto della casa. All’inizio, Elizabeth si chiese perché Charlotte non preferisse utilizzare la sala da pranzo per le riunioni; quella stanza era più spaziosa e aveva un aspetto più piacevole. Ma presto capì che la sua amica aveva una ragione valida per tale scelta: il signor Collins, infatti, avrebbe sicuramente trascorso molto meno tempo nella propria stanza se si fossero riunite in un ambiente altrettanto vivace. E così, apprezzò davvero questa organizzazione.
-
-Dalla sala da pranzo non riuscivano a distinguere nulla nel vicolo; erano quindi in debito con il signor Collins per le informazioni riguardanti i veicoli che vi passavano, e soprattutto su quanto spesso la signorina De Bourgh vi si fermasse con il suo phaeton. Lui non mancava mai di avvisarli, anche se ciò accadeva quasi ogni giorno. Lei si fermava spesso alla canonica e scambiava qualche parola con Charlotte, ma raramente riusciva a convincerla ad entrare.
-
-Trascorsero pochissimi giorni in cui il signor Collins non andasse a Rosings, e altrettanto pochi giorni in cui sua moglie non ritenesse necessario seguirne l’esempio; finché Elizabeth non si ricordò che potevano esserci altre questioni familiari da risolvere, non riuscì a comprendere perché dedicassero così tante ore a quei viaggi. Di tanto in tanto ricevevano la visita della sua signoria, e nulla le sfuggiva di ciò che accadeva nella stanza durante quelle visite: esaminava il loro lavoro, criticava l’organizzazione degli arredi o individuava negligenze da parte delle domestiche; e se accettava qualche rinfrescamento, sembrava farlo soltanto per scoprire che le carni della signora Collins erano troppo grasse per la sua famiglia.
-
-Elizabeth presto si rese conto che, sebbene questa nobile signora non fosse incaricata della gestione della pace nella contea, era un magistrato molto attivo nella sua parrocchia; i più piccoli problemi venivano sempre portati a lei dal signor Collins. Ogni volta che qualche abitante del villaggio mostrava tendenze a litigare, essere insoddisfatto o troppo povero, lei si recava subito nel villaggio per risolvere le loro dispute, zittire le loro lamentele e far sì che tornassero in armonia e prosperità.
-
-Illustrazione:
-
-“Non mancava mai di informarli”
-
-Le serate trascorse a cena a Rosings si ripetevano più o meno due volte alla settimana; e, tenendo conto della scomparsa di Sir William e del fatto che c’era soltanto un tavolo da gioco la sera, ogni di queste occasioni era simile alla prima. Le loro altre attività erano poche, poiché lo stile di vita della zona non era al di sopra delle possibilità dei Collins. Tuttavia, questo non rappresentava alcun problema per Elizabeth; nel complesso, trascorreva il suo [[motifs/time|tempo]] in modo abbastanza confortevole: aveva mezz’ora di piacevoli conversazioni con Charlotte, e il tempo era così bello a quell’epoca dell’anno che spesso si divertiva molto all’aperto. Il suo passeggiato preferito, quando gli altri andavano a far visita a Lady Catherine, era lungo il boschetto aperto che costeggiava quel lato del parco; c’era un sentiero riparato e piacevole, che sembrava apprezzato soltanto da lei, e dove si sentiva al sicuro dalla curiosità di Lady Catherine.
-
-In questo modo tranquillo, la prima quindicina del suo soggiorno passò rapidamente. La Pasqua si avvicinava, e la settimana che la precedeva avrebbe portato un nuovo membro nella famiglia di Rosings, il che, in un ambiente così ristretto, doveva sicuramente essere importante. Appena arrivata, Elizabeth aveva saputo che il signor Darcy sarebbe arrivato entro poche settimane; e sebbene non ci fossero molte persone tra le sue conoscenti che lei non preferisse, la sua venuta avrebbe aggiunto un nuovo elemento alle loro riunioni a Rosings. Le sarebbe stato divertente osservare quanto fossero vane le speranze della signorina Bingley riguardo a lui, visto il modo in cui lui si comportava con sua cugina – per la quale, evidentemente, Lady Catherine lo aveva destinato. Quest’ultima parlava della sua venuta con grande soddisfazione, lo elogiava profondamente e sembrava quasi arrabbiata nel scoprire che lui fosse già stato spesso visto dalla signorina Lucas e da lei stessa.
-
-Il suo arrivo fu presto noto nella canonica; infatti, il signor Collins passeggiava per tutta la mattina all’interno della visuale delle case che si affacciavano su Hunsford Lane, al fine di.
-
-Illustrazione:
-
-“I signori lo accompagnarono.”
-
-Copyright 1894 di George Allen.
-
-La prima conferma al riguardo; e, dopo essersi inchinato mentre la carrozza entrava nel parco, si affrettò a tornare a casa con grande entusiasmo. La mattina seguente si recò immediatamente a Rosings per rendere omaggio. C'erano due nipoti di Lady Catherine che richiedevano la sua attenzione, poiché il signor Darcy aveva portato con sé il colonnello Fitzwilliam, figlio minore di suo zio, Lord ----; e, a grande sorpresa di tutti, quando il signor Collins tornò, i gentiluomini lo accompagnarono. Charlotte li aveva visti attraversare la strada dalla stanza di suo marito e subito corse dalle ragazze per raccontare loro quale onore le aspettava, aggiungendo.
-
-“Posso ringraziarti, Eliza, per questa tua cortesia. Il signor Darcy non sarebbe mai venuto così presto ad accogliermi.”
-
-Elizabeth non ebbe quasi il tempo di rifiutare quel complimento che già il campanello annunciava l’arrivo dei tre signori. Il colonnello Fitzwilliam, che guidava il gruppo, aveva circa trent’anni; non era particolarmente attraente, ma aveva un portamento e un modo di parlare davvero da gentiluomo. Il signor Darcy sembrava esattamente come lo si era abituati a vederlo in Hertfordshire: rivolse i suoi complimenti, con la solita riservatezza, alla signora Collins; e nonostante i suoi sentimenti verso la sua amica, la accolse con estrema compostezza. Elizabeth gli riservò solo un semplice saluto, senza dire una parola.
-
-Il colonnello Fitzwilliam entrò nella conversazione con disinvoltura e naturalezza, tipiche di un uomo ben educato, e parlò in modo molto piacevole; ma suo cugino, dopo aver fatto un commento superficiale sulla casa e sul giardino rivolto alla signora Collins, rimase seduto per qualche tempo senza dire una parola. Alla fine, tuttavia, la sua cortesia ebbe il sopravvento e chiese a Elizabeth come stesse la sua famiglia. Lei rispose nel solito modo; dopo un breve silenzio, aggiunse.
-
-“Mia sorella maggiore è stata in città questi tre mesi. Non l’hai mai vista, per caso?”
-
-Lei era perfettamente consapevole che lui non l'avesse mai avuta; ma voleva vedere se avrebbe mostrato qualche segno di ricordare ciò che era accaduto tra i Bingley e Jane. Gli sembrava un po’ confuso quando rispose di non essere mai stato così fortunato da incontrare la signorina Bennet. L’argomento non fu più affrontato, e poco dopo gli uomini se ne andarono.
-
-
-
-Illustrazione:
-
-“In chiesa”
 
 
 
@@ -9595,76 +7222,6 @@ ready to take them all [[motifs/home|home]].
 
 [Illustration]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XXXI.
-
-Illustrazione
-
-I modi del Colonnello Fitzwilliam erano molto apprezzati nella canonica; tutte le signore ritenevano che lui potesse contribuire notevolmente al piacere delle loro riunioni a Rosings. Tuttavia, trascorsero alcuni giorni prima di ricevere un invito per andarvi, poiché finché c'erano ospiti in casa non era necessario invitare nessuno; fu soltanto il giorno di Pasqua, quasi una settimana dopo l’arrivo dei signori, che ricevettero tale invito. In quel momento venne loro chiesto semplicemente di andarvi la sera, dopo la funzione in chiesa. Nella settimana precedente avevano visto molto poco sia Lady Catherine che sua figlia. Il Colonnello Fitzwilliam era stato più volte a visita nella canonica durante quel periodo, ma il signor Darcy lo avevano incontrato soltanto in chiesa.
-
-L’invito fu naturalmente accettato e, all’ora stabilita, si unirono alla festa nel salotto di Lady Catherine. Sua Signoria li accolse con cortesia, ma era evidente che la loro compagnia non le risultava affatto gradita quanto quando non aveva nessun altro con cui intrattenersi; in realtà, sembrava quasi completamente assorbita dai suoi nipoti, parlando soprattutto con Darcy, molto più di qualsiasi altra persona nella stanza.
-
-Il colonnello Fitzwilliam sembrava davvero felice di vederli: qualsiasi cosa rappresentasse per lui un sollievo gradito a Rosings; inoltre, la bella amica della signora Collins gli era molto piaciuta. Si sedette accanto a lei e parlò in modo così piacevole di [[characters/kent|Kent]] e dell’Hertfordshire, di viaggi e soggiorni a [[motifs/home|casa]], di nuovi libri e musica, che Elizabeth non si era mai divertita tanto in quella stanza prima d’allora; conversarono con tale vivacità e disinvoltura da attirare l’attenzione sia della signora Catherine che del signor Darcy. I suoi occhi si rivolgevano più volte verso di loro con uno sguardo curioso; dopo un po’, anche la signora Catherine condivise quel sentimento, il che fu chiaramente dimostrato dal fatto che non esitò a chiamarli.
-
-“Cosa stai dicendo, Fitzwilliam? Di cosa stai parlando? Cosa stai raccontando a Miss Bennet? Lasciami sentire.”
-
-“Stavamo parlando di musica, signora,” disse lui, quando ormai non poté più evitare di rispondere.
-
-“Di musica! Allora prega di parlare ad alta voce. È l’argomento che più mi delizia tra tutti. Devo assolutamente partecipare alla conversazione, se si tratta di musica. Credo che in Inghilterra ci siano poche persone che apprezzino davvero la musica quanto me, o che abbiano un gusto naturale migliore. Se solo avessi avuto l’opportunità di imparare. Sarei diventato molto abile. E lo stesso vale per Anne, se solo la sua salute glielo avesse permesso. Sono certo che avrebbe suonato meravigliosamente. Come va Georgiana, Darcy?”
-
-Il signor Darcy parlò con affettuoso elogio della competenza di sua sorella.
-
-“Sono molto felice di sentire parlare così bene di lei,” disse Lady Catherine; “e per favore dicale da parte mia che non può aspettarsi di eccellere se non si esercita molto.”
-
-“Le assicuro, signora,” rispose, “che non ha bisogno di un simile consiglio. Pratica con grande costanza.”
-
-“Meglio così. Non si può mai fare abbastanza; e la prossima volta che le scriverò, le dirò di non trascurarlo per nessun motivo. Spesso dico alle giovani signore che nessuna eccellenza in musica può essere raggiunta senza una pratica costante. Ho detto più volte a Miss Bennet che non suonerà mai davvero bene se non si esercita di più; e anche se la signora Collins non possiede uno strumento, è molto benvenuta: le ho spesso detto di venire ogni giorno a Rosings e di suonare il pianoforte nella stanza della signora Jenkinson. Lì, in quella parte della casa, non disturberebbe nessuno, capisce?”
-
-Il signor Darcy sembrava un po’ imbarazzato dal cattivo comportamento di sua zia e non rispose nulla.
-
-Quando il caffè finì, il Colonnello Fitzwilliam ricordò a Elizabeth che le aveva chiesto di suonargli qualcosa; lei si sedette subito all’organo. Lui le avvicinò una sedia. Lady Catherine ascoltò metà della canzone, poi, come al solito, iniziò a parlare con l’altro suo nipote; fino a quando questi non si allontanò da lei e, con la sua solita calma, si avvicinò al pianoforte, posizionandosi in modo da poter vedere chiaramente il viso della bella esecutrice. Elizabeth se ne accorse e, durante una pausa opportuna, gli sorrise e disse:
-
-“Volete spaventarmi, signor Darcy, venendo qui in questo stato per ascoltarmi. Ma non mi allarmerò, anche se vostra sorella suona davvero molto bene. Ho una testa dura: non riesco mai ad arrendermi alle intenzioni altrui di spaventarmi. Anzi, ogni tentativo di intimidirmi aumenta soltanto il mio [[concepts/courage|coraggio]].”
-
-“Non dirò che ti sbagli,” rispose, “perché non avresti mai potuto credere che avessi intenzione di spaventarti; inoltre, conosco te abbastanza a lungo da sapere che ti diverte molto a esprimere occasionalmente opinioni che, in realtà, non sono le tue.”
-
-Elizabeth rise di cuore a questa immagine di sé stessa e disse al Colonnello Fitzwilliam: “Vostro cugino vi darà un'idea molto negativa di me e vi insegnerà a non credere nemmeno una parola di ciò che dico. Sono particolarmente sfortunata ad incontrare una persona così [[motifs/well|abile]] nel smascherare il mio vero carattere, in un luogo dove speravo di poter passare per qualcuno di rispettabile. Davvero, signor Darcy, è molto scortese da parte vostra menzionare tutto ciò che sapevate a mio svantaggio nell’Hertfordshire. E, permettetemi di dirlo, anche molto maleducato: mi spinge infatti a ribattere, e potrebbero venire fuori cose che scioccherebbero molto le vostre parenti.”
-
-“Non ho paura di te,” disse lui, sorridendo.
-
-“Prego, ditemi di cosa lo accusate,” gridò il Colonnello Fitzwilliam. “Vorrei sapere come si comporta con gli sconosciuti.”
-
-“Allora ascolterete, ma preparatevi a qualcosa di davvero terribile. La prima volta che lo vidi in Hertfordshire fu a un ballo. E sapete cosa fece? Ballò soltanto quattro volte! Mi dispiace di farvi questo dolore, ma è la verità: ballò solo quattro volte, nonostante ci fossero pochi gentiluomini presenti; e, per quanto ne so, più di una giovane signorina rimase senza partner. Signor Darcy, non potete negare questo fatto.”
-
-“A quel [[motifs/time|tempo]], non avevo l’onore di conoscere alcuna signora presente all’assemblea, oltre a quelle della mia stessa fazione.”
-
-“Vero; e nessuno può mai essere presentato in una sala da ballo. [[motifs/well|Beh]], Colonnello Fitzwilliam, cosa devo suonare adesso? Le mie dita aspettano i suoi ordini.”
-
-“Forse,” disse Darcy, “avrei dovuto comportarmi meglio se avessi cercato di ottenere un’introduzione, ma non sono nelle condizioni giuste per presentarmi agli sconosciuti.”
-
-“Dovremmo chiedere a vostro cugino il motivo di tutto questo?” disse Elizabeth, rivolgendosi ancora al Colonnello Fitzwilliam. “Dovremmo chiedergli perché un uomo sensato e ben istruito, che ha vissuto nel mondo, sia così inadatto a presentarsi agli sconosciuti, ”
-
-“Posso rispondere alla tua domanda,” disse Fitzwilliam, “senza rivolgermi a lui. È perché lui non si darà la briga di farlo.”
-
-“Certamente non possiedo il talento che alcune persone hanno,” disse Darcy, “di conversare facilmente con persone che non ho mai visto prima. Non riesco a imitare il loro modo di parlare, né ad apparire interessato ai loro argomenti, come spesso si vede fare.”
-
-“Le mie dita,” disse Elizabeth, “non si muovono su questo strumento con quella maestria che vedo in molte donne. Non hanno la stessa forza né la stessa rapidità, e non producono lo stesso effetto sonoro. Ma ho sempre pensato che fosse colpa mia, perché non mi prendevo la briga di esercitarmi. Non è che non creda che le mie dita siano capaci, quanto quelle di qualsiasi altra donna, di eseguire al meglio.”
-
-Darcy sorrise e disse: “Hai perfettamente ragione. Hai utilizzato il tuo [[motifs/time|tempo]] in modo molto migliore. Nessuno che abbia avuto l’onore di ascoltarti potrebbe pensare che ci sia qualcosa che non va. Nessuno di noi si esibisce davanti agli sconosciuti.”
-
-In quel momento furono interrotti da Lady Catherine, che chiese loro di cosa stessero parlando. Elizabeth iniziò immediatamente a suonare di nuovo. Lady Catherine si avvicinò e, dopo aver ascoltato per qualche minuto, disse a Darcy.
-
-“Se la signorina Bennet si esercitasse di più e potesse disporre dell’insegnamento di un maestro di [[settings/london|Londra]], non sbaglierebbe affatto. Ha una buona comprensione delle tecniche di esecuzione, anche se il suo gusto musicale non è paragonabile a quello di Anne. Anne sarebbe diventata un’interprete davvero deliziosa, se la sua salute le avesse permesso di continuare gli studi.”
-
-Elizabeth guardò Darcy per vedere con quanta cordialità avesse accolto i complimenti di sua cugina; ma né in quel momento né in altri riuscì a percepire alcun segno di [[motifs/love|amore]]; e dal suo comportamento verso Miss De Bourgh dedusse che, se lei fosse stata sua parente, avrebbe potuto sposarla altrettanto facilmente.
-
-Lady Catherine continuò i suoi commenti sulle prestazioni di Elizabeth, mescolandoli con molte indicazioni riguardo alla tecnica esecutiva e al gusto estetico. Elizabeth le accolse con tutta la pazienza dovuta alla cortesia; su richiesta dei gentiluomini, rimase davanti all’strumento fino a quando la carrozza di Lady Catherine non fu pronta per riaccompagnarli tutti [[motifs/home|a casa]].
-
-
-
-Illustrazione
 
 
 
@@ -9851,83 +7408,6 @@ in the church, and his cousin could have none at all.
 
 [Illustration: “On looking up”]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XXXII.
-
-Illustrazione
-
-La mattina seguente, Elizabeth era seduta da sola e scriveva a Jane; intanto la signora Collins e Maria erano andate in villaggio per affari. Fu allora che fu sorpresa dal suono di bussare alla porta, segnale certo dell’arrivo di una visita. Non avendo sentito il rumore di una carrozza, pensò che potesse trattarsi della signorina Catherine; con quel timore, stava appunto mettendo da parte la lettera a metà scritta per evitare domande indesiderate. Quando la porta si aprì, con sua grande sorpresa entrarono nella stanza soltanto il signor Darcy.
-
-Sembrava anche sorpreso nel trovarla da sola e si scusò per la sua intrusione, facendole sapere che aveva pensato che tutte le signore fossero lì dentro.
-
-Poi si sedettero, e quando lei fece domande su Rosings, sembrò che fossero sul punto di cadere in un totale [[motifs/silence|silenzio]]. Era quindi assolutamente necessario pensare a qualcosa; e in questa situazione di emergenza, ricordando _quando_ lo aveva visto l’ultima volta nel Hertfordshire, e sentendo curiosità di sapere cosa avrebbe detto riguardo alla loro partenza affrettata, lei osservò.
-
-“Come siete partiti tutti così all’improvviso da Netherfield lo scorso novembre, signor Darcy! Dev’essere stata una sorpresa molto piacevole per il signor Bingley vedervi arrivare tutti subito dopo di lui; infatti, se ricordo bene, era partito solo il giorno prima. Spero che lui e le sue sorelle stessero bene quando avete lasciato [[settings/london|Londra]], ”
-
-“Esattamente così, grazie.”
-
-Scoprì di non ricevere alcuna altra risposta; e, dopo una breve pausa, aggiunse:–
-
-“Credo di aver capito che il signor Bingley non abbia alcuna intenzione di tornare mai a Netherfield, ”
-
-“Non l’ho mai sentito dire una cosa del genere; ma è probabile che in futuro trascorra molto poco tempo lì. Ha molti amici, e si trova in un’età della vita in cui gli amici e le impegnative attività aumentano continuamente.”
-
-“Se intende trascorrere poco tempo a Netherfield, sarebbe meglio per i vicini se lasciasse del tutto quella casa, così forse potremmo stabilirci lì con una famiglia. Ma forse il signor Bingley non ha preso in affitto la casa tanto per comodità dei vicini quanto per suo uso personale, e dobbiamo aspettarci che la tenga o la lasci seguendo lo stesso principio.”
-
-“Non dovrei sorprendermi,” disse Darcy, “se decidesse di rinunciarvi non appena ricevesse un'offerta di acquisto valida.”
-
-Elizabeth non rispose nulla. Aveva paura di parlare ancora del suo amico; e, non avendo altro da dire, decise di lasciare perdere la questione di trovare un argomento di conversazione per lui.
-
-Capì allusione e presto iniziò a dire: “Questa sembra davvero una casa molto confortevole. Credo che Lady Catherine abbia fatto molto per migliorarla quando il signor Collins è arrivato per la prima volta a Hunsford.”
-
-“Credo che l’abbia fatto. E sono sicuro che non avrebbe potuto dedicare la sua gentilezza a una persona più grata di così.”
-
-“Il signor Collins sembra davvero fortunato nella scelta della moglie.”
-
-“Sì, certamente; i suoi amici possono essere davvero felici che abbia incontrato una di quelle poche donne sensate che avrebbero potuto accettarlo o renderlo felice. Mia amica ha una grande intelligenza, anche se non sono sicura che consideri il suo matrimonio con il signor Collins la scelta più saggia che abbia mai fatto. Comunque, sembra assolutamente felice; e, da un punto di vista prudente, è certamente una buona combinazione per lei.”
-
-“Deve essere molto piacevole per lei vivere così vicina alla propria famiglia e ai propri amici.”
-
-“Una distanza ‘facile’, dici? In realtà sono quasi cinquanta miglia.”
-
-“E cosa rappresentano cinquanta miglia di buona [[motifs/road|strada]]? Poco più di mezza giornata di [[motifs/journey|viaggio]]. Sì, la considero davvero una distanza molto breve.”
-
-“Non avrei mai dovuto considerare la distanza come uno dei _vantaggi_ di questo incontro,” esclamò Elizabeth. “Non avrei mai dovuto dire che la signora Collins fosse sistemata _vicino_ alla sua famiglia.”
-
-“È una prova del vostro attaccamento personale al Hertfordshire. Qualsiasi luogo che si trovi al di fuori della zona immediatamente circostante Longbourn, immagino, vi sembrerebbe lontano.”
-
-Mentre parlava, aveva un certo sorriso sul viso; Elizabeth pensò di capirne il significato: doveva presumere che lei stesse pensando a Jane e a Netherfield. Lei arrossì mentre rispondeva.
-
-“Non intendo dire che una donna non possa stabilirsi troppo vicino alla sua famiglia. La distanza, sia essa grande o piccola, deve essere relativa e dipendere da molte circostanze diverse. Laddove ci sia abbastanza denaro per rendere inutile il costo dei viaggi, la distanza non rappresenta un problema. Ma in questo caso è diverso. Il signor e la signora Collins hanno un reddito confortevole, ma non tale da permettere viaggi frequenti. E sono convinta che mia amica non si considererebbe “vicina” alla sua famiglia se la distanza fosse anche solo la metà di quella attuale.”
-
-Il signor Darcy avvicinò leggermente la sua sedia verso di lei e disse: “Non può certo avere un diritto così forte a un attaccamento locale così intenso. Non può aver sempre vissuto a Longbourn.”
-
-Elizabeth sembrava sorpresa. Il gentiluomo provò un cambiamento d’umore: si allontanò dalla sedia, prese un giornale dal tavolo e, dopo averlo sfogliato rapidamente, disse con voce più fredda.
-
-“Sei soddisfatto di [[characters/kent|Kent]]?”
-
-Seguì un breve dialogo sull’argomento della campagna; entrambe le parti parlavano con calma e concisione. E presto tutto finì con l’arrivo di Charlotte e sua sorella, appena tornate dal loro giro. Quel _tête-à-tête_ le sorprese. Il signor Darcy spiegò l’errore che lo aveva portato ad interferire con la signorina Bennet; dopo essere rimasto ancora qualche minuto, senza dire molto a nessuno, se ne andò.
-
-Illustrazione: “Acompagnati dalla loro zia”
-
-Copyright 1894 di George Allen.
-
-“Qual può essere il significato di tutto questo?” disse Charlotte non appena lui se ne fu andato. “Mia cara Eliza, deve essere innamorato di te, altrimenti non ci avrebbe mai cercati in questo modo così affettuoso.”
-
-Ma quando Elizabeth parlò del suo [[motifs/silence|silenzio]], non sembrava affatto probabile che fosse così, nemmeno secondo i desideri di Charlotte; e, dopo varie congetture, alla fine poterono solo supporre che la sua visita derivasse dalla difficoltà di trovare qualcosa da fare, il che era ancora più plausibile considerando la [[motifs/time|stagione]] dell’anno. Tutti gli sport all’aperto erano finiti; in casa c’erano Lady Catherine, libri e un biliardo, ma gli uomini non possono sempre stare rinchiusi. E, data la vicinanza della canonica, la piacevolezza del percorso per raggiungerla e le persone che vi abitavano, i due cugini trovarono quasi ogni giorno il motivo per andarci a piedi. Si presentavano a diverse ore del mattino, a volte separatamente, a volte insieme, e talvolta accompagnati dalla loro zia. Era evidente per tutti che il Colonnello Fitzwilliam veniva perché gli piaceva la loro compagnia. Un’idea che, naturalmente, lo rendeva ancora più attraente ai loro occhi; e Elizabeth, ricordando quanto le piacesse stare con lui, così come l’evidente ammirazione che provava per lei, pensò al suo ex preferito, George Wickham. Anche se, paragonandoli, notava che nei modi del Colonnello Fitzwilliam mancava quella dolcezza così affascinante, credeva comunque che avesse una mente molto più equilibrata e colta.
-
-Ma il motivo per cui il signor Darcy veniva così spesso alla canonica era più difficile da capire. Non poteva essere per socializzare, visto che spesso rimaneva lì seduto per dieci minuti senza dire una parola; e quando parlava, sembrava che lo facesse per necessità piuttosto che per volontà: un sacrificio alla convenienza, non un piacere personale. Raramente mostrava davvero entusiasmo. La signora Collins non sapeva come interpretare il suo comportamento. Il fatto che il colonnello Fitzwilliam ridesse occasionalmente della sua stupidità dimostrava che in realtà fosse molto diverso da come lei lo conosceva; e poiché avrebbe voluto credere che questo cambiamento fosse dovuto all’[[motifs/love|amore]] e che l’oggetto di quel [[motifs/love|amore]] fosse la sua amica Eliza, si impegnò seriamente per scoprirlo: lo osservava ogni volta che erano a Rosings o quando lui veniva a Hunsford, ma senza molto successo. Di certo guardava spesso la sua amica, ma l’espressione del suo sguardo era difficile da interpretare. Era uno sguardo serio, deciso, ma lei spesso dubitava che vi fosse davvero ammirazione in esso; a volte sembrava semplicemente un segno di distrazione.
-
-Lei aveva suggerito una o due volte a Elizabeth l’ipotesi che lui potesse provare qualcosa per lei, ma Elizabeth rideva sempre di quell’idea; e la signora Collins riteneva non fosse giusto insistere sull’argomento, per il rischio di suscitare aspettative che probabilmente si sarebbero rivelate deluse. Secondo lei, non c’era alcun [[concepts/doubt|dubbio]] che l’avversione della sua amica svanisse, se lei potesse pensare di avere su di lui un ascendente.
-
-Nei suoi piani per Elizabeth, a volte prevedeva che lei sposasse il Colonnello Fitzwilliam. Era, senza dubbio, l’uomo più piacevole: certamente la ammirava, e la sua posizione sociale era molto vantaggiosa; tuttavia, a contrastare questi vantaggi, il signor Darcy godeva di notevole influenza nella chiesa, mentre suo cugino non ne aveva affatto.
-
-
-
-
-Illustrazione: “Alzando lo sguardo”
 
 
 
@@ -10153,99 +7633,6 @@ displeased by her staying at [[motifs/home|home]].
 [Illustration]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XXXIII.
-
-Illustrazione
-
-Più di una volta, mentre passeggiava nel parco, Elizabeth incontrò inaspettatamente il signor Darcy. Sentiva tutta la stranezza di quella sfortuna che lo portava proprio lì, dove nessun altro andava; e per evitare che accadesse di nuovo, fece attenzione a informarlo fin dall’inizio che quel luogo le piaceva molto. Come potesse succedere una seconda volta era davvero strano. Eppure accadde, e anche una terza volta. Sembrava quasi un atto deliberato di cattiva volontà, o una sorta di penitenza volontaria; perché in quelle occasioni non si limitava a qualche domanda formale e a un imbarazzante silenzio prima di andarsene, ma lui trovava davvero necessario tornare indietro e camminare con lei. Non diceva molto, né lei si dava la pena di parlare o ascoltare molto; tuttavia, durante il loro terzo incontro, le sembrò che stesse facendo domande strane e senza alcun legame tra loro: riguardo al suo piacere di trovarsi a Hunsford, al suo amore per le passeggiate solitarie, e alla sua opinione sulla felicità del signor e della signora Collins. E quando parlava di Rosings, e lei diceva di non comprendere perfettamente quella casa, sembrava quasi aspettarsi che ogni volta che tornasse nel Kent si sarebbe fermata anche lì. Le sue parole lo suggerivano chiaramente. Forse aveva in mente il colonnello Fitzwilliam? Pensò che, se voleva dire qualcosa, doveva sicuramente alludere a ciò che poteva accadere in quella zona. Questo la turbava un po’, e fu molto sollevata quando arrivò al cancello, di fronte alla canonica.
-
-Un giorno, mentre camminava e rileggeva l’ultima lettera di Jane, soffermandosi su alcuni passaggi che dimostravano come Jane non avesse scritto in uno stato d’animo sereno, invece di essere sorpresa nuovamente dal signor Darcy, alzando lo sguardo vide che il colonnello Fitzwilliam le stava venendo incontro. Mettendo immediatamente da parte la lettera e forzandosi a sorridere, disse:
-
-Non lo sapevo che percorressi mai questa strada.
-
-“Sto facendo il giro del parco,” rispose, “come faccio di solito ogni anno, e intendevo concluderlo con una visita alla canonica. Andrai ancora lontano?”
-
-"No, avrei dovuto tornare un attimo fa."
-
-E così fece; insieme si diressero verso la canonica.
-
-“Sei davvero sicuro di lasciare [[characters/kent|Kent]] sabato?” chiese lei.
-
-“Sì, se Darcy non lo rimanda di nuovo. Ma sono a sua disposizione; lui organizza tutto come preferisce.”
-
-“E se non riesce a soddisfare i propri desideri attraverso tale organizzazione, almeno trova grande piacere nel poter scegliere liberamente. Non conosco nessuno che apprezzi di più il potere di fare ciò che vuole rispetto al signor Darcy.”
-
-“Gli piace molto fare a modo suo,” rispose il Colonnello Fitzwilliam.  
-“Ma lo facciamo tutti, più o meno. Solo che lui dispone di mezzi migliori per ottenerlo rispetto a molti altri: è ricco, mentre molti sono poveri. Parlo con sincerità. Un figlio minore, sai, deve abituarsi alla rinuncia e alla dipendenza dagli altri.”
-
-“A mio parere, il figlio minore di un conte può sapere molto poco su entrambe queste cose. Ora, seriamente, cosa ne sai tu della rinuncia a se stessi e della dipendenza dagli altri? Quando ti è mai stato impedito, a causa della mancanza di denaro, di andare dove volevi o di procurarti ciò che desideravi?”
-
-“Queste sono domande legate alla [[motifs/home|casa]]. E forse non posso dire di aver affrontato molte difficoltà di quel tipo. Ma in questioni più importanti, potrei soffrire a causa della mancanza di denaro. I figli più giovani, infatti, non possono sposarsi dove desiderano.”
-
-“Tranne che nei casi in cui preferiscano donne ricche, il che penso accada molto spesso.”
-
-“I nostri costumi di spesa ci rendono troppo dipendenti dal denaro; non ci sono molte persone della mia condizione sociale che possano permettersi di sposarsi senza preoccuparsi dei soldi.”
-
-“È forse questo,” pensò Elizabeth, “ciò che è destinato a me?” Arrossì all’idea; ma riprendendosi, disse con tono vivace: “E, per favore, qual è il prezzo abituale per un figlio minore di un conte? A meno che il fratello maggiore non sia molto malato, immagino che non si chiederebbero più di cinquantamila sterline.”
-
-Le rispose nello stesso stile, e l’argomento fu lasciato cadere. Per interrompere un [[motifs/silence|silenzio]] che avrebbe potuto fargli pensare che lei fosse turbata da quanto era accaduto, poco dopo disse:
-
-“Immagino che tuo cugino ti abbia portato con sé principalmente per avere qualcuno a sua disposizione. Mi chiedo perché non si sposi, per garantirsi una comodità del genere su base permanente. Ma forse, al momento, sua sorella fa lo stesso; e poiché è sotto la sua completa cura, lui può fare di lei ciò che vuole.”
-
-“No,” disse il Colonnello Fitzwilliam, “quella è un vantaggio che deve condividere con me. Sono anch’io coinvolto nella tutela della signorina Darcy.”
-
-“Davvero lo sei? E dimmi, che tipo di tutore sei? Il tuo incarico ti causa molti problemi? Le giovani donne della sua età a volte sono un po’ difficili da gestire; e se possiede davvero lo spirito tipico dei Darcy, potrebbe voler fare sempre a modo suo.”
-
-Mentre parlava, notò che lui la guardava con serietà; e il modo in cui subito le chiese perché pensasse che la signorina Darcy potesse causare loro qualche preoccupazione, la convinse che in qualche modo aveva colto molto vicino alla [[concepts/truth|_verità]]. Rispose direttamente:
-
-“Non c’è motivo di avere paura. Non ho mai sentito nulla di negativo su di lei; anzi, oserei dire che sia una delle persone più docili al mondo. È molto apprezzata da alcune signore che conosco, la signora Hurst e la signorina Bingley. Credo di avervi sentito dire di conoscerle.”
-
-“Li conosco un po’. Il loro fratello è un uomo piacevole e gentiluomo; è un grande amico di Darcy.”
-
-“Ah sì,” disse Elizabeth in tono asciutto, “il signor Darcy è insolitamente gentile con il signor Bingley e si prende molta cura di lui.”
-
-“Prendersi cura di lui! Sì, credo davvero che Darcy si prenda davvero cura di lui in quelle cose in cui lui ha più bisogno di attenzioni. Da qualcosa che mi ha detto durante il nostro [[motifs/journey|Viaggio]] verso qui, ho motivo di pensare che Bingley gli sia molto grato. Ma dovrei chiedergli scusa, perché non ho alcun diritto di supporre che si riferisse a Bingley. Era solo una congettura.”
-
-“Cosa intendi dire?”
-
-“È una circostanza che, naturalmente, Darcy non potrebbe desiderare che venisse conosciuta in modo generale; perché se dovesse arrivare alle orecchie della famiglia della signora, sarebbe qualcosa di sgradevole.”
-
-“Puoi star sicuro che non ne parlerò mai.”
-
-“E ricorda che non ho molte ragioni per supporre che si tratti di Bingley. Quello che mi ha detto è stato soltanto questo: che si era rallegrato di aver appena salvato un amico dalle difficoltà derivanti da un matrimonio estremamente imprudente, ma senza menzionare nomi né altri dettagli; e l’ho sospettato fosse Bingley solo perché ritenevo che fosse il tipo di giovane che potesse trovarsi in una situazione del genere, e perché sapevo che erano stati insieme per tutta l’estate scorsa.”
-
-Ha mai spiegato il signor Darcy le ragioni di questa sua interferenza?
-
-“Ho capito che esistevano obiezioni molto forti riguardo a quella signora.”
-
-“E quali metodi utilizzò per separarli?”
-
-“Non mi ha parlato delle sue arti personali,” disse Fitzwilliam sorridendo. “Mi ha raccontato soltanto ciò che ora vi ho detto io.”
-
-Elizabeth non rispose nulla e continuò a camminare, il cuore pieno di indignazione. Dopo averla osservata per un po’, Fitzwilliam le chiese perché fosse così pensierosa.
-
-“Sto pensando a quello che mi hai detto,” disse lei. “Il comportamento di tuo cugino non corrisponde ai miei sentimenti. Perché doveva essere lui a giudicare?”
-
-“Non trovi che la sua interferenza sia piuttosto invasiva?”
-
-“Non vedo quale diritto il signor Darcy avesse di giudicare la convenienza dei sentimenti del suo amico; né perché, basandosi soltanto sulla propria opinione, dovesse decidere e indicare in che modo quell’amico dovesse essere felice. Ma,” continuò, riprendendosi, “poiché non conosciamo i dettagli della situazione, non è giusto condannarlo. Non si può certo pensare che ci fossero sentimenti profondi in quel caso.”
-
-“Non si tratta di un'ipotesi irragionevole,” disse Fitzwilliam; “ma sminuisce davvero in modo molto grave l’[[concepts/honour|’onore]] della vittoria di mio cugino.”
-
-Queste parole furono dette scherzosamente, ma a lei sembravano rappresentare così fedelmente il signor Darcy che non osò rispondere; perciò cambiò bruscamente argomento e parlò di cose indifferenti fino a quando non arrivarono alla canonica. Lì, chiusa nella sua stanza non appena il loro visitatore se ne andò, poté riflettere senza interruzioni su tutto ciò che aveva sentito. Non era possibile che si riferissero ad altre persone se non a quelle con cui lei aveva rapporti; al mondo non potevano esistere due uomini su cui il signor Darcy avesse un tale potere infinito. Non aveva mai dubitato che fosse stato lui coinvolto nelle misure prese per separare il signor Bingley da Jane, ma aveva sempre attribuito a Miss Bingley l’idea principale e l’organizzazione di tutto ciò. Tuttavia, se la sua stessa [[concepts/vanity|vanità]] non lo ingannava, _lui_ era la causa – la sua [[concepts/pride|orgoglio]] e il suo capriccio erano la causa – di tutto ciò che Jane aveva sofferto e continuava a soffrire. Aveva distrutto, per un certo periodo, ogni speranza di felicità nel cuore più affettuoso e generoso del mondo; e nessuno poteva sapere quanto durevole fosse il male che aveva causato.
-
-“C'erano alcune obiezioni molto forti contro quella signora,” dissero le parole del Colonnello Fitzwilliam; e queste obiezioni forti probabilmente derivavano dal fatto che lei aveva un zio che era un avvocato di campagna, e un altro che si occupava di affari a [[settings/london|Londra]].
-
-“Per Jane stessa,” esclamò, “non potrebbe esserci alcuna possibilità di obiezione. È così bella e gentile! La sua intelligenza è eccellente, il suo modo di pensare è avanzato e i suoi modi sono incantevoli. Non si potrebbe certo trovare nulla da obiettare contro mio padre: anche se ha alcune peculiarità, possiede capacità che nemmeno il signor Darcy stesso dovrebbe disdegnare, e una rispettabilità che probabilmente non raggiungerà mai.” Quando pensava a sua madre, in effetti, la sua fiducia vacillava un po’; ma non voleva ammettere che alcuna obiezione potesse avere un peso reale presso il signor Darcy. Il cui [[concepts/pride|orgoglio]], ne era convinta, sarebbe stato ferito ancora di più dalla mancanza di rilievo nelle relazioni sociali della sua amica, piuttosto che dalla loro mancanza di buon senso. Alla fine, fu assolutamente certa che lui fosse stato guidato in parte da questo peggiore tipo di [[concepts/pride|orgoglio]], e in parte dal desiderio di mantenere il signor Bingley come pretendente per sua sorella.
-
-L’agitazione e le [[motifs/tears|lacrime]] che quella situazione provocò le causarono un mal di testa; la situazione peggiorò notevolmente verso sera, tanto che, unito al suo rifiuto di incontrare il signor Darcy, questo decise che non avrebbe partecipato all’incontro con i suoi cugini a Rosings, dove erano invitati a prendere il tè. La signora Collins, vedendo che si sentiva davvero male, non la costrinse ad andare e fece del suo meglio per impedire al marito di insistere; tuttavia, il signor Collins non riuscì a nascondere le sue preoccupazioni riguardo al fatto che Lady Catherine potesse essere infastidita dal suo rimanere a [[motifs/home|casa]].
-
-
-
-Illustrazione
-
 
 
 <span class="atom-split" data-atom="chapter_34--part_01" data-title="Pride and Prejudice — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/love,motif/pain,motif/rose,motif/silence,motif/well,concept/doubt,concept/honour,concept/hope,concept/pride,concept/suffering,character/kent"></span>
@@ -10355,32 +7742,6 @@ favourable, do you think that any consideration would tempt me to accept
 the man who has been the means of ruining, perhaps for ever, the
 happiness of a most beloved sister?”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XXXIV.
-
-Illustrazione
-
-Quando se ne furono andati, Elizabeth, come se volesse tormentarsi il più possibile a causa di Mr. Darcy, decise di esaminare tutte le lettere che Jane le aveva scritto da quando si trovava in [[characters/kent|Kent]]. Non contenevano alcuna lamentela concreta, né venivano menzionati eventi passati né sofferenze presenti. Tuttavia, in ogni singola frase di quelle lettere mancava quella serenità che solitamente caratterizzava lo stile di Jane; una serenità derivante da un animo in armonia con se stesso e dal desiderio di essere gentile verso tutti. Elizabeth prestò grande attenzione a ogni frase che esprimeva sentimenti di disagio, un’attenzione che quasi non aveva riservato alla lettura iniziale. L’orribile vanteria di Mr. Darcy riguardo alle sofferenze che era riuscito a causare le fece comprendere ancora meglio i tormenti della sorella. Fu un po’ consolante pensare che la sua visita a Rosings sarebbe terminata il giorno dopo, e ancora più consolante fu il fatto che in meno di quindici giorni lei stessa avrebbe potuto riunirsi con Jane e contribuire, con tutto l’amore possibile, al suo recupero.
-
-Non riusciva a pensare alla partenza di Darcy da [[characters/kent|Kent]] senza ricordare che anche suo cugino avrebbe viaggiato con lui; ma il Colonnello Fitzwilliam aveva chiarito perfettamente di non avere alcuna intenzione del genere, e, per quanto fosse un uomo gradevole, lei non intendeva certo sentirsi infelice a causa sua.
-
-Mentre cercava di risolvere questa questione, fu improvvisamente svegliata dal suono della campanella; l’idea che potesse essere il colonnello Fitzwilliam in persona a bussare, dato che aveva già chiamato tardi una volta in precedenza, le fece accelerare il battito del cuore. Ma questa ipotesi fu presto scartata. Quando, con sua totale sorpresa, vide entrare nella stanza il signor Darcy, egli cominciò immediatamente a chiederle notizie della sua salute, spiegando la sua visita con il desiderio di sapere che stesse meglio. Lei rispose con fredda cortesia. Lui rimase seduto per qualche momento, poi si alzò e iniziò a camminare avanti e indietro nella stanza. Elizabeth era sorpresa, ma non disse una parola. Dopo alcuni minuti di silenzio, lui le si avvicinò con aria agitata e cominciò così:.
-
-“Inutilmente ho lottato. Non funzionerà. I miei sentimenti non potranno essere repressi. Dovete permettermi di dirvi quanto ardentemente vi ammiro e vi [[motifs/love|amo]].”
-
-Lo stupore di Elizabeth era indescrivibile. Lei fissava lui, arrossiva, dubitava, e rimaneva in silenzio. Questo gli sembrò un incoraggiamento sufficiente, e subito dopo confessò tutto ciò che provava per lei, da tempo. Parlava bene; ma c’erano anche altri sentimenti, oltre a quelli del cuore, che andavano spiegati. E in materia di tenerezza non era più eloquente di quanto lo fosse in materia di [[concepts/pride|orgoglio]]. Il suo senso della sua inferiorità, il fatto che questa rappresentasse una sorta di degradazione, i ostacoli familiari che la ragione aveva sempre opposto ai suoi desideri, tutti questi aspetti furono espressi con una tale intensità da sembrare appropriati alla gravità delle conseguenze delle sue parole, ma in realtà queste parole non facevano certo aumentare le possibilità che il suo corteggiamento avesse successo.
-
-Nonostante il suo profondo disprezzo, non poteva rimanere insensibile al complimento dell'affetto di un uomo del genere; e sebbene le sue intenzioni non cambiarono nemmeno per un istante, all’inizio provò compassione per il [[motifs/pain|dolore]] che lui avrebbe dovuto sopportare. Finché, suscitata dall’irritazione dalle sue successive parole, perse completamente ogni compassione, travolta dalla rabbia. Tuttavia cercò di calmarsi e di rispondergli con pazienza, quando invece sarebbe stato lui ad agire con gentilezza. Alla fine le espresse la forza di quell’affetto che, nonostante tutti i suoi sforzi, era risultato impossibile da vincere; e le espose la sua [[concepts/hope|speranza]] che ora quel sentimento venisse ricambiato con il suo consenso. Mentre lo diceva, lei capì chiaramente che non aveva alcun [[concepts/doubt|dubbio]] riguardo a una risposta positiva. Parlava di apprensione e ansia, ma il suo volto esprimeva una vera e propria sicurezza. Una situazione del genere poteva solo farle infuriare ancora di più; e quando lui smise di parlare, le guance le si arrossirono, e lei disse:
-
-“In casi come questo, credo che l’approccio convenzionale sia quello di esprimere un senso di gratitudine per i sentimenti manifestati, anche se non sempre ricambiati in modo equilibrato. È naturale provare riconoscenza; se potessi davvero sentirla, ti ringrazierei ora stesso. Ma non posso. Non ho mai desiderato la tua stima, e tu certamente l’hai concessa con grande riluttanza. Mi dispiace di aver causato dolore a qualcuno; tuttavia, è stato fatto in modo del tutto inconsapevole, e spero che il disagio sia di breve durata. I sentimenti negativi che mi hai espresso finora hanno sicuramente impedito che riconoscessi la tua considerazione. Ma dopo questa spiegazione, credo che non sarà difficile superare questo ostacolo.”
-
-Il signor Darcy, che si appoggiava al caminetto con lo sguardo fisso sul suo viso, sembrò recepire quelle parole con altrettanto risentimento che sorpresa. Il suo colorito divenne pallido per la rabbia, e l’agitazione interiore si leggeva in ogni tratto del suo volto. Lottava per mantenere un’apparenza di compostezza e non aprì bocca finché non fu certo di esserci riuscito. Quel silenzio fu terribile per Elizabeth. Alla fine, con voce forzatamente calma, disse:
-
-“E questa è l’unica risposta che ho il privilegio di aspettarmi! Forse vorrei sapere perché, con così poco impegno nel comportarsi in modo cortese, vengo rifiutato. Ma non ha molta importanza.”
-
-“Potrei benissimo chiedere,” rispose lei, “perché, con un intento così evidente di offendermi e insultarmi, hai scelto di dirmi che mi piaci contro la tua volontà, contro il tuo buon senso, persino contro la tua natura? Non sarebbe questa una scusa sufficiente per comportarsi in modo scortese, se io fossi stata scortese? Ma ho altre ragioni per essere offesa. Lo sai bene. Se i miei sentimenti personali non fossero stati contrari a te, se fossero stati indifferenti, o addirittura favorevoli, pensi davvero che qualche considerazione potrebbe indurmi ad accettare l’uomo che è stato la causa della rovina, forse per sempre, della felicità di una sorella amatissima?”
 
 
 
@@ -10512,57 +7873,6 @@ Charlotte’s observation, and hurried her away to her room.
 “Hearing herself called”
 ]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Mentre pronunciava queste parole, il signor Darcy cambiò colore; ma quell’emozione fu breve, e continuò ad ascoltarla senza tentare di interromperla.
-
-“Ho tutte le ragioni del mondo per pensare male di te. Nessun motivo può scusare l’atteggiamento ingiusto e disumano che hai tenuto _lì_. Non oserai, non puoi negare di essere stato il principale, se non l’unico strumento utilizzato per separarli l’uno dall’altro: per esporre uno al biasimo del mondo per capriccio e instabilità, l’altro al suo disprezzo per speranze deluse, coinvolgendo entrambi in una miseria di estrema intensità.”
-
-Si fermò e, con notevole indignazione, vide che lui ascoltava con un’aria che dimostrava chiaramente la sua totale indifferenza verso qualsiasi sentimento di rimorso. Anzi, la guardò persino con un sorriso di finta incredulità.
-
-“Puoi negare di averlo fatto?” ripeté lei.
-
-Con un'apparente tranquillità, rispose allora: “Non ho alcuna intenzione di negare che abbia fatto tutto il possibile per separare il mio amico da tua sorella, né che mi rallegri del mio successo. Verso di _lui_ sono stato più gentile di quanto non lo sia stato con me stesso.”
-
-Elizabeth fece finta di non accorgersi di questo complimento gentile,  
-ma il suo significato non le sfuggì, e probabilmente non fu in grado di placarla.
-
-“Ma non si tratta solo di questo fatto,” continuò lei, “su cui si fonda il mio disprezzo per te. Molto prima che accadesse, la mia opinione su di te era già stata formata. Il tuo carattere è emerso dalla descrizione che ho ricevuto molti mesi fa dal signor Wickham. A questo proposito, cosa puoi dire? Con quale presunto atto di [[concepts/friendship|amicizia]] puoi difenderti? O sotto quale falsa rappresentazione puoi cercare di ingannare gli altri?”
-
-“Dimostri un grande interesse per le questioni di quel signore,” disse Darcy, con tono meno tranquillo e con il viso arrossito.
-
-“Chi può conoscere le sue sfortune potrà davvero provare interesse per lui?”
-
-“Il suo sfortunio!”, ripeté Darcy con disprezzo, “sì, il suo sfortunio è stato davvero grande.”
-
-“E per colpa delle vostre azioni,” gridò Elizabeth con forza, “lo avete ridotto allo stato attuale di [[concepts/poverty|povertà]], una povertà relativa, sì. Gli avete negato i vantaggi che sicuramente erano stati previsti per lui. Gli avete privato gli anni migliori della sua vita di quell’indipendenza che gli spettava tanto quanto il suo [[motifs/desert|dovere]]. Avete fatto tutto questo, eppure potete ancora trattare con disprezzo e derisione ogni menzione delle sue sfortune.”
-
-“E questo,” esclamò Darcy, camminando rapidamente per la stanza, “è dunque la tua opinione su di me! Questa è l’immagine che hai di me! Ti ringrazio per averla spiegata così chiaramente. Secondo questa valutazione, i miei difetti sono davvero gravi. Ma forse,” aggiunse, fermandosi e voltandosi verso di lei, “queste colpe avrebbero potuto essere ignorate, se la tua [[concepts/pride|orgoglio]] non fosse stato offeso dalla mia onesta confessione dei dubbi che per tanto tempo mi avevano impedito di prendere qualsiasi decisione seria. Queste dure accuse avrebbero potuto essere evitate, se io, con maggiore astuzia, avessi nascosto le mie incertezze e ti avessi fatto credere che i miei sentimenti fossero guidati da un’attrazione incondizionata, pura e semplice. Da ragione, da riflessione, da tutto ciò. Ma ogni tipo di dissimulazione è qualcosa che detesto profondamente. E non mi vergogno affatto dei sentimenti che ho espresso: erano naturali e giusti. Potevi davvero aspettarti che io fossi felice della inferiorità delle tue relazioni, o che mi rallegrassi all’idea di una connessione il cui status sociale fosse decisamente inferiore al mio?”
-
-Elizabeth sentiva che la sua rabbia cresceva di momento in momento; tuttavia cercò con tutte le sue forze di parlare con calma quando disse:–
-
-“Vi sbagliate, signor Darcy, se pensate che il modo in cui avete fatto la vostra dichiarazione abbia avuto su di me qualche altro effetto oltre a quello di risparmiarmi l’imbarazzo che avrei provato nel rifiutarvi, se vi foste comportati in modo più da gentiluomo.”
-
-“Lo vide sobbalzare al sentire queste parole; ma lui non disse nulla, e lei continuò…”
-
-“Non avresti potuto farmi la tua proposta di matrimonio in nessun modo che potesse tentarmi ad accettarla.”
-
-Ancora una volta la sua sorpresa era evidente; la guardava con un'espressione mista di incredulità e imbarazzo. Lei continuò.
-
-“Fin dal primo momento, quasi dall’inizio della nostra conoscenza, il vostro comportamento mi ha fatto immediatamente capire la vostra arroganza, la vostra presunzione e il vostro disprezzo egoistico per i sentimenti altrui. Queste caratteristiche hanno gettato le basi di un disapprovazione che, con gli eventi successivi, si è trasformata in un vero e proprio disgusto verso di voi. Non vi conoscevo nemmeno da un mese quando ho già capito che siete l’ultima persona al mondo con cui potrei mai considerare l’idea di sposarmi.”
-
-“Avete detto abbastanza, signora. Comprendo perfettamente i vostri sentimenti, e ora devo solo vergognarmi di quelli che ho avuto io stesso. Perdonatemi per avervi occupato così tanto del vostro [[motifs/time|tempo]], e accettate i miei migliori auguri per la vostra salute e felicità.”
-
-E con queste parole lasciò in fretta la stanza; Elizabeth lo sentì poco dopo aprire la porta d’ingresso e uscire dalla casa. Il tumulto nella sua mente era ormai insopportabile: non sapeva come reggersi, e per effetto della propria debolezza si sedette e pianse per mezz’ora. La sua sorpresa aumentava ogni volta che ripensava a quanto accaduto. Che il signor Darcy le avesse fatto una proposta di [[motifs/marriage|matrimonio]]! Che fosse stato innamorato di lei per così molti mesi, al punto da volerla sposare nonostante tutte le obiezioni che lo avevano spinto a impedire che il suo amico sposasse sua sorella. Era quasi inverosimile! Tuttavia, era gratificante aver ispirato inconsciamente un sentimento così forte in lui. Ma la sua [[concepts/pride|orgoglio]], il suo abominevole [[concepts/pride|orgoglio]], la sua spudorata ammissione di ciò che aveva fatto riguardo a Jane, la sua insopportabile arroganza nel riconoscere i propri errori, e il modo sprezzante in cui aveva parlato del signor Wickham, verso il quale non aveva nemmeno cercato di negare le proprie colpe, tutto ciò sovrastò ben presto la compassione che, per un momento, l’idea del suo affetto per lei aveva suscitato in lei.
-
-Continuò a riflettere con grande ansia, finché il rumore della carrozza di Lady Catherine le fece rendere conto di quanto fosse inadeguata ad affrontare l’osservazione di Charlotte, e allora si affrettò a tornare nella sua stanza.
-
-
-
-Illustrazione:
-
-Sentirsi chiamare
 
 
 
@@ -10832,36 +8142,6 @@ course of the morning. I will only add, God bless you.
 [Illustration]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XXXV.
-
-Illustrazione
-
-Elizabeth si svegliò la mattina seguente con gli stessi pensieri e riflessioni che poco prima l’avevano fatta addormentare. Non riusciva ancora a riprendersi dallo shock di ciò che era accaduto: non le veniva in mente nulla altro; e, completamente indisposta ad occuparsi di qualsiasi cosa, decise subito dopo colazione di godersi un po’ d’aria fresca e fare esercizio. Stava per dirigersi verso il suo sentiero preferito quando le tornò in mente che a volte il signor Darcy andava lì; così, invece di entrare nel parco, prese la stradina che la portava ancora più lontano dalla strada principale. Il limite del parco era ancora visibile su un lato, e presto superò uno dei cancelli che conducevano all’interno del terreno.
-
-Dopo aver camminato due o tre volte lungo quella parte del sentiero, fu tentata, dal piacevole clima mattutino, di fermarsi alle porte e guardare all’interno del parco. Le cinque settimane trascorse fino ad allora nel [[characters/kent|Kent]] avevano modificato notevolmente il paesaggio; ogni giorno la vegetazione cresceva sempre più rigogliosa. Stava per riprendere il suo cammino quando intravide un gentiluomo all’interno del boschetto che costeggiava il parco: stava dirigendosi verso di lei; temendo che fosse il signor Darcy, si affrettò a ritirarsi. Ma la persona che le si avvicinava ormai era abbastanza vicina da vederla; avanzando con impazienza, pronunciò il suo nome. Lei si era già allontanata, ma sentendosi chiamare – anche se la voce apparteneva effettivamente al signor Darcy – tornò verso le porte. A quel punto lui l’aveva raggiunta; porgendole una lettera che lei prese istintivamente, disse con un’espressione di altero distacco: “Stavo passeggiando nel boschetto da qualche tempo, nella speranza di incontrarvi. Vi fareste l’onore di leggere questa lettera?” Dopo aver fatto un lieve inchino, tornò nuovamente nel bosco e presto scomparve dalla vista.
-
-Senza alcuna aspettativa di piacere, ma con la più forte curiosità, Elizabeth aprì la lettera e, con sempre maggiore [[concepts/wonder|stupore]], scoprì che l’indirizzo era contenuto in un foglio insieme ad altri due fogli di carta da lettera, completamente scritti con una grafia molto ordinata. Anche l’involucro stesso era pieno. Proseguendo lungo il sentiero, iniziò a leggere il contenuto della lettera, la quale portava la data di Rosings, alle otto del mattino, e recitava quanto segue:–
-
-“Non allarmatevi, signora, nel ricevere questa lettera, temendo che possa contenere ripetizioni di quei sentimenti o rinnovamenti di quelle offerte che ieri [[motifs/night|notte]] vi sono sembrate così disgustose. Scrivo senza alcuna intenzione di farvi soffrire o di umiliarmi, rivangando desideri che, per il bene di entrambi, sarebbe meglio dimenticare al più presto possibile; inoltre, lo sforzo necessario per redigere e leggere questa lettera avrebbe potuto essere evitato, se non fosse stato per la necessità che il mio carattere mi imponeva di scriverla e farla leggere. Pertanto, dovete perdonare la [[concepts/freedom|libertà]] con cui chiedo la vostra attenzione; so bene che i vostri sentimenti vi impediranno di concedermela volentieri, ma la richiedo in nome della giustizia.”
-
-“Due offese di natura molto diversa, e certamente di entità diseguale, mi sono state attribuite la scorsa [[motifs/night|notte]]. La prima riguardava il fatto che, indipendentemente dai sentimenti di entrambi, avessi allontanato il signor Bingley da tua sorella; l’altra consisteva nel fatto che, ignorando varie richieste e sfidando ogni principio di onore e umanità, avessi rovinato la prosperità immediata e distrutto le prospettive future del signor Wickham. Voler deliberatamente allontanare il compagno della mia giovinezza, l’uomo riconosciuto come favorito di mio padre, un giovane che dipendeva interamente dal nostro sostegno e che si era aspettato proprio tale aiuto, sarebbe un atto di malvagità a cui non potrebbe nemmeno avvicinarsi la separazione di due giovani i cui sentimenti sono nati soltanto poche settimane fa. Tuttavia, considerando la gravità delle accuse mosse la scorsa [[motifs/night|notte]] riguardo a ciascun dettaglio, spero che in futuro mi venga riconosciuta l’innocenza, una volta letta questa spiegazione dei miei comportamenti e delle loro motivazioni. Se, nel fornire tale spiegazione, dovesse risultare necessario esprimere sentimenti che potrebbero essere, ”.
-Se la mia osservazione è offensiva per voi, posso solo scusarmi. È necessario obbedire alle circostanze, e ulteriori scuse sarebbero assurde. Non ero da molto in Hertfordshire quando notai, come tutti gli altri, che Bingley preferiva vostra sorella maggiore a qualsiasi altra giovane donna della zona. Ma fu solo la sera del ballo a Netherfield che ebbi il sospetto che i suoi sentimenti fossero seri. In passato l’avevo visto spesso innamorarsi. Quella sera, mentre avevo l’onore di ballare con voi, fui informata da Sir William Lucas che le attenzioni di Bingley verso vostra sorella avevano suscitato l’aspettativa generale del loro [[motifs/marriage|matrimonio]]. Lui ne parlava come di un evento certo, il cui [[motifs/time|tempo]] soltanto poteva essere ancora incerto. Da quel momento osservai attentamente il comportamento del mio amico. E capii che la sua preferenza per Miss Bennet andava ben oltre quanto avessi mai visto in lui prima. Vostra sorella, invece, sembrava serena e allegra come sempre; non mostrava alcun segno di particolare interesse per Bingley. E rimasi convinta, dopo quella sera, che.
-Anche se accettava con piacere le sue attenzioni, non le incoraggiava in alcun modo con sentimenti personali. Se _tu_ non ti sei sbagliato in questo, allora _io_ devo aver commesso un errore. La tua maggiore conoscenza di tua sorella rende questa possibilità molto probabile. Se è così, e se sono stato ingannato da tale errore, causandole [[motifs/pain|dolore]], il tuo risentimento non è affatto irragionevole. Tuttavia, affermo senza esitazione che l’espressione serena del viso e l’atteggiamento di tua sorella avrebbero potuto far credere anche all’osservatore più attento che, per quanto fosse gentile il suo carattere, il suo cuore difficilmente si sarebbe commosso facilmente. Io desideravo crederci.
-La sua indifferenza è certa; ma oso dire che le mie indagini e decisioni di solito non sono influenzate dalle mie speranze o dai miei timori. Non credevo che fosse indifferente perché lo desideravo; ne ero convinto sulla base di una convinzione imparziale, tanto quanto lo desideravo razionalmente. Le mie obiezioni al [[motifs/marriage|matrimonio]] non erano solo quelle che la scorsa [[motifs/night|notte]] ho ammesso essere tali da richiedere l’intensità massima della passione per essere ignorate nel mio caso; la mancanza di affinità tra le persone coinvolte non poteva rappresentare un male così grave per il mio amico come lo era per me. Ma c’erano altre ragioni di ripugnanza; ragioni che, pur esistendo ancora e in ugual misura in entrambi i casi, avevo cercato di dimenticare, perché non erano immediatamente presenti davanti ai miei occhi. Queste ragioni devono essere espresse, anche se brevemente. La situazione della famiglia di tua madre, per quanto discutibile, non era nulla in confronto a quella totale mancanza di decoro che lei stessa, le tue tre sorelle minori e talvolta persino tuo padre dimostravano con tale frequenza e regolarità. Perdonami, mi dispiace offenderti. Ma, nonostante la tua preoccupazione per i difetti dei tuoi parenti più stretti e il tuo disappunto per queste loro caratteristiche, sappi che il fatto di esservi comportati in modo da evitare critiche simili rappresenta una lode altrettanto diffusa nei vostri confronti quanto è onorevole per la vostra intelligenza e il vostro carattere. Dirò soltanto che, a seguito di quanto accaduto quella sera, la mia opinione su tutte le parti coinvolte si rafforzò ulteriormente, e ogni motivo che prima poteva spingermi a proteggere il mio amico da ciò che ritenevo un legame estremamente infelice divenne ancora più forte. Lui lasciò Netherfield il giorno seguente per [[settings/london|Londra]], con l’intenzione di tornare presto, come sicuramente ricorderai tu stesso. Ora devo spiegare il mio ruolo in tutta questa vicenda. Anche le sorelle di lui erano altrettanto preoccupate quanto me; la nostra comunanza di sentimenti fu subito evidente, e, consapevoli che non c’era tempo da perdere nel convincerlo a lasciare quella situazione, decidemmo rapidamente di raggiungerlo direttamente a [[settings/london|Londra]]. Così facemmo. E lì mi impegnai immediatamente nel tentativo di fargli comprendere i danni inevitabili di una scelta del genere. Descrissi con chiarezza e insistenza tutti gli svantaggi di quel matrimonio. Ma, per quanto tali argomentazioni potessero indebolire o ritardare la sua decisione, non credo che avrebbero comunque impedito il [[motifs/marriage|matrimonio]], se non fosse stato per l’assicurazione che non esitai a dargli riguardo all’indifferenza di tua sorella. Prima di allora, lui credeva già che lei ricambiasse i suoi sentimenti con sincerità. Anche se forse non allo stesso grado. Ma Bingley possiede una grande modestia naturale e si fida molto più del mio giudizio che del proprio. Quindi convincerlo che si era illuso non fu affatto difficile. Convincerlo, poi, a non tornare in Hertfordshire, una volta che questa convinzione era stata acquisita, fu questione di poco tempo. Non posso biasimarmi per.
-Avendo fatto tutto ciò, c’è soltanto un aspetto del mio comportamento in tutta questa vicenda riguardo al quale non mi sento completamente soddisfatto: ho infatti deciso di ricorrere a mezzi artificiali per nascondere a lui la presenza di tua sorella in città. Lo sapevo io stesso, così come lo sapeva anche la signorina Bingley; ma suo fratello ne è ancora all’oscuro. È possibile che i due si siano incontrati senza conseguenze negative. Tuttavia, non mi sembrava che il suo affetto per lei fosse abbastanza spento da permettergli di vederla senza correre rischi. Forse questa dissimulazione era indegna di me. Comunque sia, è stata fatta, e lo è stata per il meglio. Non ho altro da dire al riguardo, nessuna altra scusa da offrire. Se ho ferito i sentimenti di tua sorella, l’ho fatto senza saperlo; e anche se le motivazioni che mi hanno guidato potrebbero sembrarti insufficienti, non ho ancora imparato a condannarle. Per quanto riguarda quell’accusa più grave, ovvero quella di aver ferito il signor Wickham, posso solo confutarla presentandovi tutta la sua relazione con la mia famiglia. Di ciò di cui mi ha accusato in modo specifico non so nulla; ma della veridicità di quanto sto per raccontare posso fornire più di un testimone di assoluta affidabilità. Il signor Wickham è il figlio di un uomo molto rispettabile, che per molti anni si è occupato della gestione di tutte le proprietà dei Pemberley; la sua onestà e integrità nel svolgere tale incarico hanno naturalmente spinto mio padre ad aiutarlo. E poiché George Wickham era il suo nipote prediletto, mio padre gli ha concesso grande generosità. L’ha sostenuto durante i suoi studi scolastici e poi all’università di Cambridge; un aiuto davvero fondamentale, poiché il padre di lui stesso, sempre povero a causa delle spese eccessive della moglie, non avrebbe mai potuto garantirgli un’educazione degna di un gentiluomo. Mio padre non solo apprezzava molto la compagnia di questo giovane, le cui maniere erano sempre piacevoli da osservare, ma nutriva anche grande stima per lui; sperando che la chiesa diventasse la sua professione, intendeva provvedere al suo futuro in quel campo. Per quanto mi riguarda, sono trascorsi molti anni da quando ho iniziato a considerarlo in modo diverso. Le sue tendenze malvagie, la mancanza di principi morali, non potevano certo sfuggire all’attenzione di un giovane della sua stessa età che aveva l’opportunità di vederlo in momenti in cui non era attento a ciò che faceva. Qualcosa che il signor Darcy, probabilmente, non avrebbe mai potuto notare. Ancora una volta, vi causerò dolore. Ma qualunque siano i sentimenti che il signor Wickham abbia suscitato in me, la possibilità che tali sentimenti siano di natura negativa non mi impedirà di rivelarvi la sua vera natura. Anzi, questo rappresenta un ulteriore motivo per farlo. Mio eccellente padre è morto circa cinque anni fa; il suo affetto per il signor Wickham era così profondo che nel suo testamento mi ha espressamente raccomandato di favorire il suo avanzamento nella carriera, nel modo migliore possibile. E se avesse deciso di prendere i voti sacerdotali, desiderava che gli venisse fornita una casa e un sostentamento adeguati.
-Avrebbe potuto diventare suo non appena il posto fosse diventato disponibile. C'era anche un lascito di mille sterline. Suo padre non visse a lungo dopo la morte del mio; e entro sei mesi da questi eventi, il signor Wickham mi scrisse per dirmi che, avendo finalmente deciso di non accettare incarichi ecclesiastici, sperava che non considerassi irragionevole se desiderasse ottenere un qualche vantaggio finanziario immediato, al posto della promozione che non gli era possibile ricevere. Aggiunse inoltre di avere l’intenzione di studiare legge, ma dovevo essere consapevole che un reddito di mille sterline sarebbe stato una risorsa assolutamente insufficiente per farlo. Preferivo credere che fosse sincero piuttosto che pensare il contrario; comunque, ero completamente disposta ad accettare la sua proposta. Sapevo che il signor Wickham non doveva diventare un prete. Quindi la questione fu risolta rapidamente: rinunciò a ogni diritto all’aiuto economico da parte della chiesa, nel caso in cui avesse mai potuto averne bisogno, e in cambio accettò tremila sterline. Ora sembrava che ogni legame tra noi fosse stato spezzato. Pensavo troppo male di lui per invitarlo a Pemberley o permettergli di frequentarmi in città. Credo che vivesse principalmente in città, ma il fatto che studiasse legge era soltanto una scusa.
-Ora libero da ogni restrizione, la sua vita divenne una vita di ozio e dissipazione. Per circa tre anni non se ne seppe più nulla; ma alla morte della persona incaricata di occuparsi di lui, come previsto, mi scrisse nuovamente chiedendomi di presentarlo a quella figura influente. Mi assicurò che le sue condizioni erano estremamente difficili, e non ebbi alcuna difficoltà a credergli. Aveva ritenuto lo studio del diritto totalmente inutile e ora era deciso ad essere ordinato sacerdote, se solo fossi stato disposto a presentarlo alla persona in questione. Di cui, diceva, non poteva esserci alcun dubbio, poiché ero certo che non avessi nessun altro da mantenere, e inoltre non avrei mai potuto dimenticare le intenzioni di mio padre. Non mi biasimerete certo se rifiutai di accontentarlo, né se resistetti a ogni sua richiesta successiva. Il suo risentimento era proporzionale alle sue difficoltà. E senza dubbio si comportava con violenza sia nei miei confronti che verso gli altri. Dopo quel periodo, interruppe completamente ogni rapporto con me. Non so come vivesse. Ma lo scorso [[motifs/summer|estate]] mi disturbò nuovamente in modo estremamente fastidioso.
-Nota. Ora devo menzionare una circostanza che vorrei dimenticare io stesso, e la quale nessuna obbligazione, tranne quella attuale, dovrebbe spingermi a rivelarla a chicchessia. Detto questo, non ho alcun [[concepts/doubt|dubbio]] sulla vostra discrezione. Mia sorella, che è più giovane di me di oltre dieci anni, fu affidata alla custodia del nipote di mia madre, il Colonnello Fitzwilliam, e a me stesso. Circa un anno fa fu tolta dalla scuola e le fu trovato un ambiente adatto per vivere a [[settings/london|Londra]]; l’ultima [[motifs/summer|estate]] andò con la donna che si occupava di lei a Ramsgate; e anche il signor Wickham vi andò, senza dubbio intenzionalmente, poiché risultò che c’era stata una precedente.
-La conoscenza che esisteva tra lui e la signora Younge, nella cui natura fummo tristemente ingannati; e con il suo consenso e aiuto riuscì a farsi apprezzare da Georgiana, la cui affettuosa natura conservava un forte ricordo della sua gentilezza verso di lei quando era ancora una [[archetypes/child|bambina]], al punto che ella si convinse di essere innamorata e acconsentì a fuggire insieme. All’epoca aveva soltanto quindici anni, il che può considerarsi una scusa; e dopo aver descritto la sua imprudenza, sono felice di aggiungere che fui io stesso ad apprenderne i dettagli da lei stessa. Li sorpresi un giorno o due prima della fuga prevista; e allora Georgiana, incapace di sopportare l’idea di addolorare e offendere un fratello che quasi considerava come un padre, mi raccontò tutta la verità. Potete immaginare cosa provai e come reagii. Il rispetto per il buon nome e i sentimenti di mia sorella mi impedì di rendere pubblica questa storia; ma scrissi subito al signor Wickham, che lasciò immediatamente quel luogo, e naturalmente la signora Younge fu allontanata dalla sua responsabilità. L’obiettivo principale del signor Wickham era senza dubbio il patrimonio di mia sorella, che ammonta a trentamila sterline; ma non posso fare a meno di supporre che anche la speranza di vendicarsi su di me fosse un forte incentivo per lui. La sua [[concepts/revenge|vendetta]] sarebbe stata davvero completa. Signora, questa è una descrizione fedele di ogni evento in cui siamo stati coinvolti insieme; e se non la ritenete assolutamente falsa, spero che da ora in poi mi scagioniate dalla accusa di crudeltà verso il signor Wickham. Non so con quale metodo o forma di menzogna vi abbia ingannato; ma non sorprende affatto che sia riuscito nel suo intento, visto che prima ignoravate completamente tutto ciò che riguardava entrambi. Non era in vostro potere scoprire la verità, e certamente non avevate alcuna intenzione di sospettarlo. Forse vi chiederete perché tutto questo non vi sia stato rivelato la scorsa [[motifs/night|notte]]. Ma all’epoca non ero abbastanza padrone di me stesso per sapere cosa fosse opportuno rivelare o meno. Per quanto riguarda la [[concepts/truth|verità]] di tutto ciò che è stato detto, posso fare appello in modo particolare al testimone del colonnello Fitzwilliam: a causa della nostra stretta relazione e dell’intimità costante, e soprattutto in qualità di uno degli esecutori del testamento di mio padre, egli è inevitabilmente a conoscenza di tutti i dettagli di questi avvenimenti. Se il vostro disprezzo per _me_ rendesse inutili le mie affermazioni, non potreste comunque impedirmi di confidarmi in mio cugino; e affinché possiate consultarlo, cercherò di trovare l’opportunità di farvi arrivare questa lettera stamattina. Vi auguro solo che Dio vi benedica.
-
-“Fitzwilliam Darcy”.
-
-
-
-Illustrazione
-
 
 
 <span class="atom-split" data-atom="chapter_36--part_01" data-title="Pride and Prejudice — Chapter 36 (part 1)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="motif/memory,motif/time,motif/well,concept/history,concept/pride,concept/truth,form/history"></span>
@@ -10967,28 +8247,6 @@ of the application, and at length wholly banished by the conviction that
 Mr. Darcy would never have hazarded such a proposal, if he had not been
 [[motifs/well|well]] assured of his cousin’s corroboration.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XXXVI.
-
-Illustrazione
-
-Elizabeth, quando il signor Darcy le diede la lettera, non si aspettava che contenesse una rinnovazione delle sue proposte; in realtà, non aveva alcuna idea del suo contenuto. Ma, data la natura di quelle parole, è facile immaginare con quanta avidità le lesse e quali contrastanti emozioni suscitarono in lei. I suoi sentimenti mentre leggeva erano difficili da definire: dapprima rimase sbalordita nel rendersi conto che lui riteneva di poter offrire qualche scusa per il proprio comportamento; in seguito, fu fermamente convinta che non potesse fornire alcuna spiegazione che un senso di vergogna onesta non avrebbe nascosto. Con forte pregiudizio verso qualsiasi cosa potesse dire, iniziò a leggere il resoconto di quanto era accaduto a Netherfield. Lo fece con tale impazienza da non riuscire nemmeno a comprendere appieno il significato delle parole; l’ansia di scoprire quale fosse la frase successiva le impediva di concentrarsi su quella che stava leggendo in quel momento. Decise immediatamente che la sua convinzione riguardo all’insensibilità di sua sorella fosse falsa; inoltre, il suo racconto dei veri e più gravi motivi contro quel matrimonio la rese così arrabbiata da non voler nemmeno prendere in considerazione le sue argomentazioni. Il fatto che lui non esprimesse alcun rimorso per ciò che aveva fatto la soddisfece; il suo tono, invece di essere pentito, era arrogante. Era tutto orgoglio e insolenza.
-
-Ma quando questo argomento fu sostituito dal racconto di quanto accaduto a Mr. Wickham – quando lesse, con maggiore attenzione, un resoconto di eventi che, se veri, avrebbero dovuto sovvertire tutte le sue convinzioni riguardo al suo valore, e che presentavano una sorprendente somiglianza con la sua stessa «storia» personale – i suoi sentimenti divennero ancora più intensamente dolorosi e difficili da esprimere. Sorpresa, apprensione, persino orrore la opprimevano. Voleva discreditarne completamente, esclamando ripetutamente: “Deve essere falso! Non può essere vero! Questa è senz’altro la più grossolana menzogna!” E quando ebbe finito di leggere tutta la lettera – pur non comprendendo quasi nulla delle ultime pagine – la mise via in fretta, protestando che non avrebbe mai più voluto rileggerla.
-
-In questo stato mentale turbato, con pensieri che non trovavano alcun fondamento concreto, continuò ad andare avanti; ma non riusciva a mantenere la calma: in mezzo minuto aprì di nuovo la lettera e, cercando di concentrarsi il più possibile, ricominciò a leggere attentamente tutto ciò che riguardava Wickham, sforzandosi persino di comprendere il significato di ogni frase. La descrizione dei suoi rapporti con la famiglia Pemberley corrispondeva esattamente a quanto lui stesso aveva raccontato; e la gentilezza del defunto signor Darcy, sebbene lei non ne conoscesse prima l’entità, concordava anch’essa perfettamente con le sue stesse parole. Fino a quel punto, entrambe le versioni sembravano confermarsi a vicenda; ma quando arrivò alla parte relativa al testamento, la discrepanza divenne evidente. Quello che Wickham aveva detto riguardo alle persone viventi era ancora fresco nella sua memoria; e ricordando esattamente le sue parole, non poteva fare a meno di pensare che ci fosse una grave inganno da entrambe le parti. Per un momento si illuse che le sue congetture fossero corrette; ma rileggendo attentamente ogni dettaglio – riguardo al fatto che Wickham rinunciava a tutte le pretese sulle proprietà dei Pemberley in cambio di una somma considerevole, tre migliaia di sterline – fu costretta ad esitare di nuovo. Posò la lettera e valutò ogni circostanza con la massima imparzialità, riflettendo sulla probabilità che ognuna delle affermazioni fosse vera. Ma senza grandi risultati. Da entrambe le parti si trattava soltanto di dichiarazioni prive di prove concrete. Continuò a leggere; ma ogni riga confermava sempre di più che quella situazione, che lei aveva ritenuto impossibile da manipolare in modo da rendere la condotta del signor Darcy meno disonesta, poteva invece presentare un volto completamente diverso. Uno volto che lo avrebbe reso assolutamente innocente.
-
-L’extravaganza e la generale dissolutezza di cui non si vergognava di accusare il signor Wickham la sconvolsero profondamente; tanto più che non riusciva a fornire alcuna prova della loro ingiustizia. Non aveva mai sentito parlare di lui prima che entrasse nella milizia del ----shire, dove si era arruolato su invito di quel giovane che, incontrandolo per caso in città, aveva ristabilito con lui una conoscenza superficiale. Riguardo al suo passato, in Hertfordshire si sapeva soltanto ciò che lui stesso aveva raccontato.
-
-Illustrazione:
-
-“Incontro casuale in città”
-
-Copyright 1894 di George Allen.
-
-Lui stesso. Per quanto riguardava il suo vero carattere, se solo avesse avuto informazioni a disposizione, lei non avrebbe mai provato il desiderio di indagare. Il suo aspetto, la sua voce e i suoi modi lo presentavano immediatamente come un uomo dotato di tutte le virtù. Tentò di ricordare qualche esempio di bontà, qualche tratto distintivo di integrità o benevolenza che potesse salvarlo dalle critiche del signor Darcy; o almeno, che potesse compensare quegli errori occasionali, che lei cercava di attribuire all’ozio e ai vizi accumulati nel corso degli anni. Ma nessun ricordo le venne in mente. Riusciva a immaginarlo davanti a sé, con tutto il suo fascino nell’aspetto e nei modi, ma non riusciva a ricordare nulla di concreto riguardo alle sue qualità positive, se non l’apprezzamento generale del vicinato e il rispetto che le sue capacità sociali gli avevano guadagnato nella società. Dopo aver riflettuto a lungo su questo punto, riprese a leggere. Ma ahimè! La storia successiva, riguardante i suoi piani nei confronti della signorina Darcy, trovava in parte conferma in quanto era accaduto tra il colonnello Fitzwilliam e lei la mattina precedente; alla fine, per verificare l’accuratezza di ogni dettaglio, decise di rivolgersi direttamente al colonnello stesso. Da lui aveva già appreso della sua stretta attenzione verso tutte le faccende della sua cugina, e non aveva motivo di dubitare del suo carattere. Per un momento pensò persino di chiedergli aiuto, ma l’idea fu scartata a causa dell’imbarazzo che una tale richiesta avrebbe comportato. E alla fine, si convenne che il signor Darcy non avrebbe mai osato proporre qualcosa del genere, se non fosse stato assolutamente certo del sostegno della sua cugina.
 
 
 
@@ -11103,32 +8361,6 @@ longer an object. She could think only of her letter.
 “His parting obeisance”
 ]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Ricordava perfettamente tutto ciò che era stato detto durante la conversazione tra Wickham e lei nella loro prima serata a casa del signor Philips. Molte delle sue espressioni erano ancora vivide nella sua [[motifs/memory|memoria]]. Ora le sembrava assolutamente inappropriato intrattenere simili conversazioni con uno sconosciuto, e si chiedeva come mai prima non se ne fosse resa conto. Comprendeva l’indelicatezza del suo comportamento e l’incoerenza tra le sue affermazioni e le sue azioni. Ricordava che aveva vantato di non temere affatto di incontrare il signor Darcy, che quest’ultimo potesse lasciare il paese, ma che lui sarebbe rimasto fermo sulla sua posizione; eppure la settimana seguente aveva evitato di partecipare al ballo a Netherfield. Ricordava anche che, finché la famiglia Netherfield non se n’era andata, lui non aveva raccontato quella storia a nessuno tranne che a lei; ma dopo il loro trasferimento, l’argomento era stato discusso ovunque. Allora non aveva alcuna riserva, nessun rimorso nel diffamare la reputazione del signor Darcy, anche se le aveva assicurato che il rispetto per il padre gli avrebbe sempre impedito di denigrare il figlio.
-
-Come diversamente ora tutto appariva riguardo a lui! Le sue attenzioni verso la signorina [[archetypes/king|King]] erano ormai il risultato di considerazioni puramente e meschinamente egoistiche; inoltre, la mediocrità della sua fortuna non rappresentava più un limite alle sue aspirazioni, ma anzi ne esaltava l’avidità. Il suo comportamento verso di lei non poteva avere alcun motivo plausibile: o era stato ingannato riguardo alla sua condizione economica, oppure cercava semplicemente di soddisfare la propria [[concepts/vanity|vanità]] incoraggiando quella preferenza che lei, a suo parere, aveva dimostrato in modo troppo imprudente. Ogni tentativo da parte sua di mantenere un rapporto con lei si faceva sempre più debole; e, per giustificare ulteriormente il signor Darcy, non poteva fare a meno di ammettere che il signor Bingley, quando interrogato da Jane, aveva già affermato da tempo la propria innocenza in quella faccenda. Nonostante i modi orgogliosi e repellenti del signor Bingley, lei non aveva mai notato nulla che potesse rivelare in lui mancanza di principi o comportamenti immorali; anzi, tra le sue conoscenze, era considerato una persona stimata e apprezzata; persino Wickham lo aveva definito un buon fratello, e lei lo aveva spesso sentire parlare con affetto della sua sorella, dimostrando così di possedere sentimenti sinceri. Se le sue azioni fossero state davvero quelle descritte da Wickham, una simile violazione di ogni valore morale sarebbe stata difficilmente possibile nascondere al mondo intero; inoltre, l’[[concepts/friendship|amicizia]] tra una persona del genere e un uomo così gentile come il signor Bingley risultava davvero incomprensibile.
-
-Provò un profondo imbarazzo per se stessa. Non riusciva a pensare né a Darcy né a Wickham senza sentirsi cieca, prevenuta, piena di pregiudizi e assurda.
-
-“Come ho agito in modo spregevole!” gridò. “Io, che mi sono sempre vantata della mia perspicacia! Io, che ho dato grande valore alle mie capacità! Che spesso ho disprezzato la generosa onestà di mia sorella e ho soddisfatto la mia [[concepts/vanity|vanità]] con sospetti inutili o innocui. Quanto umiliante è questa scoperta! Eppure, quanto giusta è questa umiliazione. Se fossi stata innamorata, non avrei potuto essere più cieca. Ma è stata la [[concepts/vanity|vanità]], non l’[[motifs/love|amore]], a guidare le mie azioni. Compiaciuta dalla preferenza di uno e offesa dall’ignoranza dell’altro, fin dal principio della nostra conoscenza ho cercato pregiudizi e ignoranza, allontanando la ragione proprio dove avrebbe dovuto esserci. Fino a questo momento, non mi sono mai conosciuta davvero.”
-
-Da sé stessa a Jane, da Jane a Bingley, i suoi pensieri seguivano una linea logica che le fece rapidamente ricordare quanto l’spiegazione del signor Darcy fosse risultata insufficiente; così la rilesse ancora una volta. La seconda lettura produsse un effetto completamente diverso: come poteva negare la credibilità delle sue affermazioni, in un caso in cui aveva dovuto ammetterne la veridicità nell’altro? Lui aveva dichiarato di non aver mai sospettato nulla riguardo all’affetto della sorella sua; e lei non poteva fare a meno di ricordare quale fosse sempre stata l’opinione di Charlotte. Non poteva nemmeno negare la correttezza della descrizione che lui faceva di Jane: le sembrava infatti che i sentimenti di Jane, sebbene intensi, non venissero spesso manifestati apertamente, e che nel suo comportamento ci fosse sempre una certa compiaciuta sicurezza di sé, raramente unita a vera sensibilità.
-
-Quando arrivò alla parte della lettera in cui veniva menzionata la sua famiglia, i toni di rimprovero così umilianti, ma meritati, le causarono un profondo senso di vergogna. La giustezza delle accuse la colpì con tale forza che non poté negarle; inoltre, gli eventi a cui si riferiva specificamente, avvenuti al ballo di Netherfield e che confermavano tutte le sue prime obiezioni, non potevano aver lasciato un'impressione più forte nella sua mente di quanto non l’avessero fatta nella sua.
-
-Il complimento rivolto a se stessa e a sua sorella non fu del tutto privo di significato; la consolò, ma non riuscì a lenire il disprezzo che lei stessa aveva suscitato nel resto della famiglia. Riflettendo sul fatto che la delusione di Jane fosse in realtà dovuta alle sue stesse parenti più strette, e considerando quanto tale comportamento inappropriato potesse danneggiare gravemente la reputazione di entrambe, si sentì profondamente depressa, come mai prima d’allora.
-
-Dopo aver vagato lungo quel sentiero per due ore, lasciandosi guidare da ogni sorta di pensieri, ripensando agli eventi accaduti, valutando le probabilità e cercando di adattarsi, nel miglior modo possibile, a un cambiamento così improvviso e così importante, la stanchezza e il ricordo della sua lunga assenza la spinsero infine a tornare [[motifs/home|a casa]]. Entrò nell’casa con l’intenzione di apparire allegra come al solito, e con la determinazione di reprimere quei pensieri che avrebbero potuto renderla inadatta alla conversazione.
-
-Le fu immediatamente detto che i due signori di Rosings avevano chiamato entrambi durante la sua assenza: il signor Darcy solo per pochi minuti, per congedarsi, ma che il colonnello Fitzwilliam era rimasto con loro almeno un’ora, aspettando il suo ritorno e quasi deciso a cercarla a piedi finché non l’avessero trovata. Elizabeth poté soltanto fingere di essere preoccupata per la sua assenza; in realtà ne era molto felice. Il colonnello Fitzwilliam non rappresentava più un problema per lei; poteva pensare solo alla sua lettera.
-
-
-
-Illustrazione:
-
-“La sua ultima riverenza”
 
 
 
@@ -11297,64 +8529,6 @@ her hand to both.
 ]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XXXVII.
-
-Illustrazione
-
-I due gentiluomini lasciarono Rosings la mattina seguente; e il signor Collins, essendo rimasto nelle vicinanze delle locande per salutarli al loro congedo, riuscì a portare la lieta notizia che stavano bene in salute e che il loro umore era quanto ci si poteva aspettare, dopo la triste scena vissuta di recente a Rosings. Si affrettò quindi a consolare Lady Catherine e sua figlia; al suo ritorno portò con sé, con grande soddisfazione, un messaggio da parte della signora, nel quale lei dichiarava di sentirsi così stanca da desiderare ardentemente che tutti loro pranzassero con lei.
-
-Elizabeth non riusciva a pensare a Lady Catherine senza ricordare che, se lo avesse voluto, a quest’ora quella donna sarebbe potuta essere presentata a lei come sua futura nipote; e non poteva nemmeno fare a meno di sorridere al pensiero dell’indignazione di Lady Catherine. “Cosa avrebbe detto? Come si sarebbe comportata?” erano le domande con cui si divertiva.
-
-Il loro primo argomento di discussione fu la riduzione del numero dei partecipanti alla festa a Rosings. “Vi assicuro che ne soffro moltissimo,” disse Lady Catherine; “credo che nessuno provi la stessa perdita di amici quanto me. Ma sono particolarmente legata a questi giovani, e so che anche loro sono molto affezionati a me! Erano davvero dispiaciuti all’idea di dover andarsene, ma è sempre così. Il caro Colonnello riuscì più o meno a riprendersi, fino alla fine; ma Darcy sembrava soffrire di più, anzi, credo di più rispetto allo scorso anno. Il suo affetto per Rosings, senza dubbio, è cresciuto.”
-
-Il signor Collins fece un complimento e inserì anche un’allusione; entrambi furono accettati con un sorriso gentile da parte della madre e della figlia.
-
-Dopo cena, Lady Catherine osservò che Miss Bennet sembrava di cattivo umore; e immediatamente ne diede una spiegazione, ipotizzando che non le piacesse tornare a [[motifs/home|casa]] così presto, quindi aggiunse:
-
-“Ma se è così, devi scrivere a tua madre per chiederle di permetterti di restare ancora un po’. Sono sicura che la signora Collins sarà molto felice della tua compagnia.”
-
-“Sono molto grata a Vostra Signoria per la gentile invito,” rispose Elizabeth; “ma non è in mio potere accettarlo. Devo essere in città il prossimo sabato.”
-
-“Ma in questo modo siete stato qui soltanto sei settimane. Mi aspettavo che rimaneste per due mesi; l’avevo detto anche a signora Collins prima del vostro arrivo. Non può esserci alcuna ragione perché ve ne andiate così presto. Signora Bennet sicuramente potrebbe permettersi di tenervi con sé ancora quindici giorni.”
-
-“Ma mio padre non può… Ha scritto la scorsa settimana per sollecitare il mio ritorno.”
-
-Illustrazione:
-
-“Dawson”
-
-Copyright 1894 di George Allen.
-
-“Oh, tuo padre, naturalmente, potrebbe perdonarti, se tua madre lo permette. Le figlie non hanno mai un’importanza così grande per un padre. E se rimarrai ancora un mese intero con noi, sarò in grado di portare una di voi a [[settings/london|Londra]], perché io stesso andrò lì all’inizio di giugno per una settimana. Poiché Dawson non ha obiezioni riguardo al viaggio in carrozza, ci sarà abbastanza spazio per una di voi. E, anzi, se il tempo dovesse essere fresco, non mi opporrei nemmeno ad accompagnarvi entrambe: visto che nessuna delle due siete molto grandi, ”
-
-“Siete tutti molto gentili, signora; ma credo che dobbiamo attenerci al piano originale.”
-
-Lady Catherine sembrava rassegnata. “Signora Collins, deve mandare un servitore con loro. Sa bene che io dico sempre ciò che penso, e non posso sopportare l’idea che due giovani donne viaggino da sole per posta. È assolutamente inappropriato. Deve trovare il modo di farlo. Io personalmente disprezzo profondamente queste cose: le giovani donne dovrebbero sempre essere protette e accompagnate a dovere, in base alla loro condizione sociale. Quando mia nipote Georgiana è andata a Ramsgate l’ultima [[motifs/summer|estate]], ho fatto in modo che fossero accompagnate da due servitori maschi. Miss Darcy, figlia di Mr. Darcy di Pemberley, e [[characters/lady-anne|Lady Anne]] non avrebbero potuto presentarsi in modo appropriato in altro modo. Sono estremamente attenta a queste cose. Deve mandare John con le giovani donne, signora Collins. Sono contenta che mi sia venuta in mente di menzionarlo: sarebbe davvero disonorevole per _lei_ lasciarle andare da sole.”
-
-“Mio zio manderà un servitore a prenderci.”
-
-“Ah! Tuo zio. Lui ha un servitore, vero? Sono molto contenta che tu abbia qualcuno che si preoccupa di queste cose. Dove cambierai cavallo? Oh, certo, a Bromley. Se menzioni il mio nome al Bell, ti verranno prestati tutti i servizi necessari.”
-
-Lady Catherine aveva molte altre domande da porre riguardo al loro [[motifs/journey|Viaggio]]; e poiché non riusciva a rispondere a tutte da sola, era necessario che qualcuno l’aiutasse – cosa che Elizabeth considerava una fortuna per lei; altrimenti, con la mente così assorbita, avrebbe potuto dimenticare dove si trovava. La riflessione doveva essere riservata alle ore di solitudine: ogni volta che era sola, vi si abbandonava come al più grande sollievo; e non passava giorno senza che facesse una passeggiata solitaria, durante la quale poteva indulgere in tutti i piaceri derivanti da ricordi spiacevoli.
-
-La lettera di Mr. Darcy lei stava per impararla a memoria molto presto. Studiava ogni frase; e i suoi sentimenti verso il suo autore cambiavano spesso. Quando ricordava lo stile della sua scrittura, provava ancora indignazione; ma quando pensava a quanto ingiustamente lo avesse condannato e rimproverato, la sua rabbia si rivolgeva contro se stessa; e i suoi sentimenti delusi diventavano oggetto di compassione. Il suo affetto suscitava gratitudine, il suo carattere in generale rispetto. Ma lei non poteva approvarlo; né per un momento pentirsi della sua rifiutazione, né provare la minima voglia di rivederlo. Nel proprio comportamento passato c’era una fonte continua di irritazione e rimorso; e nei difetti infelici della sua famiglia, un motivo ancora più grave di dolore. Non c’era speranza di miglioramento. Suo padre, contento di riderne, non si sforzava mai di frenare la follia delle sue figlie minori; e sua madre, con modi così lontani dalla rettitudine, era completamente insensibile al male che causavano. Elizabeth aveva spesso cercato di collaborare con Jane per impedire all’imprudenza di Catherine e Lydia. Ma finché erano sostenute dall’indulgenza della loro madre, quale possibilità c’era di miglioramento? Catherine, debole di carattere, irascibile e completamente sotto l’influenza di Lydia, ignorava sempre i loro consigli; mentre Lydia, testarda e negligente, quasi non le ascoltava nemmeno. Erano ignoranti, pigre e vanitose. Finché c’era un ufficiale a Meryton, flirtavano con lui; e finché Meryton era a pochi passi da Longbourn, vi andavano continuamente.
-
-L’ansia per Jane era un’altra preoccupazione dominante; inoltre, le spiegazioni di Mr. Darcy, che ripristinarono in Bingley tutte le buone opinioni che Jane aveva di lui, rafforzarono ancora di più la consapevolezza di ciò che Jane aveva perso. Si dimostrò che il suo affetto era stato sincero e il suo comportamento privo di ogni colpa, a meno che non si potesse attribuire qualcosa alla sua eccessiva fiducia nel proprio amico. Quanto dunque doloroso doveva essere il pensiero che, in una situazione così desiderabile sotto tutti i punti di vista, così piena di vantaggi e così promettente per la felicità, Jane fosse stata privata di tutto ciò a causa della follia e dell’indecenza della sua stessa famiglia!
-
-Quando a questi ricordi si aggiunse lo sviluppo del carattere di Wickham, diventò facile credere che l’umore felice che prima raramente le veniva meno fosse ora così compromesso da rendere quasi impossibile per lei apparire minimamente serena.
-
-I loro appuntamenti a Rosings furono altrettanto frequenti durante l’ultima settimana del suo soggiorno quanto all’inizio. Trascorsero lì anche la sera precedente l’addio; e la signora si informò nuovamente in dettaglio sui particolari del loro [[motifs/journey|viaggio]], diede loro indicazioni su come imballare i bagagli nel modo più appropriato, e insistette così tanto sull’importanza di sistemare gli abiti nel modo corretto che [[characters/maria|Maria]] pensò di dover, al suo ritorno, disfare tutto il lavoro fatto quella mattina e ripackare nuovamente i suoi bagagli.
-
-Quando si separarono, Lady Catherine, con grande condiscendenza, li augurò un buon [[motifs/journey|viaggio]] e li invitò a tornare a Hunsford l’anno successivo; inoltre, Miss de Bourgh fece del suo meglio per essere gentile e porse loro la mano entrambi.
-
-
-
-Illustrazione:
-
-“L’innalzamento dei suoi sentimenti.”
-
 
 
 <span class="atom-split" data-atom="chapter_38" data-title="Pride and Prejudice — Chapter 38" data-chapter="Chapter 38" data-kind="chapter" data-tags="motif/garden,motif/home,motif/journey,motif/marriage,motif/silence,motif/time,motif/well,motif/winter,concept/fear,concept/hope,concept/melancholy,concept/temptation,concept/truth,concept/vanity,character/maria"></span>
@@ -11487,56 +8661,6 @@ further.
 “How nicely we are crammed in”
 ]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XXXVIII.
-
-Illustrazione
-
-Sabato mattina, Elizabeth e il signor Collins si incontrarono per colazione qualche minuto prima dell’arrivo degli altri; lui ne approfittò per esprimere le formalità di addio che riteneva assolutamente necessarie.
-
-“Non lo so, signorina Elizabeth,” disse lui, “se la signora Collins abbia già espresso il suo apprezzamento per la vostra gentilezza nell’essere venuta da noi; ma sono molto certo che non lascerete questa casa senza aver ricevuto i suoi ringraziamenti. Vi assicuro che la compagnia vostra è stata molto apprezzata. Sappiamo quanto poco ci sia qui che possa attirare qualcuno nella nostra umile dimora: il nostro semplice stile di vita, le nostre piccole stanze, pochi domestici e la scarsa conoscenza del mondo esterno devono rendere Hunsford estremamente noioso per una giovane signorina come voi; ma spero che crediate nella nostra gratitudine per questa concessione e che abbiamo fatto tutto il possibile per evitare che trascorriate il vostro [[motifs/time|tempo]] in modo sgradevole.”
-
-Elizabeth esprimeva la sua gratitudine con entusiasmo e assicurava di essere felice. Aveva trascorso sei settimane in modo molto piacevole; il piacere di stare con Charlotte e l’attenzione gentile che aveva ricevuto la facevano senz’altro sentire in debito. Anche il signor Collins era soddisfatto e, con un sorriso più serio, rispose.
-
-“Mi dà la massima gioia sentire che il vostro [[motifs/time|tempo]] trascorso qui non sia stato spiacevole. Certo abbiamo fatto del nostro meglio; e, fortunatamente, avendo la possibilità di farvi conoscere persone molto più nobili, oltre al legame con Rosings che ci permette di variare spesso dalla semplice vita di questa umile dimora, credo possiamo considerarci soddisfatti del vostro soggiorno a Hunsford. La nostra posizione rispetto alla famiglia della signorina Catherine rappresenta davvero un vantaggio e una benedizione straordinari, di cui pochi possono vantarsi. Vedete su quale base ci troviamo. Vedete quanto siamo spesso impegnati lì. A dire il vero, devo ammettere che, nonostante tutti gli svantaggi di questa umile canonica, non ritengo affatto che chi vi abita debba essere considerato un oggetto di compassione. Anzi, sono convinto che siano parte integrante della nostra intimità a Rosings.”
-
-Le parole erano insufficienti per esprimere appieno i suoi sentimenti; quindi fu costretto a camminare avanti e indietro nella stanza, mentre Elizabeth cercava di unire cortesia e [[concepts/truth|verità]] in poche frasi brevi.
-
-“Potete, infatti, portare un resoconto molto favorevole su di noi nel Hertfordshire, mia cara cugina. Almeno mi lusingo di pensare che ci riuscirete. Avete visto ogni giorno quanto grande sia stata l’attenzione di Lady Catherine verso la signora Collins; e in generale, credo che non sembri affatto che la vostra amica abbia tratto conclusioni sfortunate. Ma su questo punto sarà meglio rimanere in silenzio. Lasciate solo che vi assicuri, mia cara Miss Elizabeth, che desidero sinceramente per voi la stessa felicità nel [[motifs/marriage|matrimonio]]. Mia cara Charlotte ed io pensiamo e agiamo sempre all’unisono; in tutto ciò che facciamo esiste una straordinaria somiglianza di carattere e idee tra noi. Sembra proprio che siamo state create l’una per l’altra.”
-
-Elizabeth poteva dire con certezza che si trattava di una grande felicità quando le cose andavano in quel modo; e con altrettanta sincerità aggiungeva di credere fermamente e di gioire delle comodità domestiche che aveva a disposizione. Tuttavia, non le dispiaceva affatto che il racconto di quelle cose venisse interrotto dall’arrivo della signora da cui tutto derivava. Povera Charlotte! Era davvero [[concepts/melancholy|triste]] lasciarla in una simile compagnia. Ma lei aveva scelto quella vita con piena consapevolezza; e sebbene evidentemente rimpiangesse che le sue visite stessero per finire, non sembrava chiedere alcuna compassione. La sua [[motifs/home|casa]], la gestione della sua dimora, la sua parrocchia, il suo bestiame, e tutte le altre responsabilità che aveva con loro, non avevano ancora perso il loro fascino.
-
-Finalmente arrivò la carrozza; i bauli furono fissati e i pacchi sistemati al loro interno; si dichiarò quindi che tutto era pronto. Dopo un affettuoso addio tra gli amici, Elizabeth fu accompagnata alla carrozza da Mr. Collins. Mentre scendevano il [[motifs/garden|giardino]], lui le affidò i suoi migliori saluti per tutta la sua famiglia, non dimenticando di ringraziarli per la gentilezza ricevuta a Longbourn durante l’[[motifs/winter|inverno]], e di esprimere i suoi complimenti a Mr. e Mrs. Gardiner, anche se non li conosceva personalmente. Poi la fece salire in carrozza; [[characters/maria|Maria]] la seguì, e proprio quando stavano per chiudere la porta, lui ricordò loro, con qualche preoccupazione, che avevano dimenticato di lasciare un messaggio per le signore di Rosings.
-
-Illustrazione:
-
-“Si erano dimenticati di lasciare alcun messaggio”
-
-“Ma,” aggiunse, “certamente vorrete che i vostri umili ringraziamenti vengano portati a loro, insieme alla vostra gratitudine per la loro gentilezza verso di voi durante il vostro soggiorno qui.”
-
-Elizabeth non ebbe alcuna obiezione: la porta fu quindi chiusa e la carrozza partì.
-
-“Mio Dio!” esclamò [[characters/maria|Maria]] dopo alcuni minuti di [[motifs/silence|silenzio]], “sembra che sia passato solo un giorno o due da quando siamo arrivate per la prima volta. Eppure quante cose sono già successe!”
-
-“Molte davvero,” disse la sua compagna, sospirando.
-
-“Abbiamo pranzato nove volte a Rosings, inoltre abbiamo bevuto tè lì due volte! Quante cose dovrò raccontare, ”
-
-“E quante cose dovrò nascondere…”, aggiunse Elizabeth in privato.
-
-Il loro [[motifs/journey|Viaggio]] si svolse senza molte conversazioni, né alcun segno di preoccupazione; e in soli quattro ore da quando lasciarono Hunsford arrivarono alla casa del signor Gardiner, dove avrebbero soggiornato per alcuni giorni.
-
-Jane sembrava in buona salute, e Elizabeth non ebbe molte opportunità di osservare il suo comportamento, a causa delle varie impegni che la gentilezza di sua zia aveva organizzato per loro. Ma quando Jane sarebbe tornata a casa con lei, a Longbourn ci sarebbe stato abbastanza tempo per farlo.
-
-Non fu senza sforzo che riuscì ad aspettare fino a Longbourn prima di raccontare a sua sorella delle proposte del signor Darcy. Sapeva di avere il potere di rivelare qualcosa che avrebbe sorpreso enormemente Jane, e al contempo di soddisfare in modo considerevole ogni traccia della propria [[concepts/vanity|vanità]] che ancora non era riuscita a superare. Una tentazione così forte da essere insuperabile, se non fosse stato per l’incertezza riguardo al grado di informazioni da condividere e per la paura di ritrovarsi costretta, una volta iniziato il discorso, a ripetere qualcosa riguardo a Bingley, il che avrebbe potuto addolorare ancora di più sua sorella.
-
-
-
-Illustrazione:
-
-"#Comodamente stipati insieme"
 
 
 
@@ -11713,70 +8837,6 @@ disheartened, had never yet despaired of succeeding at last.
 
 [Illustration]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XXXIX.
-
-Illustrazione
-
-Era la seconda settimana di maggio; le tre giovani signore partirono insieme da Gracechurch Street dirette verso la città di ----, nel Hertfordshire. Mentre si avvicinavano all’ostello stabilito dove il carro di Mr. Bennet avrebbe dovuto raggiungerle, notarono subito che Kitty e Lydia stavano guardando fuori da una sala da pranzo al piano di sopra: un segno evidente della puntualità del cocchiere. Le due ragazze erano già lì da oltre un’ora, impegnate a visitare una modista situata di fronte, ad osservare il soldato di guardia e a preparare insalata e cetrioli.
-
-Dopo aver dato il benvenuto alle loro sorelle, mostrarono con orgoglio un tavolo imbandito con quei cibi freddi che di solito si trovano nelle cucine delle locande, esclamando: “Non è bello? Non è una sorpresa piacevole?”
-
-“E intendiamo trattarvi tutti allo stesso modo,” aggiunse Lydia; “ma dovete prestarci i soldi, perché abbiamo appena speso tutto quello che avevamo al negozio laggiù.” Poi mostrò le sue acquisti: “Guardate, ho comprato questo cappello. Non credo sia molto bello; ma ho pensato che tanto valeva comprarlo. Appena arriverò a casa, lo smonterò pezzo per pezzo e vedrò se riesco a migliorarlo in qualche modo.”
-
-E quando le sue sorelle lo criticarono definendolo brutto, lei aggiunse, con perfetta indifferenza: “Oh, ma nel negozio ce n’erano due o tre ancora più brutti; e quando comprerò del satin di colore più bello per abbellirlo, penso che sarà abbastanza accettabile. Inoltre, non ha molta importanza cosa si indossa in questa [[motifs/summer|estate]], dopo che la famiglia ----shire avrà lasciato Meryton, e partiranno tra due settimane.”
-
-“Davvero lo sono?” esclamò Elizabeth, con grande soddisfazione.
-
-“Si accamperanno vicino a Brighton; vorrei davvero che papà ci portasse tutti lì per l’[[motifs/summer|estate]]! Sarebbe un’idea meravigliosa, e credo che non costerebbe quasi nulla. Anche mamma vorrebbe andarci, soprattutto! Pensate solo a quanto sarebbe terribile trascorrere l’[[motifs/summer|estate]] in un altro modo, ”
-
-“Sì,” pensò Elizabeth; “quello sarebbe davvero un piano delizioso,
-e ci risolverebbe tutti i problemi all’istante. Buon Dio! Brighton e un intero campo di soldati, per noi, che già abbiamo avuto abbastanza problemi a causa di una sola povera compagnia di milizia, senza contare le feste mensili di Meryton, ”
-
-“Ora ho alcune notizie per te,” disse Lydia mentre si sedevano a tavola. “Che ne pensi? Sono notizie eccellenti, davvero importanti, e riguardano una certa persona che a tutti noi piace.”
-
-Jane ed Elizabeth si guardarono l’una con l’altra, e al cameriere fu detto che non c’era bisogno che rimanesse. Lydia rise e disse:–
-
-“Ah, proprio come al solito: formalità e discrezione. Pensavi che il cameriere non dovesse sentire, come se gli importasse qualcosa! Oserei dire che spesso sente cose molto peggiori di quelle che sto per dire io. Ma è davvero un individuo disgustoso. Sono contenta che sia andato via: non ho mai visto una mascella così lunga in vita mia. Comunque, ora veniamo alla notizia importante: riguarda caro Wickham. Troppo buono per quel cameriere, vero? Non c’è alcun rischio che Wickham sposi Mary [[archetypes/king|King]]. È andata a stare da suo zio a Liverpool. Wickham è al sicuro.”
-
-“E Mary, la regina, è al sicuro!” aggiunse Elizabeth; “al sicuro da un legame imprudente che potrebbe danneggiare la sua fortuna.”
-
-“È davvero una grande [[archetypes/fool|sciocca]] ad andarsene via, se davvero lo amava, ”
-
-“Ma spero che non ci sia un legame troppo forte da entrambe le parti,” disse Jane.
-
-“Sono sicura che non ce l’abbia lui. Ne rispondo io: a lui non è mai importata niente di lei. Chi potrebbe mai interessarsi a una ragazza così brutta e piena di lentiggini?”
-
-Elizabeth rimase scioccata al pensiero che, anche se lei stessa era incapace di una tale rozzezza nell’esprimersi, quella rozzezza nel sentimento non era altro che ciò che un tempo il suo stesso cuore aveva nutrito e immaginato come “libero”.
-
-Non appena tutti ebbero finito di mangiare e i più anziani pagarono, fu ordinata la carrozza; dopo alcune difficoltà, l’intero gruppo, con tutte le loro scatole, borse da lavoro e pacchi, oltre alle aggiunte indesiderate delle compere di Kitty e Lydia, si sistemò al suo interno.
-
-“Che bel modo abbiamo di stare ammassate insieme!” esclamò Lydia. “Sono contenta di aver portato il mio cappello, anche solo per il divertimento di avere un’altra ‘scatola musicale’ da usare! Ora, mettiamoci comode e parliamo, ridiamo tutto il cammino fino a casa. E prima di tutto, raccontateci cosa vi è successo da quando siete partite. Avete incontrato qualche uomo interessante? Avete avuto qualche flirtazione? Speravo davvero che qualcuna di voi trovasse un marito prima del ritorno. Jane diventerà presto una zitella, lo dico sul serio: ha quasi ventitré anni! Oddio, quanto mi vergognerei se non fossi sposata entro i ventitré. Mia zia Philips vuole assolutamente che troviate marito. Pensate un po’! Dice che Lizzy avrebbe dovuto scegliere il signor Collins. Ma io non credo che ci sarebbe stato alcun divertimento in quel caso. Oddio, quanto vorrei essere sposata prima di voi tutte. Così potrei accompagnarvi a tutti i balli. Accidenti, l’altro giorno abbiamo avuto un sacco di divertimento a casa del colonnello Forster! Kitty ed io dovevamo trascorrere la giornata lì, e la signora Forster aveva promesso di organizzare una piccola festa con danze la sera, (A proposito, la signora Forster ed io siamo davvero amiche, ) Così ha invitato i due Harrington. Ma Harriet era malata, quindi Pen è stata costretta ad andare da sola. E sapete cosa abbiamo fatto? Abbiamo vestito Chamberlayne con abiti da donna, per farlo passare per una signora. Immaginate quanto ci siamo divertite! Nessuno se n’è accorto, tranne il colonnello e la signora Forster, Kitty ed io. Tranne mia zia, perché abbiamo dovuto prendere in prestito uno dei suoi abiti. E non potete immaginare quanto fosse carino con quell’abbigliamento! Quando sono entrati Denny, Wickham, Pratt e altri uomini, non l’hanno riconosciuto affatto. Oddio, quanto ho riso. E anche la signora Forster. Pensavo di morire dal ridere. E questo ha fatto sospettare qualcosa agli uomini. Poi hanno presto scoperto cosa fosse successo, ”
-
-Con storie così piacevoli sui loro party e battute divertenti, Lydia, con l’aiuto dei suggerimenti e degli aggiunti di Kitty, cercò di intrattenere le sue compagne per tutto il viaggio fino a Longbourn. Elizabeth ascoltava il meno possibile, ma non era possibile evitare che venisse menzionato spesso il nome di Wickham.
-
-Il loro ricevimento a [[motifs/home|casa]] fu estremamente cordiale. La signora Bennet fu felice di vedere Jane ancora così bella; e più volte durante la cena il signor Bennet disse volontariamente a Elizabeth.
-
-“Sono felice che tu sia tornata, Lizzy.”
-
-La loro riunione in sala da pranzo fu numerosa, poiché quasi tutti i Lucas erano venuti ad incontrare [[characters/maria|Maria]] e ascoltare le novità; i argomenti di conversazione furono vari: Lady Lucas, dall’altra parte del tavolo, chiedeva a [[characters/maria|Maria]] notizie sul benessere e sulla salute della sua figlia maggiore; la signora Bennet era impegnata su due fronti: da un lato ascoltava Jane raccontare le ultime mode, seduta poco più in basso, dall’altro ne parlava con le giovani Miss Lucas; Lydia, con una voce piuttosto più alta di quella delle altre, elencava a chiunque fosse disposto ad ascoltarla i vari piaceri della giornata.
-
-“Oh, Mary,” disse lei, “vorrei che fossi venuta con noi, perché ci siamo divertite tantissimo!
-Mentre viaggiavamo, Kitty e io abbassammo tutte le tende e fingemmo che non ci fosse nessuno nel vagone; avrei voluto continuare così per tutto il tragitto, se solo Kitty non fosse stata malata. E quando siamo arrivate al George, credo davvero di esserci comportate molto bene: abbiamo offerto alle altre tre persone il pranzo più delizioso che esista. E se fossi venuta anche tu, ti avremmo trattata allo stesso modo. Poi, quando siamo tornate a casa, è stato ancora più divertente! Pensavo che non saremmo mai riuscite a salire sul vagone. Morivo dal ridere. E poi siamo state così felici per tutto il cammino verso casa. Parlavamo e ridevamo così forte che chiunque avrebbe potuto sentirci a dieci miglia di distanza!”
-
-A questo, Mary rispose molto seriamente: “Mia cara sorella, non oso certo sminuire tali piaceri. Senza dubbio sarebbero graditi alla maggior parte delle donne. Ma confesso che per me non avrebbero alcun fascino; preferirei di gran lunga leggere un libro.”
-
-Ma Lydia non sentì una parola di questa risposta. Raramente ascoltava qualcuno per più di mezzo minuto, e in ogni caso non prestava affatto attenzione a Mary.
-
-Nel pomeriggio Lydia insistette con le altre ragazze per andare a Meryton e vedere come stavano tutti; ma Elizabeth si oppose fermamente a quel piano. Non si può dire che le signorine Bennet non potessero rimanere a [[motifs/home|casa]] per mezza giornata prima di mettersi alla ricerca degli ufficiali. C’era anche un altro motivo della sua opposizione: temeva di rivedere Wickham e era decisa ad evitarlo il più a lungo possibile. Il sollievo che le procurava la prossima partenza del reggimento era davvero indescrivibile. Tra due settimane sarebbero partiti, e una volta lontani, sperava che nulla più potesse tormentarla a causa di lui.
-
-Non erano trascorse molte ore da quando era tornata a [[motifs/home|casa]], che scoprì che il piano di Brighton, di cui Lydia aveva dato loro un indizio all’ostello, veniva spesso discusso tra i suoi genitori. Elizabeth capì subito che suo padre non aveva la minima intenzione di cedere; ma le sue risposte erano così vaghe ed evasive che sua madre, sebbene spesso scoraggiata, non aveva mai perso la speranza di riuscire, alla fine.
-
-
-
-Illustrazione
 
 
 
@@ -11985,94 +9045,6 @@ ashamed of having one that was only entailed on me.”
 [_Copyright 1894 by George Allen._]]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XL.
-
-Illustrazione
-
-L’impazienza di Elizabeth di far conoscere a Jane ciò che era accaduto non poteva più essere soppressa; e alla fine, decidendo di omettere tutti i dettagli riguardanti sua sorella e di prepararla a una sorpresa, le raccontò la mattina seguente gli eventi principali della scena tra il signor Darcy e lei.
-
-Lo stupore di Miss Bennet diminuì presto a causa della forte affetto fraterno che rendeva qualsiasi ammirazione per Elizabeth del tutto naturale; e ben presto ogni sorpresa svanì, lasciando il posto ad altri sentimenti. Le dispiaceva che il signor Darcy avesse espresso i propri sentimenti in un modo così poco adatto a farli apprezzare; ma ancora di più le addolorava la sfortuna che il rifiuto di sua sorella doveva avergli causato.
-
-“Il fatto che fosse così sicuro di riuscire era un errore,” disse lei, “e certamente non avrebbe dovuto comportarsi in quel modo; ma pensa a quanto ciò debba aver aumentato la sua delusione.”
-
-“Certamente,” rispose Elizabeth, “mi dispiace molto per lui; ma ha altri sentimenti che probabilmente presto allontaneranno il suo interesse per me. Tuttavia, non mi biasimate se ho rifiutato di accettarlo, vero?”
-
-"Colpa tua! Oh, no."
-
-“Ma mi incolpi per aver parlato così bene di Wickham?”
-
-“Non… non so se tu avessi torto nel dire ciò che hai detto.”
-
-“Ma lo scoprirai sicuramente, quando ti racconterò cosa è successo il giorno dopo.”
-
-Poi parlò della lettera, ripetendo tutto il suo contenuto riguardo a George Wickham. Che colpo terribile per la povera Jane, che avrebbe volentieri attraversato il mondo senza credere che nella razza umana esistesse tutta quella malvagità raccolta in un singolo individuo! Nemmeno la difesa di Darcy, sebbene fosse gradita ai suoi sentimenti, riuscì a consolarla di fronte a una scoperta del genere. Con grande impegno cercò di dimostrare la possibilità che si trattasse di un errore e di scagionare uno dei due personaggi senza coinvolgere l’altro.
-
-“Questo non va,” disse Elizabeth; “non riuscirai mai a rendere entrambi utili per qualcosa. Scegli tu, ma devi accontentarti di uno solo. Il loro merito è esattamente sufficiente per farne un uomo decente, e ultimamente sembra essersi spostato da una parte all’altra. Per quanto mi riguarda, sono incline a credere che tutto dipenda dal signor Darcy, ma fai pure come preferisci.”
-
-Tuttavia, trascorse un po' di [[motifs/time|tempo]] prima che riuscissero a strappare un sorriso a Jane.
-
-“Non so quando sia mai stata più scioccata,” disse lei. “Wickham, è davvero troppo cattivo! È quasi impossibile da credere. E povero il signor Darcy, cara Lizzy, pensa solo a quanto debba aver sofferto. Che delusione, e inoltre sapendo anche che tu lo consideri così negativamente, e dover raccontare una cosa del genere su sua sorella! È davvero troppo doloroso, sono sicura che tu la provi allo stesso modo.”
-
-“Oh no, tutto il mio rimorso e la mia compassione svaniscono nel vederti così piena di entrambi. So che gli renderai giustizia in modo più che adeguato, quindi ogni momento divento sempre meno preoccupata e indifferente. La tua generosità mi rassicura; e se continuerai a piangerlo ancora a lungo, il mio cuore sarà leggero come una piuma.”
-
-Povero Wickham. C’è una tale espressione di bontà nel suo volto, una tale sincerità e dolcezza nel suo modo di comportarsi.
-
-“Certamente ci sono stati gravi errori nella [[concepts/education|educazione]] di quei due giovani uomini: uno possiede tutta la bontà, mentre l’altro ne ha soltanto l’apparenza.”
-
-“Non avrei mai pensato che il signor Darcy fosse così carente in termini di… esteriorità, come facevi tu una volta.”
-
-“Eppure, volevo davvero dimostrare di essere straordinariamente intelligente nel provare un'avversione così decisa per lui, senza alcun motivo. È proprio questo genere di avversione che stimola il genio, che offre opportunità per l’ingegno. Si può continuare a essere offensivi senza dire nulla di giusto; ma non si può sempre ridere di una persona senza, ogni tanto, trovare qualcosa di spiritoso da dire.”
-
-“Lizzy, quando hai letto per la prima volta quella lettera, sono sicuro che non avresti affrontato la situazione nello stesso modo in cui lo fai ora.”
-
-“Infatti, non potevo. Mi sentivo così a disagio, molto a disagio; potrei dire persino infelice. E non c’era nessuno con cui parlare di ciò che provavo: nessuna Jane che mi consolasse, che dicesse che non ero stata così debole, vanitosa e assurda, come sapevo di essere. Oh, quanto ti volevo!”
-
-“Che sfortuna che abbiate usato espressioni così forti parlando di Wickham con il signor Darcy, perché al momento sembrano davvero del tutto ingiustificate.”
-
-“Certo. Ma la sfortuna di parlare con amarezza è una conseguenza naturale dei pregiudizi che ho incoraggiato. C’è un punto su cui vorrei il tuo consiglio: voglio sapere se dovrei, o meno, far capire a tutti noi conoscenze comuni il vero carattere di Wickham.”
-
-La signorina Bennet esitò per un momento, poi rispose: “Certamente non può esserci alcuna ragione per metterlo in una situazione così terribile. Qual è la tua opinione?”
-
-“Non dovrebbe nemmeno essere tentato. Il signor Darcy non mi ha autorizzato a rendere pubbliche le sue informazioni. Al contrario, ogni dettaglio relativo a sua sorella doveva essere tenuto il più segreto possibile; e se cercassi di ingannare la gente riguardo al resto del suo comportamento, chi mai mi crederebbe? L’ostilità generale verso il signor Darcy è così intensa che tentare di presentarlo in una luce positiva significherebbe la [[motifs/death|morte]] di metà delle persone perbene di Meryton. Non sono all’altezza di farlo. Wickham se ne andrà presto; quindi, a nessuno qui importerà veramente chi sia realmente. Tra poco tutto verrà scoperto, e allora potremo ridere della loro stupidità nel non esserselo resi conto prima. Per ora, non dirò nulla al riguardo.”
-
-“Hai perfettamente ragione. Se i suoi errori venissero resi pubblici, potrebbero distruggerlo per sempre. Forse ora si pente di ciò che ha fatto e desidera ardentemente ristabilire la propria reputazione. Non dobbiamo farlo cadere nella disperazione.”
-
-Il tumulto nella mente di Elizabeth si placò grazie a questa conversazione. Aveva finalmente liberato se stessa da due dei [[motifs/secrets|segreti]] che le pesavano addosso da un quindici giorni, e sapeva di poter contare sull’ascolto attento di Jane ogni volta che avesse voluto parlare ancora di loro. Tuttavia, c’era ancora qualcosa che rimaneva nascosto, qualcosa che la prudenza le impediva di rivelare. Non osava raccontare l’altra metà della lettera del signor Darcy, né spiegare a sua sorella quanto sinceramente fosse stata apprezzata da suo amico. Si trattava di informazioni di cui nessuno poteva essere a conoscenza; e lei sapeva bene che solo una perfetta comprensione tra le due parti avrebbe potuto giustificare il fatto di liberarsi di quest’ultimo peso del mistero. “E poi,” aggiunse, “se mai dovesse verificarsi quell’evento improbabile, sarei semplicemente in grado di riferire ciò che Bingley stesso potrebbe raccontare in modo molto più piacevole. La libertà di comunicare non potrà essere mia finché non avrà perso completamente ogni suo valore!”
-
-Ora che si era sistemata a [[motifs/home|casa]], aveva il tempo di osservare realmente lo stato d’animo di sua sorella. Jane non era felice: provava ancora un affetto molto profondo per Bingley. Non essendo mai stata innamorata prima, i suoi sentimenti erano carichi della intensità di un primo amore, e data la sua età e natura, questi sentimenti erano anche più duraturi del solito. Tanto apprezzava il ricordo di lui e lo preferiva a tutti gli altri uomini, che dovette fare appello a tutta la propria ragione e alla considerazione per i sentimenti degli amici per impedirsi di indulgere in quei rimpianti che avrebbero potuto nuocere sia alla sua salute che alla tranquillità degli altri.
-
-“Beh, Lizzy,” disse un giorno la signora Bennet, “qual è ora il tuo parere su questa triste faccenda di Jane? Per quanto mi riguarda, sono decisa a non parlare mai più di questo argomento con nessuno. L’altro giorno l’ho detto anche a mia sorella Philips. Ma non riesco a capire se Jane lo abbia incontrato a [[settings/london|Londra]]. Beh, è un giovane davvero indegno. E non credo che ci sia la minima possibilità che lei possa mai sposarlo ora. Non si parla affatto del suo ritorno a Netherfield in [[motifs/summer|estate]]; e ho anche chiesto in giro a tutte le persone che potrebbero saperne qualcosa.”
-
-Illustrazione:
-
-“Sono deciso a non parlarne mai più”
-
-“Non credo che vivrà mai più a Netherfield.”
-
-“Oh, beh, è proprio come lui vuole. Nessuno vuole che venga; anche se devo dire che ha trattato mia figlia in modo terribile. E se fossi stata al suo posto, non l’avrei mai sopportato. Beh, il mio conforto è che sono sicura che Jane morirà di crepacuore. E allora lui si pentirà di quello che ha fatto.”
-
-Ma poiché Elizabeth non poteva trovare conforto in alcuna simile aspettativa, non rispose affatto.
-
-“Beh, Lizzy,” continuò sua madre poco dopo, “quindi i Collins vivono molto comodamente, vero? Beh, spero solo che questa situazione duri. E che tipo di tavola hanno? Direi che Charlotte sia un’ottima gestitrice: se è anche solo la metà intelligente di sua madre, sicuramente sta risparmiando abbastanza. Nella loro casa non c’è nulla di eccessivo, ne sono certa.”
-
-"No, nulla affatto."
-
-“Una buona gestione finanziaria dipende molto da questo. Sì, sicuramente. _Loro_ faranno in modo di non spendere più del loro reddito. Non saranno mai in difficoltà economiche. [[motifs/well|Beh]], che possa portare loro molta fortuna! E quindi, immagino, spesso parlano di prendersi Longbourn dopo la morte di vostro padre. Lo considerano praticamente loro, oserei dire, non appena ciò accadrà.”
-
-“Era un argomento di cui non potevano parlare davanti a me.”
-
-“No; sarebbe stato strano se lo avessero fatto. Ma non ho alcun [[concepts/doubt|dubbio]] che ne parlino spesso tra loro. [[motifs/well|Beh]], se riescono a comportarsi con disinvoltura riguardo a una proprietà che legalmente non è loro, tanto meglio. Io invece dovrei vergognarmi di possedere qualcosa che mi è stato lasciato in eredità soltanto per legge.”
-
-
-
-Illustrazione:
-
-"#Quando il reggimento del colonnello Miller se ne andò"
-
-Copyright 1894 di George Allen.
-
 
 
 <span class="atom-split" data-atom="chapter_41--part_01" data-title="Pride and Prejudice — Chapter 41 (part 1)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/death,motif/home,motif/love,motif/sleep,motif/well,concept/friendship,concept/hope"></span>
@@ -12202,52 +9174,6 @@ there may teach her her own insignificance. At any rate, she cannot grow
 many degrees worse, without authorizing us to lock her up for the rest
 of her life.”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XLI.
-
-Illustrazione
-
-La prima settimana del loro ritorno passò in fretta. Iniziò la seconda. Era l’ultima fase della permanenza del reggimento a Meryton, e tutte le giovani signore dei dintorni sembravano perdere rapidamente le forze. La tristezza era quasi generale. Solo la più anziana delle sorelle Bennet riusciva ancora a mangiare, bere, dormire e svolgere le sue abituali attività. Molto spesso veniva rimproverata per questa insensibilità da Kitty e Lydia, la cui sofferenza era estrema e che non riuscivano a comprendere una tale durezza da parte di nessuno della famiglia.
-
-“Mio Dio! Cosa ne sarà di noi? Cosa dovremmo fare?” esclamavano spesso con amarezza e dolore. “Come fai a sorridere così, Lizzy?”
-
-La loro affettuosa madre condivise tutto il loro dolore; ricordava ciò che lei stessa aveva sopportato in una situazione simile venticinque anni prima.
-
-“Ne sono sicura,” disse lei, “ho pianto per due giorni di seguito quando il reggimento del Colonnello Miller se n’è andato. Pensavo che mi sarebbe spezzato il cuore.”
-
-“Sono sicura che romperò il mio,” disse Lydia.
-
-“Se solo si potesse andare a Brighton, ”, osservò la signora Bennet.
-
-“Ah sì… se solo si potesse andare a Brighton! Ma papà è davvero insopportabile.”
-
-"Un po' di bagno in mare mi rimetterebbe completamente in sesto."
-
-“E mia zia Philips è sicura che farebbe molto bene anche a me,” aggiunse Kitty.
-
-Tali erano i lamenti che risuonavano costantemente nella casa di Longbourn. Elizabeth cercava di distrarsi, ma ogni senso di piacere svaniva nel rimorso. Percepì ancora una volta la validità delle obiezioni del signor Darcy; e mai prima d’allora era stata così disposta a perdonare il suo intervento nelle questioni del suo amico.
-
-Ma la tristezza legata alle prospettive future di Lydia fu presto dissipata: ricevette infatti un invito da Mrs. Forster, moglie del colonnello del reggimento, a accompagnarla a Brighton. Questa preziosa amica era una donna molto giovane e aveva sposato di recente. Una somiglianza nel buon umore e nello spirito li aveva fatti simpatizzare l’uno con l’altra, e in soli tre mesi di conoscenza erano diventate molto intime.
-
-L’entusiasmo di Lydia in quell’occasione, la sua adorazione per la signora Forster, la gioia della signora Bennet e l’umiliazione di Kitty sono difficili da descrivere. Del tutto ignara dei sentimenti di sua sorella, Lydia correva per tutta la casa in un’estasi incontenibile, chiedendo a tutti di congratularsi con lei, ridendo e parlando più rumorosamente che mai; mentre la sfortunata Kitty rimaneva in salotto, lamentandosi della sua sorte con parole altrettanto irragionevoli quanto il suo accento era irritante.
-
-“Non capisco perché la signora Forster non dovrebbe chiederlo a _me_, tanto quanto a Lydia,” disse lei, “anche se non sono sua particolare amica. Ho esattamente lo stesso diritto di essere invitata quanto lei, anzi di più, visto che ho due anni in più.”
-
-Inutilmente Elizabeth cercò di farla ragionare, e Jane di farla accettare la situazione con rassegnazione. Per quanto riguarda Elizabeth stessa, quell’invito non le suscitava affatto gli stessi sentimenti che avevano sua madre e Lydia; anzi, lo considerava una vera e propria condanna a morte per ogni possibilità di buon senso da parte di Lydia. E anche se sapeva che tale decisione la rendeva detestabile agli occhi degli altri, non poté fare a meno di consigliare segretamente a suo padre di non lasciarla andare. Gli illustrò tutte le irragionevolizze nel comportamento generale di Lydia, il poco vantaggio che poteva trarre dall’amicizia di una donna come la signora Forster, e la probabilità che diventasse ancora più imprudente in compagnia di una simile persona a Brighton, dove le tentazioni sarebbero state sicuramente maggiori rispetto a casa. Lui l’ascoltò attentamente, poi disse.
-
-“Lydia non sarà mai tranquilla finché non si esporrà in qualche luogo pubblico, e non possiamo mai aspettarci che lo faccia con così pochi costi o disagi per la sua famiglia, come avviene nelle attuali circostanze.”
-
-“Se solo foste consapevoli,” disse Elizabeth, “del grave svantaggio che deriverebbe per tutti noi dalla divulgazione pubblica del comportamento imprudente e incauto di Lydia, anzi, che già ne è derivato, sono sicura che giudichereste diversamente questa situazione.”
-
-“Già sono spariti!” ripeté il signor Bennet. “Che cosa! Forse ha spaventato via alcuni dei tuoi amanti? Povera piccola Lizzy. Ma non lasciarti abbattere. Giovani così delicati, che non riescono nemmeno a sopportare una piccola sciocchezza, non meritano certo rimpianti. Vieni, dammi da vedere l’elenco di quegli sfortunati che sono stati allontanati a causa della follia di Lydia.”
-
-“Infatti, vi sbagliate. Non ho alcun motivo di risentimento per queste cose. Non si tratta di mali particolari, ma di vizi comuni che ora mi causano preoccupazione. La nostra importanza, il nostro prestigio nel mondo saranno sicuramente compromessi dall’irruenza, dalla presunzione e dal disprezzo per qualsiasi forma di moderazione che caratterizzano il comportamento di Lydia. Perdonatemi, devo parlare chiaramente. Se voi, mio caro padre, non vi impegnerete a controllare il suo spirito esuberante e a insegnarle che le sue attività attuali non devono costituire lo scopo principale della sua vita, presto sarà troppo tardi per correggerla. Il suo carattere si consoliderà, e a sedici anni diventerà la più determinata delle civette, capace di mettere in ridicolo sia sé stessa che la sua famiglia; una civetta del peggior tipo, priva di qualsiasi attrattiva reale, se non quella della giovane età e di un aspetto tollerabile. E, a causa dell’ignoranza e della vuotezza della sua mente, sarà completamente incapace di difendersi dal disprezzo che il suo comportamento susciterà inevitabilmente. In questo pericolo è inclusa anche Kitty, seguirà ovunque Lydia vada. Vana, ignorante, pigra e del tutto incontrollabile. Oh, mio caro padre, potete davvero pensare che non verranno criticate e disprezzate ovunque vadano, e che le loro sorelle non saranno spesso coinvolte nella loro stessa vergogna?”
-
-Il signor Bennet vide che tutto il suo cuore era impegnato in quell’argomento; e, prendendole affettuosamente la mano, rispose:
-
-“Non angosciarti, mio [[motifs/love|amore]]. Ovunque tu e Jane siate conosciute, dovete essere rispettate e apprezzate; non verrete considerate in svantaggio solo perché avete un paio, o meglio, tre, sorelle molto sciocche. Non avremo pace a Longbourn se Lydia non va a Brighton. Lasciatela andare, allora: il colonnello Forster è un uomo sensato e la terrà lontana da qualsiasi guaio serio; inoltre, fortunatamente è troppo povera per essere oggetto di desiderio da parte di nessuno. A Brighton avrà meno importanza, anche come semplice flirt, rispetto a quanto ne abbia qui. Gli ufficiali troveranno donne più degne della loro attenzione. Speriamo quindi che la sua permanenza lì le insegni la sua stessa insignificanza. In ogni caso, non potrà peggiorare molto di più, altrimenti dovremmo davvero rinchiuderla per il resto della sua vita.”
 
 
 
@@ -12392,60 +9318,6 @@ The arrival of the
 Gardiners
 ]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Con questa risposta, Elizabeth fu costretta ad accontentarsi; ma la sua opinione personale rimase invariata, e lui se ne andò deluso e addolorato. Tuttavia, non era nella sua [[concepts/nature|natura]] soffermarsi continuamente su quelle cose per aumentare il proprio disagio. Era convinta di aver adempiuto al proprio dovere; e preoccuparsi inutilmente dei mali inevitabili, o peggiorarli con l’ansia, non faceva parte del suo carattere.
-
-Se Lydia e sua madre avessero conosciuto il contenuto della sua conversazione con suo padre, la loro indignazione difficilmente sarebbe riuscita a trovare espressione nella loro comune veemenza. Nell’[[concepts/imagination|immaginazione]] di Lydia, una visita a Brighton rappresentava tutte le possibilità di felicità terrena. Con l’occhio creativo della fantasia, vedeva le strade di quella allegra località balneare piene di ufficiali; si immaginava oggetto dell’attenzione di decine, forse addirittura centinaia di loro, che al momento erano ancora sconosciuti. Vedeva tutte le glorie di quel luogo: le tende disposte in bellissime linee uniformi, piene di giovani e persone allegra, e abbaglianti di rosso; e, per completare il quadro, si immaginava seduta sotto una tenda, a flirtare dolcemente con almeno sei ufficiali contemporaneamente.
-
-Illustrazione:
-
-"#Dolce flirtare"
-
-Copyright 1894 di George Allen.
-
-Se avesse saputo che sua sorella cercava di strapparla da queste prospettive e da queste realtà, quali sarebbero state le sue emozioni? Queste emozioni avrebbero potuto essere comprese solo da sua madre, che probabilmente avrebbe provato quasi lo stesso. Il viaggio di Lydia a Brighton era l’unica cosa che la consolava di fronte alla convinzione melanconica che suo marito non avesse mai intenzione di andarci personalmente.
-
-Ma erano completamente all’oscuro di ciò che era accaduto; e le loro esultanze continuarono, con poche pause, fino al giorno stesso in cui Lydia lasciò la [[motifs/home|casa]].
-
-Elizabeth avrebbe ora incontrato per l’ultima volta il signor Wickham. Dopo aver trascorso spesso del tempo in sua compagnia da quando era tornata, l’agitazione che provava inizialmente si era ormai placata completamente; anche i sentimenti di precedente simpatia erano svaniti del tutto. Aveva persino imparato a riconoscere, nella gentilezza che all’inizio le aveva piaciuto tanto, un’affettazione e una monotonia che la infastidivano e stancavano. Inoltre, nel comportamento che lui aveva ora nei suoi confronti, trovava un nuovo motivo di disappunto: il desiderio che presto mostrò di riprendere quelle attenzioni che avevano caratterizzato i primi tempi della loro conoscenza non faceva altro che irritarla, considerando ciò che era accaduto in seguito. Perse completamente ogni interesse per lui quando si rese conto che veniva scelto come oggetto di una simile galanteria futile e frivola; e sebbene cercasse con determinazione di reprimerla, non poteva fare a meno di sentire il rimprovero nascosto nel fatto che lui credeva davvero che, qualunque fosse la durata o il motivo per cui avesse interrotto quelle attenzioni, la sua [[concepts/vanity|vanità]] sarebbe stata comunque soddisfatta e la sua preferenza garantita, in qualsiasi momento, dal loro riprendere.
-
-Nell’ultimo giorno in cui il reggimento rimase a Meryton, egli pranzò, insieme ad altri ufficiali, a Longbourn; e poiché Elizabeth non aveva alcuna voglia di separarsi da lui in buoni termini, quando egli le chiese come fosse trascorsa la sua [[motifs/time|vacanza]] a Hunsford, lei menzionò che sia il Colonnello Fitzwilliam che il signor Darcy avevano trascorso entrambi tre settimane a Rosings, e gli chiese se conoscesse il primo.
-
-Sembrava sorpreso, scontento, preoccupato; ma, dopo un momento di riflessione e con un sorriso ritornato, rispose che lo aveva visto spesso in passato; e, notando che era un uomo molto gentiluomo, le chiese come le fosse sembrato. La sua risposta fu decisamente a suo favore. Con aria indifferente, aggiunse poco dopo: “Quanto tempo hai detto che fosse rimasto a Rosings?”
-
-"Circa tre settimane."
-
-“E lo vedevi spesso?”
-
-"Sì, quasi ogni giorno."
-
-“I suoi modi sono molto diversi da quelli di suo cugino.”
-
-“Sì, molto diverso… Ma penso che il signor Darcy diventi più interessante con la conoscenza…”
-
-“Certamente!” esclamò Wickham, con uno sguardo che lei non poté ignorare. “E per favore, posso chiedere, ” ma si trattenne e aggiunse, con tono più allegro: “Ha forse migliorato nel suo modo di comportarsi? Si è degnato di aggiungere un po’ di cortesia al suo solito modo di parlare? Perché non oso sperare,” continuò, in tono più basso e serio, “che abbia cambiato davvero nei suoi principi fondamentali.”
-
-“Oh, no!”, disse Elizabeth. “Nella sostanza, credo che sia esattamente lo stesso di sempre.”
-
-Mentre parlava, Wickham sembrava non sapere se dovesse rallegrarsi per quelle parole o dubitare del loro significato. C’era qualcosa nel suo volto che lo spingeva ad ascoltare con attenzione e apprensione, mentre lei continuava.
-
-“Quando ho detto che migliorava con la conoscenza, non intendevo dire che né la sua mente né i suoi modi fossero in fase di miglioramento; ma che, conoscerlo meglio, si comprendeva meglio il suo carattere.”
-
-L’allarme di Wickham ora si manifestava in un’espressione più intensa e in uno sguardo agitato; per alcuni minuti rimase in silenzio; poi, scacciando l’imbarazzo, si rivolse di nuovo a lei e disse con il tono più dolce possibile:
-
-“Voi, che conoscete così bene i miei sentimenti verso il signor Darcy, comprenderete facilmente quanto io sia sinceramente felice che sia abbastanza saggio da assumere anche solo l’**aspetto** di ciò che è giusto. La sua [[concepts/pride|orgoglio]] in questo senso potrebbe essere utile, se non a lui stesso, ad molte altre persone, poiché lo impedirà di commettere comportamenti così vergognosi come quelli da cui ho sofferto io. Temo soltanto che la cautela di cui, immagino, stavate parlando sia adottata soltanto durante le sue visite a sua zia, della cui buona opinione e giudizio egli tiene molto conto. So per certo che il suo timore per lei ha sempre avuto un grande effetto quando erano insieme; inoltre, si può attribuire in gran parte al suo desiderio di favorire il matrimonio con la signorina de Bourgh, che sicuramente è molto importante per lui.”
-
-Elizabeth non riuscì a trattenere un sorriso, ma rispose soltanto con un leggero cenno del capo. Capì che lui voleva riprendere l’argomento delle sue lamentele, e lei non era affatto di umore ad accontentarlo. Il resto della serata trascorse con la solita allegria da parte sua, ma senza ulteriori tentativi di rivolgere attenzione a Elizabeth; alla fine si separarono con cortesia reciproca, e forse con il desiderio comune di non rivedersi mai più.
-
-Quando la festa finì, Lydia tornò con la signora Forster a Meryton, da dove avrebbero partito la mattina seguente. La separazione tra lei e la sua famiglia fu piuttosto rumorosa che commovente. Solo Kitty versò [[motifs/tears|lacrime]]; ma piangeva per irritazione e invidia. La signora Bennet esprimeva i suoi migliori auguri per la felicità della figlia, e insisteva affinché non perdesse l’occasione di divertirsi al massimo. Un consiglio che, a tutti gli effetti, sembrava destinato ad essere ascoltato. E, nel clamore gioioso di Lydia mentre si congedava, i più delicati addii delle sue sorelle rimasero inascoltati.
-
-
-
-Illustrazione:
-
-L'arrivo dei Giardinieri
 
 
 
@@ -12644,54 +9516,6 @@ To Pemberley, therefore, they were to go.
 ]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XLII.
-
-Illustrazione
-
-Se l’opinione di Elizabeth fosse stata basata esclusivamente sulla sua stessa famiglia, non avrebbe potuto formarsi un’immagine molto positiva della felicità coniugale o del comfort domestico. Suo padre, affascinato dalla giovinezza e dalla [[concepts/beauty|bellezza]], nonché da quell’aspetto di buon umorismo che la gioventù e la bellezza generalmente conferiscono, aveva sposato una donna la cui scarsa intelligenza e mentalità limitata avevano già fin dall’inizio del loro [[motifs/marriage|matrimonio]] posto fine a ogni vero affetto per lei. Rispetto, stima e fiducia erano svaniti per sempre; e tutte le sue concezioni di felicità domestica venivano così sovvertite. Ma il signor Bennet non era il tipo da cercare consolazione nella delusione causata dalla propria imprudenza, attraverso quei piaceri che troppo spesso aiutano gli sfortunati a sopportare la loro follia o il loro vizio. Amava la campagna e i libri; ed era proprio da questi interessi che derivavano le sue principali gioie. Verso sua moglie non provava quasi alcun sentimento positivo, se non quello derivante dal fatto che la sua ignoranza e stupidità contribuivano al suo divertimento. Non è certo questo il tipo di felicità che un uomo desidererebbe generalmente avere con sua moglie; ma quando altre fonti di piacere mancano, il vero filosofo riesce comunque a trarre beneficio da quelle che ci sono.
-
-Tuttavia, Elizabeth non aveva mai ignorato l’inappropriatità del comportamento di suo padre come marito. Lo aveva sempre visto con [[motifs/pain|dolore]]; ma rispettando le sue capacità e grata per il trattamento affettuoso che riceveva da lui, si sforzava di dimenticare ciò che non poteva ignorare, e di scacciare dai suoi pensieri quella continua violazione degli obblighi coniugali e del decoro che, esponendo sua moglie al disprezzo dei propri figli, era così gravemente riprovevole. Ma mai come ora aveva percepito con tanta chiarezza gli svantaggi che derivavano dai figli di un matrimonio così inadeguato, né mai si era resa pienamente conto dei mali che nascevano da una direzione sbagliata nell’uso dei talenti di suo padre: talenti che, se utilizzati correttamente, avrebbero almeno potuto preservare la rispettabilità delle sue figlie, anche se non erano in grado di arricchire la loro cultura.
-
-Quando Elizabeth si era rallegrata della partenza di Wickham, non trovava altre ragioni di soddisfazione nella scomparsa di quel reggimento. Le loro attività all’estero erano meno varieate di prima; e a [[motifs/home|casa]], aveva una madre e una sorella il cui costante rammarico per la monotonia di tutto ciò che le circondava gettava un’atmosfera cupa sul loro ambiente domestico. Sebbene Kitty potesse, col tempo, riprendere il suo normale senso della realtà, ora che i fattori che disturbavano la sua mente erano scomparsi, l’altra sorella, la cui natura poteva portare a conseguenze ancora più gravi, era probabile che continuasse ad alimentare la propria follia e presunzione in un ambiente così pericoloso come quello di una località balneare e di un accampamento militare. In definitiva, si rese conto che, come già accaduto in passato, un evento che aveva atteso con impazienza non le portò la soddisfazione che si era promessa. Pertanto, divenne necessario fissare un altro momento per l’inizio della vera felicità; trovare un altro obiettivo su cui concentrare i propri desideri e le proprie speranze, godere nuovamente del piacere dell’attesa, consolarsi nel presente e prepararsi a un’altra delusione. Il suo viaggio ai Laghi divenne ora l’oggetto dei suoi pensieri più felici: rappresentava la sua migliore consolazione per tutte le ore sgradevoli causate dall’insoddisfazione di sua madre e di Kitty; e se solo avesse potuto includere anche Jane in quel progetto, ogni cosa sarebbe stata perfetta.
-
-“Ma è fortunato,” pensò, “che abbia qualcosa per cui desiderare. Se tutto fosse già pronto, la mia delusione sarebbe certa. Ma così, portando con me questa fonte continua di rimpianto nella assenza di mia sorella, posso ragionevolmente [[concepts/hope|sperare]] che tutte le mie aspettative di felicità si avverino. Un piano in cui ogni dettaglio promette piacere non può mai avere successo; e la delusione generale viene solo evitata grazie a questa piccola, particolare fonte di infelicità.”
-
-Quando Lydia se ne andò, promise di scrivere molto spesso e in modo dettagliato a sua madre e a Kitty; ma le sue lettere arrivavano sempre con grande ritardo e erano sempre molto brevi. Quelle indirizzate a sua madre contenevano quasi solo informazioni sul fatto che venivano appena restituite dalla biblioteca, dove alcuni funzionari si erano occupati della loro consegna, e dove aveva visto ornamenti così belli da lasciarla letteralmente incantata; raccontava anche di aver ricevuto un nuovo abito o un nuovo ombrello, che avrebbe voluto descrivere più in dettaglio, ma era costretta a interrompersi a causa dell’urgenza: la signora Forster l’aveva chiamata e stavano per andare al campo. Quanto alla sua corrispondenza con sua sorella, non si poteva imparare molto di più; le lettere indirizzate a Kitty, sebbene un po’ più lunghe, erano piene di righe sottolineate che rendevano impossibile pubblicarle integralmente.
-
-Dopo le prime due o tre settimane della sua assenza, la salute, il buon umore e la gioia iniziarono a tornare a Longbourn. Tutto assumeva un aspetto più felice. Le famiglie che erano rimaste in città durante l’[[motifs/winter|inverno]] tornarono, e le festività estive e gli impegni sociali ripresero. La signora Bennet ritrovò la sua solita serenità, un po’ petulante; entro metà giugno, Kitty si era completamente ripresa al punto da poter entrare a Meryton senza versare lacrime. Un evento così promettente fece sì che Elizabeth sperasse che, per il Natale seguente, sarebbe diventata abbastanza ragionevole da non menzionare più gli ufficiali più di una volta al giorno, a meno che, per qualche crudele e malizioso accordo dell’Ufficio della Guerra, un altro reggimento non venisse acquartierato a Meryton.
-
-Il momento fissato per l’inizio del loro viaggio nel nord si avvicinava rapidamente; mancavano soltanto quindici giorni quando arrivò una lettera dalla signora Gardiner che ritardò immediatamente la partenza e ridusse l’entità del viaggio. Il signor Gardiner, a causa degli affari, non sarebbe potuto partire prima di quindici giorni a luglio e doveva tornare a [[settings/london|Londra]] entro un mese; poiché questo lasciava troppo poco tempo per visitare tutti i luoghi che avevano previsto, o almeno per farlo con il tempo e il comfort di cui avevano bisogno, dovettero rinunciare ai laghi del nord e optare per un itinerario più breve. Secondo il nuovo piano, non avrebbero viaggiato a nord oltre il Derbyshire. In quella contea c’era abbastanza da vedere per occupare interamente le tre settimane previste; inoltre, quel luogo aveva un fascino particolare per la signora Gardiner: la città dove aveva trascorso alcuni anni della sua vita e dove ora avrebbero passato qualche giorno rappresentava probabilmente per lei un oggetto di curiosità altrettanto grande quanto le famose bellezze di Matlock, Chatsworth, Dovedale o il Peak.
-
-Elizabeth era estremamente delusa: aveva desiderato ardentemente visitare i laghi; e pensava ancora che ci fosse stato abbastanza [[motifs/time|tempo]] per farlo. Ma spettava a lei essere soddisfatta, e certamente doveva cercare di essere felice; e tutto si sistemò presto.
-
-Alla menzione del Derbyshire, le vennero in mente molte cose. Era impossibile che vedesse quella parola senza pensare a Pemberley e al suo proprietario. “Ma sicuramente,” disse, “posso entrare nella sua contea indisturbata e portarmene via qualche oggetto senza che se ne accorga.”
-
-Il periodo di attesa era ora raddoppiato: sarebbero trascorse quattro settimane prima dell’arrivo di suo zio e sua zia. Ma loro arrivarono davvero, e il signor e la signora Gardiner, con i loro quattro figli, comparvero finalmente a Longbourn. I bambini – due ragazze di sei e otto anni, e due ragazzi più piccoli – sarebbero stati affidati alle cure particolari della loro cugina Jane, che era la preferita di tutti; il suo buon senso e il suo carattere gentile la rendevano perfetta per prendersi cura di loro in ogni modo: insegnarli, giocare con loro e amarli.
-
-I Gardiner rimasero solo una [[motifs/night|notte]] a Longbourn e partirono il giorno seguente insieme a Elizabeth alla ricerca di novità e divertimenti. C'era una cosa certa che avrebbero goduto: la compatibilità come compagni; una compatibilità che includeva salute e temperamento sufficienti per affrontare eventuali inconvenienti, allegria in grado di arricchire ogni momento piacevole, e affetto e intelligenza che potessero sostenerli l'uno con l'altro in caso di delusioni all'esterno.
-
-L’obiettivo di quest’opera non è quello di descrivere il Derbyshire, né alcuno dei luoghi notevoli attraverso i quali passava la loro strada verso quella regione – [[settings/oxford|Oxford]], Blenheim, Warwick, Kenilworth, Birmingham, ecc. sono già sufficientemente conosciuti. L’attenzione è concentrata soltanto su una piccola parte del Derbyshire. Dopo aver visto tutti i principali luoghi di interesse della zona, si diressero verso la piccola città di Lambton, dove un tempo risiedeva la signora Gardiner e dove aveva appena scoperto che alcune persone conosciute vi abitavano ancora. A meno di cinque miglia da Lambton, Elizabeth venne a sapere dalla zia che Pemberley si trovava in quella zona. Non era sulla loro strada diretta; distava al massimo un miglio o due. La sera precedente, parlando del loro itinerario, la signora Gardiner aveva espresso il desiderio di rivedere quel luogo. Il signor Gardiner si dichiarò disposto ad accontentarla, e chiesero anche l’approvazione di Elizabeth.
-
-“Mio caro, non vorresti visitare un posto di cui hai sentito parlare così tanto? Un luogo che è anche legato a molte delle tue conoscenti. Sai, Wickham ha trascorso lì tutta la sua giovinezza.”
-
-Elizabeth era angosciata. Sentiva di non avere alcun diritto di trovarsi a Pemberley, e fu costretta ad fingere di non gradire quella dimora. Doveva ammettere che le grandi case le avevano stancato: dopo averne visitate così tante, non provava più alcun piacere nei bei tappeti o nelle tende di seta.
-
-La signora Gardiner sfruttava stupidamente la propria ignoranza. “Se si trattasse semplicemente di una bella casa arredata con lusso,” disse, “non mi interesserebbe affatto; ma i terreni circostanti sono davvero incantevoli. Contengono alcune delle foreste più belle della regione.”
-
-Elizabeth non disse più nulla; ma nella sua mente quella possibilità continuava a tormentarla. L’idea di incontrare il signor Darcy mentre visitava quel luogo le venne subito in mente. Sarebbe stato terribile! Arrossì al solo pensiero e decise che fosse meglio parlare apertamente con sua zia, piuttosto che correre un simile rischio. Tuttavia, ci furono delle obiezioni. Alla fine, decise che quella sarebbe stata l’ultima risorsa, se le sue domande private riguardo all’assenza della famiglia ricevevano risposte negative.
-
-Pertanto, quando si ritirò di [[motifs/night|notte]], chiese alla cameriera se Pemberley non fosse un posto davvero meraviglioso, qual fosse il nome del suo proprietario e, con non poco allarme, se la famiglia si trovasse lì per l’[[motifs/summer|estate]]. Alla sua ultima domanda seguì una risposta negativa, molto gradita; e ora che i suoi timori erano svaniti, poté finalmente provare grande curiosità di vedere con i propri occhi quella casa. La mattina seguente, quando l’argomento fu ripreso, rispose senza esitazione, con un tono apparentemente indifferente, che in realtà non aveva alcun disprezzo per quell’idea.
-
-Quindi, dovevano andare a Pemberley.
-
-
-
-Illustrazione:
-
-“Indovinare la data”
-
 
 
 <span class="atom-split" data-atom="chapter_43--part_01" data-title="Pride and Prejudice — Chapter 43 (part 1)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/hill,motif/journey,motif/nature,motif/river,motif/road,motif/time,motif/well,motif/window,concept/beauty,concept/courage,concept/nature,concept/pride,concept/wonder"></span>
@@ -12817,58 +9641,6 @@ communicativeness by his questions and remarks: Mrs. Reynolds, either
 from [[concepts/pride|pride]] or attachment, had evidently great pleasure in talking of her
 master and his sister.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XLIII.
-
-Illustrazione
-
-Mentre viaggiavano, Elizabeth cercava con ansia il primo segno della comparsa dei Boschi di Pemberley; e quando finalmente arrivarono alla capanna, il suo cuore batteva all’impazzata.
-
-Il parco era molto grande e presentava una grande varietà di terreni. Vi entrarono da uno dei punti più bassi e percorsero, per un certo [[motifs/time|tempo]], un bellissimo bosco che si estendeva su una vasta area.
-
-La mente di Elizabeth era troppo occupata per poter conversare, ma osservò e ammirò ogni luogo straordinario e ogni punto di vista interessante. Salirono gradualmente per mezzo miglio, fino a raggiungere la cima di un’altura considerevole; lì la foresta terminava e lo sguardo fu immediatamente attratto dalla casa di Pemberley, situata sul lato opposto della valle, nella quale la [[motifs/road|strada]] si snodava in modo piuttosto brusco. Era un edificio grande e imponente, costruito in pietra, eretto su terreno in salita e circondato da colline boschive; davanti ad esso un ruscello di notevole importanza naturale si allargava, ma senza alcun elemento decorativo artificiale. Le sue rive non erano né formali né falsamente abbellite. Elizabeth ne fu entusiasta: non aveva mai visto un luogo in cui la [[concepts/nature|natura]] avesse compiuto tanto, o in cui la bellezza naturale fosse stata così poco compromessa da gusti artificiali. Tutti erano profondamente ammirati; in quel momento, Elizabeth pensò che essere la padrona di Pemberley potesse davvero significare qualcosa di importante!
-
-Scesero la [[motifs/hill|collina]], attraversarono il ponte e si diressero verso l’ingresso della casa; mentre esaminavano l’esterno dell’edificio, tutte le loro preoccupazioni riguardo all’incontro con il proprietario tornarono a galla. Temevano che la cameriera potesse essersi sbagliata. Dopo aver chiesto di essere introdotti, furono ammessi nell’atrio; mentre aspettavano la governante, Elizabeth ebbe il tempo di [[concepts/wonder|meravigliarsi]] del fatto che si trovasse proprio lì.
-
-La cameriera arrivò: una donna anziana dall’aspetto rispettabile, molto meno elegante di quanto Elizabeth si aspettasse, ma certamente più gentile. La seguirono nel salone da pranzo. Era una stanza ampia e ben proporzionata, arredata con gusto. Dopo averla osservata per un momento, Elizabeth andò alla finestra per ammirare il panorama. La collina, ricoperta di alberi, appariva ancora più maestosa da lontano; ogni dettaglio del paesaggio le piaceva: il fiume, gli alberi disseminati lungo le sue rive e il corso sinuoso della valle. Mentre entravano nelle altre stanze, quegli stessi elementi del paesaggio assumevano prospettive diverse; ma da ogni finestra si potevano ammirare bellezze varie. Le stanze erano alte e imponenti, e i loro arredi in linea con le possibilità economiche del proprietario; tuttavia Elizabeth notò, con ammirazione per il suo gusto, che non erano né troppo vistosi né eccessivamente raffinati: avevano meno sfarzo, ma una grazia più autentica rispetto agli arredi di Rosings.
-
-“E di questo posto,” pensò, “avrei potuto essere la padrona! Con queste stanze avrei potuto familiarizzarmi con esse da tempo. Invece di considerarle estranee, avrei potuto gioirne come mie, e accogliere mio zio e mia zia come ospiti. Ma no,” si ricordò, “ciò non sarebbe mai stato possibile; mio zio e mia zia sarebbero stati per me degli estranei. Non mi sarebbe stato permesso invitarli.”
-
-Questo era un ricordo fortunato: le salvò dal rischio di provare rimpianti.
-
-Desiderava ardentemente chiedere alla cameriera se suo padrone fosse davvero assente, ma non ne aveva il [[concepts/courage|coraggio]]. Alla fine, però, fu suo zio ad porre la domanda; lei si allontanò in preda all’ansia, mentre la signora Reynolds rispose che sì, era assente, aggiungendo: “Ma lo aspettiamo domani, insieme a un gran numero di amici.” Quanto fu felice Elizabeth nel constatare che il loro stesso [[motifs/journey|viaggio]] non fosse stato ritardato nemmeno di un giorno!
-
-Sua zia la chiamò per farle vedere un ritratto. Si avvicinò e vide, appeso sopra il caminetto insieme ad altre miniature, il volto di Mr. Wickham. Sua zia le chiese, sorridendo, cosa ne pensasse. La cameriera si avvicinò e spiegò che si trattava del ritratto di un giovane gentiluomo, figlio dello steward defunto del suo padrone, che quest’ultimo aveva cresciuto a sue spese. “Ora è andato nell’esercito,” aggiunse; “ma temo che sia diventato molto selvaggio.”
-
-La signora Gardiner guardò sua nipote con un sorriso, ma Elizabeth non riuscì a ricambiarlo.
-
-“E questa,” disse la signora Reynolds, indicando un'altra delle miniature, “è mio marito, e gli assomiglia molto. È stata dipinta nello stesso [[motifs/time|periodo]] dell’altra, circa otto anni fa.”
-
-“Ho sentito molto parlare della bella figura di vostro marito,” disse la signora Gardiner, guardando il ritratto; “è davvero un viso attraente. Ma, Lizzy, potete dirci se assomiglia o meno a lui.”
-
-Il rispetto di Mrs. Reynolds per Elizabeth sembrava aumentare dopo questa indicazione che lei conoscesse bene il proprio padrone.
-
-“Quella giovane signora conosce il signor Darcy?”
-
-“Un po’”, disse Elizabeth arrossendo.
-
-“E non le sembra un gentiluomo davvero molto attraente, signora?”
-
-“Sì, davvero molto attraente.”
-
-“Sono sicura di non conoscere nessuno più bello di lui; ma al piano di sopra, nella galleria, vedrete un suo ritratto ancora più bello e più grande di questo. Questa stanza era la preferita del mio defunto padrone, e queste miniature sono esattamente come erano allora. Lui le amava molto.”
-
-Questo spiegava perché il signor Wickham si trovasse tra di loro.
-
-La signora Reynolds attirò poi la loro attenzione su uno dei ritratti di Miss Darcy, realizzato quando lei aveva solo otto anni.
-
-“E la signorina Darcy è altrettanto bella quanto suo fratello?” chiese il signor Gardiner.
-
-“Oh, sì, la più bella giovane donna che si sia mai vista; e inoltre così dotata! Suona e canta tutto il giorno. Nella stanza accanto c’è un nuovo strumento appena arrivato per lei, un regalo del mio padrone: verrà qui domani con lui.”
-
-Il signor Gardiner, il cui comportamento era disinvolto e piacevole, incoraggiava la sua loquacità con le sue domande e i suoi commenti; la signora Reynolds, sia per [[concepts/pride|orgoglio]] che per affetto, evidentemente provava grande piacere a parlare del suo padrone e di sua sorella.
 
 
 
@@ -13004,64 +9776,6 @@ and spoke to Elizabeth, if not in terms of perfect composure, at least
 of perfect civility.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Il vostro padrone si trova spesso a Pemberley durante l’anno?”
-
-“Non più di quanto desiderassi, signore. Ma credo che possa trascorrere metà del suo [[motifs/time|tempo]] qui; inoltre, la signorina Darcy sarà sempre disponibile durante i mesi estivi.”
-
-“Tranne quando va a Ramsgate”, pensò Elizabeth.
-
-“Se il tuo padrone si sposasse, forse lo vedresti di più.”
-
-“Sì, signore; ma non so quando accadrà. Non so chi sia abbastanza buono per lui.”
-
-Il signor e la signora Gardiner sorrisero. Elizabeth non poté fare a meno di dire: “Sono sicura che sia davvero un grande merito suo il fatto che voi pensiate così.”
-
-“Non dico altro che la [[concepts/truth|verità]], e tutti coloro che lo conoscono diranno lo stesso,” rispose l’altra. Elizabeth pensò che le cose stessero prendendo una piega piuttosto inaspettata; ascoltava sempre più stupita mentre la cameriera aggiungeva: “Non mi ha mai detto una parola cattiva in tutta la mia vita, e lo conosco da quando aveva quattro anni.”
-
-Questo era un elogio di tutto ciò che era più straordinario, più opposto alle sue idee. Il fatto che non fosse un uomo dal carattere mite era stata la sua opinione più ferma. La sua attenzione fu immediatamente destata: desiderava sapere di più; e fu grata a suo zio per aver detto.
-
-“Ci sono pochissime persone di cui si possano dire tante cose. Sei fortunato ad avere un maestro del genere.”
-
-“Sì, signore, lo so bene. Se dovessi viaggiare per il mondo intero, non incontrerei mai nessuno migliore di lui. Ma ho sempre notato che coloro che sono di buon carattere da bambini, lo rimangono anche da adulti; e lui era davvero il ragazzo dal temperamento più dolce e dal cuore più generoso del mondo.”
-
-Elizabeth quasi la fissò. “Può davvero essere il signor Darcy?”, pensò.
-
-“Suo padre era un uomo eccellente,” disse la signora Gardiner.
-
-“Sì, signora, era proprio così; e suo figlio sarà esattamente come lui, altrettanto gentile con i poveri.”
-
-Elizabeth ascoltava, si chiedeva, dubitava e non vedeva l’ora di sapere di più. La signora Reynolds non riusciva a interessarla su altri argomenti; raccontava invano dei soggetti delle opere d’arte, delle dimensioni delle stanze e del prezzo degli arredi. Il signor Gardiner, divertito da quel tipo di pregiudizio familiare che attribuiva alle sue eccessive lodi nei confronti del suo padrone, riportò presto il discorso su quell’argomento; lei continuò con entusiasmo a elencare i numerosi meriti di lui mentre salivano insieme la grande scalinata.
-
-“È il miglior proprietario terriero e il miglior padrone che sia mai esistito,” disse lei. “Non come quei giovani selvaggi di questi tempi, che pensano solo a se stessi. Nessuno dei suoi inquilini o dei suoi servitori non gli dia una buona reputazione. Alcuni lo definiscono orgoglioso; ma sono sicura di non aver mai notato nulla del genere in lui. A mio parere, è semplicemente perché non si vanta come fanno altri giovani.”
-
-“In che modo così affabile questo luogo lo presenta!” pensò Elizabeth.
-
-“Questo bel resoconto su di lui,” sussurrò sua zia mentre camminavano, “non è del tutto in linea con il suo comportamento verso la nostra povera amica.”
-
-“Forse potremmo essere ingannati.”
-
-“Non è molto probabile… La nostra autorità era troppo forte.”
-
-Arrivati nel vasto atrio al piano di sopra, furono fatti entrare in un salotto molto grazioso, appena arredato con maggiore eleganza e luminosità rispetto agli appartamenti sottostanti; e venne loro detto che tutto era stato fatto apposta per compiacere la signorina Darcy, che le era piaciuto molto quel locale quando era stata l’ultima volta a Pemberley.
-
-“È sicuramente un buon fratello,” disse Elizabeth, mentre si dirigeva verso una delle finestre.
-
-La signora Reynolds si aspettava che la signorina Darcy fosse molto felice quando sarebbe entrata nella stanza. “E è sempre così con lui,” aggiunse. “Qualsiasi cosa possa rendere sua sorella felice, viene fatta immediatamente. Non c’è nulla che non farebbe per lei.”
-
-La galleria d’arte e due o tre delle camere da letto principali erano le uniche cose rimaste da mostrare. Nella galleria c'erano molte bellissime opere d’arte; ma Elizabeth non conosceva nulla di arte; e, rispetto a quelle già visibili al piano di sotto, aveva preferito guardare alcuni disegni della signorina Darcy fatti a matita, i cui soggetti erano solitamente più interessanti e anche più comprensibili.
-
-Nella galleria c'erano molti ritratti di famiglia, ma pochi avrebbero potuto attirare l'attenzione di uno sconosciuto. Elizabeth continuò a camminare nella speranza di trovare quel solo volto le cui caratteristiche le fossero familiari. Finalmente lo trovò: c'era una somiglianza straordinaria con il signor Darcy, e sul suo viso si leggeva un sorriso proprio come quello che lei ricordava di aver visto alcune volte quando lui la guardava. Rimase davanti al ritratto per diversi minuti, assorta nella sua contemplazione, e vi tornò ancora prima di lasciare la galleria. La signora Reynolds li informò che il ritratto era stato scattato durante la vita del padre del signor Darcy.
-
-In quel momento, nella mente di Elizabeth, c'era sicuramente un sentimento più gentile nei confronti di quell'uomo rispetto a quanto avesse mai provato durante i primi tempi della loro conoscenza. La lode che la signora Reynolds gli aveva rivolto non era affatto banale. Quale elogio può essere più prezioso di quello di un servitore intelligente? Come fratello, come padrone di casa, come capo, lei rifletteva su quante felicità dipendessero dalla sua guida. Quanto piacere o dolore potesse infliggere con le sue decisioni. Quanto bene o male dovesse inevitabilmente causare. Ogni considerazione avanzata dalla governante era favorevole al suo carattere; e mentre fissava il ritratto che lo raffigurava, pensò alla sua considerazione per lei con un sentimento di gratitudine ancora più profondo di prima. Ricordò la sua gentilezza e mitigò l’improprietà delle sue espressioni.
-
-Dopo aver visitato tutte le parti della casa aperte al pubblico, tornarono giù per le scale; salutarono la governante e furono affidati al giardiniere, che li aspettava alla porta d’ingresso.
-
-Mentre camminavano attraverso il prato verso il [[motifs/river|fiume]], Elizabeth si girò indietro per guardare di nuovo; anche suo zio e sua zia si fermarono; mentre il primo cercava di indovinare la data di costruzione dell’edificio, il proprietario stesso apparve improvvisamente dalla [[motifs/road|strada]] che conduceva alle stalle.
-
-Erano a meno di venti metri l’uno dall’altro; e l’apparizione di lui fu così improvvisa che era impossibile non vederlo. I loro sguardi si incrociarono all’istante, e le guance di entrambi si arrossirono profondamente. Lui rimase sbalordito per un momento, come se fosse immobile per la sorpresa; ma presto riprese il controllo di sé, si avvicinò al gruppo e parlò con Elizabeth. Se non con perfetta calma, almeno con estrema cortesia.
-
 
 
 <span class="atom-split" data-atom="chapter_43--part_03" data-title="Pride and Prejudice — Chapter 43 (part 3)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/horse,motif/pain,motif/river,motif/silence,motif/time,motif/water,concept/beauty"></span>
@@ -13170,20 +9884,6 @@ recollections obtruded, and she fancied that praise of Pemberley from
 her might be mischievously construed. Her colour changed, and she said
 no more.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Si era girata via istintivamente; ma quando lui si avvicinò, ricevette i suoi complimenti con un imbarazzo difficile da superare. Se la sua prima apparizione, o il suo aspetto simile al ritratto che avevano appena esaminato, non fossero stati sufficienti a convincere le altre due donne che davanti a loro c’era davvero il signor Darcy, l’espressione di sorpresa del giardiniere nel vedere il proprio padrone avrebbe certamente chiarito tutto. Stettero un po’ in disparte mentre lui parlava con loro nipote, la quale, stupita e confusa, a malapena osava alzare lo sguardo sul suo viso e non sapeva quali risposte dare alle sue domande sulla sua famiglia. Sorpresa dal cambiamento nel suo comportamento da quando si erano separate l’ultima volta, ogni sua frase aumentava il suo imbarazzo; e ogni volta che pensava all’inappropriato della sua presenza lì, quei pochi minuti trascorsi insieme furono tra i più scomodi della sua vita. Nemmeno lui sembrava molto a suo agio; quando parlava, il suo accento non aveva la solita calma; e ripeteva continuamente le sue domande sul momento in cui era partita da Longbourn e sulla durata del suo soggiorno nel Derbyshire, con tale frequenza e in modo così affrettato, che era evidente quanto fossero distratti i suoi pensieri.
-
-Alla fine, sembrò che tutte le sue idee lo abbandonassero; dopo essere rimasto fermo per alcuni momenti senza dire una parola, si riprese improvvisamente e se ne andò.
-
-Gli altri le si unirono e espressero la loro ammirazione per il suo aspetto; ma Elizabeth non udì una parola e, completamente assorbita dai propri sentimenti, li seguì in [[motifs/silence|silenzio]]. Era sopraffatta dalla vergogna e dall’angoscia. Il suo arrivo lì era stata la cosa più sfortunata, la più sbagliata che potesse accadere! Quanto strano doveva sembrargli tutto ciò. In quale luce disonorevole non poteva apparire a un uomo così vanitoso? Poteva persino sembrare che lei avesse deliberatamente cercato di mettersi nuovamente sulla sua strada. Oh, perché era venuta? O, perché lui era arrivato proprio quel giorno, prima del previsto? Se fossero arrivati soltanto dieci minuti prima, sarebbero stati al di fuori della sua portata. Era evidente che fosse appena arrivato, che in quel momento fosse sceso dal suo [[motifs/horse|cavallo]] o dalla sua carrozza. Arrossiva ancora e ancora per la stranezza di quell’incontro. E il suo comportamento, così radicalmente cambiato. Cosa poteva significare? Il fatto stesso che le parlasse era sorprendente. Ma farlo con tanta cortesia, chiederle notizie della sua famiglia! Nella sua vita non lo aveva mai visto comportarsi in modo così poco dignitoso, né parlare con tale gentilezza in un incontro così inaspettato. Che contrasto rispetto al suo ultimo discorso a Rosings Park, quando le aveva consegnato la lettera. Non sapeva cosa pensare, né come spiegarlo.
-
-Ora avevano iniziato una bellissima passeggiata lungo il bordo dell’[[motifs/water|acqua]], e ogni passo li portava verso un terreno più dolce o verso zone del bosco più incantevoli; tuttavia ci volle un po’ di [[motifs/time|tempo]] prima che Elizabeth si rendesse conto di tutto questo. Anche se rispondeva meccanicamente alle continue sollecitazioni di zio e zia, e sembrava guardare verso gli oggetti che loro le indicavano, in realtà non riconosceva nulla di ciò che la circondava. I suoi pensieri erano tutti fissi su quel luogo della casa di Pemberley, qualunque esso fosse, dove in quel momento si trovava il signor Darcy. Desiderava ardentemente sapere cosa gli passasse per la mente in quel momento, come pensasse a lei, e se, nonostante tutto, lei fosse ancora importante per lui. Forse si era comportato gentilmente soltanto perché si sentiva a suo agio. Ma c’era qualcosa nella sua voce che non sembrava indicare affatto tranquillità. Non riusciva a capire se provasse più [[motifs/pain|dolore]] o piacere nel vederla, ma di certo non la stava guardando con calma.
-
-Alla fine, tuttavia, i commenti dei suoi compagni riguardo alla sua distrazione la risvegliarono, e si rese conto della necessità di comportarsi in modo più naturale, come faceva di solito.
-
-Entrarono nella foresta e, dopo essersi congedati per un po’ dal [[motifs/river|fiume]], salirono su alcune delle zone più elevate; da lì, in quei punti dove lo spazio tra gli alberi permetteva di godere di una vista ampia, scorsero molteplici e incantevoli paesaggi: la valle, le colline opposte, la vasta distesa di boschi che si estendeva su gran parte del territorio, e occasionalmente anche una parte del corso d’acqua. Il signor Gardiner esprime il desiderio di visitare l’intero parco, ma teme che possa essere troppo lontano per poterlo percorrere a piedi. Con un sorriso trionfante, gli viene detto che la distanza totale è di dieci miglia. Questo risolve il problema e decidono di seguire il percorso abituale; dopo alcuni minuti, giungono nuovamente in una zona dove i boschi si innalzano sulle rive del [[motifs/water|fiume]], in uno dei suoi tratti più stretti. Lo attraversano con un semplice ponte, in armonia con l’atmosfera generale del luogo; si tratta di una zona meno decorata rispetto a quelle che hanno visitato fino ad allora; la valle, qui ristretta in una gola, lascia spazio soltanto al fiume e a un sentiero stretto tra i cespugli rigogliosi che lo costeggiano. Elizabeth desidera esplorare i suoi meandri, ma quando attraversano il ponte e si rendono conto della distanza dalla casa, la signora Gardiner, che non è molto abile a camminare, non può proseguire oltre e pensa solo a tornare al carro il prima possibile. Pertanto, sua nipote è costretta ad arrendersi e decidono di dirigersi verso la casa situata sul lato opposto del [[motifs/river|fiume]], nella direzione più vicina; tuttavia, il loro progresso è lento, perché il signor Gardiner, sebbene raramente abbia modo di indulgere in questo hobby, ama molto pescare e passa molto tempo osservando le occasionali apparizioni di qualche trota nel [[motifs/water|fiume]] e conversando con l’uomo che si occupa della pesca. Mentre proseguono in questo modo lento, vengono nuovamente sorpresi, e lo stupore di Elizabeth è proprio pari a quello provato la prima volta, quando vedono il signor Darcy avvicinarsi a loro, non troppo lontano. Poiché il sentiero qui è meno riparato rispetto all’altro lato, riescono a vederlo prima di incontrarlo. Nonostante lo stupore, Elizabeth è almeno più preparata ad affrontare questa situazione rispetto alla prima volta, e decide di comportarsi con calma, nel caso in cui lui abbia davvero intenzione di parlarle. Per un momento, infatti, pensa che probabilmente prenderà un altro sentiero. Questa idea dura finché una svolta del percorso lo nasconde dalla loro vista; appena la svolta è superata, lui si trova immediatamente davanti a loro. Con uno sguardo, lei nota che non ha perso affatto il suo solito comportamento cortese. E, per imitarlo, inizia subito a lodare la [[concepts/beauty|bellezza]] del luogo; ma non riesce nemmeno a dire “delizioso” o “incantevole”, quando alcuni ricordi sfortunati le vengono in mente. Teme che il suo complimento su Pemberley possa essere interpretato in modo sbagliato. Il suo viso cambia colore e non dice più nulla.
 
 
 
@@ -13294,34 +9994,6 @@ say with the housekeeper, that though some people may call him proud,
 _I_ have seen nothing of it.”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La signora Gardiner stava in piedi un po’ indietro; quando si fermò, lui le chiese se gli avrebbe fatto l’onore di presentarlo ai suoi amici. Questo gesto di cortesia la colse completamente di sorpresa; faticò a trattenere un sorriso al pensiero che ora cercasse di entrare in contatto proprio con quelle persone contro cui il suo [[concepts/pride|orgoglio]] si era ribellato quando le aveva fatto quella proposta. “Che sorpresa avrà,” pensò, “quando scoprirà chi sono! Ora li considera persone di moda, ”
-
-L’introduzione, tuttavia, ebbe luogo immediatamente; e mentre menzionava il loro rapporto con lei, gli lanciò uno sguardo furtivo per vedere come lo avrebbe accolto. E non era affatto sorpresa se lui avesse cercato di allontanarsi il prima possibile da compagnie così disonorevoli. Era evidente che fosse rimasto _sorpreso_ da quella connessione; tuttavia la sopportò con coraggio, e anzi tornò insieme a loro, entrando in conversazione con il signor Gardiner. Elizabeth non poteva fare a meno di essere felice. Era consolante che lui sapesse che lei aveva delle relazioni per le quali non c’era motivo di arrossire. Ascoltava con grande attenzione tutto ciò che avveniva tra loro, e si compiaceva in ogni espressione, in ogni frase del suo zio che evidenziava la sua intelligenza, il suo gusto o i suoi buoni modi.
-
-La conversazione presto si concentrò sulla pesca; e lei sentì il signor Darcy invitarlo, con grande cortesia, ad andare a pescare lì ogni volta che desiderasse, mentre continuava a risiedere nelle vicinanze. Offriva inoltre di fornirgli attrezzatura da pesca e gli indicava le parti del fiume dove di solito si trovavano i migliori posti per pescare. La signora Gardiner, che camminava a braccio con Elizabeth, le lanciò uno sguardo pieno di [[concepts/wonder|meraviglia]]. Elizabeth non disse nulla, ma ne fu estremamente compiaciuta; quel complimento doveva riferirsi soltanto a lei. Tuttavia la sua sorpresa era enorme; continuava a ripetere: “Perché è cambiato così tanto? Da cosa può derivare tutto questo? Non può essere per _me_, non può essere per il mio bene che i suoi modi siano diventati così più gentili. Le mie rimproveri a Hunsford non avrebbero potuto causare un simile cambiamento. È impossibile che lui mi ami ancora.”
-
-Dopo aver camminato in questo modo per un po’, le due signore davanti e i due gentiluomini dietro, riprendendo i loro posti e scendendo sulle rive del [[motifs/river|fiume]] per osservare meglio alcune curiose piante acquatiche, si verificò un piccolo cambiamento nella formazione del gruppo. Il tutto ebbe inizio con la signora Gardiner: stanca per l’attività della mattina, trovò che il braccio di Elizabeth non era sufficiente a sostenerla, quindi preferì appoggiarsi a quello di suo marito. Il signor Darcy prese il posto di lei accanto alla nipote e continuarono a camminare insieme. Dopo un breve [[motifs/silence|silenzio]], fu la signora ad aprire bocca per prima. Gli spiegò che era stata informata della sua assenza prima di recarsi lì, e quindi osservò che il suo arrivo era stato davvero inaspettato: “Perché la vostra domestica ci aveva detto che sicuramente non sareste arrivato fino a domani; anzi, prima di lasciare Bakewell, eravamo convinte che non sareste tornato nel paese così presto.” Lui confermò la veridicità di quanto le era stato detto e spiegò che degli affari legati al suo maggiordomo gli avevano fatto anticipare il viaggio di alcune ore rispetto al resto del gruppo con cui stava viaggiando. “Si uniranno a me domani mattina,” continuò, “e tra loro ci sono persone che vorranno presentarvi: il signor Bingley e le sue sorelle.”
-
-Elizabeth rispose soltanto con un leggero inchino. I suoi pensieri tornarono immediatamente a quella [[motifs/time|volta]] in cui il nome di Mr. Bingley era stato menzionato l’ultima volta tra loro; e, a giudicare dal suo colorito, anche la sua mente era probabilmente occupata altrove.
-
-“C’è anche un’altra persona alla festa,” continuò dopo una pausa, “che desidera particolarmente essere presentata a voi. Vi permetterete, o chiedo forse troppo, che presenti mia sorella durante la vostra permanenza a Lambton?”
-
-La sorpresa di una tale proposta fu davvero grande; era così grande che lei non riusciva a capire in che modo avesse accettato. Sentì immediatamente che qualsiasi desiderio la signorina Darcy potesse avere di conoscerla, doveva essere frutto dell’influenza di suo fratello, e senza ulteriori indagini, questa spiegazione le sembrò sufficiente; era confortante sapere che il risentimento di lui non lo aveva portato a pensare davvero male di lei.
-
-Ora camminavano in [[motifs/silence|silenzio]]; ognuno immerso nei propri pensieri. Elizabeth non si sentiva a suo agio, era impossibile, ma era comunque lusingata e felice. Il desiderio di lui di presentarle sua sorella rappresentava un complimento di altissimo livello. Presto superarono gli altri; quando raggiunsero la carrozza, il signor e la signora Gardiner erano ancora a mezzo miglio di distanza.
-
-Allora le chiese di entrare in casa – ma lei dichiarò di non essere stanca, e rimasero insieme sul prato. A quell’[[motifs/time|ora]] avrebbero potuto dire molte cose, ma l’[[motifs/silence|silenzio]] risultava molto imbarazzante. Lei voleva parlare, ma sembrava che ci fosse un divieto su ogni argomento. Alla fine si ricordò di essere stata in viaggio, e così parlarono con grande insistenza di Matlock e Dovedale. Tuttavia il [[motifs/time|tempo]] passava lentamente. E la sua pazienza, insieme alle sue idee, quasi esaurirono prima che quel _tête-à-tête_ finisse.
-
-All’arrivo del signor e della signora Gardiner, tutti furono invitati ad entrare in casa per bere qualcosa; ma l’offerta fu rifiutata e ognuno se ne andò con la massima cortesia. Il signor Darcy aiutò le signore a salire nella carrozza; e quando questa si allontanò, Elizabeth lo vide camminare lentamente verso la casa.
-
-Ora iniziarono le osservazioni di suo zio e sua zia; entrambi dichiararono che fosse infinitamente superiore a quanto si aspettassero.
-
-“È estremamente beneducato, cortese e modesto,” disse suo zio.
-
-“Certo, c’è qualcosa di davvero nobile in lui,” rispose sua zia; “ma si limita al suo modo di comportarsi e non è affatto sgradevole. Ora posso dire, insieme alla governante, che anche se alcune persone potrebbero definirlo orgoglioso, _io_ non ho notato nulla del genere.”
-
 
 
 <span class="atom-split" data-atom="chapter_43--part_05" data-title="Pride and Prejudice — Chapter 43 (part 5)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="topos/quest,motif/well,concept/wonder,character/kent"></span>
@@ -13388,30 +10060,6 @@ all, of his wishing her to be acquainted with his sister.
 
 [Illustration]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-“Non sono mai stato più sorpreso dal suo comportamento verso di noi. Era molto più del semplice rispetto; era davvero attento, e in realtà non c’era alcuna necessità di tale attenzione. La sua conoscenza con Elizabeth era davvero superficiale.”
-
-“Certo, Lizzy,” disse sua zia, “non è così bello come Wickham; o meglio, non ha il viso di Wickham, perché i suoi tratti sono assolutamente gradevoli. Ma come mai ci hai detto che fosse così sgradevole?”
-
-Elizabeth si scusò nel modo migliore che le riuscì: disse che le era piaciuto di più quando lo aveva incontrato a [[characters/kent|Kent]], e che non lo aveva mai visto così affabile come quella mattina.
-
-“Ma forse è un po’ capriccioso nelle sue cortesie,” rispose suo zio. “Gli uomini importanti spesso lo sono; quindi non prenderò sul serio le sue parole riguardo alla pesca. Potrebbe cambiare idea in un altro momento e dirmi di stare lontano dalle sue zone di pesca.”
-
-Elizabeth pensava che avessero completamente frainteso il suo carattere, ma non disse nulla.
-
-“Da quanto abbiamo visto di lui,” continuò la signora Gardiner, “non avrei mai pensato che potesse comportarsi in modo così crudele, soprattutto con povero Wickham. Non ha un aspetto malvagio; anzi, quando parla, c’è qualcosa di piacevole nel suo viso. E nel suo portamento c’è una certa dignità che non dovrebbe dare un’impressione negativa del suo carattere. Ma, a dire il vero, quella gentile signora che ci ha mostrato la casa gli ha dato davvero una descrizione molto negativa. A volte non potevo fare a meno di ridere ad alta voce. Comunque, immagino che sia un padrone generoso. E questo, agli occhi di un servitore, equivale a tutte le virtù.”
-
-Qui, Elizabeth si sentì chiamata a dire qualcosa per difendere il suo comportamento verso Wickham; e quindi cercò di far loro capire, nel modo più cauto possibile, che ciò che aveva sentito riguardo alle sue relazioni in [[characters/kent|Kent]] permetteva di interpretare i suoi atti in modo molto diverso; e che il suo carattere non era affatto così difettoso, né quello di Wickham così gradevole, come si era pensato in Hertfordshire. A sostegno di queste affermazioni, raccontò nei dettagli tutte le transazioni finanziarie in cui erano stati coinvolti, senza però nominare esplicitamente la propria fonte, ma indicando che si trattava di informazioni affidabili.
-
-La signora Gardiner era sorpresa e preoccupata; ma poiché stavano ora avvicinandosi al luogo dei suoi antichi piaceri, ogni altro pensiero venne soppiantato dal fascino dei ricordi. Era troppo impegnata a indicare a suo marito tutti i punti interessanti delle vicinanze per poter pensare ad altro. Nonostante fosse stanca per la passeggiata mattutina, non appena finirono di pranzare si rimise in cammino alla ricerca dei suoi vecchi conoscenti; la serata trascorse nel piacere di ristabilire un contatto interrotto da molti anni.
-
-Gli avvenimenti di quella giornata erano così interessanti che non lasciavano a Elizabeth molto tempo da dedicare a questi nuovi amici; e lei non poteva fare altro che pensare, e pensare con [[concepts/wonder|stupore]], alla cortesia del signor Darcy, e soprattutto al fatto che desiderasse che lei conoscesse sua sorella.
-
-
-
-Illustrazione
 
 
 
@@ -13526,36 +10174,6 @@ _all_ her sisters were at Longbourn. There was not much in the question,
 nor in the preceding remark; but there was a look and a manner which
 gave them meaning.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XLIV.
-
-Illustrazione
-
-Elizabeth aveva deciso che il signor Darcy avrebbe portato sua sorella a farle visita il giorno stesso dopo l’arrivo a Pemberley; perciò era risoluta a non allontanarsi dall’ostello per tutta quella mattina. Ma la sua previsione si rivelò errata: proprio il giorno seguente al loro arrivo a Lambton, quegli ospiti arrivarono. Avevano passeggiato in giro con alcuni dei loro nuovi amici e stavano appena tornando all’ostello per vestirsi per la cena con quella stessa famiglia, quando il rumore di una carrozza attirò la loro attenzione: videro un gentiluomo e una signora in una carrozzina che si avvicinavano lungo la strada. Elizabeth riconobbe immediatamente lo stemma della carrozza e capì cosa significasse; comunicò quindi ai suoi parenti l’onore che si aspettava, suscitando in loro grande sorpresa. Suo zio e sua zia rimasero sbalorditi; l’imbarazzo nel suo comportamento, unito alle circostanze del giorno precedente, fece sì che prendessero in considerazione un’ipotesi nuova riguardo a quella situazione. Prima di allora nulla aveva suggerito una simile possibilità, ma ora pensavano che non ci fosse altra spiegazione per tali attenzioni da parte di persone del genere se non il fatto che provassero un certo affetto per loro nipote. Mentre queste nuove idee prendevano forma nella loro mente, l’agitazione di Elizabeth aumentava di momento in momento. Era davvero sorpresa dal proprio stato d’animo; tra le varie ragioni della sua inquietudine, temeva che l’affetto del fratello del signor Darcy potesse aver parlato troppo a suo favore. E, essendo più del solito desiderosa di compiacerli, naturalmente sospettava che non sarebbe riuscita a farlo.
-
-Si allontanò dalla [[motifs/window|finestra]], temendo di essere vista; e mentre camminava avanti e indietro nella stanza, cercando di calmarsi, notò negli occhi di suo zio e sua zia uno sguardo di sorpresa e curiosità che peggiorò ancora la situazione.
-
-Miss Darcy e suo fratello apparvero, e ebbe luogo questa formidabile presentazione. Con sorpresa Elizabeth vide che la sua nuova conoscente era almeno altrettanto imbarazzata quanto lei stessa. Essendo a Lambton, aveva sentito dire che Miss Darcy fosse estremamente orgogliosa; ma dopo pochi minuti ne ebbe la certezza: era semplicemente molto timida. Le risultò difficile ottenere da lei anche solo una parola, oltre a qualche monosillabo.
-
-La signorina Darcy era alta e di corporatura più robusta rispetto a Elizabeth; sebbene avesse appena sedici anni, la sua figura era già ben formata e il suo aspetto aveva un carattere femminile e aggraziato. Non era altrettanto attraente di suo fratello, ma sul suo viso si leggevano intelligenza e buon umore; inoltre, i suoi modi erano estremamente modesti e gentili. Elizabeth, che si aspettava di trovare in lei un'osservatrice altrettanto acuta e disinvolta quanto lo era stato il signor Darcy, fu molto sollevata nel constatare che i suoi sentimenti erano completamente diversi.
-
-Non erano trascorsi molti giorni dal loro incontro quando Darcy le disse che anche Bingley sarebbe venuto a farle visita; lei aveva appena il [[motifs/time|tempo]] di esprimere la sua soddisfazione e di prepararsi ad accogliere un ospite del genere, quando si sentirono i passi veloci di Bingley sulle scale, e in un attimo entrò nella stanza. Tutta l’ira che Elizabeth provava verso di lui era da tempo svanita; ma anche se ne avesse ancora avuta, difficilmente avrebbe potuto resistere alla cordialità spontanea con cui lui si comportò nel rivederla. Le fece domande in modo amichevole, anche se piuttosto generico, riguardo alla sua famiglia, e la guardò e parlò con lo stesso buon umore e naturalezza di sempre.
-
-Per il signor e la signora Gardiner, lui era quasi altrettanto interessante di quanto lo fosse per lei stessa. Da tempo desideravano conoscerlo. Tutto il gruppo davanti a loro suscitava infatti grande interesse. I sospetti appena sorti riguardo al signor Darcy e alla loro nipote li portarono ad osservare entrambi con attenzione, sebbene cauta; e presto trassero da quelle osservazioni la certezza che almeno uno di loro sapesse davvero cosa significasse [[motifs/love|amare]]. Per quanto riguardava i sentimenti della signorina, rimasero un po’ in [[concepts/doubt|dubbio]]; ma era evidente che il giovane fosse pieno di ammirazione per lei.
-
-Da parte sua, Elizabeth aveva molto da fare: voleva scoprire i sentimenti di ognuno dei suoi visitatori, voleva formarsi le proprie opinioni e cercare di essere gradita a tutti; e in questo ultimo aspetto, dove temeva di fallire di più, era anche la più sicura del successo, poiché coloro a cui cercava di dare piacere erano già predisposti a suo favore. Bingley era pronto, Georgiana desiderosa, e Darcy deciso ad essere contenti.
-
-Illustrazione:
-
-“Per essere gradita a tutti”
-
-Copyright 1894 di George Allen.
-
-Rivedendo Bingley, i suoi pensieri naturalmente volarono verso sua sorella; e oh, quanto ardentemente desiderava sapere se anche lui provasse lo stesso sentimento! A volte le sembrava che parlasse meno del solito, e una o due volte si illuse che, guardandola, stesse cercando di scorgere in lei qualche somiglianza con Jane. Ma, per quanto tutto ciò potesse essere frutto della sua immaginazione, non poteva sbagliarsi riguardo al suo comportamento verso Miss Darcy, presentata come rivale di Jane. Da parte loro non ci furono mai gesti o sguardi che potessero far pensare a un interesse particolare; nulla accadde tra loro che potesse giustificare le speranze di sua sorella. Su questo punto fu presto rassicurata; inoltre, prima della loro separazione, ebbero luogo due o tre piccoli episodi che, secondo la sua interpretazione ansiosa, indicavano un ricordo di Jane non privo di tenerezza, e il desiderio da parte di lui di dire qualcosa che potesse portare al suo nome, se solo avesse osato. In un momento in cui gli altri stavano conversando, le disse con tono sinceramente rammaricante: “È passato molto tempo da quando ho avuto il piacere di vederla. Sono più di otto mesi; non ci siamo incontrati più dal 26 novembre, quando abbiamo ballato tutti insieme a Netherfield.” Prima che lei potesse rispondere, aggiunse: “È davvero troppo tempo, ”
-
-Elizabeth fu soddisfatta di constatare che la sua [[motifs/memory|memoria]] fosse così precisa; in seguito, quando nessun altro era presente, egli approfittò dell’occasione per chiederle se tutte le sue sorelle si trovassero a Longbourn. Non c’era nulla di particolare in quella domanda, né nel commento precedente; ma c’era uno sguardo e un modo di fare che conferivano loro un significato nascosto.
 
 
 
@@ -13688,32 +10306,6 @@ some of the gentlemen at Pemberley by [[motifs/noon|noon]].
 “Engaged by the [[motifs/river|river]]”
 ]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Non era frequente che potesse posare lo sguardo su Mr. Darcy stesso; ma ogni volta che riusciva a intravederlo, notava un’espressione di sincera cortesia, e in tutto ciò che diceva percepiva un tono così lontano dall’arroganza o dal disprezzo verso i suoi interlocutori, da convincerla che il miglioramento nei suoi modi, per quanto temporaneo potesse essere, era almeno durato più di un giorno. Quando lo vedeva cercare l’amicizia delle persone con cui pochi mesi prima qualsiasi rapporto sarebbe stato considerato una vergogna; quando lo vedeva comportarsi in modo così gentile non solo con lei, ma anche con quelle stesse persone che aveva apertamente disprezzato, e ricordava la loro ultima aspra discussione a Hunsford Parsonage. La differenza, il cambiamento erano così evidenti da colpirla profondamente; faticava persino a trattenere la propria sorpresa. Mai, nemmeno in compagnia dei suoi cari amici a Netherfield o dei suoi nobili parenti a Rosings, lo aveva visto così desideroso di piacere, così privo di quella presunzione o di quella rigidezza che solitamente lo caratterizzavano. Ora, quando non c’era alcun vantaggio da trarre dal successo dei suoi sforzi, e nemmeno la conoscenza delle persone a cui rivolgeva le sue attenzioni avrebbe potuto attirare derisioni o critiche da parte delle signore di Netherfield e Rosings.
-
-I loro ospiti rimasero con loro per più di mezz’ora; e quando si alzarono per andarsene, il signor Darcy invitò sua sorella a unirsi a lui nel manifestare il desiderio di vedere il signore e la signora Gardiner, nonché la signorina Bennet, a cena a Pemberley, prima che lasciassero il paese. La signorina Darcy, sebbene con una certa timidezza – caratteristica tipica di chi non è abituato a fare inviti – acconsentì prontamente. La signora Gardiner guardò sua nipote, desiderosa di sapere come lei, la persona più interessata da quell’invito, si sentisse riguardo alla sua accettazione; ma Elizabeth aveva girato la testa da un’altra parte. Tuttavia, presumendo che quel comportamento evasivo fosse dovuto piuttosto a una momentanea imbarazzo che a un reale disprezzo per l’invito, e vedendo nel marito, che amava molto le società, la piena disponibilità ad accettarlo, osò fissare il giorno successivo per la visita.
-
-Bingley esprimeva grande gioia all’idea di rivedere Elizabeth, poiché aveva ancora molto da dirle e molte domande da porre riguardo a tutti i loro amici dell’Hertfordshire. Elizabeth, interpretando tutto ciò come un desiderio da parte sua di ascoltare parlare di sua sorella, ne fu felice; e per questo motivo, così come per altri motivi, si rese conto che, dopo la partenza degli ospiti, poteva considerare con soddisfazione l’ultima mezz’ora trascorsa insieme a loro, anche se durante quell’intervallo il piacere provato era stato scarso. Desiderosa di restare da sola e temendo domande o allusioni da parte di zio e zia, rimase con loro solo il tempo necessario per ascoltare le loro opinioni positive su Bingley, poi si affrettò a vestirsi.
-
-Ma non aveva motivo di [[concepts/fear|temere]] la curiosità del signor e della signora Gardiner; non era loro intenzione costringerla a comunicare. Era evidente che conoscesse molto meglio il signor Darcy di quanto loro avessero mai immaginato; era altresì evidente che lui fosse profondamente [[motifs/love|innamorato]] di lei. Vedevano molte cose interessanti, ma nulla che giustificasse un'indagine più approfondita.
-
-Per quanto riguardava il signor Darcy, ora era motivo di preoccupazione pensare bene di lui; e, per quanto ne sapevano loro, non c’era nulla di negativo da rilevare in lui. Non potevano rimanere insensibili alla sua cortesia; e se avessero giudicato il suo carattere basandosi soltanto sui propri sentimenti e sul resoconto del suo servitore, senza fare riferimento ad altre informazioni, il gruppo di persone in Hertfordshire che lo conoscevano probabilmente non lo avrebbe riconosciuto come il signor Darcy. Tuttavia, ora c’era un certo interesse nel dare credito alla cameriera; e presto si resero conto che l’autorità di una persona che lo conosceva fin da quando aveva quattro anni, e la cui stessa condotta indicava rispettabilità, non poteva essere scartata così facilmente. Inoltre, nulla di ciò che avevano appreso dai loro amici di Lambton avrebbe potuto ridurre in alcun modo l’importanza di quelle informazioni. Non avevano nulla di cui accusarlo se non della [[concepts/pride|orgoglio]]; un orgoglio che probabilmente possedeva, e se non lo avesse avuto, certamente gli abitanti di quella piccola città lo avrebbero attribuito comunque. Si ammetteva però che fosse una persona generosa e che facesse molto del bene tra i poveri.
-
-Per quanto riguarda Wickham, i viaggiatori scoprirono presto che non era molto apprezzato in quel luogo; poiché, sebbene le motivazioni della sua relazione con il figlio del suo protettore non fossero del tutto chiare, era comunque un fatto ben noto che, al lasciare Derbyshire, aveva lasciato dietro di sé molti debiti, che in seguito furono saldati dal signor Darcy.
-
-Per quanto riguarda Elizabeth, quella sera i suoi pensieri erano più spesso a Pemberley che in qualsiasi altro luogo; e sebbene la serata sembrasse lunga, non fu comunque abbastanza per chiarire i suoi sentimenti verso una certa persona di quella dimora. Rimase sveglia per due ore intere, cercando di comprendere cosa provasse veramente. Di certo non lo odiava. No: l’odio era scomparso da tempo; anzi, provava quasi vergogna di aver mai provato per lui un sentimento negativo, anche se così poteva essere definito. Il rispetto che aveva iniziato a nutrire verso le sue qualità positive, sebbene all’inizio lo avesse riconosciuto con riluttanza, col tempo non le risultava più sgradevole; anzi, era diventato quasi un sentimento amichevole, grazie alle testimonianze così lusinghiere nei suoi confronti e alla descrizione così positiva del suo carattere che aveva ricevuto il giorno prima. Ma soprattutto, al di sopra di tutto questo, c’era un motivo profondo di benevolenza nei suoi confronti: la gratitudine. Gratitudine non solo per il fatto che una volta l’aveva amata, ma anche perché continuava ad amarla abbastanza da perdonare tutta la petulanza e l’asprezza del suo comportamento quando lo aveva rifiutato, così come tutte le accuse ingiuste che erano seguite a quel rifiuto. Lui, che lei aveva creduto avrebbe evitato di incontrarla come se fosse il suo peggiore nemico, sembrava invece molto desideroso di mantenere quella conoscenza; e senza alcun comportamento inappropriato o atteggiamento particolare riguardo a loro due soltanto, cercava di guadagnarsi la stima dei suoi amici e di farle conoscere sua sorella. Un tale cambiamento in un uomo così orgoglioso non poteva che suscitare meraviglia, e gratitudine: doveva essere attribuito all’amore, a un amore ardente. E per questo motivo, l’impatto che ebbe su di lei fu positivo, anche se difficile da definire con precisione. Lo rispettava, lo apprezzava, gli era grata, e provava davvero interesse per il suo benessere. Voleva solo sapere fino a che punto desiderasse che quel benessere dipendesse da lei, e fino a che punto fosse importante, per la felicità di entrambi, che utilizzasse il potere che, secondo la sua immaginazione, ancora possedeva, per far riprendere le sue proposte d’amore.
-
-Quella sera, tra zia e nipote, fu deciso che una cortesia così evidente da parte di Miss Darcy – presentarsi loro proprio il giorno del suo arrivo a Pemberley, visto che era arrivata solo per colazione tardiva – meritasse di essere imitata, anche se non poteva essere eguagliata; pertanto, sarebbe stato molto opportuno accoglierla a Pemberley la mattina seguente. Così decisero di andare. Elizabeth ne fu felice; tuttavia, quando cercò di spiegarsi il motivo, non riuscì a trovare molte ragioni per farlo.
-
-Il signor Gardiner li lasciò poco dopo colazione. L’accordo per la pesca era stato rinnovato il giorno prima, e aveva preso appuntamento con alcuni gentiluomini a Pemberley entro [[motifs/noon|mattina]].
-
-
-
-Illustrazione:
-
-“Immerso nel[[motifs/river|fiume]]”
 
 
 
@@ -13903,56 +10495,6 @@ beginning the subject.
 [Illustration]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XLV.
-
-Illustrazione
-
-Ora che Elizabeth era convinta che l’avversione di Miss Bingley nei suoi confronti fosse nata da [[concepts/jealousy|invidia]], non poteva fare a meno di pensare quanto dovesse risultarle sgradita la sua presenza a Pemberley, e le veniva da chiedersi con quanta cortesia quella signora avrebbe ora ripreso a frequentarla.
-
-Arrivati alla casa, furono fatti entrare nel salone attraverso l'atrio; la sua esposizione a nord la rendeva particolarmente piacevole in [[motifs/summer|estate]]. Le sue finestre, che si affacciavano a terra, offrivano una vista rinfrescante sulle alte colline boschive dietro la casa, nonché sugli splendidi querce e castagni spagnoli disseminati nel prato circostante.
-
-In questa stanza furono accolti da Miss Darcy, che era lì seduta insieme a Mrs. Hurst e Miss Bingley, nonché alla signora con cui viveva a [[settings/london|Londra]]. L’accoglienza di Georgiana fu molto cortese, ma accompagnata da quell’imbarazzo tipico di chi si sente inferiore; un imbarazzo che, sebbene derivasse dalla timidezza e dalla paura di commettere errori, avrebbe facilmente fatto credere a coloro che la consideravano superba e riservata che fosse davvero così. Tuttavia, Mrs. Gardiner e sua nipote le resero giustizia e provarono compassione per lei.
-
-Da parte di Mrs. Hurst e Miss Bingley, vennero notate soltanto con un semplice gesto di cortesia; e una volta che si furono sedute, seguì un momento di silenzio, imbarazzante come tali pause inevitabilmente sono. Fu la prima ad interromperlo Mrs. Annesley, una donna gentile e dall’aspetto piacevole; i suoi tentativi di avviare una conversazione dimostrarono che era davvero più colta delle altre due. Tra lei e Mrs. Gardiner, con l’aiuto occasionale di Elizabeth, la conversazione proseguì. Miss Darcy sembrava desiderare ardentemente avere abbastanza [[concepts/courage|coraggio]] per parteciparvi; a volte osava pronunciare frasi brevi, quando c’era il minore rischio che venissero sentite.
-
-Elizabeth presto si rese conto che anche lei veniva attentamente osservata da Miss Bingley, e che non poteva pronunciare una parola, soprattutto con Miss Darcy, senza attirarne l’attenzione. Questa constatazione non le avrebbe impedito di provare a parlare con quest’ultima, se solo fossero state sedute a una distanza più conveniente; ma non le dispiaceva affatto essere risparmiata dalla necessità di dire molto: i suoi pensieri la assorbivano completamente. Aspettava da un momento all’altro che alcuni dei signori entrassero nella stanza; desiderava, e al contempo temeva, che il padrone di casa fosse tra loro. E non riusciva a stabilire con certezza se lo desiderasse di più o lo temesse di più. Dopo essere rimasta seduta in quel modo per un quarto d’ora, senza sentire la voce di Miss Bingley, Elizabeth fu interrotta da una sua fredda domanda riguardo alla salute della sua famiglia. Rispose con altrettanta indifferenza e brevità, e l’altra non aggiunse più nulla.
-
-La successiva variazione nella situazione fu causata dall’arrivo dei servitori con carne fredda, torte e una varietà di frutti di stagione; ma questo accadde solo dopo che la signora Annesley ebbe rivolto a Miss Darcy numerosi sguardi significativi e sorrisi, per ricordarle il suo dovere. Ora tutti avevano qualcosa da fare: anche se non potevano parlare tutti insieme, potevano comunque mangiare; e le bellissime piramidi di uva, nettarine e pesche li radunarono presto intorno al tavolo.
-
-Mentre era impegnata in queste attività, Elizabeth ebbe l’opportunità di capire se temesse di più o desiderasse di più la presenza del signor Darcy, in base alle emozioni che si suscitarono nel momento in cui entrò nella stanza; e poi, anche se un attimo prima credeva che fossero i suoi desideri a prevalere, iniziò a pentirsi che fosse arrivato.
-
-Era stato con il signor Gardiner per un certo [[motifs/time|periodo]] di tempo; quest’ultimo, insieme ad altri due o tre gentiluomini della stessa casa, era impegnato in alcuni lavori lungo il [[motifs/river|fiume]]; lo aveva lasciato soltanto dopo aver appreso che le signore della famiglia intendevano fare una visita a Georgiana quella mattina. Non appena egli arrivò, Elizabeth decise saggiamente di comportarsi in modo del tutto naturale e disinvolto; una decisione tanto più necessaria, ma forse non così facile da mantenere, poiché si rese conto che tutti presenti avevano già iniziato a sospettare di loro, e che quasi nessuno perdeva occasione di osservare il suo comportamento non appena entrava nella stanza. Tra tutte le persone presenti, la curiosità più evidente era quella della signorina Bingley; nonostante i sorrisi che le apparivano sul viso ogni volta che parlava con uno degli interessati, la [[concepts/jealousy|invidia]] non l’aveva ancora resa disperata, e le sue attenzioni verso il signor Darcy erano tutt’altro che diminuite. Non appena suo fratello entrò nella stanza, la signorina Darcy si sforzò molto di conversare; Elizabeth notò che lui desiderava ardentemente che lei e sua sorella si conoscessero meglio, e fece del suo meglio per favorire ogni tentativo di dialogo da entrambe le parti. Anche la signorina Bingley vide tutto ciò; e, nella imprudenza della rabbia, colse l’occasione per dire, con un tono sarcastico e cortese.
-
-“Pregate, signorina Eliza. La milizia del ----shire non è stata ritirata da Meryton? Deve rappresentare una grande perdita per la vostra famiglia.”
-
-In presenza di Darcy, lei non osava menzionare il nome di Wickham; ma Elizabeth comprese immediatamente che lui occupava un posto centrale nei suoi pensieri. Le varie ricordi legate a lui le causarono per un momento dolore; tuttavia, facendo uno sforzo immane per respingere quell’attacco malizioso, rispose alla domanda con tono abbastanza distaccato. Mentre parlava, un’occhiata involontaria le rivelò che Darcy aveva il viso arrossito e la stava guardando con attenzione, mentre sua sorella era sopraffatta dal confuso e non riusciva a sollevare lo sguardo. Se Miss Bingley avesse saputo quanto dolore stesse causando in quel momento alla sua amata amica, senza dubbio si sarebbe astenuta da fare quell’allusione; ma il suo intento era semplicemente quello di mettere a disagio Elizabeth, facendo menzione di un uomo di cui credeva che lei fosse affezionata, per farle rivelare sentimenti che avrebbero potuto danneggiarla agli occhi di Darcy, e forse anche per ricordargli tutte le follie e le assurdità legate a quella parte della sua famiglia. Nessuno era a conoscenza del piano di fuga meditato da Miss Darcy; nessuno, se possibile mantenere il segreto, tranne che Elizabeth stessa; e tra tutti i conoscenti dei Bingley, suo fratello era particolarmente desideroso di nasconderlo, proprio per quella stessa ragione per cui Elizabeth aveva da tempo attribuito a lui il desiderio che in futuro diventassero suoi parenti. Senza dubbio aveva elaborato un simile piano; e anche se non intendeva che questo influenzasse i suoi sforzi per allontanarlo da Miss Bennet, è probabile che aumentasse ulteriormente la sua profonda preoccupazione per il benessere della sua amica.
-
-Tuttavia, il comportamento complessivo di Elizabeth presto placò le sue emozioni; e mentre Miss Bingley, irritata e delusa, non osava avvicinarsi ulteriormente a Wickham, anche Georgiana si riprese nel [[motifs/time|tempo]], sebbene non abbastanza da poter parlare di nuovo. Suo fratello, il cui sguardo temeva di incrociare, quasi non ricordava più il suo interesse per quella questione; e proprio la circostanza che era stata ideata per distogliere i suoi pensieri da Elizabeth sembrava averli fissati su di lei ancora di più.
-
-La loro visita non durò a lungo dopo la domanda e la risposta menzionate sopra; mentre il signor Darcy li accompagnava alla carrozza, la signorina Bingley esprimeva i suoi sentimenti criticando la persona, il comportamento e l’abbigliamento di Elizabeth. Ma Georgiana non volle unirsi a lei: la raccomandazione di suo fratello era sufficiente per garantirle la sua simpatia; il giudizio di lui non poteva sbagliare, e aveva parlato di Elizabeth in termini tale da far sì che Georgiana non potesse considerarla diversamente da bella e amabile. Quando Darcy tornò nel salone, la signorina Bingley non poté fare a meno di ripetergli alcune delle cose che aveva detto a sua sorella.
-
-“Che malata sembra Eliza Bennet stamattina, signor Darcy,” esclamò: “Nella mia vita non ho mai visto nessuno cambiare così tanto da quando è arrivato l’[[motifs/winter|inverno]]. È diventata così scura di pelle e, grossolana! Louisa ed io stavamo persino dicendo che probabilmente non l’avremmo riconosciuta.”
-
-Per quanto poco al signor Darcy potesse piacere un tale modo di rivolgersi a lui, si accontentò di rispondere freddamente che non notava alcun cambiamento in lei, se non il fatto che fosse un po' abbronzata, niente di miracoloso, insomma, derivante dal viaggiare nell’[[motifs/summer|estate]].
-
-“Per quanto mi riguarda,” riprese lei, “devo confessare che non ho mai visto in lei alcuna [[concepts/beauty|bellezza]]. Il suo viso è troppo magro; la sua pelle non ha alcun splendore; e i suoi tratti non sono affatto attraenti. Il suo naso manca di carattere; le sue linee non presentano nulla di particolare. I suoi denti sono tollerabili, ma niente di eccezionale; quanto ai suoi occhi, che a volte sono stati definiti così belli, non ho mai notato in loro nulla di straordinario. Hanno uno sguardo acuto e astuto, che non mi piace affatto; e nel suo comportamento generale c’è una [[concepts/self-sufficiency|autosufficienza]] priva di grazia, che è insopportabile.”
-
-Essendo convinta che Darcy ammirasse Elizabeth, questo non era certo il modo migliore per farsi notare da lui; ma le persone arrabbiate non sono sempre sagge. E vedendolo finalmente apparire un po’ infastidito, ottenne tutto il successo che si aspettava. Tuttavia, lui rimase risolutamente in silenzio; e, decisa a farlo parlare, continuò.
-
-“Ricordo che quando l’abbiamo conosciuta per la prima volta nel Hertfordshire, siamo stati tutti molto sorpresi nello scoprire che era considerata una vera e propria [[concepts/beauty|bellezza]]; in particolare ricordo che una [[motifs/night|notte]], dopo aver cenato a Netherfield, hai detto: ‘È davvero una bellezza. Sarebbe come definire sua madre una donna intelligente.’ Ma in seguito sembrò superarti in bellezza, e credo che anche tu l’abbia trovata abbastanza attraente in un certo momento.”
-
-“Sì,” rispose Darcy, che ormai non riusciva più a trattenersi, “ma quello è stato solo quando l’ho conosciuta per la prima volta; da allora sono passati molti mesi, e ormai la considero una delle donne più belle che conosca.”
-
-Poi se ne andò, e la signorina Bingley rimase soddisfatta di averlo costretto a dire qualcosa che non causava dolore a nessuno tranne che a lei stessa.
-
-La signora Gardiner ed Elizabeth parlarono di tutto ciò che era accaduto durante la loro visita, mentre tornavano a casa, tranne che di ciò che aveva particolarmente interessato entrambe. Discussero degli sguardi e del comportamento di tutte le persone che avevano incontrato, tranne che di quella che aveva attirato maggiormente la loro attenzione. Parlarono della sua sorella, dei suoi amici, della sua casa, dei suoi frutti, di tutto tranne che di lui stesso; eppure Elizabeth desiderava ardentemente sapere cosa pensasse la signora Gardiner di lui, mentre la signora Gardiner sarebbe stata molto felice se sua nipote avesse iniziato a parlare dell’argomento.
-
-
-
-Illustrazione
-
 
 
 <span class="atom-split" data-atom="chapter_46--part_01" data-title="Pride and Prejudice — Chapter 46 (part 1)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="motif/marriage,motif/nature,motif/night,motif/road,motif/time,motif/well,concept/fear,concept/hope,concept/nature,concept/truth,concept/wonder,setting/london"></span>
@@ -14060,23 +10602,6 @@ again to-morrow evening. In such an exigence my uncle’s advice and
 assistance would be everything in the world; he will immediately
 comprehend what I must feel, and I rely upon his goodness.”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Capitolo XLVI.
-
-Illustrazione
-
-Elizabeth era stata piuttosto delusa di non aver trovato alcuna lettera da parte di Jane al loro arrivo a Lambton; questa delusione si era ripetuta ogni mattina trascorsa lì; ma il terzo giorno la sua rabbia svanì, e la sorella le sembrò giustificata quando ricevette due lettere da lei contemporaneamente, una delle quali indicava chiaramente che era stata inviata altrove per errore. Elizabeth non ne fu sorpresa, poiché Jane aveva scritto l’indirizzo in modo davvero pessimo.
-
-Avevano appena iniziato a prepararsi per partire quando arrivarono quelle lettere; suo zio e sua zia, lasciandola tranquillamente a leggerle, se ne andarono da soli. La prima lettera arrivata doveva essere letta immediatamente: era stata scritta cinque giorni prima. All’inizio c’era un resoconto di tutte le loro piccole feste e impegni, con notizie relative alla vita nel villaggio; ma la seconda metà della lettera, scritta il giorno dopo in uno stato evidente di agitazione, conteneva informazioni molto più importanti. Il contenuto era il seguente:
-
-“Da quando ho scritto quanto sopra, cara Lizzy, è accaduto qualcosa di estremamente inaspettato e grave; ma temo di spaventarti. Stai tranquilla: tutti stiamo bene. Quello che devo dirti riguarda povera Lydia. Ieri sera, alle dodici, proprio mentre eravamo andati a letto, è arrivata una lettera urgente dal Colonnello Forster: lei era partita per la Scozia con uno dei suoi ufficiali. Per essere sincera, con Wickham! Immagina la nostra sorpresa. Per Kitty, invece, la cosa non sembra così inaspettata. Mi dispiace davvero molto. Un matrimonio così imprudente da entrambe le parti. Ma sono disposta a sperare nel meglio, e che il suo carattere sia stato frainteso. Posso facilmente credere che sia stato impulsivo e indiscreto, ma questo passo, (e ne siamo felici, ) non indica nulla di negativo in lui. Almeno la sua scelta è disinteressata: sa bene che mio padre non può darle nulla. Mia povera madre è profondamente addolorata; mio padre se la sta cavando meglio. Sono così grata che non abbiamo mai fatto sapere loro ciò che era stato detto contro di lui. Dobbiamo dimenticarlo noi stessi. Sono partiti sabato sera, verso le dodici. Non sono stati ritrovati fino a ieri mattina alle otto. La lettera è stata inviata immediatamente. Cara Lizzy, devono essere passati a meno di dieci miglia da noi. Il Colonnello Forster ci fa sperare che arrivi presto qui. Lydia ha lasciato qualche riga per sua moglie, informandola della loro intenzione. Devo concludere ora. Non posso trattenermi troppo a lungo vicino a mia madre. Temo che tu non riesca a capire tutto ciò che ho scritto, ”
-
-Senza concedersi il [[motifs/time|tempo]] di riflettere, e quasi senza sapere cosa provasse, Elizabeth, dopo aver finito di leggere questa lettera, afferrò immediatamente l'altra e, aprendola con estrema impazienza, ne lesse il contenuto: era stata scritta un giorno dopo la fine della prima.
-
-“A quest’ora, mia cara sorella, avrai ricevuto la mia lettera affrettata; spero sia più comprensibile, ma sebbene non mi trovi in condizioni di riflettere con calma, temo di non essere coerente nel mio racconto. Lizzy, non so davvero cosa scrivere. Ma ho cattive notizie per te, e non possono essere rimandate. Per quanto imprudente possa essere un matrimonio tra il signor Wickham e la nostra povera Lydia, ora desideriamo ardentemente che sia avvenuto, perché ci sono troppi motivi per temere che non siano andati in Scozia. Ieri è arrivato il colonnello Forster: aveva lasciato Brighton il giorno prima, poche ore dopo l’express. Sebbene la breve lettera di Lydia alla signora F. indicasse che stavano dirigendosi verso Gretna Green, Denny ha riferito di credere che il signor Wickham non avesse mai intenzione di andarci o di sposare Lydia. Il colonnello Forster, allarmato, si è subito messo in viaggio per seguirli. Li ha facilmente rintracciati fino a Clapham, ma non oltre: appena entrati in quella città, sono saliti su una vettura e hanno abbandonato la carrozza con cui erano arrivati da Epsom. Da quel momento, non si sa più nulla di loro. So solo che sono stati visti proseguire lungo la strada per Londra. Non so cosa pensare. Dopo aver fatto tutte le indagini possibili a Londra, il colonnello Forster è venuto in Hertfordshire, continuando le ricerche presso tutti i posti di controllo e nelle locande di Barnet e Hatfield. Ma senza successo: nessuno aveva visto persone che corrispondessero alla loro descrizione passare da quelle parti. Con grande preoccupazione, è arrivato a Longbourn e ci ha comunicato le sue scoperte con un sincero dolore nel cuore. Sono sinceramente addolorata per lui e per la signora F. Ma nessuno può biasimarli. La nostra angoscia è immensa, Lizzy. Mio padre e mia madre pensano al peggio. Ma io non riesco a credere che possa essere così cattivo. Molte circostanze potrebbero rendere più opportuno per loro sposarsi in segreto in città, piuttosto che proseguire con il loro piano originale. E anche se lui potesse avere simili intenzioni nei confronti di una giovane donna come Lydia, cosa improbabile, posso forse pensare che lei sia completamente perduta per lui? Impossibile! Tuttavia, il colonnello Forster non sembra fidarsi del loro matrimonio. Ha scosso la testa quando gli ho espresso le mie speranze, dicendo che temeva che il signor Wickham non fosse un uomo affidabile. Mia povera madre è davvero malata e si tiene in camera. Se solo potesse sforzarsi di uscire. Ma questo non sembra probabile. Per quanto riguarda mio padre, non l’ho mai visto così turbato in vita mia. Povera Kitty, si arrabbia per aver nascosto la loro relazione, ma, essendo una questione di fiducia, non ci si può meravigliare. Sono davvero felice, Lizzy, che tu sia stata risparmiata da queste scene dolorose. Ma ora, che il primo shock è passato, devo ammettere che desidero ardentemente il tuo ritorno. Tuttavia, non sono così egoista da insistere, se ciò fosse scomodo per te. Addio. Riprendo a scrivere, ”
-Di nuovo, dovrei fare ciò che vi ho appena detto di non voler fare; ma le circostanze sono tali che non posso fare a meno di supplicarvi tutti di venire qui il prima possibile. Conosco così bene mio caro zio e mia zia che non ho paura di chiedervelo, anche se ho ancora qualcos’altro da chiedere al primo di loro. Mio padre sta per andare immediatamente a [[settings/london|Londra]] con il Colonnello Forster, nel tentativo di trovarla. Non so esattamente cosa intenda fare; ma la sua estrema angoscia non gli permetterà di adottare le misure più appropriate e sicure. Inoltre, il Colonnello Forster dovrà tornare a Brighton domani sera. In una situazione del genere, il consiglio e l’aiuto di mio zio sarebbero davvero essenziali; capirà immediatamente ciò che provo, e mi affido alla sua bontà.
 
 
 
@@ -14205,54 +10730,6 @@ feelings which would now have promoted its continuance, and would
 formerly have rejoiced in its termination.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Oh! Dove, dove è mio zio?” gridò Elizabeth, alzandosi di scatto dal suo posto non appena finì di leggere la lettera, desiderosa di seguirlo senza perdere un istante di quel tempo così prezioso. Ma quando arrivò alla porta, fu aperta da un servitore e apparve il signor Darcy. Il suo viso pallido e il suo comportamento impetuoso lo fecero sobbalzare; prima che potesse riprendersi abbastanza per parlare, lei, la cui mente era completamente assorbita dalla situazione di Lydia, esclamò in fretta: “Mi scusi, ma devo andare. Devo trovare immediatamente il signor Gardiner per una questione urgente che non può attendere; non ho un attimo da perdere.”
-
-“Dio mio! Che cosa è successo?” esclamò lui, con più emozione che cortesia; poi si riprese e aggiunse: “Non vi tratterrò nemmeno un minuto; ma lasciate che io, o il servitore, vada a cercare il signor e la signora Gardiner. Non state bene abbastanza; non potete andarci da soli.”
-
-Elizabeth esitò; ma le sue ginocchia tremavano e si rese conto di quanto poco avrebbe ottenuto cercando di inseguirli. Così, chiamò indietro il servitore e gli ordinò, con un tono così affannoso da renderla quasi inintelligibile, di portare immediatamente a [[motifs/home|casa]] il suo padrone e la sua padrona.
-
-Quando lui uscì dalla stanza, lei si sedette, incapace di reggersi in piedi, e sembrava così gravemente malata che Darcy non poté lasciarla né trattenersi dal dire, con tono gentile e compassionevole: “Lasciate che chiami la vostra cameriera. Non c’è nulla che possa prendere per darvi un po’ di sollievo? Un bicchiere di vino. Ve lo faccio portare? Siete molto malata.”
-
-“No, grazie,” rispose lei, cercando di riprendersi. “Non mi è successo nulla. Sto benissimo, sono solo turbata da alcune terribili notizie che ho appena ricevuto da Longbourn.”
-
-Lei scoppiò in [[motifs/tears|lacrime]] quando ne parlò, e per alcuni minuti non riuscì a dire una parola. Darcy, nel più angoscioso dei silenzi, poté solo mormorare qualcosa in modo incomprensibile.
-
-Illustrazione:
-
-"Non ho un istante da perdere"
-
-Con compassione e in un silenzio pieno di dolore, la osservò. Alla fine parlò di nuovo: “Ho appena ricevuto una lettera da Jane con notizie terribili. Non si può nascondere nulla a nessuno. Mia sorella minore ha lasciato tutti i suoi amici, è fuggita via. Si è consegnata nelle mani di Mr. Wickham. Sono partiti insieme da Brighton. Tu lo conosci troppo bene per dubitare del resto. Non ha soldi, nessun contatto. Niente che possa indurlo a. È perduta per sempre.”
-
-Darcy rimase immobile, sbalordito.
-
-“Quando ci penso,” aggiunse, con una voce ancora più agitata, “potrei esserci riuscita a impedirlo! Io che sapevo chi fosse. Se solo avessi spiegato qualcosa, anche solo una parte di ciò che avevo scoperto, alla mia stessa famiglia. Se solo la sua vera natura fosse stata conosciuta, tutto questo non sarebbe mai accaduto. Ma ormai è troppo tardi.”
-
-“Sono davvero addolorato,” esclamò Darcy: “addolorato, scioccato. Ma è certo, assolutamente certo?”
-
-“Oh, sì! Sono partiti da Brighton insieme la [[characters/sunday|)domenica]] di [[motifs/night|notte]] e sono stati rintracciati quasi fino a [[settings/london|)Londra]], ma non oltre: sicuramente non sono andati in Scozia.”
-
-“E cosa è stato fatto, cosa è stato tentato per riportarla indietro?”
-
-“Mio padre è andato a [[settings/london|Londra]], e Jane ha scritto chiedendo l’aiuto immediato di mio zio; spero che partiamo tra mezz’ora. Ma non si può fare nulla. So molto bene che non c’è niente da fare. Come si può tentare di influenzare un uomo del genere? E come si possono scoprire le loro intenzioni? Non ho la minima [[concepts/hope|speranza]]. È davvero orribile in ogni senso!”
-
-Darcy scosse la testa in silenziosa approvazione.
-
-“Quando i miei occhi riconobbero la sua vera natura. Oh, se solo avessi saputo cosa dovevo fare, cosa osavo fare! Ma non lo sapevo. Avevo paura di fare troppo. Che terribile errore, ”
-
-Darcy non rispose. Sembrava quasi non sentirla e camminava avanti e indietro nella stanza, immerso in profonde riflessioni; la sua fronte era corrugata, l’espressione cupa. Elizabeth se ne accorse subito e capì immediatamente il motivo. Il suo potere su di lui stava diminuendo; tutto, davvero, doveva crollare di fronte a una dimostrazione così evidente della debolezza familiare, di fronte a un simile segno di profonda vergogna. Non riusciva né a meravigliarsi né a condannarlo; ma la consapevolezza del suo autocontrollo non le portava alcun conforto, non alleviava in alcun modo il suo dolore. Al contrario, quella constatazione le faceva comprendere ancora più chiaramente i propri desideri. E mai come in quel momento aveva sentito con tanta sincerità di poterlo amare, quando ormai ogni speranza d’amore sembrava destinata a fallire.
-
-Ma [[concepts/self|se stessa]], per quanto volesse intromettersi, non riusciva a distrarla. Lydia, l’umiliazione, la sofferenza che stava causando a tutti loro, presto sommersero ogni altro pensiero privato; e coprendosi il viso con un fazzoletto, Elizabeth dimenticò completamente tutto il resto; dopo alcuni minuti di silenzio, fu solo la voce della sua compagna a riportarla alla realtà della situazione, una voce che, sebbene esprimesse compassione, conteneva anche moderazione.
-
-“Temo che da tempo desideraste la mia assenza; non ho nulla da dire in mia difesa per il mio ritardo, se non un sincero eppure inutile timore. Oh, se solo ci fosse qualcosa che potessi dire o fare per alleviare questa vostra sofferenza! Ma non voglio tormentarvi con desideri vani che potrebbero sembrare un modo deliberato per chiedervi la vostra gratitudine. Temo che questo sfortunato evento impedisca a mia sorella di poter vedervi oggi a Pemberley.”
-
-“Oh, sì! Per favore, chieda scusa per noi alla signorina Darcy. Dica che un affare urgente ci richiama immediatamente a [[motifs/home|casa]]. Nasconda quella triste [[concepts/truth|_verità]] finché è possibile. So che non durerà a lungo.”
-
-Le assicurò prontamente che avrebbe mantenuto il segreto, esprime nuovamente il suo rammarico per la sua sofferenza, augurandosi che tutto si concludesse in modo più felice di quanto al momento ci fossero motivi per [[concepts/hope|sperare]]. Dopo averle rivolto i suoi complimenti anche per le persone a lei care, se ne andò con uno solo sguardo serio prima di partire.
-
-Mentre lasciava la stanza, Elizabeth si rese conto di quanto fosse improbabile che potessero mai rivedersi di nuovo in termini così cordiali come quelli che avevano caratterizzato i loro incontri nel Derbyshire; e, ripensando a tutta la loro conoscenza, piena di contraddizioni e varietà, sospirò per la perversità di quei sentimenti che ora avrebbero voluto che continuasse, mentre in passato avrebbero gioito della sua fine.
-
 
 
 <span class="atom-split" data-atom="chapter_46--part_03" data-title="Pride and Prejudice — Chapter 46 (part 3)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="motif/home,motif/journey,motif/marriage,motif/road,motif/tears,motif/time,motif/well,concept/hope,concept/truth"></span>
@@ -14340,26 +10817,6 @@ have supposed, seated in the carriage, and on the [[motifs/road|road]] to Longbo
 “The first pleasing earnest of their welcome”
 ]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Se la gratitudine e il rispetto sono basi solide per un affetto sincero, allora il cambiamento di sentimenti di Elizabeth non è né improbabile né errato. Ma se invece tali sentimenti derivano da fonti irragionevoli o innaturali, rispetto a ciò che spesso si osserva accadere dopo un primo incontro, o persino prima ancora che vengano scambiate due parole, non si può trovare alcuna giustificazione per lei, se non il fatto che abbia tentato quel metodo di approccio con Wickham, e che il suo fallimento possa averla spinta a cercare un altro modo, meno promettente, per stabilire un legame. Comunque sia, lo vide andarsene con rammarico; e in questo primo esempio di ciò che la reputazione disonorevole di Lydia avrebbe potuto causare, provò ulteriore angoscia riflettendo su quella situazione tragica. Da quando aveva letto la seconda lettera di Jane, non aveva mai più nutrito alcuna speranza che Wickham volesse sposarla; pensava che solo Jane potesse illudersi di una cosa del genere. La sorpresa fu senz’altro il suo sentimento principale di fronte a questa notizia. Mentre i contenuti della prima lettera le rimanevano in mente, non riusciva a credere che Wickham potesse sposare una ragazza di cui non avrebbe mai potuto ottenere nulla in cambio di denaro; e non capiva come Lydia fosse riuscita ad attirarlo. Ora, invece, tutto sembrava del tutto logico: una ragazza del genere poteva certamente possedere attrattive sufficienti. E anche se non riteneva che Lydia avesse intenzione di sposare Wickham, non faticava a credere che né la sua virtù né la sua intelligenza potessero proteggerla dal diventare una vittima facile.
-
-Mentre il reggimento si trovava in Hertfordshire, lei non aveva mai notato che Lydia avesse alcuna preferenza per lui; ma era convinta che Lydia volesse soltanto incoraggiamento per potersi legare a qualcuno. A volte un ufficiale, altre volte un altro, era il suo favorito, poiché le loro attenzioni, secondo lei, li rendevano più desiderabili. I suoi sentimenti continuavano ad alternarsi, ma mai senza un motivo preciso. Oh! Quanto acutamente ora ne percepiva i danni derivanti da una negligenza o da un’indulgenza errata verso una ragazza del genere.
-
-Era così felice di essere a [[motifs/home|casa]]: poter ascoltare, vedere, essere lì per condividere con Jane tutte le preoccupazioni che ora toccavano interamente a lei, in una famiglia così sconvolta; un padre assente, una madre incapace di fare qualsiasi cosa e che aveva bisogno di cure costanti. E sebbene fosse quasi convinta che non si potesse fare nulla per Lydia, l’intervento di suo zio le sembrava di estrema importanza; fino a quando lui non entrò nella stanza, la sua impazienza era davvero insopportabile. Il signor e la signora Gardiner erano tornati in fretta, temendo che loro nipote fosse improvvisamente ammalata, ma dopo averli rassicurati su questo punto, lei comunicò subito loro il motivo della loro chiamata, leggendo ad alta voce le due lettere e soffermandosi con particolare emozione sul postscripto dell’ultima. Anche se Lydia non era mai stata la loro preferita, il signor e la signora Gardiner non poterono fare a meno di essere profondamente commossi. Non solo Lydia, ma tutti erano coinvolti in questa situazione; e dopo le prime esclamazioni di sorpresa e orrore, il signor Gardiner promise immediatamente di fornire ogni aiuto possibile. Elizabeth, sebbene non si aspettasse nulla di meno, lo ringraziò con [[motifs/tears|lacrime]] di gratitudine; e tutti e tre, mossi dallo stesso spirito, sistemarono rapidamente tutte le questioni relative al loro [[motifs/journey|viaggio]]. Avrebbero partito il prima possibile, “Ma cosa si farà riguardo a Pemberley?” esclamò la signora Gardiner. “John ci ha detto che il signor Darcy era qui quando ci avete chiamati. È vero?”
-
-“Sì; e gli ho detto che probabilmente non saremmo riusciti a mantenere il nostro impegno… È tutto deciso.”
-
-“Tutto è stato sistemato?” ripeté l’altra, mentre correva nella sua stanza per prepararsi. “E sono giunti a un accordo tale che lei debba rivelare la vera [[concepts/truth|verità]]? Oh, se solo sapessi com’è realmente!”
-
-Ma i desideri erano vani; o, al massimo, potevano servire solo a distrarla nel caos e nella fretta dell’ora successiva. Se Elizabeth avesse avuto il tempo libero per stare oziosa, sarebbe rimasta convinta che qualsiasi attività fosse impossibile per una persona così sfortunata come lei; ma anche lei aveva le sue responsabilità, proprio come sua zia, e tra queste c’erano delle lettere da scrivere a tutti i loro amici a Lambton, con scuse false per la loro improvvisa partenza. Tuttavia, in un’ora tutto fu pronto; e Mr. Gardiner, intanto, avendo saldato il suo conto all’ostello, non restava più nulla da fare se non andarsene. E Elizabeth, dopo tutta la sofferenza di quella mattina, si trovò, in meno tempo di quanto avesse potuto immaginare, seduta nella carrozza, sulla strada per Longbourn.
-
-
-
-Illustrazione:
-
-“La prima sincera e gradita accoglienza che ricevettero”
 
 
 
@@ -14484,44 +10941,6 @@ be in any danger from the [[concepts/deception|deception]] never entered my head
 consequence as _this_ should ensue, you may easily believe was far
 enough from my thoughts.”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XLVII.
-
-Illustrazione
-
-“Ci ho pensato ancora, Elizabeth,” disse suo zio mentre lasciavano la città; “e davvero, dopo averci riflettuto seriamente, sono molto più propenso di quanto lo fossi prima a concordare con l’opinione della tua sorella maggiore su questa questione. Mi sembra assai improbabile che un giovane possa concepire simili intenzioni nei confronti di una ragazza che non è affatto indifesa o senza amici, e che inoltre stava soggiornando nella famiglia del suo colonnello. Quindi sono molto incline a sperare nel meglio. Potrebbe davvero pensare che i suoi amici non intervenissero? E potrebbe aspettarsi di essere nuovamente notato dal reggimento, dopo un simile affronto al colonnello Forster? La sua [[concepts/temptation|tentazione]] non è sufficiente per correre un rischio del genere.”
-
-“Pensi davvero così?” esclamò Elizabeth, illuminandosi per un momento.
-
-“Per la mia parola,” disse la signora Gardiner, “inizio ad essere d’accordo con tuo zio. È davvero una violazione troppo grave della decenza, dell’[[concepts/honour|'onore]] e degli interessi personali da parte sua commettere un simile atto. Non riesco a pensare così male di Wickham. Tu, però, Lizzie, puoi davvero dare per scontato che sia capace di una cosa del genere?”
-
-“Forse non per trascurare i propri interessi. Ma per qualsiasi altra forma di negligenza, posso credere che sia capace. Se davvero dovesse essere così. Ma non oso [[concepts/hope|sperarlo]]. Perché non dovrebbero andare in Scozia, se fosse quella la decisione presa?”
-
-“Prima di tutto,” rispose il signor Gardiner, “non esistono prove assolute che non siano andati in Scozia.”
-
-“Oh, ma il fatto che siano stati trasferiti dalla carrozza alla vettura di piazza è davvero una presunzione eccessiva! Inoltre, non si trovarono tracce loro sulla strada di Barnet.”
-
-“Beh, allora, supponendo che si trovino a [[settings/london|Londra]], potrebbero essere lì, anche se probabilmente lo fanno soltanto per motivi di nascondimento, e non per altri scopi particolari. Non è probabile che abbiano molto denaro da entrambe le parti; inoltre, potrebbe loro sembrare più economico, anche se meno veloce, sposarsi a [[settings/london|Londra]] piuttosto che in Scozia.”
-
-“Ma perché tutta questa segretezza? Perché tanta [[concepts/fear|paura]] di essere scoperti? Perché il loro [[motifs/marriage|matrimonio]] deve rimanere privato? Oh no. Questo non è probabile. Il suo amico più intimo, a quanto dice Jane, era convinto che lui non avesse mai intenzione di sposarla. Wickham non sposerà mai una donna senza denaro. Non se lo può permettere. E quali pregi ha Lydia, quali attrattive possiede, oltre alla giovinezza, alla salute e a un buon umorismo, che potrebbero farlo rinunciare a ogni opportunità di trarre vantaggio da un matrimonio con una donna ricca? Per quanto riguarda l’influenza delle paure di vergogna all’interno della famiglia su una fuga disonorevole con lei, non posso giudicarlo; non conosco affatto gli effetti che un simile passo potrebbe avere. Ma per quanto riguarda il tuo altro obiezione, temo che non abbia molto fondamento. Lydia non ha fratelli che possano intervenire; e, considerando il comportamento di mio padre – la sua [[concepts/indolence|pigrizia]] e l’assenza di interesse verso ciò che accade nella sua famiglia – potrebbe pensare che anche lui agirebbe allo stesso modo, come qualsiasi altro padre in una situazione del genere.”
-
-“Ma riuscite davvero a immaginare che Lydia sia così perduta in tutto tranne nell’[[motifs/love|amore]] per lui, da essere disposta ad vivere con lui sotto qualsiasi condizione, tranne quella del [[motifs/marriage|matrimonio]]?”
-
-“Sembra davvero, e in effetti è molto scioccante,” rispose Elizabeth con le [[motifs/tears|lacrime]] agli occhi, “che il senso del decoro e della virtù di una sorella possa essere messo in dubbio in una questione del genere. Ma onestamente non so cosa dire. Forse non la sto giudicando correttamente. Tuttavia è molto giovane: nessuno le ha mai insegnato a riflettere su argomenti seri; e nell’ultimo semestre, anzi, negli ultimi dodici mesi, non ha fatto altro che divertirsi e indulgere in vanità. Le è stato permesso di trascorrere il proprio [[motifs/time|tempo]] in modo assolutamente futile e frivolo, e di adottare qualsiasi opinione le venisse in mente. Da quando la famiglia ----shire si è trasferita a Meryton, nella sua testa non c’è stato altro che amore, flirtazioni e ufficiali. Ha fatto di tutto per rendere i propri sentimenti ancora più, come dire?, suscettibili, dato che naturalmente sono già abbastanza vivaci. E tutti sappiamo che Wickham possiede ogni tipo di fascino personale e modo di comportarsi in grado di conquistare una donna.”
-
-“Ma vedi, Jane,” disse sua zia, “non pensa affatto male di Wickham, al punto di ritenere che possa essere capace di una simile azione.”
-
-“Di chi mai Jane potrebbe pensare male? E chi esiste, per quanto possa essere stata la sua condotta in passato, che lei ritenga capace di un simile tentativo, finché non ne venga fornita prova concreta? Ma Jane sa, proprio come lo so io, chi realmente sia Wickham. Sappiamo entrambi che è stato dissoluto in ogni senso del termine; che non possiede né integrità né [[concepts/honour|onore]]; che è altrettanto falsario e ingannevole quanto insinuante.”
-
-“E davvero sai tutto questo?” esclamò la signora Gardiner, la cui curiosità riguardo al modo in cui aveva ottenuto quelle informazioni era ancora viva.
-
-“Sì, davvero,” rispose Elizabeth, arrossendo. “Vi ho parlato l’altro giorno del suo comportamento infame verso il signor Darcy; e voi stesso, quando siete stato l’ultima volta a Longbourn, avete sentito in che modo parlava di quell’uomo che si era comportato con tanta tolleranza e generosità nei suoi confronti. Ci sono altre circostanze di cui non posso parlare, o forse non vale la pena raccontarle; ma le sue menzogne su tutta la famiglia Pemberley sono infinite. Da ciò che ha detto della signorina Darcy, ero completamente preparata ad immaginarla una ragazza orgogliosa, riservata e sgradevole. Eppure lui stesso sapeva il contrario. Deve sapere che è altrettanto amabile e semplice come l’abbiamo trovata noi.”
-
-“Ma Lydia non sa nulla di tutto questo? È possibile che lei sia all’oscuro di ciò che tu e Jane sembrate capire così bene?”
-
-“Oh, sì, proprio quello è il peggio di tutto. Finché non sono stata nel [[characters/kent|Kent]] e ho visto tanto sia il signor Darcy che suo cugino, il colonnello Fitzwilliam, anch’io ignoravo la [[concepts/truth|verità]]. Quando sono tornata a casa, il signor Bennet stava per lasciare Meryton tra una o due settimane. Poiché era così, né Jane, a cui avevo raccontato tutto, né io abbiamo ritenuto necessario rendere pubblica la nostra conoscenza; a che scopo, infatti, avrebbe potuto servire a qualcuno che l’ottima opinione che tutta la gente del posto aveva di lui venisse distrutta? E anche quando è stato deciso che Lydia sarebbe andata con la signora Forster, non mi è mai venuta in mente l’esigenza di farle conoscere la vera natura di quel uomo. Non ho mai pensato che lei potesse correre qualche pericolo a causa di quella [[concepts/deception|inganno]]. Che una conseguenza del genere potesse verificarsi, beh, è facile credere che tale possibilità fosse lontana mille miglia dai miei pensieri.”
 
 
 
@@ -14653,52 +11072,6 @@ Lydia not to give any directions about her clothes till she has seen me,
 for she does not know which are the best warehouses. Oh, brother, how
 kind you are! I know you will contrive it all.”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-“Quindi, quando tutti si trasferirono a Brighton, non avevi motivo, suppongo, di credere che fossero affezionati l’uno all’altro, vero?”
-
-“Assolutamente no. Non ricordo alcun segno di affetto da parte di nessuno dei due; e se qualcosa del genere fosse stato percepibile, dovreste essere consapevoli che la nostra non è una famiglia in cui si possano permettere simili comportamenti. Quando lui entrò nel reggimento, lei era più che disposta ad ammirarlo, come tutti noi, del resto. Ogni ragazza di Meryton e dintorni era letteralmente fuori di sé per lui nei primi due mesi; ma lui non le dedicò mai alcuna attenzione particolare. Di conseguenza, dopo un periodo iniziale di adorazione esagerata, il suo interesse per lui svanì, e altre ragazze del reggimento, che ricevevano da lui maggiore attenzione, divennero nuovamente le sue preferite.”
-
-Si può credere facilmente che, per quanto poca novità potesse essere aggiunta alle loro paure, speranze e congetture su questo argomento interessante attraverso le sue ripetute discussioni, nulla avrebbe potuto trattenerli lontano da esso per tutto il corso del [[motifs/journey|viaggio]]. I pensieri di Elizabeth non ne furono mai distolti. Legati lì dal dolore più acuto, quello della [[concepts/self|auto-reprova]], lei non riusciva a trovare nemmeno un istante di sollievo o d’oblio.
-
-Viaggiarono il più rapidamente possibile; dormendo una [[motifs/night|notte]] in[[motifs/road|strada]], arrivarono a Longbourn entro l’ora di cena del giorno seguente. Fu un conforto per Elizabeth pensare che Jane non doveva essere stanca a causa delle lunghe attese.
-
-I piccoli Gardiner, attratti dalla vista di una carrozza, stavano in piedi sulle scale della casa mentre entravano nel paddock; quando la vettura si avvicinò alla porta, la gioia e la sorpresa che illuminarono i loro volti e si manifestarono in tutta la loro figura, attraverso varie risate e movimenti spensierati, furono il primo segno sincero della loro accoglienza.
-
-Elizabeth uscì di corsa; dopo aver dato loro un bacio frettoloso, si affrettò verso il vestibolo, dove Jane, che era scesa di corsa dall’appartamento di sua madre, la incontrò immediatamente.
-
-Elizabeth, abbracciandola con affetto e mentre le lacrime riempivano gli occhi di entrambe, non perse un attimo per chiedere se ci fossero novità sui fuggitivi.
-
-“Non ancora,” rispose Jane. “Ma ora che mio caro zio è arrivato, spero che tutto vada bene.”
-
-“Mio padre è in città?”
-
-“Sì, è partito martedì, come vi avevo scritto.”
-
-“E hai avuto notizie di lui spesso?”
-
-“L’abbiamo sentito parlare solo una volta. Mi ha scritto poche righe mercoledì, per dirmi che era arrivato sano e salvo e per darmi le indicazioni necessarie; gli avevo chiesto espressamente di farlo. Ha aggiunto soltanto che non avrebbe scritto di nuovo fino a quando non avesse qualcosa di importante da comunicarmi.”
-
-“E mia madre… come sta? E voi tutti, come state?”
-
-“Mia madre sta abbastanza bene, credo; anche se il suo spirito è molto scosso. È di sopra e sarà molto felice di vedervi tutti. Non esce ancora dal suo bagno. Mary e Kitty, grazie al cielo! Stanno entrambe benissimo.”
-
-“Ma tu, come stai?” esclamò Elizabeth. “Sembri pallido. Devi aver passato attraverso molte difficoltà!”
-
-Tuttavia, sua sorella le assicurò che stava perfettamente [[motifs/well|bene]]; e la loro conversazione, che si era svolta mentre il signor e la signora Gardiner erano impegnati con i loro figli, terminò ora con l’arrivo di tutta la compagnia. Jane corse dai suoi zii, ringraziandoli entrambi con sorrisi e [[motifs/tears|lacrime]].
-
-Quando tutti si trovarono nel salotto, le domande che Elizabeth aveva già posto furono naturalmente ripetute anche dagli altri, e presto scoprirono che Jane non aveva nulla da dire. Tuttavia, la sanguinosa [[concepts/hope|speranza]] in qualcosa di buono, suggerita dalla bontà del suo cuore, non l’aveva ancora abbandonata; lei continuava a credere che tutto si sarebbe risolto [[motifs/well|bene]], e che ogni mattina sarebbe arrivata una lettera, sia da Lydia che da suo padre, per spiegare le loro intenzioni e, forse, annunciare anche il [[motifs/marriage|matrimonio]].
-
-La signora Bennet, presso la cui abitazione si recarono tutti, dopo alcuni minuti di conversazione, li accolse esattamente come ci si poteva aspettare: con [[motifs/tears|lacrime]] e lamenti di rammarico, invettive contro il comportamento malvagio di Wickham, e lamentele riguardo alle proprie sofferenze e ai trattamenti ingiusti subiti; incolpando tutti tranne la persona la cui indulgenza errata era stata la causa principale degli errori di sua figlia.
-
-“Se solo fossi riuscita,” disse lei, “a portare tutta la mia famiglia a Brighton, _questo_ non sarebbe mai successo: ma povera cara Lydia, nessuno si prendeva cura di lei. Perché i Forster l’hanno mai lasciata uscire dal loro campo visivo? Sono sicura che ci sia stata una grave negligenza da parte loro, perché lei non è il tipo di ragazza che farebbe una cosa del genere, se fosse stata ben curata. Ho sempre pensato che non fossero adatti a prendersi cura di lei; ma sono stata sopraffatta dalle loro opinioni, come succede sempre. Povera, cara [[archetypes/child|bambina]]. Ora anche il signor Bennet se n’è andato; so che combatterà contro Wickham ovunque lo incontri, e allora verrà ucciso. E cosa ne sarà di noi tutti? I Collins ci caccieranno via prima ancora che lui si raffreddi nella sua [[motifs/grave|tomba]]. E se anche voi non sarete gentili con noi, fratello, non so proprio cosa faremo.”
-
-Tutti esclamarono contro idee così terribili; e il signor Gardiner, dopo aver espresso in generale il suo affetto per lei e tutta la sua famiglia, le disse che intendeva recarsi a [[settings/london|Londra]] il giorno seguente e avrebbe aiutato il signor Bennet in ogni sforzo per far ritornare Lydia.
-
-“Non lasciatevi prendere da inutili allarmi,” aggiunse: “anche se è giusto prepararsi al peggio, non c’è motivo di considerarlo inevitabile. Non è passata nemmeno una settimana da quando hanno lasciato Brighton. Tra pochi giorni potremmo ricevere qualche notizia su di loro; e finché non sapremo con certezza che non si sono sposati né hanno intenzione di farlo, non dobbiamo considerare la situazione perduta. Non appena arriverò in città, andrò da mio fratello e lo convincerò a tornare [[motifs/home|a casa]] con me in Gracechurch Street; poi potremo discutere insieme su cosa fare.”
-
-“Oh, mio caro fratello,” rispose la signora Bennet, “è proprio quello che desidero di più. Ora, quando arriverai in città, scopri dove si trovano; e se non sono ancora sposati, fai sì che lo diventino. Per quanto riguarda i vestiti da nozze, non lasciare che aspettino: digli a Lydia che potrà spendere quanta denaro vuole per comprarli, dopo il matrimonio. E soprattutto, fa’ in modo che il signor Bennet non litighi. Digli quanto io sia in preda al terrore: ho paura a morte, tremo continuamente, ho dolori dappertutto, e non riesco a riposare né di notte né di giorno. E digli anche a mia cara Lydia di non decidere nulla riguardo ai suoi vestiti finché non mi avrà vista, perché lei non sa quali siano i negozi migliori. Oh, fratello, quanto sei gentile! So che riuscirai a sistemare tutto.”
 
 
 
@@ -14833,59 +11206,6 @@ up. Good-bye. Give my [[motifs/love|love]] to Colonel Forster. I [[concepts/hope
 drink to our good [[motifs/journey|journey]].
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Ma il signor Gardiner, sebbene le assicurasse nuovamente della sua sincera dedizione a questa causa, non poté fare a meno di raccomandarle moderazione, sia nelle sue speranze che nei suoi timori; e dopo aver parlato con lei in questo modo fino al momento di mangiare, la lasciarono libera di esprimere tutti i suoi sentimenti con la cameriera, che si occupava di lei in assenza delle sue figlie.
-
-Anche se suo fratello e sua sorella furono convinti che non ci fosse davvero motivo per un tale isolamento dalla famiglia, non tentarono di opporsi; sapevano infatti che lei non possedeva la prudenza necessaria per trattenersi dal parlare troppo davanti ai servitori mentre questi attendevano a tavola, e ritennero quindi meglio che solo una persona della famiglia, quella in cui potevano avere più fiducia, comprendesse tutte le sue paure e preoccupazioni al riguardo.
-
-Nella sala da pranzo, poco dopo si unirono a loro Mary e Kitty, che fino ad allora erano state troppo impegnate nelle rispettive stanze per poter presentarsi prima. Una era appena uscita dalla sua stanza da studio, l’altra dal suo bagno. Tuttavia, il viso di entrambe appariva abbastanza calmo; non si notava alcun cambiamento in loro, se non che la perdita della sorella preferita, o l’ira che lei stessa aveva suscitato in quella situazione, avevano conferito a Kitty un tono più ansioso del solito. Per quanto riguarda Mary, era abbastanza padrona di sé da sussurrare a Elizabeth, con un’espressione di profonda riflessione, poco dopo che si erano sedute a tavola.
-
-“Si tratta di un evento molto sfortunato, e probabilmente ne parleranno molto. Ma dobbiamo fermare la corrente del malevolenza e versare nei cuori feriti degli altri il balsamo del conforto fraterno.”
-
-Poi, vedendo che Elizabeth non aveva alcuna intenzione di rispondere, aggiunse:  
-“Per quanto infelice possa essere questa situazione per Lydia, possiamo trarne una lezione utile: la perdita della virtù in una donna è irreparabile; un solo passo falso la conduce verso rovina eterna; la sua reputazione non è meno fragile di quanto sia bella, e quindi bisogna stare particolarmente attenti nel comportamento verso coloro che non meritano il suo affetto.”
-
-Elizabeth alzò lo sguardo, piena di meraviglia, ma era troppo sopraffatta per riuscire a rispondere. Mary, invece, continuava a consolarsi con queste sorta di riflessioni morali riguardo al male che avevano davanti agli occhi.
-
-Nel pomeriggio, le due anziane signorine Bennet ebbero l’opportunità di stare da sole per mezz’ora; Elizabeth ne approfittò immediatamente per porre tutte le domande che Jane era altrettanto desiderosa di rispondere. Dopo aver espresso insieme il loro rammarico per la terribile conseguenza di quell’evento – che Elizabeth riteneva quasi inevitabile, mentre la signorina Bennet non poteva affermare che fosse del tutto impossibile – Elizabeth continuò dicendo: “Ma raccontatemi tutto ciò che non ho ancora saputo. Ditemi i dettagli. Cosa ha detto il colonnello Forster? Non avevano alcun sospetto prima che la fuga avvenisse? Devono essersi visti spesso insieme, ”
-
-Il colonnello Forster ammetteva di aver spesso sospettato che esistesse qualche preferenza, soprattutto da parte di Lydia, ma nulla che potesse destare in lui preoccupazione. Mi dispiace molto per lui: il suo comportamento verso di noi è stato estremamente attento e gentile. Stava venendo da noi proprio per rassicurarci della sua premura, prima ancora di rendersi conto che non erano partiti per la Scozia; quando questa preoccupazione iniziò a diffondersi, accelerò il suo [[motifs/journey|Viaggio]].
-
-“E Denny era convinto che Wickham non avrebbe sposato Elizabeth? Sapeva che avevano intenzione di andarsene insieme? Il colonnello Forster aveva incontrato personalmente Denny?”
-
-“Sì; ma quando fu interrogato da lui, Denny negò di sapere nulla del loro piano e rifiutò di esprimere la sua vera opinione al riguardo. Non ripeté più la sua convinzione che non dovessero sposarsi, e per questo sono incline a sperare che possa essere stato frainteso in precedenza.”
-
-“E fino a quando il colonnello Forster non arrivò di persona, nessuno di voi ebbe, suppongo, il minimo dubbio sul fatto che fossero davvero sposati, vero?”
-
-“Come è stato possibile che un'idea del genere entrasse nella nostra mente? Mi sentivo un po’ a disagio, un po’ preoccupata per la felicità di mia sorella nel suo [[motifs/marriage|matrimonio]], perché sapevo che il suo comportamento non era sempre stato impeccabile. Miei genitori non ne erano a conoscenza; si rendevano solo conto di quanto fosse imprudente quel matrimonio. Kitty, intanto, con un naturale senso di trionfo per sapere più di noi tutti, capì che nella lettera precedente Lydia l’aveva preparata a un passo del genere. A quanto pare, sapeva da molte settimane che erano [[motifs/love|innamorati]] l’uno dell’altra.”
-
-“Ma non prima che andassero a Brighton…”
-
-"No, non credo proprio."
-
-“E il colonnello Forster sembrava avere cattive opinioni su Wickham stesso? Conosce la sua vera natura?”
-
-“Devo confessare che ora non parla di Wickham come faceva prima. Lo ritiene imprudente ed esagerato; e da quando è accaduto questo triste evento, si dice che abbia lasciato Meryton con molti debiti. Ma [[concepts/hope|spero]] che ciò sia falso.”
-
-“Oh, Jane. Se solo avessimo condiviso meno segreti, se solo avessimo raccontato ciò che sapevamo di lui, tutto questo non sarebbe mai successo!”
-
-“Forse sarebbe stato meglio,” rispose sua sorella.
-
-“Ma denunciare i vecchi errori di una persona senza conoscere quali siano i suoi sentimenti attuali sembrava ingiustificato.”
-
-Abbiamo agito con le migliori intenzioni.
-
-“Potrebbe il Colonnello Forster ripetere i dettagli del biglietto di Lydia a sua moglie?”
-
-“L’ha portato con sé affinché potessimo vederlo.”
-
-Allora Jane la tirò fuori dal suo portafoglio e la diede a Elizabeth. Il contenuto era il seguente:–
-
-“Mia cara Harriet…”
-
-“Riderete quando saprete dove sono andata, e non posso fare a meno di ridere anch’io alla vostra sorpresa domani mattina, non appena mi mancherò. Vado a Gretna Green. E se non riuscite a indovinare con chi, penserete che siate sciocchi: nel mondo esiste solo un uomo che io amo, e lui è un angelo. Non potrei mai essere felice senza di lui. Quindi non consideratelo un torto il mio comportamento. Non c’è bisogno che comuniciate a Longbourn la mia partenza, se non vi piace: così la sorpresa sarà ancora maggiore quando gli scriverò, firmando con il nome Lydia Wickham. Che bella barzelletta! Rido così tanto che fatico a scrivere. Per favore, scusatemi con Pratt per non aver mantenuto l’appuntamento e per non essere andata a ballare con lui stasera. Ditegli che spero si scuserà quando saprà tutto. E ditegli anche che con piacere danzerò di nuovo con lui alla prossima festa. Andrò a prendere i miei vestiti una volta arrivata a Longbourn. Ma vorrei che Sally sistemasse quella grande strappo nel mio abito di mussola prima che venga impacchettato. Addio. Portate il mio affetto al Colonnello Forster. Spero che brinderete alla nostra “buona destinazione”, ”
-
 
 
 <span class="atom-split" data-atom="chapter_47--part_04" data-title="Pride and Prejudice — Chapter 47 (part 4)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/home,motif/journey,motif/time,motif/well,concept/hope,setting/london,character/lydia_bennet"></span>
@@ -14959,37 +11279,6 @@ out even so much as this.”
 The Post
 ]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-“Il tuo affezionato amico,
-
-“[[characters/lydia-bennet|LYDIA BENNET]].”
-
-
-“Oh, imprudente, così imprudente Lydia!” esclamò Elizabeth dopo aver letto la lettera. “Che lettera è questa, scritta in un momento del genere. Ma almeno dimostra che lei era seria riguardo allo scopo della sua [[motifs/journey|viaggio]]. Qualunque cosa lui possa averle poi detto per convincerla, da parte sua non c’era alcun progetto di vergogna o disonore. Povero mio padre, come deve essersi sentito!”
-
-“Non ho mai visto nessuno così scioccato. Non è riuscito a dire una parola per ben dieci minuti. Mia madre si ammalò immediatamente, e l’intera casa fu travolta dal caos!”
-
-“Oh, Jane,” esclamò Elizabeth, “esisteva forse una domestica che non conoscesse tutta la verità prima della fine della giornata?”
-
-“Non lo so: [[concepts/hope|spero]] che ci fosse. Ma essere sorvegliati a un’ora del genere è davvero molto difficile. Mia madre era in preda all’isteria; e anche se ho cercato di darle tutto l’aiuto possibile, temo di non averlo fatto nel modo migliore. Tuttavia, l’orrore di ciò che avrebbe potuto accadere quasi mi ha privato della capacità di pensare lucidamente.”
-
-La tua frequentazione con lei ti ha causato troppi problemi. Non sembri stare bene. Oh, se solo fossi stato al tuo fianco! Hai dovuto affrontare tutte queste preoccupazioni e ansie da solo.
-
-“Mary e Kitty sono state molto gentili; sicuramente avrebbero condiviso ogni fatica con me, ma non ho ritenuto giusto che lo facessero. Kitty è minuta e delicata, mentre Mary studia così tanto che i suoi momenti di riposo non dovrebbero essere interrotti. Mia zia Philips è arrivata a Longbourn martedì, dopo la partenza di mio padre, ed è stata così gentile da restare con me fino a giovedì. È stata di grande aiuto e conforto per tutti noi; anche Lady Lucas è stata molto premurosa: è venuta qui mercoledì mattina per consolarci e ci ha offerto il suo aiuto, o quello delle sue figlie, se avessero potuto esserci utili.”
-
-“Avrebbe fatto meglio a rimanere a [[motifs/home|casa]],” gridò Elizabeth: “forse voleva davvero il nostro bene, ma in una situazione così tragica non si può mai fare troppo poco nei confronti dei propri vicini. L’aiuto è impossibile; le condoglianze, insopportabili. Lasciamo che trionfino su di noi da lontano, e basta.”
-
-Poi continuò a chiedere quali misure suo padre avesse intenzione di adottare, mentre si trovava in città, per far tornare sua figlia a casa.
-
-“Credo che intendesse,” rispose Jane, “andare a Epsom, il luogo dove avevano cambiato cavalli l’ultima volta, per parlare con i postiglioni e cercare di ottenere qualche informazione da loro. Il suo obiettivo principale doveva essere scoprire il numero della vettura che li aveva portati da Clapham. Quella vettura era arrivata da [[settings/london|Londra]]; e poiché riteneva che l’episodio di un gentiluomo e di una signora che cambiavano carrozza potesse destare attenzione, intendeva fare delle indagini a Clapham. Se in qualche modo fosse riuscito a scoprire in quale casa il cocchiere aveva incassato la tariffa, avrebbe deciso di informarsi lì stesso, sperando che non fosse impossibile conoscere anche il tipo e il numero della vettura. Non so di altri piani che avesse in mente; ma era così ansioso di partire e il suo stato d’animo era così turbato che ho faticato molto a scoprire anche queste informazioni.”
-
-
-
-Illustrazione:
-
-La Posta
 
 
 
@@ -15104,36 +11393,6 @@ this. And it is the more to be lamented, because there is reason to
 suppose, as my dear Charlotte informs me, that this licentiousness
 of behaviour in your
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XLVIII.
-
-Illustrazione
-
-Tutta la famiglia sperava di ricevere una lettera dal signor Bennet il giorno seguente, ma la posta arrivò senza portare nemmeno una riga da parte sua. Sua moglie e i suoi figli sapevano che, in circostanze normali, lui fosse un corrispondente molto negligente e lento a rispondere; ma in un momento del genere si aspettavano che facesse uno sforzo particolare. Furono costretti a concludere che non avesse nulla di positivo da comunicare. Ma anche su questo avrebbero voluto essere certi. Il signor Gardiner aveva atteso proprio le lettere prima di partire.
-
-Dopo che se ne fu andato, erano certi almeno di ricevere informazioni costanti su ciò che stava accadendo; inoltre, loro zio promise, prima di separarsi, di convincere il signor Bennet a tornare a Longbourn non appena possibile, il che rappresentava un grande conforto per sua sorella, la quale considerava tale ritorno l’unica garanzia affinché suo marito non venisse ucciso in duello.
-
-La signora Gardiner e i bambini avrebbero dovuto rimanere nell’Hertfordshire per alcuni giorni ancora, poiché la signora riteneva che la sua presenza potesse essere di aiuto alle sue nipoti. Partecipava con loro alle visite alla signora Bennet e rappresentava un grande conforto per loro nei momenti di [[concepts/freedom|libertà]]. Anche l’altra zia li visitava spesso, sempre, a suo dire, con l’intento di rincuorarli e sollevarli il morale. Tuttavia, poiché ogni volta portava con sé nuove notizie sugli eccessi o sulle irregolarità di Wickham, di rado se ne andava senza lasciarli più depressi di quando era arrivata.
-
-A Meryton sembrava che tutti si impegnassero a diffamare quell’uomo che, appena tre mesi prima, era stato quasi un angelo di luce. Si dichiarò che fosse indebitato con ogni commerciante della zona, e le sue intrighi, tutte definite “seduzioni”, si erano estese in ogni famiglia dei commercianti stessi. Tutti affermavano che fosse il giovane più malvagio del mondo; e tutti iniziarono a rendersi conto di aver sempre diffidato dell’apparenza della sua bontà. Elizabeth, sebbene non credesse nemmeno alla metà di ciò che si diceva, ne era convinta abbastanza da rafforzare ulteriormente la certezza riguardo al destino rovinoso di sua sorella; e persino Jane, che credeva ancora meno in quelle accuse, finì per perdere ogni speranza, soprattutto ora che era arrivato il momento in cui, se fossero andate in Scozia – cosa di cui prima non aveva mai completamente perso le speranze – avrebbero probabilmente potuto ricevere qualche notizia su di loro.
-
-Il signor Gardiner lasciò Longbourn di [[characters/sunday|)domenica]]; martedì sua moglie ricevette una lettera da lui, nella quale le scriveva che al suo arrivo aveva immediatamente trovato suo fratello e lo aveva convinto a venire in Gracechurch Street. Aggiungeva anche che il signor Bennet era stato a Epsom e Clapham prima del suo arrivo, ma senza ottenere informazioni soddisfacenti; ora intendeva indagare in tutti gli hotel principali della città, poiché riteneva possibile che i due fossero andati in uno di essi al loro primo arrivo a [[settings/london|Londra]], prima di trovare un alloggio. Il signor Gardiner stesso non si aspettava alcun successo da questa iniziativa; ma poiché suo fratello era molto desideroso di procedere, intendeva aiutarlo nell’impresa. Aggiungeva anche che il signor Bennet sembrava al momento del tutto riluttante ad lasciare [[settings/london|)Londra]] e prometteva di scrivere di nuovo molto presto. Alla lettera era allegato anche un postscriptum con lo stesso contenuto.
-
-“Ho scritto al Colonnello Forster chiedendogli di cercare, se possibile, tra gli amici più intimi di quel giovane nel reggimento, di scoprire se Wickham abbia qualche parente o conoscente che possa sapere in quale parte della città si sia nascosto. Se ci fosse qualcuno a cui poter rivolgersi per ottenere un simile indizio, potrebbe essere di fondamentale importanza. Al momento non abbiamo alcuna informazione su cui basarci. Spero che il Colonnello Forster faccia tutto il possibile per aiutarci in questo senso. Ma, a pensarci bene, forse Lizzy potrebbe rivelarci meglio di chiunque altro quali siano le sue attuali relazioni.”
-
-Elizabeth non faticava a capire da dove derivasse questa deferenza verso la sua autorità; tuttavia, non era in suo potere fornire alcuna informazione di natura così soddisfacente come quella che quel complimento meritava.
-
-Non aveva mai sentito parlare di eventuali parenti da parte sua, se non di un padre e una madre entrambi morti da molti anni. Tuttavia, era possibile che alcuni dei suoi compagni nello ----shire potessero fornire maggiori informazioni; e anche se non nutriva grandi speranze al riguardo, quella possibilità rappresentava comunque qualcosa su cui contare.
-
-Ogni giorno a Longbourn era ora un giorno di ansia; ma il momento più angosciante di ogni giornata arrivava quando si aspettava la posta. L’arrivo delle lettere era l’oggetto principale dell’impazienza mattutina di tutti. Attraverso le lettere sarebbero state comunicate tutte le notizie, buone o cattive; e ogni giorno successivo si sperava portasse qualche notizia importante.
-
-Ma prima che ricevessero nuove notizie dal signor Gardiner, arrivò una lettera per loro padre, proveniente da un'altra direzione, inviata dal signor Collins; poiché Jane aveva ricevuto l'ordine di aprire tutto ciò che gli veniva inviato in sua assenza, la lesse immediatamente; anche Elizabeth, sapendo quanto fossero spesso piene di curiosità le lettere di suo padre, le diede un’occhiata e le lesse a sua volta. Il contenuto della lettera era il seguente:
-
-“Mio caro signore,”
-
-“Mi sento chiamato, a causa della nostra relazione e della mia situazione nella vita, a consolarti per la grave sofferenza che stai attualmente attraversando; di questa situazione siamo stati informati ieri tramite una lettera dall’Hertfordshire. Sii certo, mio caro signore, che sia la signora Collins che io condividiamo sinceramente il tuo dolore e quello di tutta la tua rispettabile famiglia in questo momento così difficile, che sicuramente è dei più amari, poiché derivante da una causa che nessun [[motifs/time|tempo]] potrà mai eliminare. Non mancheranno certo argomenti da parte mia per alleviare una sfortuna così grave o per consolarti in una circostanza che, tra tutte, deve essere la più dolorosa per un genitore. La [[motifs/death|morte]] di tua figlia sarebbe stata, al confronto, una benedizione. E questa situazione è tanto più deplorevole perché, come mi informa cara Charlotte, sembra esserci motivo di ritenere che questa condotta licenziosa da parte tua, ”
 
 
 
@@ -15280,64 +11539,6 @@ them.”
 
 [Illustration]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Illustrazione:
-
-“A chi ho raccontato l’intera storia”
-
-Copyright 1894 di George Allen.
-
-Vostra figlia ha agito a causa di un eccessivo indulgimento da parte vostra; tuttavia, allo stesso tempo, per consolarvi voi e la signora Bennet, sono incline a ritenere che il suo carattere sia naturalmente cattivo, altrimenti non avrebbe potuto commettere un simile atto orribile a così giovane età. Comunque sia, la vostra situazione merita davvero compassione; in questo sono d’accordo non solo con la signora Collins, ma anche con lady Catherine e sua figlia, alle quali ho raccontato l’intera faccenda. Anche loro concordano con me nel ritenere che questo errore di una figlia possa danneggiare le sorti di tutte le altre: chi, infatti, come dice stessa lady Catherine con tono sprezzante, vorrebbe associarsi a una famiglia del genere? Questo pensiero mi fa anche riflettere con maggiore soddisfazione su un certo evento avvenuto lo scorso novembre. Se fosse andata diversamente, sarei stata coinvolta nella vostra sofferenza e nel vostro disonore. Pertanto, vi consiglio, caro signore, di cercare di consolarvi il più possibile, di allontanare per sempre da voi quella figlia indegna e di lasciarla affrontare le conseguenze delle sue proprie azioni orribili.
-
-“Sì, mio caro signore,” ecc., ecc.
-
-Il signor Gardiner non scrisse più, fino a quando non ricevette una risposta dal colonnello Forster; e anche allora, ciò che inviò non aveva nulla di piacevole o incoraggiante. Non si sapeva che Wickham avesse alcun parente con cui mantenesse rapporti, ed era certo che non ne avesse nessuno in vita. Le sue conoscenze del passato erano numerose; ma da quando faceva parte della milizia, non sembrava mantenere particolari rapporti di amicizia con nessuno di loro. Pertanto, non esisteva nessuno che potesse fornire notizie su di lui. Inoltre, data la sua terribile situazione finanziaria, c’era un motivo molto forte per mantenere il segreto, oltre alla paura che le conoscenze di Lydia scoprissero la verità; infatti, era appena emerso che aveva lasciato indietro debiti da gioco per una somma considerevole. Il colonnello Forster riteneva che fossero necessari più di mille sterline per saldare le sue spese a Brighton. Doveva molto in città, ma i suoi debiti d’onore erano ancora più ingenti. Il signor Gardiner non cercò di nascondere queste informazioni alla famiglia Longbourn; Jane le ascoltò con orrore. “Un giocatore d’azzardo!” esclamò. “Questo è del tutto inaspettato. Non ne avevo la minima idea.”
-
-Il signor Gardiner aggiunse, nella sua lettera, che si poteva aspettare di rivedere il proprio padre a [[motifs/home|casa]] il giorno seguente, ovvero sabato. Sopraffatto dallo scarso successo di tutti i loro sforzi, aveva accettato l’insistenza del cognato affinché tornasse dalla sua famiglia e lasciasse a lui decidere cosa fosse più opportuno fare per continuare le loro ricerche. Quando la signora Bennet venne a sapere di questo, non mostrò la soddisfazione che i suoi figli si aspettavano, considerando l’ansia che aveva provato in precedenza per la sua vita.
-
-“Che cosa! Sta tornando a casa, e senza povera Lydia?” gridò. “Di certo non lascerà Londra finché non li avrà trovati. Chi combatterà contro Wickham e lo costringerà a sposarla, se lui se ne va?”
-
-Quando la signora Gardiner iniziò a desiderare di tornare a [[motifs/home|casa]], si decise che lei e i suoi figli partissero per [[settings/london|Londra]] nello stesso [[motifs/time|orario]] in cui il signor Bennet ne sarebbe tornato. Pertanto, la carrozza li portò per la prima tappa del loro [[motifs/journey|Viaggio]], per poi riportare il suo conducente a Longbourn.
-
-La signora Gardiner se ne andò, immersa nella confusione riguardo a Elizabeth e alla sua amica del Derbyshire; quelle questioni l’avevano tormentata sin dal suo ritorno da quella parte del mondo. Il nome di quell’amica non era mai stato menzionato volontariamente davanti a loro dalla nipote; inoltre, la vaga aspettativa che la signora Gardiner nutriva riguardo all’arrivo di una lettera da parte sua si era rivelata vana. Da quando era tornata, Elizabeth non aveva ricevuto alcuna lettera proveniente da Pemberley.
-
-Lo stato attuale di scontentezza della famiglia rendeva inutile qualsiasi altra spiegazione per il suo umore cupo; pertanto, non si poteva fare alcuna congettura logica a partire da questo. Sebbene Elizabeth, ormai abbastanza consapevole dei propri sentimenti, sapesse perfettamente che, se non avesse conosciuto Darcy, avrebbe potuto sopportare meglio la vergogna causata dalle azioni di Lydia. Pensava che questo le avrebbe risparmiato almeno una notte insonne su due.
-
-Quando il signor Bennet arrivò, aveva tutto l’aspetto della sua solita compostezza filosofica. Disse molto poco, come al solito; non menzionò affatto la questione che lo aveva portato via; e passò un po’ di tempo prima che le sue figlie avessero il coraggio di parlarne.
-
-Fu solo nel pomeriggio, quando si unì a loro per il tè, che Elizabeth osò sollevare l’argomento; e dopo che lei esprimette brevemente il suo rammarico per ciò che doveva aver sopportato, lui rispose: “Non parlarne più. Chi altro dovrebbe soffrire se non io? È stata una mia stessa colpa, e devo assumermene le conseguenze.”
-
-“Non devi essere troppo severo con te stesso,” rispose Elizabeth.
-
-“Puoi ben avvertirmi contro un simile male. La natura umana è così propensa a cadervi dentro! No, Lizzy, lasciami una volta nella vita sentire quanto sia colpa mia. Non ho paura che quest’impressione mi sopraffaccia. Passerà abbastanza presto.”
-
-“Pensi che siano a [[settings/london|Londra]]?”
-
-“Sì; dove altro potrebbero essere nascosti in modo così [[motifs/well|efficace]]?”
-
-“E Lydia voleva sempre andare a [[settings/london|Londra]],” aggiunse Kitty.
-
-“Allora è felice,” disse suo padre in tono secco; “e probabilmente rimarrà lì per un po’ di tempo.”
-
-Poi, dopo un breve [[motifs/silence|silenzio]], continuò: “Lizzy, non nutro alcun rancore verso di te per il fatto che il tuo consiglio che mi hai dato lo scorso maggio si è rivelato giusto; considerando quanto accaduto, questo dimostra una certa [[concepts/greatness|grandezza]] d’animo da parte tua.”
-
-Furono interrotti dalla signorina Bennet, che venne a prendere il tè di sua madre.
-
-“Questa è una parata,” gridò, “che ha un suo scopo positivo: dona addirittura eleganza alla sfortuna! Un altro giorno farò lo stesso; mi siederò nella mia biblioteca, con il berretto da notte e la veste da sera, e creerò quante più difficoltà possibile. O forse aspetterò che Kitty scappi.”
-
-“Non scapperò, papà,” disse Kitty, con ansia. “Se mai dovessi andare a Brighton, mi comporterei meglio di Lydia.”
-
-“Tu vai a Brighton! Non ti affiderei nemmeno nelle vicinanze di Eastbourne, per cinquanta sterline! No, Kitty, ho finalmente imparato ad essere cauta. E ne subirai le conseguenze. Nessun ufficiale dovrà mai più entrare nella mia casa, né nemmeno passare per il villaggio. Gli eventi sociali saranno assolutamente vietati, a meno che tu non partecipi insieme alle tue sorelle. E non dovrai mai uscire di casa, finché non avrai dimostrato di trascorrere dieci minuti al giorno in modo “razionale”.”
-
-Kitty, che prendeva tutte queste minacce sul serio, iniziò a piangere.
-
-“Beh, beh,” disse lui, “non renderti infelice. Se sarai una brava ragazza per i prossimi dieci anni, ti porterò a un concerto alla fine di quel periodo.”
-
-
-
-Illustrazione
 
 
 
@@ -15490,88 +11691,6 @@ it must be my uncle’s doings! Generous, good man, I am afraid he has
 distressed himself. A small sum could not do all this.”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XLIX.
-
-Illustrazione
-
-Due giorni dopo il ritorno del signor Bennet, mentre Jane ed Elizabeth passeggiavano insieme nel boschetto dietro la casa, videro avvicinarsi la governante e, pensando che fosse venuta a chiamarle da parte della loro madre, andarono incontro a lei; ma invece dell’invito previsto, quando le raggiunsero, la donna disse alla signorina Bennet: “Perdonatemi, madam, per avervi interrotto, ma speravo che aveste ricevuto qualche buona notizia dalla città, quindi ho preso l’iniziativa di venire a chiedere.”
-
-“Cosa intendi dire, [[motifs/hill|Hill]]? Non abbiamo ricevuto alcuna notizia dalla città.”
-
-“Madama cara,” esclamò la signora [[motifs/hill|Hill]] con grande stupore, “non sa che è arrivato un treno espresso per il padrone da parte del signor Gardiner? È stato qui mezz’ora fa, e il padrone ha ricevuto una lettera.”
-
-Le ragazze corsero via, troppo desiderose di cominciare a parlare. Corsero attraverso il vestibolo nella sala da pranzo; da lì nella biblioteca. Nessuno dei loro genitori si trovava in quelle stanze; stavano per andarlo a cercare al piano di sopra con la madre, quando incontrarono il maggiordomo, che disse:
-
-“Se state cercando il mio padrone, signora, sta dirigendosi verso quel piccolo boschetto.”
-
-A seguito di queste informazioni, attraversarono immediatamente il corridoio una volta ancora e corsero attraverso il prato alla ricerca di loro padre, che intenzionalmente stava dirigendosi verso un piccolo boschetto situato sul lato del campo.
-
-Jane, che non era così leggera né abituata a correre come Elizabeth, presto rimase indietro; sua sorella, ansimante, la raggiunse e gridò con impazienza:
-
-“Oh, papà, quali notizie? Hai avuto contatti con mio zio?”
-
-“Sì, ho ricevuto una sua lettera tramite servizio espresso.”
-
-“Allora, quali notizie porti? Buone o cattive?”
-
-“Cosa c'è di buono da aspettarsi?”, disse, estraendo la lettera dalla tasca; “ma forse vorresti leggerla tu stesso.”
-
-Elizabeth lo prese impazientemente dalla sua mano. Ora arrivò anche Jane.
-
-“Leggilo ad alta voce”, disse loro il padre, “perché anch’io fatico a capirne il contenuto”.
-
-Gracechurch Street, lunedì 2 agosto
-
-"My caro fratello,"
-
-“Finalmente posso inviarti alcune notizie sulla mia nipote, e spero che, nel complesso, ti soddisferanno. Poco dopo che mi hai lasciato sabato scorso, sono stato fortunato a scoprire in quale parte di [[settings/london|Londra]] si trovassero. I dettagli li riserverò per quando ci incontreremo. È sufficiente sapere che sono stati trovati: ho visto entrambi, ”
-
-Illustrazione:
-
-“Ma forse vorreste leggerlo…”
-
-Copyright 1894 di George Allen.
-
-“Allora è proprio come speravo sempre”, esclamò Jane: “sono sposati!”
-
-Elizabeth continuò a leggere: “Ho visto entrambi. Non sono sposati, e non credo che ci sia alcuna intenzione di farlo; ma se siete disposti ad adempiere agli impegni che ho osato prendere in vostro nome, spero che non trascorrerà molto tempo prima che lo facciano. Tutto ciò che vi chiedo è di garantire a vostra figlia, con un accordo scritto, la sua parte equa dei cinquemila sterline che saranno distribuite tra i vostri figli dopo la vostra morte e quella di mia sorella; inoltre, di prometterle cento sterline all’anno durante la vostra vita. Questi sono termini che, considerando tutto, non ho esitato ad accettare, poiché ritenevo di avere il privilegio di farlo per voi. Invierò questa lettera con corriere espresso, affinché non si perda alcun [[motifs/time|tempo]] nell’ottenere la vostra risposta. Da questi dettagli potrete facilmente comprendere che le condizioni finanziarie del signor Wickham non sono così disperate come si crede comunemente; il mondo è stato ingannato in questo senso, e sono felice di dire che, anche dopo il pagamento di tutti i suoi debiti, rimarrà ancora del denaro da lasciare a mia nipote, oltre alla sua fortuna personale. Se, come credo sarà, mi invierete pieni poteri per agire in vostro nome in tutta questa questione, darò immediatamente istruzioni a Haggerston di preparare l’accordo necessario. Non ci sarà alcun motivo perché dobbiate tornare in città; quindi rimanete tranquillamente a Longbourn e affidatevi alla mia diligenza e cura. Rispondetemi il prima possibile, e fate attenzione a scrivere chiaramente. Abbiamo ritenuto opportuno che mia nipote si sposi in questa casa, della quale spero approverete la scelta. Arriverà da noi oggi stesso; vi scriverò di nuovo non appena verranno presi ulteriori accordi. Vostro affettuosamente, ecc.”
-
-“Edw. Gardner.”
-
-“È possibile?” esclamò Elizabeth quando finì di parlare. “Può davvero essere possibile che la sposi?”
-
-“Allora Wickham non è così indegno come pensavamo,” disse sua sorella. “Mio caro padre, mi congratulo con te.”
-
-“E hai risposto alla lettera?” chiese Elizabeth.
-
-“No; ma deve essere fatto presto.”
-
-Con grande sincerità, allora lo pregò di non perdere più tempo prima di scrivere.
-
-“Oh, mio caro padre,” gridò, “torna subito e scrivi. Pensa quanto sia importante ogni momento in una situazione del genere.”
-
-“Lasciate che scriva io per voi”, disse Jane, “se non vi va di occuparvene personalmente”.
-
-“Non mi piace affatto”, rispose; “ma deve essere fatto”.
-
-E così dicendo, tornò indietro con loro e si diresse verso la casa.
-
-“E… posso chiedere?” disse Elizabeth; “ma immagino che si debbano rispettare certe condizioni, no?”
-
-“Obbedito! Mi vergogno solo che abbia chiesto così poco.”
-
-“E devono assolutamente sposarsi… Ma lui è un uomo davvero così…”
-
-“Sì, sì, devono sposarsi. Non c’è altro da fare. Ma ci sono due cose che vorrei sapere molto bene: la prima è quanta denaro abbia messo vostro zio per realizzare questo matrimonio; la seconda è come farò a ripagarlo.”
-
-“Denaro! Mio zio!” esclamò Jane, “Cosa intende dire, signore?”
-
-“Voglio dire che nessun uomo sano di mente sposerebbe Lydia per una tentazione così insignificante come cento sterline all’anno durante la mia vita, e cinquanta dopo la mia morte.”
-
-“È vero,” disse Elizabeth; “anche se non me n’ero resa conto prima. Le sue debiti devono essere saldati, eppure qualcosa deve ancora essere rimasto. Oh, dev’essere stato mio zio! Un uomo generoso e buono, temo che si sia messo in difficoltà. Una piccola somma non avrebbe potuto causare tutto questo.”
-
 
 
 <span class="atom-split" data-atom="chapter_49--part_02" data-title="Pride and Prejudice — Chapter 49 (part 2)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="archetype/fool,motif/hill,motif/home,motif/time,motif/well,concept/fear,concept/freedom,concept/hope"></span>
@@ -15706,56 +11825,6 @@ two hours ago, she felt all the advantages of what they had gained.
 [_Copyright 1894 by George Allen._]]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“No,” disse suo padre. “Wickham è un [[archetypes/fool|idiota]] se la prende con meno di diecimila sterline: mi dispiacerebbe pensare male di lui, proprio all’inizio della nostra relazione.”
-
-“Diecimila sterline! Per l’amor del cielo, come si può ripagare anche solo la metà di una somma del genere?”
-
-Il signor Bennet non rispose; e ognuno di loro, immerso nei propri pensieri, continuò a rimanere in silenzio fino a quando non raggiunsero la casa. A quel punto il padre andò in biblioteca per scrivere, mentre le ragazze entrarono nella sala da pranzo.
-
-“E davvero si sposeranno!” esclamò Elizabeth non appena rimasero soli. “Che strano. E proprio per questo dobbiamo essere grati. Che si sposino, anche se le loro possibilità di felicità sono scarse e il suo carattere è così pessimo. Dobbiamo gioire! Oh, Lydia!”
-
-“Mi consolo pensando,” rispose Jane, “che certamente non sposerebbe Lydia se non provasse davvero qualcosa per lei. Anche se nostro zio ha fatto del suo meglio per scagionarlo, non riesco a credere che siano stati prestati diecimila sterline, o una somma simile. Lui ha già dei figli, e potrebbe averne altri. Come potrebbe permettersi di dare via metà di diecimila sterline?”
-
-“Se mai riusciremo a scoprire quali siano stati i debiti di Wickham,” disse Elizabeth, “e quanto sia stato pagato per conto di nostra sorella, sapremo esattamente cosa abbia fatto il signor Gardiner per loro, perché Wickham non possiede nemmeno sei pence propri. La gentilezza di mio zio e mia zia non potrà mai essere ricambiata. Il fatto che l’abbiano portata a casa loro e le abbiano offerto la loro protezione personale rappresenta un sacrificio così grande a suo vantaggio, che anni di gratitudine non sarebbero sufficienti per ringraziarli. A quest’ora lei è davvero con loro! Se una tale bontà non la rende felice ora, allora non merita mai di esserlo. Che incontro sarà quando vedrà mia zia per la prima volta!”
-
-“Dobbiamo sforzarci di dimenticare tutto ciò che è accaduto da entrambe le parti,” disse Jane: “Spero e credo che alla fine saranno felici. Il fatto che abbia acconsentito a sposarla è una prova, ne sono convinta, che abbia cambiato modo di pensare. Il loro affetto reciproco li aiuterà ad andare avanti; e spero davvero che vivranno in modo così sereno e razionale da far dimenticare, col tempo, le loro precedenti imprudenze.”
-
-“Il loro comportamento è stato proprio così,” rispose Elizabeth, “che né tu, né io, né nessun altro potremo mai dimenticarlo. È inutile parlarne.”
-
-Le ragazze si resero conto che loro madre molto probabilmente ignorava completamente ciò che era accaduto. Andarono quindi in biblioteca e chiesero a loro padre se non desiderasse che le informassero. Lui stava scrivendo e, senza alzare lo sguardo, rispose con calma:
-
-“Come preferisci tu.”
-
-Possiamo leggerle la lettera di mio zio?
-
-"""Prendi tutto quello che vuoi e vattene.""
-
-Elizabeth prese la lettera dal suo scrittoio e salirono insieme al piano di sopra. Mary e Kitty erano entrambe con la signora Bennet: quindi una sola comunicazione sarebbe stata sufficiente per tutte. Dopo alcune brevi preparazioni, la lettera fu letta ad alta voce. La signora Bennet faticava a trattenersi. Non appena Jane lesse della speranza del signor Gardiner che Lydia si sposasse presto, la sua gioia esplose; ogni frase successiva ne aumentò l’intensità. Ora era così eccitata dalla felicità che non si differenziava per nulla da quando era stata ansiosa per paura o irritata per problemi. Sapeva semplicemente che sua figlia avrebbe sposato. Non provava alcuna [[concepts/fear|paura]] per la sua felicità, né si sentiva umiliata dal ricordo dei suoi comportamenti scorretti.
-
-“Mia cara, cara Lydia!” esclamò: “È davvero meraviglioso! Sposerà! La rivedrò di nuovo! Sposerà a sedici anni. Mio buon, gentile fratello. Sapevo che sarebbe andato tutto bene. Sapevo che lui avrebbe sistemato tutto. Quanto desidero vederla, e anche caro Wickham! Ma i vestiti, i vestiti da sposa. Scriverò subito a mia sorella Gardiner al riguardo. Lizzy, corri dal tuo padre e chiedigli quanto le darà. Aspetta, vado io stessa. Suona la campanella, Kitty, per chiamare [[motifs/hill|Hill]]. Mi vestirò in un attimo. Mia cara, cara Lydia. Che felicità sarà rivederci insieme!”
-
-Sua figlia maggiore cercò di alleviare l’intensità di questi sentimenti intensi, rivolgendo i suoi pensieri alle obbligazioni che il comportamento del signor Gardiner imponeva a tutti loro.
-
-“Poiché dobbiamo attribuire questo lieto esito,” aggiunse lei, “in gran parte alla sua gentilezza. Siamo convinte che si sia impegnato ad aiutare il signor Wickham con del denaro.”
-
-“Beh,” esclamò sua madre, “tutto va molto bene; chi altro potrebbe farlo se non suo zio stesso? Se non avesse avuto una propria famiglia, io e i miei figli avremmo dovuto prendere tutti i suoi soldi, capisci? E questa è la prima volta che riceviamo qualcosa da lui, a parte qualche regalo. Beh! Sono così felice. Tra poco mia figlia sposerà qualcuno. Signora Wickham! Che bella notizia! E aveva solo sedici anni lo scorso giugno. Mia cara Jane, sono talmente emozionata che temo di non riuscire a scrivere; quindi ti dirò io cosa scrivere e tu potrai trascriverlo per me. Ci occuperemo del denaro con tuo padre in un secondo momento, ma le cose devono essere ordinate immediatamente.”
-
-Poi iniziò a parlare di tutti i dettagli riguardanti il calico, la mussola e il cambric; stava per dare alcune ordini molto dettagliati, se non fosse stato per Jane, che, sebbene con qualche difficoltà, riuscì a convincerla ad aspettare che suo padre avesse tempo di essere consultato. Un giorno in più, osservò Jane, non avrebbe avuto alcuna importanza; e sua madre era troppo felice per essere così testarda come al solito. Le vennero anche in mente altri piani.
-
-“Andrò a Meryton,” disse, “non appena mi sarò vestita, e dirò la bella notizia a mia sorella Philips. Quando tornerò, potrò anche fare visita a Lady Lucas e a Mrs. Long. Kitty, corri a chiamare la carrozza. Una passeggiata all’aria aperta mi farà molto bene, ne sono sicura. Ragazze, posso fare qualcosa per voi a Meryton? Oh! Ecco che arriva [[motifs/hill|Hill]]. Caro [[motifs/hill|Hill]], hai sentito la bella notizia? Miss Lydia sposerà qualcuno; e tutte voi potrete bere un bicchiere di punch per festeggiare il suo matrimonio.”
-
-La signora [[motifs/hill|Hill]] iniziò immediatamente a esprimere la sua gioia. Elizabeth ricevette le sue congratulazioni insieme alle altre, ma poi, stufa di tutta questa follia, si rifugiò nella propria stanza per poter pensare con [[concepts/freedom|libertà]]. La situazione della povera Lydia doveva essere, nel migliore dei casi, già abbastanza difficile; ma che non fosse ancora peggiore, doveva considerarsi fortunata. Lo sentiva davvero così; e sebbene guardando avanti non si potesse giustamente aspettare né felicità razionale né prosperità mondana per sua sorella, ripensando a ciò che temevano soltanto due ore prima, riconosceva tutti i vantaggi che ora avevano ottenuto.
-
-
-
-Illustrazione:
-
-“Le vecchie signore malvagie”
-
-Copyright 1894 di George Allen.
-
 
 
 <span class="atom-split" data-atom="chapter_50--part_01" data-title="Pride and Prejudice — Chapter 50 (part 1)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="motif/great_house,motif/love,motif/marriage,motif/well,concept/honour,concept/indolence,character/lydia_bennet,character/speed"></span>
@@ -15866,32 +11935,6 @@ clothes must reflect on her daughter’s nuptials, than to any sense of
 shame at her eloping and living with Wickham a fortnight before they
 took place.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO L.
-
-Illustrazione
-
-Prima di questo periodo della sua vita, il signor Bennet aveva spesso desiderato che, invece di spendere tutto il proprio reddito, avesse risparmiato una somma annuale per garantire un futuro migliore ai suoi figli e a sua moglie, nel caso lei gli sopravvivesse. Ora lo desiderava ancora di più. Se avesse adempiuto al proprio dovere in questo senso, Lydia non sarebbe stata costretta a indebitarsi con suo zio per qualsiasi forma di [[concepts/honour|’onore]] o reputazione potesse ottenere in quel momento. La soddisfazione di aver convinto uno dei giovani più inutili della Gran Bretagna ad essere suo marito avrebbe potuto allora trovarsi nel posto che le spettava.
-
-Era seriamente preoccupato dal fatto che una causa che portava a così pochi vantaggi per nessuno venisse sostenuta esclusivamente a spese di suo cognato; e decise, se possibile, di scoprire fino a che punto quest’ultimo fosse stato d’aiuto e di onorare quell’obbligo il prima possibile.
-
-Quando il signor Bennet si sposò per la prima volta, si riteneva che l’economia fosse del tutto inutile; infatti, era certo che avrebbero avuto un figlio maschio. Questo figlio, non appena raggiunta l’età giusta, avrebbe interrotto la successione ereditaria, permettendo così alla vedova e ai figli più giovani di essere provveduti. Successivamente nacquero cinque figlie femmine, ma il figlio maschio doveva comunque arrivare; per molti anni, dopo la nascita di Lydia, la signora Bennet era certa che sarebbe arrivato. Alla fine si perse ogni speranza in questo riguardo, ma ormai era troppo tardi per intervenire. La signora Bennet non aveva alcuna predisposizione all’economia; inoltre, l’amore del suo marito per l’indipendenza impediva che superassero i propri introiti.
-
-Cinquemila sterline furono stabilite tramite gli accordi matrimoniali riguardanti la signora Bennet e i suoi figli. Tuttavia, la distribuzione di questa somma tra loro dipendeva dalla volontà dei genitori. Questo era un punto che, almeno per quanto riguardava Lydia, andava ora risolto; il signor Bennet non ebbe quindi alcuna esitazione ad accettare la proposta che gli veniva fatta. In termini di gratitudine per la gentilezza di suo fratello, sebbene espresso in modo molto conciso, egli dichiarò per iscritto la sua piena approvazione di tutto ciò che era stato fatto e la sua disponibilità a adempiere agli impegni presi a suo nome. Non aveva mai pensato che, qualora fosse stato possibile convincere Wickham a sposare sua figlia, ciò avvenisse con così pochi inconvenienti per lui rispetto all’accordo attuale. Con la somma di cento sterline che sarebbero state pagate loro, egli avrebbe perso appena dieci sterline all’anno; inoltre, considerando il mantenimento e le spese personali di Lydia, nonché i regali in denaro che continuavano ad arrivare tramite sua madre, le sue spese erano comunque molto inferiori a quella cifra.
-
-Il fatto che tutto ciò potesse essere realizzato con uno sforzo così minimo da parte sua rappresentava un’altra sorpresa molto gradita; infatti, il suo desiderio principale in quel momento era di evitare quante più difficoltà possibile in quella faccenda. Quando le prime ondate di rabbia che lo avevano spinto ad agire per trovarla si placarono, tornò naturalmente alla sua solita [[concepts/indolence|pigrizia]]. La sua lettera fu inviata rapidamente; poiché, sebbene fosse lento nell’iniziare le cose, era veloce nell’eseguirle. Chiese di conoscere maggiori dettagli su ciò che doveva al fratello, ma era troppo arrabbiato con Lydia per inviarle alcun messaggio.
-
-La buona notizia si diffuse rapidamente in tutta la casa; e con una velocità proporzionata anche nel quartiere circostante. Lì venne accolta con una certa filosofia. Certo, sarebbe stato ancora meglio per le conversazioni se la signorina [[characters/lydia-bennet|Lydia Bennet]] fosse arrivata in città; oppure, come alternativa più felice, se fosse rimasta isolata dal mondo in qualche remota fattoria. Ma c’erano molte cose da discutere riguardo al suo matrimonio; e i buoni desideri per il suo [[motifs/well|bene]] provenienti da tutte quelle vecchie signore malvagie di Meryton non persero affatto vigore con questo cambiamento di circostanze, poiché si riteneva che con un marito del genere la sua sofferenza fosse inevitabile.
-
-Erano passate due settimane da quando la signora Bennet era scesa le scale, ma in questa giornata felice si sedette di nuovo al capo del suo tavolo, pervasa da un’immensa gioia. Nessun senso di vergogna offuscava il suo trionfo: il [[motifs/marriage|matrimonio]] di sua figlia, che era stato l’obiettivo principale dei suoi desideri fin da quando Jane aveva sedici anni, stava per realizzarsi. I suoi pensieri e le sue parole riguardavano esclusivamente gli aspetti legati a un matrimonio elegante: sete fine, nuove carrozze e servitori. Era impegnata a cercare nella zona una residenza adatta per sua figlia; e, senza considerare quale potesse essere il loro reddito, scartò molte proposte ritenendole inadeguate per dimensioni o importanza.
-
-“Haye Park potrebbe andare bene,” disse lei, “se i Goulding lo lasciassero. O quella grande casa a Stoke, se il salotto fosse più ampio; ma Ashworth è troppo lontano. Non potrei sopportare che fosse a dieci miglia da me; e per quanto riguarda Purvis Lodge, gli attici sono terribili.”
-
-Suo marito le permise di parlare senza interruzioni finché i servitori erano presenti. Ma quando questi se ne furono andati, le disse: “Signora Bennet, prima di prendere una o tutte queste case per vostro figlio e vostra figlia, dobbiamo arrivare a un accordo chiaro. In _una_ sola delle case in questo quartiere loro non avranno mai accesso. Non incoraggerò l’imprudenza di nessuno dei due, accogliendoli a Longbourn.”
-
-Seguì una lunga disputa dopo questa dichiarazione; ma il signor Bennet fu irremovibile. Poco dopo ne scaturì un'altra; e la signora Bennet, con stupore e orrore, si rese conto che suo marito non era disposto a spendere nemmeno una sterlina per comprare abiti alla propria figlia. Lui protestò categoricamente che in quell’occasione non avrebbe dato a sua figlia alcun segno di affetto. La signora Bennet faticava a crederci: che la sua rabbia potesse arrivare al punto di negare a sua figlia un privilegio senza il quale il suo [[motifs/marriage|matrimonio]] sarebbe quasi sembrato nullo, le risultava incomprensibile. Per lei, l’umiliazione che la mancanza di abiti nuovi avrebbe arrecato alle nozze della figlia era molto più grave di qualsiasi senso di vergogna per il fatto che questa fosse fuggita e vivesse con Wickham due settimane prima del matrimonio.
 
 
 
@@ -16022,42 +12065,6 @@ would have been the last object of her wishes.
 
 [_Copyright 1894 by George Allen._]]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Elizabeth ora si pentiva profondamente di aver, spinta dal dolore di quel momento, fatto conoscere a Mr. Darcy le loro preoccupazioni per sua sorella; poiché il suo [[motifs/marriage|matrimonio]] avrebbe presto posto fine a quella fuga, forse avrebbero potuto nascondere l’inizio sfortunato di tutta la situazione a tutti coloro che non erano direttamente coinvolti.
-
-Non aveva alcuna [[concepts/fear|paura]] che quella situazione si diffondesse ulteriormente, attraverso i mezzi di lui. C'erano poche persone le cui segretezze avrebbe potuto affidare con maggiore fiducia; ma allo stesso tempo non esisteva nessuno il cui conoscere della debolezza di sua sorella l’avrebbe umiliata così profondamente. Tuttavia, questa paura non derivava da alcun timore di subire personalmente svantaggi; sembrava infatti esistere un abisso insormontabile tra loro. Anche se il [[motifs/marriage|matrimonio]] di Lydia fosse stato celebrato in condizioni assolutamente onorevoli, non si poteva certo pensare che il signor Darcy avrebbe voluto legarsi a una famiglia nella quale, oltre a tutti gli altri ostacoli, esistesse anche un legame di parentela così stretto con l’uomo che egli disprezzava così giustamente.
-
-Dato un tale legame, non poteva [[concepts/wonder|meravigliarsi]] che lui si ritraesse da lei. Il desiderio di conquistare il suo affetto, di cui era certa che esistesse nel Derbyshire, non poteva certo sopravvivere a un colpo del genere. Si sentiva umiliata, addolorata; si pentiva, anche se quasi non sapeva di cosa. Iniziò ad essere gelosa della stima che lui provava per lei, quando ormai non sperava più di trarne alcun beneficio. Voleva sapere notizie di lui, anche se sembrava impossibile ottenere informazioni. Era convinta che avrebbero potuto essere felici insieme, ma ormai era improbabile che si incontrassero di nuovo.
-
-Che trionfo per lui. Come spesso pensava, come avrebbe potuto sapere che le proposte che aveva orgogliosamente rifiutato soltanto quattro mesi prima ora sarebbero state accettate con gioia e gratitudine? Era certa che fosse generoso quanto il più generoso degli uomini della sua specie. Ma poiché era mortale, doveva pur esserci un trionfo.
-
-Ora iniziava a comprendere che lui era proprio l’uomo il cui carattere e i cui talenti si adattavano meglio a lei. La sua comprensione e il suo temperamento, sebbene diversi dai suoi, avrebbero soddisfatto tutti i suoi desideri. Quell’unione avrebbe sicuramente portato vantaggio a entrambi: con la sua disinvoltura e vivacità, lui avrebbe potuto rilassarsi e migliorare nei modi; mentre da parte sua avrebbe tratto grande beneficio dalla sua saggezza, dalle sue informazioni e dalla sua conoscenza del mondo.
-
-Ma nessun tale matrimonio felice avrebbe più potuto insegnare alla folla ammirata cosa fosse veramente la felicità coniugale. Una [[concepts/union|.unione]] di natura diversa, che escludeva la possibilità dell’altra, stava per formarsi nella loro famiglia.
-
-Non riusciva a immaginare come Wickham e Lydia potessero vivere in una relazione di tollerabile indipendenza. Ma era facile intuire quanto poco felicità duratura potesse appartenere a una coppia unita soltanto perché le loro passioni erano più forti della loro virtù.
-
-Il signor Gardiner scrisse presto di nuovo a suo fratello. Rispose brevemente alle ringraziamenti del signor Bennet, assicurandogli della sua disponibilità ad aiutare in qualsiasi modo possibile la famiglia; concluse la lettera chiedendo che l’argomento non venisse mai più menzionato con lui. Lo scopo principale della sua missiva era informarli che il signor Wickham aveva deciso di lasciare l’esercito.
-
-“Era davvero mio grande desiderio che facesse così,” aggiunse, “non appena il suo [[motifs/marriage|matrimonio]] fosse stato deciso. E credo che sarete d’accordo con me nel ritenere che un allontanamento da quel corpo militare sia altamente consigliabile, sia per lui che per mia nipote. Il signor Wickham intende arruolarsi nei regolari; tra i suoi vecchi amici ci sono ancora alcuni che sono in grado e disposti ad aiutarlo nell’esercito. Gli è stata promessa una carica di ufficiale nel reggimento del generale----, attualmente stazionato nel nord. È un vantaggio che questa destinazione sia così lontana da questa parte del regno. Promette onestamente; e [[concepts/hope|spero]] che, in mezzo a persone diverse, ognuno delle quali avrà interesse a mantenere la propria reputazione, entrambi siano più prudenti. Ho scritto al colonnello Forster per informarlo delle nostre intenzioni attuali e chiedergli di rassicurare i vari creditori del signor Wickham, sia a Brighton che nelle zone vicine, garantendo il pagamento rapido dei debiti, per cui mi sono fatta garante. E potreste prendervi la briga di inviare analoghe rassicurazioni anche ai suoi creditori a Meryton? Vi allego l’elenco dei loro nomi, secondo le informazioni fornite da lui stesso. Ha dichiarato di aver saldato tutti i suoi debiti; [[concepts/hope|spero]] almeno che non ci abbia ingannati. Haggerston ha ricevuto le nostre istruzioni e tutto sarà sistemato entro una settimana. A quel punto si uniranno al suo reggimento, a meno che prima non vengano invitati a Longbourn; e ho saputo dalla signora Gardiner che mia nipote desidera molto vedervi tutti prima di [[motifs/leaves|partire]] dal sud. Sta bene e vi prega di ricordarla affettuosamente, insieme a sua madre. – Vostro devotamente, ecc.”
-
-“E. GARDINER.”
-
-Il signor Bennet e le sue figlie vedevano tutti i vantaggi della partenza di Wickham dalla contea di ----shire, proprio come il signor Gardiner; ma la signora Bennet non ne era affatto contenta. Il fatto che Lydia si stabilisse nel nord, proprio quando lei si aspettava di trarre grande gioia e orgoglio dalla sua compagnia – poiché non aveva affatto abbandonato l’idea che loro risiedessero nella contea di Hertfordshire – rappresentava una grave delusione. Inoltre, era davvero un peccato che Lydia dovesse lasciare un reggimento dove conosceva tutti e aveva tanti amici.
-
-“Lei le vuole davvero molto bene, alla signora Forster,” disse, “sarà davvero scioccante mandarla via! E ci sono anche diversi giovani che a lei piacciono molto. Gli ufficiali, forse, non saranno così simpatici nel reggimento del generale, ”
-
-La richiesta di sua figlia, per quanto potesse essere considerata tale, di essere nuovamente ammessa nella famiglia prima di partire per il nord, ricevette inizialmente una risposta categoricamente negativa. Ma Jane ed Elizabeth, desiderose che, a causa dei sentimenti e delle conseguenze della sorella, i suoi genitori le prestassero attenzione al suo [[motifs/marriage|matrimonio]], lo esortarono con tanta insistenza, ma allo stesso tempo in modo così ragionevole e gentile, ad accogliere lei e suo marito a Longbourn non appena si fossero sposati, che alla fine lui decise di seguire il loro parere e agire secondo i loro desideri. E la loro madre ebbe la soddisfazione di sapere che avrebbe potuto mostrare sua figlia sposata nel circondario, prima che questa venisse esiliata nel nord. Quando quindi il signor Bennet scrisse di nuovo a suo fratello, gli inviò il permesso per il loro arrivo; fu deciso che, non appena la cerimonia fosse terminata, avrebbero proseguito direttamente per Longbourn. Tuttavia, Elizabeth rimase sorpresa dal fatto che Wickham accettasse una simile proposta; e se avesse seguito soltanto i propri desideri, qualsiasi incontro con lui sarebbe stato l’ultima cosa che avrebbe voluto.
-
-
-
-Illustrazione:
-
-Con un sorriso affettuoso
-
-Copyright 1894 di George Allen.
 
 
 
@@ -16298,98 +12305,6 @@ satisfaction, she had rather be without a confidante.
 ]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO LI.
-
-Illustrazione
-
-Il giorno del matrimonio di loro sorella arrivò; e Jane ed Elizabeth provavano per lei probabilmente più compassione di quanta ne provasse lei stessa. La carrozza fu inviata ad accoglierle a ----, e dovevano tornare con essa entro l’ora di cena. L’arrivo delle due sorelle era temuto dalle anziane Miss Bennet, soprattutto da Jane, che provava per Lydia lo stesso dolore che avrebbe provato se fosse stata lei la colpevole, e soffriva terribilmente al pensiero di ciò che sua sorella doveva sopportare.
-
-Sono arrivati. Tutta la famiglia si era riunita in sala da pranzo per accoglierli. Un sorriso illuminava il volto della signora Bennet quando la carrozza si fermò davanti alla porta; suo marito aveva un'espressione estremamente [[motifs/grave|seria]]; le sue figlie, preoccupate e ansiose, sembravano a disagio.
-
-Si sentì la voce di Lydia nel vestibolo; la porta si aprì di scatto e lei entrò nella stanza di corsa. Sua madre fece un passo avanti, l’abbracciò con gioia e la accolse con entusiasmo; poi porse la mano a Wickham, che seguiva la sua signora, con un sorriso affettuoso, augurando loro entrambi felicità con una sollecitudine che non lasciava alcun [[concepts/doubt|dubbio]] sulla loro gioia.
-
-L'accoglienza che ricevettero da parte del signor Bennet, a cui si rivolsero subito dopo, non fu affatto così cordiale. Il suo volto divenne ancora più severo; e quasi non aprì bocca. L’aplomb e la sicurezza di quel giovane coppia, in effetti, furono sufficienti per irritarlo.
-
-Elizabeth era disgustata, e persino la signorina Bennet era scioccata. Lydia rimaneva sempre la stessa: indomabile, spregiudicata, selvaggia, chiassosa e senza paura. Si avvicinò una dopo l’altra alle sue sorelle, chiedendo i loro complimenti; e quando finalmente tutte si sedettero, guardò intorno con curiosità, notò qualche piccolo cambiamento nella stanza e commentò ridendo che era passato molto tempo da quando c’era stata l’ultima volta.
-
-Wickham non era affatto più turbato di lei; ma i suoi modi erano sempre così piacevoli che, se il suo carattere e il suo [[motifs/marriage|matrimonio]] fossero stati esattamente come avrebbero dovuto essere, i suoi sorrisi e il suo modo disinvolto, mentre affermava la loro relazione, li avrebbero tutti deliziati. Elizabeth non aveva mai creduto prima che fosse davvero all’altezza di una tale sicurezza; ma si sedette, decisa in cuor suo a non porre più limiti all’impudenza di un uomo così sfacciato. Lei arrossì, e Jane arrossì anch’essa; ma le guance delle due donne che avevano causato quella situazione imbarazzante non cambiarono affatto colore.
-
-Non mancavano certo le conversazioni. Sia la sposa che sua madre non riuscivano a parlare abbastanza velocemente; e Wickham, che si trovava seduto vicino a Elizabeth, iniziò a chiedere notizie del suo conoscente di quella zona, con un tono disinvolto e cordiale che lei trovava davvero difficile eguagliare nelle sue risposte. Sembrava che entrambi avessero i ricordi più felici del mondo; nulla del passato veniva evocato con [[motifs/pain|dolore]]; e Lydia, di sua iniziativa, affrontava argomenti di cui le sue sorelle non avrebbero mai parlato nemmeno sotto tortura.
-
-“Pensa solo a quanto tempo sia passato. Sono già tre mesi da quando me ne sono andata,” gridò. “Sembra soltanto due settimane, lo giuro; eppure in questo periodo sono successe tante cose. Oddio! Quando sono partita, non avevo la minima idea di essere sposata. Anche se pensavo che sarebbe stato molto divertente!”
-
-Suo padre alzò lo sguardo: Jane era angosciata, Elizabeth guardava Lydia con espressione significativa; ma lei, che non sentiva né vedeva nulla di ciò che avrebbe potuto farla reagire, continuava a parlare allegramente.
-
-“Oh, mamma, la gente di queste parti sa che oggi mi sono sposata? Avevo paura che non lo sapessero; e abbiamo incrociato William Goulding nel suo calesino, quindi ho deciso che dovesse saperlo. Ho abbassato il finestrino accanto a lui, ho tolto il guanto e ho appoggiato la mano sul telaio della finestra, in modo che potesse vedere l’anello. Poi mi sono inchinata e ho sorriso.”
-
-Elizabeth non ne poteva più. Si alzò e uscì dalla stanza; non tornò mai più, finché non li sentì passare per il corridoio verso la sala da pranzo. Poi li raggiunse in tempo per vedere Lydia, con aria ansiosa, avvicinarsi al posto di destra di sua madre e ascoltare quest’ultima dire alla sua figlia maggiore.
-
-“Ah, Jane… Ora sono io al tuo posto, e tu devi scendere più in basso… Perché io sono una donna sposata.”
-
-Non si poteva certo immaginare che il [[motifs/time|tempo]] avrebbe causato a Lydia quell'imbarazzo di cui all’inizio era completamente libera. La sua serenità e il suo buon umore aumentavano giorno dopo giorno. Desiderava ardentemente incontrare la signora Philips, i Lucas e tutti gli altri vicini, e sentire ciascuno di loro chiamarla “signora Wickham”; nel frattempo, dopo cena, andava a mostrare il suo anello e a vantarsi di essere sposata con la signora [[motifs/hill|Hill]] e le due cameriere.
-
-“Beh, mamma,” disse lei quando tutti furono tornati in sala da pranzo, “e che ne pensi di mio marito? Non è un uomo incantevole? Sono sicura che tutte le mie sorelle mi invidino. Spero solo che abbiano anche loro metà della mia fortuna. Dovrebbero tutte andare a Brighton. Lì si trovano gli uomini giusti. Che peccato, mamma, che non ci siamo andate tutte!”
-
-“Assolutamente vero; e se fosse per mia volontà, lo faremmo. Ma, cara Lydia, non mi piace affatto che tu vada via in questo modo. Deve proprio essere così?”
-
-“Oh, Signore! Sì, non c’è nulla di male in questo. Mi piacerà moltissimo. Voi, papà e le mie sorelle dovete venire a trovarci. Trascorreremo l’intero [[motifs/winter|inverno]] a Newcastle, e sono sicura che ci saranno dei balli. Mi assicurerò di trovare dei buoni partner per tutte.”
-
-“Lo vorrei più di ogni altra cosa!” disse sua madre.
-
-“E poi, quando te ne andrai, potresti lasciare una o due delle mie sorelle da sole. E oserei dire che riuscirò a trovar loro mariti prima che finisca l’[[motifs/winter|inverno]].”
-
-“Grazie per la tua gentilezza verso di me,” disse Elizabeth; “ma non mi piace particolarmente il modo in cui scegli i tuoi mariti.”
-
-I loro visitatori non dovevano rimanere con loro per più di dieci giorni. Il signor Wickham aveva ricevuto il suo incarico prima di lasciare [[settings/london|Londra]] e avrebbe dovuto unirsi al suo reggimento alla fine di quindici giorni.
-
-Solo la signora Bennet rimpiangeva che il loro soggiorno fosse così breve; e lei sfruttò al massimo il [[motifs/time|tempo]] visitando le sue amiche e organizzando spesso feste a [[motifs/home|casa]]. Queste feste erano gradite a tutti; evitare i raduni familiari era ancora più desiderabile per coloro che la pensavano così, rispetto a quelli che non la pensavano allo stesso modo.
-
-L'affetto di Wickham per Lydia era esattamente ciò che Elizabeth si aspettava di trovare: non paragonabile all'affetto di Lydia per lui. Le bastava quella constatazione per essere convinta, considerando le circostanze, che la loro fuga fosse stata causata dalla forza dell’amore di Lydia piuttosto che da quella di lui; e avrebbe persino chiestosi perché, non provando alcun vero interesse per lei, Wickham avesse scelto di fuggire con lei, se non fosse stata certa che la loro situazione disperata lo aveva costretto a farlo. In tal caso, non era certo il tipo di giovane che avrebbe rifiutato l’opportunità di avere una compagna.
-
-Lydia lo amava moltissimo. In ogni occasione, lui era il suo caro Wickham; nessuno doveva competere con lui. Faceva tutto alla perfezione. E lei era sicura che, il primo di settembre, avrebbe catturato più [[motifs/birds|uccelli]] di chiunque altro nel paese.
-
-Una mattina, poco dopo il loro arrivo, mentre sedeva con le sue due sorelle maggiori, disse a Elizabeth:–
-
-“Lizzy, credo di non averti mai raccontato nulla del mio matrimonio. Non eri presente quando ne ho parlato con mamma e con gli altri. Non sei curiosa di sapere com’è andata?”
-
-“No, davvero,” rispose Elizabeth; “penso che non si possa mai dire abbastanza su questo argomento.”
-
-“La! Sei davvero così strana. Ma devo raccontarti com’è andata. Ci siamo sposati, sai, a St. Clement’s, perché l’appartamento di Wickham si trovava in quella parrocchia. Era stato concordato che tutti arrivassero lì entro le undici. Mio zio, mia zia e io dovevamo andarci insieme; gli altri ci avrebbero incontrati in chiesa.”
-
-“Beh, arrivò lunedì mattina e io ero nel panico! Avevo così paura che potesse succedere qualcosa che lo ritardasse. E poi c’era mia zia: per tutto il tempo che mi vestivo, lei continuava a predicare e parlare, come se stesse tenendo un sermone. Tuttavia, non ho capito una parola di quello che diceva. Perché, immaginate un po’, pensavo solo al mio caro Wickham. Non vedevo l’ora di sapere se si sarebbe sposato con quel suo abito blu, ”
-
-“Beh, insomma, abbiamo fatto colazione alle dieci come al solito; pensavo che non finisse mai. Del resto, dovete capire che mio zio e mia zia sono stati terribilmente sgradevoli per tutto il tempo che ho trascorso con loro. Se mi credete, non sono mai uscita di casa nemmeno una volta, anche se sono rimasta lì per due settimane. Nessuna festa, nessun piano, niente di nulla! Certo, [[settings/london|Londra]] era abbastanza desolata in quel periodo, ma comunque il Little Theatre era ancora aperto.”
-
-“Beh, proprio quando la carrozza stava arrivando alla porta, mio zio fu chiamato via per un impegno con quell’uomo terribile, il signor Stone. E poi, sai com’è, una volta che si incontrano, non finiscono mai più. Ero così spaventata che non sapevo cosa fare, perché mio zio avrebbe dovuto rivelare tutto; e se fossimo arrivati in ritardo, non avremmo potuto sposarci per niente. Ma fortunatamente tornò dopo dieci minuti, e poi ci mettemmo in viaggio. Comunque, in seguito mi resi conto che, anche se non fosse andato, il matrimonio non sarebbe stato annullato, perché il signor Darcy avrebbe potuto comunque occuparsene altrettanto bene.”
-
-“Signor Darcy!”, ripeté Elizabeth, completamente sbalordita.
-
-“Oh sì! Avrebbe dovuto venire lì con Wickham, sai. Ma, mio Dio! Me ne sono completamente dimenticata! Non avrei mai dovuto parlarne. Gliel’avevo promesso con tanta sincerità. Cosa dirà Wickham? Era un segreto così importante, ”
-
-“Se dovesse rimanere un segreto,” disse Jane, “non dire più una parola sull’argomento. Puoi essere certo che non indagherò oltre.”
-
-“Oh, certamente,” disse Elizabeth, sebbene bruciasse di curiosità; “non vi faremo alcuna domanda.”
-
-“Grazie,” disse Lydia; “perché se lo facessi, ti racconterei sicuramente tutto, e allora Wickham si arrabbierebbe molto.”
-
-Con un incoraggiamento del genere a porre la domanda, Elizabeth fu costretta ad allontanarsi per evitare di doverla rispondere.
-
-Ma vivere nell’ignoranza su una questione del genere era impossibile; o almeno era impossibile non cercare di ottenere informazioni. Il signor Darcy aveva partecipato al matrimonio di sua sorella. Era proprio in quella situazione, tra quelle persone, che apparentemente aveva meno motivi per intervenire e meno tentazioni di andarci. Ipotesi rapide e folli le attraversavano la mente; ma nessuna di esse la soddisfaceva. Quelle che più la convincevano, cioè quelle che presentavano il suo comportamento sotto una luce nobile, sembravano però le meno plausibili. Non riusciva a sopportare tale incertezza; così prese rapidamente un foglio di carta e scrisse una breve lettera alla sua zia, chiedendole spiegazioni su ciò che Lydia aveva detto, nel caso fosse compatibile con il rispetto della segretezza prevista.
-
-“Potete facilmente comprendere,” aggiunse, “quanto grande debba essere la mia curiosità per sapere come una persona che non ha alcuna connessione con nessuno di noi, e, per così dire, uno straniero alla nostra famiglia, abbia potuto trovarsi tra voi in un momento del genere. Per favore scrivetemi immediatamente e spiegatemi tutto, a meno che non ci siano motivi molto validi per mantenere il segreto, come sembra ritenere necessario Lydia; in tal caso dovrò accontentarmi di ignorare la verità.”
-
-“Anche se, in realtà, non ho intenzione di farlo,” aggiunse tra sé, e poi finì di scrivere la lettera; “E, cara zia mia, se non mi dite la verità in modo onesto, sarò costretta ad usare trucchi e stratagemmi per scoprirla.”
-
-Il delicato senso di [[concepts/honour|onore]] di Jane non le permetteva di parlare in privato con Elizabeth di ciò che Lydia aveva rivelato; Elizabeth ne era felice, finché non divenne chiaro se le sue indagini avrebbero ricevuto qualche risposta: in quel caso, preferiva non avere nessuna confidente.
-
-
-
-Illustrazione:
-
-“Sono sicuro che non abbia ascoltato.”
-
 
 
 <span class="atom-split" data-atom="chapter_52--part_01" data-title="Pride and Prejudice — Chapter 52 (part 1)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="archetype/innocent,motif/home,motif/love,motif/marriage,motif/pain,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,concept/pride,concept/temptation,concept/truth,setting/london,character/sunday"></span>
@@ -16561,27 +12476,6 @@ of ponies would be the very thing. But I must write no more. The
 children have been wanting me this half hour.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO LII.
-
-Illustrazione
-
-Elizabeth provò la soddisfazione di ricevere una risposta alla sua lettera nel minor tempo possibile. Non appena l’ebbe in mano, si affrettò verso il piccolo boschetto, dove era meno probabile che venisse interrotta, si sedette su uno dei bancini e si preparò ad essere felice; poiché il contenuto della lettera le confermava che non conteneva alcuna negazione.
-
-Never write a sentence about the subject… ##
-
-"My dear Niece,
-
-“Ho appena ricevuto la tua lettera e dedicherò tutta questa mattina a rispondertela, poiché immagino che una breve missiva non sia sufficiente per esprimere tutto ciò che devo dirti. Devo ammettere di essere sorpreso dalla tua richiesta; non me l’aspettavo da te. Però, non pensare che io sia arrabbiato: voglio solo farti sapere che non avevo previsto che tu potessi aver bisogno di informazioni del genere. Se preferisci non capirmi, perdonami la mia impertinenza. Anche tuo zio è altrettanto sorpreso quanto me; e se non avesse creduto che fossi tu coinvolta in questa faccenda, non avrebbe agito come ha fatto. Ma se sei davvero innocente e ignara, devo essere più chiaro. Lo stesso giorno del mio ritorno a casa da Longbourn, tuo zio ricevette una visita inaspettata: il signor Darcy venne a trovarlo e rimase con lui per diverse ore. Tutto ciò accadde prima del mio arrivo; quindi la mia curiosità non fu messa alla prova come sembra essere stata la tua. Il signor Darcy venne a informare il signor Gardiner che aveva scoperto dove si trovavano tua sorella e il signor Wickham, e che li aveva visti entrambi, più volte in caso di Wickham, una volta in caso di Lydia. Da quanto ho capito, lasciò Derbyshire solo un giorno dopo di noi e arrivò in città con l’intenzione di trovarli. Il motivo che addusse fu la convinzione che fosse colpa sua se il carattere disonorevole di Wickham non era stato riconosciuto a sufficienza da impedire a qualsiasi giovane donna perbene di innamorarsi o confidarsi in lui. Generosamente attribuì tutto ciò al proprio orgoglio sbagliato, ammettendo che in passato aveva ritenuto indegno di sé rendere pubbliche le proprie azioni private. Il suo comportamento, secondo lui, dimostrava chiaramente quali fossero i suoi veri sentimenti; quindi riteneva suo dovere intervenire per rimediare al male che lui stesso aveva causato. Se avesse avuto altri motivi, sono sicuro che non lo avrebbero mai disonorato. Trascorsero alcuni giorni prima che riuscisse a scoprirli. Ma aveva informazioni utili per iniziare le sue ricerche, informazioni che noi non possedevamo; e questa consapevolezza fu un’altra ragione per cui decise di seguirci. C’è una signora, sembra, la signora Younge, un tempo insegnante della signorina Darcy, ma licenziata per qualche motivo. Non specificò quale. In seguito prese in affitto una grande casa in Edward Street e da allora si guadagna da vivere affittando stanze. Il signor Darcy sapeva che questa signora Younge conosceva bene Wickham; quindi andò da lei per ottenere informazioni su di lui non appena arrivò in città. Ma ci vollero due o tre giorni prima che riuscisse a sapere ciò che voleva. Immagino che non fosse disposta a tradire la fiducia della sua amica senza ricorrere a mezzi disonesti. Poiché sapeva davvero dove si trovava la sua amica.”
-Fu trovato. Infatti, Wickham era andato da lei non appena arrivarono a [[settings/london|Londra]]; e se lei fosse stata in grado di ospitarli nella sua casa, avrebbero soggiornato lì. Alla fine, però, il nostro gentile amico riuscì a procurare le indicazioni desiderate. Si trovavano in ---- Street. Lui vide Wickham e poi insistette per incontrare Lydia. Ammise che il suo primo scopo era convincerla ad abbandonare quella situazione vergognosa e a tornare dai suoi amici non appena fossero stati convinti ad accoglierla, offrendole il proprio aiuto nella misura del possibile. Ma scoprì che Lydia era assolutamente decisa a rimanere dove si trovava: non le importava nulla dei suoi amici, non voleva il suo aiuto e rifiutava categoricamente l’idea di lasciare Wickham. Era certa che prima o poi avrebbero sposato, e non faceva molta differenza quando fosse successo. Poiché erano questi i suoi sentimenti, secondo lui non restava altro da fare se non organizzare e accelerare il [[motifs/marriage|matrimonio]], del quale, già nella loro prima conversazione, aveva capito chiaramente che non era mai stato il suo vero intento. Ammise.
-Costretto a lasciare il reggimento a causa di alcuni debiti d’[[concepts/honour|’onore]] molto pressanti, non esitò a far ricadere tutte le conseguenze negative della fuga di Lydia unicamente sulla sua stessa follia. Intendeva dimettersi immediatamente; quanto al suo futuro, poteva fare poche congetture. Doveva andare da qualche parte, ma non sapeva dove, e sapeva anche che non avrebbe avuto nulla con cui vivere. Il signor Darcy gli chiese perché non sposasse subito tua sorella: sebbene il signor Bennet non fosse considerato molto ricco, avrebbe potuto aiutarlo in qualche modo, e la sua situazione ne avrebbe tratto beneficio con un [[motifs/marriage|matrimonio]]. Tuttavia, in risposta a questa domanda, scoprì che Wickham continuava ad avere la speranza di arricchirsi più efficacemente attraverso un [[concepts/hope|matrimonio]] in un altro paese. In tali circostanze, tuttavia, era improbabile che riuscisse a resistere alla tentazione di una soluzione immediata ai suoi problemi. Si incontrarono diverse volte, poiché c’erano molte cose da discutere. Naturalmente, Wickham voleva di più di quanto potesse ottenere; ma alla fine fu costretto ad essere ragionevole. Tutto.
-Dopo averne parlato con loro, il passo successivo di Mr. Darcy fu quello di farne conoscenza a vostro zio; così la sera prima del mio arrivo a [[motifs/home|casa]], andò in Gracechurch Street. Tuttavia, non riuscì a trovarlo; dopo ulteriori indagini, scoprì che vostro padre era ancora con lui, ma che avrebbe lasciato la città il giorno seguente. Mr. Darcy non riteneva che vostro padre fosse la persona adatta da consultare in qualità di zio, quindi decise di rimandare l’incontro fino alla partenza di quest’ultimo. Non lasciò il proprio nome; solo il giorno dopo si seppe che un gentiluomo era stato a trovarlo.
-Aveva degli affari da sbrigare. Sabato è tornato di nuovo. Tuo padre non c’era, tuo zio era a [[motifs/home|casa]], e, come ho detto prima, hanno parlato molto insieme. Si sono incontrati di nuovo il [[characters/sunday|)domenica]], e anch’io l’ho visto in quel momento. Solo lunedì tutto è stato definito: non appena ciò è accaduto, l’express è stato inviato a Longbourn. Ma il nostro visitatore era molto testardo. Credo, Lizzy, che quella testardaggine sia davvero il difetto principale del suo carattere. In passato è stato accusato di molte colpe; ma questa è senz’altro la vera sua debolezza. Niente poteva essere fatto senza che lui stesso intervenisse personalmente. Anche se sono sicura (e non lo dico per ricevere ringraziamenti, quindi non parlatene) che tuo zio avrebbe risolto tutto molto volentieri. Hanno discusso a lungo, il che non era affatto necessario né per lui né per la signora coinvolta. Alla fine tuo zio è stato costretto ad arrendersi: invece di poter essere d’aiuto alla sua nipote, si è visto privato anche del merito che avrebbe potuto derivarne. Il che, ovviamente, non gli è piaciuto affatto. E credo davvero che la tua lettera di stamattina.
-Gli diede grande piacere, perché richiedeva una spiegazione che avrebbe tolto a lui i “presti onori” ottenuti e avrebbe attribuito il merito dove era realmente dovuto. Ma, Lizzy, questa faccenda non deve andare oltre te stessa, o al massimo Jane. Sai molto bene, immagino, ciò che è stato fatto per quei giovani. I suoi debiti devono essere pagati; ammontano, credo, a ben più di mille sterline, in aggiunta alle altre mille che le sono state assegnate e alla sua commissione. Il motivo per cui tutto ciò doveva essere fatto da lui **solo** è quello che ho già detto. È stato proprio a causa della sua riservatezza e della mancanza di una valutazione adeguata del suo carattere che il comportamento di Wickham è stato così frainteso, e di conseguenza è stato accolto e giudicato nel modo in cui è stato. Forse c’è un po’ di **verità** in tutto questo, anche se dubito che la sua riservatezza, o quella di chiunque altro, possa essere ritenuta responsabile di quanto accaduto. Ma nonostante tutte queste belle parole, cara Lizzy, puoi stare assolutamente certa che tuo zio non avrebbe mai ceduto, se non gli avessimo dato credito.
-Per un altro interesse legato a questa faccenda, una volta che tutto fu risolto, tornò di nuovo dai suoi amici, che ancora soggiornavano a Pemberley; tuttavia fu concordato che dovesse recarsi nuovamente a [[settings/london|Londra]] al momento del matrimonio, quando anche tutte le questioni finanziarie avrebbero ricevuto una definitiva risoluzione. Credo di avervi raccontato ormai tutto. Si tratta di una relazione che, a quanto dite, vi sorprenderà molto; spero almeno che non vi causi alcun dispiacere. Lydia venne da noi, e Wickham ebbe sempre libero accesso alla casa. Era esattamente lo stesso di quando lo conobbi nel Hertfordshire, ma io.
-Non saprei nemmeno dirvi quanto fossi insoddisfatta del suo comportamento mentre stava con noi, se non fosse stato per la lettera di Jane dello scorso mercoledì, che mi fece capire che il suo atteggiamento al ritorno a casa era esattamente lo stesso. Quindi quello che vi sto dicendo ora non vi causerà certo nuovo dolore. Ho parlato con lei più volte in modo molto serio, spiegandole quanto fosse malvagio ciò che aveva fatto e tutta la sfortuna che aveva causato alla sua famiglia. Se mi ha ascoltata, beh, è stato per pura fortuna, perché sono sicura che non abbia prestato attenzione. A volte ero davvero esasperata; ma poi pensavo a mia cara Elizabeth e a Jane, e per loro ho avuto pazienza con lei. Il signor Darcy è tornato puntualmente e, come vi ha detto Lydia, ha partecipato al matrimonio. Ha pranzato con noi il giorno dopo e doveva lasciare la città di nuovo mercoledì o giovedì. Mi arrabbierete molto, cara Lizzy, se approfitto di questa occasione per dire (ciò che mai prima ho avuto il coraggio di dire) quanto mi piaccia? Il suo comportamento verso di noi è stato, in ogni senso, altrettanto piacevole di quando eravamo nel Derbyshire. La sua intelligenza e le sue opinioni mi piacciono molto. Gli manca solo un po’ più di vivacità. E questo, se si sposa con prudenza, sua moglie potrà insegnarglielo. Mi è sembrato davvero astuto: quasi mai ha menzionato il tuo nome. Ma l’astuzia, a quanto pare, è alla moda. Per favore perdonami, se sono stata troppo presuntuosa. O almeno non punirmi così tanto da escludermi dalla visita a P. Non sarò mai completamente felice finché non avrò fatto il giro completo del parco. Un piccolo phaeton con due bei cavallini sarebbe proprio ciò che mi serve. Ma devo smettere di scrivere. I bambini mi stanno aspettando da mezz’ora.
-
 
 
 <span class="atom-split" data-atom="chapter_52--part_02" data-title="Pride and Prejudice — Chapter 52 (part 2)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="motif/marriage,motif/pain,motif/time,motif/well,concept/honour,concept/hope,concept/pride,concept/vanity,concept/wonder,character/kent"></span>
@@ -16742,85 +12636,6 @@ he hardly knew how to look, and they entered the house.
 ]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Con sincera affezione,
-
-“M. GARDINER.”
-
-
-Il contenuto di questa lettera gettò Elizabeth in uno stato di grande agitazione; era difficile stabilire se fosse la gioia o il [[motifs/pain|dolore]] ad avere la preponderanza in lei. Le vaghe e incerte sospetti che quell’incertezza aveva suscitato riguardo a ciò che il signor Darcy potesse aver fatto per favorire il matrimonio di sua sorella – sospetti che lei temeva di incoraggiare, poiché sembravano un atto di bontà eccessivamente generoso e al contempo dubitava che fossero fondati, considerando il [[motifs/pain|dolore]] che una tale azione avrebbe potuto causarle – si rivelarono tutti veri! Lui aveva seguito deliberatamente quella strada per andare in città, aveva sopportato tutte le difficoltà e umiliazioni legate a tali indagini; aveva dovuto supplicare una donna che doveva odiare e disprezzare, e si era visto costretto ad incontrarsi spesso con l’uomo che desiderava evitare più di ogni altra cosa, il cui solo nome gli causava dolore. Aveva fatto tutto questo per una ragazza che né poteva considerare né stimare. Il suo cuore le sussurrava che lo aveva fatto per lei. Ma quella speranza venne presto frenata da altri pensieri; e lei si rese conto che anche la sua [[concepts/vanity|vanità]] non era sufficiente, se doveva affidarsi al suo affetto per lei. Per una donna che gli aveva già rifiutato il proprio cuore. Come poteva un sentimento così naturale come l’odio verso quell’uomo essere superato? Fratello di Wickham. Qualsiasi tipo di [[concepts/pride|orgoglio]] si ribellava a quel legame. Certo, aveva fatto molto. Lei si vergognava di pensare quanto. Ma aveva fornito una ragione plausibile per la sua interferenza. Era logico che si sentisse in colpa; era generoso, e aveva i mezzi per dimostrarlo. E anche se non voleva ammettere che fosse stato motivato principalmente dal suo affetto per lei, forse poteva credere che il desiderio di aiutarla potesse spingerlo a compiere tali sforzi. Soprattutto considerando quanto la sua tranquillità interiore ne dipendesse. Era doloroso. Estremamente doloroso. Sapere di essere in debito con una persona che non avrebbe mai potuto ricambiare quel favore. Gli dovevano la restituzione di Lydia, il suo onore. Tutto. Oh, quanto si pentiva per ogni sentimento scortese che aveva mai provato nei suoi confronti, per ogni parola offensiva che gli aveva mai detto! Per sé stessa si sentiva umiliata. Ma era orgogliosa di lui. Orgogliosa che, in una questione di compassione e [[concepts/honour|onore]], fosse riuscito a dominare i propri sentimenti negativi. Rileggeva più e più volte le lodi della sua zia nei suoi confronti. Non erano certo sufficienti. Ma la rendevano felice. Provava persino un certo piacere, anche se mescolato al rimorso, nel constatare quanto lei e suo zio fossero stati convinti che esistesse davvero affetto e fiducia tra il signor Darcy e lei.
-
-Fu svegliata dal suo posto e dalle sue riflessioni dall’avvicinarsi di qualcuno; e prima che potesse prendere un’altra direzione, fu raggiunta da Wickham.
-
-“Temo di interrompere la tua solitaria passeggiata, cara sorella,” le disse, avvicinandosi a lei.
-
-“Certo che sì,” rispose lei sorridendo; “ma questo non significa necessariamente che l’interruzione debba essere indesiderata.”
-
-“Dovrei davvero scusarmi, se fosse così. _Noi_ siamo sempre stati buoni amici, e ora siamo ancora migliori.”
-
-“Vero… Gli altri stanno uscendo anche loro?”
-
-“Non lo so. La signora Bennet e Lydia stanno andando a Meryton in carrozza. E così, mia cara sorella, ho appreso da nostro zio e nostra zia che tu hai davvero visto Pemberley.”
-
-Rispose affermativamente.
-
-“Quasi vi invidio quella gioia. Eppure credo che per me sarebbe troppo; altrimenti potrei prendere la strada per Newcastle. E avete visto quella vecchia domestica, immagino? Povera Reynolds. Lei mi voleva molto bene. Ma ovviamente non vi ha menzionato il mio nome.”
-
-"Sì, lo ha fatto."
-
-“E cosa ha detto?”
-
-“Che tu fossi andato in militare, e lei aveva paura che non fosse andata bene. A una distanza così grande, sai, le cose vengono spesso fraintese in modo strano.”
-
-“Certo,” rispose, mordendosi le labbra. Elizabeth sperava di averlo zittito; ma poco dopo aggiunse:–
-
-“Sono rimasta sorpresa di vedere Darcy in città lo scorso mese. Ci siamo incrociati diverse volte. Mi chiedo cosa possa fare lì.”
-
-“Forse si sta preparando per il suo [[motifs/marriage|matrimonio]] con la signorina de Bourgh,” disse Elizabeth. “Deve esserci qualcosa di particolare che lo spinge ad andarci in questo [[motifs/time|periodo dell’anno]]”.
-
-“Senza dubbio. L’hai visto mentre eri a Lambton? Pensavo di aver capito dai Gardiner che l’avessi, ”
-
-“Sì; ci ha presentato sua sorella.”
-
-“E ti piace?”
-
-“Molto di più.”
-
-“Ho davvero sentito dire che lei sia migliorata in modo insolito in questi uno o due anni. L’ultima volta che l’ho vista, non sembrava avere grandi prospettive. Sono molto contento che ti sia piaciuta. [[concepts/hope|Spero]] che le vada bene.”
-
-“Oserei dire di sì; ha superato l’età più difficile della vita.”
-
-Hai attraversato il villaggio di Kympton?
-
-“Non ricordo che l’abbiamo fatto.”
-
-“Lo menziono perché era proprio quella vita che avrei dovuto avere. Un posto davvero delizioso! Una splendida canonica. Mi sarebbe adatta sotto ogni aspetto.”
-
-"#Come avresti voluto predicare?"
-
-“Estremamente [[motifs/well|bene]]. Avrei dovuto considerarlo parte del mio dovere, e lo sforzo non sarebbe durato a lungo. Non si dovrebbe rimproverare se stessi; ma, onestamente, per me sarebbe stato davvero ciò di cui avevo bisogno! La tranquillità, la solitudine di una vita del genere avrebbero soddisfatto tutte le mie aspirazioni alla felicità. Ma non è stato possibile. Hai mai sentito Darcy parlare di questa circostanza quando eravate a [[characters/kent|Kent]]?”
-
-“Ho ricevuto informazioni da fonti autorevoli, e ho ritenuto che fosse sufficiente, poiché vi è stata concessa solo a condizione della volontà dell’attuale protettore.”
-
-“Ce l’hai! Sì, c’era qualcosa in _quello_; te l’avevo detto fin dall’inizio, forse te ne ricordi.”
-
-“Anch'io ho sentito dire che c'è stato un [[motifs/time|momento]] in cui tenere prediche non ti piaceva così tanto come sembra ora; che hai addirittura dichiarato di non voler mai accettare ordini, e che di conseguenza la situazione è stata risolta in quel modo.”
-
-“L’hai fatto! E non del tutto senza fondamento. Ricorderai sicuramente ciò che ti ho detto al riguardo quando ne abbiamo parlato per la prima volta.”
-
-Erano ormai quasi arrivati alla porta della casa, perché lei aveva camminato velocemente per liberarsi di lui; e, non volendo, per il bene di sua sorella, provocarlo, rispose soltanto con un sorriso gentile.
-
-“Ma come, signor Wickham, siamo fratello e sorella, lo sa bene. Non lasci che litighiamo per il passato. In futuro, spero che saremo sempre d’accordo.”
-
-Lei tese la mano; lui la baciò con affettuosa galanteria, anche se quasi non sapeva come comportarsi, e poi entrarono nella casa.
-
-
-
-Illustrazione:
-
-“Mr. Darcy con lui.”
-
 
 
 <span class="atom-split" data-atom="chapter_53--part_01" data-title="Pride and Prejudice — Chapter 53 (part 1)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/fool,motif/love,motif/night,motif/pain,motif/time,motif/well,concept/hope,concept/truth"></span>
@@ -16954,66 +12769,6 @@ neighbours might all see Mr. Bingley, in consequence of it, before
 _they_ did. As the day of his arrival drew near,--
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO LIII.
-
-Illustrazione
-
-Il signor Wickham era così completamente soddisfatto di questa conversazione che non si preoccupò più, né provocò sua cara sorella Elizabeth, riprendendo mai l’argomento; e lei fu felice di aver detto abbastanza per farlo tacere.
-
-Il giorno della loro partenza arrivò presto; e la signora Bennet fu costretta ad accettare questa separazione che, poiché suo marito non aveva affatto intenzione di seguire il suo piano di trasferirsi tutti a Newcastle, probabilmente sarebbe durata almeno dodici mesi.
-
-“Oh, mia cara Lydia”, gridò, “quando ci rivedremo?”
-
-“Oh, Signore… Non lo so. Forse negli ultimi due o tre anni, no.”
-
-Scrivimi spesso, caro mio.
-
-“Quanto più spesso posso. Ma sai, le donne sposate non hanno mai molto [[motifs/time|tempo]] per scrivere. Le mie sorelle possono scrivere a _me_, ma non avranno nient’altro da fare.”
-
-I saluti di addio del signor Wickham furono molto più affettuosi di quelli di sua moglie. Sorrideva, sembrava attraente e disse molte cose carine.
-
-“È davvero un ragazzo eccellente,” disse il signor Bennet non appena furono fuori dalla casa, “come mai ne ho visto uno. Si comporta in modo affabile, sorride e cerca di guadagnarsi l’affetto di tutti noi. Sono davvero molto orgoglioso di lui. Oserei sfidare persino Sir William Lucas a trovare un genero più meritevole.”
-
-La perdita della sua figlia rese la signora Bennet molto triste per diversi giorni.
-
-“Spesso penso,” disse lei, “che non ci sia nulla di peggio che separarsi dai propri amici. Senza di loro si prova una sensazione di solitudine totale.”
-
-“Ecco la conseguenza, vedete signora, di sposare una figlia,” disse Elizabeth. “Dovrebbe rassicurarvi il fatto che le vostre altre quattro figlie siano ancora single.”
-
-“Non è affatto così. Lydia non mi lascia perché è sposata, ma solo perché il reggimento di suo marito si trova molto lontano. Se fosse stato più vicino, non sarebbe partita così presto.”
-
-Ma lo stato di apatia in cui questo evento la gettò fu presto alleviato: la sua mente si riaprì nuovamente all’emozione della [[concepts/hope|speranza]] grazie a una notizia che iniziò a circolare in quel periodo. La governante di Netherfield aveva ricevuto l’ordine di prepararsi all’arrivo del suo padrone, che sarebbe arrivato entro un giorno o due per trascorrere lì diverse settimane. La signora Bennet era davvero molto ansiosa; guardava Jane, le sorrideva e scuoteva la testa, a turno.
-
-“Beh, beh, il signor Bingley sta per arrivare, sorella,” (poiché la signora Philips le aveva appena portato la notizia). “Beh, meglio così. Anche se a me non importa nulla. Lui non significa nulla per noi, sai. E sono sicura che non voglio rivederlo mai più. Comunque, è benvenuto a Netherfield, se gli piace. E chissà cosa potrebbe succedere. Ma questo non ci riguarda. Sai, sorella, abbiamo deciso da tempo di non parlarne mai più. Quindi, è davvero certo che verrà?”
-
-“Puoi starne certo,” rispose l’altro, “perché la signora Nichols era a Meryton ieri [[motifs/night|sera]]: l’ho vista passare e sono uscito apposta per verificare la [[concepts/truth|verità]]; lei mi ha detto che era sicuramente vero. Arriverà al più tardi il giovedì, molto probabilmente mercoledì. Mi ha detto che stava andando dal macellaio apposta per ordinare della carne mercoledì, e che aveva tre coppie di anatre pronte da macellare.”
-
-La signorina Bennet non era riuscita a sentire parlare del suo arrivo senza cambiare colore. Erano passati molti mesi da quando aveva menzionato il suo nome davanti a Elizabeth; ma ora, non appena furono da sole, disse:
-
-“Ti ho visto guardarmi oggi, Lizzy, quando mia zia ci ha parlato di quel rapporto; so che sembravo turbata, ma non pensare che fosse per qualche motivo stupido. Ero solo confusa in quel momento, perché sentivo di dover essere guardata. Ti assicuro che questa notizia non mi provoca né gioia né [[motifs/pain|dolore]]. Sono contenta di una cosa: arriverà da solo, quindi lo vedremo meno spesso. Non è che abbia paura di me stessa, ma temo i commenti degli altri.”
-
-Elizabeth non sapeva cosa pensare. Se non lo avesse visto in Derbyshire, forse avrebbe potuto credere che fosse andato lì con un unico scopo, quello dichiarato; ma continuava a ritenere che provasse dei sentimenti per Jane, e non era sicura se la probabilità che fosse andato lì con il permesso dell’amica fosse maggiore rispetto a quella che avesse osato farlo senza.
-
-“Eppure è difficile,” pensava a volte, “che quest’uomo povero non possa entrare in una casa che ha legalmente affittato, senza suscitare tutte queste speculazioni. Lo lascerò tranquillo.”
-
-Nonostante ciò che sua sorella affermava e credeva davvero fossero i suoi sentimenti, nell’attesa del suo arrivo, Elizabeth riusciva facilmente a percepire che il suo umore ne era influenzato. Era più turbato, più instabile di quanto lo avesse spesso visto in precedenza.
-
-L’argomento di cui i loro genitori avevano discusso con tanto calore circa dodici mesi prima fu nuovamente sollevato.
-
-“Non appena arriva il signor Bingley, cara mia,” disse la signora Bennet, “tu dovrai naturalmente occuparti di lui.”
-
-“No, no. È stato tu a costringermi ad andarlo a trovare l’anno scorso, e mi hai promesso che, se ci fossi andato, lui avrebbe sposato una delle mie figlie. Ma non è successo nulla, e non intendo più essere mandato in una missione così assurda.”
-
-Sua moglie gli spiegò quanto fosse assolutamente necessario che tutti i signori del vicinato gli dimostrassero tale attenzione al suo ritorno a Netherfield.
-
-“È un’etichetta che disprezzo,” disse lui. “Se vuole partecipare alla nostra vita sociale, che venga a cercarci. Sa dove viviamo. Non intendo sprecare il mio tempo a seguire i miei vicini ogni volta che escono e tornano indietro.”
-
-“Beh, tutto quello che so è che sarebbe terribilmente scortese da parte vostra se non lo aspettaste. Ma comunque, questo non mi impedirà di chiedergli di venire a cena qui, sono decisa. Dobbiamo invitare presto la signora Long e i Goulding; in totale saremo tredici, quindi ci sarà abbastanza posto a tavola anche per lui.”
-
-Consolata da questa decisione, riuscì a sopportare meglio l’insolenza di suo marito; anche se era molto umiliante pensare che i suoi vicini potessero vedere il signor Bingley prima di lei. Man mano che il giorno del suo arrivo si avvicinava.
-
 
 
 <span class="atom-split" data-atom="chapter_53--part_02" data-title="Pride and Prejudice — Chapter 53 (part 2)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="motif/silence,motif/time,motif/well,motif/window,concept/courage"></span>
@@ -17132,48 +12887,6 @@ She inquired after his sister, but could do no more.
 “It is a long [[motifs/time|time]], Mr. Bingley, since you went away,” said Mrs. Bennet.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Comincio ad avere rimpianti che venga affatto,” disse Jane a sua sorella. “Non mi importerebbe nulla; potrei incontrarlo con assoluta indifferenza; ma non riesco proprio a sopportare che ne parlino continuamente in questo modo. Mia madre ha buone intenzioni, ma lei non lo sa, nessuno può sapere quanto soffro per quello che dice. Sarò davvero felice quando la sua permanenza a Netherfield sarà finita!”
-
-“Vorrei tanto poterti dire qualcosa per consolarti,” rispose Elizabeth; “ma è completamente al di fuori delle mie possibilità. Devi pur rendersene conto. E quella solita sensazione di soddisfazione che si prova nel consigliare pazienza a chi soffre mi viene negata, perché tu ne hai sempre avuta così tanta.”
-
-Il signor Bingley era arrivato. La signora Bennet, con l’aiuto dei domestici, riuscì a venire a conoscenza della notizia il prima possibile, in modo che il periodo di ansia e preoccupazione per lei durasse il più a lungo possibile. Contava i giorni che mancavano prima che potesse essere inviata un’invitazione, senza alcuna speranza di vederlo prima. Ma al terzo mattino dopo il suo arrivo in Hertfordshire, lo vide dalla finestra della sua camera da letto entrare nel paddock e dirigersi verso la casa.
-
-Le sue figlie furono chiamate con impazienza per condividere la sua gioia. Jane rimase risolutamente al suo posto a tavola; ma Elizabeth, per accontentare sua madre, andò alla [[motifs/window|finestra]]. Guardò. Vide il signor Darcy insieme a lei e tornò a sedersi accanto a sua sorella.
-
-“C’è un signore con lui, mamma”, disse Kitty; “chi può essere?”
-
-“Qualche conoscente, immagino… Sono sicura di non saperlo davvero.”
-
-“La!” rispose Kitty, “assomiglia proprio a quell’uomo che era con lui prima. Il signor, come si chiama, quello alto, orgoglioso.”
-
-“Mio Dio! Il signor Darcy. E davvero è così, lo giuro. Beh, ovviamente qualsiasi amico del signor Bingley sarà sempre il benvenuto qui; ma altrimenti devo dire che odio semplicemente vederlo.”
-
-Jane guardò Elizabeth con sorpresa e preoccupazione. Sapeva molto poco riguardo al loro incontro nel Derbyshire, e quindi comprendeva l’imbarazzo che sua sorella doveva provare nel rivederlo quasi per la prima volta dopo aver ricevuto la sua lettera spiegativa. Entrambe le sorelle si sentivano a disagio; ognuna aveva compassione dell’altra, e naturalmente anche di sé stessa. La loro madre continuava a parlare del suo disprezzo per il signor Darcy, e della sua decisione di comportarsi educatamente con lui soltanto in quanto amico del signor Bingley, ma nessuna delle due sorelle le prestava attenzione. Tuttavia, Elizabeth provava sentimenti di ansia che Jane ancora non poteva immaginare: non aveva mai avuto il coraggio di mostrare a Jane la lettera della signora Gardiner, né di raccontarle del proprio cambiamento nei suoi confronti. Per Jane, lui era soltanto un uomo le cui proposte aveva rifiutato e i cui meriti aveva sottovalutato; ma, grazie alle informazioni che lei stessa possedeva, sapeva che era la persona grazie alla quale tutta la famiglia aveva ricevuto i primi aiuti. E lo considerava con un interesse, se non proprio tenero, almeno altrettanto legittimo e giusto di quello che Jane provava per Bingley. La sua sorpresa nel vederlo tornare – a Netherfield, a Longbourn, e cercarla volontariamente – era quasi paragonabile a quella che aveva provato quando aveva notato il cambiamento nel suo comportamento nel Derbyshire.
-
-Il colore che era scomparso dal suo viso tornò per mezzo minuto, con un bagliore ancora più intenso; un sorriso di gioia aggiunse luce ai suoi occhi, mentre in quel breve istante pensava che il suo affetto e i suoi desideri dovessero ancora essere immutati. Ma non poteva esserne certa.
-
-“Lasciami prima vedere come si comporta,” disse lei; “allora sarà abbastanza presto per fare aspettative.”
-
-Sedeva concentrata al suo lavoro, cercando di mantenere la calma e senza osare alzare lo sguardo, finché una curiosità ansiosa non le fece rivolgere gli occhi verso il viso di sua sorella mentre la serva si avvicinava alla porta. Jane sembrava un po’ più pallida del solito, ma più composta di quanto Elizabeth si aspettasse. Quando i signori entrarono, il suo colorito migliorò; tuttavia li accolse con notevole disinvoltura e con un comportamento appropriato, privo sia di segni di risentimento che di eccessiva cortesia.
-
-Elizabeth disse loro il minimo indispensabile per rispettare le convenienze sociali, poi si rimise al lavoro con un impegno che non le capitava spesso di dimostrare. Gettò uno sguardo solo a Darcy: sembrava serio come al solito. Forse, pensò, perché era abituato a comportarsi così in Hertfordshire, e non come l’aveva visto a Pemberley. Ma forse, davanti alla presenza di sua madre, non poteva essere se stesso come quando era con suo zio e sua zia. Era un’ipotesi dolorosa, ma non del tutto improbabile.
-
-Anche lei aveva visto Bingley per un istante, e in quel breve lasso di tempo lo aveva visto apparire sia compiaciuto che imbarazzato. Fu accolto dalla signora Bennet con una cortesia tale da far vergognare le sue due figlie, soprattutto se confrontata con la freddezza e la formalità con cui trattava l’amico di Bingley.
-
-In particolare Elizabeth, che sapeva che sua madre doveva al secondo il fatto che la sua figlia preferita fosse stata salvata da una vergogna irreparabile, fu profondamente ferita e angosciata da un trattamento così ingiusto.
-
-Darcy, dopo averle chiesto come stessero il signor e la signora Gardiner – una domanda che lei non poteva rispondere senza imbarazzo – quasi non disse nulla. Non era seduto accanto a lei: forse per questo taceva; ma in Derbyshire non era così. Lì parlava con le sue amiche quando non poteva farlo con lei. Ora, però, erano trascorsi diversi minuti senza che si sentisse alcun suono della sua voce; e quando, a volte, incapace di resistere alla curiosità, alzava lo sguardo verso di lui, spesso lo trovava a fissare Jane o il pavimento, piuttosto che lei. Era evidente che ora era più pensieroso e meno ansioso di compiacerla rispetto all’ultima volta che si erano visti. Lei ne fu delusa, e se ne arrabbiò con se stessa per questo.
-
-“Come avrei potuto aspettarmi altro?”, disse lei. “Eppure, perché è venuto?”
-
-Non era affatto di umore per conversare con nessun altro se non con lui; e nemmeno aveva il [[concepts/courage|coraggio]] di parlargli.
-
-Chiese notizie di sua sorella, ma non poté fare altro.
-
-“È trascorso molto tempo, signor Bingley, da quando se ne è andato,” disse la signora Bennet.
-
 
 
 <span class="atom-split" data-atom="chapter_53--part_03" data-title="Pride and Prejudice — Chapter 53 (part 3)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/lover,motif/birds,motif/rose,motif/time,motif/well,motif/winter,concept/beauty,concept/hope,concept/pride,concept/wonder,character/lydia_bennet"></span>
@@ -17267,40 +12980,6 @@ of one who had ten thousand a year.
 “Jane happened to look round”
 ]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Accettò subito.
-
-“Ho iniziato a temere che tu non tornassi mai più. La gente diceva davvero che avevi intenzione di lasciare quel posto per sempre a Michaelmas; ma spero comunque che non sia vero. Molte cose sono cambiate nel quartiere da quando te ne sei andato. Miss Lucas si è sposata e ha trovato una sistemazione stabile; anche una delle mie figlie. Immagino tu ne abbia sentito parlare; di certo l’hai letto sui giornali. Era pubblicato sul ‘Times’ e sul ‘Courier’, credo; anche se non in modo appropriato. C’era scritto solo: ‘Di recente, George Wickham, Esq., ha sposato Miss Lydia Bennet, ’, senza menzionare nemmeno il nome di suo padre o il luogo dove viveva. È stato mio fratello Gardiner a redigere quel comunicato. Non capisco proprio come abbia potuto fare una cosa del genere in modo così goffo. L’hai letto?”
-
-Bingley rispose di sì e gli fece i suoi complimenti. Elizabeth non osava alzare lo sguardo; quindi non riusciva a vedere come stesse Mr. Darcy.
-
-“È certamente una cosa deliziosa, avere una figlia ben sposata,” continuò sua madre; “ma allo stesso tempo, signor Bingley, è molto difficile doverla lasciare andare via da me. Sono partiti per Newcastle, una località piuttosto lontana a nord, e lì rimarranno, chissà per quanto tempo. Il suo reggimento si trova lì; immagino che abbiate sentito parlare del suo trasferimento dal ----shire e del suo arruolamento nelle truppe regolari. Grazie al cielo! Ha comunque _alcuni_ amici, anche se forse non così tanti quanto meriterebbe.”
-
-Elizabeth, che sapeva che queste parole erano rivolte a Mr. Darcy, provava un tale imbarazzo da non riuscire quasi a rimanere seduta. Tuttavia, questo la spinse a parlare, come nulla altro aveva mai fatto prima; chiese quindi a Bingley se avesse intenzione di trattenersi in campagna per il momento. Lui rispose che credeva di sì, per alcune settimane.
-
-“Quando avrete ucciso tutte le vostre [[motifs/birds|uccelline]], signor Bingley,” disse sua madre, “vi prego di venire qui e sparare quante ne volete nella tenuta del signor Bennet. Sono sicura che sarà molto felice di accontentarvi e vi riserverà le migliori delle stormate.”
-
-La sofferenza di Elizabeth aumentava di fronte a un’attenzione così inutile e invadente! Se ora si presentasse la stessa opportunità che li aveva lusingati un anno prima, tutto, ne era convinta, sarebbe finito nello stesso risultato frustrante. In quel momento sentì che nemmeno anni di felicità avrebbero potuto compensare momenti così dolorosi e confusi.
-
-“Il primo desiderio del mio cuore,” si disse, “è non dover mai più stare in compagnia di nessuno dei due. La loro presenza non può portare alcuna gioia che possa compensare una miseria del genere. Lasciate che non li riveda mai più!”
-
-Eppure quella sofferenza, per la quale anni di felicità non riuscirono a offrire alcuna compensazione, ricevette presto un sollievo concreto nel vedere quanto la [[concepts/beauty|bellezza]] di sua sorella riaccesse l’ammirazione del suo ex [[archetypes/lover|amante]]. Quando lui arrivò per la prima volta, parlò poco con lei, ma sembrava dedicarle sempre più attenzione ogni cinque minuti. La trovò ancora più bella di quanto fosse stata l’anno precedente; altrettanto gentile e naturale, anche se non più così loquace. Jane era ansiosa che non si notasse alcuna differenza in lei e credeva davvero di parlare come al solito; ma la sua mente era così assorbita da cose diverse che a volte nemmeno si rendeva conto di quando taceva.
-
-Quando i signori si alzarono per andarsene, la signora Bennet, desiderosa di mostrare la sua cortesia, li invitò ad andare a cena a Longbourn tra pochi giorni.
-
-“Siete davvero in debito con me per questa visita, signor Bingley,” aggiunse lei; “poiché l’ultima [[motifs/winter|inverno]] che siete andato in città, mi avevate promesso di venire a cena da noi non appena sareste tornato. Non l’ho dimenticato, capite. E vi assicuro che sono stata molto delusa quando non avete mantenuto la vostra promessa.”
-
-Bingley sembrò un po' sciocco di fronte a questa riflessione e disse qualcosa riguardo alla sua preoccupazione per essere stato trattenuto dai suoi impegni lavorativi. Poi se ne andarono.
-
-La signora Bennet aveva molto desiderio di chiedere loro di restare e pranzare lì quel giorno; ma, sebbene preparasse sempre cibi molto deliziosi, riteneva che non fossero sufficienti meno di due portate per un uomo verso il quale nutriva tali ambizioni, né per soddisfare l’appetito e l’[[concepts/pride|orgoglio]] di qualcuno che guadagnava diecimila sterline all’anno.
-
-
-
-Illustrazione:
-
-“Jane si voltò per caso”
 
 
 
@@ -17505,92 +13184,6 @@ confidante.”
 ]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XLIV.
-
-Illustrazione
-
-Non appena se ne furono andati, Elizabeth uscì per riprendersi; o, in altre parole, per continuare a riflettere senza interruzioni su quelle cose che avrebbero dovuto rattristarla ancora di più. Il comportamento del signor Darcy la aveva sorpresa e infastidita.
-
-“Perché, se è venuto soltanto per rimanere in silenzio, con un’espressione grave e indifferente,” disse lei, “allora perché è venuto affatto?”
-
-Non riusciva in alcun modo a risolverla in modo che le desse piacere.
-
-“Potrebbe ancora essere gentile, ancora piacere a mio zio e mia zia quando è in città; e perché non anche a me? Se mi teme, perché viene qui? Se non si cura più di me, perché tace? Che uomo irritante! Non penserò più a lui.”
-
-La sua risoluzione fu mantenuta involontariamente per un breve [[motifs/time|periodo]] dall'arrivo di sua sorella, la quale le si avvicinò con un sorriso allegro che dimostrava fosse più soddisfatta dei loro ospiti di quanto lo fosse Elizabeth.
-
-“Ora,” disse lei, “che questo primo incontro è finito, mi sento completamente a mio agio. Conosco le mie capacità e non sarò mai più imbarazzata dalla sua presenza. Sono contenta che venga a cena qui martedì: in questo modo sarà evidente a tutti che entrambi ci incontriamo soltanto come conoscenti comuni e indifferenti.”
-
-“Sì, davvero molto indifferente,” disse Elizabeth ridendo. “Oh, Jane… stai attenta.”
-
-“Mia cara Lizzy, non puoi pensare che io sia così debole da trovarmi in pericolo in questo momento.”
-
-“Credo che tu sia in grave pericolo di far sì che lui ti ami ancora di più come prima.”
-
-Non rividero quei signori fino a martedì; intanto, la signora Bennet lasciava che tutti i felici progetti nati dal buon umorismo e dalla gentilezza di Bingley, durante una visita di mezz’ora, prendessero forma nella sua mente.
-
-Martedì si tenne una grande festa a Longbourn; e i due che tutti aspettavano con maggiore ansia, grazie alla loro puntualità da veri sportivi, arrivarono proprio in tempo. Quando entrarono nella sala da pranzo, Elizabeth osservò con attenzione se Bingley avrebbe preso il posto che, in tutte le feste precedenti, era sempre stato occupato dalla sorella di lei. Sua madre, però, preoccupata dalle stesse considerazioni, evitò di invitarlo a sedersi accanto a lei. Appena entrato nella stanza, sembrò esitare; ma Jane, guardandolo casualmente, sorrise. E così fu deciso: si sedette accanto a lei.
-
-Elizabeth, con un senso di trionfo, guardò verso il suo amico. Lui lo sopportava con nobile indifferenza; e lei avrebbe potuto pensare che Bingley avesse ricevuto il permesso di essere felice, se non avesse visto i suoi occhi rivolti anch'essi verso il signor Darcy, con un'espressione di mezzo-sorriso e preoccupazione.
-
-Il suo comportamento verso sua sorella durante i pasti dimostrava un certo rispetto per lei; sebbene più contenuto di prima, questo convinse Elizabeth che, lasciato completamente a se stesso, il benessere sia di Jane che suo sarebbe stato rapidamente garantito. Anche se non osava fidarsi delle conseguenze, le piaceva osservare il suo comportamento: le dava quella vitalità di cui i suoi spiriti avevano bisogno, anche se in quel momento non si sentiva affatto allegra. Il signor Darcy era quasi all’altro capo del tavolo rispetto a lei; sedeva dal lato di sua madre. Elizabeth sapeva quanto una tale situazione potesse risultare sgradevole per entrambi, e quanto rendesse difficile apparire in buoni rapporti l’uno con l’altro. Non era abbastanza vicina da sentire ciò che dicevano, ma poteva notare quanto raramente si parlassero, e quanto il loro modo di comportarsi fosse formale e freddo ogni volta che lo facevano. L’indifferenza di sua madre rendeva ancora più doloroso per Elizabeth rendersi conto di quanto dovessero al signor Darcy. A volte avrebbe dato qualsiasi cosa pur di avere l’onore di dirgli che la sua gentilezza non era affatto ignorata né trascurata da tutta la famiglia.
-
-Sperava che quella serata offrisse l’opportunità di farli incontrare; che l’intera visita non trascorresse senza che potessero scambiare qualcosa di più di semplici saluti formali al suo arrivo. Ansiosa e nervosa, il tempo trascorso in salotto prima dell’arrivo dei signori le sembrò estremamente noioso e fastidioso, al punto da renderla quasi maleducata. Attendeva con impazienza il loro ingresso, convinta che da esso dipendesse tutta la possibilità di divertirsi quella sera.
-
-“Se non viene da me, _allora_”, disse lei, “lo lascerò per sempre.”
-
-I signori arrivarono; e lei pensò che sembrasse proprio il tipo di persona che avrebbe potuto soddisfare le sue speranze. Ma ahimè! Le signore si erano radunate intorno al tavolo, dove Miss Bennet stava preparando il tè e Elizabeth versava il caffè; erano così vicine l’una all’altra che non c’era nemmeno un posto libero accanto a lei. E quando i signori si avvicinarono, una delle ragazze si spostò ancora di più vicino a lei e le sussurrò.
-
-“Gli uomini non verranno a separarci, ne sono decisa. Non vogliamo nessuno di loro, vero?”
-
-Darcy si era allontanato verso un'altra parte della stanza. Lei lo seguiva con lo sguardo, invidiava chiunque parlasse con lui, a malapena riusciva ad avere la pazienza di aiutare qualcuno a preparare il caffè, e poi si arrabbiava con se stessa per essere così sciocca!
-
-“Un uomo che è stato rifiutato una volta! Come potrei mai essere così sciocco da sperare in un ripristino del suo [[motifs/love|amore]]? Esiste forse qualcuno tra i maschi che non protesterebbe contro una debolezza del genere, come una seconda proposta alla stessa donna? Non esiste alcuna umiliazione più odiosa per i loro sentimenti.”
-
-Tuttavia, il fatto che lui stesso tornasse con la tazza di caffè la rinvigorì un po'; e ne approfittò per dire:
-
-“Tua sorella è ancora a Pemberley?”
-
-“Sì; rimarrà lì fino a Natale.”
-
-“E completamente sola? Tutti i suoi amici l’hanno abbandonata?”
-
-“La signora Annesley è con lei; gli altri sono partiti per Scarborough queste tre settimane.”
-
-Non le veniva in mente nulla altro da dire; ma se lui desiderava conversare con lei, probabilmente avrebbe avuto più successo. Tuttavia rimase accanto a lei per alcuni minuti, in [[motifs/silence|silenzio]]; e infine, dopo che la giovane signora sussurrò di nuovo qualcosa all’orecchio di Elizabeth, se ne andò.
-
-Quando le stoviglie da tè furono rimosse e i tavoli da gioco furono sistemati, tutte le signore si [[motifs/rose|alzarono]] in piedi; Elizabeth sperava quindi che lui la raggiungesse presto, ma tutte le sue aspettative andarono deluse quando lo vide diventare vittima dell’avidità di sua madre verso i giocatori a carte. Pochi minuti dopo essersi seduta con il resto del gruppo, perse ogni speranza di divertirsi. Quella sera furono costrette a giocare ai diversi tavoli; lei non aveva altra [[concepts/hope|speranza]] se non che i suoi occhi si rivolgessero spesso verso la sua parte della stanza, il che avrebbe probabilmente fatto sì che anche lui perdesse tanto quanto lei.
-
-La signora Bennet aveva intenzione di far rimanere a cena i due gentiluomini di Netherfield; ma sfortunatamente la loro carrozza fu preparata prima di quella degli altri, e lei non ebbe l’opportunità di trattenerli.
-
-“Bene, ragazze,” disse lei non appena rimasero sole, “che ne pensate di questa giornata? Credo che tutto sia andato davvero molto bene, ve lo assicuro. La cena era preparata con la stessa cura di qualsiasi altra abbia mai visto; il cervo era cotto alla perfezione. E tutti hanno detto che non avevano mai visto una coscia così grassa. La zuppa era cinquanta volte migliore di quella che abbiamo avuto dai Lucas la scorsa settimana; anche il signor Darcy ha ammesso che le pernici erano eccezionalmente ben cotte. Immagino che abbia almeno due o tre cuochi francesi. E, cara Jane, non ti ho mai vista così bella. Anche la signora Long l’ha detto; gliel’ho chiesto io stessa. E sapete cosa ha aggiunto? ‘Ah, signora Bennet. Alla fine la avremo a Netherfield!’ Davvero. Penso che la signora Long sia davvero una brava persona. E le sue nipoti sono ragazze molto perbene, anche se non particolarmente belle. A me piacciono moltissimo.”
-
-Illustrazione:
-
-"#La signora Long e le sue nipoti."
-
-In breve, la signora Bennet era di ottimo umore: aveva osservato abbastanza il comportamento di Bingley verso Jane per essere convinta che alla fine l’avrebbe conquistata; inoltre, le sue aspettative riguardo ai benefici che ciò avrebbe portato alla sua famiglia, nel momento in cui era di ottimo umore, erano così esagerate da farla rimanere delusa quando il giorno dopo lui non si presentò nuovamente per fare la sua proposta.
-
-“È stata una giornata molto piacevole,” disse la signorina Bennet a Elizabeth. “Le persone presenti sembravano davvero ben selezionate, così adatte l’una all’altra. Spero che possiamo incontrarci di nuovo spesso.”
-
-Elizabeth sorrise.
-
-“Lizzy, non devi farlo. Non devi sospettarmi di nulla; mi offende profondamente. Ti assicuro che ora riesco ad apprezzare la sua compagnia: è un giovane gentile e sensato, e non desidero nulla di più da lui. Dalle sue maniere attuali, sono completamente convinta che non abbia mai avuto alcuna intenzione di conquistare il mio affetto. È semplicemente che possiede una grande dolcezza nel parlare e un forte desiderio di compiacere tutti, più di qualsiasi altro uomo.”
-
-“Sei molto crudele,” disse sua sorella, “non mi lasci sorridere eppure in ogni momento mi stai provocando a farlo.”
-
-“In alcuni casi è davvero difficile essere creduti. E in altri ancora più impossibile. Ma perché mai vorresti convincermi che provo qualcosa di più di quanto ammetta apertamente?”
-
-“È una domanda a cui fatico davvero a rispondere. Tutti noi amiamo insegnare, anche se possiamo trasmettere soltanto ciò che non merita di essere conosciuto. Perdonami; e se continuerai ad essere indifferente, non rendermi il tuo confidente.”
-
-
-
-Illustrazione:
-
-"#Lizzy, mia cara, devo parlarti."
-
 
 
 <span class="atom-split" data-atom="chapter_55--part_01" data-title="Pride and Prejudice — Chapter 55 (part 1)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/home,motif/love,motif/rose,motif/silence,motif/time,motif/well,concept/fear,concept/hope,setting/london"></span>
@@ -17722,63 +13315,6 @@ kindness was a fresh source of happiness to Jane. But she would not
 allow herself to stay with her sister, or say half that remained to be
 said, for the present.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO LV.
-
-Illustrazione
-
-Qualche giorno dopo questa visita, il signor Bingley chiamò di nuovo, e questa volta da solo. Il suo amico lo aveva lasciato quella mattina per [[settings/london|Londra]], ma sarebbe tornato a [[motifs/home|casa]] in dieci giorni. Rimase con loro per oltre un’ora, ed era di ottimo umore. La signora Bennet lo invitò a cena con loro; ma, dopo aver espresso molte preoccupazioni, lui confessò di essere già impegnato altrove.
-
-“La prossima volta che chiamerai,” disse lei, “spero che abbiamo più fortuna.”
-
-Dovrebbe essere particolarmente felice in qualsiasi momento, ecc., ecc.; e se lei gli desse il permesso, approfitterebbe subito dell’occasione per servirli.
-
-“Puoi venire domani?”
-
-Sì, non aveva alcun impegno per il giorno dopo; quindi accettò con entusiasmo la sua invito.
-
-Arrivò, e in un momento così propizio che nessuna delle signore era ancora vestita. La signora Bennet corse nella stanza delle sue figlie, in camicia da notte e con i capelli a metà acconciati, gridando.
-
-“Mia cara Jane, sbrigati e scendi subito. È arrivato. Il signor Bingley è qui, davvero. Sbrigati! Ehi, Sarah, vieni immediatamente da miss Bennet e aiutala a indossare l’abito. Non preoccuparti per i capelli di miss Lizzy.”
-
-“Scenderemo non appena possibile,” disse Jane; “ma credo che Kitty sia più veloce di noi due, perché è salita al piano di sopra mezz’ora fa.”
-
-“Oh! Mio Dio, che c’entra lei in tutto questo? Dai, sbrigati, sbrigati! Dove è la tua cintura, cara?”
-
-Ma quando sua madre non c'era, Jane rifiutava di scendere senza che una delle sue sorelle l'accompagnasse.
-
-Quella stessa ansia di far sì che si arrangiassero da soli fu nuovamente visibile quella sera. Dopo il tè, il signor Bennet andò in biblioteca, come era sua abitudine, e Mary salì al piano di sopra per suonare il suo strumento. Due degli ostacoli presenti erano così stati superati; la signora Bennet rimase seduta a fissare Elizabeth e Catherine per un bel po’, senza riuscire a influenzarle in alcun modo. Elizabeth non le prestava attenzione; e quando finalmente Kitty se ne accorse, disse molto innocentemente: “Che c’è, mamma? Perché continui a fare l’occhiolino verso di me? Cosa dovrei fare?”
-
-“Niente, [[archetypes/child|bambino]], niente. Non ti ho fatto l’occhiolino.” Poi rimase seduta immobile per altri cinque minuti; ma non potendo sprecare un’occasione così preziosa, si alzò improvvisamente e disse a Kitty:
-
-“Vieni qui, mio [[motifs/love|amore]], devo parlarti,” disse, portandola fuori dalla stanza.  
-Jane lanciò immediatamente uno sguardo verso Elizabeth, che esprimeva il suo dolore di fronte a una tale premeditazione e la sua supplica affinché lei non cedesse. Dopo pochi minuti, la signora Bennet aprì leggermente la porta e chiamò.
-
-“Lizzy, mia cara, voglio parlarti.”
-
-Elizabeth fu costretta ad andarsene.
-
-“Potremmo benissimo lasciarli da soli, sai,” disse sua madre non appena arrivò nell’ingresso. “Io e Kitty andiamo di sopra, nel mio bagno.”
-
-Elizabeth non cercò nemmeno di ragionare con sua madre, ma rimase tranquillamente nell’atrio finché lei e Kitty non furono fuori vista, poi tornò nel salotto.
-
-I piani di Mrs. Bennet per quel giorno risultarono inefficaci. Bingley era tutto ciò che si potesse desiderare in un compagno: affabile, gentile, allegro, tranne che non fosse il presunto [[archetypes/lover|innamorato]] di sua figlia. La sua disinvoltura e la sua gioia rendevano lui l’ospite ideale per la loro serata; inoltre, sopportava con pazienza l’insopportabile insistenza della madre e ascoltava tutte le sue osservazioni sciocche con un atteggiamento così composto che fu particolarmente apprezzato dalla figlia.
-
-Aveva quasi bisogno di un invito per restare a cena; e prima che se ne andasse, fu organizzato un appuntamento: grazie soprattutto ai suoi sforzi e a quelli della signora Bennet, avrebbe dovuto tornare il giorno dopo mattina per sparare insieme al marito di lei.
-
-Dopo quel giorno, Jane non parlò più della sua indifferenza. Non una parola fu scambiata tra le sorelle riguardo a Bingley; ma Elizabeth andò a letto con la felice convinzione che tutto si sarebbe risolto rapidamente, a meno che il signor Darcy non tornasse entro il termine stabilito. Tuttavia, in cuor suo, era abbastanza convinta che tutto ciò fosse avvenuto con il consenso di quel gentiluomo.
-
-Bingley arrivò puntuale all’appuntamento; trascorsero la mattina insieme, come previsto. Il signor Bennet si rivelò molto più piacevole di quanto il suo compagno si aspettasse: in Bingley non c’era nulla di presuntuoso o sciocco che potesse suscitare il suo disprezzo o spingerlo al [[motifs/silence|silenzio]]; anzi, era più loquace e meno eccentrico di quanto l’altro lo avesse mai visto. Naturalmente Bingley tornò con lui a cena; quella sera, la signora Bennet ricorse nuovamente alle sue strategie per allontanare tutti da lui e sua figlia. Elizabeth, che aveva una lettera da scrivere, andò nella sala da pranzo subito dopo il tè: poiché gli altri stavano per sedersi a giocare a carte, non era necessario che lei intervenisse per contrastare i piani di sua madre.
-
-Ma tornando nel salotto, quando ebbe finito di scrivere la lettera, vide, con sua infinita sorpresa, che c’erano motivi per  temere che sua madre fosse stata troppo astuta per lei. Aprire la porta le rivelò che sua sorella e Bingley stavano insieme vicino al camino, come se stessero conversando seriamente; e se questo non avesse suscitato alcun sospetto, i loro volti, mentre si giravano rapidamente l’uno dall’altro, avrebbero già detto tutto. La situazione di loro due era abbastanza imbarazzante; ma la sua, pensò, era ancora peggiore. Nessuno dei due pronunciò una parola; ed Elizabeth stava per andarsene di nuovo, quando Bingley, che come l’altra si era seduto, improvvisamente si alzò e, dopo aver sussurrato qualcosa a sua sorella, uscì dalla stanza.
-
-Jane non poteva provare alcuna riserva verso Elizabeth, con la quale la fiducia portava gioia; e, abbracciandola immediatamente, esprime con la massima emozione che lei fosse l’essere più felice del mondo.
-
-“È troppo!” aggiunse, “molto troppo. Non me lo merito. Oh, perché non tutti sono così felici?”
-
-I complimenti di Elizabeth furono espressi con sincerità, calore e gioia; parole difficili da usare per descriverli appieno. Ogni frase gentile rappresentava una nuova fonte di felicità per Jane. Tuttavia, per il momento, lei non voleva trattenersi con sua sorella, né dire nemmeno metà di ciò che ancora avrebbe voluto dirle.
 
 
 
@@ -17937,74 +13473,6 @@ they had been generally proved to be marked out for misfortune.
 [Illustration]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Devo andare subito da mia madre,” gridò. “Non permetterei mai che la sua affettuosa premura venisse trascurata, né che lei lo venisse a sapere da nessun altro se non da me. Lui è già andato da mio padre. Oh, Lizzy, pensare che ciò che devo raccontare porterà tanta gioia a tutta la mia cara famiglia! Come posso sopportare una tale felicità?”
-
-Poi si affrettò a raggiungere sua madre, che aveva intenzionalmente interrotto la festa a carte e stava seduta al piano di sopra con Kitty.
-
-Elizabeth, rimasta sola, sorrise ora alla velocità e alla facilità con cui quella questione era finalmente stata risolta, dopo mesi interi di incertezza e preoccupazione.
-
-“E questo,” disse lei, “è la fine di tutte le ansiose precauzioni del suo amico, di tutte le menzogne e i stratagemmi di sua sorella. La fine più felice, più saggia e più ragionevole!”
-
-In pochi minuti fu raggiunta da Bingley; la sua conversazione con suo padre era stata breve ma efficace.
-
-“Dove è tua sorella?” chiese lui in fretta, aprendo la porta.
-
-“Mia madre è di sopra… Scenderà tra un attimo, credo.”
-
-Poi chiuse la porta e, avvicinandosi a lei, esprimeva i migliori auguri e l'affetto di un fratello. Elizabeth, con sincerità e calore, manifestò la sua gioia all’idea di questo rapporto tra loro. Si strinsero la mano con grande cordialità; e poi, fino al ritorno di sua sorella, dovette ascoltare tutto ciò che lui aveva da dire sulla propria felicità e sulle perfezioni di Jane. E nonostante fosse un [[archetypes/lover|innamorato]], Elizabeth credeva davvero che tutte le sue aspettative di felicità avessero una base razionale, poiché erano fondate sull’eccellente intesa e sulla straordinaria natura di Jane, nonché su una notevole somiglianza di sentimenti e gusti tra loro.
-
-Era una serata di gioia insolita per tutti loro; la soddisfazione nel cuore della signorina Bennet le donava un’espressione così radiosa e felice che la rendeva ancora più bella del solito. Kitty sorrideva compiaciuta, sperando che presto fosse il suo turno di essere felice a sua volta. La signora Bennet non riusciva a esprimere il proprio consenso o la propria approvazione in termini abbastanza calorosi da soddisfare i sentimenti della figlia, anche se per mezz’ora parlò solo di Bingley; e quando il signor Bennet si unì a loro a cena, la sua voce e il suo comportamento dimostravano chiaramente quanto fosse davvero felice.
-
-Nessuna parola, tuttavia, uscì dalle sue labbra al riguardo, finché il loro visitatore non se ne andò per la [[motifs/night|notte]]; ma non appena fu via, si rivolse a sua figlia e disse:–
-
-“Jane, ti congratulo… Sarai una donna molto felice.”
-
-Jane andò subito da lui, lo baciò e gli ringraziò per la sua gentilezza.
-
-“Sei una brava ragazza,” rispose lui, “e sono molto felice all’idea che tu possa sistemarti così felicemente. Non ho alcun [[concepts/doubt|dubbio]] che voi due vi andiate molto bene insieme. I vostri caratteri non sono affatto diversi; siete entrambe così accomodanti che nulla verrà mai deciso con certezza; siete così generose da spendere sempre più di quanto guadagnate.”
-
-“Spero di no. L'imprudenza o la leggerezza nelle questioni finanziarie sarebbero imperdonabili da parte mia.”
-
-“Superare i loro introiti. Mio caro signor Bennet,” esclamò sua moglie, “di cosa sta parlando? Dopotutto, guadagna quattro o cinque migliaia all’anno, e molto probabilmente di più.” Poi, rivolgendosi a sua figlia: “Oh, mia cara Jane. Sono così felice! Sicuramente non riuscirò a dormire nemmeno un attimo stanotte. Lo sapevo già. Dicevo sempre che sarebbe andata proprio così. Ero certa che una bellezza come la tua non potesse rimanere senza ricompensa! Ricordo: appena l’ho visto, quando è arrivato per la prima volta in Hertfordshire lo scorso anno, ho pensato quanto fosse probabile che voi due vi innamoraste. Oh, è il giovane più attraente che si sia mai visto!”
-
-Wickham, Lydia, tutti dimenticati. Jane era senza rivali: il suo [[archetypes/child|bambino]] preferito. In quel momento non le importava di nessun altro. Le sue sorelle minori iniziarono presto a cercare il suo favore, offrendole cose che forse un giorno avrebbe potuto donare loro.
-
-Mary chiese il permesso di utilizzare la biblioteca di Netherfield; e Kitty pregò con insistenza affinché ogni [[motifs/winter|inverno]] potessero organizzarsi lì alcuni balli.
-
-Da quel [[motifs/time|momento]] in poi, Bingley divenne certo un visitatore quotidiano a Longbourn: arrivava spesso prima di colazione e rimaneva sempre fino a dopo cena, tranne quando qualche vicino odioso gli inviava un invito a cena, che lui riteneva suo dovere accettare.
-
-A quel punto, a Elizabeth rimaneva ben poco [[motifs/time|tempo]] per chiacchierare con sua sorella; infatti, quando lui era presente, Jane non prestava attenzione a nessun altro. Tuttavia, in quelle ore di separazione che talvolta erano inevitabili, Elizabeth si rendeva molto utile per entrambe. Quando Jane non c’era, lui si rivolgeva sempre a Elizabeth per parlare di lei; e quando Bingley se ne andava, Jane cercava costantemente lo stesso modo per alleviare la sua solitudine.
-
-“Mi ha resa così felice,” disse una sera, “dicendomi che non sapeva affatto che fossi in città lo scorso [[motifs/spring|primavera]]. Non avrei mai creduto fosse possibile.”
-
-“Lo sospettavo anch’io,” rispose Elizabeth. “Ma come ha spiegato quella cosa?”
-
-“Deve essere stata colpa delle sue sorelle. Di certo non erano affatto favorevoli al suo rapporto con me, il che non mi sorprende affatto, visto che avrebbe potuto scegliere molto meglio in molti aspetti. Ma quando vedranno, come spero accadrà, che loro fratello è felice con me, impareranno ad accontentarsi e torneremo a essere in buoni rapporti, anche se non potremo mai più essere ciò che eravamo un tempo l’uno per l’altro.”
-
-“È il discorso più spietato che abbia mai sentito pronunciare da te,” disse Elizabeth. “Brava ragazza! Mi addolorerebbe davvero se ti vedessi di nuovo diventare vittima delle false attenzioni della signorina Bingley.”
-
-“Credi davvero, Lizzy, che quando è andato in città lo scorso novembre mi amasse davvero, e solo la convinzione che io fossi indifferente avrebbe potuto impedirgli di tornare da me?”
-
-“Ha commesso un piccolo errore, senza dubbio; ma questo dimostra la sua umiltà.”
-
-Ciò portò naturalmente a un elogio da parte di Jane riguardo alla sua insicurezza e al poco valore che attribuiva alle proprie qualità positive.
-
-Elizabeth fu sollevata nel scoprire che lui non aveva tradito l’interferenza di suo amico; perché, sebbene Jane avesse il cuore più generoso e perdonevole del mondo, sapeva che quella situazione avrebbe sicuramente influenzato negativamente la sua opinione su di lui.
-
-“Sono sicuramente la creatura più fortunata che sia mai esistita!” gridò Jane. “Oh, Lizzy, perché sono io quella prescelta dalla mia famiglia, e benedetta più di tutte loro? Se solo potessi vederti felice. Se solo ci fosse un altro uomo per te, ”
-
-“Se mi dessero quaranta uomini del genere, non potrei mai essere così felice come te. Finché non avrò il tuo carattere, la tua bontà, non potrò mai raggiungere la tua felicità. No, lasciami provare da solo; forse, se ho molta fortuna, potrò incontrare un altro signor Collins nel [[motifs/time|futuro]].”
-
-La situazione familiare nella casa dei Longbourn non poteva rimanere segreta a lungo. La signora Bennet ebbe l’opportunità di parlarne sottovoce con la signora Philips, e senza alcuna autorizzazione osò farlo anche con tutte le sue vicine a Meryton.
-
-I Bennet furono rapidamente considerati la famiglia più fortunata del mondo; sebbene solo poche settimane prima, quando Lydia era fuggita per la prima volta, si fosse generalmente ritenuto che fossero destinati alla sfortuna.
-
-
-
-Illustrazione
-
 
 
 <span class="atom-split" data-atom="chapter_56--part_01" data-title="Pride and Prejudice — Chapter 56 (part 1)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="motif/journey,motif/nature,motif/night,motif/silence,motif/summer,motif/well,motif/window,concept/conscience,concept/honour,concept/hope,concept/nature,concept/truth,concept/wonder,character/elizabeth_bennet,character/lady_catherine_de_bourgh"></span>
@@ -18150,79 +13618,6 @@ industriously circulated by yourselves? Do you not know that such a
 report is spread abroad?”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO LVI.
-
-Illustrazione
-
-Una mattina, circa una settimana dopo che il fidanzamento di Bingley con Jane era stato annunciato, mentre lui e le donne della famiglia sedevano insieme in sala da pranzo, l’attenzione di tutti fu improvvisamente attirata verso la [[motifs/window|finestra]] dal rumore di una carrozza; videro quindi una chaise a quattro cavalli avvicinarsi al vialetto. Era troppo presto nella giornata per visite; inoltre, l’equipaggio non corrispondeva a quello di nessuno dei loro vicini. I cavalli erano bardati con finimenti da viaggio; né la carrozza né il personale che la precedeva sembravano familiari a loro. Tuttavia, poiché era certo che qualcuno stesse arrivando, Bingley convinse immediatamente Miss Bennet ad allontanarsi per evitare di essere disturbati da quella visita inaspettata, e insieme si recarono nel giardino. Gli altri tre continuarono a fare congetture, senza però riuscire a capire chi potesse essere il visitatore. Fino a quando la porta non si aprì e Lady Catherine de Bourgh entrò nella stanza.
-
-Certo, tutti avevano intenzione di rimanere sorpresi; ma la loro meraviglia superò ogni aspettativa. Per quanto riguarda la signora Bennet e Kitty, anche se lei era del tutto sconosciuta a loro, il loro stupore fu ancora maggiore di quello provato da Elizabeth.
-
-Entrò nella stanza con un atteggiamento più scortese del solito; non rispose in alcun modo al saluto di Elizabeth, limitandosi a un lieve cenno della testa, e si sedette senza dire una parola. Elizabeth aveva menzionato il suo nome alla madre all’arrivo della signora, anche se nessuno aveva chiesto di farla conoscere.
-
-La signora Bennet, sorpresa e al contempo lusingata dall’aver un ospite di tale rilievo, lo accolse con la massima cortesia. Dopo essere rimasta seduta in [[motifs/silence|silenzio]] per un momento, disse a Elizabeth in tono molto formale:
-
-“Spero che stiate bene, signorina Bennet. Quella signora, immagino, sia vostra madre, ”
-
-Elizabeth rispose in modo molto conciso che lo era.
-
-“E quella, immagino, sia una delle tue sorelle…”
-
-“Sì, signora,” disse la signora Bennet, felice di poter parlare con la lady Catherine.  
-“È la mia figlia minore. Anzi, l’ultima delle mie figlie: la più giovane si è sposata di recente, mentre la maggiore è da qualche parte, a passeggiare con un giovane che, credo, presto diventerà parte della famiglia.”
-
-“Avete un parco molto piccolo qui,” rispose Lady Catherine, dopo un breve [[motifs/silence|silenzio]].
-
-“Non è niente in confronto a Rosings, mia signora, oserei dire; ma vi assicuro che è molto più grande di quella di Sir William Lucas.”
-
-“Deve essere una sala da pranzo molto scomoda per le serate d’[[motifs/summer|estate]]: le finestre danno esclusivamente a ovest.”
-
-“La signora Bennet le assicurò che non si sedevano mai lì dopo cena; e poi aggiunse…”
-
-“Posso osare chiedere a Vostra Signoria se avete lasciato il signor e la signora Collins in buone condizioni?”
-
-“Sì, molto bene. Li ho visti la[[motifs/night|notte]] scorsa.”
-
-Ora Elizabeth si aspettava che Charlotte le inviasse una lettera, poiché sembrava essere l’unico motivo plausibile per quella chiamata. Ma nessuna lettera arrivò, e lei rimase completamente perplessa.
-
-La signora Bennet, con grande cortesia, pregò la sua signoria di accettare qualche rinfrescante; ma lady Catherine, in modo molto deciso e non troppo educato, rifiutò di mangiare qualsiasi cosa; poi, alzandosi in piedi, disse a Elizabeth:
-
-“Signorina Bennet, sembrava esserci una sorta di piccolo boschetto dall’altra parte del vostro prato. Mi piacerebbe molto passeggiarci, se mi concedeste la vostra compagnia.”
-
-“Vai, caro mio,” gridò sua madre, “e fai fare al signorina i vari giri del parco. Penso che le piacerà molto l’eremo.”
-
-Elizabeth obbedì; corse nella sua stanza a prendere l’ombrello e poi scese al piano di sotto per accogliere il suo nobile ospite. Mentre attraversavano il corridoio, Lady Catherine aprì le porte del salone da pranzo e del salotto, e, dopo averli esaminati brevemente, dichiarò che erano stanze piuttosto decenti, quindi proseguì il suo cammino.
-
-La sua carrozza rimase davanti alla porta, e Elizabeth vide che la sua dama di compagnia era al suo interno. Proseguirono in [[motifs/silence|silenzio]] lungo il sentiero di ghiaia che conduceva al boschetto; Elizabeth era decisa a non fare alcuno sforzo per intrattenersi con una donna che, in quel momento, era più insolente e sgradevole del solito.
-
-Illustrazione:
-
-“Dopo un breve esame…”
-
-Copyright 1894 di George Allen.
-
-“Come avrei mai potuto pensare a lei come a suo nipote?” disse, guardandola negli occhi.
-
-Non appena entrarono nel boschetto, Lady Catherine iniziò a dire quanto segue:–
-
-“Non avrete difficoltà a comprendere il motivo della mia [[motifs/journey|viaggio]] qui, signorina Bennet. Il vostro stesso cuore, la vostra stessa [[concepts/conscience|coscienza]] vi diranno perché sono venuto.”
-
-Elizabeth guardò con un autentico stupore.
-
-“Infatti, si sbaglia, signora; non sono affatto riuscito a spiegare come abbia avuto l’onore di vedervi qui.”
-
-“Miss Bennet,” rispose la sua Signoria con tono irritato, “dovreste sapere che non tollero scherzi o comportamenti irrispettosi. Ma per quanto voi possiate scegliere di essere insincera, io non lo sarò mai. Il mio carattere è sempre stato noto per la sua sincerità e franchezza; e in una questione così importante come questa, certamente non mi allontanerò da queste principi. Due giorni fa sono arrivata a me una notizia di estrema gravità. Mi è stato detto che non solo vostra sorella era sul punto di contrarre un matrimonio molto vantaggioso, ma anche che _voi_, che Miss Elizabeth Bennet, con ogni probabilità, sareste presto unita a mio nipote, mio stesso nipote, il signor Darcy. Anche se so che si tratta di una falsità scandalosa, anche se non vorrei mai ferirlo pensando che possa essere vera, ho deciso immediatamente di venire qui per farvi conoscere i miei sentimenti.”
-
-“Se pensavate che fosse impossibile che fosse vero,” disse Elizabeth, arrossendo per lo stupore e il disprezzo, “mi chiedo perché vi siate presi la briga di venire fin qui. Cosa potrebbe voler suggerire Vostra Signoria con questo?”
-
-“Insistere immediatamente affinché un tale rapporto venga universalmente confutato.”
-
-“Il tuo arrivo a Longbourn, per vedermi e la mia famiglia,” disse Elizabeth con freddezza, “sarà piuttosto una conferma di ciò, se davvero esiste un tale pettegolezzo.”
-
-“Dunque vi fate passare per ignoranti al riguardo? Non è forse stato voi stessi a diffonderlo con grande impegno? Non sapete che una tale notizia si sta diffondendo in tutto il mondo?”
-
 
 
 <span class="atom-split" data-atom="chapter_56--part_02" data-title="Pride and Prejudice — Chapter 56 (part 2)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="motif/marriage,motif/silence,motif/spring,motif/well,concept/honour,concept/union"></span>
@@ -18360,68 +13755,6 @@ mine. I must beg, therefore, to be importuned no further on the
 subject.”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Non l’avevo mai sentito dire.”
-
-“E potete altresì affermare che non esista alcuna _base_ su cui fondarlo?”
-
-“Non pretendo di avere la stessa schiettezza della vostra Signoria. Potete porre domande alle quali io potrei decidere di non rispondere.”
-
-“Questo non può essere tollerato. Signorina Bennet, insisto nel sapere la verità. Vi ha fatto mio nipote una proposta di [[motifs/marriage|matrimonio]]?”
-
-“Vostra Signoria ha dichiarato che è impossibile.”
-
-“Dovrebbe essere così; deve essere così, finché conserva la capacità di ragionare. Ma le tue arti e i tuoi incantesimi potrebbero, in un momento di follia, averlo fatto dimenticare ciò che deve a se stesso e a tutta la sua famiglia. Potresti averlo attirato a te.”
-
-“Se l’ho fatto, sarò sicuramente l’ultima persona ad ammetterlo.”
-
-“Signorina Bennet, sa chi sono? Non sono abituata a un linguaggio del genere. Sono quasi la parente più stretta che abbia al mondo, e ho il diritto di conoscere tutte le sue questioni più importanti.”
-
-“Ma non hai il diritto di sapere i miei segreti; inoltre, un comportamento del genere non mi spingerà mai a diventare esplicito.”
-
-“Lasciate che vi spieghi chiaramente. Questo incontro, a cui avete la presunzione di aspirare, non potrà mai avere luogo. No, assolutamente no. Il signor Darcy è fidanzato con _mia figlia_. Ora, cosa avete da dire?”
-
-“Solo questo: se è davvero così, non c’è motivo di pensare che possa fare un’offerta a me.”
-
-“Lady Catherine esitò per un momento, poi rispose…”
-
-“La loro promessa di matrimonio è di un tipo particolare. Fin da quando erano bambini, erano destinati l’uno all’altra. Era il desiderio più grande sia della madre sua che di quella di lei. Già nella culla pianificavamo la loro [[concepts/union|unione]]; e ora, proprio nel momento in cui i desideri di entrambe le sorelle stanno per realizzarsi, il loro [[motifs/marriage|matrimonio]] deve essere ostacolato da una giovane donna di condizione inferiore, senza alcuna importanza nel mondo e del tutto estranea alla famiglia? Non tenete conto dei desideri dei suoi amici, né della sua promessa tacita con la signorina de Bourgh? Siete completamente privi di ogni senso di decoro e delicatezza? Non avete forse sentito dire che, fin dalle sue prime ore di vita, era destinato a sposare sua cugina?”
-
-“Sì; l’avevo già sentito prima. Ma che importanza ha per me? Se non ci sono altre obiezioni al mio matrimonio con vostro nipote, di certo non mi verrà impedito solo perché la madre e la zia di lui desideravano che sposasse Miss de Bourgh. Voi due avete fatto del vostro meglio per organizzare questo [[motifs/marriage|matrimonio]]; ma il suo compimento dipendeva da altri. Se il signor Darcy non è legato a sua cugina né per onore né per inclinazione, perché non dovrebbe fare un’altra scelta? E se io sono quella scelta, perché non dovrei accettarlo?”
-
-“Perché l’[[concepts/honour|'onore]], il decoro, la prudenza, anzi, anche l’interesse stesso lo vietano. Sì, signorina Bennet, l’interesse: non aspettatevi infatti di essere notate dalla sua famiglia o dai suoi amici se agite deliberatamente contro le loro volontà. Verrete criticata, disprezzata e ignorata da tutti coloro che hanno a che fare con lui. Il vostro matrimonio sarà una vergogna; il vostro nome non verrà mai nemmeno menzionato da nessuno di noi.”
-
-“Sono davvero grandi sfortune,” rispose Elizabeth. “Ma la moglie del signor Darcy deve sicuramente disporre di fonti straordinarie di felicità legate alla sua situazione, al punto da non avere motivo, nel complesso, di lamentarsi.”
-
-“Ragazza ostinata e capricciosa! Mi vergogno di te! È questa la tua gratitudine per le attenzioni che ti ho riservato lo scorso [[motifs/spring|primavera]]? Non mi devi nulla in quel senso? Siediamoci. Devi capire, signorina Bennet, che sono venuto qui con la ferma determinazione di portare a termine il mio scopo; e nessuno riuscirà a dissuadermi. Non sono abituato ad accettare i capricci di nessuno, né a sopportare delusioni.”
-
-“Quello renderà la situazione attuale di Vostra Signoria ancora più tragica; ma non avrà alcun effetto su di me.”
-
-“Non voglio essere interrotta! Ascoltatemi in [[motifs/silence|silenzio]]. Mia figlia e mio nipote sono fatti l’uno per l’altra. Sulla linea materna discendono dalla stessa nobile famiglia; su quella paterna, da famiglie rispettabili, onorevoli e antiche, anche se senza titoli nobiliari. La loro fortuna è considerevole da entrambe le parti. Sono destinati l’uno all’altra, secondo il parere di tutti i membri delle loro rispettive famiglie. E cosa potrebbe separarli? Le pretese arroganti di una giovane donna senza famiglia, connessioni né fortuna! Si può tollerare una cosa del genere? Ma non deve essere così, e non lo sarà! Se vi rendeste conto del vostro stesso bene, non vorreste certo abbandonare l’ambiente in cui siete cresciuti.”
-
-“Sposando vostro nipote, non dovrei considerarmi uscita da quella sfera sociale. Lui è un gentiluomo; io sono la figlia di un gentiluomo; per ora siamo uguali.”
-
-“Vero. Sei davvero la figlia di un gentiluomo. Ma chi era tua madre? Chi sono i tuoi zii e zie? Non pensare che io non sappia nulla della loro condizione.”
-
-“Qualunque siano le mie connessioni,” disse Elizabeth, “se tuo nipote non le disapprova, per te non possono significare nulla.”
-
-"Dimmi una volta per tutte: sei fidanzata con lui?"
-
-Anche se Elizabeth non avrebbe voluto rispondere a questa domanda solo per compiacere Lady Catherine, dopo un attimo di riflessione, non poté fare a meno di dire.
-
-"#Non lo sono."
-
-Sembra che Lady Catherine fosse soddisfatta.
-
-“E mi prometterai mai di non impegnarti in un simile rapporto?”
-
-“Non farò alcuna promessa di quel tipo.”
-
-“Signorina Bennet, sono scioccato e sorpreso. Mi aspettavo di incontrare una giovane donna più ragionevole. Ma non illudetevi che io possa mai arrendermi. Non me ne andrò finché non avrete dato mi la garanzia di cui ho bisogno.”
-
-“E certamente _mai_ lo darò. Non permetterò che mi intimidiscano fino al punto di accettare qualcosa di così assolutamente irragionevole. Vostra Signoria vuole che il signor Darcy sposi vostra figlia; ma il fatto che io vi dia la promessa desiderata renderebbe forse più probabile il loro [[motifs/marriage|matrimonio]]? Supponendo che lui sia interessato a me, il mio rifiuto di accettare la sua proposta lo spingerebbe forse a offrirla alla sua cugina? Permettetemi di dirlo, Lady Catherine: gli argomenti con cui avete sostenuto questa richiesta straordinaria sono stati altrettanto frivoli quanto essa stessa era mal ponderata. Avete completamente frainteso il mio carattere, se pensate che possa essere influenzato da simili persuasioni. Non so fino a che punto vostro nipote possa approvare la vostra interferenza nelle sue faccende; ma voi certamente non avete alcun diritto di occuparvi delle mie. Pertanto, vi prego di smettere immediatamente di insistere sull’argomento.”
-
 
 
 <span class="atom-split" data-atom="chapter_56--part_03" data-title="Pride and Prejudice — Chapter 56 (part 3)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="motif/marriage,motif/road,motif/rose,motif/well,concept/ambition,concept/honour"></span>
@@ -18503,48 +13836,6 @@ acknowledge the substance of their conversation was impossible.
 “But now it comes out”
 ]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-“Per favore, non affrettatevi. Non ho ancora finito. Oltre a tutte le obiezioni che ho già sollevato, ne ho un'altra da aggiungere. Non sono ignaro dei dettagli dell’infame fuga di vostra sorella minore. So tutto: il matrimonio con quel giovane è stato organizzato in modo frettoloso, a scapito di vostro padre e vostro zio. E una ragazza del genere dovrebbe diventare la sorella di mio nipote? Suo marito, che è figlio dell’ex maggiordomo di suo padre, dovrebbe essere considerato suo fratello? Per l’amor del cielo, a cosa state pensando? Le ombre di Pemberley devono davvero essere profanate in questo modo?”
-
-“Ora non puoi più dire nulla,” rispose lei con rancore.  
-“Mi hai offeso in tutti i modi possibili. Devo assolutamente tornare in quella casa.”
-
-E lei arrossì mentre parlava. Anche Lady Catherine arrossì, e poi tornarono indietro. Sua Signoria era estremamente arrabbiata.
-
-“Allora non tieni affatto conto dell’[[concepts/honour|'onore]] e del prestigio di mio nipote!
-Ragazza insensibile e egoista! Non pensi che un legame con te possa disonorarlo agli occhi di tutti?”
-
-“Lady Catherine, non ho nulla altro da dire. Conoscete i miei sentimenti.”
-
-“Quindi sei deciso ad averlo?”
-
-“Non ho mai detto nulla del genere. Sono semplicemente deciso ad agire in quel modo che, a mio parere, porterà alla mia felicità, senza tener conto di te, né di alcuna persona completamente estranea a me.”
-
-“È così. Allora rifiuti di obbligarmi. Rifiuti di seguire i doveri dell’onore e della gratitudine. Sei deciso a rovinare la sua reputazione agli occhi di tutti i suoi amici, a far sì che venga disprezzato dal mondo intero.”
-
-“Né dovere, né [[concepts/honour|onore]], né gratitudine,” rispose Elizabeth, “hanno alcun diritto su di me, in questa circostanza. Nessun principio di questi sarebbe violato dal mio [[motifs/marriage|matrimonio]] con il signor Darcy. E per quanto riguarda l’odio della sua famiglia o lo sdegno del mondo, se quest’ultimo dovesse nascere dal suo matrimonio con me, non mi preoccuperebbe nemmeno per un istante; inoltre, il mondo intero avrebbe abbastanza buon senso da non unirsi a quel disprezzo.”
-
-“E questa è davvero la tua opinione! Questa è la tua decisione finale! Molto bene. Ora so come comportarmi. Non pensare, signorina Bennet, che i tuoi [[concepts/ambition|ambizioni]] verranno mai realizzate. Sono venuta per metterti alla prova. Speravo che fossi ragionevole; ma puoi star certa che otterrò ciò che desidero.”
-
-In questo modo, Lady Catherine continuò a parlare fino a quando non arrivarono alla porta della carrozza; allora, girandosi rapidamente, aggiunse:
-
-“Non mi congedo da voi, signorina Bennet. Non invierò alcun complimento a vostra madre. Non meritate tale attenzione. Sono profondamente scontenta.”
-
-Elizabeth non rispose; e senza tentare di convincere la sua signora a rientrare nella casa, entrò lei stessa silenziosamente. Mentre saliva le scale, sentì il carro allontanarsi. Sua madre l’aspettava impaziente alla porta della sua camera da vestire, chiedendole perché Lady Catherine non volesse rientrare e riposarsi.
-
-“Non l’ha scelto lei”, disse sua figlia; “voleva andare comunque”.
-
-“È una donna molto attraente! E il suo modo di presentarsi qui è stato davvero gentile. Immagino sia venuta soltanto per dirci che i Collins stanno bene. Probabilmente è in viaggio da qualche parte e, passando per Meryton, ha pensato di farvi una visita. Credo non avesse nulla di particolare da dirvi, Lizzy, ”
-
-Elizabeth fu costretta ad ammettere una piccola menzogna: infatti, era impossibile rivelare il contenuto della loro conversazione.
-
-
-
-Illustrazione:
-
-“Ma ora viene fuori…”
 
 
 
@@ -18730,65 +14021,6 @@ his seeing too _little_, she might have fancied too _much_.
 [_Copyright 1894 by George Allen._]]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO LVII.
-
-Illustrazione
-
-Lo scompiglio nello spirito di Elizabeth causato da questa visita inaspettata non poteva essere facilmente superato; per molte ore, inoltre, lei non riusciva a smettere di pensarci. Sembra che Lady Catherine si fosse davvero presa la briga di intraprendere questo [[motifs/journey|Viaggio]] da Rosings con l’unico scopo di interrompere il suo presunto fidanzamento con il signor Darcy. Era senz’altro un piano logico, ma da cosa potesse derivare quella notizia del loro fidanzamento, Elizabeth non riusciva a capirlo; fino a quando non si ricordò che lui era l’amico intimo di Bingley, e lei la sorella di Jane: in un momento in cui l’attesa di un matrimonio faceva sì che tutti desiderassero ardentemente un altro, questo era più che sufficiente per spiegare tutto. Anche lei stessa non aveva dimenticato che il matrimonio di sua sorella avrebbe sicuramente portato a frequenti incontri tra loro. E quindi i suoi vicini di Lucas Lodge, attraverso le loro comunicazioni con i Collins, avevano semplicemente considerato quella notizia quasi certa e imminente, mentre lei l’aveva vista come qualcosa che sarebbe potuto accadere in un futuro lontano.
-
-Tuttavia, osservando le continue espressioni di Lady Catherine, non poteva fare a meno di provare un certo disagio riguardo alle possibili conseguenze della sua insistenza in questa interferenza. Da quanto aveva detto riguardo alla sua determinazione a impedire quel [[motifs/marriage|matrimonio]], a Elizabeth venne in mente l’idea di rivolgersi al suo nipote; ma non osava immaginare come potesse reagire di fronte a un simile discorso sui pericoli legati a una relazione con lei. Non conosceva esattamente il grado dell’affetto che il nipote provava per sua zia, né quanto dipendesse dal suo giudizio; tuttavia era naturale supporre che lui la considerasse molto più importante di quanto lei stessa potesse farlo. E era certo che, nel elencare le miserie di un [[motifs/marriage|matrimonio]] con una persona i cui legami sociali fossero così disuguali ai suoi, sua zia avrebbe colpito il punto debole del nipote. Con le sue concezioni di dignità, probabilmente lui avrebbe ritenuto che gli argomenti, che a Elizabeth sembravano deboli e ridicoli, contenessero invece molto buon senso e ragionamenti solidi.
-
-Se prima fosse stato incerto su cosa fare, il che spesso sembrava probabile, i consigli e le suppliche di una persona così vicina a lui avrebbero potuto dissipare ogni [[concepts/doubt|dubbio]] e fargli decidere immediatamente di essere felice nel modo in cui solo una dignità intatta poteva renderlo. In quel caso, non sarebbe più tornato. Lady Catherine avrebbe potuto incontrarlo mentre attraversava la città; inoltre, il suo impegno con Bingley di tornare a Netherfield avrebbe dovuto essere annullato.
-
-“Quindi,” aggiunse, “se entro pochi giorni al suo amico dovesse venire qualche scusa per non mantenere la sua promessa, saprò come interpretarla. Allora rinuncierò a ogni aspettativa, a ogni desiderio legato alla sua fedeltà. Se si accontenta semplicemente di rimpiangermi, quando avrebbe potuto ottenere il mio affetto e la mia mano, smetterò presto del tutto di rimpiangerlo.”
-
-La sorpresa di tutta la famiglia, quando scoprirono chi fosse il loro visitatore, fu enorme; ma accontentarono gentilmente la loro curiosità con la stessa ipotesi che aveva placato quella della signora Bennet, e così Elizabeth evitò molti scherzi al riguardo.
-
-La mattina seguente, mentre scendeva le scale, la incontrò suo padre, che uscì dalla sua biblioteca con una lettera in mano.
-
-“Lizzy,” disse lui, “stavo per andarti a cercare: vieni nella mia stanza.”
-
-Lo seguì lì; e la sua curiosità di sapere cosa avesse da dirle aumentava ancora di più alla possibilità che ci fosse qualche collegamento tra quelle parole e la lettera che lui teneva in mano. Le venne improvvisamente in mente che potesse essere una lettera dalla Lady Catherine, e con preoccupazione si immaginò tutte le spiegazioni che ne sarebbero derivate.
-
-“La seguì fino al caminetto e si sedettero entrambi. Poi lui disse…”
-
-“Stamattina ho ricevuto una lettera che mi ha profondamente sorpreso. Poiché riguarda principalmente te, dovresti conoscerne il contenuto. Non sapevo che avessi _due_ figlie sull’orlo del matrimonio. Lascia che ti congratuli per questa importante conquista.”
-
-Il colore le salì immediatamente alle guance, nel momento in cui capì con certezza che si trattava di una lettera del nipote, e non dell’zia; non sapeva se essere più felice che avesse deciso comunque di scriverle, o offesa dal fatto che la lettera non fosse indirizzata a lei. Quando suo padre continuò.
-
-“Sembri essere cosciente. Le giovani donne hanno una grande perspicacia in queste cose; ma credo che nemmeno la tua saggezza riuscirebbe a scoprire il nome del tuo ammiratore. Questa lettera è del signor Collins.”
-
-“Da parte del signor Collins… E cosa potrà mai avere da dire?”
-
-“Qualcosa di molto pertinente, naturalmente. Inizia con le congratulazioni per le imminenti nozze di mia figlia maggiore, di cui, a quanto pare, è stato informato da alcuni dei benevoli e pettegoli Lucas. Non intendo soddisfare la tua impazienza leggendo ciò che dice al riguardo. Quello che ti riguarda personalmente è il seguente: ‘Dopo avervi espresso le sincere congratulazioni di Mrs. Collins e mie per questo felice evento, permettetemi ora di aggiungere un breve commento su un altro argomento, di cui siamo stati informati dalla stessa fonte. Si presume che vostra figlia Elizabeth non porterà a lungo il nome Bennet, ora che sua sorella maggiore lo ha abbandonato; e il compagno scelto per la sua vita può essere considerato senza dubbio una delle figure più illustri di questa terra.’ Riesci a indovinare, Lizzy, di chi si tratta?”  
-“Questo giovane signore è dotato, in modo particolare, di tutto ciò che il cuore di un mortale possa desiderare: una vasta fortuna, nobili parenti e un’influenza considerevole. Tuttavia, nonostante tutte queste attrazioni, permettetemi di avvertire mia cugina Elizabeth, e te stessa, dei pericoli che potreste correre accettando troppo in fretta le sue proposte.”  
-“Hai qualche idea, Lizzy, di chi si tratti? Ma ora lo scopriremo. Il motivo della mia preoccupazione è questo: abbiamo ragioni per ritenere che sua zia, [[characters/lady-catherine-de-bourgh|Lady Catherine de Bourgh]], non veda con favore questa unione.”  
-_Mr. Darcy_, ecco dunque l’uomo di cui parlavano! Ora, Lizzy, credo di averti sorpresa davvero. Avrebbero potuto scegliere qualcun altro, all’interno del nostro cerchio di conoscenti, il cui nome avrebbe confutato più efficacemente le loro parole? Mr. Darcy, che non guarda mai una donna senza cercare un difetto, e che probabilmente non ti ha mai nemmeno guardata in vita sua! È davvero straordinario, ”
-
-Elizabeth cercò di unirsi alle battute scherzose di suo padre, ma riuscì a stento a sfoggiare un sorriso molto forzato. Mai prima d’allora il suo spirito arguto era stato utilizzato in modo così poco gradito da lei.
-
-“Non vi distraete affatto?”
-
-“Ah sì… Per favore, continui a leggere.”
-
-“Dopo aver menzionato la possibilità di questo [[motifs/marriage|matrimonio]] alla sua Signoria la scorsa [[motifs/night|notte]], lei immediatamente, con il suo solito tono condiscendente, esprimette ciò che pensava al riguardo; quando divenne evidente che, a causa di alcune obiezioni familiari da parte di mia cugina, lei non avrebbe mai dato il suo consenso a quello che definiva un matrimonio così disonorevole, ritenni mio dovere informarla al più presto, affinché lei e il suo nobile ammiratore fossero consapevoli della situazione e non si precipitassero in un [[motifs/marriage|matrimonio]] che non aveva ricevuto l’approvazione necessaria. Inoltre, il signor Collins aggiunge: ‘Sono davvero lieto che la triste questione di mia cugina Lydia sia stata così bene risolta, e mi preoccupo soltanto del fatto che il loro convivere prima del [[motifs/marriage|matrimonio]] possa diventare di dominio pubblico. Tuttavia, non devo trascurare i doveri della mia posizione, né trattenermi dal manifestare la mia sorpresa nel sapere che avete accolto la giovane coppia nella vostra casa subito dopo il matrimonio. È stato un incoraggiamento al vizio; e se fossi stato il rettore di Longbourn, mi sarei opposto con fermezza. Dovreste certamente perdonarli come cristiani, ma mai più accoglierli sotto il vostro tetto, né permettere che i loro nomi vengano menzionati davanti a voi.’ Ecco quale è la sua idea di [[concepts/forgiveness|perdono]] cristiano. Il resto della lettera riguarda soltanto la situazione della sua cara Charlotte e le sue aspettative riguardo a un possibile “ramo d’olivo”. Ma, Lizzy, sembri davvero infastidita. Non starai mica per comportarti in modo sciocco, fingendo di essere offesa da una semplice voce. Dopotutto, non viviamo forse proprio per divertirci a spese dei nostri vicini e ridere di loro a nostra volta?”
-
-“Oh,” esclamò Elizabeth, “sono davvero molto divertita… Ma è così strano!”
-
-“Sì, è proprio questo che lo rende divertente. Se avessero scelto un altro uomo, non sarebbe stato nulla; ma la sua totale indifferenza e il tuo palese disprezzo lo rendono così deliziosamente assurdo! Per quanto io abbia orrore di scrivere, non rinuncierei mai alla corrispondenza del signor Collins per nessuna ragione. Anzi, quando leggo una sua lettera, non posso fare a meno di preferirlo persino a Wickham, nonostante apprezzi molto l’impudenza e l’ipocrisia di mio genero. E dimmi, Lizzy: cosa ha detto Lady Catherine riguardo a questa notizia? Ha rifiutato di darci il suo consenso?”
-
-A questa domanda sua figlia rispose solo con una risata; e poiché era stata posta senza la minima sospetta, non si sentì turbata dal suo ripetere. Elizabeth non aveva mai avuto tanta difficoltà a far apparire i propri sentimenti diversi da quelli che erano in realtà. Era necessario ridere quando invece avrebbe voluto piangere. Suo padre l’aveva umiliata in modo estremamente crudele con quanto aveva detto sull’indifferenza di Mr. Darcy; e lei non poteva fare altro che [[concepts/wonder|meravigliarsi]] di una tale mancanza di perspicacia, o [[concepts/fear|temere]] che forse, invece di vedere troppo poco, avesse immaginato troppo.
-
-
-
-Illustrazione:
-
-“Il impegno di sua zia”
-
-Copyright 1894 di George Allen.
-
 
 
 <span class="atom-split" data-atom="chapter_58--part_01" data-title="Pride and Prejudice — Chapter 58 (part 1)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="motif/journey,motif/love,motif/silence,motif/time,motif/well,concept/courage,concept/hope,setting/london,character/maria"></span>
@@ -18904,41 +14136,6 @@ more gentlemanlike manner.’ Those were your words. You know not, you can
 scarcely conceive, how they have tortured me; though it was some [[motifs/time|time]], I
 confess, before I was reasonable enough to allow their justice.”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO LVIII.
-
-Illustrazione
-
-Invece di ricevere alcuna lettera di scuse da parte del suo amico, come Elizabeth si aspettava che Mr. Bingley facesse, questi riuscì ad portare Darcy con sé a Longbourn poco dopo la visita di Lady Catherine. I due gentiluomini arrivarono presto; e prima ancora che la signora Bennet avesse il tempo di dirgli che avevano visto sua zia – di cui sua figlia temeva immediatamente le conseguenze – Bingley, desideroso di essere da solo con Jane, propose loro di uscire tutti insieme. L’idea fu accettata. La signora Bennet non era abituata a fare passeggiate, Mary non aveva mai tempo libero, ma gli altri cinque partirono insieme. Tuttavia, Bingley e Jane presto lasciarono gli altri indietro; rimasero indietro mentre Elizabeth, Kitty e Darcy si intrattenevano a vicenda. Poche parole furono scambiate tra loro: Kitty aveva troppa paura di lui per parlare; Elizabeth stava prendendo una decisione disperata. E forse anche lui faceva lo stesso.
-
-Si diressero verso la casa dei Lucas, perché Kitty voleva andare a trovare [[characters/maria|Maria]]; e poiché Elizabeth non ritenne opportuno renderlo un argomento di discussione per tutti, quando Kitty se ne andò, lei proseguì coraggiosamente da sola con lui. Ora era il momento di mettere in atto la sua decisione; e mentre il suo [[concepts/courage|coraggio]] era alle stelle, disse immediatamente:
-
-“Signor Darcy, sono una creatura molto egoista, e per il solo scopo di alleviare i miei propri sentimenti, non mi curo affatto di quanto possa ferire i vostri. Non posso fare a meno di ringraziarvi per la vostra ineguagliabile gentilezza verso mia povera sorella; da quando ne sono a conoscenza, ho desiderato ardentemente esprimervi la mia profonda gratitudine. Se la mia famiglia lo sapesse, non sarebbe sufficiente che io sola vi ringraziassi.”
-
-“Mi dispiace moltissimo,” rispose Darcy, con tono sorpreso ed emozionato, “che siate mai venuti a conoscenza di cose che, potrebbero essere fraintese, possono avervi causato inquietudine. Non pensavo che la signora Gardiner fosse così poco affidabile.”
-
-“Non dovete incolpare mia zia. È stata la leggerezza di Lydia a farmi capire per prima volta che eravate interessati a questa questione; e naturalmente non ho potuto stare in pace finché non ho conosciuto i dettagli. Lasciate che vi ringrazi ancora e ancora, a nome di tutta la mia famiglia, per quella generosa compassione che vi ha spinto a prendervi tante difficoltà e a sopportare tanti sacrifici, solo per scoprirli.”
-
-“Se vuoi ringraziarmi,” rispose, “faccilo solo per te solo.
-Il desiderio di renderti felice può certamente rafforzare le altre ragioni che mi hanno spinto ad agire, e non cercherò di negarlo. Ma la tua famiglia non mi deve nulla. Per quanto li rispetti, credo di aver pensato soltanto a te.”
-
-Elizabeth era troppo imbarazzata per dire una parola. Dopo una breve pausa, la sua compagna aggiunse: “Sei troppo generosa per prenderti gioco di me. Se i tuoi sentimenti sono ancora quelli di aprile scorso, dimmelo subito. I miei affetti e desideri non sono cambiati; ma una tua parola potrebbe farmi tacere per sempre su questo argomento.”
-
-Elizabeth, provando quella tipica imbarazzo e ansia legate alla sua situazione, si costrinse a parlare; immediatamente, sebbene non molto fluentemente, gli fece capire che i suoi sentimenti erano cambiati radicalmente da quando lui ne aveva fatto menzione, al punto che ora accettava con gratitudine e piacere le sue attuali dichiarazioni. La felicità che questa risposta gli procurò era probabilmente senza precedenti; si esprimette in quell’occasione con sensibilità e calore, come ci si può aspettare da un uomo profondamente [[motifs/love|innamorato]]. Se solo Elizabeth avesse potuto incrociare il suo sguardo, avrebbe visto quanto fosse bello il viso di lui, illuminato dall’espressione di sincera gioia; ma anche se non poteva guardarlo, poteva ascoltarlo. E lui le raccontò dei sentimenti che, dimostrando quanto lei fosse importante per lui, rendevano il suo affetto ancora più prezioso di momento in momento.
-
-Proseguirono il loro cammino senza sapere in quale direzione. C'erano troppe cose da pensare, da sentire e da dire per prestare attenzione ad altri argomenti. Lei scoprì presto che la buona intesa che esisteva tra loro doveva essere attribuita agli sforzi di sua zia, la quale era effettivamente andata a trovarlo durante il suo soggiorno a [[settings/london|Londra]], raccontandogli del suo [[motifs/journey|viaggio]] fino a Longbourn, dei motivi che l’avevano spinta e del contenuto della sua conversazione con Elizabeth; insisteva in particolare su ogni espressione utilizzata da quest’ultima, ritenendo che tali parole riflettessero in modo evidente la sua capricciosità e la sua presunzione, nella convinzione che un tale rapporto potesse aiutarla a ottenere dalla nipote quella promessa che lei stessa aveva rifiutato di fare. Ma, sfortunatamente per lei, l’effetto fu esattamente il contrario di quello previsto.
-
-“Mi ha insegnato a [[concepts/hope|sperare]],” disse, “poiché prima di allora non mi permettevo quasi mai di sperare. Conoscevo abbastanza la tua natura per essere certo che, se avessi deciso definitivamente e irrevocabilmente contro di me, l’avresti ammesso apertamente e senza mezzi termini a Lady Catherine.”
-
-Elizabeth rise e rispose: “Sì, conosci abbastanza bene la mia _franchezza_ per credere che io possa essere capace di una cosa del genere. Dopo avermi comportata in modo così odioso davanti a te, non avrei alcun rimorso nel trattarti male anche con tutte le tue conoscenze.”
-
-“Cosa hai detto di me che non meritavo? Perché anche se le tue accuse erano infondate, basate su presupposti errati, il mio comportamento verso di te in quel [[motifs/time|momento]] meritava davvero la più severa rimprovera. È stato imperdonabile. Non riesco a pensarci senza provare disgusto.”
-
-“Non litigheremo per la maggiore parte della colpa attribuibile a quella sera,” disse Elizabeth. “Se analizziamo con attenzione il comportamento di entrambi, nessuno dei due è davvero da biasimare; ma da allora, spero, entrambi abbiamo migliorato nel comportamento civile.”
-
-“Non posso riconciliarmi con me stesso così facilmente. Il ricordo di ciò che dissi allora, del mio comportamento, delle mie maniere, delle mie espressioni durante tutto quell’episodio, è ora, e lo è stato per molti mesi, indescrivibilmente doloroso per me. La tua rimprovera, così [[motifs/well|ben]] formulata, non la dimenticherò mai: ‘Se solo ti fossi comportato in modo più da gentiluomo, ’ Queste furono le tue parole. Non sai, quasi non puoi immaginare quanto mi abbiano tormentato; anche se, devo ammetterlo, ci è voluto del [[motifs/time|tempo]] prima che fossi abbastanza razionale da riconoscere la loro giustezza.”
 
 
 
@@ -19113,80 +14310,6 @@ parted.
 [_Copyright 1894 by George Allen._]]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Certamente non mi aspettavo affatto che facessero un’impressione così forte. Non avevo la minima idea che potessero essere percepiti in questo modo.”
-
-“Posso crederci facilmente. Pensavate che allora fossi privo di ogni sentimento genuino, ne sono sicuro. Quel cambiamento nel vostro volto non lo dimenticherò mai: quando dissero che non avrei potuto rivolgermi a voi in alcun modo che vi inducesse ad accettarmi, ”
-
-“Oh, non ripetete ciò che ho detto allora. Questi ricordi non servono affatto a nulla. Vi assicuro che da tempo provo un profondo imbarazzo al riguardo.”
-
-Darcy menzionò la sua lettera. “L’ha fatto davvero,” disse, “l’ha fatto subito? Ha cambiato la tua opinione su di me dopo averla letta? Hai dato credito al suo contenuto?”
-
-Spiegò quali effetti avesse avuto su di lei e come, gradualmente, tutti i suoi pregiudizi precedenti fossero svaniti.
-
-“Lo sapevo,” disse, “che ciò che ho scritto avrebbe dovuto causarti [[motifs/pain|dolore]], ma era necessario. Spero tu abbia distrutto quella lettera. C’era una parte, soprattutto l’inizio, che temevo potessi rileggere. Ricordo alcune frasi che sicuramente avrebbero potuto farti odiarmi.”
-
-“La lettera certamente verrà bruciata, se ritenete che sia necessario per preservare il mio rispetto; tuttavia, anche se entrambi abbiamo motivo di pensare che le mie opinioni non siano del tutto immutabili, spero che non siano così facili da cambiare come questo suggerisce.”
-
-“Quando scrissi quella lettera,” rispose Darcy, “credevo di essere perfettamente calmo e freddo; ma da allora sono convinto che fosse scritta in un terribile stato di amarezza d’animo.”
-
-“Forse quella lettera è iniziata con amarezza, ma non è finita così. Quel addio rappresenta in sé la [[concepts/charity|carità]]. Ma non pensare più a quella lettera: i sentimenti di chi l’ha scritta e di chi l’ha ricevuta sono ora molto diversi da quelli di allora, quindi ogni circostanza sgradevole legata ad essa dovrebbe essere dimenticata. Devi imparare un po’ della mia filosofia. Pensa solo al passato, se il ricordo di esso ti dà piacere.”
-
-“Non posso riconoscere in te alcuna sorta di filosofia del genere. Le tue riflessioni devono essere così totalmente prive di rimorsi, che la soddisfazione che ne deriva non è frutto della filosofia, ma, cosa molto migliore, dell’ignoranza. Ma per me non è così: ricordi dolorosi continuano ad invadere la mia mente; ricordi che non possono, che non dovrebbero essere scacciati. Per tutta la vita sono stato un essere egoista, nella pratica se non anche nei principi. Da [[archetypes/child|bambino]] mi è stato insegnato ciò che era giusto, ma non come correggere il mio carattere; mi sono stati dati buoni principi, ma sono stato lasciato a seguirli con orgoglio e presunzione. Sfortunatamente, essendo l’unico figlio (per molti anni l’unico [[concepts/pride|bambino]] in famiglia), sono stato viziato dai miei genitori, i quali, sebbene buoni loro stessi, soprattutto mio padre, così gentile e affabile, hanno permesso, incoraggiato, quasi insegnato a me ad essere egoista e prepotente, a non curarmi di nessuno al di fuori del mio cerchio familiare, a considerare con disprezzo il resto del mondo, anzi, a desiderare addirittura di pensare male della loro intelligenza e del loro valore rispetto ai miei. Così sono stato dall’età di otto fino a ventotto anni; e forse sarei ancora così se non fosse stato per te, cara, adorabile Elizabeth! Quanto ti devo. Tu mi hai insegnato una lezione difficile all’inizio, ma estremamente vantaggiosa. Grazie a te sono stato veramente umiliato; sono venuto da te senza alcun dubbio riguardo al mio accogliimento. Mi hai mostrato quanto fossero insufficienti tutte le mie pretese per compiacere una donna degna di essere compiaciuta.”
-
-“Ti eri dunque convinto che io dovesse farlo?”
-
-“Infatti, lo avevo. Cosa ne penserai della mia [[concepts/vanity|vanità]]? Pensavo che desiderassi, che aspettassi le mie lettere.”
-
-“I miei modi devono essere stati impropri, ma non intenzionalmente, ve lo assicuro. Non ho mai voluto ingannarvi, ma a volte il mio umore può portarmi fuori strada. Quanto dovevate odiarmi dopo quella sera, ”
-
-“Ti odio! Forse all’inizio ero arrabbiata, ma la mia rabbia presto ha iniziato a prendere una direzione precisa.”
-
-“Temo quasi di chiederti cosa pensassi di me quando ci siamo incontrati a Pemberley. Mi hai incolpato per essere venuto, vero?”
-
-“No, indeed, I felt nothing but surprise.”
-
-“La tua sorpresa non potrebbe essere maggiore della mia nel venire notato da te. La mia [[concepts/conscience|coscienza]] mi ha detto che non meritavo alcuna particolare cortesia, e devo ammettere di non aver previsto di ricevere _di più_ di quanto mi spettasse.”
-
-“Il mio scopo, allora,” rispose Darcy, “era dimostrarti, con ogni cortesia a mia disposizione, che non ero così meschino da risentirmi del passato; e speravo di ottenere il tuo [[concepts/forgiveness|perdono]], per ridurre la cattiva opinione che avevi di me, facendoti vedere che le tue rimproveri erano stati presi in considerazione. Non so esattamente quando siano insorti altri desideri, ma credo sia stato circa mezz’ora dopo averci incontrati.”
-
-Le raccontò allora della gioia di Georgiana nel conoscerla e del suo disappunto per l’interruzione improvvisa di quel rapporto; da ciò capì facilmente la causa di quell’interruzione: la sua decisione di seguirla dal Derbyshire, nella ricerca di sua sorella, era stata presa già prima che lasciasse l’ostello, e la sua serietà e preoccupazione in quel momento derivavano soltanto dalle difficoltà che una tale impresa comportava inevitabilmente.
-
-Esprimette di nuovo la sua gratitudine, ma era un argomento troppo doloroso per essere approfondito ulteriormente.
-
-Dopo aver camminato per diverse miglia con calma, e troppo impegnati per accorgersene, alla fine, controllando gli orologi, si resero conto che era arrivato il [[motifs/time|orario]] di tornare a [[motifs/home|casa]].
-
-“Cosa sarebbe potuto accadere al signor Bingley e a Jane?” era un [[concepts/wonder|dubbio]] che diede inizio alla discussione sui loro affari. Darcy era molto felice del loro fidanzamento; il suo amico gli aveva comunicato la notizia per primo.
-
-“Devo chiederti se sei rimasto sorpreso,” disse Elizabeth.
-
-"Nient'affatto. Quando me ne sono andato, pensavo che sarebbe successo presto."
-
-“In altre parole, avevi dato il tuo permesso. L’avevo immaginato.” E anche se lui esclamò sorpreso di fronte a questa affermazione, lei si rese conto che in realtà era proprio così.
-
-“La sera prima di partire per [[settings/london|Londra]],” disse, “gli feci una confessione che, credo, avrei dovuto fare molto tempo fa. Gli raccontai tutto ciò che era accaduto, e che aveva reso la mia precedente interferenza nelle sue faccende assurda e inopportuna. La sua sorpresa fu grande; non aveva mai avuto il minimo sospetto. Gli dissi anche che ritenevo di essermi sbagliato nel pensare, come avevo fatto, che tua sorella fosse indifferente a lui; e poiché potevo facilmente constatare che il suo affetto per lei non era diminuito, non avevo alcun [[concepts/doubt|dubbio]] sulla loro felicità insieme.”
-
-Elizabeth non poté fare a meno di sorridere davanti al suo modo così naturale di guidare il suo amico.
-
-“Hai detto quelle cose basandoti su tua osservazione personale,” disse lei, “quando gli hai riferito che mia sorella lo amava, o semplicemente sulla informazione che mi avevi dato la scorsa [[motifs/spring|primavera]]?”
-
-“Dall’ex. L’avevo osservata attentamente durante le due visite che avevo fatto da lei di recente; e ne ero convinto dell’affetto che provava per me.”
-
-“E la tua certezza al riguardo, immagino, lo convinse immediatamente.”
-
-“Sì, è vero. Bingley è estremamente modesto; la sua timidezza gli aveva impedito di affidarsi al proprio giudizio in una situazione così importante, ma il fatto che si sia fidato del mio ha reso tutto molto più semplice. Sono stata costretta a confessargli qualcosa che, per un certo periodo, e non senza motivo, lo ha offeso: non potevo nascondere che tua sorella era stata in città l’anno scorso in inverno, che ne ero a conoscenza e che avevo intenzionalmente tenuto questo fatto nascosto. È stato arrabbiato. Ma sono convinta che la sua rabbia sia durata soltanto finché non ha smesso di dubitare dei sentimenti di tua sorella. Ora mi ha perdonato sinceramente.”
-
-Elizabeth desiderava ardentemente riconoscere che il signor Bingley fosse stato un amico davvero delizioso; così facile da guidare che il suo valore era inestimabile. Ma si trattenne. Ricordò che lui non aveva ancora imparato ad accettare le risate altrui, e quindi era ancora troppo presto per iniziare a farlo. Immaginando la felicità di Bingley – che, naturalmente, avrebbe potuto essere superata soltanto dalla sua stessa – continuò la conversazione fino a quando non arrivarono alla casa. Nell’atrio si separarono.
-
-
-
-Illustrazione:
-
-“Impossibile pronunciare una sola sillaba”
-
-Copyright 1894 di George Allen.
-
 
 
 <span class="atom-split" data-atom="chapter_59--part_01" data-title="Pride and Prejudice — Chapter 59 (part 1)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="motif/home,motif/love,motif/marriage,motif/memory,motif/night,motif/time,motif/well,motif/window,concept/doubt,concept/hope,concept/truth"></span>
@@ -19320,65 +14443,6 @@ disagreeable man all to yourself; but I [[concepts/hope|hope]] you will not mind
 all for Jane’s sake, you know; and there is no occasion for talking to
 him except just now and then; so do not put yourself to inconvenience.”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO LIX.
-
-Illustrazione
-
-“Mia cara Lizzy, dove diavolo sei stata a giroggiare?” fu la domanda che Elizabeth ricevette da Jane non appena entrò nella stanza, e da tutti gli altri quando si sedettero a tavola. Lei dovette semplicemente rispondere che avevano vagabondato senza sapere nemmeno dove stessero andando. Arrossì mentre parlava; ma né questo, né nulla altro, suscitò il minimo sospetto sulla [[concepts/truth|verità]].
-
-La serata trascorse tranquillamente, senza nulla di straordinario. I innamorati riconosciuti chiacchieravano e ridevano; quelli non riconosciuti rimanevano in silenzio. Darcy non era il tipo di persona la cui felicità si manifestasse con risate; Elizabeth, agitata e confusa, piuttosto “sapeva” di essere felice che non se ne rendesse davvero conto; perché, oltre all’imbarazzo immediato, c'erano altri problemi davanti a lei. Si immaginava cosa avrebbero pensato in famiglia quando la sua situazione sarebbe venuta a conoscenza: sapeva che nessuno lo amava tranne Jane; e temeva persino che, per gli altri, quel sentimento negativo non potesse essere cancellato nemmeno dalla sua grande fortuna e influenza.
-
-Di [[motifs/night|notte]], le aprì il cuore a Jane. Sebbene il sospetto fosse ben lontano dalle abitudini generali della signorina Bennet, in questo caso lei era assolutamente incredula.
-
-“Stai scherzando, Lizzy. Non può essere! Promessa a Mr. Darcy? No, no, non devi ingannarmi. So che è impossibile.”
-
-“Che brutto inizio davvero! La mia unica speranza era riposta in te; sono sicura che nessun altro mi crederà, se non lo fai tu. Eppure, parlo seriamente. Dico solo la [[concepts/truth|verità]]. Lui mi ama ancora, e siamo fidanzati.”
-
-“Jane la guardò con scetticismo. ‘Oh, Lizzy… Non può essere. So quanto lo detesti.’”
-
-“Non sai nulla di questa faccenda. _Quello_ è qualcosa che bisogna dimenticare. Forse non l’ho sempre amato così tanto come lo amo ora; ma in situazioni del genere, un buon [[motifs/memory|ricordo]] è imperdonabile. Questa è l’ultima volta che ne parlerò io stesso.”
-
-La signorina Bennet sembrava ancora completamente sbalordita. Elizabeth, ancora una volta e con maggiore serietà, le assicurò della sua [[concepts/truth|veridicità]].
-
-“Mio Dio! Può davvero essere vero? Eppure ora devo crederti,” esclamò Jane. “Carissima Lizzy, vorrei davvero congratularmi con te; ma sei sicura, scusami se faccio questa domanda, sei davvero sicura di poter essere felice con lui?”
-
-“Non può esserci alcun [[concepts/doubt|dubbio]] al riguardo. È già stato deciso tra noi che saremo la coppia più felice del mondo. Ma sei contenta, Jane? Ti piacerebbe avere un fratello del genere?”
-
-“Molto, molto di più. Niente potrebbe dare a Bingley o a me maggiore gioia. Ma l’abbiamo considerato impossibile. Ne abbiamo parlato. E tu lo ami davvero abbastanza? Oh, Lizzy! Fai qualsiasi cosa piuttosto che sposarti senza amore. Sei sicura di sentire ciò che dovresti sentire?”
-
-“Ah sì! Penserete solo che io provi più di quanto dovrei quando vi racconterò tutto.”
-
-“Cosa intendi dire?”
-
-“Perché, devo confessare che lo [[motifs/love|amo]] di più rispetto a Bingley. Temo che tu possa arrabbiarti.”
-
-“Mia cara sorella, ora sii seria. Voglio parlare molto seriamente. Fammi sapere tutto ciò che devo conoscere senza indugio. Mi dirai quanto tempo lo ami già?”
-
-“È iniziato così gradualmente che quasi non ricordo quando sia cominciato;  
-ma credo che il momento in cui tutto è iniziato sia stato quando ho visto per la prima volta i suoi bellissimi terreni a Pemberley.”
-
-Un altro tentativo di farle prendere la cosa sul serio ottenne però l’effetto desiderato; e presto rassicurò Jane con promesse solenni della sua affezione. Una volta convinta su questo punto, la signorina Bennet non desiderava più nulla.
-
-“Ora sono davvero molto felice,” disse lei, “perché anche tu sarai altrettanto felice quanto me. Ho sempre avuto stima di lui; anche solo per il suo [[motifs/love|amore]] per te, avrei dovuto rispettarlo. Ma ora, essendo l’amico di Bingley e tuo marito, ci possono essere soltanto Bingley e tu a essere più importanti per me. Però, Lizzy, sei stata davvero molto astuta, molto riservata con me. Quanto poco mi hai raccontato di quanto è accaduto a Pemberley e Lambton! Tutto quello che so al riguardo lo devo a qualcun altro, non a te.”
-
-Elizabeth le spiegò i motivi della sua reticenza. Non aveva voluto menzionare Bingley; e lo stato instabile dei propri sentimenti l’aveva portata ad evitare anche il nome dell’amico di lui; ma ora non avrebbe più nascosto la sua parte nella [[motifs/marriage|matrimonio]] di Lydia. Tutto fu chiarito, e metà della [[motifs/night|notte]] trascorse in conversazione.
-
-“Mio Dio!” esclamò la signora Bennet, mentre stava davanti a una [[motifs/window|finestra]] il giorno seguente. “Se quel fastidioso signor Darcy non viene di nuovo qui con nostro caro Bingley. Cosa vuole dire comportarsi in questo modo, disturbandoci continuamente? Non pensavo affatto che sarebbe venuto qui; credevo che andasse a caccia o facesse qualcos’altro, invece di infastidirci con la sua compagnia. Cosa dovremo fare con lui? Lizzy, devi uscire di nuovo con lui, così non ostacolerà Bingley.”
-
-Elizabeth faticava a trattenersi dal ridere di una proposta così comoda. Tuttavia, le dispiaceva davvero che sua madre continuasse sempre a dargli un simile epiteto.
-
-Non appena entrarono, Bingley la guardò in modo così significativo e le strinse la mano con tale calore da non lasciare alcun [[concepts/doubt|dubbio]] sulla sincerità delle sue intenzioni; poco dopo disse ad alta voce: “Signora Bennet, non ci sono altre stradine nei dintorni dove Lizzy possa perdersi di nuovo oggi?”
-
-“Consiglio al signor Darcy, a Lizzy e a Kitty”, disse la signora Bennet, “di andare a piedi fino a Oakham Mount questa mattina. È una bella passeggiata lunga, e il signor Darcy non ha mai visto quel panorama.”
-
-“Potrebbe andare molto bene per gli altri,” rispose il signor Bingley; “ma sono sicuro che sarà troppo per Kitty. Non è vero, Kitty?”
-
-Kitty ammise apertamente che preferiva rimanere a [[motifs/home|casa]]. Darcy manifestò una grande curiosità di vedere il panorama dal Monte, e Elizabeth acconsentì in silenzio. Mentre lei saliva al piano di sopra per prepararsi, la signora Bennet la seguì, dicendo:
-
-“Mi dispiace molto, Lizzy, che tu debba essere costretta a trascorrere del tempo con quell’uomo sgradevole; ma [[concepts/hope|spero]] che non ti dispiaccia. È tutto per il bene di Jane, capisci. E non c’è motivo di parlare con lui se non di tanto in tanto; quindi non metterti in imbarazzo.”
 
 
 
@@ -19537,61 +14601,6 @@ as Jane’s.”
 
 [_Copyright 1894 by George Allen._]]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Durante la loro passeggiata, fu deciso che si dovesse chiedere il consenso del signor Bennet durante la serata; Elizabeth riservò per sé l’incarico di chiederlo per sua madre. Non riusciva a prevedere come sua madre avrebbe reagito: a volte dubitava che tutta la ricchezza e la grandezza del signor Bennet fossero sufficienti a superare il suo disgusto per quell’uomo; ma, che si trattasse di un’opinione negativa estrema o di un entusiasmo altrettanto intenso, era certo che il comportamento di sua madre non avrebbe certo dato lustro al suo giudizio. Non poteva sopportare che il signor Darcy ascoltasse le sue prime espressioni di gioia, così come non avrebbe potuto tollerare le sue prime reazioni di disapprovazione.
-
-La sera, poco dopo che il signor Bennet si ritirò in biblioteca, vide il signor Darcy alzarsi e seguirlo; l’agitazione che provò in quel momento fu estrema. Non temeva l’opposizione di suo padre, ma sapeva che lui sarebbe stato infelice a causa sua. Che lei, la sua figlia preferita, lo avrebbe causato dolore con la propria scelta. Questo pensiero la tormentava profondamente; rimase seduta nella disperazione fino a quando il signor Darcy non ricomparve. Quando lo vide, il suo sorriso le diede un po’ di conforto. Pochi minuti dopo, lui si avvicinò al tavolo dove lei era seduta con Kitty e, fingendo di ammirare il suo lavoro, le sussurrò: “Vai da tuo padre; vuole che tu vada in biblioteca.” Lei se ne andò immediatamente.
-
-Suo padre camminava avanti e indietro nella stanza, con un'espressione [[motifs/grave|seria]] e ansiosa.  
-“Lizzy,” disse, “cosa stai facendo? Sei forse impazzita a voler accettare quest’uomo? Non lo hai sempre odiato?”
-
-Con quanta sincerità desiderava allora che le sue opinioni precedenti fossero state più ragionevoli, che le sue espressioni fossero state più moderate! Ciò l’avrebbe risparmiata da spiegazioni e dichiarazioni estremamente imbarazzanti da fare; ma ora erano necessarie, e lei, con un certo imbarazzo, gli assicurò il suo attaccamento per il signor Darcy.
-
-“In altre parole, sei decisa ad averlo. È certo ricco, e forse avrai abiti più belli e carrozze più lussuose di Jane. Ma ti renderanno davvero felice?”
-
-“Avete qualche altro obiezione, oltre alla vostra convinzione della mia indifferenza?”, disse Elizabeth.
-
-“Assolutamente no. Sappiamo tutti che è un uomo orgoglioso e sgradevole; ma nulla di tutto ciò avrebbe importanza se davvero lo apprezzassi.”
-
-“Sì, mi piace davvero,” rispose lei con le [[motifs/tears|lacrime]] agli occhi; “lo [[motifs/love|amo]]. Davvero, non ha alcuna forma di [[concepts/pride|orgoglio]] indecente. È estremamente gentile. Non sai chi sia veramente; per favore, non [[motifs/pain|mi addolorare]] parlando di lui in quel modo.”
-
-“Lizzy,” disse suo padre, “gli ho dato il mio consenso. È davvero il tipo di uomo a cui non oserei mai rifiutare nulla, se solo me lo chiedesse. Ora te lo do _a te_, se sei decisa ad averlo. Ma ti consiglio di rifletterci bene. Conosco il tuo carattere, Lizzy. So che non potresti essere né felice né rispettabile, a meno che non stimassi davvero tuo marito, a meno che non lo considerassi superiore a te. I tuoi talenti ti metterebbero in grave pericolo in un matrimonio diseguale. Rischiaresti quasi certamente disonore e miseria. Mia cara figlia, non permettermi di subire il dolore di vederti incapace di rispettare il tuo compagno di vita. Non sai davvero cosa stai facendo.”
-
-Elizabeth, ancora più commossa, rispose con sincerità e solennità; infine, attraverso ripetute assicurazioni sul fatto che il signor Darcy fosse davvero la persona scelta da lei, spiegando il graduale cambiamento nella sua stima nei suoi confronti, affermando con certezza che il suo affetto non era nato in un giorno, ma aveva resistito alla prova di molti mesi di incertezza, e elencando con forza tutte le sue buone qualità, riuscì a vincere l’incredulità di suo padre e a farlo accettare al matrimonio.
-
-“Beh, cara mia,” disse lui quando lei smise di parlare, “non ho più nulla da aggiungere. Se è davvero così, allora lui ti merita. Non avrei mai potuto lasciarti con qualcuno meno degno di te, la mia Lizzy.”
-
-Per completare l'impressione positiva, gli raccontò poi ciò che il signor Darcy aveva fatto volontariamente per Lydia. Lui la ascoltò con stupore.
-
-“Questa è davvero una serata di meraviglie! Darcy ha fatto tutto: ha organizzato l’incontro, dato i soldi, pagato i debiti di quel ragazzo e gli ha anche procurato la sua commissione. Meglio così: mi risparmierà un sacco di problemi e di spese. Se fosse stato tuo zio a occuparsene, avrei sicuramente pagato lui; ma questi giovani innamorati impulsivi vogliono sempre fare le cose a modo loro. Gli offrirò i soldi domani; lui farà storie riguardo al suo amore per te, e così la questione sarà risolta.”
-
-Poi si ricordò dell'imbarazzo che lei aveva provato pochi giorni prima leggendo la lettera del signor Collins; dopo aver riso di lei per un po', alla fine le permise di andarsene, dicendole mentre usciva dalla stanza: “Se qualche giovane dovesse venire a cercare Mary o Kitty, fatelo entrare, perché ho tutto il tempo libero.”
-
-La mente di Elizabeth era ora liberata da un peso molto pesante; e, dopo mezz’ora di riflessione tranquilla nella sua stanza, riuscì a unirsi agli altri con una certa compostezza. Tutto era ancora troppo recente per poter essere motivo di gioia, ma la serata trascorse in modo tranquillo; non c’era più nulla di concreto da temere, e il conforto derivante dalla tranquillità e dall’abitudine sarebbe arrivato col [[motifs/time|tempo]].
-
-Quando sua madre andò nel suo vestibolo di [[motifs/night|notte]], lei la seguì e ebbe quella importante conversazione. L’effetto fu davvero straordinario: all’inizio, la signora Bennet rimase immobile, incapace di pronunciare una parola. Solo dopo molti minuti riuscì a comprendere ciò che aveva sentito, anche se, in generale, non era propensa a dubitare di nulla che potesse essere vantaggioso per la sua famiglia, né a respingere l’idea che uno [[archetypes/lover|amante]] potesse presentarsi per qualcuno di loro. Alla fine, iniziò a riprendersi: si agitò sulla sedia, si alzò, si risedette, rimase sbalordita, e finalmente ringraziò il cielo.
-
-“Mio Dio! Signore, beneditemi. Pensate solo! Carissima Lizzy. Il signor Darcy! Chi l’avrebbe mai immaginato? E è davvero vero? Oh, mia adorata Lizzy. Quanto sarai ricca e importante! Che dote, che gioielli, che carrozze avrai. Quella di Jane non è niente in confronto. Sono così felice. Un uomo così affascinante, così bello, così alto. Oh, mia cara Lizzy. Per favore, scusami per averlo disprezzato tanto in passato. Spero che me lo perdoni. Carissima Lizzy. Una casa in città! Tutto ciò che è più desiderabile. Tre figlie sposate. Diecimila sterline all’anno. Oh, Signore. Cosa ne sarà di me? Diventerò pazza, ”
-
-Questo era sufficiente per dimostrare che la sua approvazione non poteva essere messa in dubbio; e Elizabeth, felice che un tale sfogo fosse stato udito soltanto da lei, se ne andò presto. Ma prima ancora che trascorressero tre minuti nella sua stanza, sua madre la seguì.
-
-“Mio carissimo [[archetypes/child|bambino]],” gridò lei, “non riesco a pensare ad altro. Diecimila all’anno, e molto probabilmente di più! È come essere un lord! Inoltre, avrai una licenza speciale: devi assolutamente sposarti con una licenza speciale. Ma dimmi, mio carissimo [[motifs/love|amore]], quale piatto il signor Darcy preferisce particolarmente, così posso prepararlo domani.”
-
-Questo era un triste presagio di ciò che il comportamento di sua madre nei confronti dello stesso gentiluomo avrebbe potuto essere; ed Elizabeth si rese conto che, sebbene possedesse con certezza la sua più sincera affetto e avesse l’approvazione della sua famiglia, c’era ancora qualcosa che le mancava. Ma il giorno seguente trascorse molto meglio di quanto si aspettasse: poiché la signora Bennet, per fortuna, nutriva un tale rispetto per il suo futuro genero da non osare rivolgergli parola, a meno che non fosse necessario offrirgli qualche attenzione o dimostrargli il proprio rispetto per le sue opinioni.
-
-Elizabeth provò la soddisfazione di vedere suo padre impegnarsi a conoscerlo meglio; e il signor Bennet le assicurò presto che la sua stima per lui aumentava di giorno in giorno.
-
-“Ammiro molto tutti e tre i miei generi,” disse. “Forse Wickham è il mio preferito; ma credo che mi piacerà anche tuo marito, proprio quanto quello di Jane.”
-
-
-
-Illustrazione:
-
-“La cortesia servile”.
-
-Copyright 1894 di George Allen.
 
 
 
@@ -19777,77 +14786,6 @@ family party at Pemberley.
 [Illustration]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO LX.
-
-Illustrazione
-
-Il morale di Elizabeth si sollevò presto di nuovo, e lei volle che il signor Darcy le spiegasse come mai fosse mai finito per [[motifs/love|innamorarsi]] di lei. “Come hai potuto cominciare?” disse. “Posso capire che tu abbia iniziato a comportarti in modo affascinante una volta che avevi già preso l’iniziativa; ma cosa ti ha spinto, all’inizio, a farlo?”
-
-“Non riesco a ricordare con esattezza l’ora, il luogo, lo sguardo o le parole che gettarono le basi di tutto ciò. È passato troppo tempo. Ero già nel mezzo di tutto prima ancora di rendermi conto che avevo iniziato.”
-
-“La mia [[concepts/beauty|bellezza]], tu l’hai sopportata fin dall’inizio; quanto ai miei modi, il mio comportamento verso di te è stato almeno sempre quasi scortese, e non ti ho mai parlato senza desiderare quasi più di farti soffrire che altro. Ora, sii sincera: mi hai ammirato per la mia impertinenza?”
-
-“Per la vivacità della tua mente l’ho fatto.”
-
-“Potreste benissimo definirlo impertinenza. In realtà non era molto diverso da questo. Il fatto è che eravate stanchi di cortesie, di rispetto, di attenzioni eccessive. Vi disgustavano le donne che parlavano sempre, guardavano sempre e pensavano soltanto a ottenere la vostra approvazione. Io vi ho interessato perché ero così diversa da loro. Se non foste stati davvero gentili, mi avreste odiata per questo; ma nonostante i vostri sforzi per nascondere i vostri veri sentimenti, questi erano sempre nobili e giusti. Nel vostro cuore disprezzavate profondamente quelle persone che vi corteggiavano con tanta insistenza. Ecco. Vi ho risparmiato la fatica di spiegarlo; e onestamente, considerando tutto, inizio a pensare che sia del tutto ragionevole da parte vostra. Certo, non trarrete alcun vero beneficio da me. Ma nessuno ci pensa quando si innamora.”
-
-“Non c’era nulla di positivo nel tuo comportamento affettuoso verso Jane, mentre lei era malata a Netherfield?”
-
-“Carissima Jane! Chi potrebbe aver fatto di meno per lei? Ma trasformate questa situazione in una virtù, se possibile. Le mie buone qualità sono sotto la vostra protezione, e dovete esagerarle il più possibile; in cambio, spetta a me trovare occasioni per scherzare e litigare con voi il più spesso possibile. E comincio subito: cosa vi ha fatto riluttare così tanto ad arrivare al dunque? Perché siete stata così timida con me, quando avete chiamato la prima volta, e poi quando siete venuta a cena qui? Soprattutto, perché, quando avete chiamato, sembravate non curarvi affatto di me?”
-
-“Perché eri serio e silenzioso, e non mi hai dato alcun incoraggiamento.”
-
-“Ma mi sono sentito imbarazzato.”
-
-“E anch’io.”
-
-“Avresti potuto parlarmi di più quando sei venuto a cena.”
-
-“Un uomo che aveva sentito di poter fare di meno.”
-
-“Che sfortuna che tu abbia una risposta ragionevole da dare, e che io sia così ragionevole da ammetterla! Ma mi chiedo quanto avresti continuato a parlare, se fossi stato lasciato solo. Mi chiedo quando avresti detto quelle cose, se non ti avessi interrogato. La mia decisione di ringraziarti per la tua gentilezza verso Lydia ha sicuramente avuto un grande effetto. Forse troppo grande. Perché cosa ne sarà della morale, se il nostro conforto deriva da una mancata promessa? Non avrei dovuto affatto menzionare l’argomento. Questo non va assolutamente bene.”
-
-“Non c’è bisogno che ti preoccupi. La decisione sarà assolutamente giusta. Gli sforzi ingiustificati di Lady Catherine per separarci sono stati proprio ciò che ha dissipato tutte le mie dubbi. La mia attuale felicità non dipende affatto dal tuo desiderio ardentemente espresso di dimostrarmi la tua gratitudine. Non ero certo nello stato d’animo adatto ad aspettare che tu trovasse l’occasione giusta per farlo. L’intelligenza di mia zia mi aveva dato speranza, e io ero decisa a scoprire tutto al più presto.”
-
-“Lady Catherine è stata di inestimabile aiuto, il che dovrebbe renderla felice,
-poiché le piace essere utile. Ma ditemi, per quale motivo siete venuti a Netherfield? Solo per andare a Longbourn e sentirvi imbarazzati?
-O avevate in mente conseguenze più serie?”
-
-“Il mio vero scopo era vederti e, se possibile, capire se potessi mai sperare di farti innamorare di me. Quello che dichiarai apertamente, o quello che mi dissi da solo, era scoprire se tua sorella avesse ancora dei sentimenti per Bingley; e, nel caso affermativo, farle quella confessione che ho poi fatto.”
-
-“Avrai mai il [[concepts/courage|coraggio]] di annunciare a Lady Catherine ciò che le accadrà?”
-
-“È più probabile che io desideri il [[motifs/time|tempo]] piuttosto che il [[concepts/courage|coraggio]], Elizabeth. Ma deve essere fatto; e se mi date un foglio di carta, lo farò subito.”
-
-“E se non dovessi scrivere una lettera, potrei sedermi accanto a te e ammirare la regolarità della tua calligrafia, proprio come fece un’altra giovane donna una volta. Ma ho anche una zia, che non può essere trascurata ulteriormente.”
-
-Per non voler ammettere quanto la sua intimità con il signor Darcy fosse stata sopravvalutata, Elizabeth non aveva ancora risposto alla lunga lettera della signora Gardiner; ma ora, avendo qualcosa da comunicare che sapeva sarebbe stato molto gradito, si vergognò quasi di scoprire che suo zio e sua zia avevano già perso tre giorni felici, e scrisse immediatamente quanto segue:--
-
-“Avrei dovuto ringraziarti prima, cara zia, come avrei dovuto fare,
-per i dettagli così lunghi, gentili e soddisfacenti che mi hai fornito; ma, a dire la [[concepts/truth|verità]], ero troppo [[motifs/cross|arrabbiata]] per scrivere. Pensavi ci fosse di più di quanto in realtà esistesse. Ma _ora_, pensa pure quello che vuoi; lascia che la tua fantasia voli liberamente, indulgi nella tua [[concepts/imagination|immaginazione]] come meglio desideri. E a meno che non creda davvero che io sia sposata, non potrai sbagliarti molto. Devi scrivere di nuovo presto, e lodarlo molto di più rispetto alla volta scorsa. Ti ringrazio ancora mille volte per non essere andata ai Laghi. Come avrei potuto essere così sciocca da desiderarlo! L’idea che hai riguardo ai cavalli è deliziosa. Andremo a fare una passeggiata nel parco ogni giorno. Sono la creatura più felice del mondo. Forse altre persone l’hanno detto prima, ma nessuno con tanta giustizia. Sono ancora più felice di Jane; lei si limita a sorridere, io rido. Il signor Darcy ti manda tutta la [[motifs/love|affetto]] possibile. Venite tutti a Pemberley a Natale. Tua,” ecc.
-
-La lettera di Mr. Darcy a Lady Catherine aveva uno stile diverso; ancora più diverso da entrambe era quello della lettera che Mr. Bennet inviò a Mr. Collins in risposta alla sua ultima missiva.
-
-“Caro Signore,”
-
-“Devo disturbarvi un’altra volta per congratularmi. Elizabeth diventerà presto la moglie di Mr. Darcy. Consolate Lady Catherine nel modo migliore che potete. Ma, se fossi in voi, mi schiererei dalla parte del nipote. Lui ha ancora molto da offrire.”
-
-“Cordiali saluti,” ecc.
-
-I complimenti di Miss Bingley a suo fratello per il prossimo [[motifs/marriage|matrimonio]] erano l’unica dimostrazione di affetto, ma anche l’unica insincera. Scrisse persino a Jane in questa occasione, per esprimere la sua gioia e ripetere tutte le sue precedenti dichiarazioni di stima. Jane non fu ingannata, ma ne fu commossa; e sebbene non si fidasse di lei, non poté fare a meno di risponderle in modo molto più gentile di quanto meritasse, secondo lei.
-
-La gioia che la signorina Darcy manifestò ricevendo informazioni simili era altrettanto sincera quanto quella di suo fratello nel mandarle. Quattro fogli di carta non erano sufficienti a contenere tutta la sua felicità, così come il suo sincero [[motifs/desire|desiderio]] di essere amata dalla sua sorella.
-
-Prima ancora che il signor Collins potesse rispondere o che sua moglie potesse congratularsi con Elizabeth, tutta la famiglia Longbourn seppe che i Collins erano arrivati personalmente a Lucas Lodge. Il motivo di questo improvviso arrivo divenne presto evidente: Lady Catherine era stata profondamente offesa dal contenuto della lettera di suo nipote, al punto che Charlotte, che in realtà gioiva molto per quel matrimonio, desiderava allontanarsi il prima possibile, finché la “tempesta” non fosse passata. In un momento del genere, l’arrivo della sua amica fu davvero una grande gioia per Elizabeth, anche se, durante le loro incontri, a volte doveva pensare che quel piacere fosse pagato a caro prezzo, quando vedeva il signor Darcy esposto a tutte quelle cortesie e adulatori comportamenti da parte di suo marito. Tuttavia, lui li sopportava con straordinaria calma. Anzi, riusciva persino ad ascoltare Sir William Lucas quando questi lo lodava per aver conquistato la “più bella gemma” del paese, esprimendo la speranza che si incontrassero spesso a St. James’s, con estrema compostezza. Se mai alzava le spalle, era soltanto dopo che Sir William era uscito dalla sua vista.
-
-La volgarità di Mrs. Philips rappresentava un’altra fonte di disagio per la sua pazienza; e sebbene lei, così come sua sorella, nutrisse troppa soggezione nei suoi confronti per parlare con quella familiarità che l’ottimo umorismo di Bingley avrebbe potuto incoraggiare, ogni volta che parlava, lo faceva inevitabilmente in modo volgare. Anche il suo rispetto per lui, sebbene la rendesse più riservata, non le impediva affatto di essere meno elegante nel comportamento. Elizabeth faceva del suo meglio per proteggerlo da tali attenzioni e cercava sempre di tenerlo con sé o con i membri della sua famiglia con cui potesse conversare senza imbarazzo; e sebbene tutto ciò generasse sentimenti sgradevoli, riduceva in qualche modo il piacere di quella stagione di corteggiamento, ma aumentava al contempo la [[concepts/hope|speranza]] per il futuro. Con gioia attendeva il momento in cui avrebbero potuto allontanarsi da una società così poco piacevole e godersi tutta la comodità ed eleganza della loro vita familiare a Pemberley.
-
-
-
-Illustrazione
-
 
 
 <span class="atom-split" data-atom="chapter_61" data-title="Pride and Prejudice — Chapter 61" data-chapter="Chapter 61" data-kind="chapter" data-tags="topos/quest,motif/city,motif/desire,motif/home,motif/love,motif/marriage,motif/time,motif/well,concept/beauty,concept/hope,concept/pride,concept/reconciliation,setting/court,setting/london"></span>
@@ -19991,48 +14929,3 @@ END
 
 CHISWICK PRESS:--CHARLES WHITTINGHAM AND CO.
 TOOKS [[settings/court|COURT]], CHANCERY LANE, [[settings/london|LONDON]].
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO LXI.
-
-Illustrazione
-
-Felice per tutti i suoi sentimenti materni fu il giorno in cui la signora Bennet si liberò delle sue due figlie più meritevoli. Con quale gioia e [[concepts/pride|orgoglio]] andò poi a far visita alla signora Bingley, parlando della signora Darcy. Si potrebbe immaginare. Vorrei poter dire, per il bene della sua famiglia, che la realizzazione del suo sincero [[motifs/desire|desiderio]] di sistemare così tante sue figlie ebbe un effetto così positivo da renderla una donna saggia, amabile e ben informata per il resto della sua vita; anche se, forse, fu fortunato anche suo marito, che probabilmente non avrebbe apprezzato una felicità domestica di forma così insolita, poiché lei rimaneva spesso nervosa e invariabilmente sciocca.
-
-Il signor Bennet sentiva una profonda mancanza della sua seconda figlia; il suo affetto per lei lo spingeva ad allontanarsi da [[motifs/home|casa]] più spesso di qualsiasi altra cosa. Gli piaceva molto andare a Pemberley, soprattutto quando nessuno se lo aspettava.
-
-Il signor Bingley e Jane rimasero a Netherfield soltanto dodici mesi. Trovarsi così vicini a sua madre e alle parenti di Meryton non era desiderabile nemmeno per il suo carattere sereno, né per il cuore affettuoso di lei. Allora si realizzò il desiderio più caro delle sue sorelle: acquistò una tenuta in una contea vicina a Derbyshire; e Jane ed Elizabeth, oltre ad avere tutte le altre fonti di felicità, si trovavano ora a soli trenta miglia l’una dall’altra.
-
-Kitty, avendo questo grande vantaggio materiale, trascorreva la maggior parte del suo [[motifs/time|tempo]] con le sue due sorelle maggiori. In un ambiente sociale molto superiore a quello che aveva solitamente conosciuto, il suo livello migliorò notevolmente. Non aveva un carattere così difficile da gestire come Lydia; e, lontana dall’influenza negativa del comportamento di Lydia, grazie ad attenzioni e cure appropriate, divenne meno irascibile, meno ignorante e meno noiosa. Naturalmente, veniva tenuta alla larga dal giro sociale di Lydia; e sebbene la signora Wickham la invitasse spesso a casa sua, promettendole balli e incontri con giovani uomini, suo padre non avrebbe mai acconsentito che lei andasse.
-
-Mary era l’unica figlia che rimaneva a [[motifs/home|casa]]; inoltre, poiché la signora Bennet non riusciva affatto a stare da sola, Mary era inevitabilmente spinta a cercare di realizzare qualcosa nella vita. Era costretta ad interagire di più con il mondo esterno, ma poteva comunque esprimere le sue opinioni durante ogni visita mattutina; e poiché non era più mortificata dai confronti tra la [[concepts/beauty|bellezza]] delle sue sorelle e la sua, suo padre sospettava che accettasse questo cambiamento senza molta riluttanza.
-
-Per quanto riguarda Wickham e Lydia, i loro caratteri non subirono alcun cambiamento a seguito del [[motifs/marriage|matrimonio]] delle loro sorelle. Lui sopportava con filosofia l’idea che Elizabeth dovesse ormai venire a conoscenza di tutta la sua ingratitudine e menzogna, cose che prima le erano sconosciute; e, nonostante tutto, non era del tutto privo di [[concepts/hope|speranza]] che Darcy potesse ancora essere convinto a sistemarsi economicamente. La lettera di congratulazioni che Elizabeth ricevette da Lydia per il suo [[motifs/marriage|matrimonio]] le spiegò che, almeno da parte della moglie di Darcy, se non da lui stesso, tale speranza esisteva ancora. Il contenuto della lettera era più o meno questo:
-
-“Mia cara Lizzy,”
-
-“Desidero che tu sia felice. Se ami il signor Darcy anche solo la metà di quanto io amo il mio caro Wickham, devi essere molto felice. È un grande conforto saperti così ricco; e quando non avrai nulla altro da fare, spero che penserai a noi. Sono sicura che Wickham desidererebbe molto avere un posto alla [[settings/court|corte]]; e non credo che abbiamo abbastanza denaro per vivere senza alcun aiuto. Qualsiasi posto che dia circa tre o quattrocento sterline all’anno andrebbe bene; ma, comunque, non parlarne con il signor Darcy, se preferisci di no.”
-
-“Tuo”, ecc.
-
-Poiché, in realtà, Elizabeth preferiva di gran lunga non farlo, cercò nel suo risposta di porre fine a ogni tipo di supplica e aspettativa del genere. Tuttavia, nella misura in cui le era possibile, provvedeva ad aiutarli attraverso una certa parsimonia nelle proprie spese personali. Le era sempre stato chiaro che un reddito del genere, gestito da due persone così dispendiose e senza alcuna considerazione per il futuro, non sarebbe mai stato sufficiente a sostentarli; e ogni volta che cambiavano residenza, sia Jane che lei stessa venivano spesso sollecitate ad aiutarli con le bollette. Il loro stile di vita era estremamente instabile: si trasferivano continuamente in cerca di sistemazioni più economiche, spendendo sempre più di quanto avrebbero dovuto. L’affetto di lui per lei finì presto per trasformarsi in indifferenza; il suo, invece, durò un po’ più a lungo. Nonostante la sua giovane età e i suoi modi, Elizabeth mantenne tutta la reputazione che il suo matrimonio le aveva conferito. Anche se Darcy non poté mai accoglierlo a Pemberley, per amor suo continuò ad aiutarlo nella sua carriera professionale. Di tanto in tanto Lydia andava a trovarli lì, quando suo marito era assente a Londra o a Bath; e insieme ai Bingley spesso soggiornavano così a lungo che persino il buon umore di Bingley veniva meno, al punto da suggerire loro di andarsene.
-
-La signorina Bingley fu profondamente umiliata dal [[motifs/marriage|matrimonio]] di Darcy; ma poiché ritenne opportuno mantenere il diritto di visitare Pemberley, abbandonò ogni risentimento, divenne ancora più affezionata a Georgiana, prestò a Darcy la stessa attenzione di prima e ripagò tutte le offese fatte in passato a Elizabeth.
-
-Pemberley era ora la [[motifs/home|casa]] di Georgiana; e l'affetto tra le sorelle era esattamente ciò che Darcy aveva sperato di vedere. Riuscivano ad [[motifs/love|amarsi]] a vicenda, proprio come avevano intenzione di fare. Georgiana nutriva la massima stima per Elizabeth; anche se all’inizio ascoltava spesso con un’ammirazione che sfiorava l’allarme il modo vivace e disinvolto con cui lei parlava con suo fratello. Lui, che aveva sempre suscitato in lei un rispetto tale da quasi sovrastare il suo affetto, ora diventava l’oggetto di scherzi aperti e cordiali. La sua mente veniva arricchita di conoscenze che prima non le erano mai giunte. Grazie alle istruzioni di Elizabeth, iniziò a comprendere che una donna può permettersi certe libertà con il proprio marito, cose che un fratello non tollererebbe sempre con una sorella più giovane di dieci anni.
-
-Lady Catherine fu estremamente indignata per il [[motifs/marriage|matrimonio]] di suo nipote; e, data la schiettezza tipica del suo carattere, nella risposta alla lettera che ne annunciava l’organizzazione, gli inviò parole molto offensive, soprattutto nei confronti di Elizabeth, al punto che per un certo [[motifs/time|tempo]] ogni rapporto tra loro fu interrotto. Alla fine, però, grazie alle persuasioni di Elizabeth, lui decise di perdonare l’offesa e cercare una [[concepts/reconciliation|riconciliazione]]; dopo un po’ di resistenza da parte di sua zia, il suo risentimento si placò, forse a causa dell’affetto che provava per lui o per la curiosità di vedere come si sarebbe comportata sua moglie. Così acconsentì ad accoglierli a Pemberley, nonostante le conseguenze negative derivanti dalla presenza di una tale padrona di casa, nonché dalle visite di suo zio e sua zia provenienti dalla [[motifs/city|città]].
-
-Con i Gardiner erano sempre in rapporti molto stretti. Darcy, così come Elizabeth, li amavano davvero molto; e entrambi provavano sempre una profonda gratitudine verso quelle persone che, portandola nel Derbyshire, avevano contribuito a farli incontrare.
-
-Illustrazione:
-
-La fine
-
-
-
-
-CHISWICK PRESS:– CHARLES WHITTINGHAM E CO.  
-Si trovava in [[settings/court|Court]], Chancery Lane, [[settings/london|Londra]].

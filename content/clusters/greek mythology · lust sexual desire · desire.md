@@ -35,6 +35,7 @@ tags:
 - [[testi/keats/atomized/imagination-fragment-heroic-couplet#125_la_belle_dame_sans_merci|La Belle Dame Sans Merci (Keats)]]
 - [[works/lady-susan-(austen)|Lady Susan (Austen)]]
 - [[works/lamia-(keats)|Lamia (Keats)]]
+- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#433_milesisches_mährchen|MILESISCHES MÄHRCHEN (Coleridge)]]
 - [[testi/whitman/atomized/comradeship-union-hands-hand-in-hand#036_o_hymen_o_hymenee|O Hymen! O Hymenee! (Whitman)]]
 - [[testi/whitman/atomized/comradeship-union-hands-hand-in-hand#079_o_you_whom_i_often_and_silently_come|O You Whom I Often and Silently Come (Whitman)]]
 - [[testi/shakespeare/atomized/sonnets#sonnet_128|Sonnet 128 (Shakespeare)]]

@@ -32,25 +32,6 @@ Pass royal thro' the gate
 Flinging the problem back, at you and I.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La mia [[motifs/wheel|Ruota]] è nel buio.  
-Non vedo un solo raggio -  
-Eppure so che i suoi piedi grondanti  
-Girano e rigirano.
-
-Il mio piede è sulla marea -  
-Una [[motifs/road|strada]] infrequentata -  
-Eppure hanno tutte le strade  
-Una "Radura" alla fine.
-
-Alcuni hanno lasciato il Telaio -  
-Alcuni - nella tomba operosa  
-Trovano strano impiego.  
-Alcuni con nuovi - maestosi piedi  
-Passano regali per la porta  
-Rigettando il problema, a te e a me.
-
 
 
 <span class="atom-split" data-atom="0037_before_the_ice_is_in_the_pools" data-title="37. Before the ice is in the pools —" data-chapter="" data-kind="intro" data-tags="motif/winter,concept/wonder_and_gratitude,concept/faith,concept/immortality,concept/grief_and_loss,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -77,28 +58,6 @@ Will the frock I wept in
 Answer me to wear?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Prima che il ghiaccio sia negli stagni —  
-Prima che vadano i pattinatori,  
-O qualche guancia al calar della sera  
-Sia offuscata dalla [[motifs/snow|neve]] —  
-
-Prima che i campi abbiano finito,  
-Prima del [[motifs/christmas|Christmas]] e del suo [[motifs/tree|albero]],  
-[[concepts/wonder|Wonder]] su [[concepts/wonder|meraviglia]]  
-Arriverà fino a me!  
-
-Ciò di cui tocchiamo gli orli  
-In un giorno d'[[motifs/summer|estate]] —  
-Ciò che sta soltanto camminando  
-A un ponte appena da qui —  
-
-Quello che canta così — parla così —  
-Quando non c'è nessuno qui —  
-La veste in cui piansi  
-Mi risponderà da indossare?
-
 
 
 <span class="atom-split" data-atom="0060_like_her_the_saints_retire" data-title="60. Like her the Saints retire," data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/flowers,motif/death,concept/immortality,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -120,24 +79,6 @@ Argues the Aster still —
 Reasons the Daffodil  
 Profound!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Come lei si ritirano i Santi,  
-Nei loro Chapeaux di [[motifs/fire|fuoco]],  
-Marziali come lei!  
-
-Come lei le Sere rubano  
-Porpora e Cocciniglia  
-Dietro al Giorno!  
-
-"Dipartite" — entrambe — dicono!  
-ossia raccolte via,  
-Non trovate,  
-
-Argomenta ancora l'Astro —  
-Ragiona il Narciso  
-Profondo!
 
 
 
@@ -175,38 +116,6 @@ Since the might [[motifs/autumn|Autumn]] afternoon
 I left them in the ground.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Vado in Cielo!  
-Non so quando —  
-Vi prego non chiedetemi come!  
-Davvero sono troppo stupita  
-Per pensare a rispondervi!  
-Vado in Cielo!  
-Come suona vago!  
-Eppure si compirà  
-Certo come i greggi vanno a [[motifs/home|casa]] di [[motifs/night|notte]]  
-Al braccio del Pastore!  
-
-Forse ci andate anche voi!  
-Chissà?  
-Se doveste arrivare per primi  
-Serbate solo un piccolo spazio per me  
-Vicino ai due che ho perduto —  
-La più piccola "Veste" mi andrà bene  
-E solo un poco di "[[motifs/crown|Corona]]" —  
-Perché sapete che non badiamo all'abito  
-Quando andiamo a [[motifs/home|casa]] —  
-
-Sono lieta di non crederci  
-Perché mi fermerebbe il respiro —  
-E vorrei guardare ancora un poco  
-Una Terra così curiosa!  
-Sono lieta che ci abbiano creduto  
-Loro che non ho più trovato  
-Dal possente pomeriggio d'[[motifs/autumn|Autunno]]  
-In cui li lasciai nella terra.
-
 
 
 <span class="atom-split" data-atom="0089_some_things_that_fly_there_be" data-title="89. Some things that fly there be —" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/birds,concept/transience,concept/immortality,concept/grief_and_loss,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -225,20 +134,6 @@ Can I expound the skies?
 How still the [[forms/riddle|Riddle]] lies!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Alcune cose che volano vi sono —  
-[[motifs/birds|Uccelli]] — Ore — il Bombo —  
-Di queste nessuna [[forms/elegy|Elegia]].  
-
-Alcune cose che restano vi sono —  
-Dolore — Colline — [[concepts/eternity|Eternità]] —  
-Né questo a me si addice.  
-
-Vi sono che, riposando, sorgono.  
-Posso io spiegare i cieli?  
-Come quieto giace l'[[forms/riddle|Enigma]]!
-
 
 
 <span class="atom-split" data-atom="0105_to_hang_our_head_ostensibly" data-title="105. To hang our head — ostensibly —" data-chapter="" data-kind="intro" data-tags="concept/appearance_vs_reality,concept/self_and_soul,concept/immortality,concept/humility,concept/paradox,form/epigram,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -254,18 +149,6 @@ That in so dense a fuzz —
 You — too — take Cobweb attitudes  
 Upon a plane of Gauze!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Chinare il capo — ostensibilmente —  
-E in seguito, scoprire  
-Che tale non era la postura  
-Della nostra mente immortale —  
-
-Concede la sorniona presunzione  
-Che in così densa lanugine —  
-Tu — pure — assuma pose di Ragnatela  
-Sopra un piano di Garza!
 
 
 
@@ -286,22 +169,6 @@ A moment to interrogate,
 Then wiser than a "Surrogate,"  
 The Universe to know!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Bozzolo in alto! Bozzolo in basso!  
-Furtivo Bozzolo, perché nascondi così  
-Ciò che tutto il mondo sospetta?  
-Un'ora, e gaio su ogni [[motifs/tree|albero]]  
-Il tuo segreto, appollaiato in estasi  
-Sfida la [[concepts/imprisonment|prigionia]]!  
-
-Un'ora in Crisalide da passare,  
-Poi gaio sopra l'erba che recede  
-Farfalla andare!  
-Un momento per interrogare,  
-Poi più saggio di un "Surrogato,"  
-L'Universo conoscere!
 
 
 
@@ -328,28 +195,6 @@ And in the midst so fair,
 Whose but her shy — immortal face  
 Of whom we're whispering here?
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Lo sopportò finché le semplici vene  
-Tracciarono azzurro sulla sua mano —  
-Finché imploranti, intorno ai suoi quieti occhi  
-Stanno i Pastelli purpurei.  
-
-Finché le Giunchiglie vennero e andarono  
-Non so dirne la somma,  
-E allora cessò di sopportarlo —  
-E coi Santi sedette.  
-
-Non più la sua paziente figura  
-Da incontrare dolce al crepuscolo —  
-Non più la sua timida cuffia  
-Per la via del villaggio —  
-
-Ma Corone invece, e Cortigiani —  
-E nel mezzo così bella,  
-Di chi se non suo il timido — immortale volto  
-Di colei che qui andiamo sussurrando?
 
 
 
@@ -380,31 +225,6 @@ Slow tramp the Centuries,
 And the Cycles [[motifs/wheel|wheel]]!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Appena perduta, quando ero salva!  
-Appena sentito il mondo passare!  
-Appena cinta per l'assalto con l'[[concepts/eternity|Eternità]],  
-Quando il respiro rifluì,  
-E dall'altra riva  
-Udii ritrarsi la marea delusa!  
-
-Perciò, come Una tornata, sento  
-Strani [[motifs/secrets|segreti]] del confine da narrare!  
-Qualche Marinaio, che rasenta lidi stranieri —  
-Qualche pallido Cronista, dalle porte tremende  
-Prima del Sigillo!  
-
-La prossima [[motifs/time|volta]], restare!  
-La prossima [[motifs/time|volta]], vedere le cose  
-Da Orecchio inaudite,  
-Non scrutate da Occhio —  
-
-La prossima [[motifs/time|volta]], indugiare,  
-Mentre le Ere scivolano —  
-Lento marciano i Secoli,  
-E i Cicli [[motifs/wheel|ruotano]]!
-
 
 
 <span class="atom-split" data-atom="0233_the_lamp_burns_sure_within" data-title="233. The Lamp burns sure — within —" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,motif/fire,concept/self_and_soul,concept/immortality,concept/identity,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -420,18 +240,6 @@ The Lamp — burns golden — on —
 Unconscious that the oil is out —  
 As that the Slave — is gone.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-La Lampada arde sicura — dentro —  
-Benché Servi — forniscano l'Olio —  
-Non importa all'operoso Stoppino —  
-Nella sua fosforica fatica!  
-
-Lo Schiavo — dimentica — di colmare —  
-La Lampada — arde dorata — ancora —  
-Ignara che l'olio è finito —  
-Come che lo Schiavo — è andato.
 
 
 
@@ -453,23 +261,6 @@ Lift the Flesh [[motifs/door|door]] —
 The Poltroon wants Oxygen —  
 Nothing more —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Se il tuo Nervo, ti nega —  
-Va' oltre il tuo Nervo —  
-Può appoggiarsi alla [[motifs/grave|Tomba]],  
-Se [[concepts/fear|teme]] di deviare —  
-
-È una postura salda —  
-Mai alcun cedimento  
-Tenuto da quelle braccia d'Ottone —  
-Miglior Gigante mai fatto —  
-
-Se la tua [[motifs/soul|Anima]] vacilla —  
-Solleva la [[motifs/door|porta]] della Carne —  
-Il Poltrone vuole Ossigeno —  
-Nient'altro —
 
 
 
@@ -497,28 +288,6 @@ Of the Colossal substance
 Of [[concepts/immortality|Immortality]]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Gli istanti Superiori dell'[[motifs/soul|Anima]]  
-Le accadono — sola —  
-Quando l'amico — e l'occasione della Terra  
-Si sono infinitamente ritirati —  
-
-O Lei — Ella stessa — ascesa  
-A un'Altezza troppo remota  
-Per Riconoscimento più basso  
-Del suo Onnipotente —  
-
-Questa Abolizione Mortale  
-È rara — ma bella  
-Come Apparizione — soggetta  
-Ad Aria Autocratica —  
-
-Rivelazione dell'[[concepts/eternity|Eternità]]  
-A favoriti — pochi —  
-Della Colossale sostanza  
-Dell'[[concepts/immortality|Immortalità]]
-
 
 
 <span class="atom-split" data-atom="0307_the_one_who_could_repeat_the_summer_day" data-title="307. The One who could repeat the Summer day —" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/sun,motif/seasons,concept/immortality_of_art,concept/imagination,concept/the_artist_and_society,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -537,20 +306,6 @@ And Occident — become Unknown —
 His Name — remain —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Colui che potesse ripetere il giorno d'[[motifs/summer|Estate]] —  
-Sarebbe più grande di esso — quand'anche Egli  
-Fosse il più Minuto del Genere umano —  
-
-Ed Egli — potesse riprodurre il [[motifs/sun|Sole]] —  
-Nel momento del suo calare —  
-L'Indugiare — e la Macchia — intendo —  
-
-Quando l'[[settings/orient|Oriente]] sarà oltrepassato —  
-E l'Occidente — divenuto Ignoto —  
-Il suo Nome — resterà —
-
 
 
 <span class="atom-split" data-atom="0320_we_play_at_paste" data-title="320. We play at Paste —" data-chapter="" data-kind="intro" data-tags="motif/money_gold,concept/education,concept/the_artist_and_society,concept/childhood_and_growth,form/lyric,form/epigram,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -567,18 +322,6 @@ Learned Gem-Tactics —
 Practicing Sands —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Giochiamo a Pasta di vetro —  
-Finché degni, di Perla —  
-Poi, lasciamo la Pasta —  
-E ci stimiamo [[archetypes/fool|folli]] —  
-
-Le Forme — però — erano simili —  
-E le nostre nuove Mani  
-Appresero Tattiche di Gemma —  
-Esercitandosi a Sabbie —
-
 
 
 <span class="atom-split" data-atom="0334_all_the_letters_i_can_write" data-title="334. All the letters I can write" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/letters_writing,motif/desire,motif/birds,motif/white_and_red,concept/lust,concept/beauty,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -593,17 +336,6 @@ Hid, Lip, for Thee —
 Play it were a Humming Bird —  
 And just sipped — me —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Tutte le lettere che so scrivere  
-Non sono belle come questa —  
-Sillabe di Velluto —  
-Frasi di Felpa,  
-Profondità di Rubino, mai attinte,  
-Nascoste, Labbro, per Te —  
-Fingi che fosse un Colibrì —  
-E che sorseggiasse appena — me —
 
 
 
@@ -622,20 +354,6 @@ And perish — but a Bough between —
 Oh, Groping feet —  
 Oh [[characters/phantom|Phantom]] [[characters/queen|Queen]]!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Non probabile — la più esile Possibilità —  
-Un sorriso di meno — una parola di troppo  
-E lontana dal Cielo come il Resto —  
-L'[[motifs/soul|Anima]] così prossima al Paradiso —  
-
-E se l'Uccello da [[motifs/journey|viaggio]] lontano —  
-Confuso dai Dolci — come i Mortali — sono —  
-Scordasse il segreto della Sua ala  
-E perisse — solo un Ramo di mezzo —  
-Oh, piedi Brancolanti —  
-Oh [[characters/phantom|Spettrale]] [[characters/queen|Regina]]!
 
 
 
@@ -686,51 +404,6 @@ To teach the Angels, avarice,
 You, Sir, taught first — to me.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Benché io riponessi la sua vita —  
-Ornamento troppo grande  
-Perché Fronte bassa come la mia lo porti,  
-Questa avrebbe potuto essere la Mano  
-
-Che seminò il fiore, da lui preferito —  
-O lenì un'umile [[motifs/pain|pena]],  
-O spinse il sasso via dal suo cammino —  
-O suonò la sua melodia prediletta —  
-
-Sul Liuto più umile — l'ultimo —  
-Ma solo il suo Orecchio poteva sapere  
-Che qualunque cosa lo dilettasse,  
-Io non l'avrei mai lasciata andare —  
-
-Il piede a portare la sua commissione —  
-Un piccolo Stivale che conosco —  
-Balzerebbe via come Antilope —  
-Col solo permesso di compiere —  
-
-Il suo più stanco Comandamento —  
-Più dolce da obbedire,  
-Che "Nascondino" —  
-O saltellare ai Flauti —  
-O tutto il Giorno, inseguire l'Ape —  
-
-Il vostro Servo, Signore, si stancherà —  
-Il Chirurgo, non verrà —  
-Il Mondo, avrà il suo — da fare —  
-La [[motifs/dust|Polvere]], vesserà la vostra Fama —  
-
-383  
-
-Il Freddo forzerà la vostra [[motifs/door|porta]] più serrata  
-Un qualche Giorno di Febbraio,  
-Ma dite che il mio grembiule porti i rami  
-A far gaio il vostro Cottage —  
-
-Ch'io possa portare quella promessa  
-In Paradiso, con me —  
-Per insegnare agli Angeli l'avarizia,  
-Che voi, Signore, insegnaste primo — a me.
-
 
 
 <span class="atom-split" data-atom="0371_a_precious_mouldering_pleasure_tis" data-title="371. A precious — mouldering pleasure — 'tis —" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/the_book,motif/dreams,motif/time,concept/immortality_of_art,form/lyric,histref/classical_antiquity,histref/dante,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -774,45 +447,6 @@ Old Volume shake their Vellum Heads
 And tantalize — just so —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Un prezioso — ammuffito piacere — è —  
-Incontrare un Libro Antico —  
-Nell'Abito stesso che il suo Secolo portava —  
-Un privilegio — io penso —  
-
-Prendere la sua Mano venerabile —  
-E scaldandola nella nostra —  
-Fare un passo indietro — o due —  
-Ai Tempi in cui lui — era giovane —  
-
-Le sue curiose opinioni — ispezionare —  
-Il suo pensiero accertare  
-Su Temi che toccano la nostra mente comune —  
-La Letteratura dell'Uomo —  
-
-Cosa interessava di più — gli Studiosi —  
-Quali Competizioni correvano —  
-Quando [[characters/plato|Platone]] — era una Certezza —  
-E Sofocle — un Uomo —  
-
-Quando Saffo — era Fanciulla viva —  
-E [[characters/beatrice|Beatrice]] portava  
-La Veste che [[historical-references/dante|Dante]] — deificò —  
-Fatti di Secoli prima  
-
-Egli attraversa — familiare —  
-Come Uno che venisse in Città —  
-E ti dicesse che tutti i tuoi [[motifs/dreams|Sogni]] — eran veri —  
-Lui visse — dove i [[motifs/dreams|Sogni]] nacquero —  
-
-La sua presenza è Incantesimo —  
-389  
-
-Lo supplichi di non andare —  
-Vecchi Volumi scuotono le Teste di Pergamena  
-E tentano — proprio così —
-
 
 
 <span class="atom-split" data-atom="0384_no_rack_can_torture_me" data-title="384. No Rack can torture me —" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/swords_weapons,concept/self_and_soul,concept/pain,concept/immortality,concept/paradox,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -839,28 +473,6 @@ Captivity is Consciousness —
 So's [[concepts/liberty|Liberty]].
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Nessun Cavalletto può torturarmi —  
-L'[[motifs/soul|Anima]] mia — in [[concepts/liberty|Libertà]] —  
-Dietro quest'Osso mortale  
-Se ne intesse Uno più ardito —  
-
-Non puoi pungere con la sega —  
-Né trafiggere con la Scimitarra —  
-Due Corpi — dunque sono —  
-Lega l'Uno — L'Altro vola —  
-
-L'Aquila del suo Nido  
-Non più facilmente si spoglia —  
-E guadagna il Cielo  
-Di quanto Tu possa —  
-
-Se non Tu stesso sia  
-Il Tuo Nemico —  
-Prigionia è Coscienza —  
-Così la [[concepts/liberty|Libertà]].
-
 
 
 <span class="atom-split" data-atom="0397_when_diamonds_are_a_legend" data-title="397. When Diamonds are a Legend," data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/money_gold,concept/immortality_of_art,concept/transience,concept/beauty,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -876,18 +488,6 @@ My Art, a [[motifs/summer|Summer]] Day — had Patrons —
 Once — it was a [[characters/queen|Queen]] —  
 And once — a Butterfly —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Quando i Diamanti sono Leggenda,  
-E i Diademi — una Favola —  
-Io Spilla e Orecchini per Me stessa,  
-Semino, e Coltivo per la vendita —  
-
-E benché sia tenuta in poco conto,  
-La mia Arte, un Giorno d'[[motifs/summer|Estate]] — ebbe Mecenati —  
-Una volta — fu una [[characters/queen|Regina]] —  
-E una volta — una Farfalla —
 
 
 
@@ -908,22 +508,6 @@ Might some one else — so learned — be —
 And leave me — just my A — B — C —  
 Himself — could have the Skies —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Non in questo Mondo vedere il suo volto —  
-Suona lungo — finché non leggo il passo  
-Dove questo — si dice sia  
-Solo il Sillabario — di una vita —  
-Non aperta — rara — Sullo Scaffale —  
-Stretta ancora — a Lui — e a Me —  
-
-Eppure — il mio Sillabario mi si addice tanto  
-Che non sceglierei — di conoscere un Libro  
-Che di quello — fosse più dolcemente saggio —  
-Possa qualcun altro — così dotto — essere —  
-E lasciare a me — solo il mio A — B — C —  
-Lui — potrebbe avere i Cieli —
 
 
 
@@ -951,28 +535,6 @@ Is not a controvertible —
 He told me, [[motifs/death|Death]] was dead —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Le Persone marciscono ugualmente,  
-Quelle che seppelliscono, nella [[motifs/grave|Tomba]]?  
-Io credo che una Specie  
-Viva altrettanto certamente  
-
-Di me, che lo testimonio  
-E nego che io — sia morta —  
-E riempio i Polmoni, a Prova —  
-Da Serbatoi — sopra il mio Capo —  
-
-Io vi dico, disse Gesù —  
-Che vi sono qui presenti —  
-Alcuni, che non gusteranno la [[motifs/death|Morte]] —  
-Se Gesù fu sincero —  
-
-Non mi serve altro Argomento —  
-Quella parola del Signore  
-Non è cosa controvertibile —  
-Mi disse, la [[motifs/death|Morte]] era morta —
-
 
 
 <span class="atom-split" data-atom="0448_this_was_a_poet_it_is_that" data-title="448. This was a Poet — It is That" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,topos/immortality_through_verse,archetype/prophet,motif/flowers,concept/immortality_of_art,concept/the_artist_and_society,concept/imagination,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -999,28 +561,6 @@ Himself — to Him — a Fortune —
 Exterior — to [[motifs/time|Time]] —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Questo era un Poeta — È Ciò che  
-Distilla un senso stupefacente  
-Da Significati ordinari —  
-E un'Essenza così immensa  
-
-Dalla specie familiare  
-Perita presso la [[motifs/door|Porta]] —  
-Ci [[concepts/wonder|meravigliamo]] che non fummo Noi  
-A fermarla — prima —  
-
-Di Quadri, il Rivelatore —  
-Il Poeta — è Lui —  
-Ci autorizza — per Contrasto —  
-A incessante [[concepts/poverty|Povertà]] —  
-
-Di porzione — così inconsapevole —  
-La Rapina — non potrebbe nuocere —  
-Egli stesso — per Sé — una Fortuna —  
-Esteriore — al [[motifs/time|Tempo]] —
-
 
 
 <span class="atom-split" data-atom="0461_a_wife_at_daybreak_i_shall_be" data-title="461. A Wife — at daybreak I shall be —" data-chapter="" data-kind="intro" data-tags="motif/marriage,motif/dawn,motif/death,concept/immortality,concept/innocence_and_experience,character/christ,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1041,23 +581,6 @@ So soon to be a [[archetypes/child|Child]] no more —
 [[concepts/eternity|Eternity]], I'm coming — Sire,  
 Savior — I've seen the face — before!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Sposa — all'alba io sarò —  
-Aurora — hai tu una [[motifs/flag|Bandiera]] per me?  
-A Mezzanotte, non sono che Fanciulla,  
-Che poco ci vuole a fare una Sposa —  
-Poi — Mezzanotte, da te sono passata  
-All'Oriente, e alla Vittoria —  
-
-Mezzanotte — Buona [[motifs/night|Notte]]! Li sento chiamare,  
-Gli Angeli s'affaccendano nell'Atrio —  
-Piano il mio Futuro sale la Scala,  
-Incespico nella mia [[motifs/childhood|Infantile]] [[motifs/prayer|preghiera]]  
-Così presto non più [[archetypes/child|Bimba]] —  
-[[concepts/eternity|Eternità]], sto arrivando — Sire,  
-Salvatore — l'ho visto il volto — già!
 
 
 
@@ -1102,45 +625,6 @@ Alive — two-fold — The Birth I had —
 And this — besides, in — Thee!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Sono viva — suppongo —  
-I Rami sulla mia Mano  
-Son pieni di Convolvolo —  
-E in punta al mio dito —  
-
-Il Carminio — formicola caldo —  
-E se tengo un Vetro  
-Contro la mia Bocca — lo appanna —  
-Prova del Medico — del Respiro —  
-
-Sono viva — perché  
-Non sono in una Stanza —  
-Il Salotto — di Consueto — è —  
-Perché vengano i Visitatori —  
-
-E si chinino — a guardarlo di sbieco —  
-E aggiungano "Come freddo — si fece" —  
-E "Era cosciente — quando entrò  
-Nell'[[concepts/immortality|Immortalità]]?"  
-
-Sono viva — perché  
-Non possiedo una Casa —  
-Intestata a me stessa — precisa —  
-E adatta a nessun altro —  
-
-E segnata col nome della mia Fanciullezza —  
-Perché i Visitatori sappiano  
-Qual è la mia [[motifs/door|Porta]] — e non si sbaglino —  
-E provino un'altra Chiave —  
-
-Che bene — essere viva!  
-494  
-
-Che infinito — essere  
-Viva — due volte — La Nascita che ebbi —  
-E questa — in più, in — Te!
-
 
 
 <span class="atom-split" data-atom="0483_a_solemn_thing_within_the_soul" data-title="483. A Solemn thing within the Soul" data-chapter="" data-kind="intro" data-tags="motif/garden,motif/autumn,motif/sun,concept/self_and_soul,concept/mortality,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1166,27 +650,6 @@ A little nearer — Every [[motifs/sun|Sun]]
 The Single — to some lives.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cosa Solenne dentro l'[[motifs/soul|Anima]]  
-Sentirsi maturare —  
-E pendere dorata — mentre più in alto —  
-Le Scale del Creatore si fermano —  
-E nel Frutteto molto più in basso —  
-Senti un Essere — cadere —  
-
-Meraviglioso — sentire il [[motifs/sun|Sole]]  
-Ancora affaccendato sulla Guancia  
-Che credevi finita —  
-Freddo d'occhio, e critico dell'Opera —  
-Sposta il picciolo — un poco —  
-Per dare al tuo Nocciolo — uno sguardo —  
-
-Ma più solenne — sapere  
-Che la tua sorte nella Mietitura si fa  
-Un poco più vicina — Ogni [[motifs/sun|Sole]]  
-L'Unico — per alcune vite.
-
 
 
 <span class="atom-split" data-atom="0491_while_it_is_alive" data-title="491. While it is alive" data-chapter="" data-kind="intro" data-tags="motif/love,motif/death,motif/dust,concept/immortality,concept/grace_and_redemption,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1204,20 +667,6 @@ Show me Division can split or pare —
 [[motifs/love|Love]] is the Fellow of the [[concepts/resurrection|Resurrection]]  
 Scooping up the [[motifs/dust|Dust]] and chanting "Live"!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Finché è vivo  
-Finché la [[motifs/death|Morte]] non lo tocca  
-Finché esso ed io lambiamo un'unica Aria  
-Dimoriamo in un solo [[motifs/blood|Sangue]]  
-Sotto un solo Sacramento  
-Mostratemi Divisione che possa scindere o mozzare —  
-
-L'[[motifs/love|Amore]] è come la Vita — solo più lungo  
-L'[[motifs/love|Amore]] è come la [[motifs/death|Morte]], durante la [[motifs/grave|Tomba]]  
-L'[[motifs/love|Amore]] è il Compagno della [[concepts/resurrection|Resurrezione]]  
-Che raccoglie la [[motifs/dust|Polvere]] cantando "Vivi"!
 
 
 
@@ -1255,38 +704,6 @@ Through easy Miracle of [[motifs/death|Death]] —
 The Way ourself, must come —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Quella bella — fittizia Gente —  
-Le Donne — strappate via  
-Dalla nostra Vita familiare —  
-Gli Uomini d'Avorio —  
-
-Quei Ragazzi e Ragazze, in Tela —  
-Che restano sul Muro  
-In Ricordo Eterno —  
-Può dirlo Qualcuno?  
-
-Confidiamo — in luoghi più perfetti —  
-Ereditando Delizia  
-Oltre la nostra fioca Congettura —  
-La nostra vertiginosa Stima —  
-
-Ricordando noi stessi, confidiamo —  
-Eppure più Beati — di Noi —  
-Sapendo — dove Noi solo [[concepts/hope|speriamo]] —  
-Ricevendo — dove noi — preghiamo —  
-
-Anche — dell'Attesa —  
-Anticipandoci  
-Con un trasporto, che sarebbe [[motifs/pain|pena]]  
-Se non fosse Santità —  
-
-Stimandoci — come [[concepts/exile|Esilio]] —  
-Loro — ammessi a [[motifs/home|Casa]] —  
-Per facile Miracolo di [[motifs/death|Morte]] —  
-La Via che noi stessi, dovremo fare —
-
 
 
 <span class="atom-split" data-atom="0515_no_crowd_that_has_occurred" data-title="515. No Crowd that has occurred" data-chapter="" data-kind="intro" data-tags="motif/dust,motif/the_grave,concept/immortality,concept/self_and_soul,concept/mortality,histref/christianity,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1318,33 +735,6 @@ Of the Significance of This —
 To Universe — and Me?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Nessuna Folla mai avvenuta  
-Esibisce — suppongo  
-Quella Generale Adunanza  
-Che la [[concepts/resurrection|Resurrezione]] — raduna —
-
-La Circonferenza sia piena —  
-La [[motifs/grave|Tomba]] a lungo costretta  
-Affermi il suo Vitale Privilegio —  
-La [[motifs/dust|Polvere]] — si unisca — e viva —
-
-Sugli Atomi — si posino i lineamenti —  
-Tutte le Moltitudini che furono  
-Svaniscono al Confronto —  
-Come Soli — dissolvono una stella —
-
-La Solennità — prevalga —  
-Il suo Individuale Destino  
-Possieda ogni distinta Coscienza —  
-Augusta — Assorta — Attonita —
-
-Quale Duplicato — esiste —  
-Quale Parallelo può darsi —  
-Del Significato di Questo —  
-Per l'Universo — e per Me?
-
 
 
 <span class="atom-split" data-atom="0524_departed_to_the_judgment" data-title="524. Departed — to the Judgment —" data-chapter="" data-kind="intro" data-tags="topos/theatrum_mundi,motif/death,concept/self_and_soul,concept/immortality_of_soul,histref/christianity,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1360,18 +750,6 @@ The bodiless begun ;
 Two worlds, like audiences, disperse  
 And leave the [[motifs/soul|soul]] alone.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Partita al giudizio,  
-Un possente pomeriggio ;  
-Grandi nubi chine come uscieri,  
-La creazione a guardare.  
-
-La carne arresa, cancellata,  
-L'incorporeo iniziato ;  
-Due mondi, come platee, si disperdono  
-E lasciano l'[[motifs/soul|anima]] sola.
 
 
 
@@ -1389,18 +767,6 @@ That when their conscious fingers cease —
 Some seek in Art — the Art of Peace —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-I Poeti Martiri — non dissero —  
-Ma forgiarono in sillaba il loro Spasimo —  
-Ché quando il loro nome mortale sia muto —  
-La loro sorte mortale — incoraggi Alcuni —  
-
-I Pittori Martiri — mai parlarono —  
-Legando — piuttosto — alla loro Opera —  
-Ché quando le loro dita consapevoli cessano —  
-Alcuni cerchino nell'Arte — l'Arte della Pace —
-
 
 
 <span class="atom-split" data-atom="0578_the_body_grows_without" data-title="578. The Body grows without —" data-chapter="" data-kind="intro" data-tags="concept/self_and_soul,concept/faith,concept/identity,concept/the_natural_order,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1416,18 +782,6 @@ It never did betray
 The [[motifs/soul|Soul]] that asked its shelter  
 In solemn honesty
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il [[concepts/body|Corpo]] cresce al di fuori —  
-Il modo più conveniente —  
-Perché se lo Spirito — voglia celarsi  
-Il suo Tempio sta, per sempre,  
-
-Socchiuso — sicuro — invitante —  
-Mai esso tradì  
-L'[[motifs/soul|Anima]] che chiese il suo riparo  
-In solenne onestà
 
 
 
@@ -1450,23 +804,6 @@ The Sunrise scatters — These endure —
 Enact — and terminate —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La Battaglia combattuta tra l'[[motifs/soul|Anima]]  
-E Nessuno — è quella  
-Fra tutte le Battaglie in corso —  
-Di gran lunga la Maggiore —  
-
-Nessuna Notizia ne giunge fuori —  
-La sua Campagna Incorporea  
-Si stabilisce, e termina —  
-Invisibile — Ignota —  
-
-Né la [[concepts/history|Storia]] — la registra —  
-Come Legioni d'una [[motifs/night|Notte]]  
-Che l'Alba disperde — Queste durano —  
-Agiscono — e terminano —
-
 
 
 <span class="atom-split" data-atom="0601_a_still_volcano_life" data-title="601. A still — Volcano — Life —" data-chapter="" data-kind="intro" data-tags="concept/self_and_soul,concept/desire_and_longing,concept/identity,concept/paradox,concept/pain,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1487,23 +824,6 @@ The lips that never lie —
 Whose hissing Corals part — and shut —  
 And Cities — ooze away —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Una quieta — Vita — di Vulcano —  
-Che guizzava nella [[motifs/night|notte]] —  
-Quando era buio abbastanza per agire  
-Senza cancellare la vista —  
-
-Un placido — Stile di Terremoto —  
-Troppo sottile per sospettarlo  
-Alle nature al di qua di Napoli —  
-Il Nord non sa scorgere  
-
-Il Solenne — Torrido — Simbolo —  
-Le labbra che mai mentono —  
-I cui Coralli sibilanti si aprono — e serrano —  
-E le Città — colano via —
 
 
 
@@ -1526,23 +846,6 @@ With her fastidious forehead?
 As soon impeach my [[motifs/crown|Crown]]!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Paura! Di chi ho paura?  
-Non della [[motifs/death|Morte]] — perché chi è Lui?  
-Il Portiere della Loggia di mio Padre  
-altrettanto mi sgomenta!  
-
-Della Vita? Strano sarebbe ch'io [[concepts/fear|tema]] [una] cosa  
-che mi comprende  
-in una o due esistenze —  
-come la Deità decreta —  
-
-Della [[concepts/resurrection|Resurrezione]]? È forse l'Oriente  
-timoroso d'affidare al Mattino  
-la sua fronte fastidiosa?  
-Tanto varrebbe accusare la mia [[motifs/crown|Corona]]!
-
 
 
 <span class="atom-split" data-atom="0615_our_journey_had_advanced" data-title="615. Our journey had advanced —" data-chapter="" data-kind="intro" data-tags="concept/mortality,concept/immortality,concept/self_and_soul,concept/faith,concept/providence,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1563,23 +866,6 @@ Behind — a Sealed Route —
 [[concepts/eternity|Eternity]]'s White [[motifs/flag|Flag]] — Before —  
 And [[characters/god|God]] — at every Gate —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il nostro [[motifs/journey|viaggio]] era avanzato —  
-I nostri piedi erano quasi giunti  
-A quello strano Bivio nella [[motifs/road|Strada]] dell'Essere —  
-[[concepts/eternity|Eternità]] — per Nome —  
-
-Il nostro passo prese improvviso timore —  
-I nostri piedi — riluttanti — guidavano —  
-Davanti — c'erano Città — ma nel Mezzo —  
-La Foresta dei Morti —  
-
-Ritirarsi — era fuori d'ogni [[concepts/hope|Speranza]] —  
-Dietro — una Via Sigillata —  
-La Bianca [[motifs/flag|Bandiera]] dell'[[concepts/eternity|Eternità]] — Davanti —  
-E [[characters/god|Dio]] — a ogni Porta —
 
 
 
@@ -1616,37 +902,6 @@ And ways I knew not that I knew — till then —
 I lifted Him —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Io [[motifs/rose|sorsi]] — perché Lui affondò —  
-Pensavo sarebbe stato l'opposto —  
-Ma quando il suo potere cadde —  
-La mia [[motifs/soul|Anima]] si fece dritta.  
-
-Rincuorai il mio Principe languente —  
-Cantai salde — piane — Salmodie —  
-Soccorsi il suo Velo — con l'[[forms/hymn|Inno]] —  
-
-E quando le Rugiade si ritrassero  
-Che tenevano rigida la sua Fronte —  
-Lo incontrai —  
-Balsamo a Balsamo —  
-
-Gli dissi che il Migliore — deve passare  
-Per questo basso Arco di Carne —  
-Nessun Elmo così ardito  
-Da sdegnare la [[motifs/grave|Tomba]] —  
-
-Gli dissi di Mondi che conoscevo  
-Dove crescevano Imperatori —  
-Che si ricordavano di noi  
-Se eravamo fedeli —  
-
-E così con Muscoli d'[[forms/hymn|Inno]] —  
-E Nervo di dentro —  
-E modi che non sapevo di sapere — fino ad allora —  
-Lo sollevai —
-
 
 
 <span class="atom-split" data-atom="0642_me_from_myself_to_banish" data-title="642. Me from Myself — to banish —" data-chapter="" data-kind="intro" data-tags="archetype/king,motif/crown,concept/self_and_soul,concept/identity,concept/inner_conflict,concept/alienation,concept/madness,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1667,23 +922,6 @@ How this be
 Except by Abdication —  
 Me — of Me?
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Me da Me stessa — bandire —  
-Avessi l'Arte —  
-Inespugnabile la mia Fortezza  
-A ogni Cuore —  
-
-Ma poiché Me stessa — Mi assale —  
-Come avrò pace  
-Se non soggiogando  
-La Coscienza?  
-
-E poiché siamo Monarca reciproco  
-Come può essere  
-Se non per Abdicazione —  
-Me — di Me?
 
 
 
@@ -1706,23 +944,6 @@ The spreading wide my narrow Hands
 To gather Paradise —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Dimoro nella Possibilità —  
-Una Casa più bella della Prosa —  
-Più numerosa di Finestre —  
-Superiore — per Porte —  
-
-Di Stanze come i Cedri —  
-Inespugnabili all'Occhio —  
-E per Tetto Sempiterno  
-Le Falde del Cielo —  
-
-Di Visitatori — i più belli —  
-Per Occupazione — Questo —  
-Lo spalancare le mie strette Mani  
-A raccogliere il Paradiso —
-
 
 
 <span class="atom-split" data-atom="0674_the_soul_that_hath_a_guest" data-title="674. The Soul that hath a Guest" data-chapter="" data-kind="intro" data-tags="motif/crown,concept/self_and_soul,concept/faith,concept/love_divine,concept/alienation,form/lyric,form/epigram,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1738,18 +959,6 @@ A Host's departure when
 Upon Himself be visiting  
 The Emperor of Men —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-L'[[motifs/soul|Anima]] che ha un Ospite  
-Di rado esce fuori —  
-Folla più divina in [[motifs/home|Casa]] —  
-Cancella il bisogno —  
-
-E la Cortesia vieta  
-La partenza dell'Anfitrione quando  
-Presso di Lui è in visita  
-L'Imperatore degli Uomini —
 
 
 
@@ -1767,18 +976,6 @@ Make [[motifs/summer|Summer]] — When the Lady lie
 In Ceaseless Rosemary —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Oli Essenziali — si spremono —  
-L'Essenza dalla [[motifs/rose|Rosa]]  
-Non la estraggono i Soli — soltanto —  
-È il dono degli Strettoi —  
-
-La [[motifs/rose|Rosa]] comune — [[motifs/decay|decade]] —  
-Ma questa — nel Cassetto della Dama  
-Fa [[motifs/summer|Estate]] — Quando la Dama giace  
-In Rosmarino Incessante —
-
 
 
 <span class="atom-split" data-atom="0677_to_be_alive_is_power" data-title="677. To be alive — is Power —" data-chapter="" data-kind="intro" data-tags="concept/identity,concept/self_and_soul,concept/fate_and_free_will,concept/joy,form/lyric,form/epigram,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1794,18 +991,6 @@ To be alive — and Will!
 The Maker — of Ourselves — be what —  
 Such being Finitude!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Essere vivi — è Potenza —  
-L'Esistenza — in se stessa —  
-Senza ulteriore funzione —  
-Onnipotenza — Abbastanza —  
-
-Essere vivi — e Volere!  
-È potente quanto un [[characters/god|Dio]] —  
-Il Fattore — di Noi stessi — che sarà —  
-Se tale è la Finitudine!
 
 
 
@@ -1834,29 +1019,6 @@ And Midnight to the South of Her —
 And Maelstrom — in the Sky —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Dietro di Me — s'immerge l'[[concepts/eternity|Eternità]] —  
-Davanti a Me — l'[[concepts/immortality|Immortalità]] —  
-Io — il Termine frammezzo —  
-La [[motifs/death|Morte]] non che Deriva di Grigio d'Oriente,  
-Che si dissolve via nell'[[motifs/dawn|Alba]],  
-Prima che l'Occidente cominci —  
-
-Son Regni — dopo — dicono —  
-In perfetta — Monarchia senza pause —  
-Il cui Principe — è Figlio di Nessuno —  
-Egli — la Sua Dinastia senza Data —  
-Egli — Sé stesso diversifica —  
-In Duplicato divino —  
-
-È Miracolo davanti a Me — allora —  
-È Miracolo dietro — frammezzo —  
-Una Falce di Luna nel [[motifs/sea|Mare]] —  
-Con la Mezzanotte a Nord di Lei —  
-E la Mezzanotte a Sud di Lei —  
-E il Maelstrom — nel Cielo —
-
 
 
 <span class="atom-split" data-atom="0726_we_thirst_at_first_tis_natures_act" data-title="726. We thirst at first — 'tis Nature's Act —" data-chapter="" data-kind="intro" data-tags="motif/water,motif/death,concept/immortality,concept/mortality,concept/desire,concept/faith,form/lyric,form/epigram,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1872,18 +1034,6 @@ Whose adequate supply
 Is that Great [[motifs/water|Water]] in the West —  
 Termed [[concepts/immortality|Immortality]] —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Abbiamo sete dapprima — è Atto di [[concepts/nature|Natura]] —  
-E più tardi — quando moriamo —  
-Un po' d'[[motifs/water|Acqua]] supplichiamo —  
-Da dita che passano —  
-
-Ciò accenna al bisogno più fine —  
-La cui provvista adeguata  
-È quella Grande [[motifs/water|Acqua]] a Occidente —  
-Detta [[concepts/immortality|Immortalità]] —
 
 
 
@@ -1901,18 +1051,6 @@ Outside the [[settings/castle|Castle]] — that Contain —
 The other — only — Hear —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Lo Spirito è l'Orecchio Cosciente.  
-Noi udiamo davvero  
-Quando ispezioniamo — questo è udibile —  
-Questo è ammesso — Qui —  
-
-Per altri Servigi — come il Suono —  
-Pende un Orecchio più piccolo  
-Fuori dal [[settings/castle|Castello]] — che Contiene —  
-L'altro — soltanto — Ode —
-
 
 
 <span class="atom-split" data-atom="0753_my_soul_accused_me_and_i_quailed" data-title="753. My Soul — accused me — And I quailed —" data-chapter="" data-kind="intro" data-tags="motif/fire,concept/conscience,concept/self_and_soul,concept/identity,concept/truth,concept/appearance_vs_reality,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1929,18 +1067,6 @@ But Her Disdain — 'twere lighter bear
 A finger of Enamelled [[motifs/fire|Fire]] —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La Mia [[motifs/soul|Anima]] — mi accusò — E io tremai —  
-Come Lingua di Diamante avesse oltraggiato  
-Tutto il resto mi accusò — e io sorrisi —  
-La Mia [[motifs/soul|Anima]] — quel Mattino — era la Mia amica —  
-
-Il Suo favore — è il miglior Disdegno  
-Verso l'Artificio del [[motifs/time|Tempo]] — o degli Uomini —  
-Ma il Suo Disdegno — più lieve sarebbe reggere  
-Un dito di [[motifs/fire|Fuoco]] Smaltato —
-
 
 
 <span class="atom-split" data-atom="0769_one_and_one_are_one" data-title="769. One and One — are One —" data-chapter="" data-kind="intro" data-tags="motif/death,concept/mortality,concept/immortality,concept/self_and_soul,concept/paradox,concept/education,form/lyric,form/epigram,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -1956,18 +1082,6 @@ Or the Everlasting —
 More — would be too vast  
 For the [[motifs/soul|Soul]]'s Comprising —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Uno e Uno — sono Uno —  
-Due — si smetta d'usarlo —  
-[[motifs/well|Bene]] abbastanza per le Scuole —  
-Ma per la Scelta Minore —  
-
-La Vita — appena — o la [[motifs/death|Morte]] —  
-O l'Eterno —  
-Di più — sarebbe troppo vasto  
-Perché l'[[motifs/soul|Anima]] lo Comprenda —
 
 
 
@@ -1990,23 +1104,6 @@ And that Assembly — not far off
 From furthest Spirit — [[characters/god|God]] —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Su un [[concepts/self|Sé]] Colonnare —  
-Com'è ampio affidarsi  
-Nel Tumulto — o all'Estremo —  
-Com'è buona la Certezza  
-
-Che Leva non può scardinare —  
-E Cuneo non può dividere  
-La Convinzione — Quella Base Granitica —  
-Benché Nessuno sia dalla nostra Parte —  
-
-Ci Basti — per una Folla —  
-Noi Stessi — e la Rettitudine —  
-E quell'Assemblea — non lontana  
-Dallo Spirito più remoto — [[characters/god|Dio]] —
-
 
 
 <span class="atom-split" data-atom="0798_she_staked_her_feathers_gained_an_arc" data-title="798. She staked her Feathers — Gained an Arc —" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/the_sea,concept/aspiration,concept/immortality,concept/self_and_soul,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2022,18 +1119,6 @@ Her steady Boat be seen —
 At [[motifs/home|home]] — among the Billows — As  
 The Bough where she was born —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Puntò le sue Piume — Guadagnò un Arco —  
-Esitò — [[motifs/rose|Risalì]] ancora —  
-Questa [[motifs/time|volta]] — oltre la stima  
-Dell'Invidia, o degli Uomini —  
-
-E ora, fra la Circonferenza —  
-Si vede la sua salda Barca —  
-A [[motifs/home|casa]] — fra i Flutti — Come  
-Il Ramo dove nacque —
 
 
 
@@ -2061,28 +1146,6 @@ Attended by a single Hound
 Its own [[concepts/identity|identity]].
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Questa Coscienza che è conscia  
-Dei Vicini e del [[motifs/sun|Sole]]  
-Sarà quella conscia della [[motifs/death|Morte]]  
-E che essa sola  
-
-Sta attraversando l'intervallo  
-Fra l'Esperienza  
-E il più profondo esperimento  
-Destinato agli Uomini —  
-
-Quanto adeguate a se stessa  
-Saranno le sue proprietà  
-Essa a se stessa e nessuno  
-Farà la scoperta —  
-
-Avventura massima a se stessa  
-L'[[motifs/soul|Anima]] condannata a essere —  
-Scortata da un unico Segugio  
-La propria [[concepts/identity|identità]].
-
 
 
 <span class="atom-split" data-atom="0830_to_this_world_she_returned" data-title="830. To this World she returned." data-chapter="" data-kind="intro" data-tags="motif/dust,motif/flowers,motif/marriage,concept/immortality,concept/self_and_soul,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2098,18 +1161,6 @@ Than to himself, allied,
 Dwelt hesitating, half of [[motifs/dust|Dust]],  
 And half of Day, the Bride.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-A questo Mondo ella tornò.  
-Ma con una tinta di quello —  
-Una maniera Composita,  
-Come una Zolla  
-Sposasse una Violetta,  
-Che più ai Cieli  
-Che al suo sposo, legata,  
-Dimorò esitante, metà di [[motifs/dust|Polvere]],  
-E metà di Giorno, la Sposa.
 
 
 
@@ -2127,18 +1178,6 @@ As an Estate perpetual
 Or a reduceless Mine.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Possedere l'Arte dentro l'[[motifs/soul|Anima]]  
-L'[[motifs/soul|Anima]] intrattenere  
-Con il [[motifs/silence|Silenzio]] per Compagnia  
-E mantenere Festa  
-
-È una Circostanza spoglia  
-Il Possesso è per Uno  
-Come un Podere perpetuo  
-O una Miniera che mai scema.
-
 
 
 <span class="atom-split" data-atom="0984_tis_anguish_grander_than_delight" data-title="984. 'Tis Anguish grander than Delight" data-chapter="" data-kind="intro" data-tags="motif/the_grave,concept/immortality,concept/suffering,concept/faith,form/lyric,histref/the_bible,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2155,18 +1194,6 @@ And Creatures clad in Miracle
 Go up by Two and Two.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-È Angoscia più grande della Delizia  
-È di [[concepts/resurrection|Resurrezione]] la [[motifs/pain|Pena]] —  
-Le Schiere in incontro dal Volto percosso  
-Cui domandammo, di nuovo.
-
-È Trasporto selvaggio quale freme le Tombe  
-Quando i Sudari lasciano la presa  
-E Creature vestite di Miracolo  
-Salgono a Due a Due.
-
 
 
 <span class="atom-split" data-atom="1009_i_was_a_phoebe_nothing_more" data-title="1009. I was a Phoebe — nothing more —" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/birds,concept/humility,concept/identity,concept/immortality_of_art,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2182,18 +1209,6 @@ Too shy, that any blame —
 A [[characters/phoebe|Phoebe]] makes a little print  
 Upon the Floors of Fame —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Ero una [[characters/phoebe|Phoebe]] — niente più —  
-Una [[characters/phoebe|Phoebe]] — niente meno —  
-La piccola nota che altri lasciavano cadere  
-Io la mettevo al suo posto —  
-
-Dimoravo troppo in basso perché alcuno cercasse —  
-Troppo schiva, perché alcuno biasimasse —  
-Una [[characters/phoebe|Phoebe]] lascia una piccola impronta  
-Sui Pavimenti della Fama —
 
 
 
@@ -2221,28 +1236,6 @@ And [[motifs/time|Time]] went out to tell the News
 And met [[concepts/eternity|Eternity]].
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Udii, come se non avessi Orecchio  
-Finché una Parola Vitale  
-Venne fino a me dalla Vita  
-E allora seppi che udivo.  
-
-Vidi, come se il mio Occhio fosse  
-D'un Altro, finché una Cosa  
-E ora so che era Luce, perché  
-Vi si adattò, entrò.  
-
-Dimoravo, come se Me stessa, fosse fuori,  
-Il mio [[concepts/body|Corpo]] soltanto dentro  
-Finché una Potenza mi scoprì  
-E insediò il mio nocciolo.  
-
-E lo Spirito si volse alla [[motifs/dust|Polvere]]  
-"Vecchia Amica, tu mi conosci,"  
-E il [[motifs/time|Tempo]] uscì a dare la Notizia  
-E incontrò l'[[concepts/eternity|Eternità]].
-
 
 
 <span class="atom-split" data-atom="1088_ended_ere_it_begun" data-title="1088. Ended, ere it begun —" data-chapter="" data-kind="intro" data-tags="motif/the_book,concept/grief_and_loss,concept/transience,concept/providence,concept/unrequited_love,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2259,18 +1252,6 @@ That it was not Our privilege
 The interdict of [[characters/god|God]] —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Finita, prima d'iniziare —  
-Il Titolo era appena detto  
-Quando la Prefazione perì dalla Coscienza  
-La Storia, non rivelata —  
-
-Fosse stato mio, stamparla!  
-Fosse stato vostro, leggerla!  
-Che non fosse Nostro privilegio  
-L'interdetto di [[characters/god|Dio]] —
-
 
 
 <span class="atom-split" data-atom="1090_i_am_afraid_to_own_a_body" data-title="1090. I am afraid to own a Body —" data-chapter="" data-kind="intro" data-tags="concept/self_and_soul,concept/identity,concept/immortality,concept/faith,concept/mortality,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2286,18 +1267,6 @@ Upon an unsuspecting Heir —
 Duke in a moment of Deathlessness  
 And [[characters/god|God]], for a Frontier.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Ho paura di possedere un [[concepts/body|Corpo]] —  
-Ho paura di possedere un'[[motifs/soul|Anima]] —  
-Profonda — precaria Proprietà —  
-Possesso, non facoltativo —  
-
-[[topoi/double|Duplice]] Patrimonio — vincolato a piacere  
-Su un Erede ignaro —  
-Duca in un attimo d'Immortalità  
-E [[characters/god|Dio]], per Frontiera.
 
 
 
@@ -2320,23 +1289,6 @@ And make much blunder, if at last
 I take the clue divine —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il mio Bozzolo si stringe — i Colori tentano —  
-Vado tastando in cerca d'Aria —  
-Un'oscura capacità di Ali  
-Avvilisce la Veste che indosso —  
-
-Un potere di Farfalla dev'esserci —  
-L'Attitudine a volare  
-Prati di Maestà implica  
-E facili Volteggi di Cielo —  
-
-Così devo smarrirmi al Cenno  
-E decifrare a stento il Segno  
-E molto sbagliare, se alfine  
-Colgo l'indizio divino —
-
 
 
 <span class="atom-split" data-atom="1135_too_cold_is_this" data-title="1135. Too cold is this" data-chapter="" data-kind="intro" data-tags="motif/death,concept/self_and_soul,concept/mortality,concept/immortality,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2353,19 +1305,6 @@ Contusion of the Husk
 Nor Rip, nor wrinkle indicate  
 But just an Asterisk.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Troppo freddo è questo  
-Per scaldarlo col [[motifs/sun|Sole]] —  
-Troppo rigido per esser piegato,  
-Congiungere quest'Agata sarebbe un'opera —  
-Da vincere lo sguardo della Muratura —  
-
-Come uscì l'Agile Gheriglio  
-Contusione del Guscio  
-Né Strappo, né grinza indicano  
-Ma solo un Asterisco.
 
 
 
@@ -2386,21 +1325,6 @@ And slowness — then the Scaffolds drop
 Affirming it a [[motifs/soul|Soul]].
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-I Puntelli assistono la Casa  
-Finché la Casa è costruita  
-E poi i Puntelli si ritirano  
-E adeguata, eretta,  
-La Casa sostiene se stessa  
-E cessa di ricordare  
-La Trivella e il Carpentiere —  
-Proprio un tale retrospetto  
-Ha la Vita perfezionata —  
-Un passato di Asse e Chiodo  
-E lentezza — poi le Impalcature cadono  
-Affermandola un'[[motifs/soul|Anima]].
-
 
 
 <span class="atom-split" data-atom="1165_contained_in_this_short_life" data-title="1165. Contained in this short Life" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/childhood,motif/night,concept/transience,concept/self_and_soul,concept/immortality,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2417,18 +1341,6 @@ Whose nameless Fathoms slink away
 Beside infinity
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Racchiuse in questa breve Vita  
-Sono magiche estensioni  
-L'[[motifs/soul|anima]] che torna lieve a [[motifs/night|notte]]  
-Per trafugarne più sicura  
-
-Come Bambini tenuti più stretti  
-Si volgono per primi al [[motifs/sea|mare]]  
-I cui Abissi senza nome sgusciano via  
-Accanto all'infinità
-
 
 
 <span class="atom-split" data-atom="1205_immortal_is_an_ample_word" data-title="1205. Immortal is an ample word" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,concept/immortality,concept/grief_and_loss,concept/faith,form/lyric,character/death_personified,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2444,18 +1356,6 @@ We fundamental know
 Except for its marauding Hand  
 It had been Heaven below.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Immortale è una parola ampia  
-Quando ciò che ci serve è accanto  
-Ma quando ci [[motifs/leaves|lascia]] per un [[motifs/time|tempo]]  
-È una necessità.  
-
-Del Cielo lassù la prova più ferma  
-Che in fondo conosciamo  
-Se non fosse per la sua Mano predatrice  
-Sarebbe stato Cielo quaggiù.
 
 
 
@@ -2488,33 +1388,6 @@ With the ecstatic limit
 Of unobtained Delight —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Scomparire accresce —  
-L'Uomo che fugge via  
-È tinto per un istante  
-D'[[concepts/immortality|Immortalità]]  
-
-Ieri appena un Vagabondo —  
-Oggi adagiato nella [[motifs/memory|Memoria]]  
-Con superstizioso valore  
-Armeggiamo con l'"Ancora"  
-
-Ma il "Mai" lontano quanto l'Onore  
-Ritira la Cosa senza pregio  
-E impotenti a custodire  
-Ci affrettiamo ad adornare —  
-
-Della [[motifs/death|Morte]] la funzione più severa  
-Che proprio mentre discerniamo  
-L'Eccellenza ci sfida —  
-Colta allora più al sicuro  
-
-Il Frutto ritroso al cogliere,  
-Ma proteso alla Vista  
-Con l'estatico limite  
-Di Delizia non ottenuta —
-
 
 
 <span class="atom-split" data-atom="1228_so_much_of_heaven_has_gone_from_earth" data-title="1228. So much of Heaven has gone from Earth" data-chapter="" data-kind="intro" data-tags="motif/animals,concept/faith_and_doubt,concept/immortality,concept/grief_and_loss,form/lyric,histref/christianity,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2536,23 +1409,6 @@ Unless you leave him — then return
 And he has hauled away.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Tanto di Cielo se n'è andato dalla Terra  
-Che un Cielo deve esserci  
-Non fosse che a racchiudere i Santi  
-Per Affidavit attestati.  
-
-Il Missionario presso la Talpa  
-Deve provare che esiste un Firmamento  
-La Posizione senza dubbio addurrebbe  
-Ma io che scusa ho?  
-
-Troppa Prova offende la Fede  
-La Tartaruga non ci prova  
-Se non la lasci — e poi ritorni  
-E lei si è trascinata via.
-
 
 
 <span class="atom-split" data-atom="1238_power_is_a_familiar_growth" data-title="1238. Power is a familiar growth —" data-chapter="" data-kind="intro" data-tags="motif/death,motif/dust,concept/mortality,concept/self_and_soul,concept/fate_and_free_will,form/aphorism,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2567,17 +1423,6 @@ When consciousness and clay
 Lean forward for a final glance —  
 Disprove that and you may —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il Potere è una crescita familiare —  
-Non estranea — non a venire —  
-Accanto a noi come un blando Abisso  
-In ogni compagnia —  
-Sfuggirgli — non v'è che una possibilità —  
-Quando coscienza e argilla  
-Si protendono per un ultimo sguardo —  
-Confuta questo e potrai —
 
 
 
@@ -2637,60 +1482,6 @@ He will refund us finally
 Our confiscated Gods —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Poiché tu te ne vai  
-E mai più tornerai  
-Ed io, per quanto assoluta,  
-Potrei smarrire la tua Traccia —  
-
-Poiché la [[motifs/death|Morte]] è finale,  
-Per quanto prima essa sia,  
-Quest'istante sia sospeso  
-Sopra la [[concepts/mortality|Mortalità]] —  
-
-Significato che ciascuno ha vissuto  
-Per scoprire l'altro  
-Scoperta che non [[characters/god|Dio]] stesso  
-Potrebbe ora annientare  
-
-[[concepts/eternity|Eternità]], Presunzione  
-Nell'istante in cui percepisco  
-Che tu, che eri Esistenza  
-Tu stesso scordasti di vivere —  
-
-La "Vita che è" sarà allora stata  
-Cosa che mai conobbi —  
-Come Paradiso fittizio  
-Fino al Reame di te —  
-
-La "Vita che sarà," per me,  
-Dimora troppo spoglia  
-Se nel Volto del mio Redentore  
-Non riconosco il tuo —  
-
-Dell'[[concepts/immortality|Immortalità]] chi dubita  
-1306  
-
-Può fare cambio con me  
-Ridotta dal tuo Volto che oscura  
-Ogni cosa fuorché Lui —  
-
-Di Cielo e Inferno anche cedo  
-Il Diritto di riprendere  
-A chiunque scambierebbe questo Volto  
-Per il suo Amico meno inestimabile.  
-
-Se "[[characters/god|Dio]] è [[motifs/love|Amore]]" come ammette  
-Pensiamo che me debba essere  
-Poiché egli è un "[[characters/god|Dio]] geloso"  
-Ce lo dice certamente  
-
-Se "Tutto è possibile con" lui  
-Come inoltre concede  
-Egli ci rimborserà infine  
-I nostri Dèi confiscati —
-
 
 
 <span class="atom-split" data-atom="1261_a_word_dropped_careless_on_a_page" data-title="1261. A Word dropped careless on a Page" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/letters_writing,motif/the_book,motif/death,concept/immortality_of_art,concept/melancholy,concept/the_artist_and_society,form/epigram,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2706,18 +1497,6 @@ We may inhale [[concepts/despair|Despair]]
 At distances of Centuries  
 From the Malaria —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Una Parola caduta incurante su una Pagina  
-Può stimolare un occhio  
-Quando ripiegato in perpetua piega  
-Giace il Rugoso Artefice  
-
-Infezione nella frase cova  
-Possiamo inalare [[concepts/despair|Disperazione]]  
-A distanze di Secoli  
-Dalla Malaria —
 
 
 
@@ -2739,23 +1518,6 @@ A function fresh obtain?
 Old Nicodemus' [[characters/phantom|Phantom]]  
 Confronting us again!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-L'Osso che non ha Midollo,  
-Quale Fine ultimo per esso?  
-Non è adatto alla Tavola  
-Né per Mendicante né per Gatto.  
-
-Un Osso ha degli obblighi —  
-Un Essere ha gli stessi —  
-Un'Assemblea senza Midollo  
-È più colpevole della vergogna.  
-
-Ma come otterranno Creature compiute  
-Una funzione nuova?  
-Il [[characters/phantom|Fantasma]] del vecchio Nicodemo  
-Ci si para innanzi ancora!
 
 
 
@@ -2785,30 +1547,6 @@ No Territory new is staked —
 Remain thou as thou art.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Della Vita da possedere —  
-Dalla Vita da attingere —  
-Ma mai toccare il serbatoio —  
-1341  
-
-1294. DUE LUNGHEZZE HA OGNI GIORNO — 
-
-Due Lunghezze ha ogni Giorno —  
-La sua estensione assoluta  
-E un'Area superiore  
-Da [[concepts/hope|Speranza]] o Orrore prestata —  
-
-L'[[concepts/eternity|Eternità]] sarà  
-Velocità o Pausa  
-A Segnali Fondamentali  
-Da Leggi Fondamentali.  
-
-Morire non è andare —  
-Sulla Carta compiuta del Destino  
-Nessun Territorio nuovo è tracciato —  
-Rimani tu qual sei.
-
 
 
 <span class="atom-split" data-atom="1305_recollect_the_face_of_me" data-title="1305. Recollect the Face of me" data-chapter="" data-kind="intro" data-tags="archetype/pilgrim,motif/memory,motif/death,concept/immortality,concept/faith,concept/grief_and_loss,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2824,18 +1562,6 @@ Other Courtesy may be —
 We commend ourselves to thee  
 Paragon of Chivalry.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Ricorda il Volto di me  
-Quando nella tua Felicità,  
-Atteso in Paradiso oggi  
-Ospite mio di certo —  
-
-Altre Cortesie vi sono state —  
-Altra Cortesia potrà esservi —  
-Ci raccomandiamo a te  
-Paragone di Cavalleria.
 
 
 
@@ -2853,18 +1579,6 @@ That comprehension antedates
 And estimates us there —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Forse non vanno così lontano  
-Come noi che restiamo, supponiamo —  
-Forse vengono più vicino, per il cadere  
-Delle loro vesti corporee —  
-
-Può darsi sappiano con tale certezza  
-Quanto poco abbiamo da [[concepts/fear|temere]]  
-Che la comprensione ci precede  
-E ci calcola già là —
-
 
 
 <span class="atom-split" data-atom="1425_the_inundation_of_the_spring" data-title="1425. The inundation of the Spring" data-chapter="" data-kind="intro" data-tags="motif/spring,motif/water,motif/seasons,concept/self_and_soul,concept/faith,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2880,18 +1594,6 @@ Seeks faintly for its shore
 But acclimated — pines no more  
 For that Peninsula —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-L'inondazione della [[motifs/spring|Primavera]]  
-Ingrandisce ogni [[motifs/soul|anima]] —  
-Spazza via la dimora  
-Ma [[motifs/leaves|lascia]] intera l'[[motifs/water|Acqua]] —  
-
-In cui l'[[motifs/soul|anima]] dapprima straniera —  
-Cerca fioca la sua riva  
-Ma acclimatata — non si strugge più  
-Per quella Penisola —
 
 
 
@@ -2911,21 +1613,6 @@ How little work it be —
 To put off filaments like this  
 for [[concepts/immortality|immortality]]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Con Penne di Sdegno  
-L'[[motifs/soul|anima]] può volare più lontano  
-Di qualunque piuma registrata  
-in Ornitologia —  
-Solleva questa sordida Carne  
-Oltre il suo ottuso — controllo  
-E durante la sua elettrica burrasca —  
-Il [[concepts/body|corpo]] è un'[[motifs/soul|anima]] —  
-istruendo con ciò stesso —  
-Quanto poca fatica sia —  
-Deporre filamenti come questi  
-per l'[[concepts/immortality|immortalità]]
 
 
 
@@ -2952,27 +1639,6 @@ Is absolute as [[characters/god|God]],
 And instant, too.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Del Cielo più remoti,  
-Perché il Cielo è la radice,  
-Ma questi il seme volato via.  
-Più fuggiti invero  
-Di quelli che mai furono,  
-O di quelli che si celano, e sono.  
-
-Che [[concepts/madness|follia]], al loro fianco,  
-Offrire una visione  
-Di giorni futuri  
-Che non possono lodare.  
-
-[[motifs/soul|Anima]] mia, a trovarli, vieni,  
-Non possono chiamare, sono muti,  
-Né provare, né corteggiare,  
-Ma che abbiano dimora  
-È assoluto come [[characters/god|Dio]],  
-E istantaneo, pure.
-
 
 
 <span class="atom-split" data-atom="1454_those_not_live_yet" data-title="1454. Those not live yet" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/death,concept/mortality,concept/immortality,concept/self_and_soul,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -2991,20 +1657,6 @@ Costumeless Consciousness —
 That is he —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Non vivono ancora quelli  
-Che [[concepts/doubt|dubitano]] di vivere di nuovo —  
-"Di nuovo" è di un due volte  
-Ma questo — è una —  
-La [[motifs/ship|Nave]] sotto il Ponte levatoio  
-In secca — lui?  
-La [[motifs/death|Morte]] — così — il Trattino del [[motifs/sea|Mare]] —  
-Profondo è il Registro  
-Del Disco che sarà —  
-Coscienza senza Costume —  
-Questo è lui —
-
 
 
 <span class="atom-split" data-atom="1499_how_firm_eternity_must_look" data-title="1499. How firm Eternity must look" data-chapter="" data-kind="intro" data-tags="concept/immortality,concept/faith,concept/self_and_soul,concept/mortality,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3021,18 +1673,6 @@ To whom not any Face cohere —
 Unless concealed in thee
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Come salda deve apparire l'[[concepts/eternity|Eternità]]  
-A uomini in rovina come me  
-Il solo Possesso Adamantino  
-In tutta l'[[concepts/identity|Identità]] —  
-
-Come possente all'insicuro  
-La tua Fisionomia  
-Per cui nessun Volto ha coesione —  
-Se non celato in te
-
 
 
 <span class="atom-split" data-atom="1525_he_lived_the_life_of_ambush" data-title="1525. He lived the Life of Ambush" data-chapter="" data-kind="intro" data-tags="motif/death,motif/stars,motif/light_and_dark,concept/immortality,form/elegy,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3047,17 +1687,6 @@ Impregnable we are —
 The whole of [[concepts/immortality|Immortality]] intrenched  
 Within a star —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Visse la Vita dell'Agguato  
-E se ne andò per la via del Crepuscolo  
-E ora accanto al suo nome sottile  
-Sta un Asterisco  
-Fiducioso di lui quanto noi —  
-Inespugnabili siamo —  
-L'intera [[concepts/immortality|Immortalità]] trincerata  
-Dentro una stella —
 
 
 
@@ -3078,22 +1707,6 @@ And that dissolves the days
 Through which existence strays  
 Homeless at [[motifs/home|home]].
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Verso il luminoso oriente ella vola,  
-Fratelli del Paradiso  
-Rimandatela a [[motifs/home|casa]],  
-Senza un cambio d'ali,  
-O le comode cose dell'[[motifs/love|Amore]],  
-Indotta a venire.  
-
-Foggiando ciò che è,  
-Scandagliando ciò che era,  
-Crediamo di sognare —  
-E questo dissolve i giorni  
-In cui l'esistenza vaga  
-Senza casa, a [[motifs/home|casa]].
 
 
 
@@ -3126,33 +1739,6 @@ Not even a Prognostic's Push
 Could make a Dent thereon —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Lo Spirito dura — ma in quale modo —  
-Quaggiù, il [[concepts/body|Corpo]] parla,  
-Ma solo come lo Spirito concede —  
-Separato, non parla mai —  
-La Musica nel Violino  
-Non emerge sola  
-Ma a Braccetto col Tocco, eppure il Tocco  
-Solo — non è Melodia —  
-Lo Spirito si cela nella Carne  
-Come Maree dentro il [[motifs/sea|Mare]]  
-Che fanno viva l'[[motifs/water|Acqua]], separati  
-Cosa sarebbe l'Uno o l'Altra?  
-Lo sa — ora — o cessa —  
-Ciò che a questo vien fatto,  
-Riprendendo a una data comune  
-Con ogni futuro essere?  
-L'Istinto incalza l'Adamante,  
-Esigendo questa Risposta —  
-Avversità se così sarà, oppure  
-Selvaggia Prosperità,  
-La Porta della Voce fu serrata così stretta  
-Prima che la mia Mente fosse seminata,  
-Che nemmeno la Spinta d'un Prognostico  
-Poté farvi un'Ammaccatura —
-
 
 
 <span class="atom-split" data-atom="1584_expanse_cannot_be_lost" data-title="1584. Expanse cannot be lost —" data-chapter="" data-kind="intro" data-tags="motif/death,concept/immortality,concept/grief_and_loss,concept/the_sublime,concept/providence,form/elegy,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3177,26 +1763,6 @@ The Tent is listening,
 But the Troops are gone!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La Distesa non può perdersi —  
-Non [[concepts/joy|Gioia]], ma un Decreto  
-È la Deità —  
-La sua Scena, l'Infinito —  
-La cui Porta di voci fu serrata così stretta  
-Prima che il mio Raggio fosse seminato,  
-Che nemmeno la spinta d'un Prognostico  
-Poté farvi un'Ammaccatura —  
-
-Il Mondo che tu hai aperto  
-Si chiude per te,  
-Ma non solo,  
-Noi tutti ti abbiamo seguito —  
-Fuggi più lentamente  
-Verso le tue Distese di Splendore —  
-La Tenda è in ascolto,  
-Ma le Truppe sono andate!
-
 
 
 <span class="atom-split" data-atom="1587_he_ate_and_drank_the_precious_words" data-title="1587. He ate and drank the precious Words —" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/the_book,motif/food_feasting,motif/dust,concept/immortality_of_art,concept/self_and_soul,concept/joy,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3213,18 +1779,6 @@ Was but a Book — What [[concepts/liberty|Liberty]]
 A loosened spirit brings —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Mangiò e bevve le Parole preziose —  
-Il suo Spirito si fece robusto —  
-Non seppe più d'esser povero,  
-Né che la sua forma era [[motifs/dust|Polvere]] —  
-
-Danzò lungo i Giorni squallidi  
-E questo Lascito d'Ali  
-Era solo un Libro — Che [[concepts/liberty|Libertà]]  
-Porta uno spirito sciolto —
-
 
 
 <span class="atom-split" data-atom="1630_as_from_the_earth_the_light_balloon" data-title="1630. As from the earth the light Balloon" data-chapter="" data-kind="intro" data-tags="motif/dust,motif/birds,motif/music_and_song,concept/self_and_soul,concept/immortality,concept/mortality,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3240,18 +1794,6 @@ With indignation,
 As a Bird  
 Defrauded of its song.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Come dalla terra il lieve Pallone  
-Non chiede altro che liberazione —  
-Ascensione ciò per cui esisteva,  
-La sua Dimora che si libra.  
-Lo spirito guarda la [[motifs/dust|Polvere]]  
-Che tanto a lungo lo avvinse  
-Con indignazione,  
-Come un Uccello  
-Defraudato del suo canto.
 
 
 
@@ -3270,19 +1812,6 @@ Besets the sight
 This mighty [[motifs/night|night]] —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Perché dovremmo affrettarci — perché mai?  
-Quando per ogni via voliamo  
-Siamo molestati ugualmente  
-Dall'[[concepts/immortality|immortalità]].  
-Nessuna tregua dall'inferenza  
-Che questo che è iniziato,  
-Benché dove giacciano le sue fatiche  
-Una blanda incertezza  
-Assedia lo sguardo  
-Questa possente [[motifs/night|notte]] —
-
 
 
 <span class="atom-split" data-atom="1663_his_mind_of_man_a_secret_makes" data-title="1663. His mind of man, a secret makes" data-chapter="" data-kind="intro" data-tags="motif/silence,concept/identity,concept/self_and_soul,concept/alienation,concept/appearance_vs_reality,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3299,18 +1828,6 @@ Impregnable to inquest
 However neighborly —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La sua mente d'uomo, un segreto fa  
-lo incontro con un sussulto  
-egli porta una circonferenza  
-nella quale non ho parte —  
-
-O anche se credo di averla  
-lui può sapere altrimenti  
-Inespugnabile all'inchiesta  
-per quanto amichevole —
-
 
 
 <span class="atom-split" data-atom="l0002_mrs_a_p_strong" data-title="To Mrs. A. P. Strong" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/the_book,concept/friendship,concept/creativity_and_artistic_labor,form/letter,setting/new_england,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3321,12 +1838,6 @@ Please send me a copy of that Romance you were writing at Amherst. I am in a fev
 After this postscript many others follow, across the top, down the edges, tucked in wherever space will allow. There are also a few lines from each of three girl friends to “dear A.”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Per favore, inviami una copia di quel romanzo che stavi scrivendo ad Amherst. Non vedo l’ora di leggerlo. Immagino che vada contro i miei principi politici whig.
-
-Dopo questo postscript ne seguono molti altri: distribuiti in alto, lungo i bordi, nascosti ovunque ci sia spazio. Ci sono anche alcune righe inviate da ciascuna delle tre amiche per “caro A”.
-
 
 
 <span class="atom-split" data-atom="l0015_mrs_a_p_strong" data-title="To Mrs. A. P. Strong" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/the_book,concept/creativity_and_artistic_labor,concept/education,concept/friendship,form/letter,setting/new_england,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3336,12 +1847,6 @@ P. S. Our Section have commenced reading compositions, and we read once in a mon
 
 Intellectual brilliancy of an individual type was already at seventeen her distinguishing characteristic, and nothing of the recluse was yet apparent. Traditions of extraordinary compositions still remain; and it is certain that each was an epoch for those who heard, whether teachers or pupils. An old friend and schoolmate of Emily tells me that she was always surrounded by a group of girls at recess, to hear her strange and intensely funny stories, invested upon the spot.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-P.S. La nostra sezione ha iniziato a leggere composizioni; le leggiamo una volta al mese e in quel lasso di tempo ne scriviamo due.
-
-La brillantezza intellettuale di quel tipo di persona era già una sua caratteristica distintiva all’età di diciassette anni; ancora nulla, però, della sua natura riservata e solitaria era evidente. Le sue composizioni straordinarie sono ancora ricordate oggi; è certo che ogni singola di esse rappresentasse un momento importante per chi le ascoltava, sia che si trattasse di insegnanti che di studenti. Un vecchio amico e compagno di scuola di Emily mi ha raccontato che, durante le pause, lei era sempre circondata da un gruppo di ragazze che ascoltavano con attenzione le sue storie strane e incredibilmente divertenti, narrate sul momento stesso.
 
 
 
@@ -3363,22 +1868,6 @@ I can think of no other way than for you, my dear girl, to come here—we are gr
 . . . You are growing wiser than I am, and nipping in the bud fancies which I let blossom—perchance to bear no fruit, or if plucked, I may find it bitter. The shore is safer, A., but I [[motifs/love|love]] to buffet the [[motifs/sea|sea]]—I can count the bitter wrecks here in these pleasant waters, and hear the murmuring winds, but oh, I [[motifs/love|love]] the danger! You are learning control and firmness. [[characters/christ|Christ]]. Jesus will [[motifs/love|love]] you more. I'm afraid he don't [[motifs/love|love]] me any! . . . Write when you will, my friend, and forget all amiss herein, for as these few imperfect words to the full communion of spirits, so this small giddy life to the better, the life eternal, and that we may live this life, and be filled with this true communion, I shall not cease to pray.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Scrivo fino a [[motifs/night|notte]], perché è fresco e tranquillo, e posso dimenticare le fatiche e i problemi della giornata frenetica. E poi sono anche un po’ egoista: mi sento solo; alcuni dei miei amici se ne sono andati, altri dormono. Il momento del tramonto è triste. Un tempo era il mio orario di studio. Il mio maestro si è riposato. La pagina aperta del libro, e io, da solo a scuola. Questo mi fa venire le lacrime. E non posso scacciarle via. Anzi, non lo vorrei nemmeno, perché sono l’unico modo in cui posso rendere omaggio al defunto Humphrey.
-
-Sei già stato accanto a quella [[motifs/grave|tomba]] in passato; anch'io ho camminato lì nelle dolci serate estive, leggendo i nomi scritti sulle pietre e chiedendomi chi sarebbe venuto a offrirmi lo stesso ricordo. Ma non ho mai sepolto i miei amici lì, né dimenticato che anche loro devono morire. Questa è la mia prima sofferenza. E davvero è difficile da sopportare. Per coloro che hanno perso troppo spesso, per chi la “casa” non esiste più e il contatto con gli amici avviene soltanto attraverso le preghiere, deve esserci ancora molto su cui sperare. Ma quando lo spirito irrisolto non ha più nulla se non Dio, allora quel spirito è davvero solo. Non credo che ci sarà mai più sole, né canti di uccelli nella primavera che sta per arrivare. Cercherò di non dire altro. I miei pensieri ribelli sono molti. L’amico che amo e in cui confido ha molto da perdonarmi. Vorrei essere qualcun altro. Pregerei con la preghiera del “fariseo”. Ma io sono soltanto un povero “pubblicano”. “Figlio di Davide”, guarda giù su di me!
-
-È passato molto tempo da quando mi hai scritto; ricordo che le [[motifs/leaves|foglie]] cadevano. E ora nevica. Chi fa la differenza tra le due cose? Non sono forse le [[motifs/leaves|foglie]] “fratelli” della neve?
-
-Allora non può essere passato molto tempo da allora, anche se davvero pensavo che fosse trascorso molto. Non siamo più così giovani come una volta, e il [[motifs/time|tempo]] sembra diventare sempre più lungo. Sogno di diventare una nonna, di intrecciare i miei capelli bianchi. E sembro davvero accettare con serenità l’idea di invecchiare. Non dubito che tu, ora, come da piccola, giochi ancora con le cavalline a dondolo. Che strano contrasto: io che intreccio i miei capelli grigi, e tu che giochi con la tua [[motifs/childhood|infanzia]]. Due vecchie signore in declino. Dove sei, mia cara amica d’un tempo. O tu, così giovane e dolce. Forse è davvero presuntuoso da parte mia rivolgermi a te, non sapendo se tu abiti ancora qui, o se il mio “uccellino” sia già volato via in un altro mondo. Quando penso ai miei amici che [[motifs/love|amo]], al poco tempo che possiamo trascorrere insieme qui, e poi, “andremo via”, provo una profonda nostalgia, un desiderio ardente e ansioso. Che nessuno di loro venga portato via, così da non poterli più vedere. Vorrei che fossi qui, proprio qui, dove posso vederti, sentirti. E dove possa dire “Oh, no, ” se mai il “Figlio dell’Uomo” dovesse venire.
-
-Non basta più, di tanto in tanto, a lunghi e incerti intervalli, sentire che sei vivo e [[motifs/well|in buona salute]]. Non mi interessa il [[concepts/body|corpo]], amo l’[[motifs/love|'anima]] timida, quella che arrossisce e si ritira; si nasconde, perché ha paura. E quel corpo audace, invadente. Prega, marmo. Mi hai chiamato? Siamo molto piccoli. Penso che diventiamo ancora più piccoli. Questa minuscola vita, simile a quella di un insetto. È forse il portale verso qualcos’altro. Sembra strano. Davvero strano. Temo che siamo tutti indegni. Eppure entreremo comunque.
-
-Non riesco a pensare a nessun altro modo se non che tu, mia cara ragazza, venga qui: ci stiamo allontanando l’uno dall’altro, e anche ora parliamo come estranei. Per dimenticare i “miei” e i “tuoi”, gli amici più cari devono incontrarsi di tanto in tanto. E allora nasce quel “legame spirituale” che, se ho ragione, è proprio l’“unità”.
-
-, Stai diventando più saggio di me; spegni sul nascere quelle fantasie che io lasciavo fiorire. Forse non darebbero frutto, o, se raccolte, potrebbero rivelarsi amare. La riva è più sicura, A., ma io amo sfidare il [[motifs/sea|mare]]. Posso contare i relitti amari in queste acque tranquille, ascoltare il mormorio dei venti. Ma oh, amo proprio quel pericolo! Stai imparando a controllarti e ad essere deciso. [[characters/christ|Cristo]]. Gesù ti amerà ancora di più. Temo che lui non mi ami affatto. Scrivi quando vuoi, mio amico. Dimentica tutto ciò che è stato sbagliato. Poiché queste poche parole imperfette rappresentano una forma di vera comunione tra gli spiriti, così anche questa breve e incerta vita può portarci verso la vita eterna. E affinché possiamo vivere davvero in questa comunione, non smetterò mai di pregare.
-
 
 
 <span class="atom-split" data-atom="l0073_mr_william_austin_dickinson_saturday_noon" data-title="To Mr. William Austin Dickinson, Saturday Noon" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/the_book,concept/literary_criticism,concept/friendship,concept/the_artist_and_society,form/letter,setting/new_england,character/uncle_tom,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3390,15 +1879,6 @@ After a page or two of information about friends in the village, the [[forms/let
 
 This is all the news I can think of, but there is one old story, Austin, which you may like to hear—it is that we think about you the whole of the livelong day, and talk of you when we're together. And you can recollect when you are busy studying that those of us at [[motifs/home|home]] not so hard at work as you are, get much [[motifs/time|time]] to be with you. We all send our [[motifs/love|love]] to you.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Caro Austin,  
-Dalla tua lettera ho pensato che i miei saggi, insieme alle lezioni tenute a Cambridge, fossero troppo per te, quindi ho deciso di darti una piccola pausa; ma ormai devi esserti riposato, quindi riprenderò con la serie. Mio padre è stato molto severo con me: pensava che ti stessi prendendo in giro, e mi ha rimproverato aspramente riguardo a “Zio Tom”, a “[[historical-references/charles-dickens|Charles Dickens]]” e a questi “letterati moderni” che, secondo lui, non valgono nulla rispetto alle generazioni passate che fiorirono quando era ragazzo. Ha anche menzionato alcune “feste di qualcuno”, non so di chi, che secondo lui erano molto ridicole. Quindi al momento sono in una situazione piuttosto imbarazzante, ma penso a quella “vittoria” che tu raggiungi sempre quando qualcuno ti offende, e questo mi dà un po’ di conforto.
-
-Dopo una o due pagine di informazioni sui amici del villaggio, la [[forms/letter|lettera]] prosegue:
-
-Queste sono tutte le notizie che mi vengono in mente, ma c’è una vecchia storia, Austin, che forse ti piacerebbe ascoltare: pensiamo a te tutto il giorno e ne parliamo quando siamo insieme. E puoi ricordare che, mentre sei impegnato nello studio, noi che siamo a [[motifs/home|casa]], non essendo così impegnati come te, abbiamo molto più [[motifs/time|tempo]] per stare con te. Vi inviamo tutti il nostro [[motifs/love|affetto]].
 
 
 
@@ -3422,24 +1902,6 @@ Roses of a steadfast [[motifs/summer|summer]] In a steadfast land, Where no [[mo
 In addition to these, many other poems were sent to the Hollands, which have already been published; all of them, however, showing slight changes from copies which she retained.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Scritte con una grafia simile a quella delle lettere risalenti al periodo 1862-68, ci sono diverse poesie inviate agli Hollands; tra queste.
-
-Lontano da [[motifs/home|casa]], alcuni si trovano. E io, un emigrato. Trovarsi in una metropoli di case è una possibilità comune. L’abitudine a vivere sotto un cielo straniero. La acquisiamo con difficoltà. Come bambini che rimangono fermo davanti alla porta. Mentre i loro piedi si allontanano sempre di più.
-
-E, davvero…
-
-Anche se il mio destino è di semplice stoffa, il suo è di seta pregiata; anche se lei indossa un grembiule d’argento, io, meno divino.
-
-Lo stesso, essendo la mia piccola zingara, preferirei di gran lunga. Lo stesso, con il mio seno leggermente abbronzato, piuttosto che il suo più rossiccio.
-
-Perché quando i loro dita gelide si posano sulla sua fronte, tu, io e il Dottor Holland fioriremo per sempre.
-
-Rose di un estivo fedele, In una terra immutabile, Dove nessun autunno solleva il suo “pennello”, E dove non ci sono mietitori.
-
-Oltre a queste, molte altre poesie furono inviate agli Olandesi e sono già state pubblicate; tuttavia, tutte presentano lievi differenze rispetto alle copie che lei aveva conservato.
-
 
 
 <span class="atom-split" data-atom="l0180_mr_samuel_bowlers_and_mrs_bowles" data-title="To Mr. Samuel Bowlers and Mrs. Bowles" data-chapter="" data-kind="intro" data-tags="motif/death,concept/death,concept/grief_and_loss,concept/mortality,form/letter,setting/new_england,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3447,10 +1909,6 @@ Oltre a queste, molte altre poesie furono inviate agli Olandesi e sono già stat
 
 In January of 1878, Mr. Bowles died, leaving a sense of irreparable loss, not only to his friends, but to his great constituency through The Republican, into whose success he had woven the very tissue of his own magnetic personality.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Nel gennaio del 1878, il signor Bowles morì, lasciando un senso di perdita irrimediabile non solo tra i suoi amici, ma anche tra i suoi numerosi sostenitori attraverso il giornale “The Republican”, nel successo del quale aveva intrecciato la trama stessa della propria personalità carismatica.
 
 
 
@@ -3469,20 +1927,6 @@ David's grieved decision haunted me when a little girl. I [[concepts/hope|hope]]
 
 If affection can reinforce, you, dear, shall not fall.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Cara Mary, —L’ultima primavera in cui nostro padre era ancora vivo, ci furono diverse tempeste di neve; gli uccellini, spaventati e intirizziti dal freddo, si sedevano vicino alla porta della cucina. Padre andò nel fienile con le pantofole e tornò con del cibo per tutti; lo distribuì in segreto, per non metterli in imbarazzo. Ignari del nome o del destino del loro benefattore, i suoi discendenti stanno cantando questa sera.
-
-Mentre guardavo il tuo bellissimo regalo, il suo “aprile” è tornato. Sono impotente di fronte alla tua tenerezza.
-
-I ringraziamenti di altri giorni sembrano poveri e sbiaditi, ma gli antichi altari sono i più profumati. Il passato è stato molto vicino questa settimana, ma non così vicino come il futuro, entrambi ci chiamano, ma il secondo è inestimabile.
-
-La dolorosa decisione di David mi perseguitava. Spero che abbia trovato Absalom.
-
-L’[[concepts/immortality|immortalità]], quando è un dono ricevuto come ospite, è qualcosa di sacro; ma quando diventa qualcosa che ci riguarda tutti, noi membri della [[concepts/family|famiglia]], il legame diventa ancora più profondo.
-
-Se l'affetto può rafforzarti, allora tu, caro, non cadrai.
 
 
 
@@ -3504,22 +1948,6 @@ Publication is the auction Of the mind of man.
 But the Prelude to the Poems, First Series, almost seems to indicate the thought of a possible future public, when she herself should be beyond the reach of the praise or criticism which her writing might call forth.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La nuova chiesa del college fu donata nel 1870 dal signor William French Stearns, fratello di Frazer di cui si parlava con tanta tristezza; le campane della chiesa costituivano un memoriale degli studenti dell’Amherst College caduti in guerra. Un cannone, attualmente conservato nella Williston Hall del college stesso, fu donato dal generale Burnside su richiesta del colonnello Clark, in amorevole [[motifs/memory|memoria]] di Frazer Stearns, il primo tra tutti gli studenti dell’Amherst College ad arruolarsi nell’esercito, per un totale di quasi duecentocinquanta persone.
-
-Un cuore malvagio, proprio come un [[concepts/body|-corpo]], ha i suoi giorni di conforto e poi i giorni di [[motifs/pain|dolore]], quei lunghi periodi in cui riprendersi richiede più sforzo che porre fine alla vita stessa, e in cui la [[motifs/death|morte]] sembra l’unica soluzione possibile.
-
-Di Miss P. Lo so, ma questa lettera. Mi scrisse nell’ottobre chiedendomi di aiutare il mondo cantando di più. Forse lo definì un mio dovere; non ricordo esattamente. Comunque brucio sempre queste lettere, quindi ora non posso più trovarla. Le risposi rifiutando. Non mi ha più scritto. Forse si è offesa, o forse sta cercando di salvare l’umanità da qualche situazione disperata.
-
-Emily veniva spesso assediata da diverse persone, sia letterarie che altre, che le chiedevano di utilizzare il suo “talento” al servizio del mondo, ma lei rifiutò sempre categoricamente di pubblicare nulla durante la sua vita. Negli anni, continuò costantemente a scrivere versi; e sebbene, come già accennato, spesso includesse poesie nelle lettere inviate agli amici, il fatto che ogni anno ne scrivesse molte altre rimase un suo segreto personale. Anche i suoi metodi letterari erano unici: probabilmente buttava giù spesso, più volte al giorno, gli pensieri che le venivano in mente. La scatola contenente questi “scarabocchi” trovata dalla sua sorella dopo la sua [[motifs/death|morte]] ne è la prova decisiva; alcuni dei suoi versi più rari furono infatti scritti sui margini di giornali, sul retro di buste o su qualsiasi pezzo di carta fosse a portata di mano, mentre lei era impegnata in altre attività. Nei poemi copiati con maggiore cura si riscontrano molte modifiche, ma è interessante notare che nessuna di esse riguarda miglioramenti nella rima o nel ritmo. Ogni suggerimento per cambiare una parola o una frase aveva lo scopo evidente di rendere il pensiero più chiaro, e non mai semplicemente quello di rendere la forma del testo più fluida.
-
-Non si sa se Emily Dickinson avesse idea che le sue opere sarebbero mai state pubblicate. A meno che un amico, occasionalmente, non “trasformasse l’amore in furto”, come qualcuno ha detto saggiamente, nulla fu stampato prima della sua [[motifs/death|morte]]. Anzi, uno dei suoi poemi inizia proprio con questa frase.
-
-La pubblicazione rappresenta, in sostanza, l’“asta” del pensiero umano.
-
-Ma la “Preludio ai Poemi, Prima Serie” sembra quasi indicare l’idea di un possibile futuro pubblico, in cui lei stessa sarebbe al di là della portata dei complimenti o delle critiche che le sue opere potrebbero suscitare.
-
 
 
 <span class="atom-split" data-atom="l0245_the_misses_august_1876" data-title="To the Misses, August, 1876" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/summer,motif/death,motif/dreams,motif/animals,motif/storm,motif/memory,concept/death,concept/grief_and_loss,concept/memory,concept/the_unseen,concept/faith,form/letter,histref/the_bible,setting/new_england,character/branwell_bronte,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3534,16 +1962,6 @@ Vinnie has a new pussy the color of Branwell Brontë's hair. She thinks it a lit
 Dr. Steams died homelike, asked Eliza for a saucer of strawberries, which she brought him, but he had no hands. “In such an hour as ye think not” means something when you try it.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cari cugini, —il signor S—aveva parlato bene di voi prima che voi parlaste di lui. I bei momenti sono sempre reciproci; è proprio questo che li rende tali. Sono felice che ciò vi abbia rallegrati.
-
-Non abbiamo avuto alcuna [[motifs/rain|pioggia]] per sei settimane, tranne una tempesta con tuoni terribili; a causa di essa abbiamo chiuso a chiave le porte e l’[[motifs/clock|orologio]] si è fermato, sembrava davvero il Giorno del Giudizio. Il caldo è insopportabile, l’erba è così immobile che le mosche ci si posano sopra. Ho paura, potrei perdere la speranza. Gli annunci riguardanti il “commercio autunnale” nei giornali affrettati portano con sé un senso di freschezza.
-
-Vinnie ha un nuovo gattino di colore uguale ai capelli di Branwell Brontë. Lei pensa che sia “un po’ inferiore agli angeli”, e sono d’accordo con lei. Ricordi che il mio gatto ideale ha sempre un grosso topo in bocca, che sparisce dalla vista, anche se sparire dalla vista ha un fascino particolare. È vero: l’ignoto rappresenta il bisogno più grande dell’intelligenza, anche se per questo nessuno pensa mai a ringraziare [[characters/god|Dio]]., Mamma è stanca a causa del caldo, ma per il resto non cambia nulla. Ogni [[motifs/night|notte]] sogno di mio padre, sempre sogni diversi, e dimentico quello che faccio durante il giorno, chiedendomi dove sia. Senza nessuno, continuo a pensare. Di che tipo può essere questo pensiero?
-
-Il dottor Steams morì in modo tranquillo; chiese ad Eliza una ciotola di fragole, che gli portò, ma lui non aveva più le mani. “In un momento come non te lo immagini” significa qualcosa quando ci si trova davvero in quella situazione.
-
 
 
 <span class="atom-split" data-atom="l0249_the_misses_december_1880" data-title="To the Misses, December, 1880" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_book,motif/childhood,concept/death,concept/grief_and_loss,concept/faith,concept/immortality_divine,concept/doubt,form/letter,character/george_eliot,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3551,10 +1969,6 @@ Il dottor Steams morì in modo tranquillo; chiese ad Eliza una ciotola di fragol
 
 . . . The look of the words [stating the [[motifs/death|death]] of George Eliot] as they lay in the print I shall never forget. Not their face in the casket could have had the [[concepts/eternity|eternity]] to me. Now, my George Eliot. The gift of belief which her [[concepts/greatness|greatness]] denied her, I trust she receives in the [[motifs/childhood|childhood]] of the kingdom of heaven. As [[motifs/childhood|childhood]] is earth's confiding [[motifs/time|time]], perhaps having no [[motifs/childhood|childhood]], she lost her way to the early trust, and no later came. Amazing human heart, a syllable can make to quake like jostled [[motifs/tree|tree]], what infinite for thee? . . .
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-, Quel modo in cui quelle parole che annunciavano la [[motifs/death|morte]] di George Eliot apparivano sulla pagina stampata non lo dimenticherò mai. Nemmeno il suo volto nella bara avrebbe potuto per me rappresentare l’[[concepts/eternity|eternità]]. Ora, mio caro George Eliot. Il dono della fede che la sua [[concepts/greatness|grandezza]] le aveva negato, spero che ora lei lo riceva nell’[[motifs/childhood|infanzia]] del regno dei cieli. Poiché l’[[motifs/childhood|infanzia]] è il momento di fiducia e confidenza della terra, forse, non avendo mai conosciuto l’infanzia, lei ha perso quella fiducia primordiale, e non l’ha mai più ritrovata. Che meraviglioso cuore umano. Una singola parola può far tremare un essere vivente come un albero scosso dal vento. Quanto deve essere infinito il suo mondo interiore.
 
 
 
@@ -3565,12 +1979,6 @@ Il dottor Steams morì in modo tranquillo; chiese ad Eliza una ciotola di fragol
 
 . . . Maggie's brother is killed in the mine, and Maggie wants to die, but [[motifs/death|Death]] goes far around to those that want to see him. If the little cousins would give her a note—she does not know I ask it—I think it would help her begin, that bleeding beginning that every mourner knows.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-, [[characters/god|Dio]] è piuttosto severo con i suoi “piccoli”. “Una tazza d’acqua fredda nel mio nome” diventa un ricordo gelido nelle mattine di febbraio.
-
-, Il fratello di Maggie muore nella miniera, e lei vuole morire anch’essa, ma [[motifs/death|Morte]] raggiunge spesso coloro che desiderano vederla. Se quei piccoli cugini le dessero una lettera. Non sanno che lo sto chiedendo. Penso che l’aiuterebbe ad iniziare quel processo doloroso che tutti i dolenti conoscono.
 
 
 
@@ -3587,18 +1995,6 @@ The going from a world we know To one a [[concepts/wonder|wonder]] still Is like
 
 Vinnie's [[motifs/love|love]] and Maggie's, and mine is presupposed.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Cari cugini, spero che abbiate ascoltato il discorso del signor Sanborn. Il mio “repubblicano” è stato preso in prestito prima che mi svegliassi, per leggere fino al mio solito risveglio, che arriva piuttosto tardi. Sono stata molto malata e potrei ricevere quella famosa rimproverazione: “Signor [[motifs/lamb|Lamb]], si alza davvero molto tardi questa mattina, ” Otto sabati fa, mentre stavo preparando un pane con Maggie, vidi avvicinarsi una grande oscurità. Non ricordo nulla fino a tarda [[motifs/night|notte]]. Mi svegliai e vidi Austin, Vinnie e un medico sconosciuto chini su di me. Pensai di essere in punto di morte. Ma tutto fu così gentile e commovente. Ero svenuta e rimasta priva di sensi per la prima volta in vita mia. In seguito sono peggiorata molto, causando molta preoccupazione agli altri. Ma ora sto migliorando. Il medico definisce questa condizione “la vendetta dei nervi”. Ma chi, se non [[motifs/death|Morte]], potrebbe averli offesi? La cara lettera di F—— è rimasta senza risposta per tutto questo tempo. Anche se quelle parole “Buona notte, mio caro, ” mi hanno riscaldato il cuore. Ho molto da dirvi. Ma poche forze per farlo. Quindi dovremo parlare poco a poco. Vorrei davvero sapere cosa piace di più a L——: un libro, una canzone, o un’amica.
-
-Sono felice che le faccende domestiche siano diventate più gentili. È davvero un’arte complicata. Maggie è ancora con noi, calda, selvaggia e piena di energia; abbiamo anche un ragazzo adorabile nel fienile. Ti ricordiamo sempre, e spesso uno di noi dice: “Abbiamo sognato F——e L——la scorsa [[motifs/night|notte]]”; in quei giorni pensiamo che riceveremo tue notizie, perché i [[motifs/dreams|sogni]] sono davvero dei messaggeri.
-
-Il piccolo ragazzo che abbiamo tenuto con noi non cambia mai, e la sua semplice compagnia continua ad esserci accanto. Ma sta diventando umido, devo entrare. La nebbia della [[motifs/memory|memoria]] sta salendo.
-
-Passare da un mondo che conosciamo a uno ancora pieno di [[concepts/wonder|mistero]] è come la situazione difficile di un [[archetypes/child|bambino]] il cui orizzonte si limita a una [[motifs/hill|collina]]; al di là della collina ci sono magie e tutto ciò che è sconosciuto. Ma sarà questo mistero sufficiente a compensare lo sforzo necessario per raggiungerlo da soli?
-
-L’amore di Vinnie, quello di Maggie, e anche il mio sono tutti presunti.
 
 
 
@@ -3617,20 +2013,6 @@ Holmes's Life of Emerson is sweetly commended, but you, I know, have tasted that
 
 That we are permanent temporarily, it is warm to know, though we know no more.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Se avessimo meno da dire a coloro che [[motifs/love|amiamo]], forse dovremmo dirlo più spesso. Ma quando tentiamo, arriva un’“inondazione” di parole. E poi tutto è finito, proprio come si dice dei morti.
-
-Vinnie ha sognato di F——la scorsa [[motifs/night|notte]], e per giorni ha pensato a come scrivere a te, caro L——, e anche a te, cara. Davvero, con quella straordinaria vicinanza che un sogno dona, devo parlarti questa mattina. Spero davvero che tu stia bene, e che quei giorni incantevoli abbiano rinfrescato il tuo spirito. Spero anche che quella povera bambina stia meglio, e che almeno il dolore sia temporaneamente allontanato.
-
-L——mi chiese quali libri stessimo cercando ora; osservava con attenzione la vita di Walter [[motifs/cross|Cross]] e di sua moglie. Un amico mi ha inviato “Called Back”. È una storia inquietante. E, come diceva spesso il caro signor Bowles, “molto impressionante per me”. Ricordi quella piccola foto con il suo volto scuro al centro, il governatore Bross da un lato e Colfax dall’altro? Il terzo membro del gruppo è morto ieri. Quindi, in qualche modo, sono di nuovo insieme.
-
-Trasferirsi a Cambridge, per me, è come trasferirsi all’Abbazia di Westminster: altrettanto sacra e inverosimile. O come seguire Paolo fino a Efeso per diventare vicini di casa, attraverso una “porta successiva”.
-
-La biografia di Emerson scritta da Holmes viene lodata con affetto, ma tu, lo so, l’hai già letta. Ma il fischio mi chiama; non ho ancora iniziato. Quindi, con un sospiro, un bacio e la promessa di continuare, insieme all’amore di Vinnie e Maggie, alla rosa semiaperta e al cielo occidentale, mi fermo qui.
-
-Il fatto che siamo “permanenti” solo temporaneamente è confortante da sapere, anche se in realtà non sappiamo molto di più.
 
 
 
@@ -3652,22 +2034,6 @@ Can you render, my pencil? The physician has taken away my pen. I enclose the ad
 Knowledge of your recovery would excel my own.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, — sei in pericolo? Non sapevo che fossi ferito. Mi dirai di più? Il signor Hawthorne è morto.
-
-Sono malato da settembre, e da aprile sono a Boston per le cure di un medico. Lui non mi lascia andare, ma io continuo a lavorare nella mia [[motifs/prison|prigione]] e a ricevere visite.
-
-Carlo non venne, perché sarebbe morto in prigione; e le [[settings/mountains|montagne]] ormai non potevo più controllarle, quindi portai con me solo gli dèi.
-
-Vorrei vederti più di quanto non facessi prima di fallire. Mi dirai come stai? Sono sorpreso e ansioso da quando ho ricevuto la tua lettera.
-
-L’unica notizia che conosco sono i bollettini che arrivano tutto il giorno da [[concepts/immortality|Immortalità]].
-
-Puoi prestarmi la tua matita? Il medico mi ha preso la penna. In allegato trovi l’indirizzo tratto da una [[forms/letter|lettera]]; nel caso i miei dita non riescano più a scrivere.
-
-Conoscere i progressi della tua guarigione sarebbe un grande aiuto per me.
-
 
 
 <span class="atom-split" data-atom="l0282_mr_thomas_wentworth_higginson_july_1874" data-title="To Mr. Thomas Wentworth Higginson, July, 1874" data-chapter="" data-kind="intro" data-tags="motif/death,motif/memory,motif/music_and_song,concept/grief_and_loss,concept/immortality,concept/death,concept/friendship,form/letter,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3681,16 +2047,6 @@ His heart was pure and terrible, and I think no other like it exists.
 
 I am glad there is [[concepts/immortality|Immortality]], but would have tested it myself, before intrusting him. Mr. Bowles was with us. With that exception, I saw none. I have wished for you, since my father died, and had you an hour unengrossed, it would be almost priceless. Thank you for each kindness. . . . Your beautiful [[forms/hymn|hymn]], was it not prophetic? It has assisted that pause of space which I call “father.”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-L’ultimo pomeriggio in cui mio padre era ancora vivo, sebbene senza alcun presagio, preferii stare con lui e inventai una scusa per spiegare la mia assenza a mia madre, dato che Vinnie stava dormendo. Sembrava particolarmente felice del fatto che io passassi molto tempo da solo con lui; anzi, verso la fine del pomeriggio, disse che “avrebbe voluto che quel momento non finisse mai”.
-
-Il suo piacere mi imbarazzava quasi; quando arrivò mio fratello, suggerii che andassero a fare una passeggiata. La mattina dopo lo svegliai per il treno e da allora non lo vidi più.
-
-Il suo cuore era puro, e terribile; penso che non esista nessun altro simile.
-
-Sono felice che esista l’[[concepts/immortality|immortalità]], ma avrei voluto provarla personalmente prima di affidarmela. Il signor Bowles era con noi. A parte lui, non ne ho visto nessun altro. Da quando mio padre è morto, ho sempre desiderato che tu avessi un’ora tutta per te; sarebbe quasi inestimabile. Grazie per ogni tua gentilezza. La tua bellissima [[forms/hymn|inno]], non era forse profetica? Ha aiutato a creare quel momento di silenzio e riflessione che io chiamo “pausa con il padre”.
 
 
 
@@ -3706,16 +2062,6 @@ My earliest friend wrote me the week before he died, “If I live, I will go to 
 Is your house deeper off?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Quando penso alla vita solitaria di mio padre e alla sua ancora più solitaria [[motifs/death|morte]], esiste questa forma di compensazione.
-
-Togliete via tutto; l’unica cosa che valga la pena rubare è rimasta: l’[[concepts/immortality|immortalità]].
-
-Il mio primo amico mi scrisse la settimana prima di morire: “Se sopravvivo, andrò ad Amherst; se muoio, sicuramente ci andrò.”
-
-La tua casa si trova più in là?
-
 
 
 <span class="atom-split" data-atom="l0289_mr_thomas_wentworth_higginson" data-title="To Mr. Thomas Wentworth Higginson" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/the_book,concept/the_artist_and_society,concept/friendship,concept/renunciation,form/letter,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3724,10 +2070,6 @@ La tua casa si trova più in là?
 As already shown, Emily had affectively resisted all importunity to publish. Even the eloquent pleading of her long-[[motifs/time|time]] friend “H. H.” was of no avail; but apparently reinforcement in her decision was sometimes sought:—
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Come già mostrato, Emily aveva resistito con fermezza a tutte le insistenze per pubblicare il proprio lavoro. Nemmeno le eloquenti suppliche della sua amica di lunga data “H. H.” furono efficaci; tuttavia, a volte sembrava cercare ulteriori conferme nella propria decisione:—
-
 
 
 <span class="atom-split" data-atom="l0290_mr_thomas_wentworth_higginson_early_in_1876" data-title="To Mr. Thomas Wentworth Higginson, Early in 1876" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/the_book,concept/friendship,concept/the_artist_and_society,concept/humility,form/letter,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3735,10 +2077,6 @@ Come già mostrato, Emily aveva resistito con fermezza a tutte le insistenze per
 
 DEAR FRIEND,—Are you willing to tell me what is right? Mrs. Jackson, of Colorado, was with me a few moments this week, and wished me to write for this.12 I told her I was unwilling, and she asked me why? I said I was incapable, and she seemed not to believe me and asked me not to decide for a few days. Meantime, she would write to me. She was so sweetly noble, I would regret to estrange her, and if you would be willing to give me a note saying you disapproved it and thought me unfit, she would believe you. I am sorry to flee so often to my safest friend, but [[concepts/hope|hope]] he permits me.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, — sei disposto a dirmi cosa è giusto? La signora Jackson, del Colorado, è stata da me qualche momento questa settimana e mi ha chiesto di scrivere al riguardo. Le ho detto che non ero disposto a farlo, e lei mi ha chiesto il motivo. Ho risposto che non ne ero capace, ma lei non sembrava credermi e mi ha chiesto di non decidere per qualche giorno; intanto lei avrebbe scritto a me. Era così gentile e nobile. Mi dispiacerebbe allontanarla da me. Se fossi tu a scrivermi una lettera in cui dicessi che disapprovi questa mia decisione e che ritieni io non sia adatto, lei ti crederebbe. Mi dispiace dover ricorrere così spesso al mio più fidato amico, ma spero che mi permetta di farlo.
 
 
 
@@ -3752,14 +2090,6 @@ My brother and sister are with Mr. Bowles, who is buried this afternoon.
 The last song that I heard—that was, since the [[motifs/birds|birds]]—was, “He leadeth me, he leadeth me; yea, though I walk” —then the voices stooped, the arch was so low.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, —ho sentito di poter confidarmi con te.
-
-Mio fratello e mia sorella sono con il signor Bowles, che sarà sepolto questo pomeriggio.
-
-L’ultima canzone che ho ascoltato, beh, da quando sono arrivati gli [[motifs/birds|uccelli]], era “Mi guida lui, mi guida lui; sì, anche se cammino da solo”. Poi le voci si abbassarono molto, l’arco sonoro era davvero molto basso.
-
 
 
 <span class="atom-split" data-atom="l0304_mr_thomas_wentworth_higginson_1884" data-title="To Mr. Thomas Wentworth Higginson, 1884" data-chapter="" data-kind="intro" data-tags="motif/the_book,motif/letters_writing,concept/friendship,concept/literary_criticism,concept/desire_and_longing,form/biography,form/letter,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3771,14 +2101,6 @@ I feared some other pupil might usurp my privilege.
 
 Emblem is immeasurable—that is why it is better than fulfilment, which can be drained.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, — posso anticiparvi con gioia la notizia dell’invio della biografia di Madame [[motifs/cross|Cross]] scritta da suo marito, la cui pubblicazione è annunciata dai giornali?
-
-Temevo che qualche altro studente potesse usurpare il mio privilegio.
-
-L’emblema è incommensurabile; è proprio per questo che è superiore al compimento, il quale può esaurirsi.
 
 
 
@@ -3800,22 +2122,6 @@ The little furniture of loss has lips of dirks to stab us. I [[concepts/hope|hop
 With [[motifs/love|love]] for you, and your sweet wife, “whom seeing not, we” trust.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Caro cugino, — quel delizioso libro mi è stato trovato sul cuscino, dove ero rimasta bloccata; altrimenti ti avrei ringraziato immediatamente.
-
-Quella piccola creatura doveva essere inestimabile, tua, ma non del tutto tua, quanto sacra!
-
-Forse è venuta proprio per mostrarti l’[[concepts/immortality|immortalità]]. Il suo straordinario volo sembrerebbe confermarlo.
-
-Posso ricordarvi ciò che disse Paolo. O forse in queste notti di ottobre non pensate ad altro, senza la possibilità di andare a trovarla nella sua culla?
-
-I piccoli oggetti di arredamento, hanno “labbra” simili a pugnali pronti a ferirci. Spero che il Cielo sia caldo, ci sono così tante persone scalze lì. Spero che sia vicino, quel piccolo turista era davvero minuscolo. Spero che non sia troppo diverso dalla Terra, così da non perdere quella forma particolare, quella “forma tipica” degli oggetti terreni, “E con quale corpo arrivano?” Beh, arrivano davvero! Rallegratevi! Quale porta? A quale ora? Corri, corri, mia anima. Illumina questa casa!
-
-“[[concepts/body|Corpo]]!” Poi, finalmente, un volto e degli occhi, per capire che erano loro! Paolo riconobbe quell’uomo che conosceva la notizia; aveva attraversato Betlemme.
-
-Con [[motifs/love|amore]] per te e per tua dolce moglie, “che non vedendo, noi tuttavia, ” confidiamo in lei.
-
 
 
 <span class="atom-split" data-atom="l0320_miss_maria_whitney_1879" data-title="To Miss Maria Whitney, 1879" data-chapter="" data-kind="intro" data-tags="motif/home,motif/water,concept/friendship,concept/faith,concept/mortality,concept/immortality,form/letter,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3829,16 +2135,6 @@ When not inconvenient to your heart, please remember us, and let us help you car
 
 We knew not that we were to live, Nor when we are to die Our ignorance our cuirass is; We wear [[concepts/mortality|mortality]] As lightly as an option gown Till asked to take it off. By His intrusion [[characters/god|God]] is known— It is the same with life.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, —la tua commovente proposta, è in realtà un modo gentile per chiedere il permesso.
-
-Non possiamo credere l’uno nell’altro: il pensiero è un despota troppo sacro. Ma spero che [[characters/god|Dio]], in qualsiasi forma si manifesti, sia fedele al nostro amico. La coscienza è l’unico “luogo” di cui sappiamo ora. Quell’avverbio pieno di sole sarebbe stato sufficiente, se solo non fosse stato precluso.
-
-Quando non vi è impedimento nel vostro cuore, ricordatevi di noi e lasciateci aiutarvi a portarlo, se vi stancherete. Anche se ognuno di noi è sconosciuto a se stesso e agli altri, non è per questo che il soldato morente lo chiede. È solo l’[[motifs/water|acqua]] che conta.
-
-Non sapevamo se saremmo vissuti, né quando saremmo morti. La nostra ignoranza era la nostra armatura; indossavamo la [[concepts/mortality|mortalità]] come se fosse un abito elegante, finché non ci veniva chiesto di toglierlo. È attraverso l’intervento di [[characters/god|Dio]] che Egli viene conosciuto. Lo stesso vale per la vita.
 
 
 
@@ -3862,24 +2158,6 @@ I am glad you have an hour for books, those enthralling friends, the immortaliti
 I [[concepts/hope|hope]] that nothing pains you except the pang of life, sweeter to bear than to omit.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, —Il senso di [[concepts/guilt|colpa]] per aver inviato quella nota mi opprimeva così tanto che quasi non osavo leggere la risposta; temevo davvero che tu non ci ricevessi mai più. Tornare da noi e scoprire che noi non siamo lì ad accoglierci, è una risposta davvero terribile.
-
-Spero che possiate perdonarci.
-
-Tutto sembra davvero svanito senza nostra madre scomparsa; lei, con la sua dolcezza, riuscì a ottenere ciò che le mancava in forza. Sebbene il dolore per la sua sorte abbia reso l’[[motifs/winter|inverno]] più breve, ogni [[motifs/night|notte]] mi ritrovo sempre più senza fiato, cercando di comprendere il significato di tutto ciò.
-
-Verso l’alba splendente vola lei; i Fratelli del Paradiso la riportano a casa sua, senza che le cambino le ali, né le togliano le cose necessarie all’[[motifs/love|Amore]], per attirarla qui.
-
-Plasmando ciò che è, comprendendo ciò che era, crediamo di sognare. E questo dissolve i giorni in cui l’esistenza vaga senza meta, senza un rifugio nel proprio “cuore”.
-
-Il sole di questa mattina sembra quasi parlare, rafforzando ancora di più quella distinzione; le parole di Paul diventano ancora più evidenti: “il peso della gloria”.
-
-Sono felice che tu abbia un’ora da dedicare ai libri, a quegli “amici affascinanti”, forse anche all’immortalità. Ognuno di noi potrebbe riceverla in anticipo. “E vidi i Cieli aprirsi.”
-
-Spero che nulla vi faccia soffrire, tranne il dolore della vita, un dolore più dolce da sopportare che da evitare.
-
 
 
 <span class="atom-split" data-atom="l0332_miss_maria_whitney_august_2_1882" data-title="To Miss Maria Whitney, August 2, 1882" data-chapter="" data-kind="intro" data-tags="motif/death,motif/memory,concept/death,concept/immortality,concept/grief_and_loss,concept/greatness,form/letter,histref/the_bible,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3895,18 +2173,6 @@ I congratulate you upon his [[concepts/immortality|immortality]], which is a con
 
 Please remember me tenderly to your mother.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, —Il nostro amico, tuo padre, è stato ricordato oggi in modo così bello e intimo che sembrava impossibile che avesse conosciuto il segreto della [[motifs/death|morte]].
-
-Una serva che era con noi da molto tempo, e che spesso gli apriva la [[motifs/door|porta]], ieri mi chiese come si scrive “genio”. Glielo dissi e non aggiunse nulla. Oggi mi ha chiesto cosa significasse “genio”; le ho risposto che nessuno lo sapeva.
-
-Disse di aver letto su un giornale cattolico che il signor Bowles era “il genio dell’Hampshire”, e pensò che potesse trattarsi proprio di quell’uomo. Il suo aspetto non poteva essere dimenticato da chi lo avesse visto, perché la sua fisionomia esprimeva appieno il significato della frase: “Poiché io vivo, anche voi vivrete”.
-
-Vi congratulo per la sua [[concepts/immortality|immortalità]], che rappresenta una costante fonte di ispirazione per la mia famiglia, e per il vostro nobile impegno nel preservare i valori repubblicani a cui teneva tanto.
-
-Per favore, ricordati di me con tenerezza tua madre.
 
 
 
@@ -3926,21 +2192,6 @@ Are you certain there is another life? When overwhelmed to know, I [[concepts/fe
 My sister gives her grief with mine. Had we known in [[motifs/time|time]], your brother would have borne our [[motifs/flowers|flowers]] in his mute hand. With [[motifs/tears|tears]],
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico,  
-grazie per il giornale. Ho trovato quasi una gioia nel dolore il fatto che quel nome, che per tanto tempo è stato “in cielo” sulla terra, ora sia di nuovo “in terra”, ma in cielo.
-
-Sai se uno dei suoi figli ha il suo volto misterioso o la sua straordinaria [[concepts/nature|natura]]?
-
-Le [[motifs/stars|stelle]] non sono ereditarie. Spero che tuo fratello e tu possiate ripristinare quel legame così prezioso per entrambi. Il vostro rapporto con vostro fratello mi ricorda il mio con mia sorella: nato presto, sincero e indissolubile. Senza di lei, la vita sarebbe piena di [[concepts/fear|paura]], e il Paradiso diventerebbe un luogo di codardia, se non fosse per la sua voce che ci incoraggia.
-
-Se avessi qualche foto di tuo fratello, mi farebbe molto piacere vederla in un momento opportuno. E anche se non possiamo conoscere l’ora esatta, potresti dirmi almeno quando si avvicina, per quanto la tua voce addolorata sia in grado di farlo?.
-
-Sei sicuro che esista un’altra vita? Quando mi trovo sopraffatto da questo pensiero, [[concepts/fear|temo]] che pochi ne siano certi.
-
-Mia sorella condivide il suo dolore con il mio. Se solo lo avessimo saputo in [[motifs/time|tempo]], tuo fratello avrebbe portato i nostri [[motifs/flowers|fiori]] nella sua mano silenziosa. Con le [[motifs/tears|lacrime]].
-
 
 
 <span class="atom-split" data-atom="l0355_mr_c_h_clark_april_21_1884" data-title="To Mr. C. H. Clark, April 21, 1884" data-chapter="" data-kind="intro" data-tags="motif/death,motif/spring,motif/memory,concept/grief_and_loss,concept/friendship,concept/suffering,concept/fear,concept/immortality,form/letter,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3955,16 +2206,6 @@ I have lost, since writing you, another cherished friend, a word of whom I enclo
 To be certain we were to meet our lost would be a vista of reunion who of us could bear? . . .
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, mai dimenticando la tua ansia per tuo padre, ho evitato di chiedere, per non rischiare che anche solo un momento trascorso a rispondere ti allontanasse da lui.
-
-Il pericolo che un genitore corre è una sofferenza particolare, e mia sorella ed io l’abbiamo sperimentata a lungo. Oh, se solo potesse durare ancora più a lungo, perché anche il semplice [[concepts/fear|timore]] per loro sarebbe più prezioso della loro assenza. Non possiamo fare a meno di offrirvi la nostra sincera [[concepts/sympathy|solidarietà]]. Spero davvero che quella vista, così preziosa per entrambi voi, possa compensare tutto il resto. E che l’aumentato [[concepts/fear|timore]] non vi abbia prostrati al punto di impedirvi di trovare la forza di sorridere.
-
-Da quando vi ho scritto, ho perso un altro caro amico; vi allego una sua lettera. E come riparare le mie “file spezzate” è una sofferenza che non mi abbandona mai. State certi che mia sorella ed io non dimenticheremo mai vostro fratello, né il suo compagno in lutto.
-
-Per essere certi di incontrare coloro che abbiamo perso, l’idea di una riunione, chi di noi potrebbe sopportarla?.
-
 
 
 <span class="atom-split" data-atom="l0356_mr_c_h_clark_april_22_1884" data-title="To Mr. C. H. Clark, April 22, 1884" data-chapter="" data-kind="intro" data-tags="motif/the_soul,motif/death,motif/the_sea,motif/music_and_song,concept/immortality_of_soul,concept/death,concept/self_and_soul,concept/grief_and_loss,form/lyric,form/letter,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -3976,14 +2217,6 @@ The spirit lasts, but in what mode— Below, the [[concepts/body|body]] speaks; 
 
 With the trust you live,
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, — Questi pensieri mi turbano, e il grande amico che avrebbe potuto consolarmi non c’è più. Ti disturbano anche loro?
-
-Lo spirito sopravvive, ma in quale forma? In basso, il [[concepts/body|corpo]] parla; ma lo spirito, da solo, non parla mai. La musica del violino non emerge da sola: nasce insieme al tocco. Eppure, il tocco da solo non è una melodia. Lo spirito si nasconde nella carne, come le maree nel [[motifs/sea|mare]] che danno vita all’[[motifs/water|acqua]]; separati l’uno dall’altro, cosa significherebbero? Lo spirito lo sa ora, o forse smette di saperlo? Quello che accade in questo momento, si ripeterà forse in futuro, in un momento condiviso con tutti gli eventi futuri? L’istinto cerca una risposta definitiva. La sfortuna, forse, oppure la fortuna sfrenata. Ma prima ancora che la mia mente potesse comprendere, la porta delle voci del destino era già stata chiusa a chiave; nemmeno il tentativo di un profeta avrebbe potuto aprirla.
-
-Con la fiducia su cui si vive…
 
 
 
@@ -3999,16 +2232,6 @@ We think of your small mansion with unabated warmth, though is not any mansion v
 That this beloved [[motifs/spring|spring]] inspirit both yourself and him, is our exceeding wish.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, —la pianta di cui tuo fratello si prendeva cura riprende il suo ciclo vitale; ne ho scelte alcune per onorare il suo nome e te le invio. Forse da qualche luogo lontano egli osserva il loro crescere e sorride davanti a tali benedizioni che un tempo furono sue. Effimera, eterna, cuore!
-
-Spero che siate in salute, e che quel padre fragile possieda tutta la pace che gli anni possono offrire.
-
-Pensiamo alla tua piccola dimora con sincera affetto; dopotutto, non esiste dimora abbastanza grande da poter contenere un padre.
-
-Che questa amata [[motifs/spring|primavera]] ispiri sia te che lui, è il nostro più grande desiderio.
-
 
 
 <span class="atom-split" data-atom="l0368_the_rev_j_l_jenkins_and_mrs_jenkins" data-title="To the Rev. J. L. Jenkins and Mrs. Jenkins" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_cross,concept/love_divine,concept/grief_and_loss,concept/faith,concept/resurrection,form/letter,histref/christianity,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -4016,10 +2239,6 @@ Che questa amata [[motifs/spring|primavera]] ispiri sia te che lui, è il nostro
 
 May the [[motifs/love|love]] that occasioned the first Easter shelter a few, this bereaved day.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Che l’[[motifs/love|amore]] che portò alla creazione del primo rifugio di Pasqua possa offrire conforto in questo giorno di dolore.
 
 
 
@@ -4049,30 +2268,6 @@ With [[motifs/love|love]],
 E. DICKINSON
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Ricevuto una cartolina di Pasqua, probabilmente nel 1875
-
-È possibile, caro amico, che la rinascita di colui che abbiamo perso avesse assorbito tutta la mia attenzione, escludendo quella per [[characters/christ|Cristo]], se non fosse stato per il tuo gentile ammonimento.
-
-La mattina di Sabato era particolarmente cara a mio padre; il suo ultimo giorno terreno, trascorso in serenità con la sua [[concepts/family|famiglia]], fu proprio uno di quei giorni “celesti”.
-
-Vinnie ed io parlavamo di te mentre andavamo a [[motifs/sleep|)dormire]] sabato sera, il che rende il tuo bellissimo regalo di oggi quasi, “fantasmagorico”.
-
-Per favore, credete quanto sinceramente vi ringrazi.
-
-Emily
-
-Per lo stesso destinatario
-
-1875
-
-Quali recinti di trifoglio sono adatti per l’ape, quali edifici azzurri per le farfalle e per me. Quali dimore agili sorgono e svaniscono senza alcun rumore ritmico, senza alcuna supposizione invasiva.
-
-Con [[motifs/love|amore]],
-
-E. Dickinson
-
 
 
 <span class="atom-split" data-atom="l0446_mrs_henry_hills_february_23_1879" data-title="To Mrs. Henry Hills, February 23, 1879" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/death,concept/death,concept/immortality_divine,concept/faith,form/letter,histref/the_bible,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -4083,12 +2278,6 @@ E. Dickinson
 Beloved commandment! The darling obeyed it.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Vieni da me.”
-
-Amato comandamento. La cara bambina lo obbedì.
-
 
 
 <span class="atom-split" data-atom="l0447_mrs_henry_hills_february_1879" data-title="To Mrs. Henry Hills, February, 1879" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/death,concept/death,concept/grief_and_loss,concept/mortality,form/letter,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -4098,12 +2287,6 @@ The power to console is not within corporeal reach—though its attempt is preci
 
 To die before it feared to die, may have been a boon.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il potere di consolare non è qualcosa che possiamo raggiungere con i mezzi fisici; tuttavia, il tentativo di farlo è prezioso.
-
-Morire prima che il terrore della morte si impossessasse di noi, forse sarebbe stato un dono.
 
 
 
@@ -4117,14 +2300,6 @@ There is no trumpet like the tomb— The [[concepts/immortality|Immortality]] sh
 Beautiful as it is, its criminal shortness maims it.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, —George Eliot non scrisse mai nessun “[[forms/sonnet|sonetto]]”. L’incantevole esclamazione della [[motifs/death|Morte]] rimarrà per sempre confinata nel tempo.
-
-Non esiste tromba più potente della tomba. L’[[concepts/immortality|immortalità]] che ci ha donato l’abbiamo presa dalla sua [[motifs/grave|tomba]]. Per un solo applauso, per la fame di ammirazione. Il potere dell’amore umano.
-
-Per quanto bella sia, la sua estrema brevità la rovina.
-
 
 
 <span class="atom-split" data-atom="l0527_mrs_todd" data-title="To Mrs. Todd" data-chapter="" data-kind="intro" data-tags="motif/birds,concept/creativity_and_artistic_labor,concept/immortality_of_art,concept/friendship,form/letter,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
@@ -4132,10 +2307,6 @@ Per quanto bella sia, la sua estrema brevità la rovina.
 
 A few days later came another, enclosing that brilliant, meteoric flash in words, her “humming-bird,” printed in the second volume of the Poems:—
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Qualche giorno dopo ne arrivò un altro, che descriveva quel brillante lampo meteoreico a parole; il suo “uccello colibrì” fu pubblicato nel secondo volume delle sue Poesie.
 
 
 
@@ -4163,28 +2334,3 @@ The eighteenth of May, 1886, Emily Dickinson was carried lovingly over the thres
 To the few who gathered, that sunny afternoon, her friend, fellow-poet, and “master” read Emily Brontë's noble Last Lines, with their lofty voicing of an unchangeable belief in the [[motifs/soul|soul]]'s [[concepts/immortality|immortality]],—“a favorite,” as Colonel Higginson so fitly said, “with our friend, who has now put on that [[concepts/immortality|Immortality]] which she seemed never to have laid off.”
 
 She had lived in voluntary retirement from outside eyes; and now, in the sweet May sunshine, tender hands bore her through meadows starry with daisies into a [[motifs/silence|silence]] and seclusion but little deeper.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Quasi immediatamente si addormentò e non si svegliò mai più alla luce del sole terrestre.
-
-Nel silenzio di Amherst, tra gli alberi, nella vecchia dimora in mattoni circondata da siepi e pini, lei viveva e scriveva. Lì.
-
-“Ascenduto, dalla nostra visione verso volti nuovi.”
-
-Possiamo solo essere grati che lei abbia deciso di tradurre in parole le sue visioni riguardanti i fiori, gli uccelli e quell’“aria azzurra, amata”, nonché la “vita, la [[motifs/death|morte]] e quel vasto, eterno regno” che costituiva il suo ambiente più vicino.
-
-Questo non è certo il luogo adatto per parlare in dettaglio dei versi di Emily Dickinson, della loro qualità “elettrica” o del loro impatto straordinario sul pubblico, quattro anni dopo la sua [[motifs/death|morte]]. Essi sono permeati da un ritmo nascosto, una sorta di musica ritmica che diventa gradualmente familiare e comprensibile con una conoscenza più approfondita.
-
-Il dottor Holmes dice da qualche parte che le rime “sono catene di ferro: è come portare con sé una catena e una palla mentre si cammina sotto il loro peso”; e se nell’opera di Emily Dickinson spesso mancano le rime dove dovrebbero esserci, qualcosa di sottile, gradito e soddisfacente ne prende il posto. Un’orchidea, tra i comuni fiori dal profumo dolce, sembra rendere ancora più strana e irregolare la loro bellezza, aumentandone così il fascino.
-
-Una caratteristica distintiva dei suoi versi è la loro qualità epigrammatica: prevale la concisione e la vitalità, piuttosto che la grazia femminile e la fluidità del linguaggio. Esperienze quotidiane, riconosciute da tutti ma di rado raccontate, divenivano per lei materia di profonde generalizzazioni poetiche. Quando si confronta l’insignificante massa della poesia moderna con le rapide rivelazioni offerte da Emily Dickinson, ciò equivale a paragonare dell’acqua distillata al più ricco vino di Borgogna. E proprio come quest’ultimo non diventa meno insipido se servito in bottiglie di cristallo, così non possiamo giudicare la dolcezza concentrata dei raggi solari tropicali in base al tipo di contenitore in cui è stata conservata per anni.
-
-Il diciottesimo maggio 1886, Emily Dickinson fu portata con affetto oltre quella soglia che non aveva più attraversato da molti anni.
-
-“Se ne andò dolcemente, come la [[motifs/dew|bruma]] che si stacca da un fiore familiare. Ma non tornò, come di solito fa la [[motifs/dew|bruma]], all’ora consueta.”
-
-Per quei pochi che si erano riuniti quel pomeriggio soleggiato, la sua amica, poetessa e “maestra”, lesse le nobili ultime parole di Emily Brontë, con voci solenni che esprimevano una fede incrollabile nell’[[motifs/soul|'anima]] e nella sua [[concepts/immortality|immortalità]], “Un testo molto amato”, come disse opportunamente il Colonnello Higginson, “dalla nostra amica, la quale ora ha raggiunto quell’[[concepts/immortality|immortalità]] di cui sembrava non aver mai perso l’essenza”.
-
-Aveva vissuto una vita di ritiro volontario, lontana dagli sguardi altrui; e ora, sotto il dolce sole di maggio, mani tenere la guidavano attraverso prati punteggiati di margherite, verso un [[motifs/silence|silenzio]] e una solitudine non molto più profondi.

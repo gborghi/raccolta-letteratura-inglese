@@ -41,6 +41,7 @@ tags:
 - [[testi/coleridge/atomized/artist-and-society-truth-regency-georgian-england#283_lines_to_a_comic_author_on_an_abusive_review|LINES TO A COMIC AUTHOR, ON AN ABUSIVE REVIEW (Coleridge)]]
 - [[testi/coleridge/atomized/memory-and-time-memory-nostalgia#048_lines_on_an_autumnal_evening|LINES ON AN AUTUMNAL EVENING (Coleridge)]]
 - [[testi/coleridge/atomized/faith-providence-divine-love#287_love_hope_and_patience_in_education|LOVE, HOPE, AND PATIENCE IN EDUCATION (Coleridge)]]
+- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#433_milesisches_mährchen|MILESISCHES MÄHRCHEN (Coleridge)]]
 - [[works/nonsense-(coleridge)-(2)|NONSENSE (Coleridge) (2)]]
 - [[testi/coleridge/atomized/satire-of-society-epigram-satire#307_on_an_amorous_doctor|ON AN AMOROUS DOCTOR (Coleridge)]]
 - [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#236_psyche|PSYCHE (Coleridge)]]

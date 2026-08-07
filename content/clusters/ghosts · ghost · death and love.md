@@ -22,6 +22,7 @@ tags:
 - [[testi/whitman/atomized/mortality-grave-memento-mori#317_red_jacket_from_aloft|Red Jacket (From Aloft) (Whitman)]]
 - [[works/shop-of-ghosts-(chesterton)|shop-of-ghosts (Chesterton)]]
 - [[works/the-canterville-ghost-(wilde)|The Canterville Ghost (Wilde)]]
+- [[testi/coleridge/atomized/terror-and-horror-madness#041_the_complaint_of_ninathómafrom_the_same|THE COMPLAINT OF NINATHÓMA FROM THE SAME (Coleridge)]]
 - [[testi/whitman/atomized/mortality-grave-memento-mori#257_the_mystic_trumpeter|The Mystic Trumpeter (Whitman)]]
 - [[works/wuthering-heights-(bronte)|Wuthering Heights (Bronte)]]
 

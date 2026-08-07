@@ -55,6 +55,7 @@ tags:
 - [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#227_separation|SEPARATION (Coleridge)]]
 - [[testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume#121_sonnet|SONNET (Coleridge)]]
 - [[testi/coleridge/atomized/maturation-and-growth-childhood-innocence-and-experience#030_sonnet_on_quitting_school_for_college|SONNET ON QUITTING SCHOOL FOR COLLEGE (Coleridge)]]
+- [[testi/coleridge/atomized/terror-and-horror-madness#041_the_complaint_of_ninathómafrom_the_same|THE COMPLAINT OF NINATHÓMA FROM THE SAME (Coleridge)]]
 - [[testi/coleridge/atomized/dreams-moon#216_the_day-dream_from_an_emigrant_to_his_absent_wife|THE DAY-DREAM FROM AN EMIGRANT TO HIS ABSENT WIFE (Coleridge)]]
 - [[testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume#059_the_death_of_the_starling|THE DEATH OF THE STARLING (Coleridge)]]
 - [[testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume#045_the_gentle_look|THE GENTLE LOOK (Coleridge)]]

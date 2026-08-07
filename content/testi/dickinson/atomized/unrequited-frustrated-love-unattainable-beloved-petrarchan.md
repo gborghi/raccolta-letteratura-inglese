@@ -59,52 +59,6 @@ And bring the fife, and trumpet, and beat upon the drum —
 And bid the world Goodmorrow, and go to glory [[motifs/home|home]]!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Destatevi muse nove, cantatemi un canto divino,  
-Svolgete il filo solenne, e legate il mio [[characters/valentine|Valentino]]!  
-
-Oh la Terra fu fatta per gli amanti, per la [[archetypes/damsel|damigella]], e lo spasimante senza speranza,  
-Per i sospiri, e il dolce sussurrare, e l'unità fatta di due.  
-Ogni cosa va a corteggiare, in terra, o [[motifs/sea|mare]], o aria,  
-[[characters/god|Dio]] nulla ha fatto di solo tranne te nel Suo mondo così bello!  
-La sposa, e poi lo sposo, i due, e poi l'uno,  
-Adamo, ed Eva, sua consorte, la [[motifs/moon|luna]], e poi il [[motifs/sun|sole]];  
-La vita prova il precetto, chi obbedisce sarà felice,  
-Chi non vuol servire il sovrano, sia appeso al fatale [[motifs/tree|albero]].  
-Gli alti cercano gli umili, i grandi cercano i piccoli,  
-Nessuno che cerchi non trova, su questa sfera terrestre;  
-L'ape fa la [[settings/court|corte]] al fiore, il fiore la sua supplica accoglie,  
-E fanno lieto sposalizio, con cento [[motifs/leaves|foglie]] per invitati;  
-Il [[motifs/wind|vento]] corteggia i rami, i rami son conquistati,  
-E il padre affettuoso domanda la fanciulla per il figlio.  
-La [[motifs/storm|tempesta]] cammina lungo la riva mormorando un canto luttuoso,  
-L'onda con occhio così pensoso, guarda per vedere la [[motifs/moon|luna]],  
-I loro spiriti s'incontrano, fanno i loro voti solenni,  
-Non più egli canta luttuoso, ella la sua tristezza perde.  
-Il verme corteggia il mortale, la [[motifs/death|morte]] reclama una sposa viva,  
-La [[motifs/night|Notte]] al giorno è maritata, il mattino alla sera;  
-La Terra è una lieta [[archetypes/damsel|damigella]], e il cielo un cavaliere fedele,  
-E la Terra è assai civetta, e pare invano supplicare.  
-Ora all'applicazione, alla lettura del rotolo,  
-Al portarti a giudizio, e schierare la tua [[motifs/soul|anima]]:  
-Tu sei un assolo umano, un essere freddo, e solo,  
-Non avrai compagno gentile, mieti ciò che hai seminato.  
-Non hai mai ore silenziose, e minuti troppo lunghi,  
-E gran copia di triste riflessione, e lamento invece di canto?  
-1  
-
-C'è Sarah, ed Eliza, ed Emeline così bella,  
-E Harriet, e Susan, e colei dai capelli ricciuti!  
-I tuoi occhi sono tristemente accecati, ma pure puoi vedere  
-Sei fanciulle sincere, e leggiadre sedute sull'[[motifs/tree|albero]];  
-Avvicinati a quell'[[motifs/tree|albero]] con cautela, poi arrampicati ardito,  
-E afferra colei che ami, senza curarti di spazio, o [[motifs/time|tempo]]!  
-Poi portala al bosco verde, e costruiscile una pergola,  
-E dalle ciò che chiede, [[motifs/jewel|gioiello]], o uccello, o fiore —  
-E porta il piffero, e la tromba, e batti sul tamburo —  
-E dai al mondo il Buongiorno, e vattene in gloria a [[motifs/home|casa]]!
-
 
 
 <span class="atom-split" data-atom="0020_distrustful_of_the_gentian" data-title="20. Distrustful of the Gentian —" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/winter,motif/bees,concept/mortality,concept/faith,concept/guilt,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -129,26 +83,6 @@ Hangs so distant Heaven —
 To a hand below.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Diffidente della Genziana —  
-E sul punto di voltarmi,  
-Il palpitare delle sue frange  
-Rimproverò la mia perfidia —  
-Stanca per la mia —————  
-Me ne andrò cantando —  
-Non sentirò il nevischio — allora —  
-Non avrò [[concepts/fear|paura]] della [[motifs/snow|neve]].  
-
-Fugge così il prato [[characters/phantom|fantasma]]  
-Davanti all'Ape senza fiato —  
-Così gorgogliano ruscelli nei deserti  
-A Orecchie che morenti giacciono —  
-Ardono così le Guglie della Sera  
-A Occhi che si vanno Chiudendo —  
-Pende così distante il Cielo —  
-A una mano quaggiù.
-
 
 
 <span class="atom-split" data-atom="0031_summer_for_thee_grant_i_may_be" data-title="31. Summer for thee, grant I may be" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/birds,motif/the_grave,concept/love_romantic,concept/immortality,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -166,19 +100,6 @@ Anemone -
 Thy flower - forevermore!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-[[motifs/summer|Summer]] per te, concedi ch'io sia  
-Quando i giorni d'[[motifs/summer|Summer]] saranno volati!  
-La tua musica ancora, quando il Caprimulgo  
-E il Rigogolo - saranno spenti!  
-
-Per fiorire per te, salterò la tomba  
-E remerò oltre i miei fiori!  
-Ti prego coglimi -  
-Anemone -  
-Tuo fiore - per sempre!
-
 
 
 <span class="atom-split" data-atom="0047_heart_we_will_forget_him" data-title="47. Heart! We will forget him!" data-chapter="" data-kind="intro" data-tags="motif/love,motif/memory,concept/unrequited_love,concept/grief_and_loss,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -195,18 +116,6 @@ Haste! lest while you're lagging
 I remember him!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cuore! Lo dimenticheremo!  
-Tu ed io — stanotte!  
-Tu puoi dimenticare il calore che diede —  
-Io dimenticherò la luce!  
-
-Quando avrai finito, ti prego dimmelo  
-Che io possa subito cominciare!  
-Presto! ché mentre tu indugi  
-Io lo ricordi!
-
 
 
 <span class="atom-split" data-atom="0084_her_breast_is_fit_for_pearls" data-title="84. Her breast is fit for pearls," data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/love,motif/birds,concept/love_romantic,concept/humility,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -221,17 +130,6 @@ I — a Sparrow — build there
 Sweet of twigs and twine  
 My perennial nest.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il suo petto è degno di perle,  
-Ma io non ero un "Palombaro" —  
-La sua fronte è degna di troni  
-Ma io non ho un cimiero.  
-Il suo cuore è degno di [[motifs/home|casa]] —  
-Io — un Passero — vi costruisco  
-Dolce di rametti e spago  
-Il mio nido perenne.
 
 
 
@@ -253,22 +151,6 @@ The peace, the flight, the amethyst,
 [[motifs/night|Night]]'s possibility !
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La margherita segue dolce il [[motifs/sun|sole]],  
-e quando il suo aureo cammino è compiuto,  
-siede timida ai suoi piedi.  
-Lui, camminando, trova il fiore vicino.  
-"Perché, predone, sei tu qui ?  
-"Perché, signore, l'[[motifs/love|amore]] è dolce !"  
-
-Noi siamo il fiore, Tu il [[motifs/sun|sole]] !  
-Perdonaci, se al declinar dei giorni,  
-più vicino a Te ci rubiamo, —  
-Innamorati dell'occidente che si congeda,  
-la pace, il volo, l'ametista,  
-la possibilità della [[motifs/night|Night]] !
-
 
 
 <span class="atom-split" data-atom="0109_by_a_flower_by_a_letter" data-title="109. By a flower — By a letter —" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/flowers,motif/letters_writing,motif/fire,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -284,18 +166,6 @@ Never mind Repose!
 Never mind the sooty faces  
 Tugging at the Forge!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Con un fiore — Con una [[forms/letter|lettera]] —  
-Con un agile [[motifs/love|amore]] —  
-Se saldo il Rivetto più stretto —  
-Saldo infine — lassù —  
-
-Non badare alla mia Incudine senza fiato!  
-Non badare al Riposo!  
-Non badare ai volti fuligginosi  
-che faticano alla Fucina!
 
 
 
@@ -325,30 +195,6 @@ Over this [[motifs/pain|pain]] of mine —
 You sting — again!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Tu mi [[motifs/love|ami]] — ne sei certa —  
-Non [[concepts/fear|temerò]] lo sbaglio —  
-Non mi sveglierò ingannata —  
-Un ghignante mattino —  
-Per trovare l'Aurora andata —  
-E i Frutteti — intatti —  
-E Dollie — sparita!  
-
-Non devo trasalire — sei certa —  
-Che quella [[motifs/night|notte]] mai verrà —  
-Quando impaurita — corro da Te a [[motifs/home|casa]] —  
-Per trovare le finestre buie —  
-E niente più Dollie — bada —  
-Proprio nessuna?  
-
-Sii certa d'esser certa — sai —  
-Lo sopporterò meglio ora —  
-Se solo me lo dirai —  
-Che quando — cresciuto un piccolo ottuso Balsamo —  
-Sopra questo mio [[motifs/pain|dolore]] —  
-Tu pungi — ancora!
-
 
 
 <span class="atom-split" data-atom="0186_what_shall_i_do_it_whimpers_so" data-title="186. What shall I do — it whimpers so —" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/animals,concept/love_romantic,concept/unrequited_love,concept/self_and_soul,concept/desire,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -372,25 +218,6 @@ Tell Carlo —
 He'll tell me!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Che farò — uggiola tanto —  
-Questo piccolo Segugio dentro il Cuore  
-Tutto il giorno e la [[motifs/night|notte]] con latrati e sussulti —  
-E tuttavia, non se ne va —  
-Lo slegheresti tu, fossi tu me —  
-Smetterebbe di gemere — se a Te —  
-Lo mandassi — anche ora?  
-
-Non ti darebbe noia —  
-Presso la tua sedia — o, sullo stuoino —  
-O se osasse — arrampicarsi sul tuo vertiginoso ginocchio —  
-O — talvolta correrti a fianco —  
-Quando tu volessi —  
-Verrà?  
-Dillo a Carlo —  
-Lui lo dirà a me!
-
 
 
 <span class="atom-split" data-atom="0190_he_was_weak_and_i_was_strong_then" data-title="190. He was weak, and I was strong — then —" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/the_journey,motif/death,motif/dawn,concept/love_romantic,concept/grief_and_loss,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -411,23 +238,6 @@ Neither — was strongest — now —
 He strove — and I strove — too —  
 We didn't do it — tho'!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Lui era debole, e io ero forte — allora —  
-Così Lui si lasciò condurre dentro —  
-Io ero debole, e Lui era forte allora —  
-Così mi lasciai condurre — a [[motifs/home|Casa]].  
-
-Non era lontano — la [[motifs/door|porta]] era vicina —  
-Non era buio — perché Lui veniva — anche —  
-Non c'era rumore, perché Lui non disse nulla —  
-Era tutto ciò che mi importava sapere.  
-
-Il Giorno bussò — e dovemmo separarci —  
-Nessuno — era il più forte — ormai —  
-Lui lottò — e lottai — anch'io —  
-Ma non ci riuscimmo — però!
 
 
 
@@ -450,23 +260,6 @@ But why compare?
 I'm "Wife"! Stop there!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Sono "moglie" — ho finito quello —  
-Quell'altro stato —  
-Sono Zar — sono "Donna" ora —  
-È più sicuro così —  
-
-Com'è strana la vita di Ragazza  
-Dietro questa morbida Eclissi —  
-Credo che la Terra sembri così  
-Alla gente in Cielo — ora —  
-
-Se questo è conforto — allora  
-Quell'altra specie — era [[motifs/pain|pena]] —  
-Ma perché confrontare?  
-Sono "Moglie"! Basta lì!
-
 
 
 <span class="atom-split" data-atom="0207_tho_i_get_home_how_late_how_late" data-title="207. Tho' I get home how late — how late —" data-chapter="" data-kind="intro" data-tags="motif/the_journey,motif/fire,motif/night,concept/joy,concept/immortality,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -487,23 +280,6 @@ To [[concepts/wonder|wonder]] what myself will say,
 And what itself, will say to me —  
 Beguiles the Centuries of way!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Benché io giunga a [[motifs/home|casa]] tardi — così tardi —  
-Purché io giunga a [[motifs/home|casa]] - compenserà —  
-Migliore sarà l'Estasi  
-Perché avranno smesso di attendermi —  
-Quando la [[motifs/night|Notte]] — scendendo — muta — e buia —  
-Odono il mio bussare inatteso —  
-Rapimento dev'essere quel momento —  
-Distillato da decenni d'Agonia!  
-
-Pensare a come arderà il [[motifs/fire|fuoco]] —  
-A come occhi a lungo delusi si volgeranno —  
-A [[concepts/wonder|domandarsi]] che cosa io stessa dirò,  
-E che cosa essa, dirà a me —  
-Inganna i Secoli di cammino!
 
 
 
@@ -531,28 +307,6 @@ Till those two troubled — little Clocks
 Ticked softly into one.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La [[motifs/rose|Rosa]] scorrazzava sulla sua guancia —  
-Il suo Corsetto [[motifs/rose|si sollevava]] e ricadeva —  
-Il suo grazioso parlare — come uomini ubriachi —  
-Barcollava pietoso —  
-
-Le sue dita armeggiavano al lavoro —  
-L'ago non voleva andare —  
-Cosa affliggesse una Fanciulla così sveglia —  
-Capirlo mi lasciava perplessa —  
-
-Finché di fronte — scorsi una guancia  
-Che portava un'altra [[motifs/rose|Rosa]] —  
-Proprio di fronte — un Altro parlare  
-Che come l'Ubriaco va —  
-
-Un Panciotto che come il suo Corsetto, danzava —  
-Sull'immortale melodia —  
-Finché quei due turbati — piccoli Orologi  
-Ticchettarono piano in uno solo.
-
 
 
 <span class="atom-split" data-atom="0223_i_came_to_buy_a_smile_today" data-title="223. I Came to buy a smile — today —" data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/stars,concept/love_romantic,concept/unrequited_love,concept/melancholy,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -574,23 +328,6 @@ And Topaz — like the star!
 Say — may I have it — Sir?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Venni a comprare un sorriso — oggi —  
-Ma un solo singolo sorriso —  
-Il più piccolo sul tuo volto  
-Mi andrà altrettanto [[motifs/well|bene]] —  
-Quello che a nessun altro mancherebbe  
-Brillava così minuto —  
-Sto supplicando al "banco" — signore —  
-Potreste permettervi di vendere —  
-Ho Diamanti — sulle dita —  
-Sapete cosa sono i Diamanti?  
-Ho Rubini — come il [[motifs/blood|Sangue]] della Sera —  
-E Topazi — come la stella!  
-Sarebbe "un Affare" per un Ebreo!  
-Dite — posso averlo — Signore?
-
 
 
 <span class="atom-split" data-atom="0224_ive_nothing_else_to_bring_you_know" data-title="224. I've nothing else — to bring, You know —" data-chapter="" data-kind="intro" data-tags="motif/stars,motif/night,concept/love_romantic,concept/humility,concept/marriage_and_fidelity,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -606,18 +343,6 @@ Unless they didn't come —
 Then — maybe, it would puzzle us  
 To find our way [[motifs/home|Home]] —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Non ho nient'altro — da portare, Lo sai —  
-Così continuo a portare Questi —  
-Come la [[motifs/night|Notte]] continua a recare [[motifs/stars|Stelle]]  
-Ai nostri occhi familiari —  
-
-Forse, non ci baderemmo —  
-Se non fosse che potrebbero non venire —  
-Allora — forse, ci confonderebbe  
-Trovare la via di [[motifs/home|Casa]] —
 
 
 
@@ -636,20 +361,6 @@ The Ocean — smiles — at her Conceit —
 But she, forgetting Amphitrite —  
 Pleads — "Me"?
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-La Goccia, che lotta nel [[motifs/sea|Mare]] —  
-Dimentica la propria dimora —  
-Come io — verso Te —  
-
-Si sa incenso piccino —  
-Pur piccola — sospira — se il Tutto — è Tutto —  
-Come esser — più grande?  
-
-L'Oceano — sorride — alla sua Presunzione —  
-Ma lei, scordando Anfitrite —  
-Implora — "Me"?
 
 
 
@@ -691,43 +402,6 @@ For so minute affair
 As Misery —  
 Itself, too vast, for interrupting — more —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Arrivai a poter dire il suo nome —  
-Senza — Guadagno immenso —  
-Quella sensazione-d'Arresto — sulla mia [[motifs/soul|Anima]] —  
-E il Tuono — nella Stanza —  
-
-Arrivai a poter attraversare  
-Quell'Angolo nel pavimento,  
-Dove lui si volse così, e io mi volsi — come —  
-E ogni nostro Tendine si strappò —  
-
-Arrivai a poter smuovere la Scatola —  
-In cui crebbero le sue lettere  
-Senza quello sforzo, nel respiro —  
-Come Graffe — conficcate a fondo —  
-
-Ricordavo appena una Grazia —  
-Credo, la chiamino "[[characters/god|Dio]]" —  
-Rinomata nel lenire l'Estremo —  
-Quando la Formula, aveva fallito —  
-
-E comporre le mie Mani —  
-Al modo della Supplica,  
-Pur ignara di una parola  
-Che l'Ordinazione — pronuncia —  
-
-Il mio Affare, con la Nuvola,  
-Se dietro vi sia, un Potere,  
-Non soggetto a [[concepts/despair|Disperazione]] —  
-Che si curi, in qualche modo più remoto,  
-Di un affare così minuto  
-304  
-
-Come la Miseria —  
-Essa stessa, troppo vasta, per interrompere — ancora —
 
 
 
@@ -779,52 +453,6 @@ Let me — choose!
 Ah, Sir, None!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Un Anno fa — annota cosa?  
-[[characters/god|Dio]] — sillaba la parola! Io — non posso —  
-Fu Grazia? Non quello —  
-Fu Gloria? Quello — andrà bene —  
-Sillaba più piano — Gloria —  
-
-Tale Anniversario sarà —  
-A volte — non spesso — nell'[[concepts/eternity|Eternità]] —  
-Quando più Divisi, che dal comune Dolore —  
-Guarda — si nutrono l'uno del volto dell'altro — così —  
-In pasto dubbioso, se sia possibile  
-Che il loro Banchetto sia vero —  
-
-Assaggiai — incurante — allora —  
-Non sapevo che il Vino  
-Venisse una volta per Mondo — Tu lo sapevi?  
-Oh, me l'avessi detto —  
-Questa Sete brucerebbe — più lieve — ora —  
-Dicesti che a te doleva — di più —  
-Il mio — era un Petto di Ghianda —  
-E non poteva sapere come cresce l'affetto  
-In più Irsuta Veste —  
-Forse — non potevo —  
-Ma, avessi tu guardato dentro —  
-Un Gigante — occhio a occhio con te, ci sarebbe stato —  
-Non Ghianda — allora —  
-
-Così — Dodici mesi fa —  
-Respirammo —  
-Poi lasciammo cadere l'Aria —  
-Chi la resse meglio?  
-308  
-
-Fu questa — la più paziente —  
-Perché era un [[archetypes/child|Bambino]], sai —  
-E non sapeva valutare — l'Aria?  
-
-Se essere "Maggiore" — significa più [[motifs/pain|pena]] —  
-Sono abbastanza vecchia, oggi, ne son certa — allora —  
-Vecchia quanto te — fra quanto?  
-Un — Compleanno ancora — o Dieci?  
-Lascia — ch'io scelga!  
-Ah, Signore, Nessuno!
-
 
 
 <span class="atom-split" data-atom="0299_your_riches_taught_me_poverty" data-title="299. Your Riches — taught me — Poverty" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/money_gold,concept/love_romantic,concept/unrequited_love,concept/poverty,concept/grief_and_loss,concept/childhood_and_growth,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -873,50 +501,6 @@ That slipped my simple fingers through —
 While just a Girl at School.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Le tue Ricchezze — mi insegnarono — la [[concepts/poverty|Povertà]].  
-Io stessa — Milionaria  
-In piccole Ricchezze, quali Fanciulle possono vantare  
-Fino a farmi vasta come Buenos Ayre —  
-
-Tu lasciavi andare alla deriva i tuoi Domini —  
-Un Differente Perù —  
-E io stimai Tutto [[concepts/poverty|Povertà]]  
-A fronte del Patrimonio d'una Vita con te —  
-
-Di Miniere, poco so — io stessa —  
-Soltanto i nomi, delle Gemme —  
-I Colori delle più Comuni —  
-E appena qualcosa dei Diademi —  
-
-Tanto, che se incontrassi la [[characters/queen|Regina]] —  
-La sua Gloria saprei riconoscerla —  
-Ma questa, dev'essere una Ricchezza diversa —  
-Mancarla — rende così mendichi —  
-
-Son certa che è India — tutto il Giorno —  
-Per chi posa lo sguardo su di Te —  
-Senza misura — senza colpa,  
-Potessi io — essere soltanto l'Ebreo —  
-
-Son certa che è Golconda —  
-Oltre il mio potere di concepire —  
-Avere un sorriso Mio — ogni Giorno,  
-Quanto meglio, di una Gemma!  
-
-Almeno, consola sapere  
-312  
-
-Che esiste — un Oro —  
-Benché io lo dimostri, giusto in [[motifs/time|tempo]]  
-Per contemplarne — la distanza —  
-
-Il suo lontano — lontano Tesoro congetturare —  
-E stimare la Perla —  
-Che scivolò via tra le mie semplici dita —  
-Quand'ero solo una Fanciulla a Scuola.
-
 
 
 <span class="atom-split" data-atom="0300_morning_means_milking_to_the_farmer" data-title="300. &quot;Morning&quot; — means &quot;Milking&quot; — to the Farmer —" data-chapter="" data-kind="intro" data-tags="motif/dawn,concept/identity,concept/faith,concept/love_romantic,form/lyric,histref/the_bible,setting/rural_england,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -936,22 +520,6 @@ Worlds — a Flood —
 Faint-going Lives — Their Lapse from Sighing —  
 [[concepts/faith|Faith]] — The Experiment of Our Lord
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CONTADINO —  
-
-"Mattino" — significa "Mungitura" — per il Contadino —  
-[[motifs/dawn|Alba]] — per il Teneriffe —  
-Dadi — per la Fanciulla —  
-Mattino significa solo Rischio — per l'[[archetypes/lover|Amante]] —  
-Solo [[concepts/revelation|rivelazione]] — per l'Amata —  
-
-Gli Epicurei — vi datano una Colazione —  
-Le Spose — un'[[concepts/apocalypse|Apocalisse]] —  
-I Mondi — un Diluvio —  
-Le Vite che si spengono — il loro Cessare dal Sospirare —  
-La [[concepts/faith|Fede]] — l'Esperimento di Nostro Signore
 
 
 
@@ -973,23 +541,6 @@ Choose One —
 Then — close the Valves of her attention —  
 Like Stone —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-L'[[motifs/soul|Anima]] sceglie la propria Società —  
-Poi — chiude la [[motifs/door|Porta]] —  
-Alla sua divina Maggioranza —  
-Nessuno si presenti più —  
-
-Immota — nota i Cocchi — che sostano —  
-Al suo umile Cancello —  
-Immota — un Imperatore s'inginocchi  
-Sul suo Stuoino —  
-
-L'ho conosciuta — da un'ampia nazione —  
-Scegliere Uno —  
-Poi — chiudere le Valve della sua attenzione —  
-Come Pietra —
 
 
 
@@ -1034,45 +585,6 @@ To that new [[motifs/marriage|Marriage]],
 Justified — through Calvaries of [[motifs/love|Love]] —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Venne un Giorno nel pieno dell'[[motifs/summer|Summer]],  
-Interamente per me —  
-Pensavo che tali fossero per i Santi,  
-Dove le Resurrezioni — sono —  
-
-Il [[motifs/sun|Sun]], come sempre, uscì per il mondo,  
-I [[motifs/flowers|fiori]], avvezzi, sbocciarono,  
-Come se nessuna [[motifs/soul|anima]] passasse il solstizio  
-Che fa nuove tutte le cose —  
-
-Il [[motifs/time|tempo]] fu appena profanato, dalla parola —  
-Il simbolo di un verbo  
-Era superfluo, come al Sacramento,  
-Il Guardaroba — del Signore nostro —  
-
-Ognuno era per l'altro La Chiesa Sigillata,  
-Concesso di comunicare questa — [[motifs/time|volta]] —  
-Perché non sembrassimo troppo goffi  
-Alla Cena del [[motifs/lamb|Lamb]].  
-
-Le Ore scivolarono rapide — come fanno le Ore,  
-Strette forte, da mani avide —  
-Così visi su due Ponti, guardano indietro,  
-Diretti a terre opposte —  
-
-E così quando tutto il [[motifs/time|tempo]] fu colato via,  
-Senza suono esterno  
-Ognuno legò il Crocifisso dell'Altro —  
-Non demmo altro Pegno —  
-
-Fede sufficiente, che risorgeremo —  
-337  
-
-Deposta — alfine, la [[motifs/grave|Grave]] —  
-A quel nuovo [[motifs/marriage|Marriage]],  
-Giustificati — attraverso Calvari d'[[motifs/love|Love]] —
-
 
 
 <span class="atom-split" data-atom="0336_the_face_i_carry_with_me_last" data-title="336. The face I carry with me — last —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/crown,motif/death,motif/the_supernatural,concept/immortality,concept/love_romantic,form/lyric,histref/the_bible,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1098,28 +610,6 @@ To an admiring sky —
 As one that bore her Master's name —  
 Sufficient Royalty!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il volto che porto con me — ultimo —  
-Quando esco dal [[motifs/time|Tempo]] —  
-Per prendere il mio Rango — accanto — a Occidente —  
-Quel volto — sarà proprio il tuo —  
-
-Lo consegnerò all'Angelo —  
-Quello — Signore — fu il mio Grado —  
-Nei Regni — avete udito i Risorti —  
-Farvi cenno — forse.  
-
-Lo prenderà — lo scruterà — si farà da parte —  
-Tornerà — con una tale [[motifs/crown|corona]]  
-Quale Gabriele — mai vi danzò intorno —  
-E mi pregherà d'indossarla —  
-
-E poi — mi volgerà intorno e intorno —  
-Verso un cielo in ammirazione —  
-Come colei che portò il nome del suo Maestro —  
-Regalità sufficiente!
 
 
 
@@ -1159,40 +649,6 @@ Thy Daisy —
 Draped for thee!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Curo i miei [[motifs/flowers|fiori]] per te —  
-Fulgida Assente!  
-Le Cuciture di Corallo della mia Fucsia  
-Si strappano — mentre il Seminatore — [[motifs/dreams|sogna]]  
-
-I Gerani — si tingono — e si chiazzano —  
-Basse Margherite — punteggiano —  
-Il mio Cactus — apre la sua Barba  
-Per mostrare la gola —  
-
-I Garofani — versano la loro spezia —  
-E le [[motifs/bees|Api]] — la raccolgono —  
-Un Giacinto — che nascosi —  
-Sporge un Capo Arruffato —  
-E odori cadono  
-Da fiale — così piccole —  
-Che ti stupisci come contenessero —  
-
-Rose a Globo — spezzano il loro fiocco di raso —  
-Sul suolo del mio [[motifs/garden|Giardino]]  
-Eppure — tu — non lì —  
-Avrei ugual caro non recassero  
-Cremisi — mai più —  
-
-Il tuo fiore — sia gaio —  
-Il suo Signore — lontano!  
-Mal mi si addice —  
-Dimorerò nel Calice — Grigia —  
-Con che modestia — sempre —  
-La tua Margherita —  
-Ammantata per te!
-
 
 
 <span class="atom-split" data-atom="0351_i_felt_my_life_with_both_my_hands" data-title="351. I felt my life with both my hands" data-chapter="" data-kind="intro" data-tags="motif/the_mirror,motif/eyes_sight,concept/identity,concept/self_and_soul,concept/doubt,concept/immortality,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1219,28 +675,6 @@ But we might learn to like the Heaven,
 As [[motifs/well|well]] as our Old [[motifs/home|Home]]!"
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Tastai la mia vita con entrambe le mani  
-Per vedere se c'era —  
-Tenni il mio spirito allo Specchio,  
-Per provarlo più possibile —  
-
-Rigirai il mio Essere e lo rigirai  
-E sostai a ogni libbra  
-Per chiedere il nome del Padrone —  
-Nel [[concepts/doubt|dubbio]], che io ne conoscessi il Suono —  
-
-Giudicai i miei lineamenti — scossi i miei capelli —  
-Premetti le mie fossette, e attesi —  
-Se esse — ammiccassero in risposta —  
-Convinzione potrebbe, di me —  
-
-Mi dissi: "Prendi [[concepts/courage|Coraggio]], Amica —  
-Quello — era un [[motifs/time|tempo]] di prima —  
-Ma potremmo imparare ad amare il Cielo,  
-Così [[motifs/well|bene]] come la nostra Vecchia [[motifs/home|Casa]]!"
-
 
 
 <span class="atom-split" data-atom="0368_how_sick_to_wait_in_any_place_but_thine" data-title="368. How sick — to wait — in any place — but thine —" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/love,motif/the_sea,motif/storm,concept/love_romantic,concept/marriage_and_fidelity,form/lyric,setting/a_ship,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1264,25 +698,6 @@ Rather than the "spicy isles —"
 And thou — not there —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-IL TUO —  
-
-Che pena — attendere — in ogni luogo — che non sia il tuo —  
-Lo seppi la scorsa [[motifs/night|notte]] — quando qualcuno tentò di avvincermi —  
-Pensando — forse — che sembrassi stanca — o sola —  
-O sul punto — quasi — di spezzarmi per [[motifs/pain|pena]] non detta —  
-
-E mi volsi — ducale —  
-Quel diritto — era tuo —  
-Un porto — basta — a un Brigantino — come il mio —  
-
-Nostro sia il rollio — pur selvaggio il [[motifs/sea|mare]] —  
-Piuttosto che un Ormeggio — non condiviso con te.  
-Nostro sia il Carico — scaricato — qui —  
-Piuttosto che le "isole delle spezie —"  
-E tu — non là —
-
 
 
 <span class="atom-split" data-atom="0387_the_sweetest_heresy_received" data-title="387. The sweetest Heresy received" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/love,concept/love_romantic,concept/marriage_and_fidelity,concept/conversion,concept/faith,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1298,18 +713,6 @@ The Ritual — so small —
 The Grace so unavoidable —  
 To fail — is Infidel —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-La più dolce Eresia ricevuta  
-Che Uomo e Donna conoscono —  
-L'Uno dell'Altra Convertito —  
-Benché la [[concepts/faith|Fede]] non accolga che Due —  
-
-Le Chiese sono così frequenti —  
-Il Rituale — così piccolo —  
-La Grazia così inevitabile —  
-Mancare — è da Infedele —
 
 
 
@@ -1331,23 +734,6 @@ We Two — looked so alike —
 Which was the Guilty Sake —  
 'Twas [[motifs/love|Love]]'s — Now Strike!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Fu [[motifs/love|Amore]] — non io —  
-Oh punisci — ti prego —  
-Il Vero morì per Te —  
-Solo Lui — non io —  
-
-Tale [[concepts/guilt|Colpa]] — [[motifs/love|amare]] Te — al sommo!  
-Condannala oltre il Resto —  
-Perdonala — per ultima —  
-Fu vile quanto Gesù — al sommo!  
-
-Che Giustizia non si sbagli —  
-Noi Due — parevamo sì uguali —  
-Quale fosse il Reo Motivo —  
-Fu d'[[motifs/love|Amore]] — Ora Colpisci!
 
 
 
@@ -1374,28 +760,6 @@ Unto the Lady's face —
 But every Mesh — a Citadel —  
 And Dragons — in the Crease —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Non mi sarebbero importati — i Muri —  
-Fosse l'Universo — una sola Roccia —  
-E lontano udissi il suo argenteo Richiamo  
-Dall'altro lato del Blocco —  
-
-Scaverei — finché il mio Solco  
-Sbucasse d'improvviso nel suo —  
-Poi il mio viso avrebbe la sua Ricompensa —  
-Il guardare nei suoi Occhi —  
-
-Ma è un solo Capello —  
-un filamento — una legge —  
-Una Ragnatela — tessuta in Adamante —  
-Un Bastione — di Paglia —  
-
-Un limite come il Velo  
-Sul volto della Dama —  
-Ma ogni Maglia — una Cittadella —  
-E Draghi — nella Piega —
 
 
 
@@ -1441,46 +805,6 @@ Then — look for me. Be sure you say —
 Least Figure — on the [[motifs/road|Road]] —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Una Lingua — per dirGli che son fedele!  
-Il suo compenso — sia d'Oro —  
-Avesse [[concepts/nature|Natura]] — nella Sua mostruosa Casa  
-Un solo Cencioso [[archetypes/child|Bimbo]] —  
-
-Per guadagnare una Miniera — correrebbe  
-Quella Via Interdetta,  
-E direbbe a Lui — T'ingiungo di parlar chiaro —  
-Che fin qui — la [[concepts/truth|Verità]] è Vera?  
-
-E risponda a Ciò che faccio —  
-Cominciando dal Giorno  
-Che la [[motifs/night|Notte]] — iniziò —  
-No — Mezzanotte — era —  
-Da che Mezzanotte — accadde — di' —  
-
-Se ancora una volta — Perdono — Ragazzo —  
-La Magnitudine tu possa  
-Ampliare il mio Messaggio — Se troppo vasto  
-Un altro Garzone — ti aiuti —  
-
-La tua Paga — in Diamanti — sia —  
-E la Sua — in Oro massiccio —  
-Di' Rubini — se Lui esita —  
-Il mio Messaggio — dev'essere detto —  
-
-Di' — l'ultimo che dissi — fu Questo —  
-Che quando i Colli — scenderanno —  
-E non si terranno più alti della Piana —  
-Il mio Vincolo — sarà appena iniziato —  
-
-421  
-
-E quando i Cieli — si scioglieranno —  
-E la Deità concluderà —  
-Allora — cercami. Bada di dire —  
-Minima Figura — sulla [[motifs/road|Strada]] —
-
 
 
 <span class="atom-split" data-atom="0429_the_moon_is_distant_from_the_sea" data-title="429. The Moon is distant from the Sea —" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/moon,motif/the_sea,motif/eyes_sight,concept/love_romantic,concept/marriage_and_fidelity,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1501,23 +825,6 @@ And mine — the distant [[motifs/sea|Sea]] —
 Obedient to the least command  
 Thine eye impose on me —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-La [[motifs/moon|Moon]] è distante dal [[motifs/sea|Sea]] —  
-Eppure, con Mani d'Ambra —  
-Lei lo guida — docile come un Fanciullo —  
-Lungo Sabbie designate —  
-
-Lui non sbaglia mai un Grado —  
-Obbediente al Suo Occhio  
-Viene fin qui — verso la Città —  
-Fin lì — se ne va —  
-
-Oh, Signor, Tua, la Mano d'Ambra —  
-E mio — il distante [[motifs/sea|Sea]] —  
-Obbediente al minimo comando  
-Che il tuo occhio m'imponga —
 
 
 
@@ -1544,27 +851,6 @@ And Other — went to turn the Mill —
 I'll do thy Will —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Dimenticare! La dama con l'Amuleto  
-Dimenticare che lo portava sul Cuore  
-Perché vi respirava contro  
-Fu Tradimento fra loro?  
-
-Negare! Negò la [[motifs/rose|Rosa]] la sua Ape —  
-Per Privilegio di Gioco  
-O Astuzia di Farfalla  
-O Occasione — il suo Signore lontano?  
-
-La dama con l'Amuleto — affronterà —  
-L'Ape — deposta nel Mausoleo —  
-Ripudi la sua Sposa —  
-Ma più a lungo del piccolo Rivo —  
-Che rinfrescò la Fronte della [[motifs/hill|Collina]] —  
-Mentre un Altro — andava a colmare il [[motifs/sea|Mare]] —  
-E un Altro — andava a girare il Mulino —  
-Io farò il tuo Volere —
-
 
 
 <span class="atom-split" data-atom="0440_tis_customary_as_we_part" data-title="440. 'Tis customary as we part" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/memory,motif/flowers,concept/love_romantic,concept/faith,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1580,18 +866,6 @@ Clematis — journeying far —
 Presents me with a single Curl  
 Of her Electric Hair —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-È costume, quando ci separiamo,  
-Un monile — donare —  
-Aiuta a ravvivare la [[concepts/faith|fede]]  
-Quando gli Amanti son lontani —  
-
-È vario — come il vario gusto —  
-La Clematide — in viaggio per lontano —  
-Mi dona un unico Ricciolo  
-Della sua Chioma Elettrica —
 
 
 
@@ -1611,21 +885,6 @@ A Light, for her, did solemn glow,
 The larger, as her face withdrew —  
 And could she, further, "No"?
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Le mostrai Vette che mai vide —  
-"Vorresti Salire," dissi?  
-Lei disse — "Non così" —  
-"Con me —" dissi — Con me?  
-Le mostrai [[motifs/secrets|Segreti]] — il Nido del Mattino —  
-La Fune su cui le Notti eran tese —  
-E ora — "Mi vorresti come Ospite?"  
-Non seppe trovare il suo Sì —  
-E allora, infransi la mia vita — Ed Ecco,  
-Una Luce, per lei, solenne arse,  
-Più grande, mentre il suo volto arretrava —  
-E poteva lei, ancora, dir "No"?
 
 
 
@@ -1654,29 +913,6 @@ To gain, or be undone —
 Alike to Him — One —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il Malese — prese la Perla —  
-Non — io — il Conte —  
-Io — temevo il [[motifs/sea|Mare]] — troppo  
-Non consacrata — per toccare —  
-
-Pregando che potessi essere  
-Degna — del Destino —  
-Il fosco compagno nuotò —  
-E portò il mio [[motifs/jewel|Gioiello]] — a [[motifs/home|Casa]] —  
-
-A [[motifs/home|Casa]] nella Capanna! Che sorte  
-Avessi io — il [[motifs/jewel|Gioiello]] — colto —  
-Portato su un Petto Bruno —  
-Io non avrei stimato una Veste  
-D'Ambra — degna —  
-
-Il Negro mai seppe  
-Che io — lo bramavo — anch'io —  
-Vincerlo, o esserne disfatto —  
-Per Lui uguale — Uno —
-
 
 
 <span class="atom-split" data-atom="0453_love_thou_art_high" data-title="453. Love — thou art high —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/love,motif/sun,concept/the_sublime,concept/love_divine,concept/immortality,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1704,29 +940,6 @@ Nicknamed by [[characters/god|God]] —
 [[concepts/eternity|Eternity]] —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-[[motifs/love|Amore]] — tu sei alto —  
-Non posso scalarti —  
-Ma, fossimo Due —  
-Chissà che noi —  
-A turno — sul Chimborazo —  
-Ducali — infine — non si stia ritti accanto a te —  
-
-[[motifs/love|Amore]] — tu sei profondo —  
-Non posso [[motifs/cross|attraversarti]] —  
-Ma, vi fossero Due  
-Invece di Uno —  
-Rematore, e Yacht — in qualche sovrana [[motifs/summer|Estate]] —  
-Chissà — che non si giunga al [[motifs/sun|Sole]]?  
-
-[[motifs/love|Amore]] — tu sei Velato —  
-Pochi — ti contemplano —  
-Sorridono — e mutano — e ciarlano — e muoiono —  
-La Beatitudine — sarebbe una Stranezza — senza te —  
-Soprannominata da [[characters/god|Dio]] —  
-[[concepts/eternity|Eternità]] —
-
 
 
 <span class="atom-split" data-atom="0464_the_power_to_be_true_to_you" data-title="464. The power to be true to You," data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/love,concept/marriage_and_fidelity,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1742,18 +955,6 @@ Himself — the Heaven excel —
 Whose invitation — Yours reduced  
 Until it showed too small —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il potere di esserTi fedele,  
-Finché sul mio volto  
-Il Giudizio non prema il suo Ritratto —  
-Presuntuoso del Tuo Posto —  
-
-Di Questo — Potrebbe l'Uomo privarMi —  
-Lui stesso — superare il Cielo —  
-Il cui invito — il Tuo ridusse  
-Finché parve troppo piccolo —
 
 
 
@@ -1779,27 +980,6 @@ It had esteemed the Dream —
 Too beautiful — for Shape to prove —  
 Or posture — to redeem!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-—  
-
-Il Mondo — sta — più solenne — per me —  
-Da che fui sposata — a Lui —  
-Una modestia si addice all'[[motifs/soul|anima]]  
-Che porta il nome — d'un altro —  
-Un [[concepts/doubt|dubbio]] — se sia giusto — davvero —  
-Portare quella perla — perfetta —  
-Che l'Uomo — sulla Donna — stringe —  
-Per serrarne l'[[motifs/soul|anima]] — per sempre —  
-Una [[motifs/prayer|preghiera]], che più angelo — si provi —  
-Un più candido Dono — dentro —  
-A quella munificenza, che scelse —  
-Così disadorna — una [[characters/queen|Regina]] —  
-Una Gratitudine — che ciò sia vero —  
-Aveva stimato il Sogno —  
-Troppo bello — perché Forma lo provi —  
-O posa — lo riscatti!
 
 
 
@@ -1834,36 +1014,6 @@ But — if He ask where you are hid
 Until tomorrow — Happy [[forms/letter|letter]]!  
 Gesture Coquette — and shake your Head!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Vai da Lui! Felice [[forms/letter|lettera]]!  
-Digli —  
-Digli la pagina che non ho scritto —  
-Digli — che ho detto solo la Sintassi —  
-E ho lasciato fuori il Verbo e il pronome —  
-Digli quanto correvano in fretta le dita —  
-Poi — come guadavano — lente — lente —  
-E poi avresti voluto avere occhi nelle tue pagine —  
-Per vedere cosa le muoveva tanto —  
-
-Digli — che non era uno Scrittore Esperto —  
-L'hai intuito — da come la frase faticava —  
-Sentivi il Busto tirare, dietro di te —  
-Come avesse solo la forza di un [[archetypes/child|bambino]] —  
-Quasi ne avevi pietà — tu — tanto penava —  
-Digli — no — lì puoi cavillare —  
-Perché Gli spaccherebbe il Cuore, saperlo —  
-E allora tu ed io, saremmo più silenziose.  
-
-Digli — che la [[motifs/night|Notte]] finì — prima che finissimo noi —  
-E il Vecchio [[motifs/clock|Orologio]] nitriva "Giorno"!  
-E tu — avevi sonno — e imploravi d'esser conclusa —  
-Cosa poteva impedirlo — dirlo?  
-Digli — proprio come lei ti ha sigillata — Cauta!  
-Ma — se Lui chiede dove sei nascosta  
-Fino a domani — Felice [[forms/letter|lettera]]!  
-Fa' un gesto da Civetta — e scuoti il Capo!
 
 
 
@@ -1901,38 +1051,6 @@ Lest [[motifs/noon|Noon]] in Everlasting [[motifs/night|Night]] —
 Drop Gabriel — and Me —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Invidio i Mari, su cui Egli va —  
-Invidio i Raggi delle Ruote  
-Dei Carri, che Lo portano —  
-Invidio le Colline Curve  
-
-Che contemplano il Suo [[motifs/journey|viaggio]] —  
-Com'è facile a Tutti vedere  
-Ciò che è vietato del tutto  
-Come il Cielo — a me!  
-
-Invidio i Nidi dei Passeri —  
-Che punteggiano le Sue Gronde lontane —  
-La Mosca ricca, sul Suo Vetro —  
-Le felici — felici [[motifs/leaves|Foglie]] —  
-
-Che appena fuori dalla Sua [[motifs/window|Finestra]]  
-Hanno licenza d'[[motifs/summer|Estate]] di giocare —  
-Gli Orecchini di Pizarro  
-Non potrebbero ottenerlo per me —  
-
-Invidio la Luce — che Lo sveglia —  
-E le [[motifs/bells|Campane]] — che ardite suonano  
-Per dirGli che è [[motifs/noon|Mezzogiorno]], là fuori —  
-Essere io — [[motifs/noon|Mezzogiorno]] per Lui —  
-
-Eppure interdite — il mio Fiore —  
-E abrogate — la mia Ape —  
-Che il [[motifs/noon|Mezzogiorno]] in Eterna [[motifs/night|Notte]] —  
-Non lasci cadere Gabriele — e Me —
-
 
 
 <span class="atom-split" data-atom="0504_you_know_that_portrait_in_the_moon" data-title="504. You know that Portrait in the Moon —" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,archetype/lover,motif/moon,motif/memory,concept/love_romantic,form/lyric,histref/the_bible,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -1959,28 +1077,6 @@ That's easier — than the other film
 That glazes Holiday —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Conosci quel Ritratto nella [[motifs/moon|Luna]] —  
-Dimmi dunque a chi somiglia —  
-La Fronte stessa — gli occhi chini —  
-Una nebbia per — Di' — Amor di Chi?  
-
-Il Disegno stesso della Guancia —  
-Varia — nel Mento —  
-Ma — Ismaele — da che ci incontrammo — è tanto —  
-E le fogge — intervengono —  
-
-Quando la [[motifs/moon|Luna]] è piena — Sei Tu — io dico —  
-Le mie labbra trattengono appena il nome —  
-Quando è crescente — Sei consunto — noto —  
-Ma — lì — il Medesimo d'Oro —  
-
-E quando — Qualche [[motifs/night|Notte]] — Audaci — Nubi sferzanti  
-Ti tagliano via da Me —  
-È più facile — dell'altro velo  
-Che appanna la Festa —
-
 
 
 <span class="atom-split" data-atom="0523_sweet_you_forgot_but_i_remembered" data-title="523. Sweet — You forgot — but I remembered" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/memory,motif/money_gold,concept/unrequited_love,concept/marriage_and_fidelity,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2002,23 +1098,6 @@ Just to be Poor — for Barefoot Vision
 You — Sweet — Shut me out —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Dolce — Tu dimenticasti — ma io ricordai  
-Ogni [[motifs/time|volta]] — per Due —  
-Così che la Somma mai fosse impedita  
-Dal [[motifs/decay|Decadere]] di Te —  
-
-Di' se ho errato? Accusa i miei Spiccioli —  
-Biasima la piccola Mano  
-Felice ch'essa sia per Te — d'una Mendica —  
-In cerca di Altro — da spendere —  
-
-Solo per esser Ricca — sprecare le mie Ghinee  
-Per un Cuore così Sommo —  
-Solo per esser Povera — per la Visione Scalza  
-Tu — Dolce — mi hai Chiusa fuori —
-
 
 
 <span class="atom-split" data-atom="0535_shes_happy_with_a_new_content" data-title="535. She's happy, with a new Content —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/marriage,concept/joy,concept/humility,concept/love_divine,concept/marriage_and_fidelity,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2034,18 +1113,6 @@ For blissful Causes — Most of all
 That Heaven permit so meek as her —  
 To such a Fate — to Minister.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Lei è felice, d'un nuovo Appagamento —  
-Che le pare — come Sacramento —  
-È affaccendata — d'una Cura mutata —  
-Come appena apprendista dell'Aria —  
-
-È in lacrime — se mai piange —  
-Per Cause beate — Più di tutto  
-Che il Cielo permetta a una mite come lei —  
-A un tale Fato — di Ministrare.
 
 
 
@@ -2073,28 +1140,6 @@ Swept by my searching eyes — the last —
 Themselves were quick — with Thee!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Io provarlo ora — Chiunque [[concepts/doubt|dubiti]]  
-Io fermarmi a provarlo — ora —  
-Fa' presto — lo Scrupolo! [[motifs/death|Morte]] sia avara  
-Per l'Opportunità —  
-
-Il [[motifs/river|Fiume]] arriva ai miei piedi —  
-Ancora — il Mio Cuore è asciutto —  
-Oh [[archetypes/lover|Amante]] — la Vita non poté convincere —  
-Possa la [[motifs/death|Morte]] — renderTi capace —  
-
-Il [[motifs/river|Fiume]] arriva al Mio Petto —  
-Ancora — ancora — le Mie Mani in alto  
-Proclamano con la Forza che resta —  
-Riconosci Tu l'[[motifs/love|Amore]]?  
-
-Il [[motifs/river|Fiume]] arriva alla mia Bocca —  
-Ricorda — quando il [[motifs/sea|Mare]]  
-Passò sui miei occhi in cerca — gli ultimi —  
-Essi erano vivi — di Te!
-
 
 
 <span class="atom-split" data-atom="0570_i_could_die_to_know" data-title="570. I could die — to know —" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/the_city,motif/the_window,concept/unrequited_love,concept/love_romantic,concept/alienation,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2114,22 +1159,6 @@ To the very Square — His foot is passing —
 Possibly, this moment —  
 While I — dream — Here —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Potrei morire — per sapere —  
-È una conoscenza da nulla —  
-Gli Strilloni salutano la [[motifs/door|Porta]] —  
-I Carri — passano sobbalzando —  
-La faccia audace del Mattino — fissa dentro la [[motifs/window|finestra]] —  
-Fosse solo mio — lo Statuto della più piccola Mosca —  
-
-Le Case incalzano la Casa  
-Con le loro Spalle di Mattoni —  
-Carboni — da un Carico Rotolante — sferragliano — quanto — vicino —  
-Alla Piazza stessa — dove passa il Suo piede —  
-Forse, in questo istante —  
-Mentre io — sogno — Qui —
 
 
 
@@ -2157,28 +1186,6 @@ Sweet Debt of Life — Each [[motifs/night|Night]] to owe —
 Insolvent — every [[motifs/noon|Noon]] —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Mi diedi a Lui —  
-E presi Lui stesso, in Pagamento,  
-Il solenne contratto di una Vita  
-Fu ratificato, così —  
-
-La Ricchezza potrebbe deludere —  
-Io stessa rivelarmi più povera  
-Di quanto questo gran Compratore sospetti,  
-Il Possesso Quotidiano — dell'[[motifs/love|Amore]]  
-
-Svalutare la Visione —  
-Ma finché il Mercante non compri —  
-Ancora [[forms/fable|Favola]] — nelle Isole delle Spezie —  
-I sottili Carichi — giacciono —  
-
-Almeno — è Mutuo — il Rischio —  
-Alcuni — lo trovarono — Mutuo Guadagno —  
-Dolce Debito di Vita — da dovere ogni [[motifs/night|Notte]] —  
-Insolvente — ogni [[motifs/noon|Mezzogiorno]] —
-
 
 
 <span class="atom-split" data-atom="0587_empty_my_heart_of_thee" data-title="587. Empty my Heart, of Thee —" data-chapter="" data-kind="intro" data-tags="concept/love_romantic,concept/identity,concept/self_and_soul,concept/desire_and_longing,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2201,25 +1208,6 @@ Thee — then — no me —
 The Heavens stripped —  
 [[concepts/eternity|Eternity]]'s vast pocket, picked —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Svuota il mio Cuore, di Te —  
-La sua unica Arteria —  
-Comincia, e lascia Te fuori —  
-Semplicemente la Data dell'Estinzione —  
-
-Molti Flutti ha il [[motifs/sea|Mare]] —  
-Un solo Baltico — Essi —  
-Sottrai Te stesso, per gioco,  
-E non abbastanza di me  
-Resta — da riporre —  
-"Me stessa" voleva dire Te —  
-
-Cancella la Radice — nessun [[motifs/tree|Albero]] —  
-Te — allora — niente me —  
-I Cieli spogliati —  
-La vasta tasca dell'[[concepts/eternity|Eternità]], borseggiata —
 
 
 
@@ -2246,28 +1234,6 @@ To Those whose Dark — hath so — surpassing [[motifs/sun|Sun]] —
 It deem it be — Continually —  
 At the Meridian?
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Ti vedo meglio — nel Buio —  
-non mi occorre una Luce —  
-l'[[motifs/love|Amore]] di Te — sia un Prisma —  
-che supera il Violetto —  
-
-Ti vedo meglio per gli Anni  
-che s'ingobbiscono frammezzo —  
-la Lampada del Minatore — basti —  
-ad annullare la Miniera —  
-
-E nella [[motifs/grave|Tomba]] — Ti vedo al meglio —  
-i suoi piccoli Pannelli sono  
-ardenti — tutti rosseggianti — della Luce  
-che tenni sì alta, per Te —  
-
-Che bisogno del Giorno —  
-per Quelli il cui Buio — ha un sì — eccelso [[motifs/sun|Sole]] —  
-da stimare che sia — di Continuo —  
-al Meridiano?
 
 
 
@@ -2300,33 +1266,6 @@ Closer — so I — at my sleeping —
 Still surmise I stitch —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Non riporre il mio Filo e Ago —  
-Comincerò a Cucire  
-Quando gli [[motifs/birds|uccelli]] cominceranno a fischiare —  
-Punti Migliori — così —  
-
-Questi erano storti — la vista mi si fece obliqua —  
-Quando la mente — sarà chiara  
-Farò cuciture — che l'impegno d'una [[characters/queen|Regina]]  
-Non arrossirebbe a dir sue —  
-
-Orli — troppo fini per l'occhio d'una Dama  
-Fino al Nodo invisibile —  
-Pieghe — di delicata intermittenza —  
-Come un Punto punteggiato —  
-
-Lascia il mio Ago nel solco —  
-Dove l'ho posato —  
-Saprò fare i punti a zigzag  
-Dritti — quando sarò forte —  
-
-Fino ad allora — sognando di cucire  
-Porta la cucitura che ho mancato —  
-Più vicino — così io — nel mio sonno —  
-Creda ancora di cucire —
-
 
 
 <span class="atom-split" data-atom="0621_i_asked_no_other_thing" data-title="621. I asked no other thing —" data-chapter="" data-kind="intro" data-tags="motif/money_gold,concept/unrequited_love,concept/longing,concept/fate_and_free_will,concept/faith_and_doubt,form/allegory,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2342,18 +1281,6 @@ Without a glance my way :
 "But, madam, is there nothing else  
 That we can show to-day ?"
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Non chiesi altra cosa.  
-Nessun'altra fu negata.  
-Offrii in cambio l'Essere ;  
-Il possente mercante sorrise.  
-
-Il Brasile ?  Girò fra le dita un bottone,  
-Senza uno sguardo verso di me :  
-"Ma, signora, non c'è nient'altro  
-Che possiamo mostrarvi quest'oggi ?"
 
 
 
@@ -2381,28 +1308,6 @@ And Cherubim — and Seraphim —
 The unobtrusive Guest —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Fu un lungo Distacco — ma il [[motifs/time|tempo]]  
-Del Colloquio — era Giunto —  
-Dinanzi al Seggio del Giudizio di [[characters/god|Dio]] —  
-L'ultima — e seconda [[motifs/time|volta]]  
-
-Questi Amanti senza Carne s'incontrarono —  
-Un Cielo in uno Sguardo —  
-Un Cielo di Cieli — il Privilegio  
-Degli Occhi l'uno dell'altra —  
-
-Nessuna Vita — su di Loro —  
-Abbigliati come il nuovo  
-Non nato — se non che Avevano contemplato —  
-Nati più infiniti — ora —  
-
-Fu mai Sposalizio — simile a Questo?  
-Un Paradiso — l'Anfitrione —  
-E Cherubini — e Serafini —  
-L'Ospite discreto —
-
 
 
 <span class="atom-split" data-atom="0631_ourselves_were_wed_one_summer_dear" data-title="631. Ourselves were wed one summer — dear —" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/death,motif/marriage,motif/seasons,motif/garden,motif/crown,concept/grief_and_loss,concept/love_romantic,concept/mortality,concept/transience,form/elegy,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2428,28 +1333,6 @@ For mine — in Frosts — was sown —
 And yet, one [[motifs/summer|Summer]], we were Queens —  
 But You — were crowned in June —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Noi ci sposammo una [[motifs/summer|estate]] — cara —  
-La tua Visione — fu in Giugno —  
-E quando la tua piccola Vita venne meno,  
-Mi stancai — anch'io — della mia —  
-
-E raggiunta nel Buio —  
-Dove Tu mi avevi deposta —  
-Da Qualcuno che portava una Luce —  
-Io — pure — ricevetti il Segno.  
-
-È vero — i Nostri Futuri stavano diversi —  
-Il tuo Cottage — guardava il [[motifs/sun|sole]] —  
-Mentre Oceani — e il Nord dovevano stare —  
-Da ogni lato del mio  
-
-È vero, il tuo [[motifs/garden|Giardino]] guidò la Fioritura,  
-Ché il mio — nei Geli — fu seminato —  
-Eppure, una [[motifs/summer|Estate]], fummo Regine —  
-Ma Tu — fosti incoronata in Giugno —
 
 
 
@@ -2477,28 +1360,6 @@ Take up my little Violin —
 And further North — remove.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Credo che l'Ora più lunga di tutte  
-Sia quando i Vagoni sono giunti —  
-E noi aspettiamo la Carrozza —  
-Sembra quasi che il [[motifs/time|Tempo]]  
-
-Indignato — che la [[concepts/joy|Gioia]] fosse giunta —  
-Bloccasse le Lancette Dorate —  
-E non lasciasse passare i Secondi —  
-Ma l'istante più lento — finisce —  
-
-Il Pendolo comincia a contare —  
-Come piccoli Scolari — forte —  
-I passi s'infittiscono — nell'Ingresso —  
-Il Cuore comincia ad affollarsi —  
-
-Allora io — compiuto il mio timido servizio —  
-Benché servizio fosse, d'[[motifs/love|Amore]] —  
-Prendo il mio piccolo Violino —  
-E più a Nord — mi ritiro.
-
 
 
 <span class="atom-split" data-atom="0636_the_way_i_read_a_letters_this" data-title="636. The Way I read a Letter's — this —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/letters_writing,concept/love_romantic,concept/longing,concept/identity,concept/joy,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2524,28 +1385,6 @@ To no one that You — know —
 And sigh for lack of Heaven — but not  
 The Heaven [[characters/god|God]] bestow —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il Modo in cui leggo una [[forms/letter|Lettera]] — è questo —  
-Prima — chiudo a chiave la [[motifs/door|Porta]] —  
-E la premo con le dita — poi —  
-Perché il rapimento sia sicuro —  
-
-E poi vado quanto più lontano  
-A contrastare un bussare —  
-Poi traggo fuori la mia piccola [[forms/letter|Lettera]]  
-E lentamente forzo la serratura —  
-
-Poi — gettando uno sguardo stretto, al Muro —  
-E stretto al pavimento  
-Per ferma Convinzione d'un Topo  
-Non esorcizzato prima —  
-
-Scruto quanto infinita io sia  
-Per nessuno che Voi — conosciate —  
-E sospiro per mancanza di Cielo — ma non  
-Il Cielo che [[characters/god|Dio]] concede —
 
 
 
@@ -2617,72 +1456,6 @@ And that White Sustenance —
 [[concepts/despair|Despair]] —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Non posso vivere con Te —  
-Sarebbe Vita —  
-E la Vita è laggiù —  
-Dietro lo Scaffale  
-
-Di cui il Sagrestano tiene la Chiave —  
-Riponendo  
-La nostra Vita — la Sua Porcellana —  
-Come una Tazza —  
-
-Scartata dalla Massaia —  
-Bizzarra — o Rotta —  
-Un Sèvres più nuovo piace —  
-Le Vecchie si crepano —  
-
-Non potrei morire — con Te —  
-Perché Uno deve attendere  
-Per chiudere lo Sguardo dell'Altro —  
-Tu — non potresti —  
-
-E io — Potrei restare accanto  
-E vederTi — gelare —  
-Senza il mio Diritto di [[motifs/frost|Gelo]] —  
-Privilegio della [[motifs/death|Morte]]?  
-
-Né potrei risorgere — con Te —  
-Perché il Tuo Volto  
-Spegnerebbe quello di Gesù —  
-Quella Grazia Nuova  
-
-Brillare piana — e straniera  
-675  
-
-Sul mio Occhio nostalgico —  
-Se non che Tu più di Lui  
-Splendevi più vicino —  
-
-Ci giudicherebbero — Come —  
-Perché Tu — servivi il Cielo — lo sai,  
-O cercavi di farlo —  
-Io non potevo —  
-
-Perché Tu saturavi la Vista —  
-E io non avevo più Occhi  
-Per una sordida eccellenza  
-Quale il Paradiso  
-
-E fossi Tu perduto, io lo sarei —  
-Benché il Mio Nome  
-Risuonasse più alto  
-Nella fama Celeste —  
-
-E fossi Tu — salvato —  
-E io — condannata a essere  
-Dove Tu non fossi —  
-Quel [[concepts/self|sé]] — sarebbe Inferno per Me —  
-
-Così dobbiamo incontrarci separati —  
-Tu là — io — qui —  
-Con solo la [[motifs/door|Porta]] socchiusa  
-Che Oceani sono — e [[motifs/prayer|Preghiera]] —  
-E quel Bianco Sostentamento —  
-La [[concepts/despair|Disperazione]] —
-
 
 
 <span class="atom-split" data-atom="0643_i_could_suffice_for_him_i_knew" data-title="643. I could suffice for Him, I knew —" data-chapter="" data-kind="intro" data-tags="motif/moon,motif/the_sea,motif/sun,concept/love_romantic,concept/self_and_soul,concept/fate_and_free_will,concept/faith,concept/the_sublime,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2709,28 +1482,6 @@ Herself adjust Her Tides — unto —
 Could I — do else — with Mine?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Potevo bastare a Lui, sapevo —  
-Lui — poteva bastare a Me —  
-Pure Frazioni Esitanti — Entrambi  
-Scrutammo l'Infinità —  
-
-"Sarei Io Intera" Lui d'improvviso propose —  
-La mia sillaba si ribellò —  
-Fu faccia a faccia con la [[concepts/nature|Natura]] — forzata —  
-Fu faccia a faccia con [[characters/god|Dio]] —  
-
-Si ritrasse il [[motifs/sun|Sole]] — verso Altri Occidenti —  
-Si ritrasse la più remota Stella  
-Prima che Decisione — si chinasse a parola —  
-E allora — sia più udibile  
-
-La Risposta del [[motifs/sea|Mare]] verso  
-Il Moto della [[motifs/moon|Luna]] —  
-Ella stessa aggiusta le Sue Maree — verso —  
-Potevo Io — fare altro — con le Mie?
-
 
 
 <span class="atom-split" data-atom="0644_you_left_me_sire_two_legacies" data-title="644. You left me — Sire — two Legacies —" data-chapter="" data-kind="intro" data-tags="motif/the_sea,concept/love_romantic,concept/grief_and_loss,concept/suffering,concept/immortality,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2746,18 +1497,6 @@ Capacious as the [[motifs/sea|Sea]] —
 Between [[concepts/eternity|Eternity]] and [[motifs/time|Time]] —  
 Your Consciousness — and Me —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Mi lasciasti — Sire — due Legati —  
-Un Legato d'[[motifs/love|Amore]]  
-A un Padre Celeste basterebbe  
-Ne avesse avuto l'offerta —  
-
-Mi lasciasti Confini di [[motifs/pain|Dolore]] —  
-Capaci come il [[motifs/sea|Mare]] —  
-Tra l'[[concepts/eternity|Eternità]] e il [[motifs/time|Tempo]] —  
-La Tua Coscienza — e Me —
 
 
 
@@ -2802,45 +1541,6 @@ Had all my Life but been Mistake
 Just rectified — in Thee
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Penso che Vivere — possa essere una Beatitudine  
-Per chi osa tentare —  
-Oltre il mio limite concepire —  
-Il mio labbro — testimoniare —  
-
-Penso che il Cuore che prima portavo  
-Potrebbe allargarsi — finché a me  
-L'Altro, come la piccola Riva  
-Appaia — dinanzi al [[motifs/sea|Mare]] —  
-
-Penso che i Giorni — potrebbero ognuno  
-Stare in Ordinazione —  
-E la Maestà — essere più facile —  
-Di una specie inferiore —  
-
-Nessun torpido allarme — che venga Differenza —  
-Nessun Folletto — sulla Fioritura —  
-Nessun sussulto nell'Orecchio dell'Apprensione,  
-Nessuna Bancarotta — nessuna Condanna —  
-
-Ma Certezze di [[motifs/sun|Sole]] —  
-Mezza estate — nella Mente —  
-Un Sud costante — sull'[[motifs/soul|Anima]] —  
-Il Suo [[motifs/time|tempo]] Polare — alle spalle —  
-
-La Visione — a lungo ponderata —  
-Così plausibile diviene  
-Che stimo la finzione — reale —  
-Il Reale — fittizio sembra —  
-
-Com'è generoso il Sogno —  
-682  
-
-Che Abbondanza — sarebbe —  
-Fosse stata tutta la mia Vita solo Errore  
-Appena rettificato — in Te
-
 
 
 <span class="atom-split" data-atom="0647_a_little_road_not_made_of_man" data-title="647. A little Road — not made of Man —" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,motif/the_road,motif/the_journey,motif/nature,concept/longing,concept/nature_vs_civilization,concept/the_natural_order,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2856,18 +1556,6 @@ If town it have, beyond itself,
 I only sigh,—no vehicle  
 Bears me along that way.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Una piccola [[motifs/road|strada]] non fatta d'uomo,  
-Consentita all'occhio,  
-Accessibile a stanga d'ape,  
-O a carro di farfalla.  
-
-Se città abbia, oltre se stessa,  
-Questo io non so dire ;  
-Sospiro soltanto,—nessun veicolo  
-Mi porta per quella via.
 
 
 
@@ -2918,51 +1606,6 @@ Had I not been
 Most enough — denied?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Prometti Questo — Quando Tu sia Morente —  
-Qualcuno Mi chiamerà —  
-A Me appartenga il Tuo estremo Sospirare —  
-Mio — Cingere il Tuo Occhio —  
-
-Non con Monete — benché Coniate  
-Dalla Mano d'un Imperatore —  
-Siano le mie labbra — l'unica Fibbia  
-Che i Tuoi bassi Occhi — domandino —  
-
-Mio restare — quando tutti avranno errato —  
-Per escogitare ancora  
-Se la Vita fosse troppo arresa —  
-Vita Mia — restaurare —  
-
-Versata così — la Mia Intera Libagione —  
-Solo perché Tu vedessi  
-Beatitudine di [[motifs/death|Morte]] — Beatitudine di Vita esaltare  
-Nell'Imitare Te —  
-
-Mio — custodire il Tuo Stretto Recinto —  
-Sedurre il [[motifs/sun|Sole]]  
-A indugiare più a lungo sul Tuo Sud,  
-Le più larghe Rugiade del Mattino  
-
-A esigere, in Tuo umile favore  
-Perché l'Erba Gelosa  
-Più verde non si chini — O più tenera s'aduni  
-Attorno a qualche altro volto —  
-
-Mio supplicare la Madonna —  
-685  
-
-Se Madonna vi sia  
-Che possa scorgere Creatura così lontana —  
-[[characters/christ|Cristo]] — omesso — Me —  
-
-Solo seguire il Tuo caro futuro —  
-Mai così lontano indietro —  
-Per il Mio Cielo —  
-Non ero forse stata  
-Più che abbastanza — negata?
-
 
 
 <span class="atom-split" data-atom="0651_so_much_summer" data-title="651. So much Summer" data-chapter="" data-kind="intro" data-tags="motif/seasons,motif/birds,motif/money_gold,concept/humility,concept/wonder_and_gratitude,concept/joy,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -2981,21 +1624,6 @@ Crumb of Mine
 A Robin's Larder  
 Would suffice to stow —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Tanta [[motifs/summer|Estate]]  
-A me per mostrarmi  
-Illegittima —  
-Sarebbe d'un Sorriso il dono d'un minuto  
-Troppo esorbitante  
-
-Per la Signora  
-Con la Ghinea  
-Guarda — se Ella sapesse  
-Che una Briciola Mia  
-La Dispensa d'un Pettirosso  
-Basterebbe a colmare —
 
 
 
@@ -3018,23 +1646,6 @@ My Heart to subdivide —
 And not reduce — the Gold —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Senza questo — non v'è nulla —  
-Ogni altra Ricchezza è  
-Come il Cinguettio d'un Uccello —  
-Udito di fronte al [[motifs/sea|Mare]] —  
-
-Non potrei curarmi — di ottenere  
-Un che di minore del Tutto —  
-Poiché questo non li includeva forse —  
-Come le Cuciture — includono la Palla?  
-
-Desiderai vi fosse un modo  
-Di suddividere il mio Cuore —  
-Avrebbe ingrandito — la Gratitudine —  
-E non ridotto — l'Oro —
-
 
 
 <span class="atom-split" data-atom="0659_that_first_day_when_you_praised_me_sweet" data-title="659. That first Day, when you praised Me, Sweet," data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/money_gold,motif/memory,concept/love_romantic,concept/memory_and_time,concept/joy,concept/identity,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3050,18 +1661,6 @@ Between Diverging Golds —
 The Minor One — that gleamed behind —  
 And Vaster — of the World's.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Quel primo Giorno, quando lodasti Me, Dolce,  
-E dicesti che ero forte —  
-E che potevo esser grande, se volevo —  
-Quel Giorno — fra i Giorni —  
-
-Arde Centrale — come un [[motifs/jewel|Gioiello]]  
-Fra Ori Divergenti —  
-Il Minore — che brillava dietro —  
-E il più Vasto — del Mondo.
 
 
 
@@ -3107,46 +1706,6 @@ But He must count the drops — himself —
 My price for every stain!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Di nuovo — la sua voce è alla [[motifs/door|porta]] —  
-Sento il vecchio Grado —  
-Lo sento chiedere al servo  
-Di una tale — come me —  
-
-Prendo un fiore — nell'andare —  
-Il mio volto a giustificare —  
-Non mi vide mai — in questa vita —  
-Potrei sorprendere il suo occhio!  
-
-[[motifs/cross|Attraverso]] la Sala con passi confusi —  
-Io — silenziosa — oltrepasso la [[motifs/door|porta]] —  
-Guardo tutto ciò che questo mondo contiene —  
-Solo il suo volto — nulla più!  
-
-Parliamo con noncuranza — e getta —  
-Una sorta di tratto di scandaglio —  
-Ognuno — sondando — timidamente —  
-Solo — quanto — a fondo —  
-Quello dell'altro — fosse giunto —  
-
-Camminiamo — lascio il mio Cane — a [[motifs/home|casa]] —  
-Una tenera — pensosa [[motifs/moon|Luna]] —  
-Viene con noi — solo un poco di strada —  
-E — poi — siamo soli —  
-
-Soli — se gli Angeli sono "soli" —  
-La prima [[motifs/time|volta]] che tentano il cielo!  
-Soli — se quei "volti velati" — lo sono —  
-Che non possiamo contare — Lassù!  
-
-703  
-
-Darei — per vivere quell'ora — ancora —  
-La porpora — nella mia Vena —  
-Ma Lui deve contare le gocce — da sé —  
-Il mio prezzo per ogni macchia!
-
 
 
 <span class="atom-split" data-atom="0664_of_all_the_souls_that_stand_create" data-title="664. Of all the Souls that stand create —" data-chapter="" data-kind="intro" data-tags="topos/theatrum_mundi,archetype/lover,motif/dust,concept/love_romantic,concept/self_and_soul,concept/immortality,concept/appearance_vs_reality,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3165,21 +1724,6 @@ And Mists — are carved away,
 Behold the Atom — I preferred —  
 To all the lists of Clay!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Di tutte le Anime che stanno create —  
-Io ho eletto — Una —  
-Quando il Senso dallo Spirito — si sfila via —  
-E il Sotterfugio — è compiuto —  
-Quando ciò che è — e ciò che fu —  
-Separati — intrinseci — stanno —  
-E questo breve Dramma nella carne —  
-È spostato — come una Sabbia —  
-Quando le Figure mostrano la regale Fronte —  
-E le Nebbie — sono scolpite via,  
-Ecco l'Atomo — che preferii —  
-A tutte le liste d'Argilla!
 
 
 
@@ -3206,27 +1750,6 @@ Returns — suggests — convicts — enchants —
 Then — flings in Paradise —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-L'[[motifs/love|Amore]] che una Vita può mostrare Quaggiù  
-Non è che un filamento, lo so,  
-Di quella cosa più divina  
-Che vien meno sul volto del [[motifs/noon|Mezzogiorno]] —  
-E percuote l'Esca nel [[motifs/sun|Sole]] —  
-E impaccia l'Ala di Gabriele —  
-
-È questo — nella Musica — che accenna e ondeggia —  
-E lontano, nei giorni d'[[motifs/summer|Estate]] —  
-Distilla incerta [[motifs/pain|pena]] —  
-È questo che innamora a Oriente —  
-E tinge il Transito a Occidente  
-Di straziante Iodio —  
-
-È questo — che invita — atterrisce — dota —  
-Guizza — riluce — prova — si dissolve —  
-Ritorna — suggerisce — condanna — incanta —  
-Poi — scaglia in Paradiso —
-
 
 
 <span class="atom-split" data-atom="0697_i_could_bring_you_jewels_had_i_a_mind_to" data-title="697. I could bring You Jewels — had I a mind to —" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/money_gold,motif/nature,concept/love_romantic,concept/beauty,concept/nature_vs_civilization,concept/humility,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3247,23 +1770,6 @@ And his Emerald Swing —
 Dower itself — for Bobadilo —  
 Better — Could I bring?
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Potrei portarTi Gioielli — se ne avessi voglia —  
-Ma Tu ne hai abbastanza — di quelli —  
-Potrei portarTi Aromi da St. Domingo —  
-Colori — da Vera Cruz —  
-
-Bacche delle Bahamas — ne ho —  
-Ma questa piccola Vampa  
-Che tremola a se stessa — nel Prato —  
-Mi si addice — più di quelli —  
-
-Mai un Pari eguagliò questo Topazio —  
-E il suo Dondolìo di Smeraldo —  
-Dote essa stessa — per Bobadilo —  
-Di meglio — potrei portare?
 
 
 
@@ -3287,25 +1793,6 @@ Tho' Bands of Spices — row —
 What Thou dost not — [[concepts/despair|Despair]] —  
 Tho' Gabriel — praise me — Sire —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Dove Tu sei — quello — è [[motifs/home|Casa]] —  
-Cashmere — o Calvario — lo stesso —  
-Rango — o Vergogna —  
-Stimo appena il Nome del Luogo —  
-Purché io possa Venire —  
-
-Ciò che Tu fai — è Delizia —  
-La Servitù come Gioco — sia dolce —  
-[[concepts/imprisonment|Prigionia]] — Contentezza —  
-E la Condanna — Sacramento —  
-Solo Noi due — insieme —  
-
-Dove Tu non sei — è Pena —  
-Benché Schiere di Spezie — remino —  
-Ciò che Tu non fai — [[concepts/despair|Disperazione]] —  
-Benché Gabriele — mi lodi — Sire —
 
 
 
@@ -3331,26 +1818,6 @@ When [[motifs/summer|Summer]]'s Everlasting Dower —
 Confronts the dazzled Bee.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Preziosa per Me — Ella ancora sarà —  
-Benché scordi il nome che porto —  
-La foggia della Veste che indosso —  
-Il Colore stesso dei Miei Capelli —  
-
-Così simile ai Prati — ora —  
-Osai mostrare una loro Treccia  
-Se mai — Ella non disprezzasse  
-La Parure d'un Ranuncolo —  
-
-So che il Tutto — oscura la Parte —  
-La frazione — che placava il Cuore  
-Fino all'Impero del Numero —  
-Ricordata — come il fiore della Modista  
-
-Quando la Dote Perenne dell'[[motifs/summer|Estate]] —  
-Affronta l'Ape abbagliata.
-
 
 
 <span class="atom-split" data-atom="0732_she_rose_to_his_requirement_dropt" data-title="732. She rose to His Requirement — dropt" data-chapter="" data-kind="intro" data-tags="motif/the_sea,concept/marriage_and_fidelity,concept/identity,concept/self_denial,concept/alienation,concept/childhood_and_growth,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3371,23 +1838,6 @@ Develop Pearl, and Weed,
 But only to Himself — be known  
 The Fathoms they abide —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Ella [[motifs/rose|si levò]] alla Sua Esigenza — depose  
-I Trastulli della Sua Vita  
-Per assumere l'Opera onorevole  
-Di Donna, e di Moglie —  
-
-Se qualcosa Le mancò nel Suo nuovo Giorno,  
-Di Ampiezza, o di Stupore —  
-O prima Prospettiva — O l'Oro  
-Che nell'uso si consuma,  
-
-Giacque non detto — come il [[motifs/sea|Mare]]  
-Sviluppa Perla, e Alga,  
-Ma solo a Lui — sian note  
-Le Profondità in cui dimorano —
 
 
 
@@ -3417,30 +1867,6 @@ With just this Stipulus —
 I suit Thee —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Dicesti che io "ero Grande" — un Giorno —  
-Allora "Grande" sia — se ciò Ti piace —  
-O Piccola — o di qualunque taglia —  
-Anzi — son della taglia che Ti conviene —  
-
-Alta — come il Cervo — andrebbe?  
-O più bassa — come lo Scricciolo —  
-O altre altezze di Altri  
-Che ho visto?  
-
-Di' quale — è noioso indovinare —  
-E io devo essere Rinoceronte  
-O Topo —  
-All'istante — per Te —  
-
-Di' dunque — se [[characters/queen|Regina]] sia —  
-O Paggio — se Ti piace —  
-Son quello — o nulla —  
-O altra cosa — se altra cosa vi sia —  
-Con questa sola Stipula —  
-Che io m'addica a Te —
-
 
 
 <span class="atom-split" data-atom="0745_renunciation_is_a_piercing_virtue" data-title="745. Renunciation — is a piercing Virtue —" data-chapter="" data-kind="intro" data-tags="motif/dawn,motif/eyes_sight,motif/sun,concept/self_denial,concept/faith,concept/desire,concept/immortality,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3463,25 +1889,6 @@ When larger function —
 Make that appear —  
 Smaller — that Covered Vision — Here —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-La [[concepts/renunciation|Rinuncia]] — è una [[concepts/virtue|Virtù]] pungente —  
-Il lasciare andare  
-Una Presenza — per un'Attesa —  
-Non ora —  
-Il cavarsi gli Occhi —  
-Proprio all'Alba —  
-Perché il Giorno —  
-Il Gran Progenitore del Giorno —  
-Non superi  
-La [[concepts/renunciation|Rinuncia]] — è lo Scegliere  
-Contro se stessa —  
-Se stessa a giustificare  
-Dinanzi a se stessa —  
-Quando più vasta funzione —  
-Faccia apparire —  
-Più piccola — quella Visione Coperta — Qui —
 
 
 
@@ -3519,38 +1926,6 @@ And Haunting actualize — to last
 At least — [[concepts/eternity|Eternity]] —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-[[concepts/joy|Gioia]] d'aver meritato la [[motifs/pain|Pena]] —  
-Di meritare la Liberazione —  
-[[concepts/joy|Gioia]] d'esser perita a ogni passo —  
-Per Raggiungere il Paradiso —  
-
-Perdono — di contemplare il tuo volto —  
-Con questi Occhi d'antica foggia —  
-Migliori che nuovi — sarebbero — per questo —  
-Benché comprati in Paradiso —  
-
-Perché ti guardarono prima —  
-E tu li hai guardati —  
-Provatemi — Miei Testimoni di Nocciola  
-I lineamenti sono gli stessi —  
-
-Sì fuggevole eri, presente —  
-Sì infinito — svanito —  
-Apparizione d'[[settings/orient|Oriente]] —  
-Rimandata al Mattino —  
-
-L'Altezza la ricordo —  
-Era pari ai Colli —  
-La Profondità fu incisa sulla mia [[motifs/soul|Anima]] —  
-Come Piene — sui Bianchi delle Ruote —  
-
-A Ossessionare — finché il [[motifs/time|Tempo]] non lasci cadere  
-La sua ultima Decade,  
-E l'Ossessione s'avveri — per durare  
-Almeno — l'[[concepts/eternity|Eternità]] —
-
 
 
 <span class="atom-split" data-atom="0851_when_the_astronomer_stops_seeking" data-title="851. When the Astronomer stops seeking" data-chapter="" data-kind="intro" data-tags="motif/stars,motif/the_sea,concept/marriage_and_fidelity,concept/faith,form/epigram,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3566,18 +1941,6 @@ The Sailor doubting turns —
 It will be amply early  
 To ask what treason means.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Quando l'Astronomo cessa di cercare  
-Il Volto della sua Pleiade —  
-Quando la solitaria Lady britannica  
-Abbandona la Corsa Artica  
-
-Quando al suo Ago d'Alleanza  
-Il Marinaio dubitando si volge —  
-Sarà ampiamente presto  
-Chiedere che cosa significhi tradimento.
 
 
 
@@ -3600,23 +1963,6 @@ That Bee to ride, or Flower of Furze
 I that way worship Thee.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Perché l'Ape può ronzare senza colpa  
-Per Te un'Ape io divento  
-Porgi ascolto anche a Me.  
-
-Perché i [[motifs/flowers|Fiori]] senza timore  
-Possono levare uno sguardo al tuo, una Fanciulla  
-Sempre un Fiore vorrebbe essere.  
-
-Né i Pettirossi, i Pettirossi devono nascondersi  
-Quando Tu nelle loro Cripte intrudi  
-Dunque Ali concedi a Me  
-O Petali, o una Dote di Ronzio  
-Quell'Ape da cavalcare, o Fiore di Ginestra  
-Io in quel modo Ti adoro.
-
 
 
 <span class="atom-split" data-atom="0881_ive_none_to_tell_me_to_but_thee" data-title="881. I've none to tell me to but Thee" data-chapter="" data-kind="intro" data-tags="motif/the_sea,concept/unrequited_love,concept/grief_and_loss,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3638,23 +1984,6 @@ Unto the lips it eddied through —
 So — overtaking Thee —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Non ho nessuno a cui dirmi se non Te  
-Così quando Tu manchi, nessuno.  
-Era un piccolo legame —  
-Teneva solo Due, né quelli tenne  
-Poiché Altrove il tuo dolce Volto è traboccato  
-Oltre il mio Confine —  
-
-Se le cose fossero opposte — e Io  
-E Io fossi — a rifluire da Te  
-Su qualche Riva che non risponde —  
-Cercheresti Tu così — di' soltanto  
-Che io la Risposta possa inseguire  
-Fino alle labbra per cui vorticò —  
-Così — raggiungendoTi —
-
 
 
 <span class="atom-split" data-atom="0907_till_death_is_narrow_loving" data-title="907. Till Death — is narrow Loving —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,concept/love_romantic,concept/grief_and_loss,concept/mortality,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3675,23 +2004,6 @@ Yourself, for His pursuit
 Delight of [[concepts/nature|Nature]] — abdicate —  
 Exhibit [[motifs/love|Love]] — somewhat —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Fino alla [[motifs/death|Morte]] — è angusto Amare —  
-Il più scarso Cuore esistente  
-Ti terrà finché il tuo privilegio  
-Di Finitezza — sia speso —  
-
-Ma Colui la cui perdita ti procura  
-Tale Destituzione che  
-La tua Vita troppo abietta per sé  
-D'allora in poi imiti —  
-
-Finché — Somiglianza perfetta —  
-Te stessa, al Suo inseguimento  
-Delizia della [[concepts/nature|Natura]] — abdichi —  
-Esibisca [[motifs/love|Amore]] — un poco —
 
 
 
@@ -3724,33 +2036,6 @@ The first — Sweet, proved I, ere I saw thee —
 For Life — be [[motifs/love|Love]] —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Fossi Tu solo malato — che io potessi mostrarti  
-Quanto lungo un Giorno saprei sopportare  
-Benché la tua attenzione non si fermi su di me  
-Né il minimo segnale, Mi rassicuri —  
-
-Fossi Tu solo Straniero in paese sgraziato —  
-E Mia — la [[motifs/door|Porta]]  
-Cui Ti fermassi, per un dono di passaggio —  
-Non Più —  
-
-Accusato — fossi Tu — e Io stessa — Tribunale —  
-Colpevole — Condannato — l'Ermellino — non a Me  
-Metà della Condizione, il tuo Rovescio — seguire —  
-Solo per condividere — l'infamia —  
-
-L'Inquilino dell'Angusta Casetta, fossi Tu —  
-Che mi sia permesso d'essere  
-La Massaia nel tuo umile servizio  
-Mi Appaga —  
-
-Non hai Servizio, che io non compirei —  
-Morire — o vivere —  
-Il primo — Dolce, provai, prima di vederti —  
-Perché la Vita — sia [[motifs/love|Amore]] —
-
 
 
 <span class="atom-split" data-atom="0966_all_forgot_for_recollecting" data-title="966. All forgot for recollecting" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,archetype/lover,motif/the_sea,concept/love_romantic,concept/marriage_and_fidelity,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3777,28 +2062,6 @@ Prove — me — Sweet — if I regret it —
 Prove Myself — of Thee —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Tutto dimenticato per ricordare  
-Solo un misero Uno —  
-Tutto lasciato, sol per d'uno Straniero  
-Il Nuovo Accompagnare —  
-
-Grazia di Ricchezza, e Grazia di Rango  
-Contate meno che  
-Possedere una Stima ignota —  
-Valutarla — Chi può —  
-
-[[motifs/home|Casa]] cancellata — i Suoi volti svaniti —  
-[[concepts/nature|Natura]] — mutata in poco —  
-[[motifs/sun|Sole]] — se splendeva — o [[motifs/storm|Tempesta]] — se infrangeva —  
-Tutto io trascurai —  
-
-Cadde — la mia sorte — timido Ciottolo —  
-Nel tuo più audace [[motifs/sea|Mare]] —  
-Prova — mi — Dolce — se me ne pento —  
-Prova Me stessa — di Te —
-
 
 
 <span class="atom-split" data-atom="0973_twas_awkward_but_it_fitted_me" data-title="973. 'Twas awkward, but it fitted me —" data-chapter="" data-kind="intro" data-tags="motif/death,motif/sun,motif/birds,concept/marriage_and_fidelity,concept/love_romantic,concept/grief_and_loss,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3820,23 +2083,6 @@ For technicality of [[motifs/death|Death]] —
 Omitted in the Lease —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Era goffo, ma mi si adattava —  
-Un Cuore d'Antica foggia —  
-Sua sola dottrina — la sua Costanza —  
-Nel Mutamento — inerudito —  
-
-Si muoveva solo come i Soli —  
-Per merito di Ritorno —  
-O gli [[motifs/birds|Uccelli]] — confermati perpetui  
-Dall'Alterna Zona —  
-
-Solo Stanotte non lo tengo  
-Al suo posto stabilito —  
-Per un cavillo della [[motifs/death|Morte]] —  
-Omesso nel Contratto —
-
 
 
 <span class="atom-split" data-atom="1013_too_scanty_twas_to_die_for_you" data-title="1013. Too scanty 'twas to die for you," data-chapter="" data-kind="intro" data-tags="archetype/martyr,concept/love_romantic,concept/mortality,concept/paradox,form/lyric,histref/classical_antiquity,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3852,18 +2098,6 @@ But living, this include
 The dying multifold — without  
 The Respite to be dead.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Troppo poco era morire per te,  
-Il più umile Greco poteva farlo.  
-Il vivere, Dolcezza, è più costoso —  
-Offro persino quello —  
-
-Il Morire, è un'inezia, passato,  
-Ma il vivere, questo include  
-Il morire moltiplicato — senza  
-La Tregua d'essere morti.
 
 
 
@@ -3892,29 +2126,6 @@ But Sunrise stopped upon the place
 And fastened it in [[motifs/dawn|Dawn]].
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Fu un modo quieto —  
-Chiese se ero sua —  
-Non diedi risposta di Lingua  
-Ma risposta di Occhi —  
-E poi mi portò via  
-Dinanzi a questo mortale rumore  
-Con rapidità, come di Carri  
-E distanza, come di Ruote.  
-Questo Mondo si staccò  
-Come Acri dai piedi  
-Di chi si sporge da un Pallone  
-Sopra una strada d'Etere.  
-Il Golfo alle spalle non era,  
-I Continenti erano nuovi —  
-[[concepts/eternity|Eternità]] era, prima  
-Che l'[[concepts/eternity|Eternità]] fosse dovuta.  
-Non c'erano [[motifs/seasons|Stagioni]] per noi —  
-Non era [[motifs/night|Notte]] né Mattino —  
-Ma il Sorgere del Sole si fermò sul luogo  
-E lo fissò nell'[[motifs/dawn|Alba]].
-
 
 
 <span class="atom-split" data-atom="1072_title_divine_is_mine" data-title="1072. Title divine — is mine!" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,topos/the_unattainable_beloved,motif/crown,motif/the_cross,concept/marriage_and_fidelity,concept/martyrdom,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3937,24 +2148,6 @@ Stroking the Melody —
 Is this — the way?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Titolo divino — è mio!  
-La Sposa — senza il Segno!  
-Grado Acuto — conferito a me —  
-Imperatrice del Calvario!  
-Regale — tutto fuorché la [[motifs/crown|Corona]]!  
-Promessa — senza il deliquio  
-[[characters/god|Dio]] manda a noi Donne —  
-Quando tu — tieni — Granato a Granato —  
-Oro — a Oro —  
-Nata — Sposata — Avvolta nel Sudario —  
-In un Giorno —  
-Triplice Vittoria  
-"Mio Marito" — dicono le donne —  
-Carezzando la Melodia —  
-È questa — la via?
-
 
 
 <span class="atom-split" data-atom="1150_how_many_schemes_may_die" data-title="1150. How many schemes may die" data-chapter="" data-kind="intro" data-tags="motif/time,motif/horse,concept/fate_and_free_will,concept/grief_and_loss,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -3975,22 +2168,6 @@ Some unsuspecting [[motifs/horse|Horse]] was tied
 Surveying his [[concepts/despair|Despair]]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Quanti disegni possono morire  
-In un breve Pomeriggio  
-Del tutto ignoti  
-A coloro che più riguardano —  
-L'uomo che non si perse  
-Perché per accidente  
-Deviò della larghezza d'un Nastro  
-Dalla sua rotta consueta —  
-L'[[motifs/love|Amore]] che non volle tentare  
-Perché accanto alla [[motifs/door|Porta]]  
-Dovevano esserci gare  
-Un ignaro [[motifs/horse|Cavallo]] stava legato  
-A contemplare la sua [[concepts/despair|Disperazione]]
-
 
 
 <span class="atom-split" data-atom="1160_he_is_alive_this_morning" data-title="1160. He is alive, this morning —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,archetype/lover,motif/love,motif/birds,motif/flowers,motif/dawn,concept/love_romantic,concept/joy,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4005,17 +2182,6 @@ Add an Amber Crumb
 Him — to regale — Me — Only —  
 Motion, and am dumb.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-È vivo, questo mattino —  
-È vivo — e desto —  
-Gli [[motifs/birds|Uccelli]] riprendono per Lui —  
-I Boccioli — si vestono per Amor Suo.  
-Le [[motifs/bees|Api]] — ai loro Pani di Miele  
-Aggiungono una Briciola d'Ambra  
-Lui — per allietare — Io — Soltanto —  
-Mi muovo, e resto muta.
 
 
 
@@ -4032,17 +2198,6 @@ Some other thou wilt consecrate —
 Oh Unelected Face —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Oh [[archetypes/shadow|Shadow]] sull'Erba,  
-Sei tu un Passo oppure no?  
-Va', fatti bello mio Candidato  
-Mio nominato Cuore —  
-Oh [[archetypes/shadow|Shadow]] sull'Erba  
-Mentre indugio a indovinare  
-Qualche altro consacrerai —  
-Oh Volto Non Eletto —
-
 
 
 <span class="atom-split" data-atom="1189_the_voice_that_stands_for_floods_to_me" data-title="1189. The Voice that stands for Floods to me" data-chapter="" data-kind="intro" data-tags="motif/water,motif/money_gold,concept/love_romantic,concept/appearance_vs_reality,concept/identity,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4058,18 +2213,6 @@ That what is Sum to me
 By other Financiers be deemed  
 Exclusive Property!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-La Voce che vale Diluvi per me  
-Ad alcuni giunge sterile —  
-Il Volto che fa parere gramo il Mattino  
-Splende impotente su di loro —  
-
-Quale differenza giace nella Sostanza  
-Che ciò che per me è Somma  
-Da altri Finanzieri sia stimato  
-Esclusiva Proprietà!
 
 
 
@@ -4101,32 +2244,6 @@ But the Restitution
 Of Idolatry.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Ora sapevo d'averla perduta —  
-Non che se ne fosse andata —  
-Ma Lontananza viaggiava  
-Sul suo Volto e sulla Lingua.  
-
-Aliena, benché attigua  
-Come Razza Straniera —  
-Traversava lei pur sostando  
-Luogo senza Latitudine.  
-
-Elementi Inalterati —  
-Universo lo stesso  
-Ma trasmigrazione d'[[motifs/love|Amore]] —  
-In qualche modo era avvenuta —  
-
-D'ora in poi ricordare  
-La [[concepts/nature|Natura]] prese il Giorno  
-Che tanto avevo pagato —  
-Sua è la Penuria  
-Non di chi fatica per la [[concepts/freedom|Libertà]]  
-O per la [[concepts/family|Famiglia]]  
-Ma la Restituzione  
-Dell'Idolatria.
-
 
 
 <span class="atom-split" data-atom="1224_like_trains_of_cars_on_tracks_of_plush" data-title="1224. Like Trains of Cars on Tracks of Plush" data-chapter="" data-kind="intro" data-tags="topos/love_as_war,motif/animals,motif/flowers,motif/nature,motif/swords_weapons,motif/desire,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4142,18 +2259,6 @@ Their Chivalry consumes —
 While He, victorious tilts away  
 To vanquish other Blooms.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Come Convogli di Vagoni su Rotaie di Felpa  
-Odo l'Ape uniforme —  
-Un Fremito percorre i [[motifs/flowers|Fiori]]  
-La loro Muratura di Velluto —  
-
-Resiste finché il dolce Assalto  
-Ne consuma la Cavalleria —  
-Mentre Lui, vittorioso volge altrove la giostra  
-A vincere altre Corolle.
 
 
 
@@ -4176,23 +2281,6 @@ But nearer to adore
 That makes our trying poor.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Perché Egli La ama  
-Noi spieremo per vedere se è bella  
-Che differenza c'è sul suo Volto  
-Dai Lineamenti che altre portano.  
-
-Non nuocerà al suo passo magico  
-Che noi si resti tanto indietro —  
-Le sue Distanze propiziano  
-Come le Foreste toccano il [[motifs/wind|Vento]]  
-
-Senza sperare nel suo vasto sguardo  
-Ma per adorare più da presso  
-È la lontana sufficienza della Gloria  
-Che rende povero il nostro tentare.
-
 
 
 <span class="atom-split" data-atom="1231_somewhere_upon_the_general_earth" data-title="1231. Somewhere upon the general Earth" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/seasons,concept/immortality,concept/love_romantic,concept/faith,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4213,23 +2301,6 @@ Another Date of Thee —
 Oh [[characters/god|God]] of Width, do not for us  
 Curtail [[concepts/eternity|Eternity]]!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-In qualche luogo sulla Terra universale  
-Esiste essa stessa Oggi —  
-La Magia passiva ma esistente  
-Che mi consacrò —  
-
-Indifferenti [[motifs/seasons|Stagioni]] senza dubbio giocano  
-Là dove io per il diritto d'essere —  
-Pagherei ogni Atomo che sono  
-Fuorché l'[[concepts/immortality|Immortalità]] —  
-
-Serbando quella solo per provare  
-Un'altra Data di Te —  
-Oh [[characters/god|Dio]] di Vastità, non ci volere  
-Accorciare l'[[concepts/eternity|Eternità]]!
 
 
 
@@ -4256,27 +2327,6 @@ Basking in Bethleem
 Ere I be there —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il mio Cuore corse tanto a te  
-Non volle attendermi  
-E io ne fui offesa  
-E mi ritrassi  
-
-Ché qual che fosse il mio passo  
-Egli primo giunge al tuo Volto  
-Che Grazia sì generale  
-Assegnata a due —  
-
-Non per malignità  
-Menzionai ciò a te —  
-Avesse lui obliquità  
-Da spartire al più presto  
-Ma per l'[[concepts/greed|Avidità]] di lui —  
-Che vanta il mio Premio —  
-Crogiolandosi in Betlemme  
-Prima ch'io vi sia —
-
 
 
 <span class="atom-split" data-atom="1247_to_pile_like_thunder_to_its_close" data-title="1247. To pile like Thunder to its close" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,topos/poet_as_prophet,motif/love,concept/the_sublime,concept/imagination,concept/immortality_of_art,form/lyric,histref/the_bible,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4292,18 +2342,6 @@ We both and neither prove —
 Experience either and consume —  
 For None see [[characters/god|God]] and live —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Accumularsi come Tuono fino alla fine  
-Poi sgretolarsi via grandioso  
-Mentre ogni Cosa creata si celava  
-Questo — sarebbe Poesia —  
-
-O [[motifs/love|Amore]] — i due vengono coevi —  
-Noi proviamo entrambi e nessuno —  
-Sperimentane uno e ti consumi —  
-Ché Nessuno vede [[characters/god|Dio]] e vive —
 
 
 
@@ -4321,18 +2359,6 @@ But vanquished her with my defeat
 'Twas Victory was slain.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Le [[motifs/stars|Stelle]] sono antiche, che stavano per me —  
-L'Ovest un poco logoro —  
-Eppur più nuovo splende il solo Oro  
-Che mai mi importò guadagnare —  
-
-Presumendo su quel solitario esito  
-Il suo infinito sdegno  
-Ma la vinsi con la mia disfatta  
-Fu la Vittoria a esser uccisa.
-
 
 
 <span class="atom-split" data-atom="1257_dominion_lasts_until_obtained" data-title="1257. Dominion lasts until obtained —" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/marriage,concept/transience,concept/power_and_corruption,concept/immortality,concept/paradox,form/aphorism,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4349,18 +2375,6 @@ These are the Brides of permanence
 Supplanting me and you.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il Dominio dura finché ottenuto —  
-Il Possesso altrettanto a lungo —  
-Ma questi — donando mentre fuggono  
-Eternamente appartengono.  
-
-Come eterne sono le Labbra  
-Note soltanto alla [[motifs/dew|Rugiada]] —  
-Queste son le Spose della permanenza  
-Che soppiantano me e te.
-
 
 
 <span class="atom-split" data-atom="1290_the_most_pathetic_thing_i_do" data-title="1290. The most pathetic thing I do" data-chapter="" data-kind="intro" data-tags="motif/love,concept/grief_and_loss,concept/love_romantic,concept/unrequited_love,concept/appearance_vs_reality,concept/melancholy,form/lyric,histref/the_bible,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4375,17 +2389,6 @@ You knew it was not true
 I wish I had not broken it —  
 Goliah — so would you —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-La cosa più patetica che faccio  
-È fingere che ho tue notizie —  
-Fingo finché il mio Cuore  
-Quasi ci crede anch'esso  
-Ma quando lo spezzo con la notizia  
-Che tu sapevi non era vero  
-Vorrei non averlo spezzato —  
-Golia — anche tu lo vorresti —
 
 
 
@@ -4402,17 +2405,6 @@ Go boldly — for thou paid'st his price
 Redemption — for a Kiss —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Va' lenta, [[motifs/soul|anima]] mia, a nutrirti  
-Del suo raro avvicinarsi —  
-Va' rapida, ché la [[motifs/death|Morte]] Rivale  
-Non prevalga sulla Carrozza —  
-Va' timida, se il suo occhio estremo  
-Ti giudicasse in errore —  
-Va' ardita — ché pagasti il suo prezzo  
-Redenzione — per un Bacio —
-
 
 
 <span class="atom-split" data-atom="1314_when_a_lover_is_a_beggar" data-title="1314. When a Lover is a Beggar" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,topos/world_upside_down,archetype/lover,motif/love,motif/bread_and_wine_eucharist,concept/love_romantic,concept/paradox,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4428,18 +2420,6 @@ Oh disparity —
 Bread of Heaven resents bestowal  
 Like an obloquy —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Quando un [[archetypes/lover|Amante]] è un Mendicante  
-Abietto è il suo Ginocchio —  
-Quando un [[archetypes/lover|Amante]] è un Possessore  
-Diverso è lui —  
-
-Ciò che mendicava è allora il Mendicante —  
-Oh disparità —  
-Il Pane del Cielo si risente del dono  
-Come di un obbrobrio —
 
 
 
@@ -4462,23 +2442,6 @@ Unknown as to an Ecstasy
 The Embryo endowed —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-[[motifs/summer|Estate]] — tutti l'abbiamo vista —  
-Alcuni di noi — credettero —  
-Alcuni — i più aspiranti  
-Indubbiamente amarono —  
-
-Ma l'[[motifs/summer|Estate]] non se ne cura —  
-Va per la sua via spaziosa  
-Eleggibile come la [[motifs/moon|luna]]  
-Alla nostra Temerità —  
-
-Il Destino d'essere adorata —  
-L'Opulenza conferita —  
-Ignota come a un'Estasi  
-L'Embrione dotato —
-
 
 
 <span class="atom-split" data-atom="1398_i_have_no_life_but_this" data-title="1398. I have no Life but this —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/love,motif/death,concept/love_romantic,concept/immortality,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4494,18 +2457,6 @@ Nor Action new —
 Except through this extent —  
 The Realm of you —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Non ho Vita se non questa —  
-Da condurla qui —  
-Né alcuna [[motifs/death|Morte]] — se non l'essere  
-Dispersa di là —  
-
-Né legame a Terre a venire —  
-Né Azione nuova —  
-Se non attraverso questa distesa —  
-Il Regno di te —
 
 
 
@@ -4523,18 +2474,6 @@ Not elsewhere — if in Paradise
 Its Tantamount be found —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Ecco questo piccolo Flagello —  
-Il Dono d'ogni vivente —  
-Tanto comune quanto ignoto  
-Il suo nome è [[motifs/love|Amore]] —  
-
-Mancarne è Pena —  
-Possederne è Ferita —  
-Non altrove — se non in Paradiso  
-Se ne trova l'Equivalente —
-
 
 
 <span class="atom-split" data-atom="1440_the_healed_heart_shows_its_shallow_scar" data-title="1440. The healed Heart shows its shallow scar" data-chapter="" data-kind="intro" data-tags="concept/grief_and_loss,concept/marriage_and_fidelity,concept/mortality,concept/paradox,concept/love_romantic,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4549,17 +2488,6 @@ So shameless is to see
 More genuine were Perfidy  
 Than such Fidelity.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il Cuore guarito mostra la sua lieve cicatrice  
-Con gemito confidenziale —  
-Non risana la [[concepts/mortality|Mortalità]]  
-Tessuti davvero lacerati —  
-Andarsene per la sua via convalescente  
-È così spudorato a vedersi  
-Più genuina sarebbe Perfidia  
-Di tale Fedeltà.
 
 
 
@@ -4580,21 +2508,6 @@ For miseries so halcyon
 The happiness atone —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Pensavo che il Treno non venisse mai —  
-Che lento cantava il fischio —  
-Non credo che un Uccello stizzoso  
-Così piagnucolasse per la [[motifs/spring|Primavera]] —  
-Insegnai al mio Cuore cento volte  
-Esattamente cosa dire —  
-Provocante [[archetypes/lover|Amante]], quando venisti  
-Il suo Trattato volò via  
-Per celare la mia strategia troppo tardi  
-Per esser più saggia troppo presto —  
-Ché miserie così alcionie  
-La felicità le espia —
-
 
 
 <span class="atom-split" data-atom="1476_his_voice_decrepit_was_with_joy" data-title="1476. His voice decrepit was with Joy —" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/love,concept/love_romantic,concept/joy,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4609,17 +2522,6 @@ Is it Delight or Woe —
 Or Terror — that do decorate  
 This livid interview —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-La voce di lui decrepita era di [[concepts/joy|Gioia]] —  
-Le parole di lei tanto vacillavano  
-Quanto antica dev'essere la Novella d'[[motifs/love|Amore]]  
-Per rendere vecchie le Labbra  
-Che un momento fa gorgogliavano di Letizia —  
-È Delizia o Pena —  
-O Terrore — ciò che decora  
-Questo livido colloquio —
 
 
 
@@ -4639,20 +2541,6 @@ What omnipresence lies in wait
 For her to be a Bride
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Tutto ciò che faccio  
-È in rassegna  
-Alla sua mente innamorata  
-So che il suo occhio  
-Ovunque io vada  
-Incalza da presso  
-Non v'è Porto  
-Né fuga alcuna  
-Dove egli non presieda  
-Quale onnipresenza sta in agguato  
-Perché ella sia Sposa
-
 
 
 <span class="atom-split" data-atom="1529_tis_seasons_since_the_dimpled_war" data-title="1529. 'Tis Seasons since the Dimpled War" data-chapter="" data-kind="intro" data-tags="topos/love_as_war,motif/swords_weapons,motif/love,concept/love_romantic,concept/paradox,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4667,17 +2555,6 @@ So modest and so vain —
 Without a Formula we fought  
 Each was to each the Pink Redoubt —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Son [[motifs/seasons|Stagioni]] dalla Guerra delle Fossette  
-In cui ognuno di noi fu Conquistatore  
-E ognuno di noi fu ucciso  
-E Secoli ci vorranno e più  
-Prima di un altro Massacro  
-Così modesto e così vano —  
-Senza una Formula combattemmo  
-Ognuno era per l'altro il Roseo Ridotto —
 
 
 
@@ -4698,21 +2575,6 @@ Is our propensity
 The Day ensuing —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Vieni mostra il tuo Petto di Durham  
-A colei che più ti ama,  
-Delizioso Pettirosso —  
-E se non fossi io  
-Almeno dentro il mio [[motifs/tree|Albero]]  
-Fa' la tua dichiarazione —  
-Le tue Nozze così minute  
-Forse sono più astute  
-Di più vasto corteggiare —  
-Ché così volar via  
-È la nostra propensione  
-Il Giorno che segue —
-
 
 
 <span class="atom-split" data-atom="1560_to_be_forgot_by_thee" data-title="1560. To be forgot by thee" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/memory,concept/unrequited_love,concept/love_romantic,concept/paradox,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4732,21 +2594,6 @@ Worthy to be forgot
 Is my renown
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Essere da te dimenticata  
-Supera la [[motifs/memory|Memoria]]  
-Di altre menti  
-Il Cuore non può dimenticare  
-Se non contempla  
-Ciò che rifiuta  
-Fui considerata allora  
-Sollevata dall'oblio  
-Una sola [[motifs/time|volta]]  
-Per esser ricordata che —  
-Degna d'essere dimenticata  
-È la mia fama
-
 
 
 <span class="atom-split" data-atom="1579_it_would_not_know_if_it_were_spurned" data-title="1579. It would not know if it were spurned," data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/flowers,concept/unrequited_love,concept/innocence_and_experience,concept/paradox,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4763,18 +2610,6 @@ That it is not a [[archetypes/cavalier|Cavalier]],
 To dare and perish there?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Non saprebbe se fosse respinto,  
-Questo prode piccolo fiore —  
-Com'è dunque sicuro essere un fiore  
-Se qualcuno volesse violarlo.  
-
-A entrare, non aspirerebbe —  
-Ma non può forse [[concepts/despair|disperare]]  
-Di non essere un [[archetypes/cavalier|Cavaliere]],  
-Da osare e perirvi?
-
 
 
 <span class="atom-split" data-atom="1643_extol_thee_could_i_then_i_will" data-title="1643. Extol thee — could I? Then I will" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,topos/inexpressibility,archetype/lover,concept/love_romantic,concept/love_divine,concept/immortality,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4790,18 +2625,6 @@ That we are of the sky
 Partaking thee a guaranty  
 Of [[concepts/immortality|immortality]]
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Esaltarti — potrei? Allora lo farò  
-Non dicendo nulla di nuovo —  
-Ma solo la più vera [[concepts/truth|verità]]  
-Che tu sei celestiale.  
-
-Percepirti è la prova  
-Che siamo del cielo  
-Prender parte di te una garanzia  
-D'[[concepts/immortality|immortalità]]
 
 
 
@@ -4850,49 +2673,6 @@ Now [[motifs/death|Death]] usurps my Premium
 And gets the look at Thee.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Non Ti ho raggiunto  
-ma i miei piedi scivolano più vicino ogni giorno  
-Tre Fiumi e una [[motifs/hill|Collina]] da [[motifs/cross|attraversare]]  
-Un [[motifs/desert|Deserto]] e un [[motifs/sea|Mare]]  
-Non conterò il [[motifs/journey|viaggio]] per uno  
-quando lo racconterò a te.  
-
-Due deserti, ma l'Anno è freddo  
-e questo aiuterà la sabbia  
-Un [[motifs/desert|deserto]] attraversato —  
-il secondo  
-parrà fresco come terra  
-Il Sahara è un prezzo troppo piccolo  
-da pagare per la tua mano Destra.  
-
-Il [[motifs/sea|Mare]] viene ultimo — Passo allegro, piedi,  
-così poco ci resta da andare —  
-A giocare insieme siamo inclini,  
-ma ora dobbiamo faticare,  
-l'ultimo sarà il carico più lieve  
-che abbiamo dovuto trainare.  
-
-Il [[motifs/sun|Sole]] va storto —  
-quella è [[motifs/night|Notte]]  
-prima che compia la curva.  
-Dobbiamo aver passato il [[motifs/sea|Mare]] di Mezzo —  
-Quasi vorremmo che la Fine  
-fosse più lontana —  
-Troppo grande sembra  
-stare così vicino al Tutto.  
-
-1712  
-
-Camminiamo come Felpa,  
-stiamo come [[motifs/snow|neve]],  
-Le acque mormorano nuove.  
-Tre fiumi e la [[motifs/hill|Collina]] sono passati —  
-due deserti e il [[motifs/sea|mare]]!  
-Ora la [[motifs/death|Morte]] usurpa il mio Premio  
-e ottiene lo sguardo su di Te.
-
 
 
 <span class="atom-split" data-atom="1731_love_can_do_all_but_raise_the_dead" data-title="1731. Love can do all but raise the Dead" data-chapter="" data-kind="intro" data-tags="motif/love,motif/death,concept/love_romantic,concept/grief_and_loss,concept/mortality,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4908,18 +2688,6 @@ And hungry and must graze
 And so abets the shining Fleet  
 Till it is out of gaze.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-L'[[motifs/love|Amore]] può tutto tranne risuscitare i Morti  
-[[concepts/doubt|dubito]] che persino questo  
-a un tale gigante fosse negato  
-se la carne fosse equivalente  
-
-Ma l'[[motifs/love|amore]] è stanco e deve [[motifs/sleep|dormire]],  
-e affamato e deve pascolare  
-e così asseconda la Flotta splendente  
-finché non è fuori dallo sguardo.
 
 
 
@@ -4952,33 +2720,6 @@ Till the Day its Weary Keeper
 Leads it through the [[motifs/grave|Grave]] to thee.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Riordina l'affetto di una "Moglie"!  
-Quando mi dislocano il Cervello!  
-Amputate il mio Seno lentigginoso!  
-Fatemi barbuta come un uomo!  
-
-Arrossisci, mio spirito, nella tua Rocca —  
-Arrossisci, mia argilla non riconosciuta —  
-Sette anni di fede promessa ti hanno insegnato  
-Più di quanto mai potrà l'Esser Moglie!  
-
-[[motifs/love|Amore]] che mai balzò dal suo alveo —  
-Fiducia trincerata in stretta [[motifs/pain|pena]] —  
-Costanza attraverso il [[motifs/fire|fuoco]] — premiata —  
-Angoscia — priva di lenimento!  
-
-Fardello — portato fin qui trionfante —  
-Nessuno mi sospetta della [[motifs/crown|corona]],  
-Poiché porto le "Spine" fino al Tramonto —  
-Poi — il mio Diadema indosso.  
-
-Grande il mio Segreto ma è bendato —  
-Non fuggirà mai  
-Fino al Giorno in cui la sua Stanca Custode  
-Lo condurrà attraverso la [[motifs/grave|Tomba]] a te.
-
 
 
 <span class="atom-split" data-atom="1754_to_lose_thee_sweeter_than_to_gain" data-title="1754. To lose thee — sweeter than to gain" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,concept/love_romantic,concept/paradox,concept/grief_and_loss,concept/unrequited_love,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -4994,18 +2735,6 @@ Its other realm of [[motifs/sea|sea]].
 Without the sterile perquisite,  
 No Caspian could be.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Perderti — più dolce che guadagnare  
-Tutti gli altri cuori che conobbi.  
-È vero, la siccità è indigente,  
-Ma allora, io ebbi la [[motifs/dew|rugiada]]!  
-
-Il Caspio ha i suoi regni di sabbia,  
-L'altro suo regno di [[motifs/sea|mare]].  
-Senza lo sterile appannaggio,  
-Nessun Caspio potrebbe esistere.
 
 
 
@@ -5023,18 +2752,6 @@ The accent of a coming Foot —
 The opening of a [[motifs/door|Door]] —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-L'Elisio è distante quanto  
-La Stanza più prossima  
-Se in quella Stanza un Amico attende  
-Felicità o Condanna —  
-
-Quale fortezza contiene l'[[motifs/soul|Anima]],  
-Che può così sopportare  
-L'accento d'un Piede che viene —  
-L'aprirsi d'una [[motifs/door|Porta]] —
-
 
 
 <span class="atom-split" data-atom="1771_how_fleet_how_indiscreet_an_one" data-title="1771. How fleet — how indiscreet an one —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/love,motif/letters_writing,concept/love_romantic,concept/joy,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -5048,16 +2765,6 @@ how always wrong is [[motifs/love|Love]] -
 The joyful little Deity  
 We are not scourged to serve -
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-I miei piccoli espedienti per vivere fino a lunedì corteggerebbero la vostra triste attenzione -  
-Pieni di lavoro e trame e piccole felicità il  
-Pensiero di voi li protrae tutti e li rende finti e freddi -  
-Come fugace - come indiscreto un essere -  
-come sempre in errore è l'[[motifs/love|Amore]] -  
-La gioiosa piccola Deità  
-Che non siamo flagellati a servire -
 
 
 
@@ -5075,18 +2782,6 @@ I suppose you have written a few and received a quantity of valentines this week
 Your injunction to pile on the wood has not been unheeded, for we have been obliged to obey it to keep from freezing up. . . . We cannot have much more cold weather, I am sure, for [[motifs/spring|spring]] is near. . . . Professor Smith preached here last Sabbath, and such sermons I never heard in my life. We were all charmed with him, and dreaded to have him close. . . .
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Mio caro Austin, —forse potresti pensare, data la data della mia lettera, che io abbia molto tempo libero e possa fare ciò che desidero anche nel pomeriggio. Ma una delle nostre insegnanti, che aveva un appuntamento, è stata visitata inaspettatamente ieri pomeriggio dal suo fidanzato; quindi è andata a casa sua per presentarglielo e probabilmente sarà assente fino a sabato. Poiché io le faccio lezione in uno degli studi, la sua assenza mi lascia un po’ di tempo libero per scrivere.
-
-La tua [[forms/letter|lettera]] mi ha trovato completamente immerso nello studio dell’acido solforico! Dopo averla ricevuta, ho riflettuto per qualche momento sulla opportunità di consegnarla a Miss Whitman, la tua amica. Alla fine ho deciso di aprirla con [[concepts/moderation|moderazione]], di leggerne il contenuto con sobrietà e, se dopo un’attenta analisi non avessi trovato nulla che potesse indicare ribellione o una volontà indomabile, l’avrei riposta tra le mie lettere e dimenticato di averla ricevuta. Non sei soddisfatta del fatto che stia rapidamente acquisendo un corretto concetto di comportamento femminile e moderazione? Dopo averne esaminato il contenuto, ho constatato che non nascondeva sentimenti pericolosi; quindi l’ho conservata insieme alle altre mie lettere con grande serietà. L’impressione che un tempo avessi ricevuto una tale [[forms/letter|lettera]] è ormai completamente svanita nel corso del tempo.
-
-Sono stato piuttosto solo da quando sono tornato, ma il pensiero che non dovrò tornare ancora per un anno mi dà conforto; continuo a sperare. La mia visita a casa è stata felice, molto felice per me. Se l’idea di tornare così presto fosse sempre stata nei miei sogni, giorno e notte, non potrei essere più felice. “Non esiste rosa senza spine”, per me. Casa è sempre stata cara per me, e ancora di più gli amici che ci vivono; ma mai come ora mi è sembrata così preziosa. Tutti sono gentili con me, ma le loro voci suonano in modo strano alle mie orecchie, i loro volti non hanno lo stesso aspetto di quelli di casa. Quando provo tristezza, penso al fuoco ardente, ai pasti felici, alla sedia vuota ora che me ne sono andato. Riesco a sentire le voci allegre e le risate gioiose. Ma il pensiero di essere solo mi colpisce profondamente. Il mio angelo buono aspetta soltanto che scorrano le lacrime, per poi sussurrarmi: “Solo quest’anno. Solo altre ventidue settimane, e poi tornerai a casa per restare per sempre”. Per voi, tutti impegnati ed eccitati, il tempo passa più velocemente; ma per me scorre lentamente, molto lentamente. Così tanto che riesco quasi a vedere le ruote della sua carrozza mentre si muovono. E lui stesso, spesso, sembra apparire davanti ai miei occhi. Ma non continuerò più a immaginare queste cose. Il vostro cervello è pieno di fantasie. Non sarebbe giusto alimentare ancora di più la vostra già fervida immaginazione.
-
-Immagino che questa settimana tu abbia scritto diversi biglietti di San Valentino e ne abbia ricevuti molti in risposta. Ogni [[motifs/night|notte]] li ho cercati invano. Molte ragazze hanno ricevuto biglietti davvero bellissimi; io, invece, non ho ancora avuto fortuna. Sicuramente il mio amico Thomas non ha perso l’affetto che una volta provava per me! Ti prego di dirgli che mi manca terribilmente un biglietto di San Valentino. Sono certa che non dimenticherò presto quella settimana di San Valentino scorso, né le gioie che ho vissuto in quel momento. Lunedì pomeriggio, la signora Lyon ci proibì di inviare “quei stupidi biglietti chiamati biglietti di San Valentino”. Ma coloro che erano qui l’anno scorso, conoscendo le sue opinioni, furono abbastanza astuti da scrivere i loro biglietti e affidarli a D. durante le vacanze; così, circa 150 biglietti furono inviati prima che venissero emesse ordini contrari. Sentendo di questo, la signorina Whitman, con il consiglio e l’approvazione delle altre insegnanti, andò all’ufficio postale per scoprire, se possibile, quante biglietti fossero stati inviati. E, peggio ancora, i nomi di chi li aveva scritti. Non si sa ancora quanto informazioni abbia ottenuto; ma poiché D. è molto brava ad aiutare le ragazze e nessuno ha ancora ricevuto alcuna punizione, iniziamo a pensare che la sua missione sia fallita. Io non ne ho scritto nessuno, e non intendo farlo nemmeno ora.
-
-Il vostro ordine di accumulare più legna non è stato ignorato; abbiamo dovuto obbedire per non congelare. Sono sicuro che il freddo non durerà ancora a lungo, perché la [[motifs/spring|primavera]] è vicina. Il professor Smith ha tenuto una predica qui lo scorso sabato; sermoni del genere non ne avevo mai ascoltati in vita mia. Siamo tutti stati affascinati da lui, e al contempo temevamo che si avvicinasse troppo a noi.
-
 
 
 <span class="atom-split" data-atom="l0043_mr_william_austin_dickinson_tuesday_evening" data-title="To Mr. William Austin Dickinson, Tuesday Evening" data-chapter="" data-kind="intro" data-tags="motif/home,motif/the_journey,motif/dust,concept/loneliness,concept/desire_and_longing,concept/nature_vs_civilization,form/letter,setting/new_england,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -5099,14 +2794,6 @@ Vinnie and I came safely, and met with no mishap—the bouquet was not withered 
 The route and the cars seemed strangely—there were no boys with fruit, there were no boys with pamphlets; one fearful little fellow ventured into the car with what appeared to be publications and tracts; he offered them to no one, and no one inquired for them, and he seemed greatly relieved that no one wanted to buy them. . . . Mother sends much [[motifs/love|love]], and Vinnie.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Siamo tornati a [[motifs/home|casa]], caro Austin. Qui è molto solitario. Ho cercato di decidere quale fosse la scelta migliore: restare a casa con i genitori e il paese, oppure vivere in città tra fumo e polvere, insieme all’unica persona che posso considerare mio fratello. Le bilance non pendono del tutto equilibratamente, ma per quanto ne so, la decisione è a tuo favore. La gente qui si sente molto più sola ora che noi non ci siamo. Dicono che avessero l’impressione che fossimo insieme mentre eravamo via e che saremmo tornati insieme. Le sorelle, lasciate da sole, sembrano molto tristi. Hanno avuto molti amici che sono venuti a trovarle. Mia madre non è mai stata così impegnata come quando eravamo via: con le piante, i polli e gli amici che venivano a farle visita, era davvero così occupata da non sapere cosa fare.
-
-Vinnie ed io siamo arrivati sani e salvi, senza alcun incidente: il mazzo di fiori non era appassito e la bottiglia non si era rotta. È stato fortunato per quel vagone merci che fossimo noi ad occuparlo, poiché il nostro era l’unico bagaglio in movimento lungo quella linea. Le persone che viaggiavano con noi quel giorno sembravano molto strane, erano pallide e indebolite, come se fossero appena morte. Il controllore, invece, appariva molto impegnato: aveva circa mezza dozzina di biglietti da distribuire e li chiedeva in un lasso di tempo estremamente breve. Immagino che quel giorno ci fossero poche persone in viaggio; non ho potuto fare a meno di sorridere al nostro “amico dei biglietti”, anche se mi dispiaceva che così pochi passeggeri utilizzassero i suoi servizi. Sembrava quasi volesse scusarsi per il fatto che non ci fossero più viaggiatori con cui passare il tempo.
-
-Il percorso e i treni sembravano strani: non c'erano ragazzi con la frutta, né ragazzi con volantini; un piccolo ragazzo spaventato osò salire sul treno con delle pubblicazioni e dei foglietti; non li offrì a nessuno, nessuno ne chiese, e sembrò molto sollevato che nessuno volesse comprarli. La mamma manda tanto [[motifs/love|affetto]], e anche Vinnie.
-
 
 
 <span class="atom-split" data-atom="l0082_mrs_gordon_l_ford_mr_bowdoin_mrs_anthon_and_miss_saturday_morn" data-title="To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson, Saturday Morn" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/snow,motif/winter,motif/letters_writing,concept/friendship,concept/longing,concept/communication_and_isolation,form/letter,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -5116,12 +2803,6 @@ It has been a long week, dear Emily, for I have not seen your face, but I have c
 
 Did Mr. D——give you a message from me? He promised to be faithful, but I don't suppose divines think earthly loves of much consequence. My [[motifs/flowers|flowers]] come in my stead to-day, dear Emily. I [[concepts/hope|hope]] you will [[motifs/love|love]] to see them, and whatever word of [[motifs/love|love]] or welcome kindly you would extend to me, “do even so to them.” They are small, but so full of meaning if they only mean the half of what I bid them.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-È stata una settimana lunga, cara Emily. Non ho visto il tuo viso, ma ho cercato di pensare molto a te, il che mi ha aiutato ad accettare la tua assenza per tutto questo tempo. Volevo venire da te più volte, ma prima iniziava a nevicare, poi i sentieri diventavano bagnati, e poi qualche amico passava a trovarmi. Prima che me ne rendessi conto, il breve pomeriggio era già finito.
-
-Il signor D——vi ha portato un messaggio da parte mia? Ha promesso di essere fedele, ma suppongo che i profeti non ritengano le passioni terrene molto importanti. Oggi, al mio posto, ci sono le mie [[motifs/flowers|fiori]], cara Emily. Spero che vi piaccia vederle, e che possiate riservare loro lo stesso affetto e la stessa accoglienza che avreste riservato a me. Sono piccole, ma pienissime di significato. Se solo potessero trasmettere anche solo metà di ciò che desidero.
 
 
 
@@ -5211,90 +2892,6 @@ And bid the world Goodmorrow, and go to glory [[motifs/home|home]]!
 Valentines seemed ever near the thoughts of the young people of this generation, and another clever one, written by Emily in 1852, somehow found its way into The Republican, probably through some friend. It was originally sent to Mr. William Howland.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-"Awake, o Muse, canta per me una melodia divina."
-
-Svolgi quel nastro solenne e legami il mio [[characters/valentine|San Valentino]].
-
-Oh, la terra è stata creata per gli amanti, per le [[archetypes/damsel|damigelle]] e per i giovani innamorati senza speranza.
-
-Per i sospiri, per i dolci sussurri, e per l’unità nata dalla fusione di due persone.
-
-Tutte le cose cercano il proprio compagno, sia sulla terra che nell’[[motifs/sea|mare]] o nell’aria.
-
-[[characters/god|Dio]] non ha creato nulla di unico nel Suo mondo, tranne te, così bello!
-
-La sposa e poi lo sposo, i due insieme, e poi ancora uno solo…
-
-Adamo ed Eva, sua consorte, la [[motifs/moon|luna]] e poi il [[motifs/sun|sole]].
-
-La vita dimostra questa verità: chi obbedisce sarà felice.
-
-Chi non servirà il sovrano sarà impiccato sull’infame [[motifs/tree|albero]] della morte.
-
-I grandi cercano i piccoli, i potenti cercano coloro che sono umili.
-
-Chi cerca, su questa terra, non può fallire nel trovarlo.
-
-L’ape corteggia il fiore, e il fiore accetta le sue attenzioni.
-
-E organizzano un matrimonio gioioso, il cui banchetto è composto da cento [[motifs/leaves|foglie]].
-
-Il [[motifs/wind|vento]] corteggia i rami; i rami, allora, sono conquistati.
-
-E il padre chiede con insistenza la fanciulla per suo figlio.
-
-La [[motifs/storm|tempesta]] si muove lungo la riva del mare, emettendo un suono triste e lamentoso.
-
-L’onda, con il suo sguardo così pensieroso, guarda verso la [[motifs/moon|luna]].
-
-“I loro spiriti si uniscono; pronunciano solenni giuramenti.”
-
-Non canta più con tristezza; la sua malinconia è svanita.
-
-Il verme corteggia il mortale; [[motifs/death|morte]] reclama una sposa viva.
-
-La [[motifs/night|notte]] si unisce al giorno, l’alba arriva fino alla sera.
-
-La Terra è una gioiosa [[archetypes/damsel|damigella]], e il cielo un cavaliere così fedele.
-
-E la Terra è davvero molto affascinante, ma invano cerca di attirare l’attenzione.
-
-Ora passiamo all’applicazione pratica, alla lettura dell’elenco…
-
-Per portarti davanti alla giustizia e per guidare la tua [[motifs/soul|'anima]].
-
-Un essere solitario e freddo
-
-Non avrai alcun compagno fedele; raccogli ciò che hai seminato.
-
-Non ci sono mai ore di silenzio, né minuti che sembrino troppo lunghi…
-
-E molte tristi riflessioni, e pianti invece di canzoni?
-
-Ci sono Sarah, Eliza ed Emeline… così belle.
-
-E Harriet e Sabra, lei con i capelli ricci.
-
-“I tuoi occhi sono tristemente offuscati, ma tuttavia puoi ancora vedere”
-
-Sei vere e belle fanciulle sedute sull’[[motifs/tree|'albero]];
-
-Avvicinati con cautela a quell’[[motifs/tree|-albero]], poi salite su di esso con determinazione.
-
-E afferra colui che ami, senza curarti dello spazio o del [[motifs/time|tempo]].
-
-Portatela nel bosco e costruitele un rifugio.
-
-E dale ciò che chiede: un [[motifs/jewel|jewello]], un uccello o un fiore.
-
-E portate la fiola, la tromba, e suonate i tamburi…
-
-E saluta il mondo con un “Buongiorno”, e torna alla gloria della tua [[motifs/home|casa]]!
-
-I giorni di San Valentino sembravano sempre presenti nei pensieri dei giovani di questa generazione; un altro articolo intelligente, scritto da Emily nel 1852, finì in qualche modo su “The Republican”, probabilmente tramite un amico. In origine era stato inviato a Mr. William Howland.
-
 
 
 <span class="atom-split" data-atom="l0088_mrs_ford" data-title="To Mrs. Ford" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/letters_writing,motif/love,concept/friendship,concept/loneliness,form/letter,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -5302,10 +2899,6 @@ I giorni di San Valentino sembravano sempre presenti nei pensieri dei giovani di
 
 I thank you for writing me, one precious little “forget-me-not” to bloom along my way. But one little one is lonely —pray send it a blue-eyed mate, that it be not alone. Here is [[motifs/love|love]] from mother and father and Vinnie and me. . . .
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Grazie per avermi scritto, sei un prezioso “forget-me-not” che fiorisce lungo il mio cammino. Ma un singolo fiore è solo. Prega, mandagli un compagno con occhi blu, così non sarà più solo. Ecco l’[[motifs/love|amore]] di mamma e papà, e anche di Vinnie e me.
 
 
 
@@ -5329,25 +2922,6 @@ Emily wants to be [[motifs/well|well]]—if any one alive wants to get [[motifs/
 Give my [[motifs/love|love]] to father and mother and Austin. Tell Margaret I remember her, and [[concepts/hope|hope]] [[characters/richard|Richard]] is [[motifs/well|well]]. . . . How I wish I could rest all those who are tired for me.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Caro Vinny,  
-Molte persone dicono di non scrivere perché hanno troppo da dire; io invece dico di averne abbastanza. Ti ricordi quel uccello notturno che una [[motifs/night|notte]] cantò sul recinto dell’orto, poi volò verso sud e da allora non ne abbiamo più sentito parlare?
-
-Tornerà a [[motifs/home|casa]], e anch'io tornerò a [[motifs/home|casa]], forse nello stesso treno. È davvero strano trascorrere l'estate in città sconosciute. Non ve l’ho detto, ma ho trovato degli amici in luoghi remoti. Sapete che anche Elia lo fece. E vedere quei “corvi” ripararmi le calze, beh, spezzerebbe il cuore di chiunque.
-
-Fanny e Lou sono davvero meravigliose; la signora B, e sua figlia sono molto gentili, e il dottore è entusiasta che io possa guarire. Per ora non provo alcuna gioia. Immagino sia perché per troppo tempo sono stata scoraggiata.
-
-Ricordi che il prigioniero di Chillon, quando gli fu concessa la [[concepts/liberty|libertà]], chiese di tornare in prigione.
-
-C——e A———sono venuti a trovarmi e mi hanno portato bellissime [[motifs/flowers|fiori]]. Sai cosa li ha spinti a ricordarsi di me? Inviagli la mia [[motifs/love|amore]] e gratitudine.
-
-Mi hanno raccontato di quel giorno a Pelham: tu, vestita di margherite, e il signor McD. Non riuscivo a vederti, Vinnie. Sono felice che trovi tutte quelle rose, ora che la tua primula è scomparsa. Quanto è stato gentile il signor C. Era carino il signor D?
-
-Emily vuole stare bene. Se c’è qualcuno ancora vivo che desideri stare meglio di così, allora lascerei che fosse lui per primo ad ottenerlo.
-
-Dà il mio [[motifs/love|amore]] a padre e madre e ad Austin. Digli a Margaret che mi ricordo di lei, e spero che [[characters/richard|Richard]] stia bene. Quanto vorrei poter riposare tutti coloro che si stanno prendendo cura di me.
-
 
 
 <span class="atom-split" data-atom="l0107_dr_j_g_holland_and_mrs_holland_saturday_eve" data-title="To Dr. J. G. Holland, and Mrs. Holland, Saturday Eve" data-chapter="" data-kind="intro" data-tags="motif/snow,motif/birds,motif/flowers,motif/home,motif/light_and_dark,concept/friendship,concept/joy,concept/hope,form/letter,setting/new_england,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -5366,20 +2940,6 @@ The “new house”! [[characters/god|God]] bless it! You will leave the “maid
 [[motifs/love|Love]] and remember
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Vengo a fiocchi, caro dottor Holland, perché in verità nevica, e come cigni discendenti, qui una penna e là una penna, e poi d'un tratto una piuma, giungono i luminosi abitanti della bianca [[motifs/home|dimora]].
-
-So che cadono a Springfield; forse ora li vedete—e perciò guardo fuori di nuovo, per vedere se state guardando.
-
-Come è parso dolce udire la vostra voce—così dicemmo Vinnie e io, leggendo il vostro breve biglietto prima ciascuna per sé, poi insieme. Perché non ci avete parlato prima? Vi credevamo dimentichi di noi—concludemmo che una delle cose luminose se ne fosse andata per sempre. È un sentimento austero, e non deve tornare troppo spesso in un mondo come questo. Il giorno dopo spuntò una violetta, e fiorì nel nostro [[motifs/garden|giardino]], e se non fosse per questi stessi fiocchi, andrei al buio a coglierla, per mandarvela. Sia ringraziato Colui che è nei Cieli, Katie Holland vive! Baciatela per me su ogni guancia—non ricordo davvero quante ne abbia la piccola—e porgete il mio più caldo ricordo alla signora Holland e a Minnie, [[motifs/love|amare]] le quali, questa [[motifs/night|notte]] di sabato, non è cosa da poco. Sono felicissima che siate felici—e che rubiate agli angeli un altro dei loro.
-
-Vorrei che altrettanto fosse riuscito alle molte case vestite di scuro. Dovete essere tutti felici e forti e [[motifs/well|sani]]. [[motifs/love|Amo]] che le lampade brillino sulla vostra tavola della sera. [[motifs/love|Amo]] che il [[motifs/sun|sole]] brilli sulle vostre passeggiate quotidiane.
-
-La “nuova casa”! [[characters/god|Dio]] la benedica! Vi lascerete alle spalle la “vita di fanciulla e di sposa di Mary Powell”.
-
-[[motifs/love|Amate]] e ricordate
-
 
 
 <span class="atom-split" data-atom="l0117_dr_j_g_holland_and_mrs_holland" data-title="To Dr. J. G. Holland, and Mrs. Holland" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,concept/friendship,concept/communication_and_isolation,concept/longing,form/letter,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -5388,10 +2948,6 @@ La “nuova casa”! [[characters/god|Dio]] la benedica! Vi lascerete alle spall
 Probably about 1861 came this brilliant, yet half pathetic, arraignment of the friends who had not written when Emily expected to hear. Who could resist such a plea?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Probabilmente intorno al 1861 arrivò questa brillante, ma al contempo un po’ patetica, accusa rivolta agli amici che non avevano scritto quando Emily si aspettava di ricevere loro notizie. Chi avrebbe potuto resistere a una tale supplica?
-
 
 
 <span class="atom-split" data-atom="l0141_mr_samuel_bowlers_and_mrs_bowles" data-title="To Mr. Samuel Bowlers and Mrs. Bowles" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/love,concept/friendship,concept/communication_and_isolation,form/letter,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -5399,10 +2955,6 @@ Probabilmente intorno al 1861 arrivò questa brillante, ma al contempo un po’ 
 
 Vinnie hallos from the world of [[motifs/night|night]]-caps, “don't forget her [[motifs/love|love]].”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Vinnie saluta dal mondo delle [[motifs/night|tute notturne]]: “Non dimenticate il suo [[motifs/love|amore]]”.
 
 
 
@@ -5413,12 +2965,6 @@ Dear Mr. Bowles's note, of itself a blossom, came only to-[[motifs/night|night]]
 
 I am glad it lingered, for each was all the heart could hold.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-La nota del caro signor Bowles, in sé un fiore, arrivò soltanto di [[motifs/night|notte]].
-
-Sono felice che sia rimasto, perché ogni singolo di essi rappresentava tutto ciò che il cuore poteva contenere.
 
 
 
@@ -5440,22 +2986,6 @@ In your own beautiful words—for the voice is the palace of all of us,—
 “Near, but remote.”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, è stato davvero delizioso rivederti. Un’esperienza che rende possibili tutte le [[motifs/seasons|stagioni]] e permette di esprimere ogni tipo di capriccio.
-
-Noi, che criticiamo le “Mille e una notte” per la loro mancanza di esagerazione, evitiamo l’ostilità derivante dall’idea che siano solo storie false o banali.
-
-Ci manca il tuo volto vivace, e quei distintivi accenti che porti con te dalle tue terre numide.
-
-Il tuo arrivo rinnova quel curioso “oggettino” della vita che ognuno di noi indossa, ma di cui nessuno possiede veramente il controllo; e la tua luminescenza ci sorprende per la sua durata.
-
-Per favore, lasciate che tante persone vivano la loro vita, affinché le gemme possano rimanere nascoste.
-
-Con le tue stesse parole incantevoli… perché la voce è il palazzo di tutti noi.
-
-"Vicino, ma lontano."
-
 
 
 <span class="atom-split" data-atom="l0275_mr_thomas_wentworth_higginson" data-title="To Mr. Thomas Wentworth Higginson" data-chapter="" data-kind="intro" data-tags="archetype/mentor,motif/summer,motif/home,concept/friendship,concept/patience_and_waiting,concept/education,form/letter,histref/greek_mythology,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -5475,22 +3005,6 @@ If I still entreat you to teach me, are you much displeased? I will be patient, 
 
 Except the smaller size No lives are round. These hurry to a sphere And show and end. The larger slower grow And later hang; The summers of Hesperides Are long.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, — chi veniva compreso dal mio cane non poteva sfuggire agli occhi degli altri.
-
-Dovrei essere così felice di vederti, ma considero questa gioia come un’illusione, che non si realizzerà mai. Non sono sicuro riguardo a Boston.
-
-Avevo promesso di andare dal mio medico alcuni giorni a maggio, ma mio padre si oppone perché è abituato a vedermi ogni giorno.
-
-È più lontano andare ad Amherst?
-
-Troverete un ospite gentile, ma un’accoglienza davvero spaziosa.
-
-Se continuo a supplicarti di insegnarmi, ti dispiace molto? Sarò paziente, costante, non rifiuterò mai il tuo aiuto. E se la mia lentezza dovesse infastidirti, tu lo sapevi già prima di me.
-
-Ad eccezione delle dimensioni più piccole, nessuna vita ha una forma perfettamente rotonda. Queste forme si sviluppano rapidamente fino a assumere la forma di una sfera, per poi esaurirsi e terminare il loro ciclo vitale. Le forme più grandi, invece, crescono più lentamente e rimangono sospese nell’aria più a lungo; le “estati” delle Hesperidi, in questo caso, sono davvero lunghe.
 
 
 
@@ -5516,26 +3030,6 @@ My brother and sister speak of you, and covet your remembrance, and perhaps you 
 [[motifs/summer|Summer]] laid her supple glove In its sylvan drawer— Wheresoe'er, or was she The demand of awe?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, — a parte la tua visita, non conosco dono più grande; anzi, in un certo senso, supera tutti gli altri, poiché è permanente.
-
-Il tuo viso appare più gioioso quando parli, e mi manca quell’aria quasi arrogante che a volte ti accompagna. Ma a parte questo, sembri così reale che potrei pensare davvero che tu sia quella persona.
-
-Grazie mille, e per favore ringraziate anche il vostro amico per questa bellissima proposta.
-
-Spero che ora lei non stia soffrendo.
-
-Era forse il fiore di Browning quello che “soffriva fino a sera”? Penserò alla tua attività di “casa” di [[motifs/night|notte]] quando chiuderò la persiana. Ma essere ospite della signora Higginson è davvero un dono meraviglioso.
-
-Il giudice Lord era con noi alcuni giorni fa e mi disse che la [[concepts/joy|gioia]] che più ammiriamo finiamo per profanarla nel momento in cui la viviamo. Vorrei che fosse vero il contrario.
-
-La signora Jackson ha scritto. Non erano storie quelle che mi chiedeva. Ma posso comunque dirle che a voi non piacciono? Grazie se posso farlo; sembrerebbe quasi indecoroso rifiutare di nuovo.
-
-Mio fratello e mia sorella parlano di voi e desiderano che venga ricordato il vostro nome; forse non rifiuterete nemmeno il mio ricordo da parte mia per la signora Higginson, vero?
-
-[[motifs/summer|Estate]] mise il suo guanto flessibile nel cassetto tra gli alberi. Ovunque si trovasse, o forse era proprio lei a suscitare quell’ammirazione reverenziale?
-
 
 
 <span class="atom-split" data-atom="l0297_mr_thomas_wentworth_higginson" data-title="To Mr. Thomas Wentworth Higginson" data-chapter="" data-kind="intro" data-tags="motif/prayer,motif/snow,concept/friendship,concept/longing,concept/solitude,form/letter,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -5547,14 +3041,6 @@ Must I lose the friend that saved my life without inquiring why? Affection grope
 
 That every bliss we know or guess hourly befall him, is his scholar's [[motifs/prayer|prayer]].
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Dopo un intervallo di [[motifs/silence|silenzio]], arrivò questa [[forms/letter|lettera]] nello stesso anno:—
-
-Devo perdere l’amico che mi ha salvato la vita senza nemmeno chiedere il motivo? L’affetto si muove, inciampando nelle onde di ammirazione per quella sua “porta tropicale”.
-
-Che ogni felicità che conosciamo o immaginiamo gli accada ogni ora, è la preghiera del suo studioso.
 
 
 
@@ -5570,16 +3056,6 @@ I shall like to take it.
 [[motifs/home|Home]] is the definition of [[characters/god|God]].
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Caro Peter, —È davvero una notizia meravigliosa. Sono orgoglioso della tua felicità. A Peter, e a chi appartiene a Peter, posso offrire entrambe le mie mani in segno di affetto. La gioia non ha rivali, quindi è sempre la cosa più preziosa.
-
-“Maggie” è un nome caloroso.
-
-Vorrei prenderlo.
-
-[[motifs/home|Casa]] è la definizione stessa di [[characters/god|Dio]].
-
 
 
 <span class="atom-split" data-atom="l0337_miss_maria_whitney_august_19_1885" data-title="To Miss Maria Whitney, August 19, 1885" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/letters_writing,concept/friendship,concept/communication_and_isolation,form/letter,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -5592,14 +3068,6 @@ That your loved confederate and yourself are in ceaseless peace is my happy [[co
 The sweet-peas you hallowed stand in carmine sheaves. Would that you could plunder them.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, —posso chiederti un favore così sacro? Potresti scrivere e inviare una lettera all’amica di mio amico, la signora Jackson? Non conosco l’indirizzo del signor Jackson e desidero scrivergli.
-
-Che il vostro caro alleato e voi stessi si trovino in una pace perpetua è la mia felice [[concepts/faith|fede]].
-
-I piselli dolci, raccolti in ghirlande di colore rosso, sembrano così deliziosi. Vorrei tanto poterli raccogliere tutti.
-
 
 
 <span class="atom-split" data-atom="l0399_mrs_edward_tuckerman_1880" data-title="To Mrs. Edward Tuckerman, 1880" data-chapter="" data-kind="intro" data-tags="motif/love,concept/love_romantic,concept/truth,concept/paradox,concept/doubt,form/letter,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -5608,10 +3076,6 @@ I piselli dolci, raccolti in ghirlande di colore rosso, sembrano così deliziosi
 [[motifs/love|Love]] is done when [[motifs/love|love]]'s begun, Sages say. But have sages known? [[concepts/truth|Truth]] adjourn your boon Without day.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Gli saggi dicono che l’[[motifs/love|Amore]] finisca non appena inizia. Ma hanno davvero gli saggi conosciuto la [[concepts/truth|Verità]]? Lascia che il tuo dono si attardi, senza alcun limite di tempo.
-
 
 
 <span class="atom-split" data-atom="l0435_mrs_fs_cooper" data-title="To Mrs. F.S. Cooper" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/love,concept/love_divine,concept/love_romantic,concept/immortality_divine,form/letter,histref/the_bible,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
@@ -5619,10 +3083,6 @@ Gli saggi dicono che l’[[motifs/love|Amore]] finisca non appena inizia. Ma han
 
 “Give me thine heart” is too peremptory a courtship for earth, however irresistible in Heaven.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-“Dammi il tuo cuore” è un modo troppo imperioso di corteggiare sulla Terra, anche se irresistibile in Cielo.
 
 
 
@@ -5636,14 +3096,3 @@ But excuse me—I know but little. Please tell me how it might seem to you.
 How vast is the chastisement of [[concepts/beauty|beauty]], given us by our Maker! A word is inundation, when it comes from the [[motifs/sea|sea]].
 
 Peter took the marine walk at the great risk.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico,—ti ringrazio con [[concepts/wonder|grande stupore]]. Se mi chiedessi quale sia la mia comprensione di una notte illuminata dalla luce delle stelle, la sola risposta che potrei darti sarebbe il timore; lo stesso vale per quel “libro maestoso”. Esso rimane immobile, suscita emozioni, incanta, benedice, e anche condanna. Come gli affetti umani, non osiamo toccarlo, ma allo stesso tempo ne fuggiamo. Che altro ci resta?
-
-Ma scusate, so poco. Per favore, ditemi come potrebbe sembrarvi.
-
-Quanto è vasta la punizione inflitta alla [[concepts/beauty|bellezza]] da parte del nostro Creatore! Una parola diventa un’inondazione quando proviene dal [[motifs/sea|mare]].
-
-Peter percorse il sentiero lungo il mare, a grande rischio.

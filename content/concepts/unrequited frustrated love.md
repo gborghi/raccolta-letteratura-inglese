@@ -33,6 +33,7 @@ tags:
 - [[testi/coleridge/atomized/friendship-tears#394_profuse_kindness|PROFUSE KINDNESS (Coleridge)]]
 - [[works/sonnet-(coleridge)-(2)|SONNET (Coleridge) (2)]]
 - [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#358_the_alternative|THE ALTERNATIVE (Coleridge)]]
+- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#158_the_ballad_of_the_dark_ladié|THE BALLAD OF THE DARK LADIÉ (Coleridge)]]
 - [[testi/coleridge/atomized/faith-providence-divine-love#226_the_blossoming_of_the_solitary_date-tree|THE BLOSSOMING OF THE SOLITARY DATE-TREE (Coleridge)]]
 - [[testi/coleridge/atomized/mortality-grave-memento-mori#425_the_hour-glass|THE HOUR-GLASS (Coleridge)]]
 - [[testi/coleridge/atomized/terror-and-horror-madness#193_the_mad_monk|THE MAD MONK (Coleridge)]]

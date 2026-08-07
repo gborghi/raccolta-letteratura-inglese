@@ -39,7 +39,7 @@ Raccolta tematica di 10 componimenti di John Keats.
 
 - [[testi/keats/atomized/self-knowledge-immortality-self-reliance#100_a_song_about_myself|A Song About Myself]]
 - [[testi/keats/atomized/self-knowledge-immortality-self-reliance#073_lines_on_seeing_a_lock_of_miltons_hair|Lines On Seeing a Lock of Milton’s Hair]]
-- [[testi/keats/atomized/self-knowledge-immortality-self-reliance#036_ode|ODE]]
+- ODE
 - [[testi/keats/atomized/self-knowledge-immortality-self-reliance#033_ode_on_a_grecian_urn|ODE ON A GRECIAN URN]]
 - [[testi/keats/atomized/self-knowledge-immortality-self-reliance#048_ode_to_apollo|Ode to Apollo]]
 - [[testi/keats/atomized/self-knowledge-immortality-self-reliance#053_sonnet_as_from_the_darkening_gloom_a_silver_dove|Sonnet: As from the darkening gloom a silver dove]]

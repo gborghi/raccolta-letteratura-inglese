@@ -31,6 +31,7 @@ tags:
 - [[testi/coleridge/atomized/satire-of-society-epigram-satire#350_comparative_brevity_of_greek_and_english|COMPARATIVE BREVITY OF GREEK AND ENGLISH (Coleridge)]]
 - [[testi/coleridge/atomized/transience-decay-carpe-diem#056_imitations_ad_lyram|IMITATIONS AD LYRAM (Coleridge)]]
 - [[testi/coleridge/atomized/artist-and-society-truth-regency-georgian-england#283_lines_to_a_comic_author_on_an_abusive_review|LINES TO A COMIC AUTHOR, ON AN ABUSIVE REVIEW (Coleridge)]]
+- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#433_milesisches_mährchen|MILESISCHES MÄHRCHEN (Coleridge)]]
 - [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#177_names|NAMES (Coleridge)]]
 - [[testi/coleridge/atomized/satire-of-society-epigram-satire#371_nonsense_sapphics|NONSENSE SAPPHICS (Coleridge)]]
 - [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#178_philadelphia|PHILADELPHIA (Coleridge)]]

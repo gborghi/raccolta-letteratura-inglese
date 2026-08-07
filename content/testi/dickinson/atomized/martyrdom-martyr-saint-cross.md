@@ -25,18 +25,6 @@ Sovereign! Know a Daisy
 They dishonor shared!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-"Non mi hanno scelto," disse,  
-"Ma io ho scelto loro!"  
-Coraggiosa — Affranta dichiarazione —  
-Pronunciata a Betlemme!  
-
-Io non avrei potuto dirlo,  
-Ma poiché Gesù osò —  
-Sovrano! Sappi che una Margherita  
-Il loro disonore condivise!
-
 
 
 <span class="atom-split" data-atom="0217_savior_ive_no_one_else_to_tell" data-title="217. Savior! I've no one else to tell —" data-chapter="" data-kind="intro" data-tags="concept/grief_and_loss,concept/faith,concept/love_divine,concept/humility,form/lyric,histref/christianity,character/christ,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -55,21 +43,6 @@ Till mine too heavy grew —
 Yet — strangest — heavier since it went —  
 Is it too large for you?
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Salvatore! Non ho nessun altro a cui dirlo —  
-E così disturbo te.  
-Sono io quella che tanto ti scordò —  
-Ti ricordi di me?  
-Né per me stessa venni così lontano —  
-Quello era il piccolo carico —  
-Ti portai il Cuore imperiale  
-Che non ebbi la forza di reggere —  
-Il Cuore che portavo nel mio —  
-Finché il mio si fece troppo pesante —  
-Eppure — stranissimo — più pesante da che è andato —  
-È troppo grande per te?
 
 
 
@@ -104,35 +77,6 @@ Beckoning — Etruscan invitation —
 Toward Light —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-A simile Storia — l'Affanno mi ha attratta —  
-Come caddero i Congiunti —  
-Fratelli e Sorella — che preferirono la Gloria —  
-E la loro giovane volontà  
-Piegata al Patibolo, o in Segrete — cantarono —  
-Finché [[characters/god|Dio]] compì il suo [[motifs/time|tempo]] —  
-Quando lasciarono andare l'ignominia — sorridendo —  
-E la Vergogna tacque —  
-
-A Stemmi intuiti, la mia lamentosa fantasia, mi conduce,  
-Portati con grazia  
-Da Teste respinte — nel paese più basso —  
-Dagli onori di là —  
-Tale spirito ne fa perpetua menzione,  
-Che io — fatta ardita —  
-Marcio marziale — alla mia Crocifissione —  
-Come Trombe — rullassero —  
-
-Piedi, piccoli come i miei — hanno marciato in Rivoluzione  
-Saldi al Tamburo —  
-Mani — non così forti — li issarono — a testimonianza —  
-Quando la Parola si fece muta —  
-Ch'io non disonori i loro [[concepts/sublime|sublimi]] contegni —  
-Addestrati a splendore —  
-Accennando — Etrusco invito —  
-Verso la Luce —
-
 
 
 <span class="atom-split" data-atom="0313_i_should_have_been_too_glad_i_see" data-title="313. I should have been too glad, I see —" data-chapter="" data-kind="intro" data-tags="motif/the_cross,concept/grace_and_redemption,concept/faith,concept/martyrdom,form/lyric,histref/the_bible,histref/christianity,character/christ,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -166,35 +110,6 @@ Endear the Coast — beyond!
 "[[concepts/faith|Faith]]" bleats — to understand!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Sarei stata troppo lieta, vedo —  
-Troppo elevata — per lo scarso grado  
-Del parco Giro della Vita —  
-Il mio piccolo Circuito avrebbe svergognato  
-Questa nuova Circonferenza — avrebbe biasimato —  
-Il più umile [[motifs/time|tempo]] alle spalle.  
-
-Sarei stata troppo salva — vedo —  
-Troppo redenta — [[concepts/fear|Paura]] troppo fioca per me  
-Da poter compitare la [[motifs/prayer|Preghiera]]  
-Che sapevo così perfetta — ieri —  
-Quella Rovente — Sabachthani —  
-Recitata fluente — qui —  
-
-La Terra sarebbe stata troppo — vedo —  
-E il Cielo — non abbastanza per me —  
-Avrei avuto la [[concepts/joy|Gioia]]  
-Senza la [[concepts/fear|Paura]] — a giustificare —  
-La Palma — senza il Calvario —  
-Dunque Salvatore — Crocifiggi —  
-La Sconfitta — affila la Vittoria — dicono —  
-Le Scogliere — nel vecchio Getsemani —  
-Fanno cara la Costa — al di là!  
-Sono i Mendicanti — che i Banchetti san definire —  
-È l'Arsura — che vivifica il Vino —  
-La "[[concepts/faith|Fede]]" bela — per capire!
-
 
 
 <span class="atom-split" data-atom="0317_just_so_jesus_raps" data-title="317. Just so — Jesus — raps —" data-chapter="" data-kind="intro" data-tags="motif/the_window,concept/love_divine,concept/grace_and_redemption,concept/self_and_soul,concept/faith,form/lyric,histref/christianity,histref/the_bible,character/christ,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -212,20 +127,6 @@ It will be ample [[motifs/time|time]] for — me —
 Patient — upon the steps — until then —  
 Hears! I am knocking — low at thee.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Proprio così — Gesù — bussa —  
-Lui — non si stanca —  
-Ultimo — al Battente —  
-E primo — al Campanello.  
-Poi — in divinissima punta di piedi — ritto —  
-Potesse Egli solo scorgere l'[[motifs/soul|anima]] della dama —  
-Quando Egli — si ritira —  
-Infreddolito — o stanco —  
-Sarà ampio [[motifs/time|tempo]] per — me —  
-Paziente — sugli scalini — fino ad allora —  
-Ode! Sto bussando — sommessa a te.
 
 
 
@@ -252,28 +153,6 @@ When [[motifs/night|Night]] devoured the [[motifs/road|Road]] —
 But we — stood whispering in the House —  
 And all we said — was "Saved"!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Della Tribolazione, questi sono Essi,  
-Denotati dal Bianco —  
-Le Vesti Lustrinate, un Rango minore  
-Di Vincitori — designano —  
-
-Tutti questi — vinsero —  
-Ma quelli che trionfarono più volte —  
-Non vestono nulla di più comune della [[motifs/snow|Snow]] —  
-Nessun Ornamento, se non Palme —  
-
-La Resa — è una sorta ignota —  
-Su questo suolo superiore —  
-La Disfatta — un'Angoscia oltrepassata —  
-Ricordata, come il Miglio  
-
-Che la nostra Caviglia ansante superò appena —  
-Quando la [[motifs/night|Night]] divorò la [[motifs/road|Road]] —  
-Ma noi — stavamo sussurrando nella Casa —  
-E tutto ciò che dicemmo — fu "Salvi"!
 
 
 
@@ -311,38 +190,6 @@ Each other's Face — was all the Disc
 Each other's setting — saw —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Ci posero lontani —  
-Separati come il [[motifs/sea|Mare]]  
-E la Sua Penisola non seminata —  
-Noi segnalammo "Questi vedono" —  
-
-Ci tolsero gli Occhi —  
-Ci contrastarono con Fucili —  
-"Io Ti vedo" rispose dritto ciascuno  
-Per Segni Telegrafici —  
-
-Con Segrete — Escogitarono —  
-Ma attraverso la loro arte più fitta —  
-E il loro più opaco Adamante —  
-Le nostre Anime videro — altrettanto [[motifs/well|bene]] —  
-
-Ci chiamarono a morire —  
-Con dolce alacrità  
-Ci ergemmo sui nostri piedi inchiodati —  
-Condannati — ma solo — a vedere —  
-
-Permesso di ritrattare —  
-Permesso di dimenticare —  
-Voltammo le spalle al [[motifs/sun|Sole]]  
-Per spergiuro di ciò —  
-
-Nessuno dei Due — notò la [[motifs/death|Morte]] —  
-Del Paradiso — consapevoli —  
-Il Viso l'uno dell'altro — era tutto il Disco  
-Il tramonto l'uno dell'altro — vide —
-
 
 
 <span class="atom-split" data-atom="0488_myself_was_formed_a_carpenter" data-title="488. Myself was formed — a Carpenter —" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,concept/the_artist_and_society,concept/identity,concept/faith,character/christ,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -363,23 +210,6 @@ The Bench, where we had toiled —
 Against the Man — persuaded —  
 We — Temples build — I said —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Io fui formata — Falegname —  
-Un [[motifs/time|tempo]] senza pretese  
-La mia Pialla — ed io, insieme operammo  
-Prima che un Costruttore venisse —  
-
-A misurare i nostri compimenti —  
-Se avessimo l'Arte delle Assi  
-Sviluppata a sufficienza — Ci assumerebbe  
-A Mezzadria —  
-
-I miei Attrezzi presero Umani — Volti —  
-Il Banco, dove avevamo faticato —  
-Contro l'Uomo — persuasero —  
-Noi — Templi costruiamo — dissi —
 
 
 
@@ -407,28 +237,6 @@ Jesus — it's your little "John"!
 Don't you know — me?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Ha teso la mia [[concepts/faith|fede]] —  
-La trovò cedevole?  
-Ha scosso la mia salda fiducia —  
-Ha ceduto — allora?  
-
-Ha scagliato il mio credo —  
-Ma — l'ha infranto — forse?  
-Straziata — dall'attesa —  
-Non un nervo ha ceduto!  
-
-Mi ha torto — con l'Angoscia —  
-Ma non ho mai dubitato di lui —  
-Benché per quale torto  
-Non abbia mai detto —  
-
-Trafitta — mentre imploravo  
-Il suo dolce [[concepts/forgiveness|perdono]] —  
-Gesù — è il tuo piccolo "John"!  
-Non conosci — me?
-
 
 
 <span class="atom-split" data-atom="0502_at_least_to_pray_is_left_is_left" data-title="502. At least — to pray — is left — is left —" data-chapter="" data-kind="intro" data-tags="motif/storm,concept/faith,concept/doubt,concept/alienation,histref/the_bible,character/christ,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -444,18 +252,6 @@ And Maelstrom, in the [[motifs/sea|Sea]] —
 Say, Jesus [[characters/christ|Christ]] of Nazareth —  
 Hast thou no Arm for Me?
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Almeno — pregare — resta — resta —  
-Oh Gesù — nell'Aria —  
-Non so quale sia la tua stanza —  
-Sto bussando — dappertutto —  
-
-Tu scateni il Terremoto nel Sud —  
-E il Maelstrom, nel [[motifs/sea|Mare]] —  
-Di', Gesù [[characters/christ|Cristo]] di Nazareth —  
-Non hai un Braccio per Me?
 
 
 
@@ -482,27 +278,6 @@ With the Brand of the Gentile Drinker
 Who indorsed the Cup —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Posare questo Mondo, come un Fardello —  
-E camminare saldi, via,  
-Richiede Energia — forse Agonia —  
-È la via Scarlatta  
-
-Calcata con diritta [[concepts/renunciation|rinuncia]]  
-Dal Figlio di [[characters/god|Dio]] —  
-Più tardi, i suoi fiochi Confederati  
-Giustificano la [[motifs/road|Strada]] —  
-
-Sapori di quell'antica Crocifissione —  
-Filamenti di Fiore, che Ponzio Pilato seminò —  
-Grappoli Forti, dalla Tomba di Barabba —  
-
-Sacramento, che i Santi presero prima di noi —  
-Patente, ogni goccia,  
-Col Marchio del Bevitore Gentile  
-Che avallò il Calice —
-
 
 
 <span class="atom-split" data-atom="0549_that_i_did_always_love" data-title="549. That I did always love" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/the_cross,concept/love_romantic,concept/immortality,concept/love_divine,histref/the_bible,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -523,23 +298,6 @@ Then have I
 Nothing to show  
 But Calvary —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Che io abbia sempre [[motifs/love|amato]]  
-Ti porto Prova  
-Che finché non amai  
-Non vissi mai — Abbastanza —  
-
-Che io [[motifs/love|amerò]] per sempre —  
-Ti argomento  
-Che l'[[motifs/love|amore]] è vita —  
-E la vita ha [[concepts/immortality|Immortalità]] —  
-
-Questo — lo [[concepts/doubt|dubiti]] — Dolce —  
-Allora non ho  
-Nulla da mostrare  
-Se non il Calvario —
 
 
 
@@ -567,28 +325,6 @@ There's newer — nearer Crucifixion
 Than That —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Una Crocifissione è registrata — soltanto —  
-Quante ve ne siano  
-Non è affermato dalla Matematica —  
-O dalla [[concepts/history|Storia]] —  
-
-Un Calvario — esibito allo Straniero —  
-Ve ne sono tanti  
-Quante le persone — o le Penisole —  
-Il Getsemani —  
-
-È solo una Provincia — nel Centro dell'Essere —  
-La Giudea —  
-Per [[motifs/journey|Viaggio]] — o Impresa di Crociata —  
-Troppo vicina —  
-
-Nostro Signore — invero — rese Testimonianza Composta —  
-Eppure —  
-C'è più nuova — più vicina Crocifissione  
-Di Quella —
-
 
 
 <span class="atom-split" data-atom="0554_the_black_berry_wears_a_thorn_in_his_side" data-title="554. The Black Berry — wears a Thorn in his side —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,archetype/christ_figure,motif/nature,motif/the_cross,concept/martyrdom,concept/grief_and_loss,concept/heroism,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -612,25 +348,6 @@ A little further reaches — instead —
 Brave Black Berry —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-—  
-
-La Mora — porta una Spina nel fianco —  
-Ma nessun Uomo L'ha udita gridare —  
-Offre la Sua Bacca, ugualmente  
-Alla Pernice — e al Ragazzo —  
-
-A volte si regge alla Staccionata —  
-O lotta fino a un [[motifs/tree|Albero]] —  
-O stringe una Roccia, con entrambe le Mani —  
-Ma non per [[concepts/sympathy|Compassione]] —  
-
-Noi — raccontiamo una Ferita — per lenirla —  
-Questa Dolente — verso il Cielo  
-Un poco più oltre si protende — invece —  
-Coraggiosa Mora —
-
 
 
 <span class="atom-split" data-atom="0573_the_test_of_love_is_death" data-title="573. The Test of Love — is Death —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/the_cross,motif/dust,concept/love_divine,concept/martyrdom,concept/love_romantic,character/christ,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -651,23 +368,6 @@ And overlook — the [[motifs/dust|Dust]] —
 Last — Least —  
 The [[motifs/cross|Cross]]' — Request —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-La Prova dell'[[motifs/love|Amore]] — è la [[motifs/death|Morte]] —  
-Nostro Signore — "tanto amò" — così dice —  
-Ciò che il Più Grande [[archetypes/lover|Amante]] — possiede  
-Un Altro — compie —  
-
-Se minore Pazienza — vi sia —  
-Per minore Infinità —  
-Se il Prode, talvolta devia —  
-Per più fioco Nervo —  
-
-Accettane il Massimo —  
-E trascura — la [[motifs/dust|Polvere]] —  
-Ultima — Minima —  
-Della [[motifs/cross|Croce]] — la Richiesta —
 
 
 
@@ -695,28 +395,6 @@ Base must be the Coward
 Dare not venture — now —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La Vita — è ciò che ne facciamo —  
-La [[motifs/death|Morte]] — non la conosciamo —  
-La familiarità di [[characters/christ|Cristo]] con Lei  
-La giustifica — però —  
-
-Lui — non si fiderebbe di un estraneo —  
-Altri — potrebbero tradire —  
-Solo la Sua propria garanzia —  
-Quella — Mi basta —  
-
-Tutta l'altra Distanza  
-Egli l'ha percorsa per primo —  
-Nessun Nuovo Miglio rimane —  
-Fin dove è il Paradiso —  
-
-Il Suo piede sicuro precede —  
-Tenero Pioniere —  
-Vile dev'essere il Codardo  
-Che non osa avventurarsi — ora —
-
 
 
 <span class="atom-split" data-atom="0792_through_the_strait_pass_of_suffering" data-title="792. Through the strait pass of suffering —" data-chapter="" data-kind="intro" data-tags="topos/the_quest,archetype/martyr,motif/stars,concept/martyrdom,concept/faith,concept/suffering,concept/grace_and_redemption,form/lyric,form/hymn,histref/christianity,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -737,23 +415,6 @@ Their Expectation — fair —
 The Needle — to the North Degree —  
 Wades — so — thro' polar Air!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Attraverso lo stretto passo della [[concepts/suffering|sofferenza]] —  
-I Martiri — persino — passarono.  
-I piedi — sulle Tentazioni —  
-I volti — su [[characters/god|Dio]] —  
-
-Una solenne — assolta — Compagnia —  
-La Convulsione — giocando intorno —  
-Innocua — come strie di Meteora —  
-Sul Vincolo d'un Pianeta —  
-
-La loro [[concepts/faith|fede]] — l'eterna promessa —  
-La loro Attesa — serena —  
-L'Ago — verso il Grado Nord —  
-Avanza — così — per l'Aria polare!
 
 
 
@@ -778,25 +439,6 @@ Is esteemed in Heaven the Chiefest —
 Occupy my House" —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-"A Me?" Io non ti conosco —  
-Dove sarà la tua Casa?  
-
-"Io sono Gesù — Già di Giudea —  
-Ora — del Paradiso" —  
-
-Carri — ne hai — per condurmi?  
-Questo è lontano da Là —  
-
-"Braccia Mie — Fetonte bastante —  
-Confida nell'Onnipotenza" —  
-
-Sono macchiata — "Io sono Perdono" —  
-Sono piccola — "Il Minimo  
-È stimato in Cielo il Sommo —  
-Occupa la mia Casa" —
-
 
 
 <span class="atom-split" data-atom="1109_i_fit_for_them" data-title="1109. I fit for them —" data-chapter="" data-kind="intro" data-tags="archetype/martyr,motif/light_and_dark,concept/martyrdom,concept/humility,form/lyric,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -812,18 +454,6 @@ A purer food for them, if I succeed,
 If not I had  
 The transport of the Aim —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Mi preparo per loro —  
-Cerco il Buio  
-Finché non sono del tutto pronta.  
-Il lavoro è un lavoro sobrio  
-Con questa dolcezza che basta  
-Che l'astinenza mia produca  
-Un cibo più puro per loro, se riesco,  
-Se no, avevo avuto  
-Il rapimento della Meta —
 
 
 
@@ -841,18 +471,6 @@ Was leveled, but for that 'twould be
 A rugged billion [[characters/miles|Miles]] —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il Salvatore dev'essere stato  
-Un docile Gentiluomo —  
-Per venire così lontano in un Giorno così freddo  
-Per i piccoli Fratelli umani —  
-
-La [[motifs/road|Strada]] per Betlemme  
-Da quando Lui ed io eravamo Ragazzi  
-Fu spianata, ma se no sarebbe  
-Un aspro miliardo di [[characters/miles|Miglia]] —
-
 
 
 <span class="atom-split" data-atom="1574_no_ladder_needs_the_bird_but_skies" data-title="1574. No ladder needs the bird but skies" data-chapter="" data-kind="intro" data-tags="motif/birds,concept/freedom,concept/faith,concept/grace_and_redemption,form/lyric,character/christ,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -867,17 +485,6 @@ As Jesus says of Him,
 "Come unto me" the moiety  
 That wafts the cherubim.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Nessuna scala occorre all'uccello se non cieli  
-Per situare le sue ali,  
-Né la torva bacchetta d'alcun capo  
-Lo accusa mentre canta.  
-Gli strumenti della beatitudine son pochi —  
-Come Gesù dice di Sé,  
-"Venite a me" la metà  
-Che sospinge i cherubini.
 
 
 
@@ -899,22 +506,6 @@ Thou can'st not pierce [[concepts/tradition|tradition]] with the peerless punctu
 See! I usurped thy crucifix to honor mine!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-INFRANGILO,  
-
-Fiera del mio cuore infranto, poiché tu lo infrangesti,  
-Fiera della [[motifs/pain|pena]] che non sentii fino a te,  
-
-Fiera della mia [[motifs/night|notte]], poiché tu di lune la plachi,  
-Non partecipare alla tua passione, mia [[concepts/humility|umiltà]].  
-
-Tu non puoi vantarti, come Gesù, che bevuta senza compagno  
-Fu la forte coppa d'angoscia versata per il Nazareno  
-
-Tu non puoi trafiggere la [[concepts/tradition|tradizione]] con l'impareggiabile puntura,  
-Vedi! Usurpai il tuo crocifisso per onorare il mio!
-
 
 
 <span class="atom-split" data-atom="l0194_the_misses_winter_186061" data-title="To the Misses, Winter, 1860–61," data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/snow,motif/birds,motif/winter,motif/bells,concept/faith,concept/friendship,concept/grace_and_redemption,form/letter,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -927,14 +518,6 @@ It was pretty to lend us the letters from the new friends. It gets us acquainted
 I have one new bird and several trees of old ones. A [[motifs/snow|snow]] slide from the roof, dispelled mother's “sweetbrier.” You will of course feel for her, as you were named for him! There are as yet no streets, though the [[motifs/sun|sun]] is riper, and these small [[motifs/bells|bells]] have rung so long I think it “teatime” always.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cari amici, —L— si è fermato solo per pranzare prima di inviare la sua nota a Miss W—. È partita con un bellissimo nome stampato sopra, nell’ufficio postale serale, “Non c’è nient’altro da aggiungere?”, dice il impiegato. Sono così felice di poter fare questo piccolo gesto per mia sorellina. Siete proprio come le sorelle minori, come dice caro F— in quella lettera così affettuosa. Se mamma la leggesse, anche in Paradiso i suoi occhi si riempirebbero di lacrime.
-
-È stato molto gentile da parte loro prestarci le lettere dei nuovi amici; ci hanno aiutato a conoscerci meglio. Le conserveremo con cura. Mi dispiace di non essere uno studioso che partecipa alle lezioni del venerdì; credo che l’[[motifs/love|amore]] di [[characters/god|Dio]] possa essere insegnato in modo da non sembrare qualcosa di negativo. Che fortuna per coloro che si trovano sotto quell’influenza amorevole.
-
-Ho un nuovo uccello e diversi alberi vecchi. Una pista di neve che scende dal tetto ha spazzato via il “sambuco dolce” della mamma. Certo che vi impietosirete per lei, visto che avete preso il suo nome! Per ora non ci sono ancora strade, ma il [[motifs/sun|sole]] è sempre più caldo. E questi piccoli [[motifs/bells|campanelli]] suonano da così tanto tempo che sembra sempre “ora del tè”.
-
 
 
 <span class="atom-split" data-atom="l0316_miss_maria_whitney" data-title="To Miss Maria Whitney" data-chapter="" data-kind="intro" data-tags="motif/the_cross,concept/faith,concept/suffering,concept/grace_and_redemption,form/letter,histref/christianity,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -942,10 +525,6 @@ Ho un nuovo uccello e diversi alberi vecchi. Una pista di neve che scende dal te
 
 . . . The crucifix requires no glove.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-. Il crocifisso non richiede alcun guanto.
 
 
 
@@ -959,14 +538,6 @@ Anatomical dishabille is sweet to those who prize us.
 A chastened grace is twice a grace. Nay, 'tis a holiness.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Confidiamo che i lavori di riparazione della nostra piccola amica stiano procedendo rapidamente. Ma riusciremo davvero ad amarla tanto quanto prima, ora che è stata completamente rinnovata?
-
-La trasandatezza anatomica è piacevole per coloro che ci apprezzano.
-
-Una grazia temperata è doppiamente una grazia. Anzi, è una vera santità.
-
 
 
 <span class="atom-split" data-atom="l0449_mrs_henry_hills" data-title="To Mrs. Henry Hills" data-chapter="" data-kind="intro" data-tags="motif/the_cross,motif/flowers,concept/faith,concept/grace_and_redemption,form/letter,histref/the_bible,cluster/martyrdom,cluster/martyr_saint,cluster/cross"></span>
@@ -977,12 +548,3 @@ DEAR FRIEND,—The gift was sadly exquisite—were the actual “[[motifs/cross|
 Thank you for the sacred “[[motifs/flowers|flowers]]”—typical, both of them.
 
 Gethsemane and Cana are still a travelled route.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, —Il dono era davvero squisito. Se quella vera e propria “[[motifs/cross|croce]]” fosse stata adornata in modo così divino, la desidereremmo certamente.
-
-Grazie per questi sacri “[[motifs/flowers|fiori]]”, tipici, entrambi.
-
-Getsemani e Cana sono ancora itinerari molto frequentati.

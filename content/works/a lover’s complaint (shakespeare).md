@@ -32,6 +32,10 @@ tags:
 > [!abstract] 
 > A rhyme-royal narrative complaint in which a forsaken maid, overheard by an aged shepherd, laments her seduction and ruin by a beautiful, deceitful young man; a lyric of unrequited love, deception and faded beauty.
 
+## Testo / Text
+
+- [A Lover’s Complaint](/testi/shakespeare/poems/a_lovers_complaint#intro)
+
 ## Connections
 
 **Topoi:** [[topoi/combat-strife|Combat Strife]]

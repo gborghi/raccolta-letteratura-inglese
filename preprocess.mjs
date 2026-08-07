@@ -626,7 +626,7 @@ async function publishUnits(
     // notes and wheel use the spaced form ("Conan Doyle"), so units must match.
     const authorName = author.replace(/_/g, " ")
     if (EXCLUDE_AUTHORS.has(author)) continue // excluded from public site
-    for (const sub of ["Atomized", "Plays", "Long"]) {
+    for (const sub of ["Atomized", "Plays", "Long", "Poems"]) {
       const subRoot = path.join(AUTHORS_DIR, author, sub)
       let stat
       try {
@@ -642,7 +642,8 @@ async function publishUnits(
       for (const rel of rels) {
         const relU = rel.replace(/\\/g, "/")
         const segs = relU.split("/")
-        const workDir = segs[0] // e.g. A_Childs_History_of_England or play slug
+        // Flat files (no subdirectory): the file IS the work; strip .md for the dir key.
+        const workDir = segs.length === 1 ? segs[0].replace(/\.md$/, "") : segs[0]
         if (!byWork.has(workDir)) byWork.set(workDir, [])
         byWork.get(workDir).push(relU)
       }
@@ -745,7 +746,11 @@ async function publishUnits(
               const sBody = splitUnit(await fs.readFile(abs, "utf8")).body.replace(/^\s*#[^\n]*\n/, "")
               secLines.push(...nonBlank(sBody))
             }
-            const contAbs = path.join(subRoot, `${workDir}/${workDir}.md`.split("/").join(path.sep))
+            // Flat files (Poems): the source IS the container; nested works use <dir>/<dir>.md.
+            const isFlat = !relList[0].includes("/")
+            const contAbs = isFlat
+              ? path.join(subRoot, relList[0].split("/").join(path.sep))
+              : path.join(subRoot, `${workDir}/${workDir}.md`.split("/").join(path.sep))
             const contBody = await fs.readFile(contAbs, "utf8").catch(() => null)
             if (contBody !== null && secLines.length) {
               const cont = nonBlank(splitUnit(contBody).body)

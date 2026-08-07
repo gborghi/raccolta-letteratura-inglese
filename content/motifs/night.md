@@ -19,6 +19,7 @@ tags:
 - [[works/childsnow-(chesterton)|childsnow (Chesterton)]]
 - [[works/midsummer-nights-dream-(chesterton)|midsummer nights dream (Chesterton)]]
 - [[testi/coleridge/atomized/satire-of-society-epigram-satire#027_inside_the_coach|INSIDE THE COACH (Coleridge)]]
+- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#433_milesisches_mährchen|MILESISCHES MÄHRCHEN (Coleridge)]]
 - [[testi/coleridge/atomized/terror-and-horror-madness#089_mrs_siddons|MRS. SIDDONS (Coleridge)]]
 - [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#407_nonsense_verses|NONSENSE VERSES (Coleridge)]]
 - [[testi/coleridge/atomized/faith-providence-divine-love#080_o_i_have_wakd_at_midnight_and_have_wept|O! I HAVE WAK’D AT MIDNIGHT, AND HAVE WEPT (Coleridge)]]

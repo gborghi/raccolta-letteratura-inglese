@@ -38,23 +38,6 @@ Every day at sundown for your dear sake my [[motifs/love|love]].
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Figli di Adamo_  
-
-
-Dall’oceano che si muoveva incessantemente, la folla giunse lentamente verso di me;  
-sussurravano che ti amo. Prima che io muoia, devo vederti ancora, toccarti.
-Ho percorso una lunga strada soltanto per poterti guardare, per poterti toccare.
-Perché non avrei potuto morire senza averlo fatto.
-Perché temevo di perderti dopo.  
-
-Ora che ci siamo incontrati, ora che abbiamo guardato l’uno con gli occhi dell’altro, siamo al sicuro.  
-Torna in pace nell’oceano, mio caro amore. Anch’io faccio parte di quell’oceano; non siamo poi così separati.  
-Guarda questa vastità, questa coesione di tutto, quanto è perfetta!  
-Ma per me, per te, il mare irresistibile ci separa. Un momento che ci porta lontani può forse farlo per sempre?  
-Non essere impaziente. Un breve distacco. Sappi che io saluto l’aria, l’oceano e la terra. Ogni giorno, al tramonto, per il tuo bene, mio caro amore.
-
 
 
 <span class="atom-split" data-atom="102_out_of_the_cradle_endlessly_rocking" data-title="Out of the Cradle Endlessly Rocking" data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,motif/the_sea,motif/the_mockingbird,motif/birds,motif/death,motif/moon,motif/night,motif/childhood,concept/grief_and_loss,concept/love_romantic,form/free_verse,form/elegy,setting/the_sea,cluster/sea,cluster/water"></span>
@@ -296,226 +279,6 @@ The sea whisper’d me.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: SEA-DRIFT_  
-
-
-Fuori dalla culla che dondola incessantemente,  
-fuori dal canto del pettirosso, quel suono melodioso che scorre.
-Fuori dalla mezzanotte del nono mese,  
-oltre le sabbie sterili e i campi lontani, dove il bambino,  
-lasciato il suo letto, vaga da solo, a capo scoperto, a piedi nudi.
-Giù dal cerchio di luce che lo avvolge,  
-su, verso quel gioco misterioso delle ombre che si intrecciano e si contorcono come se fossero vive.
-Fuori dai cespugli di rovi e more,  
-dalle memorie di quell’uccello che cantava per me.
-Dalle tue memorie, fratello mio triste. Dai suoni intermittenti che ho sentito.
-Sotto quella mezza luna gialla, appena sorta e gonfia come se piangesse.
-Da quelle prime note di desiderio e amore, nascoste nella nebbia.
-Dalle migliaia di risposte del mio cuore, che non cessano mai.
-Dalle innumerevoli parole che nascono da tutto ciò.
-Da quella parola più forte e dolce di tutte le altre.
-Come stormi di uccelli che cantano, che si alzano o volano sopra di me.
-Portate qui, prima che tutto mi sfugga. In fretta.
-Io, un uomo, ma ancora, per queste lacrime, un bambino.
-Mi getto sulla sabbia, di fronte alle onde.
-Io, cantore di dolori e gioie, unificatore di questo mondo e dell’altro.
-Prendo tutti questi segnali e li uso, ma poi balzo via rapidamente, oltre di loro.
-Canto una reminiscenza.  
-
-Un tempo, quando l’aria era piena del profumo dei lillà e l’erba del quinto mese cresceva rigogliosa,  
-sulla riva del mare, tra alcuni cespugli,  
-due uccellini piumati provenienti dall’Alabama, insieme.
-Il loro nido, e quattro uova di colore verde chiaro macchiate di marrone.
-Ogni giorno il maschio andava avanti e indietro vicino al nido;  
-la femmina si accovacciava lì, in silenzio, con gli occhi luminosi.
-E io, un ragazzo curioso, mai troppo vicino, mai disturbandoli.
-Li osservavo attentamente, imparando da loro.  
-
-Brilla! brilla! brilla!  
-Versa il tuo calore, o grande sole.
-Mentre ci riscaldiamo insieme.  
-
-Due insieme!  
-I venti soffiano verso sud, o verso nord;  
-Il giorno arriva bianco, o la [[motifs/night|notte]] diventa nera;  
-La [[motifs/home|casa]], i fiumi e le [[settings/mountains|montagne]], tutto ciò che appartiene alla nostra [[motifs/home|casa]];  
-Cantiamo sempre, senza badare al tempo,  
-Finché noi due restiamo insieme.  
-
-All'improvviso,  
-forse uccisa, senza che il suo compagno se ne accorgesse,  
-una mattina quella femmina di uccello non si posò più sul nido,  
-né tornò quel pomeriggio, né il giorno dopo,  
-e non ricomparve mai più.  
-
-E da allora, per tutto l’[[motifs/summer|estate]], al suono del mare,  
-e di [[motifs/night|notte]], sotto la luce piena della [[motifs/moon|luna]] in tempo sereno,  
-sopra il rumore cupo delle onde,  
-o volando da un cespuglio all’altro durante il giorno,  
-vedevo, sentivo di tanto in tanto quell’unico uccello rimasto,  
-quel solitario ospite proveniente dall’Alabama.  
-
-Soffia! soffia! soffia!  
-Soffia i venti marini lungo la riva di Paumanok;  
-Aspetto e aspetto, finché non mi porterai il mio amore.  
-
-Sì, quando le [[motifs/stars|stelle]] brillavano,  
-per tutta la [[motifs/night|notte]], su quel palo ricoperto di muschio,  
-quasi immerso tra le onde che si schiantavano contro di esso,  
-sedeva quel solitario cantante che suscitava lacrime di commozione.  
-
-Chiamò il suo compagno  
-e espose i significati che, più di chiunque altro, io conosco.  
-
-Sì, fratello mio, lo so.
-Gli altri forse no, ma io ho conservato ogni singola nota di quella notte.
-Più volte sono scivolato silenziosamente verso la riva, evitando i raggi della luna, fondendomi con le ombre.
-Ricordo ancora quelle forme sfocate, quegli echi, quei suoni e quelle immagini.
-Le braccia bianche che si muovevano instancabilmente tra le onde.
-Io, con i piedi nudi, un semplice [[archetypes/child|bambino]], con il [[motifs/wind|vento]] che mi accarezzava i capelli.
-Ho ascoltato a lungo.  
-
-Ascoltavo per continuare a cantare, ora traduco le note.
-Ti seguo, fratello mio.  
-
-Calmati! calmati! calmati.
-Il mare che si avvicina placa quello che lo segue;  
-E ancora un altro arriva dopo, abbracciandolo e accarezzandolo, tutti vicini tra loro.
-Ma il mio [[motifs/love|amore]] non mi consola, non me.  
-
-La luna sorge bassa nel cielo;  
-si schiude tardi nella notte.
-Forse è pesante, piena d’amore.
-Piena d’amore.  
-
-O forse il mare spinge follemente contro la terra,  
-con [[motifs/love|amore]], con [[motifs/love|amore]].  
-
-Oh, [[motifs/night|notte]]. Non vedo forse la mia [[motifs/love|amore]] muoversi tra le onde?  
-Che cos’è quella piccola cosa nera che vedo lì, nel bianco?  
-
-Ad alta voce! ad alta voce!  
-Ad alta voce ti chiamo, mio [[motifs/love|amore]]!  
-Alto e chiaro lancio la mia voce sopra le onde;  
-Di certo devi sapere chi è qui. Devi sapere chi sono io, mio [[motifs/love|amore]].  
-
-[[motifs/moon|Luna]] bassa sull’orizzonte.
-Che cos’è quella macchia scura sul tuo colore marrone-giallo?  
-Oh, è la forma, la forma della mia amata.
-Oh [[motifs/moon|luna]], non allontanarla più da me.  
-
-Terra! Terra! Oh terra.
-In qualunque direzione mi volti, penso che tu potresti restituirmi la mia compagna.
-Se solo lo volessi.
-Perché sono quasi certo di vederla, anche se in modo sfocato, ovunque guardi.  
-
-Oh, stelle che sorgono. Forse quella che desidero così tanto sorgerà, sorgerà insieme a qualcuno di voi.  
-
-Oh gola. Oh gola tremante!  
-Risuona più chiaramente attraverso l’atmosfera.
-Penetra nei boschi, nella terra.
-Da qualche parte, qualcuno che ti ascolta deve essere proprio colui che desidero.  
-
-Cantate le canzoni natalizie!  
-Qui, solo nella notte, queste canzoni.
-Canzoni d’amore solitario. Canzoni di morte.
-Canzoni sotto quella luna gialla, pallida.
-O sotto quella luna sotto cui lei sembra quasi cadere nel mare.
-Oh, canzoni disperate e folli.  
-
-Ma sii dolce, taci!  
-Sii dolce, lasciami mormorare.
-Aspetta un attimo, o mare dal suono roco.
-Credo di aver sentito la mia compagna rispondermi da qualche parte.
-È così debole il suono. Devo rimanere immobile per ascoltare.
-Ma non del tutto immobile. Altrimenti potrebbe non venire subito da me.  
-
-Ecco la mia [[motifs/love|amore]]!  
-Eccomi qui! Proprio qui!  
-Con questa nota appena suonata ti annuncio la mia presenza,  
-Questo dolce richiamo è per te, la mia [[motifs/love|amore]], solo per te.  
-
-Non lasciatevi ingannare da altri luoghi;  
-quello è il suono del [[motifs/wind|vento]], non è la mia voce;  
-quello è il fruscio dell’acqua che schizza,  
-quelle sono le ombre delle [[motifs/leaves|foglie]].  
-
-Oh oscurità… Oh vanità!  
-Oh, sono molto malato e pieno di dolore.  
-
-Oh, quel alone marrone nel cielo vicino alla [[motifs/moon|luna]], che si abbassa sul mare.
-Oh, quella riflessione turbata nell’acqua.
-Oh, gola. Oh, cuore che batte forte.
-E io che canto inutilmente, per tutta la [[motifs/night|notte]].  
-
-Oh pasto! Oh vita felice! Oh canti di gioia!  
-Nell’aria, nei boschi, sui campi.
-Amato! amato! amato! amato! amato!  
-Ma il mio compagno non c’è più, non è più con me.
-Noi due insieme, più non siamo.  
-
-L’aria si abbassa,  
-tutto il resto continua: le [[motifs/stars|stelle]] brillano,  
-i venti soffiano, i suoni dell’uccello risuonano incessantemente;  
-la feroce vecchia madre geme con rabbia senza sosta.
-Sulle spiagge grigie e fruscianti di Paumanok,  
-la mezza luna gialla si ingrandisce, si abbassa, quasi tocca il mare.
-Il ragazzo è estatico: i suoi piedi nudi giocano con le onde, i suoi capelli sembrano sfiorare l’atmosfera.
-L’amore, a lungo represso nel suo cuore, ora esplode con violenza.
-Il significato dell’aria viene rapidamente compreso dagli orecchi e dall’anima.
-Strane lacrime scorrono sulle sue guance.
-I loro dialoghi, il trio che si esprime. Il sottofondo sonoro.
-La feroce vecchia madre continua a piangere senza sosta.
-In risposta alle domande silenziose dell’anima del ragazzo, alcuni suoni segreti si mescolano al tutto.
-Per il bardo che canta lì.  
-
-Demone o uccello! (disse l’[[motifs/soul|'anima]] del ragazzo,)  
-È davvero per la tua compagna che canti? O forse è davvero per me?  
-Perché io, che un tempo ero quel [[archetypes/child|bambino]], avevo perso l’uso della lingua; ora che ti ho sentito,  
-Ora so finalmente a cosa sono destinato. Mi risveglio.
-E già mille cantanti, mille canti, più chiari, più forti, e più tristi del tuo,  
-Hanno preso vita dentro di me, per non morire mai.  
-
-O tu cantante solitario, che canti da solo, proiettando me stesso.
-O io, solitario ascoltatore, non smetterò mai di perpetuarti.
-Non fuggirò più; le eco, i gridi di un [[motifs/love|amore]] insoddisfatto non mi abbandoneranno mai.
-Non lasciarmi più essere quel tranquillo [[archetypes/child|bambino]] che ero prima.
-Lì, nella [[motifs/night|notte]], vicino al mare, sotto la luna gialla e pallida.
-Il messaggero è stato risvegliato. Il [[motifs/fire|fuoco]]. L’inferno dolce dentro di me.
-La fame sconosciuta. Il mio destino.  
-
-O dammi una pista! (Deve esserci da qualche parte nella [[motifs/night|notte]], )  
-O, se devo averne così tanto, allora dammene di più!  
-
-Allora una parola, (perché la conquisterò, )  
-La parola finale, superiore a tutte le altre.
-Sottile, che si eleva verso l’alto. Che cos’è? Ascolto.
-Forse la sussurri tu, e forse sei sempre stata tu, o onde del mare.
-È forse questa la parola che proviene dai tuoi bordi liquidi e dalle tue sabbie umide?  
-
-Rispondendomi, il mare,  
-senza indugiare né affrettarsi,  
-mi sussurrò attraverso la [[motifs/night|notte]],] chiarissimamente prima dell’alba;  
-mormorò a me la parola dolce e bassa di [[motifs/death|morte]],  
-e ancora “morte”, “morte”, “morte”.
-Sibilando in modo melodioso, né come un uccello né come il cuore del mio bambino sveglio;  
-si avvicinava silenziosamente, frusciando ai miei piedi,  
-strisciando lentamente verso le mie orecchie e accarezzandomi dolcemente in tutto il corpo.
-[[motifs/death|Morte]], [[motifs/death|morte]], [[motifs/death|morte]], [[motifs/death|morte]], [[motifs/death|morte]].  
-
-Non lo dimentico mai.  
-Ma fonde la -canzone del mio demone oscuro e del mio fratello,  
-Quella che mi cantò alla luce della luna sulla spiaggia grigia di Paumanok,  
-Con le migliaia di altre canzoni che risuonavano intorno,  
-Le mie stesse -canzoni che si risvegliarono da quel momento.
-E con esse, la chiave, la parola che emergeva dalle onde,  
-La parola della più dolce delle -canzoni e di tutte le altre canzoni.
-Quella parola forte e deliziosa che, avvicinandosi ai miei piedi,  
-(Come una vecchia [[archetypes/crone|nonna]] che culla un bambino, avvolta in vestiti dolci, si china su di me, )  
-Il mare me la sussurrò.
-
 
 
 <span class="atom-split" data-atom="108_the_world_below_the_brine" data-title="The World below the Brine" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/nature,motif/animals,motif/water,concept/immortality,form/free_verse,cluster/sea,cluster/water"></span>
@@ -549,13 +312,6 @@ The change onward from ours to that of beings who walk other spheres.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: SEA-DRIFT_  
-
-
-Il mondo al di sotto del sale marino: foreste sul fondo del mare, rami e foglie; lattuga marina, vasti licheni, strani fiori e semi; fitte macchie di vegetazione e tappeti rosa. Colori diversi: grigio pallido, verde, viola, bianco, oro. Il gioco della luce nell’acqua. Molti animali che nuotano in quelle profondità, tra rocce, coralli e alghe; cibo per questi esseri. Esistenze lente e pigre, che si muovono lentamente vicino al fondo. La balena spermatica che esala aria e schiuma dalla superficie, che gioca con le sue pinne. Lo squalo dagli occhi cupi, il tricheco, la tartaruga, la foca marina pelosa. Passioni, guerre, cacci, tribù. La vita in quelle profondità marine. Il passaggio da quel mondo a questo, e all’aria più leggera che respiriamo noi esseri umani su questa sfera. E ancora, il passaggio da noi a creature che vivono su altre sfere.
-
 
 
 <span class="atom-split" data-atom="112_after_the_sea_ship" data-title="After the Sea-Ship" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/water,motif/wind,form/free_verse,form/lyric,setting/a_ship,cluster/sea,cluster/water"></span>
@@ -582,25 +338,6 @@ Following the stately and rapid [[motifs/ship|ship]], in the wake following.
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: SEA-DRIFT_  
-
-
-Dopo la nave marina, dopo i venti che sibilano,  
-dopo le vele bianco-grigie tese sui loro alberi e corde,  
-sotto di esse, un’infinità di onde si affrettano, sollevando il proprio “collo”,  
-fluendo incessantemente verso la traccia della nave.
-Onde dell’oceano che schiumano e gorgogliano, curiose e gioiose.
-Onde ondulate, liquide, irregolari, competitive.
-Verso quel vortice di corrente, ridendo e galleggiando, con le loro curve.
-Là dove la grande nave naviga e cambia rotta, sollevando le acque intorno a sé.
-Onde più grandi e più piccole, che nel vasto oceano scorrono con desiderio.
-La scia lasciata dalla nave marina, dopo che è passata.
-Scintillante e giocosa sotto il sole.
-Una processione variegata, composta da schizzi di schiuma e frammenti d’acqua.
-Che segue, con dignità e rapidità, la maestosa nave.
 
 
 
@@ -656,51 +393,6 @@ Wash’d on [[settings/america|America]]’s shores?
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cluster: [[motifs/autumn|AUTUNNO]] RIVULETTI_
-
-
-In seguito alle piogge estive,  
-o ai ruscelli capricciosi che scorrono in autunno,  
-oppure alle reti formate dai ruscelli bordati di erbe,  
-o ancora ai sotterranei corsi d’acqua che portano al mare,  
-canto le canzoni degli anni che passano.
-
-I rapidi della vita, sempre in continua evoluzione, presto si fonderanno
-con i vecchi corsi d’acqua della [[motifs/death|morte]].
-
-Alcuni scorrono attraverso i campi agricoli dell’Ohio o tra i boschi;  
-alcuni discendono lungo le valli del Colorado, provenienti dalle sorgenti di neve perpetua;  
-alcuni si nascondono nelle zone dell’Oregon o proseguono verso sud, nel Texas;  
-altri, verso nord, raggiungono Erie, Niagara, Ottawa;  
-e ancora altri arrivano fino alle baie dell’Atlantico, per poi confluire nella grande salina marina.
-
-In chiunque tu sia che legga il mio libro,  
-in me stesso, in tutto il mondo, questi flussi scorrono,  
-tutti diretti verso quell’oceano mistico.
-
-Correnti che danno vita a un nuovo continente,  
-Inviti inviati alla materia solida nata dal liquido,  
-Fusione di oceano e terra, onde tenere e pensierose.
-(Ma non solo sicure e pacifiche: anche onde tumultuose e minacciose,  
-Che emergono dalle profondità. Chi sa da dove vengono?  
-Si scatenano su vasti spazi, distruggendo alberi maestri e vele lacerate.)
-
-O forse dal mare del [[motifs/time|Tempo]], che tutto inghiotte, io raccolgo
-un mucchio di erbacce e conchiglie trasportate dal vento.
-
-O piccole conchiglie, così curiose e complesse, così limpide e silenziose.
-Non vorrete forse, tenute contro le tempie, suscitare mormori ed echi,  
-Rievocando la musica dell’[[concepts/eternity|eternità]], debole e lontana?  
-Portate verso l’interno dei continenti, provenienti dai margini dell’Atlantico.
-Suonate come armonie per l’anima delle praterie,  
-Come sussurri che risuonano gioiosamente nell’Ovest.
-I vostri messaggi sono antichi, eppure sempre nuovi e inesprimibili.
-Infinitesimali frammenti della mia vita, e di molte altre vite.
-(Perché non solo la mia vita e i miei anni dono, tutto ciò che ho dono, )  
-Questi resti provenienti dalle profondità marine, gettati sulla riva dell’[[settings/america|America]].
-
 
 
 <span class="atom-split" data-atom="254_a_paumanok_picture" data-title="A Paumanok Picture" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/water,concept/the_common_man,form/fragment,setting/the_sea,cluster/sea,cluster/water"></span>
@@ -724,16 +416,6 @@ the green-back’d spotted mossbonkers.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Due barche con le reti allineate sulla riva del mare, completamente immobili;  
-dieci pescatori in attesa, scoprono un grosso banco di quegli animali dal dorso verde e maculato.  
-Lanciano le estremità delle reti nell’acqua; le barche si separano e remano verso la riva, circondando completamente il banco di pesci.  
-Le reti vengono tirate a riva con l’aiuto di una carrucola da coloro che sono rimasti sulla terraferma.  
-Alcuni pescatori si sdraiano sulle barche; altri stanno in piedi, con l’acqua fino alle caviglie, appoggiati su gambe forti e salde.  
-Le barche vengono parzialmente tirate a riva; l’acqua batte contro di loro.  
-Sul fondo della spiaggia, quegli animali sono ammucchiati in mucchi disordinati, ben visibili fuori dall’acqua.
-
 
 
 <span class="atom-split" data-atom="295_paumanok" data-title="Paumanok" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/nature,concept/beauty,form/lyric,setting/the_sea,cluster/sea,cluster/water"></span>
@@ -755,18 +437,6 @@ Isle of the salty shore and breeze and brine!
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
-
-
-Bellezza del mare, distesa e riscaldata dal sole!  
-Da un lato, il tuo oceano interno ti accarezza, vasto e ricco di traffico marittimo:  
-navi a vapore, vele.
-Dall’altro lato, il vento dell’Atlantico ti sfiora, sia impetuoso che dolce; imponenti navi scivolano lontano nell’orizzonte.  
-Isola di freschi ruscelli e acqua potabile, aria salutare e suolo fertile!  
-Isola di coste salate, brezze fresche e sale marino.
-
 
 
 <span class="atom-split" data-atom="296_from_montauk_point" data-title="From Montauk Point" data-chapter="" data-kind="intro" data-tags="motif/the_sea,motif/nature,motif/birds,form/lyric,setting/the_sea,cluster/sea,cluster/water"></span>
@@ -786,16 +456,6 @@ Seeking the shores forever.
 
 
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
-
-
-Mi trovo come sul becco di un enorme aquila:  
-a est, il mare si estende all’infinito; vedo soltanto mare e cielo.
-Le onde che si infrangono, la schiuma, le navi in lontananza.
-Quel movimento incessante delle onde, quella loro ricerca continua delle rive.
 
 
 
@@ -920,117 +580,6 @@ The brain that shapes, the voice that chants this song.
 
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
-
-Il pilota nella nebbia  
-
-Navigare tra le rapide settentrionali, – Un vecchio ricordo del San Lorenzo.
-Un improvviso lampo di memoria ritorna, non so perché.
-Qui, ad aspettare l’alba, guardo da questa collina.
-Di nuovo è mattina: una fitta nebbia si mescola con l’aurora.
-Di nuovo il fragile veliero vacilla sotto la spinta delle onde; io proseguo,  
-tra rocce bagnate dalla schiuma che quasi mi toccano.
-Di nuovo noto dove, a poppa, quel giovane indiano timoniere  
-si staglia nella nebbia, con lo sguardo fiero e la mano sicura nel guidare il veliero.  
-
-
-
-[II] Se avessi potuto scegliere  
-
-Se avessi la possibilità di scegliere i più grandi bardi,  
-di ritrarre i loro volti maestosi e bellissimi per imitarli a piacimento,  
-Omero con tutte le sue guerre e i suoi guerrieri – [[characters/hector|Ettore]], [[characters/achilles|Achille]], [[characters/ajax|Ajax]] –  
-oppure il tormentato [[characters/hamlet|Hamlet]] e [[characters/othello|Othello]] di Shakespeare,  
-le belle donne descritte da Tennyson. Metri o arguzie eccellenti,  
-concetti raffinati da utilizzare in versi perfetti, tutto ciò che rende la poesia così deliziosa per i cantanti.
-Tutto questo lo scambierei volentieri con l’ondulazione di un’unica onda,  
-con il suo incanto trasferito a me.
-O anche solo con un tuo respiro sul mio verso,  
-affinché ne rimanga l’aroma.  
-
-
-
-[III] Flutti incessanti e inarrestabili  
-
-Tu flutti con un movimento incessante; tu sei la forza che compie tutto ciò!  
-Tu, questa forza invisibile, centripeta e centrifuga, che si estende attraverso lo spazio.
-Il rapporto tra sole, [[motifs/moon|luna]], terra e tutte le costellazioni.
-Quali messaggi ci invii tu dalle lontane [[motifs/stars|stelle]]? Quelli di Sirio? Di Capella?  
-Quale “cuore centrale” – e tu il suo battito – dà vita a tutto? Qual è questa infinita entità che unisce ogni cosa?  
-Quali sottili significati e indirezioni si nascondono in te? Quale “identità fluida e vasta” sei tu, quella che mantiene l’universo intero come un unico insieme, come se navigasse su una [[motifs/ship|navicella]]?  
-
-
-
-[IV] L’ultima ondata e il calare della luce del giorno  
-
-Alla fine della marea bassa, mentre la luce del giorno svaniva,  
-il profumo fresco del mare si diffondeva verso terra, portando con sé gli odori dell’erba e del sale;  
-dai vortici dell’acqua salivano molte voci sommesse,  
-molti sospiri soffocati, molti singhiozzi e parole sussurrate.
-come se provenissero da persone lontane o nascoste.  
-
-Come si abbassano e scompaiono! come mormorano.
-Poeti senza nome – gli artisti più grandi di tutti, con progetti d’amore perduti e amati,  
-L’indifferenza dell’[[motifs/love|Amore]], un [[characters/chorus|coro]] di lamentele dell’età, le ultime parole della [[concepts/hope|speranza]],  
-Il grido disperato di qualche [[concepts/suicide|suicidio]]. Lontano, verso il deserto infinito,  
-E mai più ritornare.  
-
-Allora, verso l’oblio!  
-Avanti, avanti, fate la vostra parte, o mare che si ritira, che si gonfia!  
-Avanti, nel vostro [[motifs/time|tempo]], voi furiose correnti!  
-
-
-
-[E] Eppure non tu, da solo.  
-
-Eppure non solo tu, solamente tu, crepuscolo e marea che si ritira.
-Né tu, o progetti perduti, né fallimenti, né aspirazioni.
-So, o divini ingannatori, quanto il vostro fascino appaia reale.
-Voi, soltanto voi, fate sì che la marea e la luce ritornino.
-Voi, soltanto voi, regolate il movimento delle ruote del destino.
-Voi, soltanto voi, equilibrate le parti discordanti, le fuse insieme.
-Da voi, dall’[[motifs/sleep|Sonno]], dall’[[motifs/night|Notte]], persino dalla [[motifs/death|Morte]] stessa,  
-si tesse il ritmo eterno della Nascita.  
-
-
-
-[VI] Con orgoglio arriva la piena  
-
-Con orgoglio la piena arriva, gridando, schiumando, avanzando;  
-A lungo si ferma in alto, con il suo petto ampio che si dilata;  
-Le fattorie, i boschi, le strade delle città, gli operai al lavoro;  
-Vele principali, vele di trinchetto, vele di maestra appaiono all’orizzonte.
-I pennoni dei vapori, avvolti nella nebbia del fumo.
-E sotto il sole del pomeriggio,  
-Carichi di vite umane, felicemente si dirigono verso l’esterno, felicemente verso l’interno.
-Da molte alberature sventola la [[motifs/flag|bandiera]] che io amo.  
-
-
-
-[VII] Attraverso quel lungo osservare le onde  
-
-Quel lungo esame delle onde mi fece tornare indietro nel tempo, riflettere su me stesso:  
-su ogni cresta di quelle onde c’era luce o ombra ondulante, ricordi, gioie, viaggi, studi, scene effimere.
-La lunga guerra del passato, le battaglie, i luoghi d’ospedale, i feriti e i morti.
-Io stesso, attraverso tutte quelle fasi della mia vita: la mia giovinezza sprecata, l’età avanzata ormai alle porte.
-I miei trent’anni di vita, e ancora di più, tutto ciò passato.
-Tutti questi tentativi guidati da grandi ideali, alla fine, nulla.
-Eppure, forse, in questo vasto disegno di Dio, c’è ancora qualcosa.
-una onda, o parte di un’onda.
-Come una delle tue onde, oceano immenso e infinito.  
-
-
-
-[VIII] E infine…  
-
-Infine, preso da queste rive, da questa  collina,  
-viene il misterioso significato umano delle maree:  
-solo attraverso la vostra legge, il vostro flusso e il vostro riflusso,  
-che mi avvolgono anch’io,  
-il cervello che dà forma, la voce che canta questa  canzone.
-
 
 
 <span class="atom-split" data-atom="322_old_salt_kossabone" data-title="Old Salt Kossabone" data-chapter="" data-kind="intro" data-tags="archetype/wise_old_man,motif/the_sea,motif/death,motif/the_window,motif/memory,concept/mortality,form/narrative_poem,setting/a_ship,cluster/sea,cluster/water"></span>
@@ -1063,11 +612,3 @@ Dutch Kossabone, Old Salt, related on my mother’s side, far back.
 
 
 
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-_Cluster: Sabbie a settanta_  
-
-
-Lontano nel tempo, da parte di mia madre, c’era un uomo chiamato Old Salt Kossabone. Vi racconterò come morì: era stato marinaio per tutta la vita; aveva quasi 90 anni e viveva con sua nipote sposata, Jenny. Vivevano in una casa su una collina, con vista sulla baia, sul promontorio lontano e sull’orizzonte aperto del mare. Negli ultimi anni della sua vita, ogni pomeriggio e sera si sedeva nella sua grande poltrona accanto alla finestra, a osservare le navi che arrivavano e partivano. A volte restava lì per metà giornata. Un giorno, mentre una nave faceva fatica ad attraversare le correnti contrarie, alla fine, al calar della notte, trovò finalmente la direzione giusta; virò rapidamente attorno al promontorio e, nella penombra, proseguì verso il suo destino. Queste furono le sue ultime parole. Quando Jenny entrò, lo trovò già morto. Old Salt Kossabone, un uomo legato alla mia famiglia da generazioni lontane.

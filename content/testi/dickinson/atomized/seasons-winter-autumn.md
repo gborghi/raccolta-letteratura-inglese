@@ -25,18 +25,6 @@ Lest I sh'd seem old fashioned
 I'll put a trinket on!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Le mattine sono più miti di un tempo -  
-Le noci si fanno brune -  
-La guancia della bacca è più paffuta -  
-La [[motifs/rose|Rosa]] è fuori città -
-
-L'acero porta una sciarpa più gaia -  
-Il campo - una veste scarlatta -  
-Perché io non sembri fuori moda  
-Mi metterò un monile!
-
 
 
 <span class="atom-split" data-atom="0099_new_feet_within_my_garden_go" data-title="99. New feet within my garden go —" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,motif/garden,motif/seasons,motif/spring,motif/sleep,motif/birds,concept/mortality,concept/transience,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -52,18 +40,6 @@ New weary [[motifs/sleep|sleep]] below ;
 And still the pensive [[motifs/spring|spring]] returns,  
 And still the punctual [[motifs/snow|snow]] !
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Nuovi piedi nel mio [[motifs/garden|giardino]] vanno,  
-Nuove dita smuovono la zolla ;  
-Un trovatore sull'olmo  
-Tradisce la [[concepts/solitude|solitudine]].  
-
-Nuovi bambini giocano sul prato,  
-Nuovi stanchi nel [[motifs/sleep|sonno]] di sotto ;  
-E ancora la pensosa [[motifs/spring|primavera]] ritorna,  
-E ancora la puntuale [[motifs/snow|neve]] !
 
 
 
@@ -95,32 +71,6 @@ They consecrated bread to take
 And thine immortal wine!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Questi sono i giorni in cui gli [[motifs/birds|Uccelli]] tornano —  
-Pochissimi — un Uccello o due —  
-A dare uno sguardo indietro.  
-
-Questi sono i giorni in cui i cieli riprendono  
-I vecchi — vecchi sofismi di Giugno —  
-Un errore azzurro e oro.  
-
-Oh frode che non può ingannare l'Ape —  
-Quasi la tua plausibilità  
-Induce la mia fede.  
-
-Finché file di semi rendano testimonianza —  
-E piano attraverso l'aria mutata  
-Corra una timida foglia.  
-
-Oh Sacramento dei giorni d'[[motifs/summer|estate]],  
-Oh Ultima Comunione nella Foschia —  
-Permetti a un [[archetypes/child|bambino]] di unirsi.  
-
-I tuoi sacri emblemi condividere —  
-Il tuo pane consacrato prendere  
-E il tuo vino immortale!
-
 
 
 <span class="atom-split" data-atom="0131_besides_the_autumn_poets_sing" data-title="131. Besides the Autumn poets sing" data-chapter="" data-kind="intro" data-tags="motif/autumn,motif/seasons,motif/winter,motif/animals,concept/transience,concept/providence,concept/humility,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -147,28 +97,6 @@ Grant me, Oh Lord, a sunny mind —
 Thy windy will to bear!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Oltre l'[[motifs/autumn|Autunno]] i poeti cantano  
-Alcuni giorni prosaici  
-Un poco al di qua della [[motifs/snow|neve]]  
-E al di là della Foschia —  
-
-Alcuni Mattini incisivi —  
-Alcune Sere Ascetiche —  
-Andata — la "Verga d'Oro" di Mr. Bryant —  
-E i "covoni" di Mr. Thomson.  
-
-Quieto, è il brusio nel Ruscello —  
-Sigillate sono le valve speziate —  
-Dita mesmeriche toccano lievi  
-Gli Occhi di molti Elfi —  
-
-Forse uno scoiattolo rimarrà —  
-I miei sentimenti a condividere —  
-Concedimi, O Signore, una mente soleggiata —  
-La Tua ventosa volontà da sopportare!
-
 
 
 <span class="atom-split" data-atom="0221_it_cant_be_summer" data-title="221. It can't be &quot;Summer&quot;!" data-chapter="" data-kind="intro" data-tags="motif/seasons,motif/death,motif/winter,motif/white_and_red,concept/mortality,concept/paradox,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -185,19 +113,6 @@ The Dead shall go in White —
 So Sunset shuts my question down  
 With Cuffs of Chrysolite!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Non può essere "[[motifs/summer|Estate]]"!  
-Quella — è passata!  
-È presto — ancora — per la "[[motifs/spring|Primavera]]"!  
-C'è quella lunga città di Bianco — da [[motifs/cross|attraversare]] —  
-Prima che i Merli cantino!  
-Non può essere "Morire"!  
-È troppo Rouge —  
-I Morti andranno in Bianco —  
-Così il Tramonto chiude la mia domanda  
-Con Polsini di Crisolito!
 
 
 
@@ -230,33 +145,6 @@ Then stills its Artisans — like [[motifs/ghosts|Ghosts]] —
 Denying they have been —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Setaccia da Crivelli di Piombo —  
-Impolvera tutto il Bosco.  
-Riempie di Lana d'Alabastro  
-Le Rughe della [[motifs/road|Strada]] —  
-
-Fa un Volto Uniforme  
-Di Montagna, e di Pianura —  
-Fronte Ininterrotta dall'Est  
-Fino all'Est di nuovo —  
-
-Arriva fino allo Steccato —  
-Lo avvolge Traversa per Traversa  
-Finché si perde in Velli —  
-Dispensa Celeste Velo  
-
-A Ceppo, e Covone — e Stelo —  
-La Stanza vuota di un'[[motifs/summer|Estate]] —  
-Acri di Giunture, dov'erano i Raccolti,  
-Senza Memoria, se non per loro—  
-
-Increspa i Polsi dei Pali  
-Come Caviglie di una [[characters/queen|Regina]] —  
-Poi acquieta i suoi Artigiani — come [[motifs/ghosts|Spettri]] —  
-Negando che siano mai stati —
-
 
 
 <span class="atom-split" data-atom="0332_there_are_two_ripenings_one_of_sight" data-title="332. There are two Ripenings — one — of sight —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/autumn,motif/nature,motif/seasons,concept/innocence_and_experience,concept/transience,form/epigram,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -271,17 +159,6 @@ A process in the Bur —
 That teeth of Frosts alone disclose  
 In far October Air.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Ci sono due Maturazioni — una — di vista —  
-Le cui forze in Sfera [[motifs/wind|s'avvolgono]]  
-Finché il prodotto di Velluto  
-Non cada speziato al suolo —  
-Una maturazione più umile —  
-Un processo dentro il Riccio —  
-Che denti di Geli soltanto dischiudono  
-Nella lontana Aria d'Ottobre.
 
 
 
@@ -314,33 +191,6 @@ Or Priests — adjust the Symbols —
 When Sacrament — is done —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Sarà [[motifs/summer|Estate]] — prima o poi.  
-Signore — con parasoli —  
-Gentiluomini a passeggio — con Bastoni —  
-E Bambine — con Bambole —  
-
-Tingeranno il pallido paesaggio —  
-Come un vivido Bouquet —  
-Benché sepolto fondo, nel Pario —  
-Il Villaggio giaccia — oggi —  
-
-I Lillà — chini da molti anni —  
-Ondeggeranno sotto il carico purpureo —  
-Le [[motifs/bees|Api]] — non disdegneranno la melodia —  
-Che i loro Antenati — hanno ronzato —  
-
-La [[motifs/rose|Rosa]] Selvatica — rosseggerà nella Palude —  
-L'Astro — sulla [[motifs/hill|Collina]]  
-La sua moda eterna — fisserà —  
-E le Genziane del Patto — s'incresperanno —  
-
-Finché l'[[motifs/summer|Estate]] ripiega il suo miracolo —  
-Come le Donne — fanno — con la Veste —  
-O i Sacerdoti — ricompongono i Simboli —  
-Quando il Sacramento — è compiuto —
-
 
 
 <span class="atom-split" data-atom="0403_the_winters_are_so_short" data-title="403. The Winters are so short —" data-chapter="" data-kind="intro" data-tags="motif/seasons,motif/winter,motif/birds,motif/water,concept/doubt,histref/the_bible,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -367,28 +217,6 @@ But Ararat's a Legend — now —
 And no one credits Noah —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Gli Inverni sono così brevi —  
-A stento sono giustificata  
-Nel mandar via tutti gli [[motifs/birds|Uccelli]] —  
-E nel trasferirmi in un Baccello —  
-
-Io stessa — appena sistemata —  
-I Febi hanno cominciato —  
-E allora — è [[motifs/time|tempo]] di levare la mia Tenda —  
-E aprire Casa — di nuovo —  
-
-Sono per lo più, interruzioni —  
-La mia [[motifs/summer|Estate]] — è depredata —  
-Perché ci fu un [[motifs/winter|Inverno]] — una volta —  
-E tutto il Bestiame — morì di fame —  
-
-E così ci fu un Diluvio —  
-E spazzò via il Mondo —  
-Ma l'Ararat è una Leggenda — ormai —  
-E nessuno crede a Noè —
-
 
 
 <span class="atom-split" data-atom="0442_god_made_a_little_gentian" data-title="442. God made a little Gentian —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/flowers,motif/rose,motif/autumn,motif/seasons,concept/humility,concept/faith,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -409,23 +237,6 @@ The Tyrian would not come
 Until the North — invoke it —  
 Creator — Shall I — bloom?
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-[[characters/god|Dio]] fece una piccola Genziana —  
-Provò — a essere una [[motifs/rose|Rosa]] —  
-E fallì — e tutta l'[[motifs/summer|Estate]] rise —  
-Ma poco prima delle Nevi  
-
-Ecco [[motifs/rose|sorse]] una Creatura Purpurea —  
-Che rapì tutta la [[motifs/hill|Collina]] —  
-E l'[[motifs/summer|Estate]] nascose la Fronte —  
-E lo Scherno — tacque —  
-
-I Geli erano la sua condizione —  
-Il Tirio non sarebbe giunto  
-Finché il Nord — non lo invochi —  
-Creatore — Io — fiorirò?
 
 
 
@@ -463,38 +274,6 @@ How just this [[motifs/time|time]], some perfect year —
 Themself, should come to me —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Fu proprio in questo [[motifs/time|tempo]], l'anno scorso, che morii.  
-So che sentii il Granturco,  
-Quando fui portata oltre le Fattorie —  
-Aveva i Pennacchi —  
-
-Pensai come giallo sarebbe apparso —  
-Quando [[characters/richard|Richard]] fosse andato al mulino —  
-E allora, volli uscire,  
-Ma qualcosa trattenne la mia volontà.  
-
-Pensai proprio come Rosse — le Mele incuneate  
-Fra le giunture della Stoppia —  
-E i Carri chini intorno ai campi  
-A raccogliere le Zucche —  
-
-Mi chiesi a chi sarei mancata, meno,  
-E quando il Ringraziamento, fosse giunto,  
-Se il Padre avrebbe moltiplicato i piatti —  
-Per fare una Somma pari —  
-
-E se avrebbe velato la gioia di [[motifs/christmas|Natale]]  
-La mia Calza appesa troppo in alto  
-Perché alcun Babbo Natale raggiunga  
-L'Altitudine di me —  
-
-Ma questa sorta, mi affliggeva,  
-E così, pensai all'inverso,  
-Come proprio in questo [[motifs/time|tempo]], in qualche anno perfetto —  
-Loro stessi, verrebbero da me —
-
 
 
 <span class="atom-split" data-atom="0511_if_you_were_coming_in_the_fall" data-title="511. If you were coming in the Fall," data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/time,motif/seasons,motif/autumn,concept/unrequited_love,concept/love_romantic,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -525,32 +304,6 @@ It goads me, like the goblin bee,
 That will not state its sting.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Se tu venissi in autunno,  
-Scaccerei via l'[[motifs/summer|estate]]  
-Con mezzo sorriso e mezzo sdegno,  
-Come fanno le massaie con una mosca.  
-
-Se potessi vederti fra un anno,  
-[[motifs/wind|Avvolgerei]] i mesi in gomitoli,  
-E li riporrei ciascuno in cassetti separati,  
-Finché il loro [[motifs/time|tempo]] non giunga.  
-
-Se solo di secoli tardassi,  
-Li conterei sulla mano,  
-Sottraendo finché le dita cadessero  
-Nella terra di Van Diemen.  
-
-Se certa, quando questa vita finisse,  
-Che la tua e la mia dovessero essere,  
-La getterei lontano come una buccia,  
-E gusterei l'[[concepts/eternity|eternità]].  
-Ma ora, del tutto ignara della lunghezza  
-Dell'ala incerta del [[motifs/time|tempo]],  
-Mi pungola, come l'ape folletto,  
-Che non dichiara il suo pungiglione.
-
 
 
 <span class="atom-split" data-atom="0562_conjecturing_a_climate" data-title="562. Conjecturing a Climate" data-chapter="" data-kind="intro" data-tags="motif/winter,motif/seasons,motif/sun,concept/melancholy,concept/imagination,concept/nostalgia,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -566,18 +319,6 @@ To palliate a Cold —
 Not obviated of Degree —  
 Nor erased — of Latitude —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Congetturare un Clima  
-Di Soli mai sospesi —  
-Aggiunge strazio all'[[motifs/winter|Inverno]] —  
-La Rabbrividente Fantasia volge  
-
-A un Paese fittizio  
-Per palliare un Freddo —  
-Non ovviato di Grado —  
-Né cancellato — di Latitudine —
 
 
 
@@ -622,45 +363,6 @@ One earns by measuring the [[motifs/grave|Grave]] —
 Then — measuring the [[motifs/sun|Sun]] —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il mio primo Giorno [[motifs/well|sano]] — dopo tanti infermi —  
-Chiesi di uscire all'aperto,  
-E prendere il Sole fra le mani,  
-E vedere le cose in Baccello —  
-
-Un 'bocciolo proprio quando entrai  
-A tentare la Sorte col [[motifs/pain|dolore]] —  
-Incerta se io stessa, o Lui,  
-Si sarebbe mostrato il più Forte.  
-
-L'[[motifs/summer|Estate]] si fece fonda, mentre lottavamo —  
-Lei ripose alcuni [[motifs/flowers|fiori]] —  
-E Altri dalle gote più Rosse — al loro posto —  
-Un modo tenero — illusorio —  
-
-D'ingannare Se stessa, pareva tentasse —  
-Come se davanti a un [[archetypes/child|bimbo]]  
-Che sfiorirà — Domani — Arcobaleni tesi  
-Potessero il Sepolcro, celare.  
-
-Diede una foggia alla Noce —  
-Legò i Cappucci ai Semi —  
-Sparse intorno vividi ritagli di Tinta —  
-E lasciò Fili del Brasile  
-
-Su ogni spalla che incontrava —  
-Poi entrambe le sue Mani di Foschia  
-Levò — a celare la sua Grazia d'addio  
-Ai nostri occhi inadatti.  
-
-La mia perdita, per malattia — Fu Perdita?  
-602  
-
-O quel Guadagno Etereo  
-Che si merita misurando la [[motifs/grave|Tomba]] —  
-Poi — misurando il [[motifs/sun|Sole]] —
-
 
 
 <span class="atom-split" data-atom="0656_the_name_of_it_is_autumn" data-title="656. The name — of it — is &quot;Autumn&quot; —" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/autumn,motif/seasons,motif/blood,motif/rose,motif/nature,concept/mortality,concept/transience,concept/beauty,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -681,23 +383,6 @@ It gathers ruddy Pools —
 Then — eddies like a [[motifs/rose|Rose]] — away —  
 Upon Vermilion Wheels —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il nome — di ciò — è "[[motifs/autumn|Autunno]]" —  
-La tinta — di ciò — è [[motifs/blood|Sangue]] —  
-Un'Arteria — sopra il [[motifs/hill|Colle]] —  
-Una Vena — lungo la [[motifs/road|Strada]] —  
-
-Grandi Globuli — nei Vicoli —  
-E Oh, lo Scroscio di Macchia —  
-Quando i Venti — rovesciano il Bacile —  
-E versano la [[motifs/rain|Pioggia]] Scarlatta —  
-
-Asperge Cuffie — laggiù in basso —  
-Raccoglie Pozze rubiconde —  
-Poi — mulina come una [[motifs/rose|Rosa]] — via —  
-Su Ruote Vermiglie —
 
 
 
@@ -735,38 +420,6 @@ Our Contract
 A Wiser [[concepts/sympathy|Sympathy]]
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Gli [[motifs/birds|Uccelli]] riferirono dal Sud —  
-Una Notizia espressa per Me —  
-Un Incarico speziato, Miei piccoli Corrieri —  
-Ma io sono sorda — Oggi —  
-
-I [[motifs/flowers|Fiori]] — supplicarono — timida Folla —  
-Io rinforzai la [[motifs/door|Porta]] —  
-Andate a fiorire per le [[motifs/bees|Api]] — dissi —  
-E non turbateMi — Mai più —  
-
-La Grazia dell'[[motifs/summer|Estate]], per un Cenno lottò —  
-Remota — la Sua migliore Parata —  
-Il Cuore — a stimolare l'Occhio  
-Rifiutò troppo assolutamente —  
-
-Infine, in Lutto, come Me,  
-Ella si ritrasse austera —  
-A meditare i Suoi geli — fu allora  
-Che Mi ricordai di Lei —  
-
-Ella Mi tollerò, perché avevo pianto —  
-Non Le offrii parola —  
-Il Mio Testimone — era il Crespo che portavo —  
-Il Suo — Testimone — erano i Suoi Morti —  
-
-Da allora — Noi — dimorammo insieme —  
-Io non La interrogai mai —  
-Il Nostro Contratto  
-Una più Saggia [[concepts/sympathy|Compassione]]
-
 
 
 <span class="atom-split" data-atom="0768_when_i_hoped_i_recollect" data-title="768. When I hoped, I recollect" data-chapter="" data-kind="intro" data-tags="motif/seasons,motif/winter,motif/the_window,motif/night,motif/birds,concept/hope,concept/despair,concept/melancholy,concept/memory_and_time,concept/fear,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -802,37 +455,6 @@ And put out her eye —
 [[motifs/memory|Memory]] and I —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Quando speravo, ricordo  
-Proprio il luogo dove stavo —  
-A una [[motifs/window|Finestra]] volta a Ovest —  
-L'Aria più aspra — era buona —  
-
-Nessun Nevischio poteva mordermi —  
-Nessun [[motifs/frost|gelo]] raffreddarmi —  
-Era la [[concepts/hope|Speranza]] a tenermi calda —  
-Non scialle di Merino —  
-
-Quando temevo — ricordo  
-Proprio il Giorno che era —  
-Mondi distesi al [[motifs/sun|Sole]] —  
-Eppure come gelava la [[concepts/nature|Natura]] —  
-
-Ghiaccioli sopra la mia [[motifs/soul|anima]]  
-Pungevano Azzurri e Freddi —  
-L'Uccello lodava ovunque —  
-Solo Io — ero immobile —  
-
-E il Giorno in cui disperai —  
-Questo — se io lo scordo  
-Lo farà la [[concepts/nature|Natura]] — che sia [[motifs/night|Notte]]  
-Dopo che il [[motifs/sun|Sole]] è tramontato —  
-Il Buio le intersechi il volto —  
-E le spenga l'occhio —  
-La [[concepts/nature|Natura]] esiti — dinanzi  
-Alla [[motifs/memory|Memoria]] e a me —
-
 
 
 <span class="atom-split" data-atom="0846_twice_had_summer_her_fair_verdure" data-title="846. Twice had Summer her fair Verdure" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,motif/seasons,motif/winter,motif/autumn,motif/birds,motif/time,concept/grief_and_loss,form/elegy,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -848,18 +470,6 @@ Bounteous prepared —
 [[concepts/nature|Nature]], Had'st thou not a Berry  
 For thy wandering Bird?
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Due volte l'[[motifs/summer|Estate]] il suo bel Verde  
-Aveva offerto al Piano —  
-Due volte una Frattura d'argento d'[[motifs/winter|Inverno]]  
-Sui Fiumi era stata —  
-
-Due Autunni pieni per lo Scoiattolo  
-Generosa preparò —  
-[[concepts/nature|Natura]], non avevi Tu una Bacca  
-Per il tuo Uccello errante?
 
 
 
@@ -877,18 +487,6 @@ We just reverse the Zodiac
 And fetch the Acres in.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-I Prodotti della mia Fattoria son questi  
-sufficienti per i Miei  
-e qua e là un Beneficio  
-al Granaio d'un Vicino.  
-
-Da Noi, è Raccolto tutto l'Anno  
-ché quando i Geli cominciano  
-noi solo invertiamo lo Zodiaco  
-e portiamo dentro gli Acri.
-
 
 
 <span class="atom-split" data-atom="1051_i_cannot_meet_the_spring_unmoved" data-title="1051. I cannot meet the Spring unmoved —" data-chapter="" data-kind="intro" data-tags="motif/spring,motif/seasons,motif/nature,concept/melancholy,concept/transience,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -904,18 +502,6 @@ With something hid in Her —
 And as she vanishes, Remorse  
 I saw no more of Her.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Non posso incontrare la [[motifs/spring|Primavera]] impassibile —  
-Sento l'antico [[motifs/desire|desiderio]] —  
-Una Fretta mista a un indugio,  
-Un Mandato a esser bella —  
-
-Una Gara dentro il mio senso  
-Con qualcosa in Lei nascosto —  
-E come svanisce, Rimorso  
-Non vidi più nulla di Lei.
 
 
 
@@ -960,45 +546,6 @@ The Cricket is Her utmost
 Of [[forms/elegy|Elegy]], to Me -
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Più addentro nell'[[motifs/summer|Estate]] che gli [[motifs/birds|Uccelli]] -  
-Patetica dall'Erba -  
-Una Nazione Minore celebra  
-La sua discreta Messa -  
-
-Nessun Rito si vede -  
-Così graduale la Grazia  
-Una pensosa Consuetudine diviene  
-Che allarga la [[concepts/loneliness|Solitudine]] -  
-
-È più Udibile, al Crepuscolo -  
-Quando il tentativo del Giorno è compiuto -  
-E la [[concepts/nature|Natura]] nulla attende di fare  
-Se non terminare in Melodia -  
-
-Né differenza conosce  
-Di Cadenza, o di Pausa -  
-Ma simultaneo come Uguale -  
-L'Ufficio enfatizza -  
-
-Né so quando cessi -  
-Alle Candele, è qui -  
-Quando l'Alba è - allora non è -  
-Oltre questo, non so di più -  
-
-La Terra ha molte chiavi -  
-Dove Melodia non è  
-È la Penisola Sconosciuta -  
-La [[concepts/beauty|Bellezza]] - è il Fatto della [[concepts/nature|Natura]] -  
-
-Ma Testimone per la Sua Terra -  
-1113  
-
-E Testimone per il Suo [[motifs/sea|Mare]] -  
-Il Grillo è il Suo estremo  
-Di [[forms/elegy|Elegia]], per Me -
-
 
 
 <span class="atom-split" data-atom="1115_the_murmuring_of_bees_has_ceased" data-title="1115. The murmuring of Bees, has ceased" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/seasons,motif/autumn,motif/insects,concept/transience,form/lyric,histref/the_bible,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -1022,25 +569,6 @@ More intimate with us become
 Than Persons, that we know.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il mormorio delle [[motifs/bees|Api]], è cessato  
-Ma il mormorio di alcuni  
-Posteriori, profetici,  
-È giunto simultaneo.  
-I metri più bassi dell'Anno  
-Quando il riso della [[concepts/nature|Natura]] è finito  
-Le Rivelazioni del [[motifs/the-book|Libro]]  
-La cui Genesi fu giugno.  
-Creature appropriate al suo mutare  
-Manda la Madre Tipica  
-Come l'Accento sfuma in intervallo  
-Fra Amici che si separano  
-Finché ciò che congetturiamo, è stato  
-E pensieri che non mostreremo  
-Ci divengono più intimi  
-Delle Persone, che conosciamo.
-
 
 
 <span class="atom-split" data-atom="1140_the_day_grew_small_surrounded_tight" data-title="1140. The Day grew small, surrounded tight" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/nature,motif/seasons,motif/autumn,motif/winter,motif/night,motif/wind,concept/transience,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -1055,17 +583,6 @@ The [[motifs/leaves|Leaves]] obtained excuse —
 November hung his Granite Hat  
 Upon a nail of Plush —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il Giorno si fece piccolo, serrato stretto  
-Dalla precoce, curva [[motifs/night|Notte]] —  
-Il Pomeriggio nella Sera fonda  
-Lasciò cadere la sua Gialla brevità —  
-I Venti uscirono per le loro vie marziali  
-Le [[motifs/leaves|Foglie]] ottennero congedo —  
-Novembre appese il suo Cappello di Granito  
-A un chiodo di Felpa —
 
 
 
@@ -1082,18 +599,6 @@ As positive are we
 As Limit of Dominion  
 Or Dams — of Ecstasy —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il pungente atomo nell'Aria  
-Non ammette debate —  
-Tutto ciò che ha nome dai Giorni d'[[motifs/summer|Summer]]  
-Ha abbandonato la nostra Tenuta —  
-
-Di quale Dipartimento di Delizia  
-Siamo noi altrettanto certi  
-Quanto del Limite del Dominio  
-O delle Dighe — dell'Estasi —
 
 
 
@@ -1113,20 +618,6 @@ The Apple in the Cellar snug
 Was all the one that played.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Come Scope d'Acciaio  
-La [[motifs/snow|Neve]] e il [[motifs/wind|Vento]]  
-Avevano spazzato la Strada d'[[motifs/winter|Inverno]] —  
-La Casa era sprangata  
-Il [[motifs/sun|Sole]] inviava  
-Fievoli Delegati di Calore —  
-Dove cavalcava l'Uccello  
-Il [[motifs/silence|Silenzio]] legò  
-Il suo ampio — arrancante Destriero  
-La Mela nella Cantina al riparo  
-Era la sola che giocava.
-
 
 
 <span class="atom-split" data-atom="1271_septembers_baccalaureate" data-title="1271. September's Baccalaureate" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,topos/book_of_nature,motif/autumn,motif/seasons,motif/wind,motif/animals,concept/melancholy,concept/transience,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -1142,18 +633,6 @@ An Innuendo sear
 That makes the Heart put up its Fun  
 And turn Philosopher.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il Baccalaureato di Settembre  
-Una combinazione è  
-Di Grilli — Corvi — e Retrospetti  
-E una Brezza dissimulatrice  
-
-Che allude senza presumere —  
-Un'Insinuazione riarsa  
-Che fa al Cuore riporre il suo Svago  
-E volgersi Filosofo.
 
 
 
@@ -1175,23 +654,6 @@ Forever — until May —
 Forever is deciduous  
 Except to those who die —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-L'[[motifs/summer|Estate]] ha due Inizi —  
-Iniziando una volta in Giugno —  
-Iniziando in Ottobre  
-Toccantemente ancora —  
-
-Senza, forse, il Tripudio  
-Ma più vivida per Grazia —  
-Come più fine è un andarsene  
-Che un Volto che rimane —  
-
-Partendo allora — per sempre —  
-Per sempre — fino a Maggio —  
-Per sempre è deciduo  
-Tranne per quelli che muoiono —
 
 
 
@@ -1219,28 +681,6 @@ Fidelity is gain
 Creation is o'er —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La Genziana ha una Corolla riarsa —  
-Come azzurro essiccato  
-Sono i succhi vivaci della [[concepts/nature|Natura]]  
-Beatificati —  
-Senza vanto né lustro  
-Casuale come [[motifs/rain|Pioggia]]  
-E altrettanto benigna —  
-
-Quando i più sono partiti — essa viene —  
-Né isolata sembra  
-Il suo Vincolo il suo Amico —  
-A compiere la sua carriera Frangiata  
-E aiutare d'un Anno annoso  
-L'abbondante fine —  
-
-La sua sorte — fosse dimenticata —  
-Questa [[concepts/truth|Verità]] renda cara —  
-Fedeltà è guadagno  
-La Creazione è finita —
-
 
 
 <span class="atom-split" data-atom="1471_their_barricade_against_the_sky" data-title="1471. Their Barricade against the Sky" data-chapter="" data-kind="intro" data-tags="motif/autumn,motif/seasons,motif/decay,motif/nature,concept/war_and_its_cost,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -1262,23 +702,6 @@ The Wound that was not Wound nor Scar
 But Holidays of War
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La loro Barricata contro il Cielo  
-Gli Alberi marziali ritirano  
-E con una [[motifs/flag|Bandiera]] a ogni svolta  
-I loro Eserciti non sono più.  
-
-Quali Rossicce Soste nella Marcia della [[concepts/nature|Natura]]  
-Essi indichino o causino  
-Un'inferenza di Messico  
-Cancella la Congettura —  
-
-Ricorrente alla Mente di Poi  
-Quel Massacro d'Aria —  
-La Ferita che non fu Ferita né Cicatrice  
-Ma Feste di Guerra
-
 
 
 <span class="atom-split" data-atom="1498_glass_was_the_street_in_tinsel_peril" data-title="1498. Glass was the Street — in tinsel Peril" data-chapter="" data-kind="intro" data-tags="motif/winter,motif/childhood,motif/memory,concept/nostalgia,concept/memory_and_time,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -1294,18 +717,6 @@ Emphasized and gone
 It is the Past's supreme italic  
 Makes this Present mean —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Vetro era la Strada — in Periglio di lustrini  
-[[motifs/tree|Albero]] e Viandante stavano —  
-Colma era l'Aria di allegra ventura  
-Festosa di Ragazzi la [[motifs/road|Strada]] —  
-
-Guizzavano le agili Slitte come vibrazioni ferrate  
-Accentuate e svanite  
-È il corsivo supremo del Passato  
-Che fa meschino questo Presente —
 
 
 
@@ -1323,18 +734,6 @@ The Cricket drops a sable line
 No more from yours at present
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La Ghiandaia ha battuto la sua Nacchera  
-Metti il tuo manicotto per l'[[motifs/winter|Inverno]]  
-La Stola che ignora la sua voce  
-È impudente verso la [[concepts/nature|natura]]  
-
-Dei Giorni Bruni egli è la chiusa  
-Il suo Loto è una castagna  
-Il Grillo cala una riga di zibellino  
-Nient'altro dal vostro al momento
-
 
 
 <span class="atom-split" data-atom="1756_twas_here_my_summer_paused" data-title="1756. 'Twas here my summer paused" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/seasons,concept/grief_and_loss,concept/transience,concept/love_romantic,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -1350,18 +749,6 @@ With [[motifs/winter|winter]] to abide
 Go manacle your icicle  
 Against your Tropic Bride.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Fu qui che la mia [[motifs/summer|estate]] si fermò  
-Quale maturità dopo di allora  
-Verso altra scena o altra [[motifs/soul|anima]]  
-La mia sentenza era iniziata.  
-
-All'[[motifs/winter|inverno]] trasferirsi  
-Con l'[[motifs/winter|inverno]] dimorare  
-Va' ad ammanettare il tuo ghiacciolo  
-Contro la tua Sposa Tropicale.
 
 
 
@@ -1384,23 +771,6 @@ Enchanting by remaining,
 And by departure more.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Fosse naturale dama mortale  
-Che avesse così poco [[motifs/time|tempo]]  
-Per fare il baule e disporre  
-Il gran cambio di clima —  
-
-Che rapidità, che gravità —  
-Quali urgenze sarebbero —  
-Ma la [[concepts/nature|natura]] sarà pronta  
-E avrà un'ora d'avanzo.  
-
-Per fare più bello qualche nonnulla  
-Che era già troppo bello —  
-Incantevole nel restare,  
-E nel partire ancor di più.
-
 
 
 <span class="atom-split" data-atom="l0044_mr_william_austin_dickinson_saturday_morn" data-title="To Mr. William Austin Dickinson, Saturday Morn" data-chapter="" data-kind="intro" data-tags="topos/paradise_lost,topos/tempus_fugit,motif/home,motif/fire,motif/autumn,concept/loneliness,concept/desire_and_longing,concept/transience,form/letter,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -1410,12 +780,6 @@ DEAR AUSTIN.—I've been trying to think this morning how many weeks it was sinc
 
 I [[concepts/hope|hope]] this year in Boston will not impair your health, and I [[concepts/hope|hope]] you will be as happy as you used to. be before. I don't [[concepts/wonder|wonder]] it makes you sober to leave this blessed air —if it were in my power I would on every morning transmit its purest breaths fragrant and cool to you. How I wish you could have it—a thousand little winds waft it to me this morning, fragrant with forest [[motifs/leaves|leaves]] and bright autumnal berries. I would be willing to give you my portion for to-day, and take the salt [[motifs/sea|sea]]'s breath in its bright, bounding stead. . . .
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Caro Austin, stamattina ho cercato di calcolare quante settimane fossero trascorse da quando te ne sei andato. Ma non riesco a farlo con precisione; mi sembra che sia passato un tempo infinito da quando sei tornato a scuola. Ho provato a contare i giorni degli anni, le settimane di decine di anni. Ma non riuscendo a misurare il tempo in minuti, non so proprio cosa pensare di queste grandi discrepanze tra le ore reali e quelle che “sembrano” trascorrere. Forse anche a te sembra un periodo lungo da quando sei tornato a Boston. Vorrei tanto che restassi qui e non te ne andassi mai più. Tutto è così tranquillo qui: le nuvole sono fredde e grigie. Penso che presto pioverà. Oh, quanto mi sento sola. Quella sera, mentre tornavi a Boston, faceva molto vento; ci siamo preoccupate molto per te, sperando che non ti raffreddassi. Il nostro fuoco ardeva così felicemente. Non ho potuto fare a meno di pensare a quanti erano qui e a quanti invece erano lontani. Quella lunga sera, ho desiderato tantissimo che la porta si aprisse e tu entrassi. La “casa” è una cosa sacra: nulla di dubbi o sfiducia può entrare nei suoi portali benedetti. Questo sentimento diventa sempre più forte man mano che il mondo continua a cambiare, e una persona dopo l’altra abbandona coloro in cui riponevamo la nostra fiducia. Qui, sembra davvero esistere un angolo di Eden che nessun peccato può distruggere completamente. Anche se è più piccolo e forse meno bello del resto del mondo, è comunque più bello e luminoso di tutto ciò che c’è là fuori.
-
-Spero che quest’anno a Boston non influisca negativamente sulla tua salute, e spero che tu sia felice come lo eri prima. Non mi meraviglio che lasciare quest’aria benedetta ti renda più sobrio: se fosse in mio potere, ogni mattina ti invierei i suoi respiri più puri, profumati e freschi. Quanto vorrei che tu potesseli avere. Questa mattina mille piccoli venti me li portano, profumati di foglie di foresta e frutti autunnali. Sarei disposto a darti la mia parte per oggi, e ad assumere al loro posto il respiro fresco e vivace del mare.
 
 
 
@@ -1429,14 +793,6 @@ Before next Tuesday—oh, before the coming stage, will I not brighten and brush
 You will find the blue hills, Austin, with the autumnal shadows silently sleeping on them, and there will be a glory lingering round the day, so you'll know [[motifs/autumn|autumn]] has been here; and the setting [[motifs/sun|sun]] will tell you, if you don't get [[motifs/home|home]] till evening. . . . I thank you for such a long [[forms/letter|letter]], and yet if I might choose, the next should be a longer. I think a [[forms/letter|letter]] just about three days long would make me happier than any other kind of one, if you please,—dated at Boston, but thanks be to our Father you may conclude it here. Everything has changed since my other [[forms/letter|letter]],—the doors are shut this morning, and all the kitchen wall is covered with chilly flies who are trying to warm themselves, —poor things, they do not understand that there are no [[motifs/summer|summer]] mornings remaining to them and me, and they have a bewildered air which is really very droll, didn't one feel sorry for them. You would say 'twas a gloomy morning if you were sitting here,—the [[motifs/frost|frost]] has been severe, and the few lingering [[motifs/leaves|leaves]] seem anxious to be going, and wrap their faded cloaks more closely about them as if to shield them from the chilly northeast [[motifs/wind|wind]]. The earth looks like some poor old lady who by dint of pains has bloomed e'en till now, yet in a forgetful moment a few silver hairs from out her cap come stealing, and she tucks them back so hastily and thinks nobody sees. The cows are going to pasture, and little boys with their hands in their pockets are whistling to try to keep warm. Don't think that the sky will frown so the day when you come [[motifs/home|home]]! She will smile and look happy, and be full of sunshine then, and even should she frown upon her [[archetypes/child|child]] returning, there is another sky, ever serene and fair, and there is another sunshine, though it be darkness there; never mind faded forests, Austin, never mind silent fields—here is a little forest, whose leaf is ever green; here is a brighter [[motifs/garden|garden]], where not a [[motifs/frost|frost]] has been; in its unfading [[motifs/flowers|flowers]] I hear the bright bee hum; prithee, my brother, into my [[motifs/garden|garden]] come!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-, La colazione è così calda, e Pussy canta qui vicino, anche la teiera sembra cantare, come se volesse vedere chi dei due canta più forte. Ho tanta paura che Kitty venga picchiata. Eppure un’[[archetypes/shadow|ombra]] cade sulla mia immagine mattutina. Dove è finito quel giovane così coraggioso, il più valoroso tra noi? C’è un posto vuoto qui. Spettri seduti nella tua sedia, che di tanto in tanto spingono papà con i loro gomiti lunghi e ossuti. Vorrei che fossi qui, caro Austin. La [[motifs/dust|polvere]] si accumula sul comò nella tua stanza deserta, e ragni allegri e frivoli tessono le loro tele negli angoli. Non vado lì dopo il tramonto, se posso evitarlo. Il crepuscolo sembra fermarsi lì. Ho paura. E se proprio devo andare, corro con tutte le mie forze, senza mai guardarmi indietro. Perché so chi vedrei.
-
-Prima del prossimo martedì, oh, prima di quella fase imminente, non illuminerò e pulirò tutto, non aprirò le tende da tempo chiuse, e con una scopa spazzerò via ogni ragno dal suo alto “nido”, dicendogli che può tornare quando il padrone se ne sarà andato. Oh, gli dirò di essere un ragno lento, di indugiare lungo la strada. E penserò che i miei occhi siano più luminosi del solito, anche se non so esattamente perché. Quando busserà alla finestra e tornerà a vivere con me. Sono così felice al pensiero che tu stia per arrivare che metto da parte il mio lavoro di cucito e vado in giardino a riflettere. Ho cercato di ritardare l’arrivo dei gelidi inverni, ho cercato di far durare più a lungo i fiori appassiti. Pensavo di poter trattenere alcune di quelle foglie rosse fino a quando tu non le avessi ammirate. Ma i loro compagni le chiamano, e loro non possono restare.
-
-Troverai quelle colline azzurre, Austin, con le ombre autunnali che vi riposano silenziosamente sopra; ci sarà una luce splendente che perdura per tutto il giorno, così saprai che l’[[motifs/autumn|autunno]] è già arrivato. E il tramonto del [[motifs/sun|sole]] te lo dirà, se non tornerai a [[motifs/home|casa]] fino alla sera. Grazie per questa lunga [[forms/letter|lettera]]; se potessi scegliere, la prossima sarebbe ancora più lunga. Penso che una lettera di circa tre giorni mi renderebbe molto più felice di qualsiasi altra. Vorrei che fosse datata da Boston, ma grazie a nostro Padre puoi anche scriverla qui. Tutto è cambiato da quando ti ho scritto l’ultima volta: stamattina le porte sono chiuse, e tutta la parete della cucina è coperta di mosche che cercano di riscaldarsi. Povere creature. Non capiscono che non ci saranno più mattine estive né per loro né per me. Hanno un’aria confusa. Che commovente. Diresti che sia una mattina triste, se fossi qui. La [[motifs/frost|brina]] è intensa; le poche foglie rimaste sembrano ansiose di andarsene, avvolgendo i loro vestiti sbiaditi più strettamente, come per proteggersi dal freddo vento del nord-est. La terra sembra una povera vecchia signora che, nonostante le difficoltà, è riuscita a fiorire fino ad ora. Ma in un momento di distrazione, qualche ciocca bianca dei suoi capelli “scivola” fuori. Lei la nasconde in fretta, pensando che nessuno se ne accorga. Le mucche stanno andando al pascolo; i bambini, con le mani in tasca, fischiano per scaldarsi. Non pensare che il cielo si rabbui quando arriverai a [[motifs/home|casa]]! Lei sorriderà, sembrerà felice. E anche se fosse triste per il tuo ritorno, c’è sempre un altro cielo, sereno e bello. C’è sempre un’altra luce. Anche se là fuori regna l’oscurità. Non pensare alle foreste appassite, Austin. Non pensare ai campi silenziosi. Qui c’è una piccola foresta i cui alberi sono sempre verdi. Qui c’è un giardino più luminoso, dove non è mai arrivata la [[motifs/frost|brina]]. Nei suoi fiori eterni sento il ronzio delle api. Per favore, mio fratello. Vieni nel mio [[motifs/garden|giardino]]!
-
 
 
 <span class="atom-split" data-atom="l0091_mrs_anthon" data-title="To Mrs. Anthon" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/autumn,motif/frost,motif/seed_and_germination,motif/nature,concept/metamorphosis,concept/transience,concept/the_natural_order,form/lyric,form/letter,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -1444,10 +800,6 @@ Troverai quelle colline azzurre, Austin, con le ombre autunnali che vi riposano 
 
 There are two ripenings, one of sight, Whose forces spheric [[motifs/wind|wind]], Until the velvet product Drops spicy to the ground. A homelier maturing, A process in the burr That teeth of frosts alone disclose On far October air.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Ci sono due tipi di maturazione: uno visivo, il cui processo è guidato dal vento circolare, fino a quando il frutto morbido e vellutato cade a terra. L’altro tipo di maturazione avviene in modo più lento e silenzioso, un processo che solo i gelidi venti d’ottobre riescono a rivelare.
 
 
 
@@ -1459,12 +811,6 @@ On the occasion of another friend's departure from Amherst after a visit, Emily'
 We'll pass without a parting, So to spare Certificate of absence, Deeming where I left her I could find her If I tried. This way I keep from missing Those who died.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-All’occasione della partenza di un altro amico da Amherst al termine di una visita, l’addio di Emily si concretizzò nelle seguenti parole, accompagnate da un bocciolo di oleandro legato con un nastro nero:
-
-Passeremo senza addii; così, per evitare di dover compilare un certificato di assenza, posso pensare che, da dove l’ho lasciata, riuscirò a trovarla se ci proverò. In questo modo evito di sentirmi in colpa per coloro che sono morti.
-
 
 
 <span class="atom-split" data-atom="l0112_dr_j_g_holland_and_mrs_holland" data-title="To Dr. J. G. Holland, and Mrs. Holland" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/autumn,motif/seasons,concept/transience,form/letter,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -1472,10 +818,6 @@ Passeremo senza addii; così, per evitare di dover compilare un certificato di a
 
 P. S. The bobolinks have gone.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-P.S. I bobolink se ne sono andati.
 
 
 
@@ -1503,28 +845,6 @@ A soldier called, a morning ago, and asked for a nosegay to take to battle. I su
 How sweet it must be to one to come [[motifs/home|home]], whose [[motifs/home|home]] is in so many houses, and every heart a “best room.” I mean you, Mr. Bowles. . . . Have not the clovers names to the [[motifs/bees|bees]]?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Caro signor Bowles, —Vinnie sta facendo affari con un venditore di stoviglie di latta: compra per me vasi d’acqua in cui piantare gerani, così quando tornerete a casa la prossima [[motifs/winter|inverno]], potrete farlo. Inoltre, lei è andata a combattere in guerra.
-
-L’[[motifs/summer|estate]] non dura più come una volta, quando ce ne stavamo lì a guardarla prima che tu te ne andassi; e quando finirò agosto, arriverà molto presto l’[[motifs/autumn|autunno]], e allora sarà di nuovo il tuo momento.
-
-Non so quanti saranno felici di vederti, perché non ho mai incontrato tutti i tuoi amici, ma ho sentito dire che nelle grandi città persone importanti ti hanno scelto. Anche se è più facile capire quanto saranno felici quelli che conosco.
-
-Le dico io, signor Bowles: è davvero una [[concepts/suffering|sofferenza]] avere un [[motifs/sea|mare]] – non importa quanto sia blu – tra la propria [[motifs/soul|'anima]] e sé stessi.
-
-Le colline che un tempo amavi quando eri a Northampton, sentono la mancanza del loro vecchio “amante”; se solo potessero parlare. E l’espressione perplessa sul viso di Carlo si approfondisce giorno dopo giorno, mentre tu non arrivi mai.
-
-Ora ho imparato a leggere le informazioni sui treni a vapore nei giornali. È “più o meno come stringerti la mano, o più precisamente come bussare alla tua [[motifs/door|porta]]”.
-
-Crediamo che il tuo arrivo sia segnato dai frutti: quando l'uva sarà matura, e anche le pesche e i castagni, quando i giorni sembreranno un po’ più corti secondo l’orologio, ma un po’ più lunghi per la nostra necessità, quando il cielo indosserà nuovi abiti rossi e un cappello viola, allora diremo che arriverai. Sono felice che quel tipo di [[motifs/time|tempo]] passi.
-
-È più facile guardare indietro dopo aver provato un [[motifs/pain|dolore]], che cercare di prevederne l’arrivo.
-
-Un soldato ha chiamato stamattina mattina e ha chiesto un mazzo di fiori da portare in battaglia. Immagino abbia pensato che avessimo un acquario.
-
-Quanto deve essere dolce per qualcuno tornare a [[motifs/home|casa]], quando la propria [[motifs/home|casa]] si trova in molte diverse dimore, e ogni cuore rappresenta una “stanza migliore”. Intendo dire voi, signor Bowles. Non hanno forse i trifogli dei nomi per le [[motifs/bees|api]]?
-
 
 
 <span class="atom-split" data-atom="l0155_mr_samuel_bowlers_and_mrs_bowles" data-title="To Mr. Samuel Bowlers and Mrs. Bowles" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/autumn,motif/the_hill,concept/transience,concept/wonder,form/lyric,form/letter,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -1532,10 +852,6 @@ Quanto deve essere dolce per qualcuno tornare a [[motifs/home|casa]], quando la 
 
 While asters On the [[motifs/hill|hill]] Their everlasting fashions set, And covenant gentians frill!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Mentre i gigli di campo sul [[motifs/hill|colline]] mantengono le loro forme eternamente immutate, e i fiori della pianura si adornano di volantini.
 
 
 
@@ -1555,20 +871,6 @@ L——goes to Sunderland, Wednesday, for a minute or two; [[motifs/leaves|leave
 Grateful for little notes, and shall ask for longer when my [[motifs/birds|birds]] locate. Would it were here. Three sisters are prettier than one. . . . Tabby is a continual shrine, and her jaunty ribbons put me in mind of fingers far out at [[motifs/sea|sea]]. F——'s admonition made me laugh and cry too. In the hugest haste, and the engine waiting.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-, Dovrei essere folle di [[concepts/joy|gioia]] nel vedere i miei piccoli amati. Scrivere di loro non è altrettanto dolce come vedere i loro due volti: sembrano così lontani, eppure sono stati lontani da me per due settimane, due settimane piene di desiderio e incertezza. Ora inizio a [[concepts/doubt|dubitare]] che siano mai arrivati davvero.
-
-Salutai con un cordiale “buonanotte” il mio ospite che si attardava, e con un caloroso “buongiorno” quello che se ne stava andando. Finii di riempire il sacco di mamma, tranne quella maledetta busta, quella che ricorderai sicuramente. Raccoglietti ciuffi di mignonette e dolci alyssumi per l’[[motifs/winter|Inverno]]; tutto sembra più cupo in questo periodo, quei giorni rossi, dorati, pieni di nastri, proprio come l’[[motifs/winter|Inverno]] stesso.
-
-Sono sicuro di provare ciò che provò Noè: docile, ma al contempo un po’ scettico, sotto quel satin.
-
-Nessun [[motifs/frost|freddo]] ancora in casa nostra. Voglio dire, il termometro non indica freddo. Sabato mamma ha avuto un nuovo dente: il dottor S——le aveva promesso da tempo che glielo avrebbe fatto mettere. Il “dentesi” però non le è andato bene; domenica è rimasta a letto, con un aspetto tale da poter essere esposto in qualsiasi mostra di bestiame. Il giorno dopo è arrivata in città con i tratti del viso leggermente più attenuati, ma senza l’occhio sinistro. Senza dubbio siamo “terribilmente e meravigliosamente fatti”, a volte anche in modo grottesco.
-
-L——va a Sunderland mercoledì, per un minuto o due; [[motifs/leaves|parte]] da qui alle sei e mezza, che ora perfetta! Pranzerà la [[motifs/night|sera]] prima; che atmosfera deliziosa! Gli alberi si mettono dritti non appena sentono i suoi passi, temo che portino stoviglie invece di frutta. Non ha ancora stirato i gerani, ma avrà abbastanza [[motifs/time|tempo]], a meno che non [[motifs/leaves|parta]] prima di aprile. Emily è molto cattiva, e i suoi figli, che sono in condizioni difficili, non dovrebbero ricordare ciò che dice riguardo alle [[archetypes/damsel|ragazze]].
-
-Sono grato per questi piccoli messaggi; chiederò di riceverne di più non appena i miei [[motifs/birds|uccelli]] saranno stati individuati. Vorrei che fossero qui. Tre sorelle sono più belle di una. Tabby è davvero un vero tesoro, e i suoi nastri vivaci mi fanno pensare a dita lontane, laggiù nel [[motifs/sea|mare]]. L’ammonizione di F——mi ha fatto ridere e piangere allo stesso tempo. Con la massima urgenza, mentre il motore aspetta.
-
 
 
 <span class="atom-split" data-atom="l0340_miss_maria_whitney" data-title="To Miss Maria Whitney" data-chapter="" data-kind="intro" data-tags="topos/locus_amoenus,motif/garden,motif/flowers,motif/seasons,motif/autumn,motif/seed_and_germination,motif/grass,concept/death,concept/grief_and_loss,concept/transience,form/letter,setting/a_garden,cluster/seasons,cluster/winter,cluster/autumn"></span>
@@ -1582,16 +884,6 @@ This sweet [[motifs/garden|garden]], with its whiffs of long ago, needs only bor
 
 In different mood from the cheerful letters to Mr. Bowles are these more sombre ones to Mr. Clark. Begun by association through the [[motifs/death|death]] of a mutual friend, they continued to be tinged with the sadness of other and following deaths, until his own, when letters to his brother took their place until almost her own flitting.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-E il vecchio [[motifs/garden|giardino]] è ancora pieno di profumi e colori estivi. Le sue aiuole piene di iris dai mille colori fioriscono sotto il sole primaverile, mentre crocus e narcisi spuntano tra l’erba fresca sotto gli alberi di mele; una grande magnolia apre i suoi boccioli rosa verso il cielo azzurro, e i rododendri rossi illuminano angoli ombrosi e verdi.
-
-E poi ci sono le rose, i cespugli di piselli dolci; le masse di nasturzii e la maestosa processione di ibisco, in felice armonia con enormi cespugli di verbena al limone! Più tardi arriva la gloria dell’[[motifs/autumn|autunno]], con salvia, zinnie brillanti, margherite e crisantemi a grappoli, fino a quando “file di semi ne testimoniano la presenza”, e novembre stende il suo manto marrone sulle fioriture addormentate.
-
-Questo delizioso [[motifs/garden|giardino]], con i suoi profumi di tempi lontani, ha bisogno soltanto di recinzioni in legno e di un po’ di sole per diventare il luogo di piacere ideale che generazioni ormai scomparse avevano immaginato. E Emily sembra essere la sua geniale creatrice: la sua presenza ne mantiene ancora l’essenza, anche se molti anni dopo la sua [[motifs/death|morte]], i suoi passi non calpestavano più quei sentieri, e le sue dita non raccoglievano più i suoi tesori.
-
-A differenza delle lettere allegre indirizzate al signor Bowles, queste altre, più cupe, destinate al signor Clark, nascono da un legame condiviso legato alla [[motifs/death|morte]] di un amico comune. Continuano ad essere intrise della tristezza causata da altre morti successive, fino a quella del signor Clark stesso; dopo quel momento, le lettere iniziano a rivolgersi a suo fratello, fino alla scomparsa anche di quest’ultimo.
 
 
 
@@ -1611,20 +903,3 @@ Mother has had a weary cold, and suffers much from neuralgia since the changing 
 The ravens must “cry,” to be ministered to; she need only sigh. . . . Perhaps it is quite the [[motifs/home|home]] it was when you last beheld it. I [[concepts/hope|hope]] your few are safe, and your [[motifs/flowers|flowers]] encouraging.
 
 News of your sultans and yourself would be equally lovely, when you feel inclined. Blossoms have their leisures.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Zia Katie e i sultani hanno lasciato ora il [[motifs/garden|giardino]], e ripensare al loro dolce rapporto mi fa sentire la loro mancanza.
-
-I miei fiori, penso, non erano così rigogliosi come negli altri anni; forse l’acqua di Pelham aveva alterato i loro gusti raffinati. Ma li amavo comunque con grande affetto, proprio perché meno numerosi. Spero che il tuo giardino fosse disposto a “morire” per amore. Non credo che il mio lo fosse: è morto con una bellissima riluttanza, come una stella cadente al tramonto.
-
-Spero che tu sia stato bene da quando abbiamo saputo di te, e che tu sia stato felice nel limite delle possibilità offerte dalla tristezza.
-
-Esistono dolci sentimenti di pathos, quando i dolci momenti di gioia sono ormai passati.
-
-Mia madre ha avuto un brutto raffreddore e soffre molto di nevralgia a causa dei cambiamenti climatici; tuttavia, credo che non sia più debole di quando eri qui. Ha le sue piccole gioie, proprio come tutti i malati: la voce degli amici e l’affetto della [[motifs/home|casa]].
-
-I corvi devono “gridare” per essere accuditi; lei ha bisogno soltanto di sospirare. Forse è proprio quella stessa [[motifs/home|casa]] che era l’ultima volta che l’hai vista. Spero che i tuoi pochi cari siano al sicuro, e che i tuoi [[motifs/flowers|fiori]] siano rigogliosi.
-
-Le notizie dei vostri sultani e di voi stesso sarebbero altrettanto piacevoli, quando ne avrete voglia. I fiori hanno anche loro i loro momenti di relax.

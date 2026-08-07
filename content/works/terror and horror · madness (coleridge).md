@@ -41,7 +41,7 @@ Raccolta tematica di 7 componimenti di Samuel Taylor Coleridge.
 - [[testi/coleridge/atomized/terror-and-horror-madness#014_anna_and_harland|ANNA AND HARLAND]]
 - [[testi/coleridge/atomized/terror-and-horror-madness#089_mrs_siddons|MRS. SIDDONS]]
 - [[testi/coleridge/atomized/terror-and-horror-madness#119_sonnet_composed_on_a_journey_homeward_the_author_having_received_intelligence|SONNET: COMPOSED ON A JOURNEY HOMEWARD; THE AUTHOR HAVING RECEIVED INTELLIGENCE]]
-- [[testi/coleridge/atomized/terror-and-horror-madness#041_the_complaint_of_ninathómafrom_the_same|THE COMPLAINT OF NINATHÓMA:FROM THE SAME]]
+- THE COMPLAINT OF NINATHÓMA:FROM THE SAME
 - [[testi/coleridge/atomized/terror-and-horror-madness#193_the_mad_monk|THE MAD MONK]]
 - [[testi/coleridge/atomized/terror-and-horror-madness#239_the_madman_and_the_lethargist|THE MADMAN AND THE LETHARGIST]]
 

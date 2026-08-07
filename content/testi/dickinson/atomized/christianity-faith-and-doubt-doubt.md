@@ -30,23 +30,6 @@ Please to tell a little [[archetypes/pilgrim|Pilgrim]]
 Where the place called "Morning" lies!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Ci sarà davvero un "Mattino"?  
-Esiste una cosa come il "Giorno"?  
-Potrei vederlo dalle [[settings/mountains|montagne]]  
-Se fossi alta come loro?  
-
-Ha piedi come gigli d'[[motifs/water|Acqua]]?  
-Ha piume come un Uccello?  
-Vien portato da paesi famosi  
-Di cui non ho mai sentito?  
-
-Oh qualche Dotto! Oh qualche Marinaio!  
-Oh qualche Saggio dai cieli!  
-Vi prego dite a una piccola [[archetypes/pilgrim|Pellegrina]]  
-Dove giace il luogo detto "Mattino"!
-
 
 
 <span class="atom-split" data-atom="0121_as_watchers_hang_upon_the_east" data-title="121. As Watchers hang upon the East," data-chapter="" data-kind="intro" data-tags="motif/dawn,motif/food_feasting,concept/immortality,concept/faith_and_doubt,concept/melancholy,concept/poverty,form/lyric,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -67,22 +50,6 @@ Those thirsty lips to flagons pressed,
 Heaven to us, if true.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Come Vedette sospese all'Oriente,  
-Come Mendicanti in tripudio a un banchetto  
-Imbandito da saporita Fantasia —  
-Come ruscelli nei deserti mormorano dolci  
-A orecchio troppo lontano per la delizia,  
-Il Cielo lusinga gli stanchi.  
-
-Come quella stessa vedetta, quando l'Oriente  
-Apre il coperchio d'Ametista  
-E lascia andare il mattino —  
-Quel Mendicante, quando Ospite onorato,  
-Quelle labbra assetate premute ai boccali,  
-Il Cielo per noi, se vero.
-
 
 
 <span class="atom-split" data-atom="0127_houses_so_the_wise_men_tell_me" data-title="127. &quot;Houses&quot; — so the Wise Men tell me —" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/storm,concept/faith_and_doubt,concept/immortality,concept/doubt,form/lyric,histref/the_bible,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -98,18 +65,6 @@ I don't know him; snugly built!
 Could the Children find the way there —  
 Some, would even trudge tonight!
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-"Case" — così mi dicono i Saggi —  
-"Dimore"! Le Dimore devono esser calde!  
-Le Dimore non possono lasciar entrare le [[motifs/tears|lacrime]],  
-Le Dimore devono escludere la [[motifs/storm|tempesta]]!  
-
-"Molte Dimore," presso "suo Padre,"  
-Io non lo conosco; costruite ben salde!  
-Potessero i Bambini trovarne la via —  
-Alcuni, arrancherebbero fin stanotte!
 
 
 
@@ -142,33 +97,6 @@ Art thou within the little Barn
 [[motifs/love|Love]] provided Thee?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Cauta, scrutai la mia piccola vita —  
-Vagliai ciò che sarebbe sfiorito  
-Da ciò che sarebbe durato finché Teste come la mia  
-Fossero deposte a sognare.  
-
-Riposi il secondo in un Granaio —  
-Il primo, lo dispersi al vento.  
-Andai un mattino d'[[motifs/winter|inverno]]  
-Ed ecco - il mio Fieno inestimabile  
-
-Non era sull'"Impalcatura" —  
-Non era sulla "Trave" —  
-E da florida Fattrice —  
-Cinica, divenni.  
-
-Se fu un Ladro a farlo —  
-Se fu il [[motifs/wind|vento]] —  
-Se la Divinità è innocente —  
-Il mio compito è, scoprirlo!  
-
-Così comincio a rovistare!  
-Come va, Cuori, con Te?  
-Sei tu dentro il piccolo Granaio  
-Che l'[[motifs/love|Amore]] Ti provvide?
-
 
 
 <span class="atom-split" data-atom="0338_i_know_that_he_exists" data-title="338. I know that He exists." data-chapter="" data-kind="intro" data-tags="motif/death,motif/silence,motif/masks_disguise,concept/faith_and_doubt,concept/doubt,concept/terror_and_horror,form/lyric,histref/christianity,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -195,28 +123,6 @@ Would not the jest —
 Have crawled too far!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-So che Egli esiste.  
-Da qualche parte — nel [[motifs/silence|Silenzio]] —  
-Ha nascosto la sua rara vita  
-Ai nostri occhi grossolani.  
-
-È il gioco d'un istante.  
-È un tenero Agguato —  
-Solo perché la Beatitudine  
-Si guadagni la propria sorpresa!  
-
-Ma — se il gioco  
-Si facesse serio da trafiggere —  
-Se la gioia — si vetrificasse —  
-Nello sguardo — rigido — della [[motifs/death|Morte]] —  
-
-Non parrebbe il divertimento  
-Troppo costoso!  
-Non si sarebbe lo scherzo —  
-Trascinato troppo oltre!
-
 
 
 <span class="atom-split" data-atom="0376_of_course_i_prayed" data-title="376. Of Course — I prayed —" data-chapter="" data-kind="intro" data-tags="motif/birds,concept/doubt,concept/faith_and_doubt,concept/despair,concept/providence,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -234,20 +140,6 @@ To leave me in the Atom's Tomb —
 Merry, and Nought, and gay, and numb —  
 Than this smart Misery.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Certo — pregai —  
-E [[characters/god|God]] se ne Curò?  
-Se ne curò quanto se sull'Aria  
-Un Uccello — avesse battuto il piede —  
-Gridando "Datemi" —  
-La mia Ragione — la Vita —  
-Non l'avrei avuta — se non per Te —  
-Sarebbe miglior [[concepts/charity|Charity]]  
-Lasciarmi nella Tomba dell'Atomo —  
-Allegra, e Nulla, e gaia, e intorpidita —  
-Che questa acuta Sofferenza.
 
 
 
@@ -275,28 +167,6 @@ From Him — and Holy [[archetypes/ghost|Ghost]] — and All —
 But there's the "Judgement Day"!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Non mi sono mai sentita a [[motifs/home|Casa]] — Quaggiù —-  
-E nei Bei Cieli  
-Non mi sentirò a [[motifs/home|Casa]] — lo so —  
-Non mi piace il Paradiso —  
-
-Perché è [[characters/sunday|Domenica]] — tutto il [[motifs/time|tempo]] —  
-E la Ricreazione — non arriva mai —  
-E l'Eden sarà così desolato  
-Nei luminosi Mercoledì Pomeriggio —  
-
-Se [[characters/god|Dio]] potesse fare una visita —  
-O mai facesse un Sonnellino —  
-Così da non vederci — ma dicono  
-Che Egli stesso — un Telescopio  
-
-Perenne ci contempla —  
-Io scapperei via  
-Da Lui — e dallo [[archetypes/ghost|Spirito]] Santo — e da Tutto —  
-Ma c'è il "Giorno del Giudizio"!
-
 
 
 <span class="atom-split" data-atom="0437_prayer_is_the_little_implement" data-title="437. Prayer is the little implement" data-chapter="" data-kind="intro" data-tags="concept/faith,concept/doubt,concept/faith_and_doubt,concept/self_and_soul,form/epigram,histref/christianity,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -312,18 +182,6 @@ If then He hear —
 This sums the Apparatus  
 Comprised in [[motifs/prayer|Prayer]] —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-La [[motifs/prayer|Preghiera]] è il piccolo strumento  
-Con cui gli Uomini giungono  
-Dove la Presenza — è loro negata.  
-Scagliano la loro Parola  
-
-Per suo mezzo — nell'Orecchio di [[characters/god|Dio]] —  
-Se poi Egli ode —  
-Questo riassume l'Apparato  
-Compreso nella [[motifs/prayer|Preghiera]] —
 
 
 
@@ -358,35 +216,6 @@ I think a little [[motifs/well|Well]] — like Mine —
 Dearer to understand —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-POZZI —  
-
-So dove crescono Pozzi — Pozzi senza Siccità —  
-Scavati fondi — per giorni d'[[motifs/summer|Estate]] —  
-Dove i Muschi non se ne vanno più —  
-E il Ciottolo — gioca al sicuro —  
-
-È fatto di Braccia — e una Cintura —  
-Una Cintura di Pietra dentellata —  
-Intarsiata di Smeraldo — a metà discesa —  
-E Diamanti — ammucchiati sopra —  
-
-Non ha Secchio — Fossi ricca  
-Un Secchio comprerei —  
-Ho spesso sete — ma le mie labbra  
-Stanno così in alto — Vedi —  
-
-Lessi in un Libro all'Antica  
-Che la Gente "non ha più sete" —  
-Là i Pozzi hanno i loro Secchi —  
-Deve voler dire questo — ne sono certa —  
-
-Ricorderemo l'Arsura — allora?  
-Quelle Acque suonano così grandiose —  
-Credo che un piccolo [[motifs/well|Pozzo]] — come il Mio —  
-Sia più caro da comprendere —
-
 
 
 <span class="atom-split" data-atom="0462_why_make_it_doubt_it_hurts_it_so" data-title="462. Why make it doubt — it hurts it so —" data-chapter="" data-kind="intro" data-tags="motif/love,concept/doubt,concept/melancholy,concept/unrequited_love,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -406,22 +235,6 @@ And They no more remember me —
 Nor ever turn to tell me why —  
 Oh, Master, This is Misery —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Perché farlo [[concepts/doubt|dubitare]] — gli fa così male —  
-Così malato — supporre —  
-Così forte — sapere —  
-Così coraggioso — sul suo piccolo Letto  
-Da ridire l'ultima parola che Essi dissero  
-A Se Stesso — e sorridere — E tremare —  
-Per quel caro — lontano — pericoloso — Bene —  
-Ma — l'Invece — la [[concepts/fear|paura]] che Attanaglia  
-Che Qualcosa — abbia fatto — o osato —  
-Da offendere la Visione — e questa fugga —  
-Ed Essi non si ricordino più di me —  
-Né mai si voltino a dirmi perché —  
-Oh, Maestro, Questa è Miseria —
 
 
 
@@ -465,44 +278,6 @@ As Children — swindled for the first
 All Swindlers — be — infer —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Intendevo avere solo modesti bisogni —  
-Quali la Contentezza — e il Cielo —  
-Nel mio reddito — questi potevano stare  
-E la Vita ed io — restare pari —  
-
-Ma poiché l'ultimo — includeva entrambi —  
-Sarebbe bastato alla mia [[motifs/prayer|Preghiera]]  
-Stipulare — per Uno solo —  
-E la Grazia avrebbe accordato la Coppia —  
-
-E così — in tal guisa — pregai —  
-Gran Spirito — Dammi  
-Un Cielo non così vasto come il Tuo,  
-Ma vasto abbastanza — per me —  
-
-Un Sorriso soffuse il volto di [[characters/jehovah|Geova]] —  
-I Cherubini — si ritrassero —  
-[[motifs/grave|Gravi]] Santi sgusciarono fuori a guardarmi —  
-E mostrarono le fossette — anch'essi —  
-
-Lasciai il Luogo, con tutte le mie forze —  
-Gettai via la mia [[motifs/prayer|Preghiera]] —  
-Le Quiete Ere la raccolsero —  
-E il Giudizio — scintillò — anch'esso —  
-Che una così onesta — esista —  
-Da prendere il Racconto per vero —  
-Che "Qualsiasi cosa Voi chiediate —  
-Essa Vi sarà data" —  
-
-Ma io, fatta più scaltra — scruto i Cieli  
-Con Aria sospettosa —  
-501  
-
-Come Bambini — truffati per la prima volta  
-Tutti Truffatori — siano — inferiscono —
-
 
 
 <span class="atom-split" data-atom="0489_we_pray_to_heaven" data-title="489. We pray — to Heaven —" data-chapter="" data-kind="intro" data-tags="motif/death,concept/faith_and_doubt,concept/immortality,concept/doubt,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -522,22 +297,6 @@ There's no Geography —
 But State — Endowal — Focus —  
 Where — Omnipresence — fly?
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Preghiamo — il Cielo —  
-Ciarliamo — del Cielo —  
-Raccontiamo — quando i Vicini muoiono —  
-A quale [[motifs/clock|ora]] verso il cielo — fuggirono —  
-Chi li vide — Perché volare?  
-
-È il Cielo un Luogo — un Firmamento — un [[motifs/tree|Albero]]?  
-La via angusta del Dove è per Noi stessi —  
-Per i Morti  
-Non c'è Geografia —  
-
-Ma Stato — Dote — Fuoco —  
-Dove — l'Onnipresenza — vola?
 
 
 
@@ -566,29 +325,6 @@ Narcotics cannot still the Tooth
 That nibbles at the [[motifs/soul|soul]] —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Questo Mondo non è Conclusione.  
-Una Specie sta oltre —  
-Invisibile, come Musica —  
-Ma positiva, come Suono —  
-Ammicca, e sconcerta —  
-La Filosofia — non sa —  
-E attraverso un [[forms/riddle|Enigma]], alla fine —  
-La Sagacia, deve passare —  
-Indovinarlo, confonde i dotti —  
-Per ottenerlo, Uomini han sopportato  
-Il Disprezzo di Generazioni  
-E la Crocifissione, mostrata —  
-La [[concepts/faith|Fede]] scivola — e ride, e si riprende —  
-Arrossisce, se qualcuno vede —  
-Strappa un ramoscello di Evidenza —  
-E chiede a una Banderuola, la via —  
-Molto Gesto, dal Pulpito —  
-Forti Alleluia rimbombano —  
-I Narcotici non placano il Dente  
-Che rosicchia l'[[motifs/soul|anima]] —
-
 
 
 <span class="atom-split" data-atom="0508_im_ceded_ive_stopped_being_theirs" data-title="508. I'm ceded — I've stopped being Theirs —" data-chapter="" data-kind="intro" data-tags="motif/crown,motif/childhood,concept/identity,concept/conversion,concept/self_and_soul,histref/christianity,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -616,30 +352,6 @@ But this [[motifs/time|time]] — Adequate — Erect,
 With Will to choose, or to reject,  
 And I choose, just a [[motifs/crown|Crown]] —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Sono ceduta — Ho smesso d'essere Loro —  
-Il nome che Essi lasciarono cadere sul mio viso  
-Con [[motifs/water|acqua]], nella chiesa di campagna  
-Ha finito di servire, ora,  
-Ed Essi possono riporlo con le mie Bambole,  
-La mia [[motifs/childhood|infanzia]], e il filo di rocchetti,  
-Che ho finito d'infilare — anch'esso —  
-
-Battezzata, prima, senza la scelta,  
-Ma questa [[motifs/time|volta]], consapevolmente, di Grazia —  
-Al nome supremo —  
-Chiamata al mio Pieno — La Mezzaluna cadde —  
-L'intero Arco dell'Esistenza, colmato,  
-Con un piccolo Diadema.  
-
-Il mio secondo Rango — troppo esiguo il primo —  
-Incoronata — Strillante — sul petto di mio Padre —  
-Una [[characters/queen|Regina]] semi inconsapevole —  
-Ma questa [[motifs/time|volta]] — Adeguata — Eretta,  
-Con Volontà di scegliere, o di rifiutare,  
-E io scelgo, solo una [[motifs/crown|Corona]] —
 
 
 
@@ -672,33 +384,6 @@ But awed beyond my errand —
 I worshipped — did not "pray" —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Era giunto il mio tempo per la [[motifs/prayer|Preghiera]] —  
-Nessun'altra Arte — sarebbe valsa —  
-Alla mia Tattica mancava un rudimento —  
-Creatore — Eri tu?  
-
-[[characters/god|Dio]] cresce in alto — così chi prega  
-Orizzonti — deve ascendere —  
-E così salii sul Nord  
-Per vedere questo Curioso Amico —  
-
-La Sua Casa non c'era — segno alcuno non aveva Lui —  
-Né da Camino — né da [[motifs/door|Porta]]  
-Potevo inferirne la Residenza —  
-Vaste Praterie d'Aria  
-
-Non rotte da un Colono —  
-Erano tutto ciò che vedevo —  
-Infinitudine — Non avevi Tu un Volto  
-Ch'io potessi mirarTi?  
-
-Il [[motifs/silence|Silenzio]] condiscese —  
-La Creazione si fermò — per Me —  
-Ma intimorita oltre la mia missione —  
-Adorai — non "pregai" —
-
 
 
 <span class="atom-split" data-atom="0576_i_prayed_at_first_a_little_girl" data-title="576. I prayed, at first, a little Girl," data-chapter="" data-kind="intro" data-tags="concept/faith,concept/doubt,concept/faith_and_doubt,concept/childhood_and_growth,concept/self_and_soul,concept/providence,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -730,34 +415,6 @@ That tips so frequent, now,
 It takes me all the while to poise —  
 And then — it doesn't stay —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Pregavo, all'inizio, Bambina,  
-Perché mi dicevano di farlo —  
-Ma smisi, quando in grado d'intuire  
-Cosa sarebbe la [[motifs/prayer|preghiera]] — per me —  
-
-Se credevo che [[characters/god|Dio]] si guardasse intorno,  
-Ogni [[motifs/time|volta]] che il mio occhio di Bimba  
-Si fissava pieno, e fermo, sul suo  
-Con onestà di Bimba —  
-
-E gli dicevo cosa avrei voluto, oggi,  
-E parti del suo piano remoto  
-Che mi confondevano —  
-Il lato commisto  
-Della sua Divinità —  
-
-E spesso da allora, nel Pericolo,  
-Calcolo la forza che sarebbe  
-Avere un [[characters/god|Dio]] così forte  
-Da reggere la mia vita per me  
-
-Finché potessi prendere la Bilancia  
-Che trabocca così spesso, ora,  
-Che mi ci vuole tutto il tempo a librarla —  
-E poi — non resta ferma —
 
 
 
@@ -795,38 +452,6 @@ Old Man on Nebo! Late as this —
 My justice bleeds — for Thee!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Mi è sempre parso — un torto  
-Fatto — a quel Vecchio [[characters/moses|Mosè]] —  
-Lasciargli vedere — la Canaan —  
-Senza che vi entrasse —  
-
-E benché in momenti più sobri —  
-Nessun [[characters/moses|Mosè]] possa esservi  
-Sono convinta — il Romanzo  
-In fatto d'ingiuria —  
-
-Supera le più aspre asserite —  
-Di Stefano — o di Paolo —  
-Ché questi — furono solo messi a [[motifs/death|morte]] —  
-Mentre la più scaltra volontà di [[characters/god|Dio]]  
-
-Su [[characters/moses|Mosè]] — parve avvinghiarsi  
-Con Gioco tantalizzante  
-Come Ragazzo — con Ragazzo più piccolo —  
-Per provare la propria abilità.  
-
-La colpa — fu senza dubbio d'Israele —  
-Io — avrei bandito le Tribù —  
-E scortato il Grande Vecchio [[characters/moses|Mosè]]  
-In Vesti Pentateucali  
-
-Sul Vasto Possesso  
-Fu poco — Ma Gli diede titolo — a vedere —  
-Vecchio sul Nebo! Tardi com'è —  
-La mia giustizia sanguina — per Te!
-
 
 
 <span class="atom-split" data-atom="0600_it_troubled_me_as_once_i_was" data-title="600. It troubled me as once I was —" data-chapter="" data-kind="intro" data-tags="concept/doubt,concept/faith_and_doubt,concept/wonder_and_gratitude,concept/childhood_and_growth,concept/the_natural_order,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -853,28 +478,6 @@ Why Heaven did not break away —
 And tumble — Blue — on me —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Mi turbava poiché un tempo ero —  
-Perché un tempo ero [[archetypes/child|Bambina]] —  
-Concludendo come un Atomo — cadesse —  
-E pure i Cieli — reggessero —  
-
-I Cieli pesavano di più — di gran lunga —  
-Eppure Azzurri — e saldi — stavano —  
-Senza un Bullone — che io potessi provare —  
-Capirebbero — i Giganti?  
-
-La Vita mi pose — problemi più grandi —  
-Alcuni li serberò — da risolvere  
-Finché l'Algebra non sia più facile —  
-O dimostrata più semplice — lassù —  
-
-Allora — anche — sarà compreso —  
-Ciò che più aspro — mi confondeva —  
-Perché il Cielo non si staccasse —  
-E rovinasse — Azzurro — su di me —
-
 
 
 <span class="atom-split" data-atom="0690_victory_comes_late" data-title="690. Victory comes late —" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,motif/birds,concept/doubt,concept/poverty,concept/providence,concept/faith_and_doubt,concept/grief_and_loss,form/lyric,histref/the_bible,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -895,23 +498,6 @@ The Eagle's Golden Breakfast strangles — Them —
 [[characters/god|God]] keep His Oath to Sparrows —  
 Who of little [[motifs/love|Love]] — know how to starve —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-La Vittoria arriva tardi —  
-Ed è tenuta bassa a labbra gelate —  
-Troppo rapite dal [[motifs/frost|gelo]]  
-Per prenderla —  
-Come sarebbe stata dolce —  
-Solo una Goccia —  
-Fu [[characters/god|Dio]] così economo?  
-La Sua Tavola è imbandita troppo in alto per Noi —  
-A meno di non cenare in punta di piedi —  
-Le Briciole — si addicono a bocche così piccole —  
-Le Ciliegie — vanno bene ai Pettirossi —  
-La Colazione d'Oro dell'Aquila strozza — Loro —  
-[[characters/god|Dio]] mantenga il Suo Giuramento ai Passeri —  
-Che di poco [[motifs/love|Amore]] — sanno morire di fame —
 
 
 
@@ -939,28 +525,6 @@ This timid life of Evidence
 Keeps pleading — "I don't know."
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La loro Altezza in Cielo non consola —  
-La loro Gloria — nulla per me —  
-Era meglio imperfetto — com'era —  
-Sono finita — non posso vedere —  
-
-La Casa della Supposizione —  
-La Frontiera Baluginante che  
-Rasenta gli Acri del Forse —  
-A Me — appare malsicura —  
-
-La Ricchezza che avevo — mi contentava —  
-Se era di più modesta misura —  
-Pure l'avevo contata finché  
-Piacque ai miei stretti Occhi —  
-
-Meglio di valori più grandi —  
-Che per quanto veri si mostrino —  
-Questa timida vita di Evidenza  
-Seguita a supplicare — "Non so."
-
 
 
 <span class="atom-split" data-atom="0835_nature_and_god_i_neither_knew" data-title="835. Nature and God — I neither knew" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/stars,concept/faith_and_doubt,concept/identity,concept/secrecy_and_concealment,form/epigram,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -976,18 +540,6 @@ My Secret as secure
 As Herschel's private interest  
 Or Mercury's affair —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-La [[concepts/nature|Natura]] e [[characters/god|Dio]] — io non conoscevo  
-Eppure Entrambi così [[motifs/well|bene]] mi conoscevano  
-Che trasalirono, come Esecutori  
-Della mia [[concepts/identity|identità]].  
-
-Eppure Nessuno disse — ch'io potessi apprendere —  
-Il mio Segreto sicuro  
-Quanto il privato interesse di Herschel  
-O la faccenda di Mercurio —
 
 
 
@@ -1005,18 +557,6 @@ Scarlet Experiment! Sceptic Thomas!
 Now, do you [[concepts/doubt|doubt]] that your Bird was true?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Squarcia l'Allodola — e troverai la Musica —  
-Bulbo dopo Bulbo, avvolti in Argento —  
-Concessi a stento al Mattino d'[[motifs/summer|Estate]]  
-Serbati al tuo Orecchio per quando i Liuti saranno vecchi.  
-
-Sciogli il Fiotto — lo troverai palese —  
-Zampillo dopo Zampillo, riservato a te —  
-Scarlatto Esperimento! Scettico Tommaso!  
-Ora, [[concepts/doubt|dubiti]] che il tuo Uccello fosse vero?
-
 
 
 <span class="atom-split" data-atom="0965_denial_is_the_only_fact" data-title="965. Denial — is the only fact" data-chapter="" data-kind="intro" data-tags="concept/doubt,concept/spiritual_emptiness,concept/grief_and_loss,concept/faith_and_doubt,concept/melancholy,form/lyric,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -1032,18 +572,6 @@ Without Delight, or Beam —
 What Comfort was it Wisdom — was —  
 The spoiler of Our [[motifs/home|Home]]?
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il Diniego — è il solo fatto  
-Percepito dal Negato —  
-La cui Volontà — un intorpidito significato —  
-Il Giorno che il Cielo morì —  
-
-E tutta la Terra girava comune intorno —  
-Senza Delizia, né Raggio —  
-Che Conforto fu che la Saggezza — fosse —  
-La predatrice della nostra [[motifs/home|Casa]]?
 
 
 
@@ -1062,19 +590,6 @@ Or may not
 Too late to choose again.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Quale è meglio? Il Cielo —  
-O soltanto il Cielo a venire  
-Con quel vecchio Codicillo di [[concepts/doubt|Dubbio]]?  
-Non posso non stimare  
-
-L'"Uccello in Mano"  
-Superiore a quello  
-Che il "Cespuglio" può darmi  
-O può non darmi  
-Troppo tardi per scegliere di nuovo.
-
 
 
 <span class="atom-split" data-atom="1076_just_once_oh_least_request" data-title="1076. Just Once! Oh least Request!" data-chapter="" data-kind="intro" data-tags="concept/doubt,concept/grace_and_redemption,concept/faith_and_doubt,concept/suffering,form/lyric,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -1090,18 +605,6 @@ Be conscious of a sigh
 As down His Heaven dropt remote  
 "Just Once" Sweet Deity?
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Solo Una Volta! Oh minima Richiesta!  
-Potrebbe l'Adamante rifiutare  
-una Grazia così piccola  
-Posta così scarna,  
-Termini così agonizzanti?  
-Un [[characters/god|Dio]] di Selce non avrebbe  
-Coscienza di un sospiro  
-Mentre giù dal Suo Cielo cadeva remoto  
-"Solo Una Volta" Dolce Deità?
 
 
 
@@ -1128,28 +631,6 @@ What Party — One may be
 Tomorrow, but if I am there  
 I take back all I say —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Quando tornano — se i Fiori tornano —  
-Provo sempre un [[concepts/doubt|dubbio]]  
-Se i Fiori possano rinascere  
-Quando l'Arte una volta è svanita —  
-
-Quando cominciano, se i Pettirossi possono,  
-Ho sempre avuto una [[concepts/fear|paura]]  
-Che non dissi, fosse il loro ultimo Esperimento  
-L'Anno scorso,  
-
-Quando è Maggio, se Maggio ritorna,  
-Nessuno ebbe una fitta  
-Che in un Volto così bello  
-Egli non potesse più guardare?  
-
-Se io ci sono — Non si sa  
-Quale Parte — si possa essere  
-Domani, ma se io ci sono  
-Ritiro tutto ciò che dico —
 
 
 
@@ -1187,38 +668,6 @@ We shall have shunned until ashamed
 To own the Miracle —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Chi erano "il Padre e il Figlio"  
-Ponderavamo da [[archetypes/child|bambini]],  
-E che avevano a che fare con noi  
-E quando portentoso fu detto  
-
-Con inferenza spaventosa  
-Dall'[[motifs/childhood|Infanzia]] fortificati  
-Pensavamo, almeno non son peggiori  
-Di come sono stati descritti.  
-
-Chi sono "il Padre e il Figlio"  
-Se chiedessimo Oggi  
-"Il Padre e il Figlio" in persona  
-Senza dubbio preciserebbe —  
-
-Ma avessero avuto la felicità  
-Quando desideravamo sapere.  
-Migliori Amici saremmo stati, forse,  
-Di quanto il [[motifs/time|tempo]] conceda d'essere —  
-
-Trasaliamo — nell'apprendere che crediamo  
-Ma una volta sola — interamente —  
-La Fede, non calza così [[motifs/well|bene]]  
-Se mutata di frequente —  
-
-Arrossiamo, che il Cielo se raggiungiamo —  
-Evento ineffabile —  
-L'avremo evitato fino a vergognarci  
-Di riconoscere il Miracolo —
-
 
 
 <span class="atom-split" data-atom="1408_the_fact_that_earth_is_heaven" data-title="1408. The Fact that Earth is Heaven —" data-chapter="" data-kind="intro" data-tags="concept/faith_and_doubt,concept/paradox,concept/doubt,concept/immortality,form/epigram,form/lyric,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -1234,17 +683,6 @@ But that it would affront us
 To dwell in such a place —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il Fatto che la Terra sia Cielo —  
-Che il Cielo sia Cielo o no  
-Se non un Affidavit  
-Di quel Luogo preciso  
-Non solo deve confermarci  
-Che non è per noi  
-Ma che ci offenderebbe  
-Dimorare in un simile luogo —
-
 
 
 <span class="atom-split" data-atom="1413_sweet_skepticism_of_the_heart" data-title="1413. Sweet Skepticism of the Heart —" data-chapter="" data-kind="intro" data-tags="motif/desire,concept/faith_and_doubt,concept/doubt,concept/truth,concept/negative_capability,form/lyric,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -1259,17 +697,6 @@ Lest Certainty be sere
 Compared with the delicious throe  
 Of transport thrilled with [[concepts/fear|Fear]] —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Dolce Scetticismo del Cuore —  
-Che sa — e non sa —  
-E ondeggia come una Flotta di Balsamo —  
-Affrontata dalla [[motifs/snow|neve]] —  
-Invita e poi ritarda la [[concepts/truth|Verità]]  
-Perché la Certezza non sia arida  
-A paragone del delizioso spasimo  
-Del trasporto fremente di [[concepts/fear|Paura]] —
 
 
 
@@ -1293,24 +720,6 @@ Go we anywhere
 Creation after this?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Come l'Umana [[concepts/nature|Natura]] si strugge  
-Per ciò che non può scoprire.  
-Nell'istante in cui una Trama è sondata  
-La Prospettiva è estinta —  
-
-La Prospettiva è l'amica  
-Serbata a noi da conoscere  
-Quando la Costanza è chiarificata  
-Dalla Curiosità —  
-
-Fra i soggetti che resistono  
-Il più formidabile è questo  
-Dove andiamo —  
-Andiamo noi in alcun luogo  
-Della Creazione dopo questa?
-
 
 
 <span class="atom-split" data-atom="1461_heavenly_father_take_to_thee" data-title="1461. &quot;Heavenly Father&quot; — take to thee" data-chapter="" data-kind="intro" data-tags="motif/dust,concept/doubt,concept/sin_and_the_fall,concept/paradox,histref/christianity,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -1325,17 +734,6 @@ More respectful — "We are [[motifs/dust|Dust]]" —
 We apologize to thee  
 For thine own Duplicity —
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-"Padre Celeste" — prendi a te  
-La suprema iniquità  
-Foggiata dalla tua candida Mano  
-In un momento di contrabbando —  
-Benché fidarti di noi — ci sembri  
-Più rispettoso — "Noi siamo [[motifs/dust|Polvere]]" —  
-Ci scusiamo con te  
-Della tua stessa Doppiezza —
 
 
 
@@ -1354,19 +752,6 @@ Better an ignis fatuus
 Than no illume at all —
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Quelli — morendo allora,  
-Sapevano dove andavano —  
-Andavano alla Mano Destra di [[characters/god|Dio]] —  
-Quella Mano è amputata ora  
-E [[characters/god|Dio]] non si può trovare —  
-
-L'abdicazione della Fede  
-Rende il Contegno piccolo —  
-Meglio un ignis fatuus  
-Che nessun lume affatto —
-
 
 
 <span class="atom-split" data-atom="1601_of_god_we_ask_one_favor" data-title="1601. Of God we ask one favor," data-chapter="" data-kind="intro" data-tags="concept/faith_and_doubt,concept/guilt,concept/grace_and_redemption,concept/paradox,concept/doubt,histref/christianity,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -1382,17 +767,6 @@ We reprimand the Happiness
 That too competes with Heaven.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-A [[characters/god|Dio]] chiediamo un favore,  
-Che ci sia perdonato —  
-Per cosa, si presume egli sappia —  
-Il Crimine, a noi, è celato —  
-Murati l'intera Vita  
-Dentro una magica [[motifs/prison|Prigione]]  
-Rimproveriamo la Felicità  
-Che anch'essa compete col Cielo.
-
 
 
 <span class="atom-split" data-atom="1751_there_comes_an_hour_when_begging_stops" data-title="1751. There comes an hour when begging stops," data-chapter="" data-kind="intro" data-tags="motif/swords_weapons,concept/faith_and_doubt,concept/doubt,concept/grief_and_loss,form/lyric,histref/the_bible,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -1405,15 +779,6 @@ Perceive their [[motifs/prayer|prayer]] is vain.
 Than from a disappointing [[characters/god|God]]  
 "Disciple, call again."
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Viene un'ora in cui il mendicare cessa,  
-Quando le lunghe labbra intercedenti  
-Avvertono che la loro [[motifs/prayer|prayer]] è vana.  
-"Tu non devi" è spada più gentile  
-Che da un [[characters/god|God]] che delude  
-"Discepolo, torna a chiedere."
 
 
 
@@ -1431,18 +796,6 @@ The “pussum” is found. “Two dollars reward” would return John Franklin. 
 Nearly October, sisters! No one can keep a sumach and keep a secret too. That was my “pipe” F——found in the woods.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Piccole sorelle. Vorrei che foste con me, non esattamente qui, ma in quelle dolci dimore che la mente ama immaginare. Esistono davvero o no? Crediamo di sì, ma come possiamo saperlo con certezza? “La luce che mai è apparsa sul [[motifs/sea|mare]] né sulla terra” potrebbe benissimo esistere.
-
-La nota rustica di F——era dolce come quella delle felci; anche il dono di L——fu apprezzato con tenerezza. Maggie e io stiamo “litigando” per decidere chi dovrà dare a L——questo “dono”, anche se si tratta davvero di una bella “battaglia”. Questa mattina, dopo aver gustato un piacevole uovo e pane tostato forniti da Maggie, A——se ne andò, promettendole di lasciarla sua unica erede.
-
-Il “pussum” è stato trovato. Una ricompensa di “due dollari” potrebbe far tornare John Franklin.
-
-[[motifs/love|Amore]] per zia O. Dille che penso che istruire le [[motifs/flowers|fiori]] sarà il suo compito in cielo.
-
-Quasi ottobre, sorelle. Nessuno può tenere un albero di sumacchino e mantenere un segreto allo stesso tempo. Quella era la mia “pipa”, trovata nel bosco.
-
 
 
 <span class="atom-split" data-atom="l0405_mrs_edward_tuckerman_december_1881" data-title="To Mrs. Edward Tuckerman, December, 1881" data-chapter="" data-kind="intro" data-tags="topos/temptation,concept/faith,concept/doubt,concept/fear,concept/the_unseen,form/letter,histref/the_bible,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -1452,12 +805,6 @@ DEAR FRIEND,—Vinnie asked me if I had any message for you, and while I was pic
 
 Not seeing, still we know, Not knowing, guess; Not guessing, smile and hide And half caress, And quake and turn away; Seraphic [[concepts/fear|fear]]! Is Eden's innuendo “If you dare”?
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, — Vinnie mi ha chiesto se avessi qualche messaggio per te, e mentre lo stavo pensando, tu sei scappato via.
-
-Non vedendo, eppure sappiamo. Non sapendo, indovinare; Non indovinando, sorridere e nascondersi. E accarezzare appena, Tremare e allontanarsi. Quel timore serafico. È forse l’allusione di Eden: “Se osi, ”?
 
 
 
@@ -1471,14 +818,6 @@ Morning without you is a dwindled [[motifs/dawn|dawn]].
 Quickened toward all celestial things by crows I heard this morning, accept a loving caw from a
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Caro amico, —vogliamo che ti svegli. La Pasqua è arrivata e se n’è andata.
-
-Una mattina senza di te è una alba privata della sua luce.
-
-Mentre questa mattina ascoltavo i corvi che acceleravano il loro volo verso tutte le cose celesti, accetta con affetto questo richiamo d’amore da parte di.
-
 
 
 <span class="atom-split" data-atom="l0431_mrs_fs_cooper_1880" data-title="To Mrs. F.S. Cooper, 1880" data-chapter="" data-kind="intro" data-tags="concept/suffering,concept/friendship,concept/doubt,concept/pain,form/letter,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
@@ -1489,20 +828,9 @@ Is sickness pathos or infamy?
 While you forget to decide, please confirm this trifle.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-La malattia è un segno di patos o di disonore?
-
-Mentre ti dimentichi di decidere, per favore conferma questa piccolezza.
-
 
 
 <span class="atom-split" data-atom="l0511_mr_theodore_holland_1885" data-title="To Mr. Theodore Holland, 1885" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/silence,motif/death,concept/faith,concept/doubt,concept/faith_and_doubt,form/letter,histref/the_bible,histref/ancient_rome,character/thomas,cluster/christianity,cluster/faith_and_doubt,cluster/doubt"></span>
 
 
 . . . If you saw a bullet hit a bird, and he told you he wasn't shot, you might weep at his courtesy, but you would certainly [[concepts/doubt|doubt]] his word. Thomas's [[concepts/faith|faith]] in anatomy was stronger than his [[concepts/faith|faith]] in [[concepts/faith|faith]]. . . . Vesuvius don't talk—Ætna don't. One of them said a syllable, a thousand years ago, and Pompeii heard it and hid forever. She couldn't look the world in the face afterward, I suppose. Bashful Pompeii! . . .
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-. Se vedeste una pallottola colpire un uccello e quell’uccello vi dicesse di non essere stato colpito, forse piangereste per la sua gentilezza, ma di certo [[concepts/doubt|dubitereste]] delle sue parole. La [[concepts/faith|fede]] di Thomas nell’anatomia era più forte della sua [[concepts/faith|)fede]] in qualsiasi altra cosa. Il Vesuvio non parla; l’Etna non parla. Uno di loro pronunciò una sillaba mille anni fa, e Pompei la sentì, e si nascose per sempre. Immagino che dopo non potesse più affrontare il mondo. La timida Pompei.

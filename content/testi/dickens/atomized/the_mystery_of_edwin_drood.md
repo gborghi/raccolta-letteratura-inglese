@@ -196,55 +196,6 @@ THE WICKED MAN—” rise among groins of arches and beams of roof,
 awakening muttered thunder.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO I.  
-[[motifs/dawn|ALBA]]
-
-
-Una antica torre della [[settings/cathedral|cattedrale]] inglese? Come può esistere una tale torre qui! Quella famosa torre grigia, massiccia e quadrata della vecchia [[settings/cathedral|cattedrale]]. Come può trovarsi in questo luogo? Non c’è alcun filo di ferro arrugginito visibile nell’aria, da nessuna angolazione possibile. Quale è allora la causa di questa illusione? Forse è stata eretta per ordine del Sultano, per impalare uno dopo l’altro una banda di predoni turchi. Si sentono i suoni dei cimbali mentre il Sultano si avvia verso il suo palazzo in lunga processione: diecimila scimitarre lampeggiano al sole, e trentamila danzatrici spargono [[motifs/flowers|fiori]] lungo il percorso. Poi seguono elefanti bianchi bardati in mille colori splendenti, insieme a un numero infinito di servitori. Eppure la torre della [[settings/cathedral|cattedrale]] continua ad ergersi sullo sfondo. Non può esistere davvero lì. E nessuna figura contorta si trova su quel filo di ferro arrugginito. Fermatevi! Forse quel filo è così basso da essere solo un pezzo di ferraglia arrugginita in cima a un vecchio letto rovesciato? Bisogna dedicare almeno un momento di riflessione a questa possibilità.
-
-Tremando dalla testa ai piedi, l’uomo il cui cervello, frammentato e disordinato, si è finalmente ricomposto in modo strano e fantastico, si alza lentamente, appoggia il proprio corpo tremante sulle braccia e guarda intorno. Si trova in una stanza piccola, squallida e angusta. Attraverso la tenda logora della [[motifs/window|finestra]], la luce dell’alba filtra da un cortile miserabile. È sdraiato, ancora vestito, su un grande letto disordinato, il cui telaio ha ormai ceduto sotto il suo peso. Accanto a lui, anch’essi vestiti e sdraiati sul letto, ma non lungo il suo stesso lato, ci sono un cinese, un lascar e una donna emaciata. I primi due sono addormentati o in uno stato di stordimento; la donna soffia su un qualche tipo di pipa per accenderla. Mentre soffia, nascondendo con la sua mano magra la fiamma rossastra della pipa, essa funge da lampada nella penombra del mattino, permettendogli di vedere ciò che c’è intorno a lui.
-
-“Un altro?”, dice questa donna con un sussurro querulo e tremolante. “Devo averne un altro?”
-
-Si guarda intorno, tenendosi la fronte con la mano.
-
-“Hai fumato ben cinque sigarette da quando sei arrivato a mezzanotte,” continua la donna, lamentandosi in modo cronico. “Povera me. Mi fa così male la testa. Quei due sono arrivati dopo di te. Ah, povera me. Il business va male, davvero male! Ci sono pochi cinesi nei porti, ancora meno indiani, e nessuna nave che arrivi. Ecco un’altra sigaretta pronta per te. Te ne ricorderai, vero? Il prezzo di mercato è davvero esorbitante in questo momento: nemmeno tre scellini e sei pence per una sigaretta! E ricorderai anche che solo io (e Jack il cinese dall’altra parte della strada; ma lui non sa farlo altrettanto [[motifs/well|bene]] di me) conosco la vera ricetta per prepararla. Pagherai quindi il giusto prezzo, vero?”
-
-Mentre parla soffia dentro il tubo; di tanto in tanto, facendo schiuma, ne inala una grande quantità del contenuto.
-
-“O mio Dio, o mio Dio, i miei polmoni sono deboli, molto malati! È quasi pronto per te, caro. Ah, povera me, la mia mano trema così tanto che sembra voler cadere. Ti vedo arrivare e penso: ‘Devo prepararne un altro per lui; deve ricordarsi del prezzo di mercato dell’oppio e pagare correttamente, ’ Oh, povera mia testa. Costruisco le mie pipe usando vecchi flaconi d’inchiostro da dieci penny. Ecco una di queste. Metto il bocchino in questo modo, prendo il miscelatore da questo ditale con questa piccola cucchiaia a forma di corno. E così preparo la miscela. Ah, poveri i miei nervi. Prima di dedicarmi a questo lavoro, sono stato ubriaco per sedici anni. Ma questo non mi fa male affatto. E elimina la fame, proprio come se mangiassi del cibo vero, ”
-
-Gli porge la pipa ormai quasi vuota, poi si sdraia di nuovo, girandosi sulla schiena.
-
-Si alza faticosamente dal letto, posa la pipa sul camino, tira indietro la tenda strappata e guarda con disgusto i suoi tre compagni. Nota che la donna si è fumata l’oppio fino a assumere un aspetto strano, simile a quello del cinese. Le sue guance, i suoi occhi, le sue tempie, nonché il suo colore di pelle, sono esattamente gli stessi di quelli dell’uomo. Il suddetto cinese, in preda alle convulsioni, lotta con uno dei suoi numerosi dèi o demoni, e ringhia terribilmente. Il Lascar ride e bava dalla bocca; la padrona di casa, invece, rimane immobile.
-
-[Illustrazione: Nella [[settings/court|Corte]]
-
-
-“Quali visioni può avere lei?” riflette l’uomo sveglio, mentre le gira il viso verso di sé e lo guarda attentamente. “Visioni di molte macellerie, di osterie. E molto denaro? Di un aumento di clienti orribili. E di questo orrendo letto rimesso in piedi. E di questo terribile cortile ripulito? Con quanta quantità di oppio possa assumere, cosa potrebbe mai raggiungere al di sopra di tutto ciò?! Eh?”
-
-Si china in avanti per ascoltare i suoi mormorii.
-
-“Incomprensibile!”
-
-Mentre osserva quei movimenti spasmodici e improvvisi che emergono dal suo viso e dalle sue membra, come [[motifs/lightning|fulmini]] intermittenti da un cielo buio, una sorta di “contagio” sembra prendere possesso di lui: al punto che è costretto a ritirarsi in una poltrona accanto al camino – forse proprio posta lì per situazioni del genere – e sedersi lì, tenendosi forte, fino a quando non riesce a dominare questo spirito impuro dell’imitazione.
-
-Poi torna indietro, si lancia sul cinese e, afferrandolo con entrambe le mani per la gola, lo gira violentemente sul letto. Il cinese si aggrappa a quelle mani aggressive, resiste, ansima e protesta.
-
-“Che ne dici?”
-
-Un attimo di silenzio, pieno di attenzione.
-
-“Incomprensibile!”
-
-Lentamente allentando la presa mentre ascoltava quel gergo incoerente con un'espressione preoccupata, si girò verso il Lascar e lo trascinò via sul pavimento. Mentre cadeva, il Lascar assunse una posizione semieretta, fissandolo con occhi minacciosi e agitando furiosamente le braccia; estrasse poi un [[characters/phantom|pugnale fantasma]]. A quel punto divenne evidente che la donna aveva preso in custodia quell'arma, per motivi di sicurezza: anche lei si alzò e iniziò a trattenerlo e rimproverarlo; il pugnale era visibile nella sua gonna, non nella sua. Alla fine, entrambi si sdraiarono nuovamente, uno accanto all'altro.
-
-C'è stato abbastanza chiacchiericcio e rumore tra di loro, ma senza alcun risultato concreto. Ogni volta che veniva pronunciata una parola chiara, essa non aveva alcun senso né logica. Pertanto, “incomprensibile!” è ancora il commento dell’osservatore, accompagnato da un cenno di assenso rassicurante e da un sorriso cupo. Poi mette del denaro d’argento sul tavolo, prende il cappello, si dirige verso le scale rotte, saluta con un “buongiorno” il portiere che dorme in una cuccia nera sotto le scale, e se ne va.
-
-Quel pomeriggio stesso, l’enorme torre quadrata grigia di un’antica [[settings/cathedral|Cattedrale]] si erge davanti agli occhi di un viaggiatore stanco e annoiato. Le campane suonano per la funzione vespertina quotidiana, e lui, a giudicare dalla sua fretta nel raggiungere l’aperta porta della [[settings/cathedral|Cattedrale]], sembra proprio intenzionato ad assistervi. Il coro si sta infilando frettolosamente nelle sue vesti bianche, quando lui arriva tra loro, indossa a sua volta la propria veste e si unisce alla processione che si avvia verso la funzione. Poi il sacrista chiude le porte sbarrate di ferro che separano l’altare dal resto della cattedrale, e tutti i partecipanti alla processione si nascondono il viso; in quel momento, le parole del canto “Quando l’uomo malvagio, ” risuonano tra gli archi e le travi del soffitto, suscitando un cupo rimbombo.
-
 
 
 <span class="atom-split" data-atom="chapter_02--part_01" data-title="The Mystery of Edwin Drood — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/shadow,motif/desire,motif/fire,motif/flag,motif/home,motif/leaves,motif/memory,motif/tears,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/body,concept/hope,setting/cathedral,character/edwin_drood"></span>
@@ -374,64 +325,6 @@ the chief Pagan high roads, but since promoted by a patron (grateful
 for a [[motifs/well|well]]-taught son) to his present Christian beat; betakes himself
 to the gatehouse, on his way [[motifs/home|home]] to his early tea.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO II  
-UN DECANO. E ANCHE UN CAPITOLO
-
-
-Chiunque abbia osservato quel volatile tranquillo e “clerico”, il corvo, forse avrà notato che, quando si dirige verso casa al tramonto, in compagnia di altri corvi, due di loro si staccano improvvisamente dal gruppo, tornano indietro per un tratto e poi si fermano a volare in cerchio; questo comportamento potrebbe far pensare che abbia una qualche importanza nascosta per la “città-stato”, tanto da spingere questi due corvi a fingere di aver rinunciato a ogni legame con essa.
-
-Allo stesso modo, dopo la fine della cerimonia nella vecchia [[settings/cathedral|Cattedrale]] con la sua torre quadrata, il coro si disperse di nuovo, e diverse persone venerabili, dall’aspetto imponente, si allontanarono. Due di queste ultime tornarono indietro e camminarono insieme nel vicolo silenzioso.
-
-Non solo la giornata sta volgendo al termine, ma anche l’anno. Il sole basso sul cielo appare rovente eppure freddo dietro le rovine del monastero; la vite rampicante sulla parete della [[settings/cathedral|Cattedrale]] ha fatto cadere metà delle sue [[motifs/leaves|foglie]] di un rosso scuro sui gradini. Questa pomeriggia è piovuto, e un brivido invernale percorre le pozzanghere formatesi sulle pietre crepate e irregolari; gli enormi olmi perdono [[motifs/leaves|foglie]] a pioggia, che si accumulano in mucchi spessi intorno a loro. Alcune di queste [[motifs/leaves|foglie]], con un movimento timido, cercano rifugio all’interno dell’arco basso del portone della [[settings/cathedral|Cattedrale]]; ma due uomini che ne escono le scacciano via con i piedi; dopo averlo fatto, uno dei due chiude la porta con una bella chiave, mentre l’altro se ne va portando con sé un libro di musica.
-
-“Mr. Jasper, era davvero lui, Tope?”
-
-“Sì, signor Dean.”
-
-È rimasto fino a tardi.
-
-“Sì, signor Dean. Sono rimasta con lui, Vostra Reverenza. Sta un po’ male.”
-
-“Dì ‘preso’, Tope, al Decano,” intervenne il giovane pedone con voce bassa, aggiungendo quel tocco di correzione, come per dire: “Puoi permetterti errori grammaticali con i laici o con il clero meno importante, ma non con il Decano.”
-
-Il signor Tope, capo custode e organizzatore di escursioni, abituato ad essere trattato con grande rispetto dalle squadre partecipanti alle gite, rifiuta in modo silenzioso e sprezzante l’idea che qualcuno possa avergli fatto qualche proposta.
-
-“E quando e come è stato portato via il signor Jasper, perché, come ha osservato il signor Crisparkle, è meglio dire ‘portato via’, ” ripete il Decano; “quando e come è stato portato via il signor Jasper, ”
-
-“Prenduto, signore,” mormora rispettosamente Tope.
-
-“—Poveramente, Tope?”
-
-“Ma signore, il signor Jasper è stato proprio così, ”
-
-“Non direi che ‘quello ha respirato’, Toppe”, intervenne il signor Crisparkle con lo stesso tono di prima. “Non è un’espressione inglese, per il Decano, almeno.”
-
-“Respirare fino a quel punto”, osserva il Decano in tono condiscendente (non lusingato da questo omaggio indiretto), “sarebbe preferibile”.
-
-“Il respiro del signor Jasper era davvero molto affannoso, ” Così, in modo discreto, il signor Tope descrive quanto accadde, “Quando entrò, gli risultò estremamente difficile estrarre le sue note; forse questo fu il motivo per cui poco dopo ebbe un piccolo collasso. La sua [[motifs/memory|memoria]] iniziava a vacillare, ” Il signor Tope, fissando il reverendo signor Crisparkle, pronuncia queste parole come se sfidasse chiunque a migliorarle, “E una sorta di stordimento e vertigini lo invasero, cose mai viste prima. Anche se lui stesso non sembrava darci troppo peso. Comunque, dopo un po’ e con un po’ d’[[motifs/water|acqua]], riuscì a riprendersi.” Il signor Tope ripete quelle parole, sottolineandone l’enfasi, come per dire: “Poiché _ho già avuto successo_, ci riuscirò di nuovo.”
-
-“E il signor Jasper è tornato a [[motifs/home|casa]] da solo, vero?” chiese il Decano.
-
-“Vostra Reverenza, è tornato a [[motifs/home|casa]] da solo. Sono felice di vedere che abbia riacceso il suo [[motifs/fire|focolare]], perché fa freddo dopo la pioggia. Quest pomeriggio la [[settings/cathedral|Cattedrale]] aveva un’atmosfera umida e fredda, e lui tremava molto.”
-
-Tutti e tre guardano verso un vecchio portone di pietra che attraversa il cortile, con un passaggio ad arco che vi passa sotto. Attraverso la sua [[motifs/window|finestra]] a griglia, una [[motifs/fire|fiamma]] illumina la scena ormai avvolta nell’oscurità, proiettando [[archetypes/shadow|ombre]] sulle piante di edera e rampicanti che coprono la facciata dell’edificio. Mentre il profondo suono della campana della [[settings/cathedral|Cattedrale]] annuncia l’ora, una brezza leggera attraversa quei luoghi, come un eco di quel suono solenne che risuona tra tombe e torri, nicchie rovinate e statue danneggiate.
-
-“Il nipote del signor Jasper è con lui?” chiede il Decano.
-
-“No, signore,” rispose il custode, “ma era prevedibile. C’è la sua [[archetypes/shadow|ombra]] solitaria tra le due finestre: quella che guarda da questa parte e quella che si affaccia sulla strada principale. Ora sta tirando giù le sue tende.”
-
-“Beh, beh,” disse il Decano, con un tono vivace che sembrava voler interrompere quella breve conversazione, “spero che il signor Jasper non abbia troppa attaccamento per suo nipote. I nostri affetti, per quanto lodevoli, in questo mondo effimero, non dovrebbero mai dominarci; dobbiamo essere noi a guidarli. Il suono della campanella che annuncia la cena mi ricorda piacevolmente che è ora di mangiare. Forse, signor Crisparkle, prima di andare a [[motifs/home|casa]], potreste dare un’occhiata a Jasper, ”
-
-“Certamente, signor Dean. E dicagli che ho avuto la gentilezza di [[motifs/desire|desiderare]] sapere come stesse.”
-
-“Ah sì; fallo pure, certo. Volevo sapere come stesse. Certo che sì. Volevo davvero sapere come stesse.”
-
-Con un piacevole tono di condiscendenza, il Decano si sistema il suo stravagante cappello nel modo in cui un Decano di buon umore potrebbe farlo, e dirige i suoi eleganti stivali verso la accogliente sala da pranzo della vecchia casa in mattoni rossi dove al momento “risiede” insieme a sua moglie e a sua figlia.
-
-Il signor Crisparkle, canonico minore, bello e sorridente, sempre pronto a tuffarsi nelle profonde [[motifs/water|acque]] dei fiumi della zona circostante; il signor Crisparkle, canonico minore, mattiniero, appassionato di musica classica, allegro, gentile, di buon carattere, socievole, soddisfatto e pieno di vitalità; il signor Crisparkle, canonico minore e bravo uomo, che recentemente ricopriva la carica di “istruttore” lungo le principali strade pagane della regione, ma che poi, grazie al sostegno di un mecenate grato per un figlio ben educato, è stato promosso alla sua attuale posizione cristiana; si dirige ora verso il cancello di [[motifs/home|casa]], sulla via del suo tè mattutino.
 
 
 
@@ -578,84 +471,6 @@ their nephews. By George, I wish it was the case with us!”
 Begone, dull Care! that turned a young man gray, and Begone, dull Care!
 that turned an old man to clay.—Halloa, Jack! Don’t drink.”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-“Mi dispiace molto sentire da Tope che non ti senti [[motifs/well|bene]], Jasper.”
-
-“Ah, niente, davvero niente!”
-
-“Sembri un po’ stanco, ”
-
-“Davvero? O, non credo proprio. Inoltre, non mi sento così. Sospetto che Tope abbia esagerato un po’. Dopo tutto, è il suo lavoro cercare di sfruttare al massimo tutto ciò che riguarda la [[settings/cathedral|Cattedrale]], capisci?”
-
-“Posso dire al Decano. Chiamo appositamente dal Decano, che siete tutti di nuovo a posto, vero?”
-
-La risposta, accompagnata da un leggero sorriso, è: “Certamente; con i miei saluti e ringraziamenti al Decano.”
-
-“Sono felice di sentire che aspettate il giovane Drood.”
-
-“Aspetto quel caro ragazzo da un momento all’altro.”
-
-“Ah! Lui ti farà più bene di un medico, Jasper.”
-
-“Meglio di una dozzina di medici. Perché lo [[motifs/love|amo]] molto, e non [[motifs/love|amo]] i medici, né le cose che hanno a che fare con loro.”
-
-Il signor Jasper è un uomo scuro, di circa ventisei anni, con capelli neri folti e lucidi, e baffi ben curati. Sembra più vecchio di quanto non sia, come spesso succede agli uomini scuri. La sua voce è profonda e piacevole; il suo viso e la sua figura sono attraenti, ma il suo modo di comportarsi è un po’ cupo. Anche la sua stanza è piuttosto buia, e probabilmente questo ambiente ha influenzato il suo carattere. La stanza è quasi sempre immersa nell’[[archetypes/shadow|ombra]]; anche quando il sole splende intensamente, raramente raggiunge il grande pianoforte nascosto in un angolo, i libri di musica sullo scaffale, gli scaffali pieni di libri o il dipinto incompiuto di una ragazza in fiore appeso sopra la caminiera: lei ha i capelli castani lunghi legati da un nastro blu, e la sua [[concepts/beauty|bellezza]] risalta per quell’aria di scontento birichino, quasi infantile, che sembra esserne consapevole, (Questo dipinto non possiede alcun valore artistico; è soltanto un abbozzo approssimativo. Ma è evidente che l’autore lo abbia realizzato in modo umoristico, si potrebbe quasi dire, con una sorta di vendetta, proprio come l’originale.)
-
-“Ci mancherai, Jasper, alle ‘Mercoledì Musicali Alternativi’ di questa sera. Ma non c’è [[concepts/doubt|dubbio]] che tu sia meglio a [[motifs/home|casa]] tua. Buona [[motifs/night|notte]]. Che Dio ti benedica! ‘Ditemi, pastori. L’avete vista passare da queste parti?’” Così si esprime il reverendo Septimus Crisparkle, con voce melodiosa e in ritmo musicale, mentre ritira il suo volto amichevole dalla soglia e scende le scale.
-
-Voci di riconoscimento e saluti si scambiano tra il reverendo Septimus e qualcun altro, ai piedi della scala. Il signor Jasper ascolta, si alza dalla sedia e abbraccia un giovane, esclamando:
-
-“Mio caro Edwin!”
-
-“Mio caro Jack! Che gioia rivederti!”
-
-“Togliiti il cappotto, bravo ragazzo, e siediti qui nel tuo angolino. I tuoi piedi non sono bagnati? Togliti gli stivali. Per favore, togliti gli stivali.”
-
-“Mio caro Jack, sono completamente secco. Non essere troppo premuroso con me; sono una persona forte. Preferisco di gran lunga non essere trattato con eccessiva delicatezza.”
-
-Con la consapevolezza di essere stato fermato in modo spietato durante un momento di entusiasmo sincero, il signor Jasper rimane fermo e osserva attentamente il giovane che si toglie cappotto, cappello, guanti e tutto il resto. Ogni volta che il suo sguardo viene rivolto in quella direzione, sul suo volto appare un'espressione di intensità, di affetto appassionato e attento, una espressione che rimarrà sempre così, in quel momento e per sempre dopo. E ogni volta che viene rivolto verso di lui, quel sguardo non è mai diviso o distratto; è sempre concentrato interamente su di lui.
-
-“Ora ho ragione, e ora mi ritirerò nel mio angolo, Jack. Vuoi mangiare qualcosa, Jack?”
-
-Il signor Jasper apre una porta all’estremità superiore della stanza e rivela un piccolo ambiente interno piacevolmente illuminato e preparato; in quel luogo, una bella donna sta sistemando i piatti sul tavolo.
-
-“Che bel vecchio Jack!” esclama il giovane, battendo le mani. “Guarda qui, Jack; dimmi: di chi è oggi l’anniversario?”
-
-“Non è tuo, lo so,” risponde il signor Jasper, fermandosi per riflettere.
-
-“Non è mio, capisci? No, non è mio; lo so io stesso! È di Pussy!”
-
-Considerando l'espressione del volto di quel giovane quando lo incontra, c'è ancora in essa una sorta di strana capacità di far sì che il [[forms/sketch|disegno]] sopra la mensola del camino venga immediatamente coinvolto nella scena.
-
-“Di Pussy, Jack! Dobbiamo brindare a lei con un ‘Many happy returns’. Vieni, zio; porta tuo nipote, diligente e attento, a cena con noi.”
-
-Quando il ragazzo – poiché non è molto più grande di un bambino – pone una mano sulla spalla di Jasper, Jasper, con affetto e allegria, pone a sua volta una mano sulla sua spalla; e così, come nella canzone della Marseillaise, vanno a cena insieme.
-
-“E, Signore, ecco la signora Tope!” esclama il ragazzo. “Più bella che mai!”
-
-“Lasciate fare a me, padrone Edwin”, ribatte la moglie del custode; “so badare a me stessa”.
-
-“Non puoi. Sei troppo bello. Dammi un bacio, perché oggi è il compleanno di Pussy.”
-
-“Ti prenderei in giro, giovane uomo, se fossi quella che tu chiami ‘Pussy’,” risponde arrossendo la signora Tope dopo essere stata salutata. “Tuo zio si preoccupa troppo per te. Ti dà troppa importanza, e penso che tu creda davvero di poter chiamare quelle ragazze ‘Pussy’ a dozzine soltanto per farle venire da te.”
-
-“Dimenticate, signora Tope,” interviene il signor Jasper, sedendosi al tavolo con un sorriso cordiale, “e anche voi, Ned: ‘Zio’ e ‘nipote’ sono termini proibiti qui, per consenso comune e accordo esplicito. Poiché ciò che stiamo per ricevere merita davvero lodi!”
-
-“Fatto esattamente come il Decano! Testimone, [[characters/edwin-drood|Edwin Drood]]! Per favore, incide tu, Jack, io non ne sono capace.”
-
-Questa breve pausa introduce il momento del pasto. Durante la preparazione, non viene detto nulla di rilevante, né per lo scopo attuale né per qualsiasi altro motivo. Alla fine, la tovaglia viene stesa e sul tavolo vengono posizionati un piatto di noci e una caraffa di sherry dal colore intenso.
-
-“Dico sul serio! Dimmi, Jack,” proseguì il giovane: “Pensi davvero che menzionare la nostra relazione possa dividerci in qualche modo? Io no.”
-
-“Di solito, Ned, gli zii sono molto più anziani dei loro nipoti,” è la risposta, “perciò ho questa sensazione istintivamente.”
-
-“Di solito sì! Ah, forse. Ma quale differenza c’è nell’età tra sei o sette anni? E in alcune famiglie numerose, alcuni zii sono persino più giovani dei loro nipoti. Per Giove, vorrei che fosse lo stesso anche per noi!”
-
-“Perché?”
-
-“Perché se fosse così, prenderei l’iniziativa insieme a te, Jack, e sarei altrettanto saggio quanto quel ‘Vattene, noiosa Preoccupazione’ che fece diventare grigio un giovane uomo, e vattene, noiosa Preoccupazione! che trasformò un anziano in polvere. Ehi, Jack! Non bere.”
 
 
 
@@ -811,94 +626,6 @@ relief (and did take) to carving demons out of the stalls and seats and
 desks. What shall I do? Must I take to carving them out of my heart?”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Perché no?
-
-“Chiede perché non farlo il giorno del compleanno di Pussy. E nessuno ha proposto auguri di ‘Felice ritorno’! Pussy, Jack, e molti altri. Voglio dire, auguri di ‘Felice ritorno’, insomma.”
-
-Posando una carezza affettuosa e sorridendo sulla mano tesa del ragazzo, come se fosse allo stesso tempo la sua testa che girava e il suo cuore leggero, il signor Jasper beve il brindisi in [[motifs/silence|silenzio]].
-
-“Hip, hip, hip, e nove per nove. E poi uno per concludere. Capito tutto? Evviva, evviva! Ora, Jack, parliamo un po’ di Pussy. Due paia di mollette? Dammi una, e prendi l’altra, ” Crack. “Come va con Pussy, Jack?”
-
-“Con la sua musica? Certo che sì.”
-
-“Che persona terribilmente coscienziosa sei, Jack! Ma io so. Che il Signore ti benedica! È davvero inattenta, non trovi?”
-
-“Può imparare qualsiasi cosa, se lo desidera.”
-
-“Se lei vorrà. Accidenti, è proprio questo il problema. Ma se non vorrà?”
-
-Crack! — da parte del signor Jasper.
-
-“Com’è fatta, Jack?”
-
-Il volto concentrato del signor Jasper include di nuovo il ritratto mentre risponde: “È davvero molto simile al tuo [[forms/sketch|schizzo]], sì.”
-
-“Sono un po’ orgoglioso di questo,” dice il giovane, alzando lo sguardo con compiacimento verso il [[forms/sketch|schizzo]] e poi chiudendo un occhio per osservarlo meglio attraverso una sorta di “ponte” fatto di noccioline disposte in fila nell’aria: “Non è affatto male rispetto alla mia [[motifs/memory|memoria]]. Ma avrei dovuto catturare quell’espressione in modo ancora più preciso. L’ho vista abbastanza spesso, infatti.”
-
-Crack! — da parte di [[characters/edwin-drood|Edwin Drood]].
-
-Crack! — da parte del signor Jasper.
-
-“Infatti,” riprende l’ex, dopo aver frugato in silenzio tra i suoi frammenti di noce con aria offesa, “lo noto ogni volta che vado da Pussy. Se non lo trovo sul suo viso, lo lascio lì. Lo sapete bene, signorina Presuntuosa e Disprezzante. Buuh!” E con un movimento dei suoi attrezzi per spezzare le noci, indica il ritratto.
-
-Crack! Crack! Crack. Lentamente, da parte del signor Jasper.
-
-Crack. Con decisione, da parte di [[characters/edwin-drood|Edwin Drood]].
-
-[[motifs/silence|Silenzio]] da entrambe le parti.
-
-“Hai perso la lingua, Jack?”
-
-“L’hai trovato, Ned?”
-
-“No, ma davvero, non è forse così, in fondo?”
-
-Il signor Jasper alza le sue sopracciglia scure con aria interrogativa.
-
-“Non è forse insoddisfacente essere privati della possibilità di scegliere in una questione del genere? Ecco, Jack! Te lo dico io: se potessi scegliere, sceglierei Pussy tra tutte le ragazze belle del mondo.”
-
-“Ma non devi necessariamente scegliere.”
-
-“Ecco di cosa mi lamento. Mio padre è morto, e anche il padre di Pussy è morto; quindi devono necessariamente sposarci entrambi in anticipo. Perché, accidenti, volevo dire, se fosse stato rispettoso nei loro [[motifs/memory|ricordi]], non avrebbero potuto lasciarci in pace?”
-
-“Tut, tut, caro ragazzo, ”, rimprovera il signor Jasper con un tono gentile e affettuoso.
-
-“Tut, tut? Sì, Jack, tutto va molto bene per te. Puoi affrontarlo facilmente. La tua vita non è disegnata su una mappa, con linee e punti che indicano il percorso da seguire; nessuno ha il sospetto spiacevole che tu sia stato costretto ad accettare qualcosa, né che tu sia stato imposto a qualcun altro. Puoi scegliere da solo. Per te, la vita è come una prugna con il suo fiore naturale ancora attaccato; non è stata pulita eccessivamente per te, ”
-
-Continua, caro amico. Non fermarti.
-
-“Posso davvero aver ferito i tuoi sentimenti, Jack?”
-
-“Come puoi aver ferito i miei sentimenti?”
-
-Mio Dio, Jack, sembri terribilmente malato. Hai qualcosa di strano sugli occhi.
-
-Il signor Jasper, con un sorriso forzato, tende la sua mano destra, come se volesse allo stesso tempo dissipare le preoccupazioni altrui e guadagnare [[motifs/time|tempo]] per riprendersi. Dopo un po’ dice, in tono debolissimo:
-
-“Prendo l’oppio per un [[motifs/pain|)dolore]], un’agonia che a volte mi sopraffà. Gli effetti del farmaco mi avvolgono come una malattia o una nuvola, e poi passano. Li potete vedere mentre svaniscono; scompariranno immediatamente. Distoglietevi da me, così spariranno ancora più in fretta.”
-
-Con un'espressione spaventata, l’uomo più giovane obbedisce, abbassando lo sguardo sulle ceneri nel focolare. Senza distogliere il proprio sguardo dal [[motifs/fire|fuoco]], anzi rafforzandolo con una presa decisa sulla propria poltrona, l’uomo più anziano rimane immobile per alcuni momenti; poi, con gocce di sudore che gli si formano sulla fronte e un respiro affannoso, torna alla sua normale condizione. Non appena si è ripreso completamente, suo nipote lo assiste con cura e premura fino a quando non è del tutto guarito. Quando Jasper è di nuovo in grado di muoversi, posa una mano dolce sulla spalla del nipote e, con un tono di voce meno preoccupato di quanto possano significare le sue parole – anzi, con un certo spirito scherzoso o giocoso – gli dice:
-
-Si dice che in ogni >casa ci sia uno >scheletro nascosto; ma tu pensavi che nel mio non ce ne fosse, caro Ned.
-
-“Per la mia vita, Jack, pensavo proprio così. Tuttavia, quando ci penso bene, anche nella casa di Pussy – se ne avesse una – e nella mia, se ne avessi una, ”
-
-“Stavi per dire, (ma ti ho interrotto lo stesso) quanto sia tranquilla la mia vita. Nessun trambusto intorno a me, nessuna attività commerciale o calcolo che possa distrarmi, nessun rischio, nessun cambiamento di luogo; io stessa mi dedico all’arte che perseguo, e il mio lavoro è anche il mio piacere.”
-
-“Volevo davvero dire qualcosa del genere, Jack; ma vedi, quando parli di te stesso, quasi inevitabilmente ometti molte cose che avrei dovuto menzionare. Ad esempio: avrei dovuto sottolineare il fatto che tu sia così rispettato come Cappellano della Cattedrale, o Segretario Cattolico, o comunque si chiami questa posizione; che goda della reputazione di aver compiuto miracoli con il coro; che abbia scelto di frequentare certe compagnie e occupi una posizione così indipendente in questo strano vecchio posto; il tuo talento nell’insegnamento (anche Pussy, che non ama essere istruita, dice che non c’è mai stato un maestro come te!), e le tue relazioni, ”
-
-“Sì; ho visto cosa stavi cercando di fare. Lo odio.”
-
-“Lo odi, Jack?” (Molto perplesso.)
-
-“Lo odio. La monotonia soffocante della mia esistenza mi logora poco a poco. Come vi sembra il nostro lavoro?”
-
-“Bello! Davvero celestiale!”
-
-“Spesso mi sembra davvero qualcosa di diabolico. Ne sono così stanco. Gli echi della mia voce tra quelle archi sembrano deridermi per il mio quotidiano lavoro noioso. Nessun povero monaco che abbia trascorso la sua vita in quel luogo cupo potrebbe essere più stanco di me. Lui, almeno, trovava sollievo (e lo trovava davvero) nel scolpire demoni sugli stalli, sui sedili e sulle scrivanie. Cosa dovrei fare io? Devo forse iniziare a “scolpire” demoni anche dal mio cuore?”
-
 
 
 <span class="atom-split" data-atom="chapter_02--part_04" data-title="The Mystery of Edwin Drood — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/dance,motif/grave,motif/love,motif/night,motif/time,motif/well,concept/ambition,concept/aspiration,concept/doubt,concept/hope,concept/self,concept/suffering,character/edwin_drood"></span>
@@ -1029,76 +756,6 @@ call at [[motifs/night|night]], but not to leave a packet. I am ready, Jack!”
 Mr. Jasper dissolves his attitude, and they go out together.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Pensavo che avessi finalmente trovato la tua nicchia nella vita, Jack,” disse Edwin Drood, sorpreso, chinandosi in avanti sulla sedia per posare una mano comprensiva sul ginocchio di Jasper, guardandolo con un'espressione preoccupata.
-
-“So che lo pensavi anche tu. Tutti lo pensano.”
-
-“Beh, suppongo di sì,” dice Edwin, riflettendo ad alta voce. “Anche Pussy la pensa così.”
-
-"Quando te l'ha detto?"
-
-“L’ultima volta che sono stato qui. Te lo ricordi? Tre mesi fa.”
-
-Come l'ha espressa?
-
-“Oh, ha detto solo che era diventata tua allieva, e che tu eri nato per quella vocazione.”
-
-L’uomo più giovane getta un’occhiata al ritratto; l’uomo più anziano lo vede riflesso in lui.
-
-“Comunque, caro Ned,” continua Jasper, scuotendo la testa con una [[motifs/grave|seria]] allegria, “devo sottomettermi alla mia vocazione: in apparenza è più o meno lo stesso. Ora è troppo tardi per cercarne un’altra. Questa è una confidenza tra noi.”
-
-“Dovrà essere conservato con sacro rispetto, Jack.”
-
-“L’ho affidato a te, perché, ”
-
-“Lo sento, te lo assicuro. Perché siamo amici molto intimi, e perché tu mi ami e mi fidi, così come io amo e ti fido. Entrambe le mani, Jack.”
-
-Mentre ognuno di loro si guarda negli occhi dell’altro, e mentre lo zio tiene le mani del nipote, lo zio dice così:
-
-Ora lo sai, vero? Anche un povero cantore monotono e un semplice suonatore di musica, nel suo angolino, può essere tormentato da qualche sorta di [[concepts/ambition|ambizione]], [[concepts/aspiration|aspirazione]], inquietudine, insoddisfazione, come possiamo chiamarla?
-
-“Sì, caro Jack.”
-
-“E te ne ricorderai?”
-
-“Mio caro Jack, ti chiedo solo una cosa: è possibile che io dimentichi ciò che hai detto con tanta emozione?”
-
-“Consideralo allora un avvertimento.”
-
-Nel momento in cui le sue mani vengono liberate e fa un passo indietro, Edwin si ferma per un istante per riflettere sul significato di queste ultime parole. Una volta terminata questa riflessione, dice qualcosa di molto appropriato.
-
-“Temo di essere soltanto una persona superficiale, Jack, e che il mio modo di comportarmi non sia certo dei migliori. Ma non devo nascondere che sono giovane; forse con l’età non peggiorerò. In ogni caso, [[concepts/hope|>spero]] di avere dentro di me qualcosa che possa essere commosso. Qualcosa che percepisca davvero la generosità e la sincerità del tuo modo di mettere a nudo le tue emozioni più profonde, come un monito per me.”
-
-La compostezza del volto e della figura di Mr. Jasper diventa così straordinaria che sembra che il suo respiro si sia fermato.
-
-“Non potevo non notare, Jack, che ti è costato un grande sforzo e che eri davvero molto commosso, molto diverso dal solito. Certo, sapevo che mi volevi molto bene, ma sinceramente non ero preparata a questo tuo, come dire, sacrificio per me.”
-
-Il signor Jasper, tornando a respirare senza il minimo passaggio tra i due stati estremi, alza le spalle, ride e agita il braccio destro.
-
-“No; non mettere da parte quei sentimenti, Jack; per favore non farlo; perché parlo sul serio. Non ho alcun [[concepts/doubt|>dubbio]] che quello stato d’animo negativo che hai descritto con tanta forza comporti davvero qualche sofferenza reale e sia difficile da sopportare. Ma lascia che ti rassicuri riguardo alle possibilità di superarlo: non credo che io rappresenti un ostacolo in questo percorso. Tra pochi mesi, meno di un anno, porterò Pussy fuori dalla scuola come signora [[characters/edwin-drood|Edwin Drood]]. Poi andrò a studiare ingegneria nell’Est, portando con me anche lei. E anche se ora abbiamo qualche piccolo disaccordo, dovuto alla mancanza di novità nel nostro rapporto amoroso – visto che tutto è già deciso in anticipo – non ho alcun [[concepts/doubt|>dubbio]] che andremo d’accordo molto bene quando tutto sarà finito e non ci sarà più nulla da cambiare. In breve, Jack, per tornare alla vecchia canzone che citavo a cena (e chi conosce meglio le vecchie canzoni di te?), mia moglie danzerà e io canterò; trascorreremo i giorni in modo molto felice. Che Pussy sia bella, non c’è alcun [[concepts/doubt|>dubbio]]. E se tu sarai anche gentile, piccola signorina Sfrontatezza, ” aggiunse ancora, rivolgendosi al ritratto, “brucerò quella tua buffa rappresentazione e ne dipingerò un’altra del tuo maestro di musica.”
-
-Il signor Jasper, con la mano appoggiata al mento e un'espressione di benevola meditazione sul viso, ha osservato attentamente ogni gesto e movimento che accompagnava l’effetto di queste parole. Rimane in quella posizione anche dopo che sono state pronunciate, come se fosse affascinato dallo spirito giovane che ama così tanto. Poi dice, con un sorriso tranquillo:
-
-“Quindi non riceverete alcun avvertimento, ”
-
-"No, Jack."
-
-“Non si può proprio avvertire, allora?”
-
-“No, Jack, non per colpa tua. Inoltre, non credo davvero di essere in pericolo; non mi piace che tu ti metta in una situazione del genere.”
-
-Andiamo a fare una passeggiata nel cimitero?
-
-“Certo che no. Non vi dispiacerà se per un attimo esco e vado alla Casa delle Suore, lasciando lì un pacco, vero? Sono solo guanti per Pussy. Quanti paia di guanti quante anni ha oggi. Abbastanza poetico, no, Jack?”
-
-“Niente al mondo è più dolce di questo, Ned”, mormora il signor Jasper, mantenendo la stessa posizione.
-
-“Ecco il pacco nella tasca del mio cappotto. Deve essere consegnato entro la [[motifs/night|notte]], altrimenti la poesia sparirà. È contro le regole per me venire qui di notte, ma non è vietato lasciare un pacchetto. Sono pronto, Jack!”
-
-Il signor Jasper cambia atteggiamento e uscono insieme.
-
 
 
 <span class="atom-split" data-atom="chapter_03--part_01" data-title="The Mystery of Edwin Drood — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/city,motif/dust,motif/garden,motif/ghosts,motif/nature,motif/night,motif/summer,motif/time,motif/wind,concept/faith,concept/nature,setting/cathedral,character/edwin_drood"></span>
@@ -1210,26 +867,6 @@ leads them to infer that she has seen better days. Perhaps this is the
 reason why it is an article of [[concepts/faith|faith]] with the servants, handed down
 from race to race, that the departed Tisher was a hairdresser.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO III.  
-LA CASA DELLE MONACHE
-
-
-Per motivi sufficienti, che questa narrazione stesso chiarirà man mano che procede, è necessario attribuire un nome fittizio alla vecchia città della [[settings/cathedral|Cattedrale]]. In queste pagine sarà chiamata Cloisterham. Un tempo, forse, era conosciuta dai Druidi con un altro nome, certamente dai Romani con un altro ancora, dai Sassoni con un altro, e dai Normanni con un altro; e un nome, nel corso di molti secoli, può ben poco significare per le sue storie polverose.
-
-Un antico [[motifs/city|>città]], Cloisterham, una dimora adatta a nessuno che aneli al mondo rumoroso. Una [[motifs/city|città]] monotona e silenziosa, il cui carattere “terreno” deriva interamente dalle cripte della sua [[settings/cathedral|>Cattedrale]]; piena di resti di tombe monastiche, tanto che i bambini di Cloisterham crescono tra la [[motifs/dust|>polvere]] di abati e abbadesse, facendo “palle di fango” con le ossa di suore e frati. Mentre ogni contadino nei suoi campi circostanti rende omaggio a quei potenti Lord Tesoriere, Arcivescovi, Vescovi e simili, proprio come l’Ogre dei racconti voleva rendere omaggio al suo visitatore indesiderato, macinando le loro ossa per preparare il proprio pane.
-
-In una sonnolenta [[motifs/city|>città]], Cloisterham, i cui abitanti sembrano credere, con un’incoerenza più strana che rara, che tutti i suoi cambiamenti avvengano al di là dei suoi confini e che non ne possano esserci altri in futuro. Una strana morale da trarre dall’antichità, ma ancora più antica di qualsiasi traccia storica rintracciabile. Le strade di Cloisterham sono così silenziose (sebbene siano propense a risuonare al minimo stimolo) che, in una giornata estiva, le tende delle vetrine dei negozi osano appena muoversi al [[motifs/wind|vento]] del sud; mentre i viandanti, abbronzati dal sole e intenti a guardarsi intorno, accelerano un po’ il passo per uscire al più presto dai confini di quella opprimente rispettabilità che caratterizza la [[motifs/city|città]]. Un compito non difficile da realizzare, visto che le strade di Cloisterham non sono altro che una stretta via attraverso cui si entra e si esce dalla città: il resto è per lo più costituito da cortili desolati, con pompe d’acqua al loro interno e nessuna via d’uscita, ad eccezione dell’area vicino alla [[settings/cathedral|Cattedrale]] e di un insediamento dei Quaker, la cui disposizione e il colore ricordano molto il cappello di una donna quaker, situato in un angolo ombreggiato.
-
-In breve, una [[motifs/city|>città]] di un’epoca passata è Cloisterham: con la sua roca [[settings/cathedral|>cattedrale]], le sue gru rauche che volteggiano intorno alla torre della [[settings/cathedral|cattedrale]], e altre gru ancora più rauche e indistinte nei sotterranei. Frammenti di vecchi muri, cappelle dei santi, edifici monastici sono stati inglobati in molte delle sue case e [[motifs/garden|giardini]], proprio come concetti confusi e disparati si sono intrecciati nella mente dei suoi abitanti. Tutto ciò che vi trova è appartenente al passato: persino il suo unico usuraio non accetta pegni, e da molto [[motifs/time|tempo]] offre invano in vendita merci di scarso valore – vecchi orologi opachi e sbiaditi, forchette da zucchero con gambe inutili, volumi di libri cupi e desolati. Gli unici segni della vita che prosegue a Cloisterham sono quelli legati alla vita vegetale nei giardini; persino il suo piccolo teatro, malandato e triste, possiede una misera aiuola in cui, durante certe stagioni dell’anno, vengono collocate piante come fagioli rossi o conchiglie d’ostrica, simboli del male che si ritira dalle scene teatrali per immergersi nelle regioni infernali.
-
-Al centro di Cloisterham sorge la Casa delle Suore: un venerabile edificio in mattoni il cui nome attuale deriva senza dubbio dalla leggenda riguardante le sue funzioni conventuali. Sulla porta ben curata che circonda il suo vecchio cortile è appesa una splendente targa di bronzo che recita: “Seminario per giovani signorine. Miss Twinkleton”. La facciata dell’edificio è così antica e logora, e la targa di bronzo è così lucida e evidente, che l’insieme ricorda a chi vi passa davanti un vecchio gentiluomo malandato con un enorme occhiale da vista moderno fissato nell’occhio cieco.
-
-Se le suore di un tempo, essendo di una generazione più sottomessa che testarda, abitualmente chinavano la testa durante le loro meditazioni per evitare di urtare gli archi dei bassi soffitti delle molte stanze del loro Monastero; se sedevano alle sue lunghe finestre basse per recitare le preghiere della penitenza, invece di utilizzare quegli stessi fili per crearsi collane da indossare; se venivano mai rinchiuse vive in angoli strani o sotto spioventi del edificio, soltanto perché in loro sopravviveva ancora un barlume di quella “lievito” della [[concepts/nature|natura]] madre che ha mantenuto il mondo in movimento fin dai tempi antichi. Queste cose potrebbero interessare i suoi [[motifs/ghosts|fantasmi]] (se ne esistono davvero), ma non fanno parte dei resoconti semestrali di Miss Twinkleton. Non rientrano né tra i membri regolari del suo gruppo, né tra gli “extra”. La signora che si occupa della sezione poetica di questa istituzione, per una remunerazione così alta (o così bassa), non ha alcun brano nel suo elenco di recital che riguardi questioni così poco proficue.
-
-Come in alcuni casi di ubriachezza e in altri di magnetismo animale, esistono due stati di coscienza che mai si scontrano, ma ciascuno segue il proprio percorso indipendente, come se fosse continuo anziché interrotto (così, ad esempio, se nascondo l’orologio quando sono ubriaco, devo essere di nuovo ubriaco prima di ricordare dove l’ho messo); allo stesso modo, la signorina Twinkleton attraversa due fasi distinte e separate della sua esistenza. Ogni [[motifs/night|notte]], non appena le giovani signore si ritirano a riposare, la signorina Twinkleton si sistema i capelli, si illumina lo sguardo e diventa una versione più vivace di sé stessa di quanto le giovani signore l’abbiano mai vista. Ogni [[motifs/night|notte]], alla stessa ora, riprende gli argomenti della [[motifs/night|notte]] precedente: parla con tenerezza dello scandalo di Cloisterham, di cui non ha la minima idea di giorno, e fa riferimento a una certa stagione a Tunbridge Wells (che in questo stato chiamava allegramente “Le Wells”); in particolare, menziona quella stagione in cui un certo gentiluomo (chiamato con compassione “Il sciocco signor Porters”) le dimostrò il proprio affetto, di cui la signorina Twinkleton, nella sua vita quotidiana, è completamente all’oscuro. La compagna della signorina Twinkleton in entrambi questi stati è la signora Tisher: una vedova rispettabile, con la schiena debole, un sospiro cronico e una voce sommessa; si occupa degli abiti delle giovani signore e fa loro credere di aver vissuto tempi migliori. Forse è proprio per questo che tra i domestici circola una tradizione orale: la defunta signora Tisher era in realtà una parrucchiera.
 
 
 
@@ -1377,86 +1014,6 @@ game to be their brothers. It _was_ so droll!”
 
 “O, it was excellent!—I wouldn’t [[motifs/dance|dance]] with you, you know.”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-La pupilla preferita del Convento delle suore è senz’altro la signorina [[characters/rosa-bud|Rosa Bud]], chiamata naturalmente Rosebud; meravigliosamente bella, meravigliosamente infantile, meravigliosamente capricciosa. Nelle menti delle giovani signore sorge un interesse un po’ imbarazzante (imbarazzante perché di natura romantica) nei confronti della signorina Bud: loro sanno infatti che per lei è stato scelto un marito tramite testamento, e che il suo tutore è obbligato a darla in sposa a quell’uomo non appena raggiungerà l’età legale. La signorina Twinkleton, nella sua condizione di “seminariale”, ha cercato di contrastare questo aspetto romantico del destino della ragazza, fingendo di scuotere la testa davanti alle sue spalle increspate e riflettendo sulla sfortunata sorte di quella giovane vittima. Ma senza alcun risultato concreto. Forse qualche commento sciocco da parte del signor Porter ha addirittura compromesso i suoi sforzi. Il risultato è stato che le giovani signore hanno esclamato all’unanimità: “Oh, quanto è falsa e ipocrita la signorina Twinkleton, cara mia!”
-
-La casa delle suore non è mai così in subbuglio come quando questo marito designato viene a trovare la piccola Rosebud. (Tutte le giovani signorine concordano sul fatto che lui abbia legalmente diritto a questo privilegio, e che se Miss Twinkleton lo contestasse, verrebbe immediatamente portata via.) Quando si aspetta il suono del suo campanello alla porta, o quando esso risuona davvero, ogni giovane signorina che può, con qualsiasi pretesto, guardare fuori dalla [[motifs/window|finestra]], lo fa; mentre quelle che sono “a lezione” studiano con ancora più impegno. E la classe di francese diventa talmente demoralizzata che gli appuntamenti avvengono con la stessa frequenza del passaparola in una festa dell’ultimo secolo.
-
-Nel pomeriggio del giorno successivo alla cena a due persone presso la caserma di guardia, la campana viene suonata, con gli soliti risultati disordinati.
-
-“Il signor [[characters/edwin-drood|Edwin Drood]] desidera vedere la signorina Rosa.”
-
-Questo è l’annuncio fatta dalla cameriera capo. La signorina Twinkleton, con un’espressione esemplare di [[concepts/melancholy|melanconia]] sul viso, si rivolge alla “vittima” e dice: “Puoi andare giù, cara.” La signorina Bud scende, seguita dagli sguardi di tutti.
-
-Il signor [[characters/edwin-drood|Edwin Drood]] sta aspettando nella stanza privata della signorina Twinkleton: una camera delicata, nella quale non vi è nulla di strettamente legato allo studio, se non un globo terrestre e uno celeste. Questi oggetti simbolici suggeriscono (ai genitori e ai tutori) che anche quando la signorina Twinkleton si ritira nella privacy della sua stanza, il dovere potrebbe costringerla in qualsiasi momento a diventare una sorta di “giudia errante”, che viaggi per il mondo e voli nei cieli alla ricerca della conoscenza per i suoi studenti.
-
-L’ultima nuova cameriera, che non ha mai visto il giovane signore per cui Miss Rosa è stata scelta e che sta appena iniziando a conoscerlo, inciampa imbarazzata giù per le scale della cucina. Come una graziosa piccola apparizione, con il viso nascosto da un grembiule di seta gettato sulla testa, si insinua silenziosamente nel salotto.
-
-“Oh, è davvero ridicolo!” dice l’apparizione, fermandosi e riducendosi di dimensioni. “Non farlo, Eddy!”
-
-“Non fare cosa, Rosa?”
-
-Non avvicinarti più, per favore. È davvero assurdo.
-
-“Cosa è assurdo, Rosa?”
-
-“Tutta questa situazione è davvero assurda. È assurdo essere una [[archetypes/orphan|orfana]] fidanzata, ed è altrettanto assurdo che le ragazze e le domestiche corran intorno a me come topi in giro per la casa; inoltre, è anche assurdo che mi venga chiesto di partecipare a tutto questo!”
-
-Quell’apparizione sembra avere un pollice nell’angolo della bocca mentre formula questa lamentela.
-
-“Devo dire che mi hai accolto con grande affetto, Pussy, ”
-
-“Beh, lo farò tra un minuto, Eddy, ma non posso ancora adesso. Come stai?”  
-(Molto brevemente.)
-
-“Non posso rispondere che vedere te sia molto meglio per me, Pussy, perché in realtà non ti vedo affatto.”
-
-Questo secondo rimprovero fa apparire un occhio scuro, luminoso e imbronciato da un angolo della gonna; ma scompare rapidamente di nuovo, mentre l’apparizione esclama: “Oh mio Dio! Vi hanno tagliato metà dei capelli!”
-
-“Avrei dovuto comportarmi meglio se mi avessero tagliato la testa, penso,” dice Edwin, arruffando i propri capelli con un’occhiata furiosa allo specchio e dando un calcio impaziente a terra. “Devo andare ora?”
-
-“No; non c’è bisogno che tu vada subito, Eddy. Le ragazze chiederebbero tutte perché te ne sei andato.”
-
-“Una volta per tutte, Rosa, vuoi finalmente alzare quella tua ridicola testolina e darmi il benvenuto?”
-
-L grembiule viene tolto dalla testa del bambino, che risponde:  
-“Grazie mille, Eddy. Ecco, sono sicuro che ti piaccia. Diamo la mano.  
-No, non posso baciarti, perché ho una goccia acida in bocca.”
-
-“Sei davvero felice di vedermi, Pussy?”
-
-“Ah sì, sono davvero molto felice. Vai a sederti, per favore. Signorina Twinkleton.”
-
-È consuetudine di quella eccellente signora, quando avvengono queste visite, comparire ogni tre minuti, sia in persona che sotto le sembianze della signora Tisher, e offrire un “omaggio” al tempio della Decenza fingendo di cercare qualche oggetto desiderato. In questa occasione, la signorina Twinkleton, entrando ed uscendo con grazia, dice passando: “Come sta, signor Drood? Sono davvero molto felice di questo incontro. Scusi. Forbici. Grazie!”
-
-“Ho preso i guanti ieri sera, Eddy, e mi piacciono molto. Sono davvero belli.”
-
-“Beh, questa sì che è una cosa, ” risponde la fidanzata, con un mezzo brontolio. “Finalmente un po’ di incoraggiamento. E com’è andata la tua festa di compleanno, Pussy?”
-
-“Meravigliosamente! Tutti mi hanno regalato un dono. E abbiamo fatto una festa. E poi c’è stata una serata danzante di [[motifs/night|notte]].”
-
-“Una festa e un ballo, eh? Sembra che queste occasioni vadano abbastanza [[motifs/well|bene]] anche senza di me, Pussy.”
-
-“Con gioia immensa!”, esclama Rosa, in modo del tutto spontaneo, senza la minima traccia di riserbo.
-
-“Hah! E di cosa consisteva quel banchetto?”
-
-“Torte, arance, gelatine e gamberi.”
-
-“Ci sono partner al ballo?”
-
-“Certo che abbiamo ballato insieme, signore. Ma alcune ragazze hanno finto di essere i loro fratelli. È stato davvero divertente!”
-
-“Qualcuno ha voluto davvero mettersi alla prova, ”
-
-“Essere te? Oh sì, certo!” esclama Rosa, ridendo felicemente.  
-“Quella è stata la prima cosa che abbiamo fatto.”
-
-“Spero che l’abbia fatto abbastanza [[motifs/well|bene]],” dice Edwin, con una certa incertezza.
-
-“Oh, è stato eccellente! — Sai, non ballerei mai con te, ”
 
 
 
@@ -1629,116 +1186,6 @@ especially when they are to change the whole condition of an
 undeveloped country.”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Edwin sembra quasi non rendersi conto della forza di queste parole; chiede se possa prendersi la libertà di sapere il motivo.
-
-“Perché ne avevo abbastanza di te,” risponde Rosa. Ma aggiunge subito dopo, con tono supplichevole, vedendo l’infelicità sul suo viso: “Caro Eddy, anche tu ne avevi abbastanza di me, lo sai.”
-
-“Non l’avevo detto? Vedi?”
-
-“Dillo pure! Lo dici mai davvero? No, lo mostri solo. Oh, l’ha fatto così [[motifs/well|bene]]!” esclama Rosa, in un improvviso attacco di entusiasmo verso il suo finto fidanzato.
-
-“Mi sembra che lei debba essere una ragazza impudente e malvagia,” dice Edwin Drood. “E così, Pussy, hai trascorso il tuo ultimo compleanno in questa vecchia >casa.”
-
-“Ah, sì!” Rosa si mette le mani davanti al viso, guarda giù con un sospiro e scuote la testa.
-
-“Sembri dispiaciuta, Rosa, ”
-
-“Mi dispiace per quel povero vecchio posto. In qualche modo, ho la sensazione che mi mancherà, quando me ne andrò così lontano, così giovane, ”
-
-“Forse sarebbe meglio che ci fermassimo qui, Rosa, ”
-
-Lo guarda in su con uno sguardo rapido e luminoso; un attimo dopo scuote la testa, sospira e abbassa di nuovo lo sguardo.
-
-“Voglio dire, è davvero così, Pussy? Che entrambi abbiamo accettato la situazione senza più reagire?”
-
-Annuisce di nuovo, e dopo un breve [[motifs/silence|silenzio]], esclama in modo caratteristico: “Sai che dobbiamo sposarci, e subito, Eddy. Altrimenti quelle povere ragazze rimarranno terribilmente deluse!”
-
-Per il momento, sul volto del marito promesso di lei c’è più compassione, sia per lei che per sé stesso, che [[motifs/love|amore]] vero. Lui osserva quel suo sguardo e chiede: “Devo portarti a fare una passeggiata, cara Rosa?”
-
-Rosa cara non sembra affatto chiara su questo punto, fino a quando il suo viso, che fino ad ora ha mostrato un’espressione comica e riflessiva, non si illumina. “Oh sì, Eddy; andiamo a fare una passeggiata! E ti dico cosa faremo: tu farai finta di essere fidanzato con qualcun altro, e io farò finta di non essere fidanzata con nessuno, così non ci scontreremo più.”
-
-“Pensi davvero che questo possa impedirci di litigare, Rosa?”
-
-“So che succederà. Zitta! Fai finta di guardare fuori dalla [[motifs/window|finestra]]. La signora Tisher!”
-
-Attraverso una serie di coincidenze fortuite, la matrona Tisher appare all’improvviso, muovendosi nella stanza con un fruscio, come il leggendario [[archetypes/ghost|fantasma]] di una dama anziana in gonne di seta: “Spero che il signor Drood stia [[motifs/well|bene]]. Anche se non avrei dovuto chiederlo, a giudicare dal suo aspetto. Spero di non aver disturbato nessuno; ma c’era un coltello da carta. Oh, grazie, ne sono sicura!” e scompare con il suo “trofeo”.
-
-“C’è un’altra cosa che devi fare, Eddy, per accontentarmi,” dice Rosebud. “Non appena usciremo in strada, devi lasciarmi fuori e tenerti tu vicino alla casa, strofinati contro di essa.”
-
-“Certo che sì, Rosa, se lo desideri. Posso chiederti il motivo?”
-
-“Ah, perché non voglio che le ragazze ti vedano.”
-
-“È una bella giornata. Ma vuoi che porti un ombrello con me?”
-
-“Non sia sciocco, signore. Non indossa mica stivali di pelle lucida,” disse, facendo il broncio e alzando una spalla.
-
-“Forse così le ragazze non se ne accorgeranno, anche se mi vedessero,” osserva Edwin, guardando i propri stivali con un improvviso disgusto per loro.
-
-“Niente sfugge alla loro attenzione, signore. E allora so cosa accadrebbe: alcuni di loro inizierebbero a riflettere su di me, dicendo (poiché _loro_ sono liberi) che non si impegneranno mai con degli innamorati senza stivali di pelle lucida. Ascoltate. Signorina Twinkleton, chiederò permesso.”
-
-Quella signora discreta, mentre avanzava, veniva effettivamente ascoltata senza che nessuno le facesse domande, con un tono di conversazione gentile: “Eh? Davvero! Siete sicuri di aver visto il mio portabottoni in madreperla sul tavolo da lavoro nella mia stanza?” Subito dopo chiedeva il permesso di andarsene e veniva gentilmente accontentata. Poco dopo, la giovane coppia uscì dalla Casa delle suore, prendendo tutte le precauzioni possibili per evitare che venissero scoperte le scarpe così gravemente difettose del signor [[characters/edwin-drood|Edwin Drood]]. Precauzioni, si spera, efficaci per garantire la tranquillità della signora [[characters/edwin-drood|Edwin Drood]].
-
-“Quale strada dovremmo prendere, Rosa?”
-
-Rosa risponde: “Voglio andare nel negozio dei ‘Bocconi di Delizia’.”
-
-“Per il—?”
-
-“Un dolce turco, signore. Mio caro, non capite proprio nulla? Vi definite ingegnere e non lo sapete nemmeno?”
-
-“Ma come potrei saperlo, Rosa?”
-
-“Perché mi piacciono molto. Ma oh, ho dimenticato quale dovrebbe essere la nostra finzione. No, non c’è bisogno che tu sappia nulla di loro; lascia perdere.”
-
-So che viene trascinato via, con aria cupa, verso il negozio dei “Bocconi di Delizia”, dove Rosa fa la sua spesa. Dopo avergli offerto alcuni di quei bocconi (che lui rifiuta con notevole indignazione), lei inizia a gustarli con grande entusiasmo: prima toglie e arrotola un paio di piccoli guanti rosa, simili a [[motifs/rose|foglie di rosa]], e di tanto in tanto si porta le sue dita rosa alle labbra, per pulirle dal “[[motifs/dust|polvere]] della Delizia” che si deposita su quei bocconi.
-
-“Ora, sii un bravo Eddy e fai finta. Quindi sei fidanzato?”
-
-“E così sono fidanzato.”
-
-“È gentile?”
-
-“Incantevole.”
-
-“Altro che alto, ”
-
-“Enormemente alto!” dato che Rosa era bassa.
-
-“Deve essere goffo, penso,” è il commento silenzioso di Rosa.
-
-“Mi scusi; affatto no,” pensò, sentendo nascere in sé il desiderio di contraddire.
-
-“Quella che viene definita una donna nobile e splendida, ”
-
-“Naso grosso, nessun [[concepts/doubt|>dubbio]]”, è di nuovo quel commento silenzioso.
-
-“Di certo, non una piccola, ” è la risposta pronta, (visto che Rosa è proprio una “piccola”).
-
-“Naso lungo e pallido, con una protuberanza rossa al centro. Conosco bene quel tipo di naso,” dice Rosa, annuendo soddisfatta, godendosi tranquillamente quelle protuberanze.
-
-“Non sai proprio di che tipo sia quel naso, Rosa,” disse con un certo calore; “perché non è affatto di quel genere.”
-
-“Non hai il naso pallido, Eddy?”
-
-“No.” Deciso a non acconsentire.
-
-“Un naso rosso? Oh. Non mi piacciono i nasi rossi. Comunque, sicuramente può sempre cospargerlo di polvere.”
-
-“Lei disdegnerebbe anche solo polverizzarla,” dice Edwin, infervorendosi.
-
-“Davvero lo farebbe? Che stupida deve essere. È davvero stupida in tutto?”
-
-"No; in nulla."
-
-Dopo una pausa, durante la quale quel volto malizioso e capriccioso non lo aveva perso di vista, Rosa disse:
-
-“E questa creatura così sensata apprezza l’idea di essere portata via in [[settings/egypt|>Egitto]]; vero, Eddy?”
-
-“Sì. Lei mostra un interesse sincero per i successi della tecnologia ingegneristica, soprattutto quando questi possono cambiare completamente la situazione di un paese sottosviluppato.”
-
 
 
 <span class="atom-split" data-atom="chapter_03--part_04" data-title="The Mystery of Edwin Drood — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/dust,motif/leaves,motif/nature,motif/silence,motif/tears,motif/time,motif/well,concept/hope,concept/nature,concept/wonder,character/edwin_drood"></span>
@@ -1853,70 +1300,6 @@ clever in it—but I want to do right. There is not—there may be—I really
 don’t see my way to what I want to say, but I must say it before we
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Lor!” disse Rosa, scrollando le spalle e con una leggera risata di [[concepts/wonder|stupore]].
-
-“Obietti qualcosa?” chiede Edwin, abbassando lo sguardo con maestosità sulla figura fatata: “Obietti tu, Rosa, al fatto che lei provi quel sentimento?”
-
-“Obiezione? Mio caro Eddy. Ma davvero, non odia forse i caldaie e simili cose?”
-
-“Posso garantire che non è così stupida da odiare i Boiler,” risponde con enfasi arrabbiata; “ma non posso certo garantire le sue opinioni su ‘Le Cose’. Davvero, non capisce affatto a cosa servano.”
-
-“Ma non odia forse gli arabi, i turchi, i fellah e tutte le altre persone?”
-
-“Assolutamente no.” Con molta fermezza.
-
-“Almeno dovrebbe odiare le Piramidi, no? Andiamo, Eddy, ”
-
-“Perché dovrebbe essere così, insomma, altezzosa da odiare le Piramidi, Rosa?”
-
-“Ah! Dovreste sentire la signorina Twinkleton,” diceva spesso annuendo con la testa e godendosi molto quelle storie, “parlare di loro. Allora non chiedereste nemmeno. Quei noiosi cimiteri antichi! Iside, Ibis, Cheope, i faraoni. A chi importa di loro? E poi c’è stato Belzoni, o qualcun altro, trascinato via per le gambe, mezzo soffocato da pipistrelli e [[motifs/dust|polvere]]. Tutte le ragazze dicono: ‘Gli è andata bene. Sperano che gli abbia fatto male. Vorrebbero che fosse morto soffocato’.”
-
-Le due giovani figure, una accanto all’altra, ma ora non più con le braccia intrecciate, vagano scontente per quel vecchio cortile; e ogni tanto si fermano e lasciano lentamente un segno più profondo sulle foglie cadute.
-
-“[[motifs/well|Beh]]!”, dice Edwin dopo un lungo [[motifs/silence|silenzio]]. “Secondo le usanze. Non possiamo salire, Rosa.”
-
-Rosa scuote la testa e dice che non vuole salire.
-
-“È davvero un sentimento bello, Rosa, devo dire.”
-
-"#Considerando cosa?"
-
-“Se ti dico cosa fare, sbaglierai di nuovo.”
-
-“Commetterai degli errori, intendi, Eddy. Non essere avaro.”
-
-“Ingeneroso! Mi piace!”
-
-“Allora a me non piace affatto, quindi te lo dico chiaramente,” borbotta Rosa con il labbro inferiore sporgente.
-
-“Ora, Rosa, te lo chiedo: chi ha diffamato la mia professione, il mio destino, ”
-
-“Non verrai sepolto nelle Piramidi, spero, ”, interrompe lei, inarcando le sue delicate sopracciglia. “Non hai mai detto niente del genere. Se è vero, perché non me l’hai mai raccontato? Non posso scoprire i tuoi piani per intuizione.”
-
-“Ora, Rosa, tu sai molto bene cosa intendo, cara mia.”
-
-“Allora, perché hai iniziato con quelle orribili gigantesse dal naso rosso? E lei, lei, lei, lei, LEI doveva assolutamente metterci la polvere!”, esclama Rosa, in un piccolo scatto di comica contraddizione.
-
-“In qualche modo, non riesco mai a partecipare correttamente a queste discussioni,” dice Edwin, sospirando e rassegnandosi.
-
-“Come è possibile, signore, che lei riesca sempre a raggiungere la verità quando invece sbaglia costantemente? E per quanto riguarda Belzoni, suppongo sia morto. Spero davvero che lo sia. E come potrebbero le sue gambe o i suoi problemi respiratori interessarla?”
-
-“È quasi arrivato il momento del tuo ritorno, Rosa. Non è stata una passeggiata molto piacevole, vero?”
-
-“Una passeggiata felice? No, una passeggiata terribilmente infelice, signore. Se vado di sopra non appena arrivo e piango fino a quando non posso più andare alla lezione di danza, ne siete voi responsabile, capito?”
-
-“Siamo amici, Rosa.”
-
-“Ah!” esclama Rosa, scuotendo la testa e scoppiando in vere e proprie [[motifs/tears|lacrime]]. “Vorrei tanto che potessimo essere amiche. È proprio perché non possiamo esserlo che ci comportiamo così l’una con l’altra. Sono solo una ragazzina, Eddy. Ma a volte provo davvero dolore nel cuore. Non arrabbiarti: so che anche tu ne hai spesso bisogno. Entrambi avremmo potuto comportarci meglio, se ciò che era destinato ad accadere fosse rimasto semplicemente possibile. Ora sono un po’ seria. Non sto più scherzando. Questa volta, per il nostro bene e anche per quello dell’altra, dovremmo entrambi trattenerci.”
-
-Disarmato da questo fugace ritratto della [[concepts/nature|>natura]] femminile in quel bambino viziato, sebbene per un istante fosse propenso a risentirsi di ciò che sembrava rappresentare l’imposizione della sua presenza su di lei, [[characters/edwin-drood|Edwin Drood]] continuò a osservarla mentre piangeva e singhiozzava in modo infantile, tenendosi il fazzoletto sugli occhi. Poi, quando si calmò un po’ e iniziò persino a ridere di se stessa per essere stata così commossa, la invitò a sedersi vicino, sotto gli olmi.
-
-Illustrazione: Sotto gli alberi
-
-“Una sola parola chiara, cara Pussy. Non sono particolarmente intelligente in questo campo; anzi, a pensarci bene, non so nemmeno se lo sia davvero. Ma voglio fare la cosa giusta. Non so esattamente come dirlo, ma devo farlo prima che, ”
-
 
 
 <span class="atom-split" data-atom="chapter_04_there_is_not_any_other_young" data-title="The Mystery of Edwin Drood — Part 4: there is not any other young—”" data-chapter="there is not any other young" data-kind="chapter" data-tags="motif/night,setting/cathedral,character/edwin_drood"></span>
@@ -1963,34 +1346,6 @@ sorts of phantoms. Can’t you see a happy Future?”
 For certain, neither of them sees a happy Present, as the gate opens
 and closes, and one goes in, and the other goes away.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-“Parte, non c’è nessun altro giovane, ”
-
-“No, Eddy! È molto gentile da parte tua chiedermelo, ma no, assolutamente no!”
-
-Sono arrivati molto vicini alle finestre della [[settings/cathedral|Cattedrale]], e in questo momento l’organo e il coro suonano in modo sublime. Mentre ascoltano quel suono solenne, nella mente del giovane Edwin Drood riaffiora la fiducia provata la scorsa [[motifs/night|notte]], e pensa quanto questa musica sia diversa da quella disarmonia di prima.
-
-“Credo di riconoscere la voce di Jack,” disse lui a bassa voce, in linea con quel filo di pensieri.
-
-“Portami via subito, per favore,” lo esorta la sua fidanzata, posando rapidamente la sua mano leggera sul suo polso. “Tutti usciranno tra poco; andiamo via. Oh, che suono meraviglioso! Ma non fermiamoci ad ascoltarlo; andiamo via!”
-
-La sua fretta scompare non appena escono dal vicolo. Ora camminano a braccio, con aria seria e deliberata, lungo la vecchia High-street, verso la Casa delle suore. Alla porta, vedendo che la strada è deserta, Edwin si china verso il viso di Rosebud.
-
-Si lamenta ridendo, e diventa di nuovo una ragazzina scolastica infantile.
-
-“Eddy, no! Sono troppo appiccicoso per essere baciato. Ma dammi la tua mano, e ti soffierò un bacio lì dentro.”
-
-Lo fa. Lei soffia dentro di esso delicatamente e chiede, tenendolo tra le mani e guardandolo dentro: —
-
-“Ora dimmi: cosa vedi?”
-
-“Vedi, Rosa?”
-
-“Ma pensavo che voi ragazzi egiziani poteste guardare dentro una mano e vedere ogni sorta di fantasmi. Non riuscite forse a vedere un futuro felice?”
-
-Di certo, nessuno dei due vede un futuro felice: quando il cancello si apre e si chiude, uno entra e l’altro se ne va.
 
 
 
@@ -2117,53 +1472,6 @@ bamboo and sandalwood from the East Indies; I put my finger on them
 all. I have put my finger on the North Pole before now, and said ‘Spear
 of Esquimaux make, for half a pint of pale sherry!’”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO IV.  
-IL SIGNOR SAPSEA
-
-
-Riconoscendo il comportamento del “Jackass” come un esempio di stupidità e presunzione [[concepts/self|auto]]-sufficienti, una consuetudine forse simile ad altre, più convenzionale che giusta, allora il vero “jackass” più puro di Cloisterham è il signor Thomas Sapsea, l’astaio.
-
-Il signor Sapsea “si veste” come il decano; è stato salutato con rispetto in sua presenza, per errore; addirittura, per strada, gli è stato rivolto il titolo di “Mio Signore”, pensando che fosse il vescovo arrivato inaspettatamente, senza il suo cappellano. Il signor Sapsea ne è molto orgoglioso, così come della sua voce e del suo modo di parlare. Ha persino provato (quando vendeva proprietà terriere) a modulare leggermente il tono delle sue parole dal pulpito, per sembrare più in linea con ciò che considera l’aspetto autentico di un ecclesiastico. Così, alla fine di un’asta pubblica, il signor Sapsea conclude la vendita con un tono che sembra una benedizione rivolta ai broker presenti, lasciando molto indietro il vero decano: un gentiluomo modesto e degno.
-
-Il signor Sapsea ha molti ammiratori; infatti, l’opinione che lui rappresenti un onore per Cloisterham è condivisa da una larga maggioranza della popolazione locale, anche da coloro che non credono nella sua saggezza. Possiede le qualità essenziali di essere “profetico” e noioso allo stesso tempo; il suo modo di parlare e il suo passo hanno un carattere particolare; per non menzionare i suoi gesti delle mani, così solenni da far pensare che stia per confermare la fede a chi gli parla. Avendo superato di molto i cinquant’anni, con una pancetta prominente e pieghe orizzontali sul gilet, si dice sia ricco; vota alle elezioni nel rispetto assoluto delle convenzioni sociali; è moralmente convinto che da quando era bambino nulla sia cambiato in lui. Come potrebbe il sciocco signor Sapsea non rappresentare un onore per Cloisterham e per la società?
-
-Gli uffici di Mr. Sapsea si trovano in High-street, di fronte alla Casa delle suore. Risalgono più o meno allo stesso periodo della costruzione di quella casa; sono stati modernizzati qua e là, man mano che le generazioni che vi abitavano, sempre più in cattive condizioni, preferivano l’aria fresca e la luce alla febbre e alla peste. Sopra la porta d’ingresso c’è un’effigie in legno, alta circa la metà della dimensione naturale, raffigurante il padre di Mr. Sapsea: indossa una parrucca riccia e una toga, e sembra essere intento a vendere qualcosa. La semplicità dell’idea rappresentata e l’aspetto naturale del mignolo, del martello e del pulpito hanno ricevuto grandi apprezzamenti.
-
-Il signor Sapsea siede nel suo noioso salotto al piano terra, guardando prima il proprio cortile lastricato e poi il [[motifs/garden|giardino]] recintato. Sul tavolo, davanti al camino – un lusso che si diffuse presto, ma piacevole nelle fresche serate autunnali – c’è una bottiglia di vino porto. Come è tipico per lui, nella stanza ci sono anche il suo ritratto, l’[[motifs/clock|orologio]] a otto giorni e il barometro. Elementi che, secondo lui, dovrebbero proteggerlo dall’umanità, dal [[motifs/time|tempo]] e, dal tempo stesso.
-
-Accanto a Mr. Sapsea sul tavolo ci sono una scrivania e materiali da scrittura. Dopo aver dato un’occhiata a un foglio di manoscritto, Mr. Sapsea lo legge ad alta voce con aria solenne, poi, camminando lentamente avanti e indietro nella stanza con i pollici infilati nelle tasche del gilet, lo ripete dalla [[motifs/memory|memoria]]: in modo così sommesso, ma con grande dignità, che la parola “Ethelinda” risuona l’unica udibile.
-
-Ci sono tre bicchieri da vino puliti su un vassoio sul tavolo. Quando entra la sua cameriera e annuncia: “Il signor Jasper è arrivato, signore”, il signor Sapsea fa segno di farlo entrare e prende due bicchieri dal vassoio, poiché sembrano essere stati richiesti.
-
-“È un piacere vedervi, signore. Mi compiaccio di avere l’[[concepts/honour|onore]] di ricevervi qui per la prima [[motifs/time|volta]].” Il signor Sapsea onora così la sua casa.
-
-“Sei molto bravo. L’[[concepts/honour|'onore]] è mio, e anche la soddisfazione personale è mia.”
-
-“È un piacere per me dirlo, signore. Ma vi assicuro che ricevervi nella mia umile [[motifs/home|>casa]] è davvero una grande soddisfazione per me. E questo non lo direi a tutti.” Nelle parole del signor Sapsea c’è un’incomparabile aria di superiorità, che lascia intendere: “Non crederete facilmente che la compagnia di persone come voi possa rappresentare una vera gioia per uno come me. Eppure, è così.”
-
-“Da un po’ di [[motifs/time|tempo]] desideravo conoscervi, signor Sapsea.”
-
-“E io, signore, da tempo conosco la vostra reputazione di uomo dal buon gusto. Lasciate che vi riempia il bicchiere. Vi offrirò qualcosa, signore,” disse il signor Sapsea, riempiendo prima il proprio bicchiere.
-
-“Quando i francesi arriveranno, possiamo incontrarli a Dover!”
-
-
-Questo fu un brindisi patriottico ai tempi dell’infanzia del signor Sapsea; per questo motivo è completamente convinto che sia appropriato anche per qualsiasi epoca successiva.
-
-“È difficile che lei sia ignorante, signor Sapsea”, osserva Jasper, guardando con un sorriso l’astaio mentre questi allunga le gambe davanti al [[motifs/fire|fuoco]], “visto che conosce bene il mondo”.
-
-“Beh, signore,” rispose ridendo, “credo di sapere qualcosa al riguardo; qualcosa, insomma.”
-
-“La tua reputazione per quella conoscenza mi ha sempre interessato e sorpreso, e mi ha fatto desiderare di conoscerti. Perché Cloisterham è un posto piccolo. Rinchiuso lì dentro, non so nulla al di fuori di esso, e lo considero davvero un luogo molto limitato.”
-
-“Se non sono mai stato all’estero, giovane signore,” inizia il signor Sapsea, per poi fermarsi: “Lei mi scuserà se la chiamo giovane signore, vero, signor Jasper? Lei è molto più giovane di me.”
-
-"Certo che sì."
-
-“Se non sono mai andato nei paesi stranieri, giovane uomo, è stato il mondo estero ad arrivare da me. È arrivato attraverso gli affari, e così ho avuto maggiori opportunità. Immaginiamo che faccia un inventario, o che crei un catalogo: vedo un [[motifs/clock|orologio]] francese. Non l’avevo mai visto in vita mia, ma immediatamente so dire ‘[[settings/paris|Parigi]]!’ Vedo alcune tazze e piattini di produzione cinese. Anche questi mi sono sconosciuti personalmente, ma li indico subito e dico ‘Pechino, Nanchino, Canton’. Lo stesso vale per il Giappone, l’[[settings/egypt|Egitto]], nonché il bambù e il sandalo provenienti dalle Indie Orientali. Ho persino indicato il Polo Nord, dicendo: ‘Realizzato dagli Eschimesi, per mezzo litro di sherry chiaro!’”
 
 
 
@@ -2300,68 +1608,6 @@ The auctioneer inclines his head, as one accepting his due and giving a
 receipt; and invites the entering [[characters/durdles|Durdles]] to take off that glass of
 wine (handing the same), for it will warm him.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-“Davvero? Un modo davvero notevole, signor Sapsea, per acquisire conoscenza delle persone e delle cose.”
-
-“Lo menziono, signore,” riprende il signor Sapsea con un compiacimento indescrivibile, “perché, come dico, non è giusto vantarsi di ciò che si è; ma bisogna mostrare come si è arrivati a esserlo, e solo allora si può dimostrare davvero di esserlo.”
-
-“Molto interessante. Dovevamo parlare della defunta signora Sapsea.”
-
-“Lo eravamo, signore,” rispose il signor Sapsea. Riempì entrambi i bicchieri e ripose nuovamente la caraffa in un posto sicuro. “Prima di chiedervi il vostro parere, come uomo di gusto, su questa piccola questione, che è _solo_ una questione di poco conto, ma che comunque richiede qualche riflessione, forse dovrei prima descrivervi il carattere della defunta signora Sapsea, morta ormai da tre quarti d’anno.”
-
-Il signor Jasper, mentre sbadiglia dietro al suo bicchiere di vino, abbassa quella maschera e assume un’espressione interessata. Tuttavia, la sua capacità espressiva ne risente leggermente, poiché continua a tenere la bocca spalancata e gli occhi umidi.
-
-“Circa sei anni fa,” prosegue il signor Sapsea, “quando avevo ampliato le mie capacità mentali, non dirò fino a che livello, perché ciò potrebbe sembrare un obiettivo troppo ambizioso, ma almeno fino al punto di desiderare che un’altra mente si fondesse con la mia, ho iniziato a cercare una compagna per il matrimonio. Perché, come dico, non è bene che l’uomo sia solo.”
-
-Sembra che il signor Jasper conservi quest’idea originale nella sua [[motifs/memory|memoria]].
-
-“A quell’epoca, Miss Brobity rappresentava, per così dire, un’altra realtà parallela rispetto a quella esistente presso l’istituto delle suore di fronte. La gente diceva che lei mostrasse grande interesse ad assistere alle mie vendite, soprattutto durante le festività o in periodo vacanziero; inoltre, ammirava il mio stile. Col passare del [[motifs/time|tempo]], si notò anche che il mio stile veniva riprodotto nelle esercitazioni di dettato dei suoi alunni. Beh, persino voci maliziose circolarono riguardo a un certo genitore ignorante e ossessionato che si oppose apertamente a questo fenomeno. Ma io non ci credo. È davvero possibile che una persona sana di mente si esponga così facilmente al disprezzo altrui?”
-
-Il signor Jasper scuote la testa: assolutamente improbabile. Il signor Sapsea, in uno stato di distrazione estrema, sembra riempire il bicchiere del suo visitatore, che già è pieno; e infatti lo fa davvero, anche se il proprio bicchiere è vuoto.
-
-“La natura di Miss Brobity era profondamente permeata di rispetto per la Mente. Ammirava la Mente, quando questa veniva espressa attraverso una vasta conoscenza del mondo. Quando le feci la mia proposta, mi concesse l’[[concepts/honour|onore]] di essere avvolto da un sentimento di ammirazione tale da rendermi incapace di pronunciare altro che quelle due parole: ‘O Tu!’, che si riferivano a me stesso. I suoi occhi azzurri e limpidi erano fissi su di me; le sue mani semitrasparenti erano giunte una sull’altra; il pallore aveva invaso i suoi tratti aquilini. E, sebbene incoraggiata a proseguire, non disse mai più una parola. Concludemmo l’accordo tramite un contratto privato e diventammo quasi come una coppia, considerando le circostanze. Ma lei non riuscì mai, e non lo fece mai, a trovare una frase che soddisfacesse la sua valutazione forse troppo lusinghiera del mio intelletto. Fino all’ultimo momento, mi rivolgeva sempre con quelle stesse frasi incompiute.”
-
-Il signor Jasper ha chiuso gli occhi mentre l’astaio aveva alzato la voce. Improvvisamente li apre e dice, all’unisono con quella voce più profonda: “Ah!”, come se si fosse trattenuto all’ultimo momento dal aggiungere “uomini!”.
-
-“Da allora,” dice il signor Sapsea, con le gambe distese e godendosi seriamente del vino e del [[motifs/fire|fuoco]], “sono diventato quel che vedete ora; sono diventato un solitario che piange la sua perdita; ho trascorso le mie serate a parlare nel vuoto, nel silenzio del [[motifs/desert|deserto]]. Non dirò di essermi rimproverato, ma ci sono stati momenti in cui mi sono chiesto: E se suo marito fosse stato alla sua stessa altezza? Se non avesse dovuto alzare lo sguardo così in alto, quale effetto positivo avrebbe avuto tutto questo sul suo spirito?”
-
-Il signor Jasper, con l’aspetto di essere caduto in uno stato d’animo terribilmente cupo, dice che “suppone che fosse così”.
-
-“Possiamo solo supporlo, signore,” concorda il signor Sapsea. “Come dico sempre, l’uomo propone, il cielo dispone. Potrebbe trattarsi della stessa idea espressa in un'altra forma, ma è così che la vedo io.”
-
-Il signor Jasper mormora in segno di assenso.
-
-“E ora, signor Jasper,” prosegue l’astaio, estraendo il frammento di manoscritto, “poiché il monumento della signora Sapsea ha avuto tutto il [[motifs/time|tempo]] necessario per asciugarsi completamente, lasciate che vi chieda la vostra opinione, come uomo di gusto, sull’[[forms/inscription|iscrizione]] che ho redatto (come ho già detto, non senza un certo impegno). Prendetela in mano: la disposizione delle righe richiede di essere osservata con attenzione, così come il contenuto deve essere analizzato con mente critica.”
-
-Il signor Jasper, attuando quanto richiesto, legge quanto segue:
-
-ETHELINDA,  
-rispettabile moglie di  
-Signor Thomas Sapsea,  
-astaio, valutatore, agente immobiliare, ecc.,  
-di questa [[motifs/city|città]].  
-La cui conoscenza del mondo,  
-sebbene piuttosto vasta,  
-non l’ha mai portato a incontrare  
-una persona  
-più degna di stima e rispetto.  
-Straniero, fermati un attimo  
-e poniti questa domanda:  
-riusciresti tu allo stesso modo?  
-Se no, allontanati con imbarazzo.
-
-
-Il signor Sapsea si era alzato e si era messo di spalle alla [[motifs/fire|fiamma]], con l’intento di osservare l’effetto di quelle parole sul volto di un uomo dal buon gusto; quindi aveva il viso rivolto verso la porta. Quando la sua serva ricomparve, annunciò: “[[characters/durdles|Durdles]] è arrivato, signore!” Lui immediatamente prese una terza coppa di vino e la riempì, poiché era stata richiesta, e rispose: “Fai entrare [[characters/durdles|Durdles]].”
-
-“Ammirevole!”, disse il signor Jasper, restituendo il foglio.
-
-“Vi sembra appropriato, signore?”
-
-Impossibile non approvare. Straordinario, caratteristico e completo.
-
-L’astaio annuisce, come chi accetta ciò che gli spetta e consegna una ricevuta; poi invita il partecipante [[characters/durdles|Durdles]] a bere quel bicchiere di vino (porgendoglielo), poiché lo riscalderà.
 
 
 
@@ -2533,78 +1779,6 @@ precious commodity on future occasions, and Mr. Sapsea lets him off for
 the present, to ponder on the instalment he carries away.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-[[characters/durdles|Durdles]] è un muratore; si occupa principalmente di lapidi, tombe e monumenti, e tutti i suoi lavori sono caratterizzati da uno stesso colore, dalla testa ai piedi. Nessuno a Cloisterham lo conosce meglio di lui: è considerato il libertino per eccellenza di quel luogo. La fama lo proclama un artigiano straordinario, anche se, a quanto si sa, in realtà non lavora mai; allo stesso tempo, tutti sanno che è un vero ubriacone. Conosce la cripta della [[settings/cathedral|Cattedrale]] meglio di qualsiasi altro vivente, forse persino meglio di qualche defunto. Si dice che questa sua profonda conoscenza derivi dal fatto che spesso si recava in quel luogo segreto per isolarsi dal resto della gente di Cloisterham e dormire dopo aver bevuto, essendo lui stesso il responsabile dei lavori di riparazione della [[settings/cathedral|Cattedrale]]. Comunque sia, sa davvero molte cose su di essa; durante le demolizioni di muri, contrafforti e pavimenti, ha visto molte cose strane. Spesso parla di sé al plurale, forse perché non è del tutto sicuro della propria [[concepts/identity|identità]] quando racconta; oppure forse adotta semplicemente il modo di parlare tipico di Cloisterham per riferirsi a se stesso, considerandosi una figura di rilievo in quel luogo. Così dice, parlando delle sue strane esperienze: “[[characters/durdles|Durdles]] ha scoperto quell’antico nobile, ” riferendosi a un personaggio sepolto in tempi antichi e di alto rango, “facendo semplicemente cadere la sua pala nel sarcofago. Quell’uomo lo ha guardato con gli occhi aperti, come per dire: ‘Il tuo nome è [[characters/durdles|Durdles]]? Ma guarda un po’, aspettavo te da un sacco di tempo!’ E poi, è diventato polvere.” Con un righello lungo due piedi sempre in tasca e un martello da muratore quasi sempre in mano, [[characters/durdles|Durdles]] continua a esaminare ogni angolo della [[settings/cathedral|Cattedrale]]; e ogni volta che dice a Tope: “Tope, c’è un altro vecchio qui dentro!”, Tope ne informa subito il Decano come di una scoperta importante.
-
-In un abito di flanella grezza con bottoni a corno, con una sciarpa gialla le cui estremità penzolavano, un vecchio cappello più rossastro che nero e stivali dello stesso colore delle pietre del suo mestiere, [[characters/durdles|Durdles]] conduceva una vita vagabonda e incerta. Portava sempre con sé il proprio pasto in un piccolo fagottino e si sedeva su ogni sorta di lapide per mangiare. Il pasto di [[characters/durdles|Durdles]] era ormai diventato quasi una tradizione a Cloisterham: non solo perché lui non compariva mai in pubblico senza di esso, ma anche perché, in alcune occasioni particolari, veniva sequestrato insieme a lui (quando era ubriaco e incapace di badare a sé stesso) e mostrato davanti al tribunale della città. Tuttavia, queste occasioni erano rare: [[characters/durdles|Durdles]] raramente beveva fino all’ubriachezza. Per il resto, era un vecchio scapolo che viveva in una piccola casa semidipinta, costruita probabilmente con pietre rubate dal muro della città. L’ingresso di quella dimora era pieno di schegge di pietra; l’interno assomigliava a un groviglio di lapidi, urne, tendaggi e colonne spezzate, tutte in vari stadi di lavorazione scultorea. Lì, due operai continuavano instancabilmente a levigare le pietre, mentre altri due, uno di fronte all’altro, le tagliavano; entravano e uscivano regolarmente dalle loro “casupole protettive”, come se fossero figure meccaniche che simboleggiavano [[motifs/time|Il Tempo]] e [[motifs/death|La Morte]].
-
-A [[characters/durdles|Durdles]], dopo aver bevuto il suo bicchiere di porto, il signor Sapsea gli affida quel prezioso lavoro creativo della sua Musa. [[characters/durdles|Durdles]], senza alcuna emozione, tira fuori la sua riga da due piedi e misura attentamente le linee, unendole poi con sabbia di ghiaia.
-
-“È per il monumento, vero, signor Sapsea?”
-
-“La [[forms/inscription|Iscrizione]]. Sì.” Il signor Sapsea aspetta di vedere quale effetto avrà su una mente comune.
-
-“Arriverà fino a un ottavo di pollice”, dice [[characters/durdles|Durdles]]. “Il vostro servitore, signor Jasper. Spero di vedervi in buona salute.”
-
-“Come stai, [[characters/durdles|Durdles]]?”
-
-“Ho un po’ di quella ‘Tombatismo’ in me, signor Jasper, ma è qualcosa che dovevo aspettarmi.”
-
-“Intendi il Reumatismo”, dice Sapsea con tono acuto. (È infastidito dal fatto che la sua composizione sia stata accettata in modo così meccanico.)
-
-“No, non lo so. Voglio dire, signor Sapsea, il Tombatismo è un’altra cosa rispetto al Reumatismo. Il signor Jasper sa cosa significa [[characters/durdles|Durdles]]. Se ti mescoli tra loro prima che faccia giorno una mattina d’inverno, e continui, come dice il Catechismo, a seguire quelle regole tutti i giorni della tua vita, allora capirai cosa significa [[characters/durdles|Durdles]].”
-
-“È un posto terribilmente freddo,” concorda il signor Jasper, rabbrividendo con disprezzo.
-
-“E se per voi fa un freddo terribile, lassù nella cappella, con tanto respiro caldo che vi circonda, quale sia invece quella ‘amarezza’ per [[characters/durdles|Durdles]], laggiù nella cripta, tra umidità e il respiro morto degli antichi, ” risponde quell’uomo. “[[characters/durdles|Durdles]] lascia che siate voi a giudicare. Dovremmo darvelo subito, signor Sapsea?”
-
-Il signor Sapsea, con l’ansia tipica di un autore che desidera pubblicare il proprio lavoro al più presto, risponde che non può uscire troppo presto.
-
-“Allora è meglio che mi lasci prendere la chiave,” dice [[characters/durdles|Durdles]].
-
-“Ma no, non deve essere messo all’interno del monumento!”
-
-“[[characters/durdles|Durdles]] sa esattamente dove deve essere messo, signor Sapsea; nessuno lo sa meglio di lui. Chiedetelo a chiunque viva a Cloisterham: [[characters/durdles|Durdles]] conosce sicuramente il proprio lavoro.”
-
-Il signor Sapsea si alza, prende una chiave da un cassetto, apre una cassaforte di ferro incassata nel muro e ne estrae un’altra chiave.
-
-“Quando [[characters/durdles|Durdles]] dà il tocco finale al suo lavoro, non importa dove – dentro o fuori – gli piace osservarlo da tutti i lati per assicurarsi che risulti davvero all’altezza delle sue aspettative,” spiega [[characters/durdles|Durdles]] con determinazione.
-
-La chiave che gli porse il vedovo in lutto era piuttosto grande; lui infilò la sua riga da due piedi in una tasca laterale dei suoi pantaloni di flanella fatta apposta per questo scopo, poi aprì deliberatamente il suo cappotto di flanella e la bocca di una grande tasca interna prima di riporre la chiave in quel luogo.
-
-“Ma che cosa, [[characters/durdles|Durdles]]!”, esclama Jasper, guardandolo con divertimento, “sei completamente rovinato dalle tasche, ”
-
-“E anch'io ho un certo peso tra di loro, signor Jasper. Sentite questi!” e così dicendo estrasse altre due chiavi grandi.
-
-“Dammi anche quello del signor Sapsea. Sicuramente è il più pesante dei tre.”
-
-“Probabilmente le troverai molto interessanti,” dice [[characters/durdles|Durdles]]. “Tutte fanno parte di monumenti. Tutte contribuiscono a completare l’opera di [[characters/durdles|Durdles]]. [[characters/durdles|Durdles]] tiene per lo più le chiavi delle sue opere. Anche se non vengono spesso utilizzate.”
-
-“Ciao,” pensa di dire Jasper mentre esamina distrattamente le chiavi, “volevo chiedertelo da molti giorni, ma poi me ne dimenticavo sempre. Sai che a volte ti chiamano ‘Stony Durdles’, vero?”
-
-“A Cloisterham mi conosce come [[characters/durdles|Durdles]], signor Jasper.”
-
-“Certo che ne sono consapevole. Ma a volte quei ragazzi, ”
-
-“Ohi! Se solo vi occupaste di quei piccoli monelli, ” interrompe bruscamente [[characters/durdles|Durdles]].
-
-“Non mi danno fastidio più di quanto lo facciano a te. Ma l’altro giorno c’è stata una discussione nel Coro riguardo al fatto che ‘Stony’ potesse significare ‘Tony’, ” facendo tintinnare una chiave contro un’altra.
-
-"#Prenda cura dei pazienti, signor Jasper."
-
-“O forse ‘Stony’ stava per Stephen, ” con un cambio di accordi.
-
-"Non si possono fare flauti da quelle materie, signor Jasper."
-
-O forse il nome deriva dal tuo mestiere. Qual è la verità?
-
-Il signor Jasper pesa le tre chiavi che ha in mano, alza la testa dal suo atteggiamento di curvarsi inutilmente sopra il [[motifs/fire|focolare]] e consegna le chiavi a [[characters/durdles|Durdles]] con un'espressione sincera e amichevole.
-
-Ma anche quello di pietra è un individuo burbero e scortese; il suo stato confuso e incerto lo rende estremamente consapevole della propria dignità e lo porta facilmente a offendersi. Rimette le due chiavi nella tasca una per una e le abbottona; prende il pacchetto del proprio pasto dallo schienale della sedia su cui l’aveva appeso all’arrivo; distribuisce equamente il peso che porta, legando la terza chiave al pacchetto, come se fosse un struzzo e gli piacesse mangiare ferro freddo. Poi esce dalla stanza, senza degnarsi di rispondere a una parola.
-
-A quel punto, il signor Sapsea propose di giocare a dama, e questa attività, arricchita dalle sue conversazioni sempre più interessanti e accompagnata da una cena a base di manzo arrosto freddo e insalata, trascorse piacevolmente fino a tarda notte. La saggezza del signor Sapsea, quando viene espressa ai mortali, segue più spesso un ordine discorsivo che epigrammatico; tuttavia, il suo ospite fece intendere che sarebbe tornato in futuro per approfittare ulteriormente di questa “preziosa risorsa”, e il signor Sapsea lo congedò, lasciandolo riflettere su ciò che aveva appreso quella volta.
-
 
 
 <span class="atom-split" data-atom="chapter_06--part_01" data-title="The Mystery of Edwin Drood — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/horse,motif/night,motif/road,motif/silence,motif/well,concept/education,concept/wonder,character/durdles,character/edwin_drood,character/john_jasper"></span>
@@ -2758,89 +1932,6 @@ pillar, and other inanimate object, by the deserted way.
 
 “Is there anything new down in the crypt, [[characters/durdles|Durdles]]?” asks [[characters/john-jasper|John Jasper]].
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO V.  
-IL SIGNOR [[characters/durdles|DURDLES]] E IL SUO AMICO
-
-[[characters/john-jasper|John Jasper]], mentre tornava [[motifs/home|a casa]] attraverso il vicolo, si fermò di colpo davanti alla scena che gli si presentò: Stony [[characters/durdles|Durdles]], con il suo cibo per la cena ancora in mano, appoggiato alla ringhiera di ferro del cimitero che lo separava dalle vecchie arcate del convento; un orribile bambino in stracci gli lanciava pietre sotto la luce della luna. A volte le pietre lo colpivano, altre volte lo mancavano, ma [[characters/durdles|Durdles]] sembrava indifferente a entrambi i risultati. Il bambino, invece, ogni volta che riusciva a colpirlo, emetteva un fischio trionfale attraverso una fessura irregolare nella sua bocca, dove mancavano metà dei denti; quando falliva, esclamava “Ancora una volta!” e cercava di compensare il fallimento prendendo di mira con maggiore precisione.
-
-“Cosa stai facendo a quell’uomo?”, chiede Jasper, uscendo dall’ombra e avvicinandosi alla luce della luna.
-
-“Lo sto rendendo timido come un coniglio,” risponde il brutto bambino piccolo.
-
-"Dammi quelle pietre che hai in mano."
-
-“Sì, vi farò ingoiare tutto se cercate di afferrarmi,” dice il bambino, liberandosi e indietreggiando. “Vi romperò un occhio se non fate attenzione!”
-
-“Piccolo diavolo che sei. Cosa ti ha fatto quell’uomo?”
-
-“Non tornerà a [[motifs/home|casa]].”
-
-“Che significato ha tutto ciò per te?”
-
-“Mi dà un penny se lo riporto a casa troppo tardi,” dice il ragazzo. Poi canta, come un piccolo selvaggio, inciampando e danzando tra i brandelli di stoffa e le stringhe delle sue scarpe logore.
-
-“Widdy widdy wen!  
-Io, posso, uscire ancora,  
-Widdy widdy wy!  
-Allora, non andartene, mi vergogno.
-Widdy Widdy Wake-cock, un avvertimento!”
-
-—con un’ampia rassegna fino all’ultima parola, e un’altra esibizione a [[characters/durdles|Durdles]].
-
-Sembra trattarsi di una nota poetica che funge da avvertimento per [[characters/durdles|Durdles]], invitandolo a tenersi alla larga, se possibile, o a tornare a casa.
-
-[[characters/john-jasper|John Jasper]] invita il ragazzo con un cenno della testa ad seguirlo; sentendo che sia inutile trascinarlo o persuaderlo, attraversa la ringhiera di ferro dove colui di pietra (e coperto di pietre) è immerso in profonda meditazione.
-
-“Conosci questa cosa, questo [[archetypes/child|bambino]]?” chiede Jasper, senza riuscire a trovare una parola che possa descriverlo correttamente.
-
-“Deputato,” disse [[characters/durdles|Durdles]], annuendo.
-
-“È davvero quel nome?”
-
-“Vice-sceriffo,” acconsente [[characters/durdles|Durdles]].
-
-“Sono un servitore presso il ‘Travellers’ Twopenny’ in Gas Works Garding,” spiega. “Tutti noi servitori delle locande ‘Travellers’ Lodgings abbiamo il nome di ‘Deputy’. Quando le stanze sono piene e tutti gli ospiti sono a letto, io esco per fare una passeggiata.” Poi, ritirandosi sul [[motifs/road|viale]], prende la mira e continua:.
-
-“Widdy widdy wen!  
-Io, cerco, di uscire, ”
-
-“Tienimi la mano,” grida Jasper, “e non gettarla mentre sono così vicino a lui, altrimenti ti ucciderò! Vieni, [[characters/durdles|Durdles]]; lascia che ti accompagni a casa con te fino a [[motifs/night|notte]]. Devo portare anche il tuo fagotto?”
-
-“Assolutamente no,” risponde [[characters/durdles|Durdles]], sistemando le cose al loro posto. “[[characters/durdles|Durdles]] stava riflettendo qui quando siete arrivato, signore, circondato dalle sue opere. Come un autore solitario e silenzioso. Vostro stesso cognato,” aggiunge, indicando un sarcofago all’interno della recinzione, bianco e freddo sotto la luce della luna. “La signora Sapsea, ” continua, presentando il monumento a quella devota moglie. “Il precedente parroco, ” prosegue, mostrando la colonna spezzata del reverendo gentiluomo. “I contribuenti deceduti, ” aggiunge, indicando un vaso e una salvietta posizionati su ciò che potrebbe rappresentare il sapone, “Ex pasticcere e produttore di muffin, molto rispettato, ” conclude, presentando la lapide. “Tutto qui è al sicuro e in ordine, signore. E tutto opera di [[characters/durdles|Durdles]]. Per quanto riguarda la gente comune, beh, quella è semplicemente avvolta nella torba e nelle erbacce. Meglio non dire nulla. Una povera gente, presto dimenticata, ”
-
-“Quella creatura, è dietro di noi”, dice Jasper, guardando indietro. “Ci seguirà?”
-
-Le relazioni tra [[characters/durdles|Durdles]] e il Vice-Segretario sono di natura capricciosa; infatti, quando [[characters/durdles|Durdles]] si muove con quella lentezza improvvisa tipica dei bevitori di birra, il Vice-Segretario compie un ampio giro lungo la [[motifs/road|strada]] e assume una posizione difensiva.
-
-“Prima di iniziare quella notte, non hai mai pianto, Widdy Warning,” disse [[characters/durdles|Durdles]], ricordandosi improvvisamente – o forse immaginando – un qualche infortunio.
-
-“È vero, l’ho fatto,” dice il vice, nella sua unica forma di cortese contraddizione.
-
-“Proprio tuo fratello, signore,” osserva [[characters/durdles|Durdles]], girandosi di nuovo, e come se avesse dimenticato improvvisamente il proprio errore, così come l’aveva ricordato o immaginato; “proprio tuo fratello di Peter il Ragazzo Selvaggio! Ma gli ho dato uno scopo nella vita.”
-
-“E a quale bersaglio punta?” chiede il signor Jasper.
-
-“Ecco fatto, signore,” risponde [[characters/durdles|Durdles]] con grande soddisfazione; “ora ha un obiettivo verso cui mirare. Gli ho dato qualcosa in cui impegnarsi. Cosa era prima? Un distruttore. Che cosa faceva? Solo distruzione. E cosa ne ricavava? Periodi brevi in prigione a Cloisterham. Né persona, né proprietà, né animale, nulla. Tranne ciò che distruggeva, per mancanza di un obiettivo più nobile. Gli ho dato quell’obiettivo nobile, e ora può guadagnare onestamente tre penny a settimana con i suoi mezzo penny.”
-
-“Lo [[concepts/wonder|stupore]] che dimostra non ha eguali.”
-
-“Ne ha in abbondanza, signor Jasper, ma le butta via tutte. Ora, non so proprio a cosa serva questo mio piano,” continua [[characters/durdles|Durdles]], riflettendoci con la stessa solenne gravità; “Non so esattamente come si possa chiamare. Non è forse una sorta di, piano per un’[[concepts/education|educazione]] nazionale?”
-
-“Dovrei dire di no,” risponde Jasper.
-
-“Direi di no,” concorda [[characters/durdles|Durdles]]; “allora non proveremo nemmeno a dargli un nome.”
-
-“È ancora alle nostre spalle,” ripete Jasper, guardando indietro;  
-“Ci seguirà?”
-
-“Non possiamo fare a meno di passare davanti al ‘Travellers’ Twopenny’ se prendiamo la strada più breve, cioè quella di dietro,” risponde [[characters/durdles|Durdles]], “e lo lasceremo lì.”
-
-Continuano così: il vice, essendo un ufficiale di rango inferiore, agisce secondo ordini ricevuti e infrange il [[motifs/silence|silenzio]] di quell’ora e luogo, lanciando pietre contro ogni muro, palo, colonna e altro oggetto inanimato lungo quel sentiero deserto.
-
-“C’è qualcosa di nuovo nella cripta, [[characters/durdles|Durdles]]?” chiede [[characters/john-jasper|John Jasper]].
 
 
 
@@ -3001,70 +2092,6 @@ own room, lights his pipe, and delivers himself to the Spectres it
 invokes at midnight.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Qualsiasi cosa vecchia, immagino tu intenda,” ringhia [[characters/durdles|Durdles]]. “Non è certo il posto adatto per le novità.”
-
-“Qualsiasi nuova scoperta da parte tua, intendevo dire.”
-
-“C’è un vecchio sotto il settimo pilastro a sinistra, lungo i gradini spezzati della piccola cappella sotterranea. Da quanto ho potuto capire finora, sembra essere uno di quei vecchi con le bacchette. A giudicare dalle dimensioni dei passaggi nelle pareti, dei gradini e delle porte attraverso cui entravano ed uscivano, quelle bacchette devono aver rappresentato un vero ostacolo per loro. Direi che due di quei vecchi, incontrandosi casualmente, si fossero spesso agganciati a vicenda con le loro bacchette.”
-
-Senza alcun tentativo di correggere la letteralità di questo punto di vista, Jasper osserva il suo compagno: coperto dalla testa ai piedi di malta vecchia, calce e sabbia di pietra, come se anche lui, Jasper, stesse iniziando a provare un interesse romantico per quella sua vita strana.
-
-“La tua esistenza è davvero curiosa.”
-
-Senza fornire la minima indicazione riguardo alla domanda, se la consideri un complimento o il contrario, [[characters/durdles|Durdles]] risponde bruscamente: “Il tuo è un altro caso.”
-
-“Beh! Poiché il mio destino è legato allo stesso vecchio posto freddo e immutabile della terra. Sì. Ma c’è molto più mistero e interesse nella tua relazione con la [[settings/cathedral|Cattedrale]] rispetto alla mia. Anzi, sto iniziando a pensare di chiederti di accettarmi come una sorta di studente o apprendista gratuito sotto di te. Per poter venire con te qualche volta e scoprire quei luoghi strani in cui trascorri i tuoi giorni.”
-
-Il “Stonato” risponde in modo generico: “Va bene. Tutti sanno dove trovare [[characters/durdles|Durdles]] quando c’è bisogno di lui.” Il che, anche se non del tutto vero, è più o meno corretto, nel senso che si può dire che [[characters/durdles|Durdles]] sia sempre da qualche parte, in uno stato di vagabondaggio.
-
-“Quello su cui rifletto di più,” dice Jasper, continuando il suo discorso sugli argomenti che lo interessano dal punto di vista romantico, “è l’eccezionale precisione con cui sembri riuscire a scoprire dove sono sepolti le persone. Cosa c’è? Quel fagotto ti ostacola il passaggio; lascia che te lo tenga io.”
-
-[[characters/durdles|Durdles]] si è fermato e si è spostato indietro di poco (il vice, attento a ogni suo movimento, si è immediatamente precipitato sulla [[motifs/road|strada]]), cercando intorno qualche sporgenza o angolo su cui posizionare il proprio fardello, così da liberarsene.
-
-“Basta che mi dai il mio martello da lì,” dice [[characters/durdles|Durdles]], “e ti mostrerò come fare.”
-
-Clink, clink. E gli viene consegnato il martello.
-
-“Ora, guardate qui. Voi emettete la vostra nota, vero, signor Jasper?”
-
-“Sì, davvero.”
-
-“Allora, prendo il mio martello e comincio a battere.” (Qui batte sul marciapiede; l’attento vice-sceriffo si allontana di qualche passo, pensando che possa essere necessario colpire più forte.) “Batto, batto. Sodo! Continuo a battere. Ancora sodo! Batto ancora. Ehi! Cavo! Batto ancora. Insisto. Sodo dentro il cavo. Batto, batto, per essere sicuro. Sodo dentro il cavo. E all’interno, di nuovo cavo! Ecco fatto! Quell’antico oggetto si è frantumato in mille pezzi, dentro una bara di pietra, in una cripta, ”
-
-“Straordinario!”
-
-“Ho persino fatto questo,” dice [[characters/durdles|Durdles]], tirando fuori la sua riga lunga due piedi. Nel frattempo, il vice-sceriffo si avvicina lentamente, sospettando che il “tesoro” possa essere scoperto da un momento all’altro, il che potrebbe significare per lui una grande fortuna, oltre al piacere di vedere i ricercatori impiccati grazie alle sue prove. “Dite pure che quel martello è parte di quel muro, opera mia. Due piedi più quattro piedi fanno sei piedi. Sei piedi all’interno di quel muro c’è la signora Sapsea.”
-
-“Non proprio, signora Sapsea, ”
-
-“Dite ‘Signora Sapsea’. Il suo muro è più spesso, ma dite ‘Signora Sapsea’. [[characters/durdles|Durdles]] bussa su quel muro rappresentato da quel martello, e dopo aver ascoltato attentamente, dice: ‘C’è qualcosa tra noi!’ E infatti, gli uomini di [[characters/durdles|Durdles]] hanno lasciato lì dentro del materiale inutile nello stesso spazio di sei piedi, ”
-
-Jasper ritiene che tale precisione “sia un dono”.
-
-“Non lo accetterei nemmeno come regalo,” risponde [[characters/durdles|Durdles]], senza affatto considerare quel commento positivo. “Me l’ho guadagnato da solo. [[characters/durdles|Durdles]] ottiene la sua conoscenza scavando a fondo, estraendola dalle sue radici quando essa non vuole essere rivelata. Ehi, tu, vice sceriffo!”
-
-“Widdy!” è la risposta stridula del vice sceriffo, che si allontana di nuovo.
-
-“Prendi quel penny. E non farti più vedere da me, per tutta la [[motifs/night|notte]], dopo che saremo arrivati al ‘Travellers’ Twopenny”.
-
-“Avvertenza!”, risponde l’agente, dopo aver preso la moneta da mezzo penny, e con questa parola misteriosa sembra esprimere il suo accordo con l’accordo stabilito.
-
-Basta loro attraversare ciò che un tempo era il vigneto, appartenente a quello che un tempo era il Monastero, per entrare nel vicolo stretto in cui si trova quella strana casa di legno a due piani, attualmente conosciuta come “Travellers’ Twopenny”: una casa tutta storta e deformata, proprio come le moralità dei viaggiatori che vi abitano. Con pochi resti di un portico in rete sopra la porta, e anche di una recinzione rustica davanti al [[motifs/garden|giardino]] ormai distrutto. Poiché questi viaggiatori sono così legati a quel luogo per un sentimento tenero (o perché amano tanto avere un [[motifs/fire|fuoco]] accanto alla strada durante il giorno), non è possibile convincerli o minacciarli affinché se ne vadano. A meno di impossessarsi con la forza di qualche rametto di “forget-me-not” e portarselo via.
-
-A questo misero posto si cerca di dare l’aspetto di una locanda utilizzando frammenti di tende rosse convenzionali alle finestre; quei stracci, però, diventano appena visibili nella [[motifs/night|notte]] a causa della debole luce delle lampade fatte di paglia o cotone che bruciano fiocamente nell’aria stagnante all’interno. Quando [[characters/durdles|Durdles]] e Jasper si avvicinano, vengono accolti da una lanterna di carta con scritto sopra l’indirizzo della locanda; inoltre, alcuni altri ragazzi orribili – che siano ospiti paganti, seguaci o semplicemente individui che approfittano della situazione, chi lo sa! – si avvicinano loro come se fossero attratti da un qualche “odore di carogna” nell’aria, e immediatamente iniziano a lanciare pietre contro di lui e gli uni contro gli altri.
-
-“Fermatevi, voi giovani bruti!”, grida Jasper arrabbiato, “lasciateci passare!”
-
-Questo rimprovero fu accolto con urla e pietre lanciate; secondo una consuetudine ormai radicata negli ultimi anni nelle normative di polizia delle nostre comunità inglesi, dove i cristiani vengono lapidati da tutte le parti, come se fossero tornati i tempi di San Stefano, [[characters/durdles|Durdles]] osservò con qualche ragionevolezza che “quei giovani selvaggi non hanno davvero un obiettivo preciso”, e così proseguì per la sua strada.
-
-All’angolo del vicolo, Jasper, furioso, controlla il suo compagno e guarda indietro. Tutto è silenzio. Poi una pietra colpisce il suo cappello, seguita da un lontano grido di “Wake-Cock! Attenzione!”, e dal verso di un corvo, come se provenisse da qualche demoniaco Chanticleer, che gli indica sotto quale “vittorioso [[motifs/fire|fuoco]]” si trova. Allora lui gira l’angolo e si rifugia in salvo, portando [[characters/durdles|Durdles]] a [[motifs/home|casa]]. [[characters/durdles|Durdles]], intanto, barcolla tra i detriti del cortile, come se stesse per finire dentro una delle tombe in costruzione.
-
-[[characters/john-jasper|John Jasper]] ritorna al suo cancello da un’altra strada e, entrando silenziosamente con la sua chiave, trova il [[motifs/fire|fuoco]] ancora acceso. Prende da uno scaffale chiuso a chiave una pipa dal aspetto particolare, la riempie – ma non di tabacco – e, dopo aver regolato attentamente il contenuto della coppetta, utilizzando un piccolo strumento, sale una scala interna composta da pochi gradini che conduce a due stanze. Una di queste è la sua camera da letto; l’altra appartiene a suo nipote. In entrambe c’è luce accesa.
-
-Suo nipote dorme tranquillamente, sereno e senza preoccupazioni. [[characters/john-jasper|John Jasper]] sta in piedi a guardarlo, con la sua pipa spenta in mano; per qualche momento, osserva lui con attenzione profonda e concentrata. Poi, facendo silenzio con i propri passi, si dirige nella propria stanza, accende la pipa e si abbandona ai “Spettri” che essa evoca a mezzanotte.
-
 
 
 <span class="atom-split" data-atom="chapter_07--part_01" data-title="The Mystery of Edwin Drood — Chapter 6 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/grave,motif/prayer,motif/silence,motif/time,motif/water,motif/wind,motif/window,setting/cathedral,setting/london,character/edwin_drood,character/monks"></span>
@@ -3195,58 +2222,6 @@ her son obeyed: murmuring that his sight for reading manuscript got
 worse and worse daily.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Capitolo VI: Filantropia nell’angolo di Canon Minor
-
-
-Il Reverendo Septimus Crisparkle (chiamato Septimus perché sei suoi fratelli minori erano morti uno dopo l’altro alla nascita, come sei deboli lumini che si spegnevano non appena accesi) aveva rotto lo sottile ghiaccio mattutino vicino al Cloisterham Weir con la sua testa, il che aveva notevolmente rinvigorito il suo corpo. Ora, per migliorare ancora la circolazione del sangue, colpiva uno specchio con grande abilità e maestria. Lo specchio rifletteva l’immagine di un Septimus sano e vigoroso: fintava e schivava con estrema astuzia, sferrando i pugni con precisione assoluta. I suoi tratti radiosi esprimevano innocenza, mentre una profonda benevolenza traspariva dai suoi guanti da pugilato.
-
-Non era ancora nemmeno l’[[motifs/time|ora]] di colazione: la signora Crisparkle – madre, non moglie del reverendo Septimus – era appena scesa e aspettava l’urna. Infatti, in quel preciso momento il reverendo Septimus si fermò per posare il viso gentile della vecchia signora tra i suoi guanti da pugilato e baciarlo. Dopo averlo fatto con tenerezza, il reverendo Septimus riprese a combattere, usando la mano sinistra e poi la destra, in modo davvero spettacolare.
-
-“Dico ogni mattina della mia vita che alla fine lo farai, Sept,” osservò la vecchia signora guardandolo; “e infatti lo farai.”
-
-“Cosa dovrei fare, mamma cara?”
-
-“Rompi lo specchio magico, o farà esplodere un vaso sanguigno.”
-
-“Né una cosa né l’altra, per favore, Dio mio. Ma cara, guarda questa, ” In un ultimo round di grande severità, il Reverendo Septimus inflisse ogni sorta di punizione, ma alla fine riuscì a far finire il cappello della vecchia signora in Chancery. Questo è il termine tecnico utilizzato nei circoli scientifici dagli esperti dell’Arte Nobile. Con una delicatezza tale da non disturbare nemmeno la più sottile traccia di lavanda o nastro di ciliegio presente sul cappello, il Reverendo Septimus liberò magnanimamente il “sconfitto”, proprio nel momento giusto per infilarsi i guanti in un cassetto e fingere di guardare fuori dalla [[motifs/window|finestra]] con aria meditativa. Quando entrò un servitore, il Reverendo Septimus lasciò il posto all’urna e alle altre preparazioni per la colazione. Una volta tutto pronto, e i due rimasti soli di nuovo, fu piacevole vedere (o sarebbe stato piacevole, se ci fosse stata qualcuno a osservare, il che non accadde mai) la vecchia signora alzarsi per recitare ad alta voce la [[motifs/prayer|Preghiera]] del Signore, mentre suo figlio, pur essendo ancora a cinque anni da quaranta, stava in piedi con la testa bassa ad ascoltarla. Proprio come aveva fatto cinque mesi prima, quando quelle stesse parole erano uscite dalle stesse labbra.
-
-Cosa c’è di più bello di una signora anziana – a parte una giovane donna – quando i suoi occhi sono luminosi, quando la sua figura è snella e compatta, quando il suo viso è sereno e gioioso, quando il suo abito è come quello di una pastorella di porcellana: così delicato nei colori, così adatto a lei in ogni dettaglio, così ben confezionato sul suo corpo? Niente c’è di più bello, pensava spesso il buon canonico minore quando si sedeva a tavola di fronte alla sua madre vedova da molto tempo. In quei momenti, i suoi pensieri potevano essere riassunti nelle due parole che più frequentemente apparivano nelle sue conversazioni: “Mia Sept!”
-
-Erano una bella coppia: seduti insieme a colazione in Minor Canon Corner, a Cloisterham. Perché Minor Canon Corner era un luogo tranquillo, nell’ombra della [[archetypes/shadow|Cattedrale]]; il gracchiare dei corvi, i passi echeggianti di rari viandanti, il suono delle campane della [[settings/cathedral|Cattedrale]] o il rombo dell’organo della [[settings/cathedral|Cattedrale]] sembravano rendere quel luogo ancora più silenzioso del vero e proprio [[motifs/silence|silenzio]]. Guerrieri truculenti avevano trascorso secoli a fare razzia in quella zona; servi sfruttati avevano lavorato duramente e morito lì; potenti [[characters/monks|monaci]] avevano avuto il loro ruolo, a volte positivo, a volte negativo. Ma ormai tutti se n’erano andati da Minor Canon Corner. E forse questo era addirittura meglio. Forse uno dei più grandi scopi della loro presenza lì era stato proprio quello di lasciare indietro quell’atmosfera di tranquillità, quel sereno e romantico stato d’animo che nasce da storie tristi raccontate o da drammi commoventi rappresentati.
-
-Muri di mattoni rossi, il cui colore era stato armoniosamente attenuato dal [[motifs/time|tempo]], edera radicata saldamente, finestre a griglia, stanze divise da pannelli, grandi travi di quercia in spazi ristretti, e giardini recintati da mura di pietra dove frutti annuali maturavano ancora sugli alberi. Questi erano i principali elementi che circondavano la graziosa signora Crisparkle e il reverendo Septimus mentre sedevano a colazione.
-
-“E allora, cara mamma,” chiese il canonico minore, dimostrando di avere un appetito sano e robusto, “cosa dice la lettera?”
-
-La bella signora anziana, dopo averlo letto, lo posò semplicemente sul canovaccio da colazione. Poi lo passò a suo figlio.
-
-Ora, la vecchia signora era estremamente orgogliosa dei suoi occhi così chiari da permetterle di leggere senza occhiali. Anche suo figlio ne era molto fiero e si impegnava con grande diligenza affinché lei traggesse il massimo piacere possibile da questa situazione; per questo aveva inventato la scusa che anche lui stesso non riuscisse a leggere senza occhiali. Pertanto, ora indossava un paio di occhiali di dimensioni davvero enormi, che non solo causavano notevoli disagi al suo naso e ostacolavano la sua colazione, ma rendevano anche molto difficile la lettura delle lettere. Infatti, i suoi occhi, quando non erano aiutati dagli occhiali, avevano una visione simile a quella di un microscopio e di un telescopio messi insieme.
-
-“È sicuramente del signor Honeythunder,” disse la vecchia signora, incrociando le braccia.
-
-“Certo,” convenne suo figlio. Poi continuò a leggere in modo poco convinto:
-
-“‘Refugio della Filantropia,
-Sedi principali, [[settings/london|Londra]], mercoledì.”
-
-
-"#‘Cara signora,’"
-
-
-“‘Scrivo nel, ’ Nel cosa esattamente? In cosa scrive?”
-
-“Seduta in quella sedia,” disse la vecchia signora.
-
-Il reverendo Septimus si tolse gli occhiali per poter vedere il suo viso, mentre esclamava:
-
-“Ma cosa dovrebbe scrivere dentro?”
-
-“Beneditemi, beneditemi, Sept,” rispose la vecchia signora, “non capite il contesto! Restituitemelo, caro mio.”
-
-Felice di potersi togliere gli occhiali (poiché facevano sempre venire le lacrime ai suoi occhi), suo figlio obbedì, mormorando che la sua vista per leggere i manoscritti peggiorava giorno dopo giorno.
-
 
 
 <span class="atom-split" data-atom="chapter_07--part_02" data-title="The Mystery of Edwin Drood — Chapter 6 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/city,motif/dust,motif/nature,motif/road,motif/time,motif/well,concept/doubt,concept/education,concept/honour,concept/nature,form/fragment,setting/london,character/edwin_drood,character/helena,character/helena_landless"></span>
@@ -3374,50 +2349,6 @@ deserting the high [[motifs/road|road]], came sneaking in from an unprecedented 
 the country by a back stable-way, for many years labelled at the
 corner: “Beware of the Dog.”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-“‘Scrivo,’” proseguì sua madre, leggendo in modo molto chiaro e preciso, “‘dalla sedia a cui probabilmente sarò costretta a rimanere per alcune ore.’”
-
-Septimus guardò la fila di sedie appoggiate al muro, con un’espressione che era metà di protesta e metà di supplica.
-
-“‘Abbiamo,’” continuò la vecchia signora con un po' più di enfasi, “‘una riunione del nostro Comitato Congiunto dei Principali Filantropi Centrali e Distrettuali, nella nostra sede principale come indicato sopra; ed è loro unanimemente concordato che io presieda.’”
-
-“Septimus respirò più liberamente e mormorò: ‘Oh, se dovesse arrivare a quel punto, lasciatelo fare.’”
-
-“Per non perdere nemmeno un giorno di pubblicazioni, approfitto del fatto che un lungo rapporto viene letto per denunciare un individuo malvagio, ”
-
-“È davvero una cosa straordinaria,” intervenne il gentile Canon Minore, mettendo da parte forchetta e coltello e strofinandosi l’orecchio con aria perplessa, “che questi filantropi siano sempre intenti a denunciare qualcuno. E è altrettanto straordinario che siano sempre così indignati nei confronti dei malviventi!”
-
-“‘Denunciare un malvagio pubblico, ’”——continuò la vecchia signora—“‘per potermi liberare di questa piccola questione spiacevole. Ho parlato con i miei due pupilli, Neville e [[characters/helena-landless|Helena Landless]], riguardo al loro carente [[concepts/education|educazione]], e hanno accettato il piano proposto; in ogni caso, avrei fatto in modo che lo accettassero, che gli piacesse o no.’”
-
-“E c’è un’altra cosa ancora straordinaria,” osservò il Canon Minore con lo stesso tono di prima, “il fatto che questi filantropi siano così propensi a trascinare i loro simili per il collo e, per così dire, a spingerli sul sentiero della pace. Scusate se vi interrompo, mia cara.”
-
-“Pertanto, cara Signora, si prega di preparare vostro figlio, il Reverendo Septimus, ad accogliere Neville come ospite che seguirà i suoi studi con lui lunedì prossimo. Lo stesso giorno, [[characters/helena|Helena]] lo accompagnerà a Cloisterham, dove si stabilirà presso l’Casa delle Suore, l’istituto consigliato da voi e vostro figlio. Si prega inoltre di preparare il suo arrivo e le sue necessità quotidiane. I termini previsti in entrambi i casi sono esattamente quelli che mi avete comunicato per iscritto quando ho iniziato a corrispondere con voi sull’argomento, dopo essere stato presentato a voi presso la casa di vostra sorella in città. Con i miei saluti al Reverendo Septimus, sono, cara Signora, vostro affezionato fratello (nella filantropia), LUKE HONEYTHUNDER.”
-
-“Beh,” disse Septimus, dopo aver continuato ad strofinarsi l’orecchio, “dobbiamo provarci. Non c’è [[concepts/doubt|dubbio]] che abbiamo spazio per un ospite, e che io abbia il [[motifs/time|tempo]] e la voglia di prendermene cura. Devo ammettere che sono quasi contento che non sia proprio il signor Honeythunder in persona. Anche se questo sembra un po’ pregiudizioso, vero? Non l’ho mai visto infatti. È un uomo alto, mamma?”
-
-“Dovrei chiamarlo un uomo grande, caro mio,” rispose la vecchia signora dopo qualche esitazione, “ma la sua voce è davvero ancora più, ‘grande’.”
-
-“Più di se stesso?”
-
-“Più di chiunque altro.”
-
-“Ahah!” disse Septimus. E finì la colazione come se il sapore del tè Superior Family Souchong, così come quello della carne di maiale, del pane tostato e delle uova, stesse lentamente svanendo.
-
-La sorella di Mrs. Crisparkle, un’altra pezza di porcellana di Dresda, abbinata a lei così perfettamente da poter costituire una deliziosa coppia di ornamenti per i due estremi di qualsiasi vecchio camino tradizionale, non avrebbe mai dovuto essere vista separata. Era la moglie senza figli di un clérigo che ricopriva una carica ufficiale nella [[settings/london|City]] di [[motifs/city|Londra]]. Il signor Honeythunder, nel suo ruolo pubblico di Professore di Filantropia, aveva conosciuto Mrs. Crisparkle durante l’ultima occasione in cui questi ornamenti di porcellana vennero rimessi in ordine (in altre parole, durante la sua ultima visita annuale a sua sorella), dopo un evento pubblico di [[concepts/nature|natura]] filantropica: in quell’occasione, alcuni orfani piccoli furono regalati panini al prugno. Questi erano tutti gli antefatti conosciuti riguardo ai futuri studenti del “Minor Canon Corner”.
-
-“Sono sicuro che sarete d’accordo con me, mamma,” disse il signor Crisparkle dopo averci pensato bene, “il primo passo da compiere è far sentire questi giovani il più a loro agio possibile. Non c’è nulla di disinteressato in questo: non possiamo noi stessi sentirci a nostro agio con loro se loro non si sentono a loro agio con noi. Ora, il nipote di Jasper è qui sotto; e come i simili si attraggono. Lui è un giovane simpatico, quindi lo inviteremo a cena insieme al fratello e alla sorella. Siamo già in tre. Non possiamo chiederglielo senza chiederlo anche a Jasper. Quattro. Aggiungiamo la signorina Twinkleton e quella ‘fata sposa’ che verrà. Sei. E poi ci siamo noi due. Otto. Otto persone a una cena amichevole. Vi dispiacerebbe davvero, mamma?”
-
-“Nove, sì, Sept,” rispose la vecchia signora, visibilmente nervosa.
-
-“Mia cara mamma, ne elenco otto in particolare.”
-
-“L’esatta dimensione del tavolo e della stanza, mia cara, ”
-
-Fu deciso così: e quando il signor Crisparkle, insieme a sua madre, andò da miss Twinkleton per organizzare l’arrivo di miss [[characters/helena-landless|Helena Landless]] alla Nuns’ House, anche le altre due inviti relative a quell’istituto furono fatte e accettate. Miss Twinkleton diede infatti un’occhiata ai globi, rammaricandosi che non fossero adatti per essere portati in società; ma si rassegnò all’idea di lasciarli lì. Successivamente vennero inviate istruzioni al filantropo affinché il signor Neville e miss [[characters/helena|Helena]] partissero e arrivassero in [[motifs/time|tempo]] per la cena; e nell’aria di Minor Canon Corner il profumo del brodo iniziò a diffondersi.
-
-In quei tempi non esisteva alcuna ferrovia che portasse a Cloisterham, e il signor Sapsea diceva che mai ne sarebbe esistita una. Il signor Sapsea aggiungeva anche che non avrebbe mai dovuto essercene una. Eppure, cosa meravigliosa da considerare, oggi i treni espresso non si fermano nemmeno a Cloisterham; sfrecciano via senza degnarla di uno sguardo, sollevando nuvole di [[motifs/dust|polvere]] con le loro ruote come se volessero dimostrare la sua insignificanza. C’era un piccolo tratto della linea principale che passava da lì. Un tratto che, se fosse fallito, avrebbe distrutto il mercato finanziario; se invece fosse riuscito, avrebbe causato gravi problemi alla Chiesa e allo Stato. E, naturalmente, anche alla Costituzione. Ma anche quel piccolo tratto aveva già sconvolto la vita economica di Cloisterham: il traffico, abbandonando le [[motifs/road|strade]] principali, iniziò a dirigersi verso quella località da parti remote del paese, attraverso sentieri secondari. Sentieri che, per molti anni, erano segnalati all’angolo con la scritta: “Attenzione al cane”.
 
 
 
@@ -3561,61 +2492,6 @@ belong to it, and pledges itself to make as many obnoxious statements
 as possible about them, without being at all particular as to facts.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Su questa ignominiosa strada per arrivare a destinazione, il signor Crisparkle aspettava l’arrivo di un omnibus basso e tozzo, con una quantità sproporzionata di bagagli sul tetto: sembrava quasi un piccolo elefante con un “[[settings/castle|castello]]” decisamente troppo grande. Quell’omnibus rappresentava all’epoca il mezzo di trasporto quotidiano tra Cloisterham e il resto del mondo. Mentre quel veicolo si avvicinava, il signor Crisparkle riusciva a vedere a malapena altro che un passeggero seduto sul tetto, con i gomiti appoggiati alle ginocchia e le mani poggiate sui fianchi; quell’uomo comprimeva il conducente in uno spazio estremamente ristretto e lo fissava con uno sguardo minaccioso, il suo viso era molto marcato.
-
-“Questo è il Cloisterham?” chiese il passeggero con una voce tonante.
-
-“Sì,” rispose il conducente, strofinandosi come se avesse mal di qualcosa, dopo aver passato le redini al palafreniere. “E non sono mai stato così felice di vederlo.”
-
-“Allora dite al vostro padrone di rendere più largo il suo posto a sedile elevato,” rispose il passeggero. “Il vostro padrone è moralmente obbligato – e dovrebbe esserlo anche legalmente, con punizioni severe in caso contrario – a garantire il comfort dei suoi simili.”
-
-Il conducente esaminò superficialmente lo stato del proprio >scheletro con le palme delle mani; questo sembrava renderlo ansioso.
-
-“Mi sono seduto sopra di te?” chiese il passeggero.
-
-“Ce l’hai,” disse il conducente, come se non gli piacesse affatto.
-
-“Prendi quella carta, amico mio.”
-
-“Credo che non ti priverò di questo,” rispose il conducente, guardandolo con scarso interesse, senza però prenderlo. “A cosa mi servirebbe?”
-
-“Diventa membro di quella società,” disse il passeggero.
-
-“Cosa ne ricaverò?” chiese il conducente.
-
-“Fratellanza”, rispose il passeggero con voce feroce.
-
-“Grazie,” disse il conducente, molto lentamente, mentre scendeva dall’auto; “mia madre era soddisfatta di me, e lo sono anch’io. Non voglio fratelli.”
-
-“Ma devi averli,” rispose il passeggero, scendendo anche lui, “che ti piaccia o no. Sono tuo fratello.”
-
-“Dico io!” esclamò il conducente, diventando sempre più irritato, “non essere troppo insistente! Il verme _finirà_ per, ”
-
-Ma in quel momento, il signor Crisparkle intervenne, rimproverandolo dolcemente con voce amichevole: “Joe, Joe, Joe! Non perdere la testa, Joe, mio buon amico!” E poi, quando Joe si inchinò educatamente, il signor Crisparkle si rivolse al passeggero dicendo: “Signor Honeythunder?”
-
-“Quello è il mio nome, signore.”
-
-“Mi chiamo Crisparkle.”
-
-“Reverendo signor Septimus? Piacere di vedervi, signore. Neville e [[characters/helena|Helena]] sono dentro. Ultimamente ho sofferto un po’ a causa della pressione del mio lavoro pubblico, così ho pensato di prendere un po’ d’aria fresca, di raggiungerli e poi tornare di [[motifs/night|notte]]. Quindi voi siete il Reverendo signor Septimus, giusto?” Lo osservò con delusione, torcendo una delle sue lenti da vista con la cordicella, come se stesse torturandola, ma in realtà non la usava affatto. “Ah! Mi aspettavo che foste più anziano, signore.”
-
-“Spero che lo facciate,” fu la risposta cordiale.
-
-“Eh?”, chiese il signor Honeythunder.
-
-Solo una stupida barzelletta. Non vale la pena ripeterla.
-
-“Scherzo? Ah. Non capisco mai gli scherzi,” ribatté il signor Honeythunder con un cipiglio.  
-“Gli scherzi sono sprecati con me, signore. Dov’è [[characters/helena|Helena]]? E Neville. Venite qui! Il signor Crisparkle è sceso per incontrarvi.”
-
-Un giovane insolitamente attraente e agile, e una ragazza altrettanto attraente e agile; molto simili tra loro; entrambi di pelle molto scura e dal colorito intenso; lei aveva quasi l’aspetto tipico di una zingara; c’era qualcosa di indomabile in entrambi; un certo atteggiamento che li faceva sembrare più le prede che i cacciatori. snelli, agili, con movimenti rapidi degli occhi e delle membra; a metà timidi, a metà sfidanti; con uno sguardo feroce; un’inspiegabile esitazione nel loro modo di comportarsi, sia nel viso che nel corpo, che poteva essere paragonata all’esitazione prima di accovacciarsi o di scattare in movimento. Le appunti mentali sommari fatti da Mr. Crisparkle nei primi cinque minuti avrebbero potuto essere letti esattamente così, _parola per parola_.
-
-Invitò il signor Honeythunder a cena, con la mente turbata (poiché il disastro causato dalla povera vecchia pastorella di porcellana lo opprimeva profondamente), e prese sottobraccio [[characters/helena-landless|Helena Landless]]. Sia lei che suo fratello, camminando insieme per le antiche strade, si divertirono molto a ciò che lui indicava loro dalla [[settings/cathedral|>Cattedrale]] e dalle rovine del monastero; anzi, come si leggeva nelle sue note, sembravano davvero bellissimi prigionieri barbari portati da qualche selvaggio dominio tropicale. Il signor Honeythunder camminava in mezzo alla [[motifs/road|strada]], spingendo via i nativi dal suo percorso, e parlava ad alta voce di un piano che aveva ideato: attaccare tutti i disoccupati del Regno Unito, rinchiuderli in prigione e costringerli, a costo della loro stessa vita, a diventare filantropi.
-
-La signora Crisparkle aveva bisogno anche lei di mostrare un po’ di filantropia quando vide quel grosso e rumoroso “tumore” nel piccolo gruppo di persone riunite. Sempre qualcosa di simile a una “vescica” sulla faccia della società. Il signor Honeythunder, in particolare, si era trasformato in un “foruncolo infiammatorio” nel quartiere di Minor Canon Corner. Anche se non era vero, come gli accusavano scherzosamente i suoi detrattori, che gridasse alle altre persone: “Maledite le vostre anime e i vostri [[concepts/body|corpi]]. Venite qui e siate benedetti!”, la sua filantropia aveva comunque quel carattere esplosivo che rendeva difficile distinguere tra essa e l’animosità. Volevano abolire la forza militare, ma prima di tutto processavano tutti gli ufficiali che avevano adempiuto ai loro doveri con procedimenti militari e li fucilavano. Volevano eliminare la guerra, ma per farlo la combattevano contro coloro che la sostenevano, definendola “la cosa più preziosa del mondo”. Volevano abolire la pena di morte, ma prima di tutto eliminavano tutti i legislatori, giuristi e giudici che erano contrari a questa idea. Volevano la concordia universale, ma per raggiungerla eliminavano tutte le persone che non erano disposte o semplicemente incapaci di essere in armonia con gli altri. Volevano “amare” i propri simili come se fossero sé stessi, ma prima dovevano insultarli e chiamarli con ogni sorta di nomi offensivi. E soprattutto: non dovevano fare nulla in privato, o per conto proprio. Dovevano recarsi negli uffici della “Casa della Filantropia”, iscriversi come membri e dichiarare apertamente la propria adesione a questa causa. Poi pagavano la quota di iscrizione, ricevevano la tessera di membro, il nastro e la medaglia. E da quel momento in poi vivevano sempre su un palco, ripetendo ciò che diceva il signor Honeythunder, il tesoriere, i vice-tesoriere, i membri del comitato, dei sottocomitati, il segretario e il vice-segretario. E tutto questo veniva solitamente espresso in risoluzioni approvate all’unanimità, che recitavano più o meno così: “Questo assemblea di membri della ‘Casa della Filantropia’ considera con indignazione e disprezzo, uniti a un profondo disgusto e orrore, ”, in breve, la bassezza di tutte quelle persone che non appartengono a questa comunità. E si impegnavano a fare il maggior numero possibile di dichiarazioni offensive su di loro, senza preoccuparsi minimamente dei fatti.
-
 
 
 <span class="atom-split" data-atom="chapter_07--part_04" data-title="The Mystery of Edwin Drood — Chapter 6 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/innocent,motif/clock,motif/horse,motif/tears,motif/time,concept/mercy,setting/cathedral,character/edwin_drood"></span>
@@ -3662,12 +2538,6 @@ the omnibus, were so fervent in their apprehensions of his catching
 cold, that they shut him up in it instantly and left him, with still
 half-an-hour to spare.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-La cena si trasformò in un vero e proprio disastro. Il filantropo disturbò completamente l’ordine della tavola, si sedette nel modo che ostacolava il servizio dei camerieri, bloccando ogni via di passaggio, e fece impazzire il signor Tope (che aiutava la cameriera) passandogli piatti e stoviglie sopra la testa. Nessuno riusciva a parlare con nessun altro, perché lui si rivolgeva contemporaneamente a tutti, come se il gruppo non avesse alcuna individualità, ma fosse soltanto un insieme di persone. Prese in ostaggio il reverendo signor Septimus, trattandolo come una figura ufficiale a cui rivolgersi o come un “punto di appoggio” per i suoi discorsi, e sviluppò l’abitudine esasperante tipica di tali oratori: fingere che fosse un avversario malvagio e debole. Così, gli chiedeva: “E ora, signore, si deciderà forse a rovinarsi completamente dicendomi, ” quando in realtà quell’uomo [[archetypes/innocent|innocente]] non aveva nemmeno aperto bocca. Oppure aggiungeva: “Vedete bene in quale situazione vi trovate. Non vi lascerò scampo. Dopo aver esaurito tutte le risorse della frode e della menzogna, per anni interi; dopo aver dimostrato una combinazione di bassezza e audacia spietata, come il mondo raramente ha visto. Ora avete la faccia tosta di inchinarvi davanti alla persona più disonesta dell’umanità, chiedendo [[concepts/mercy|pietà]]!” Il povero canonico sembrava sia indignato che confuso; sua madre, con le [[motifs/tears|lacrime]] agli occhi, sedeva in silenzio; gli altri presenti erano completamente sopraffatti, privi di qualsiasi reazione o capacità di resistenza.
-
-Ma quell’ondata di filantropia che scaturì quando la partenza del signor Honeythunder divenne imminente deve essere stata davvero molto gratificante per i sentimenti di quell’uomo distinto. Il suo caffè veniva preparato, grazie alle particolari attenzioni del signor Tope, un’ora prima che ne avesse bisogno. Il signor Crisparkle stava seduto con l’[[motifs/clock|orologio]] in mano per circa lo stesso periodo, per non ritardare troppo. I quattro giovani erano tutti d’accordo nel ritenere che l’orologio della [[settings/cathedral|Cattedrale]] segnasse le tre quarti quando in realtà indicava soltanto un quarto. La signorina Twinkleton stimò che la distanza fino all’omnibus fosse di venticinque minuti a piedi, mentre in realtà erano soltanto cinque. L’affettuosa gentilezza di tutti quanti lo aiutarono a indossare il cappotto e lo spinsero fuori nella luce della luna, come se fosse un traditore che suscitava la loro compassione. E una squadra di [[motifs/horse|>cavalli]] era già pronta alla porta posteriore. Il signor Crisparkle e il suo nuovo protetto, che lo accompagnarono all’omnibus, erano così preoccupati che potesse prendersi un raffreddore che lo chiusero subito dentro l’omnibus, lasciandolo con ancora mezz’ora di [[motifs/time|tempo]] in più.
 
 
 
@@ -3827,88 +2697,6 @@ further to say, sir, except that I [[concepts/hope|hope]] you will bear with me 
 allowance for me.”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-#CAPITOLO VII.  
-MOLTE PIÙ RIVELAZIONI DELLE PRECEDENTI
-
-
-“Conosco molto poco di quel signore, signore,” disse Neville al Canon Minore mentre si giravano per tornare indietro.
-
-“Conosci molto poco riguardo al tuo guardiano, vero?” ripeté il Minore Canonico.
-
-“Quasi nulla!”
-
-# Come mai.
-
-“Diventare il mio tutore? Le dirò una cosa, signore. Immagino sappia che io e mia sorella proveniamo dal Cilone.”
-
-“No di certo.”
-
-“Mi [[concepts/wonder|meraviglio]] davvero. Vivevamo lì con un patrigno. Nostra madre è morta lì, quando eravamo bambini piccoli. Abbiamo avuto una vita terribile. Lei lo ha nominato nostro tutore, ma era un individuo meschino che ci negava il cibo e i vestiti. Alla sua [[motifs/death|morte]], ci ha affidati a quest’uomo. Per nessuna ragione particolare, se non perché lui era un amico o una conoscente di mio padre, la cui nome compariva spesso sui giornali e attirava la sua attenzione.”
-
-“Dev’essere stato di recente, immagino, ”
-
-“Piuttosto di recente, signore. Questo nostro patrigno era un individuo crudele e spietato. È stato davvero meglio che sia morto in quel momento; altrimenti forse l’avrei ucciso io stesso.”
-
-Il signor Crisparkle si fermò nel chiaro di luna e guardò il suo allievo pieno di speranza, con aria perplessa.
-
-“Vi sorprendo, signore?”, disse, cambiando immediatamente tono in uno più sottomesso.
-
-“Mi sciocchi; mi sciocchi in modo indescrivibile.”
-
-Il ragazzo abbassò la testa per un po’, mentre continuavano a camminare, poi disse: “Tu non l’hai mai visto picchiare tua sorella. Io l’ho visto picchiare la mia, più di una volta. E non me lo sono mai dimenticato.”
-
-“Niente,” disse il signor Crisparkle, “neanche le lacrime di una sorella amata e bella a causa di un trattamento spregevole;” nonostante la sua indignazione crescesse, divenne meno severo, contro la sua volontà; “niente potrebbe giustificare quelle orribili espressioni che avete usato.”
-
-“Mi dispiace di averli usati, soprattutto con voi, signore. Vi chiedo scusa. Ma permettetemi di chiarire un punto: avete parlato delle [[motifs/tears|lacrime]] di mia sorella. Mia sorella gli avrebbe permesso di distruggerla completamente, piuttosto che lasciargli credere di poterla far piangere.”
-
-Il signor Crisparkle rilesse quelle sue note mentali e non fu affatto sorpreso di ciò che lesse, né ebbe alcuna intenzione di metterlo in dubbio.
-
-“Forse troverete strano, signore,” – disse con voce esitante – “che vi chieda così presto di permettermi di confidarmi in voi e di avere la gentilezza di ascoltare una parola o due da me a mia difesa.”
-
-“Difesa?”, ripeté il signor Crisparkle. “Non si trova nella posizione di dover difendersi, signor Neville.”
-
-“Credo di sì, signore. Almeno so che dovrei esserlo, se conosceste meglio il mio carattere.”
-
-“Beh, signor Neville,” fu la risposta. “E se lasciassi che sia io a scoprirlo?”
-
-“Poiché è la vostra volontà, signore,” rispose il giovane, cambiando immediatamente tono in uno di cupa delusione: “poiché desiderate impedirmi di seguire il mio impulso, devo sottomettermi.”
-
-C'era qualcosa nel tono di quel breve discorso che metteva a disagio l’uomo coscienzioso a cui era rivolto. Gli suggeriva che, forse senza volerlo, potesse allontanare da sé una fiducia che sarebbe stata benefica per una giovane mente ancora in via di formazione, e che avrebbe potuto aiutarlo anche lui stesso nel guidarla e migliorarla. Erano ormai a portata di vista delle luci alle sue finestre, e allora si fermò.
-
-“Torniamo indietro e facciamone un altro giro, signor Neville. Altrimenti potrebbe non avere il [[motifs/time|tempo]] necessario per finire ciò che vuole dirmi. Si affretta a pensare che io intenda controllarla. Niente affatto. Le invito piuttosto a fidarsi di me.”
-
-“L’avete invitata voi stesso, signore, senza nemmeno saperlo. Da quando sono arrivato qui. Dico ‘da quando sono arrivato’ come se fossi stato qui già una settimana. La [[concepts/truth|verità]] è che io e mia sorella siamo venuti qui per litigare con voi, per sfidarvi, e poi per separarci di nuovo.”
-
-“Davvero?” disse il signor Crisparkle, completamente senza sapere cosa altro aggiungere.
-
-“Vede, signore, non potevamo sapere in anticipo cosa fosse lei. Non è vero?”
-
-“Chiaramente no,” disse il signor Crisparkle.
-
-“E poiché non ci eravamo mai piaciuti nessun altro con cui eravamo entrati in contatto, avevamo deciso di non piacerci nemmeno a te.”
-
-“Davvero?” disse di nuovo il signor Crisparkle.
-
-“Ma ci piacete davvero, signore, e notiamo una differenza inequivocabile tra la vostra >casa e il modo in cui ci avete accolto, rispetto a tutto ciò che abbiamo mai conosciuto prima. Questo, il fatto che io mi trovi da sola con voi, e il silenzio, la tranquillità che regnano intorno a noi dopo la partenza del signor Honeythunder, e il fatto che Cloisterham sia così antico, ma anche così maestoso e bello, con la [[motifs/moon|luna]] che splende su di esso, tutte queste cose mi hanno spinta ad aprire il mio cuore.”
-
-“Capisco perfettamente, signor Neville. E ascoltare tali influenze può rivelarsi davvero benefico.”
-
-“Nel descrivere le mie stesse imperfezioni, signore, devo chiedervi di non pensare che io stia descrivendo quelle di mia sorella. Lei è riuscita a superare gli svantaggi della nostra misera vita ed è molto più fortunata di me, proprio come quella torre della [[settings/cathedral|Cattedrale]] è più alta di quelle ciminiere.”
-
-Nel profondo del suo cuore, il signor Crisparkle non ne era così sicuro.
-
-“Da quando ho memoria, signore, ho dovuto reprimere un odio mortale e amaro. Questo mi ha reso segreto e vendicativo. Sono sempre stato oppresso con violenza; questa situazione, nella mia debolezza, mi ha costretto a ricorrere alla falsità e alla meschinità. Mi sono stati negati l’[[concepts/education|istruzione]], la libertà, i soldi, i vestiti, le cose essenziali per vivere, i piaceri più semplici dell’[[motifs/childhood|infanzia]] e dei primi anni della giovinezza. Questo mi ha reso completamente privo di quelle emozioni, di quei ricordi, di quegli istinti positivi che, ne sono certo, voi avete potuto sviluppare in altri giovani, ”
-
-“È evidentemente vero. Ma non è certo incoraggiante,” pensò il signor Crisparkle mentre si giravano di nuovo.
-
-“E per concludere, signore: sono stato cresciuto tra dipendenti umili e servili, appartenenti a una razza inferiore, e avrei potuto facilmente sviluppare qualche affinità con loro. A volte, non so, forse c’è qualcosa di ‘tigresco’ nel loro [[motifs/blood|sangue]].”
-
-“Proprio come nel caso di quel commento di poco fa,” pensò il signor Crisparkle.
-
-“Per concludere, riguardo a mia sorella, signore (siamo gemelli), dovrebbe sapere che, per il suo [[concepts/honour|onore]], nulla della nostra miseria è mai riuscito a sottometterla, anche se spesso questo mi intimidiva. Ogni volta che fuggivamo (ne abbiamo fatte quattro in sei anni, solo per essere subito riportati indietro e puniti crudelmente), era sempre lei ad organizzare e guidare la fuga. Ogni volta si travestiva da ragazzo e dimostrava il coraggio di un uomo. Credo che avessimo sette anni quando ci siamo fugiti per la prima volta; ricordo che, quando ho perso il coltello a portata di mano con cui lei avrebbe dovuto tagliarsi i capelli corti, ha cercato disperatamente di strapparseli o morderli via. Non ho altro da dire, signore, se non che [[concepts/hope|spero]] che mi comprenderà e mi perdonerà.”
-
 
 
 <span class="atom-split" data-atom="chapter_08--part_02" data-title="The Mystery of Edwin Drood — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="topos/double,archetype/monster,motif/nature,motif/tears,motif/time,motif/well,motif/window,concept/beauty,concept/nature,concept/truth,concept/wonder,setting/cathedral,character/edwin_drood,character/helena"></span>
@@ -4047,68 +2835,6 @@ be charged with being the [[archetypes/monster|Monster]] who had frightened you.
 answered never a word, and shivered, as if they had made her a little
 too cold.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-“Di questo, signor Neville, può esserne certo,” rispose il canonico minore. “Non predico mai più di quanto sia necessario, e non intendo ripagare la sua fiducia con un sermone. Ma le chiedo di ricordare, molto seriamente e costantemente, che se devo essere d’aiuto a lei, questo può avvenire soltanto con il suo stesso impegno; e che tale impegno può essere efficace solo cercando l’aiuto del Cielo.”
-
-“Cercherò di fare la mia parte, signore.”
-
-“Ebbene, signor Neville, farò del mio meglio. Ecco la mia mano: possa Dio benedire i nostri sforzi!”
-
-Ora si trovavano davanti alla porta della sua >casa, e dall’interno provenivano suoni allegri di voci e risate.
-
-“Farò un altro giro prima di entrare,” disse il signor Crisparkle, “perché voglio farvi una domanda. Quando avete detto di aver cambiato idea su di me, parlavate non solo per voi stessi, ma anche per vostra sorella, vero?”
-
-“Senza dubbio sì, signore.”
-
-“Scusi, signor Neville, ma penso che non abbia avuto l’opportunità di comunicare con sua sorella da quando ci siamo incontrati. Il signor Honeythunder è stato molto eloquente; ma forse posso osare dire, senza cattive intenzioni, che ha quasi monopolizzato l’attenzione durante quell’incontro. Non avrebbe potuto rispondere al posto di sua sorella senza una motivazione sufficiente?”
-
-Neville scosse la testa con un sorriso orgoglioso.
-
-“Non lo sa ancora, signore, quanto possa essere profonda la comprensione che esiste tra mia sorella e me, anche se non ci siamo scambiati nemmeno una parola. Forse, addirittura, solo uno sguardo. Lei non solo prova ciò che ho descritto, ma sa molto bene che sto approfittando di questa occasione per parlare con lei, e anche per me stesso.”
-
-Il signor Crisparkle lo guardò in faccia con un certo incredulità; ma l’espressione sul suo volto rivelava una convinzione assoluta e ferma riguardo alla [[concepts/truth|veridicità]] di ciò che aveva detto, tanto che il signor Crisparkle fissò il marciapiede, immerso nei suoi pensieri, fino a quando non arrivarono di nuovo davanti alla sua porta.
-
-“Chiederò un altro turno, signore, questa volta,” disse il giovane, con il viso che si arrossiva leggermente. “Ma per l’eloquenza del signor Honeythunder, credo che l’abbiate definita così, signore, ” (con un certo sottile astuzia.)
-
-“Sì, l'ho definita eloquenza,” disse il signor Crisparkle.
-
-“Se non fosse per l’eloquenza del signor Honeythunder, forse non avrei avuto bisogno di chiedervi ciò che sto per chiedervi. Questo signor [[characters/edwin-drood|Edwin Drood]], giusto? Penso che sia questo il nome, ”
-
-“Assolutamente corretto,” disse il signor Crisparkle. “D-r-[[topoi/double|>doppio]] o-d.”
-
-“Leggeva con voi, signore, o legge ancora con voi?”
-
-“Mai, signor Neville. Lui viene qui a visitare un suo parente, il signor Jasper.”
-
-“Anche la signorina Bud è sua parente, signore?”
-
-(“Ora, perché dovrebbe chiederlo in quel modo, con quella improvvisa aria di superiorità?” pensò il signor Crisparkle.) Poi spiegò ad alta voce ciò che sapeva riguardo a quella piccola storia del loro fidanzamento.
-
-“Ah, ecco dunque il segreto”, disse il giovane. “Ora capisco quel suo atteggiamento da proprietario, ”
-
-Queste parole furono dette così chiaramente, sia a se stesso che a qualcun altro, piuttosto che al signor Crisparkle, che quest'ultimo sentì istintivamente che notarle sarebbe stato quasi equivalente a notare un passaggio in una lettera che aveva letto per caso, guardando oltre la spalla dell’autore. Un attimo dopo rientrarono nella casa.
-
-Il signor Jasper era seduto al pianoforte quando entrarono nel suo salotto; accompagnava la signorina Rosebud mentre lei cantava. A causa del fatto che lui suonava senza consultare le note e della natura distratta della ragazza, che tendeva spesso a sbagliare, seguiva con estrema attenzione i suoi movimenti labiali, utilizzando sia gli occhi che le mani per indicare correttamente le note; intanto, [[characters/helena|Helena]], con un braccio posato intorno a lei, fissava il signor Jasper con maggiore interesse che la sua esibizione canora. Tra lei e suo fratello passò un’occhiata complice: il signor Crisparkle credette di scorgere nel loro sguardo l’intesa di cui si era parlato in precedenza. Il signor Neville si sistemò accanto al pianoforte, appoggiandosi allo strumento; il signor Crisparkle si sedette vicino alla statuina della pastorella di porcellana; [[characters/edwin-drood|Edwin Drood]] si occupava con gentilezza del ventaglio della signorina Twinkleton; e quella signora, in modo passivo, sembrava rivendicare un certo diritto su quell’esibizione, proprio come il signor Tope, il sacrestano, faceva ogni giorno durante le funzioni nella [[settings/cathedral|Cattedrale]].
-
-Illustrazione: Al pianoforte
-
-La -canzone continuava. Era una melodia triste di addio, e quella giovane voce fresca suonava molto malinconica e tenera. Mentre Jasper osservava quelle belle labbra che ripetevano continuamente quella stessa nota, come se fosse un sussurro sommesso proveniente da lui stesso, la voce iniziò a tremare; all’improvviso, la cantante scoppiò in lacrime e gridò, coprendosi gli occhi con le mani: “Non ce la faccio più! Ho paura. Portami via!”
-
-Con un rapido movimento della sua snella figura, [[characters/helena|Elena]] adagiò la piccola [[concepts/beauty|>bellezza]] su un divano, come se non l’avesse mai afferrata. Poi, inginocchiandosi accanto a lei e posando una mano sulla sua bocca rossa, mentre con l’altra chiamava in aiuto tutti gli altri, [[characters/helena|Elena]] disse loro: “Non è niente; è tutto finito; non parlatele per un minuto, e starà bene!”
-
-Nello stesso istante, le mani di Jasper si staccarono dalle tastiere e rimasero sospese sopra di esse, come se aspettassero di riprendere a suonare. In quella posizione, però, rimase immobile: non guardò nemmeno intorno, mentre tutti gli altri avevano già cambiato posto e si stavano rassicurando a vicenda.
-
-“Pussy non è abituata ad avere un pubblico; è semplicemente la realtà,” disse [[characters/edwin-drood|Edwin Drood]]. “Si è innervosita e non è riuscita a resistere. Inoltre, Jack, sei un maestro così esigente che credo la spaventi davvero. Niente di strano.”
-
-“Nessun [[concepts/wonder|stupore]]”, ripeté [[characters/helena|Elena]].
-
-“Ecco, Jack, lo senti! Anche tu avresti paura di lui, in circostanze simili, vero, signorina Landless?”
-
-“Nessuna circostanza al mondo,” rispose [[characters/helena|Elena]].
-
-Jasper abbassò le mani, guardò oltre la spalla e pregò di poter ringraziare Miss Landless per aver difeso il suo onore. Poi iniziò a suonare senza nemmeno toccare le note correttamente, mentre la sua piccola allieva veniva portata vicino a una finestra aperta per prendere aria e riceveva altre attenzioni gentili. Quando fu riportata indietro, il suo posto era vuoto. “Jack se n’è andato,” le disse Edwin. “Temo proprio che non gli sia piaciuto essere accusato di essere il [[archetypes/monster|mostro]] che ti ha spaventata, ” Ma lei non rispose nemmeno una parola e tremò, come se fosse stata lasciata fuori al freddo per troppo tempo.
 
 
 
@@ -4258,89 +2984,6 @@ they were then softened with compassion and admiration. Let whomsoever
 it most concerned look [[motifs/well|well]] to it!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Miss Twinkleton affermò che effettivamente erano ore tarde; Mrs. Crisparkle, trovandosi all’esterno delle mura della Casa delle Suore, osservò che loro, coloro che si occupavano di formare le future mogli e madri d’Inghilterra (ultime parole pronunciate a voce più bassa, come se dovessero essere rivelate in confidenza), erano davvero tenute a dare un esempio migliore piuttosto che ad abituarsi a comportamenti frivoli. Furono quindi distribuiti dei fogli di carta per avvolgere i regali, e i due giovani cavalieri si offrirono volontariamente di accompagnare le signore a casa. Tutto fu fatto in breve tempo, e il cancello della Casa delle Suore si chiuse alle loro spalle.
-
-Gli studenti residenti si erano ritirati, e solo la signora Tisher, in solitaria veglia, attendeva il nuovo studente. Poiché la sua camera da letto era vicina a quella di Rosa, non fu necessario alcun lungo presentamento o spiegazione prima che lei assumesse la responsabilità della sua nuova amica e si ritirasse per la [[motifs/night|notte]].
-
-“Che sollievo meraviglioso, caro mio,” disse [[characters/helena|Elena]]. “Per tutto il giorno ho temuto che mi trovasse in questa situazione proprio adesso.”
-
-“Non siamo molte,” rispose Rosa, “e siamo ragazze di buon carattere; almeno le altre lo sono; posso garantirlo per loro.”
-
-“Posso rispondere al posto tuo,” rise [[characters/helena|Elena]], scrutando quel bellissimo visino con i suoi occhi scuri e ardenti, accarezzando dolcemente quella piccola figura. “Diventerai mia amica, vero?”
-
-“Spero proprio di sì. Ma l’idea che io possa essere tuo amico mi sembra troppo assurda, comunque, ”
-
-“Perché?”
-
-“Oh, io sono davvero così insignificante, mentre tu sei così femminile e attraente. Sembri avere la forza e la determinazione necessarie per schiacciarmi completamente; al tuo confronto, mi sento come nulla.”
-
-“Sono una creatura trascurata, mio caro; ignoro ogni tipo di conoscenza, sono consapevole di dover imparare ancora molto e provo profondo imbarazzo per la mia ignoranza.”
-
-“Eppure mi riconosci tutto!” disse Rosa.
-
-“Mia bella, cosa posso fare? C’è qualcosa di affascinante in te, ”
-
-“O, ma esiste davvero?” fece Rosa, metà scherzando e metà seriamente.  
-“Che peccato che il Maestro Eddy non lo percepisca di più, ”
-
-Certo, le sue relazioni con quel giovane gentiluomo erano già state menzionate in “Minor Canon Corner”.
-
-“Perché, sicuramente lui deve [[motifs/love|amarti]] con tutto il cuore!” esclamò [[characters/helena|Elena]] con tale sincerità che sembrava pronta a trasformarsi in furia se lui non lo avesse fatto.
-
-“Eh? O, beh, suppongo di sì,” disse Rosa, imbronciandosi di nuovo; “Sono sicura di non avere il diritto di dire che non lo è. Forse è colpa mia. Forse non sono abbastanza gentile con lui come dovrei essere. Non credo di esserlo. Ma è davvero così ridicolo!”
-
-Gli occhi di [[characters/helena|Elena]] chiedevano spiegazioni su ciò che stava accadendo.
-
-“Sì, lo siamo,” disse Rosa, rispondendo come se avesse parlato ad alta voce. “Siamo una coppia così ridicola. E ci litighiamo sempre.”
-
-“Perché?”
-
-“Perché entrambi sappiamo di essere ridicoli, mio caro!” Rosa rispose come se quella fosse la risposta più convincente al mondo.
-
-Lo sguardo maestoso di [[characters/helena|Helena]] rimase fisso sul suo volto per alcuni momenti; poi, impulsivamente, allungò entrambe le mani e disse:
-
-“Diventerai mio amico e mi aiuterai?”
-
-“Certo, caro mio, lo farò,” rispose Rosa, con un tono di affettuosa e infantile sincerità che rifletteva appieno i suoi sentimenti; “sarò una buona amica, per quanto possa esserlo una persona così piccola come me per una creatura nobile come te. E per favore, sii anche tu mio amico. Non mi capisco bene io stessa, e ho davvero bisogno di qualcuno che possa comprendermi.”
-
-[[characters/helena-landless|Helena Landless]] la baciò e, tenendole entrambe le mani, disse:
-
-Chi è il signor Jasper?
-
-“È lo zio di Eddy e anche il mio maestro di musica”, rispose Rosa girando la testa da un lato.
-
-“Non lo [[motifs/love|ami]]?”
-
-“Uff!” Alzò le mani sul viso, tremando per [[concepts/fear|paura]] o orrore.
-
-“Lo sai che ti ama?”
-
-“O no, no, per favore!” gridò Rosa, cadendo in ginocchio e aggrappandosi disperatamente alla sua nuova “risorsa”. “Non ditemelo! Mi spaventa. Non smette di tormentarmi i pensieri, come un terribile [[archetypes/ghost|fantasma]]. Ho paura che non sia mai al sicuro da lui. Sembra che possa apparire anche solo quando ne parliamo.” In realtà guardava intorno, come se temesse di vederlo comparire nell’[[archetypes/shadow|ombra]] alle sue spalle.
-
-“Cerca di raccontarmi di più in merito, caro.”
-
-“Sì, lo farò, lo farò. Perché tu sei così forte. Ma tienimi stretto per un po’, e resta con me anche dopo.”
-
-“Mio [[archetypes/child|>bambino]]. Parli come se lui ti avesse minacciato in qualche modo oscuro.”
-
-“Non mi ha mai parlato di quella cosa. Mai.”
-
-Cosa ha fatto?
-
-“Con il suo aspetto, mi ha reso sua schiava. Mi ha costretto a comprenderlo senza che dica una parola; e mi ha costretto a mantenere il [[motifs/silence|silenzio]] senza che emetta alcuna minaccia. Quando suono, i suoi occhi non si staccano mai dalle mie mani; quando canto, non si staccano mai dalle mie labbra. Quando mi corregge, indicandomi una nota, un accordo o un passaggio da suonare, lui stesso è parte di quei suoni. Sembra che mi insegua come un [[archetypes/lover|amante]] e mi ordina di mantenere il suo segreto. Evito i suoi occhi, ma lui mi costringe a guardarli. Anche quando assumono uno sguardo distante (cosa che talvolta accade), sembra immergersi in un terribile sogno nel quale minaccia con violenza; eppure mi obbliga a rendersene conto. E a capire che è seduto proprio accanto a me, più terribile che mai.”
-
-“Che minaccia immaginaria è questa, bella mia? Di cosa si tratta?”
-
-“Non lo so. Non ho mai nemmeno osato pensare o [[concepts/wonder|chiedermi]] di cosa si tratti.”
-
-“E tutto qui, per quella [[motifs/night|notte]]?”
-
-“Tutto qui; tranne che quella [[motifs/night|notte]], quando mi osservava così attentamente mentre cantavo. Oltre ad avere paura, mi sono sentita anche in imbarazzo e profondamente ferita. Era come se mi avesse baciata. Non ce la facevo più e ho gridato. Non devi mai raccontare nulla a nessuno. Eddy è molto devoto a lui. Ma tu hai detto quella [[motifs/night|notte]] che non avresti avuto paura di lui, in nessuna circostanza. Questo mi dà il [[concepts/courage|coraggio]] di raccontartelo solo a te. Tienimi stretta! Resta con me. Ho troppa paura di rimanere da sola.”
-
-Il viso lucente e gitano pendeva sopra le braccia e il seno delicati; i capelli neri selvaggi ricadevano protettivamente su quel corpo infantile. Negli occhi scuri e intensi brillava un barlume di [[motifs/fire|fiamma]], anche se in quel momento erano pieni di compassione e ammirazione. Che chi ne fosse più interessato lo osservasse attentamente!
-
 
 
 <span class="atom-split" data-atom="chapter_09--part_01" data-title="The Mystery of Edwin Drood — Chapter 8 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/nature,motif/night,motif/road,motif/time,concept/hope,concept/nature,concept/wonder,setting/egypt,setting/london,character/edwin_drood,character/helena,character/neville_landless"></span>
@@ -4477,70 +3120,6 @@ and freely, there is no anger in you, Mr. Neville?”
 “None at all, Mr. Jasper.” Still, not quite so frankly or so freely;
 or, be it said once again, not quite so carelessly perhaps.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO VIII.  
-LE PUGNALE SONTO SFODERATE
-
-
-I due giovani, dopo aver visto le ragazze, le loro protette, entrare nel cortile della Casa delle suore, e trovandosi fissati con freddezza dalla vecchia insegna di bronzo, come se quel vecchio malandato con il vetro nell’occhio fosse insolente, si guardano l’un l’altro, poi osservano la strada illuminata dalla luna e lentamente se ne vanno insieme.
-
-“Rimarrà qui a lungo, signor Drood?”, chiede Neville.
-
-“Non questa volta,” è la risposta negligente. “Parto di nuovo per [[settings/london|Londra]] domani. Ma tornerò qui di tanto in tanto fino alla prossima festa di Mezza Estate; poi lascerò Cloisterham, e anche l’Inghilterra, probabilmente per molto [[motifs/time|tempo]].”
-
-“Stai andando all’estero?”
-
-“Farò svegliare un po’ l’[[settings/egypt|>Egitto]]”, è la risposta piena di disprezzo.
-
-Stai leggendo?
-
-“Leggere?” ripete [[characters/edwin-drood|Edwin Drood]] con un tono di disprezzo. “No. Lavorare, impegnarmi nel mio lavoro, occuparmi di ingegneria. La mia piccola eredità è stata lasciata come parte del capitale dell’azienda in cui lavoro da mio padre, che ne era stato socio; e fino a quando non raggiungerò l’età adulta, sono sotto la responsabilità dell’azienda. Dopodiché riceverò la mia modesta quota di partecipazione. Jack – lo hai incontrato a cena – sarà il mio tutore e fiduciario fino ad allora.”
-
-Ho sentito dal signor Crisparkle della tua altra buona fortuna.
-
-“Cosa intendi per la mia ‘altra buona fortuna’?”
-
-Neville ha fatto quella osservazione in modo cauto e timido, ma allo stesso tempo deciso, esprimendo perfettamente quell’atteggiamento particolare che già era stato notato: essere contemporaneamente cacciatore e preda. Edwin ha replicato in modo brusco e del tutto scortese. Si fermano e si scambiano uno sguardo piuttosto acceso.
-
-“Spero,” disse Neville, “che non ci sia offesa, signor Drood, nel fatto che io menzioni innocentemente il vostro fidanzamento, ”
-
-“Per George!” esclama Edwin, riprendendo il cammino a un passo leggermente più veloce; “tutti in questo vecchio e chiacchierone Cloisterham ne parlano. Mi chiedo perché non sia stata aperta nessuna locanda pubblica, con il mio ritratto come insegna di ‘The Betrothed’s Head’. O magari quello di Pussy. Uno dei due, insomma.”
-
-“Non sono responsabile del fatto che il signor Crisparkle abbia menzionato l’argomento con me, in modo piuttosto aperto,” inizia Neville.
-
-“No; è vero; non lo sei,” conferma [[characters/edwin-drood|Edwin Drood]].
-
-“Ma,” continua Neville, “sono io responsabile per avervi menzionato questa cosa. E l’ho fatto sulla presunzione che non poteste fare a meno di esserne molto orgogliosi.”
-
-Ora, ci sono questi due curiosi aspetti della [[concepts/nature|natura]] umana che influenzano in modo segreto lo svolgimento di questo dialogo. [[characters/neville-landless|Neville Landless]] è già abbastanza colpito da Little Rosebud da sentirsi offeso dal fatto che [[characters/edwin-drood|Edwin Drood]] (molto inferiore a lei) possa trattarla con tanta leggerezza. [[characters/edwin-drood|Edwin Drood]], invece, è già abbastanza affascinato da [[characters/helena|Helena]] da sentirsi offeso dal fatto che il fratello di lei (molto inferiore a lui) possa disporre di lui con tanta indifferenza e allontanarlo completamente dalla sua vita.
-
-Tuttavia, è necessario rispondere all’ultima osservazione fatta. E così Edwin dice:
-
-“Non lo so, signor Neville” (adottando quel modo di rivolgersi come faceva il signor Crisparkle), “che ciò di cui le persone sono più orgogliose sia proprio di ciò di cui parlano di più; nemmeno io lo so. Che ciò di cui sono più orgogliosi sia proprio ciò di cui vorrebbero che gli altri parlassero di più. Ma vivo una vita molto impegnata, e parlo sotto la correzione di voi lettori, che dovreste sapere tutto. E probabilmente è davvero così.”
-
-A quell’[[motifs/time|ora]], entrambi erano ormai diventati selvaggi; il signor Neville all’aperto; [[characters/edwin-drood|Edwin Drood]] sotto la “copertura” trasparente di una canzone popolare, interrompendosi di tanto in tanto per fingere di ammirare gli effetti pittoreschi creati dalla luce della luna davanti a sé.
-
-“Non mi sembra molto cortese da parte tua,” osserva Neville alla fine, “pensare a uno sconosciuto che viene qui senza aver avuto le tue stesse opportunità, e cercare di recuperare il [[motifs/time|tempo]] perso. Ma, a dire il vero, non sono stato educato in un ambiente caratterizzato da una vita frenetica; le mie idee sulla cortesia si sono formate tra gli ‘pagani’, ”
-
-“Forse, la migliore forma di cortesia, indipendentemente dal tipo di persone tra cui si cresce,” ribatte [[characters/edwin-drood|Edwin Drood]], “è occuparsi delle proprie faccende. Se voi mi darete questo esempio, prometto di seguirlo.”
-
-“Non sai che ti assumi troppe responsabilità?” fu la risposta arrabbiata. “E nel posto da dove vengo io, verresti certo chiamato a rendere conto di questo.”
-
-“Ad esempio, da chi?” chiese [[characters/edwin-drood|Edwin Drood]] fermandosi e guardando l’altro con disprezzo.
-
-Ma all'improvviso una mano forte si posa sulla spalla di Edwin, e Jasper si ferma tra loro. Sembra infatti che anche lui sia passato vicino alla Casa delle suore, avvicinandosi da dietro, lungo il lato ombreggiato della [[motifs/road|strada]].
-
-“Ned, Ned, Ned!” dice lui; “non dobbiamo più permetterlo. Non mi piace. Ho sentito parole dure tra voi due. Ricorda, mio caro ragazzo: ora sei quasi nella posizione di ospite. Appartieni, in un certo senso, a questo posto e lo rappresenti verso gli estranei. Il signor Neville è uno straniero, e dovresti rispettare le obbligazioni dell’ospitalità. E, signor Neville, ” posando la mano sinistra sulla spalla di quel giovane gentiluomo e camminando tra loro, mano a mano su entrambi i lati: “Mi perdonerà. Ma le chiedo di controllare anche il proprio temperamento. Ora, cosa c’è che non va? Ma perché chiedere. Che non ci sia nulla che non vada, e la domanda diventa superflua. Noi tre andiamo d’accordo, vero?”
-
-Dopo una silenziosa battaglia tra i due giovani uomini, fu [[characters/edwin-drood|Edwin Drood]] ad intervenire dicendo: “Per quanto mi riguarda, Jack, non provo alcuna rabbia.”
-
-“Nemmeno in me,” dice [[characters/neville-landless|Neville Landless]], anche se non del tutto liberamente; o forse con troppa leggerezza. “Ma se il signor Drood sapesse tutto ciò che c’è dietro di me, lontano da qui, forse capirebbe meglio perché parole taglienti possano ferirmi così profondamente.”
-
-“Forse,” disse Jasper con tono rassicurante, “dovremmo evitare di definire il nostro buon rapporto in termini specifici. Dovremmo astenerci dal dire qualsiasi cosa che possa sembrare un rimprovero o una condizione; potrebbe non apparire generoso. Onestamente e liberamente, vedete, non c’è rabbia in Ned. E onestamente e liberamente, nemmeno in voi, signor Neville.”
-
-“Assolutamente no, signor Jasper.” Tuttavia, non del tutto in modo così franco o disinvolto; o, per dirlo ancora una volta, forse non del tutto con tale leggerezza.
 
 
 
@@ -4682,76 +3261,6 @@ Mr. Jasper quickly looks to the other for his retort.
 
 “I have.”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-“Bene, allora! Ora, la mia casa vicino al cancello è a pochi metri da qui: il riscaldatore è acceso sul [[motifs/fire|forno]], il vino e i bicchieri sono sul tavolo. E non dista nemmeno un tiro di pietra da Minor Canon Corner. Ned, domani partirai subito. Porteremo con noi anche il signor Neville, per bere insieme una coppa.”
-
-Con tutto il mio cuore, Jack.
-
-“E con tutto il mio cuore, signor Jasper.” Neville sente che non potrebbe dire di meno, ma preferirebbe non andare. Ha l’impressione di aver perso il controllo dei propri sentimenti; la freddezza di [[characters/edwin-drood|Edwin Drood]], invece di contagiarlo, lo fa infuriare ancora di più.
-
-Il signor Jasper, ancora camminando al centro, con le mani appoggiate sulle spalle di entrambi i compagni, canta bellamente il ritornello di una canzone da bere; poi tutti vanno nelle sue stanze. Lì, il primo oggetto visibile, quando accende la lampada in aggiunta al [[motifs/fire|fuoco]], è il ritratto sopra la mensola del camino. Non si tratta certo di un oggetto destinato a migliorare la comprensione tra i due giovani, ma piuttosto di qualcosa che riporta in superficie, in modo un po’ goffo, l’argomento della loro divergenza. Di conseguenza, entrambi lo guardano consapevolmente, ma non dicono nulla. Jasper, invece (che, a giudicare dal suo comportamento, sembra aver ottenuto solo una comprensione parziale della causa delle loro recenti discussioni accese), attira direttamente l’attenzione su di esso.
-
-“Riconosce quella foto, signor Neville?” disse, regolando l’intensità della luce per farla apparire più chiaramente.
-
-“Lo riconosco, ma è lontano dall’essere un omaggio all’originale.”
-
-“Oh, siete davvero duri con lui. È stato Ned a farlo, e mi l’ha regalato.”
-
-“Mi dispiace molto, signor Drood,” si scusa Neville, con sincera intenzione di chiedere scusa; “se avessi saputo di essere nella presenza dell’[[archetypes/artist|artista]], ”
-
-“Oh, è solo uno scherzo, signore, davvero solo uno scherzo,” interrompe Edwin, sbadigliando in modo provocatorio. “Solo un po’ di umorismo riguardo ai punti di vista di Pussy. Un giorno la dipingerò seriamente, se si comporta bene.”
-
-Quel tono di distaccato disinteresse con cui viene detto tutto ciò, mentre il parlante si appoggia allo schienale della sedia e incrocia le mani dietro la testa per riposarle, è davvero esasperante per Neville, che è così irrequieto e eccitabile. Jasper osserva attentamente l’uno e l’altro, sorride leggermente, poi si allontana per preparare una brocca di vino al calore del [[motifs/fire|focolare]]. Sembra che ci voglia molto tempo per mescolare e prepararlo correttamente.
-
-“Immagino, signor Neville,” dice Edwin, pronto a risentirsi di quella protesta indignata contro di lui davanti al giovane Landless, che è altrettanto evidente quanto il ritratto, o il [[motifs/fire|fuoco]], o la lampada: “Immagino che se dipingeste il ritratto della vostra signora [[motifs/love|amata]], ”
-
-“Non so dipingere”, è l’interruzione affrettata.
-
-“Quella è la tua sfortuna, non colpa tua. Lo faresti se potessi. Ma se potessi, immagino che la trasformeresti (indipendentemente da ciò che sia realmente) in Juno, Minerva, [[characters/diana|Diana]] e [[characters/venus|Venus]] tutte insieme. Eh?”
-
-“Non ho nessuna signora che amo, e non posso dirlo.”
-
-“Se provassi davvero,” dice Edwin, con un'aria di vanità infantile che gli sale dentro, “a dipingere il ritratto della signorina Landless, seriamente, capite? Davvero seriamente, vedreste cosa sarei in grado di fare!”
-
-“Suppongo che il consenso di mia sorella per partecipare sia stato ottenuto inizialmente. Ma poiché non verrà mai più ottenuto, temo di non riuscire mai a vedere cosa sei capace di fare. Devo accettare questa perdita.”
-
-Jasper si gira lontano dal [[motifs/fire|fuoco]], riempie un grande calice per Neville, un altro grande calice per Edwin, e ne dà uno a ciascuno di loro; poi si riempie il proprio calice, dicendo:
-
-“Come, signor Neville, dobbiamo brindare a mio nipote, Ned. Poiché è lui che, metaforicamente parlando, ha il piede nel staffile, il nostro bicchiere di brindisi deve essere dedicato a lui. Ned, mio carissimo amico, la mia [[motifs/love|amore]]!”
-
-Jasper dà l’esempio bevendo quasi tutta la sua coppa, e Neville lo imita. [[characters/edwin-drood|Edwin Drood]] dice: “Grazie mille a entrambi”, e segue anch’egli quell’esempio.
-
-“Guardatelo,” esclama Jasper, tendendo la mano con ammirazione e tenerezza, ma anche con incoraggiamento. “Vedete come si muove con tanta disinvoltura. Signor Neville! Il mondo intero gli si apre davanti per scegliere: una vita piena di lavoro stimolante e interessi vari, una vita di cambiamenti e emozioni intense, una vita di comodità domestica e [[motifs/love|amore]]! Guardatelo!”
-
-Il viso di [[characters/edwin-drood|Edwin Drood]] si era rapidamente e notevolmente arrossito a causa del vino; lo stesso era accaduto al viso di [[characters/neville-landless|Neville Landless]]. Edwin continuava a sedersi all’indietro sulla sedia, tenendo le mani giunte sopra la testa.
-
-“Vedete quanto poco ci dia importanza di tutto questo!” continua Jasper in tono scherzoso.  
-“Non vale davvero la pena che si prenda quel frutto d’oro che giace maturo sull’albero. Eppure, considerate il contrasto: voi e io non abbiamo alcuna possibilità di suscitare interesse o cambiamento, né di godere di comodità domestica e [[motifs/love|amore]]. Non abbiamo alcuna prospettiva, a meno che non siate più fortunati di me, il che è del tutto possibile, ”
-
-“Per la mia [[motifs/soul|'anima]], Jack,” disse Edwin in tono compiaciuto, “mi dispiace davvero molto di aver avuto tutto così facile come tu descrivi. Ma tu conosci ciò che so io, Jack. E forse non è poi così semplice come sembra, dopotutto. Non è vero, Pussy?” Disse, facendo schioccare il pollice e l’indice verso il ritratto. “Dobbiamo ancora andare d’accordo, no? Capisci cosa intendo, Jack, ”
-
-Illustrazione: Su terreno pericoloso
-
-
-Il suo discorso è diventato lento e incomprensibile. Jasper, tranquillo e padrone di sé, guarda verso Neville, come aspettandosi una sua risposta o un commento. Quando Neville parla, anche il suo discorso è altrettanto lento e incomprensibile.
-
-“Forse sarebbe stato meglio per il signor Drood aver conosciuto alcune difficoltà,” dice lui, in tono sfidante.
-
-“Prega,” ribatte Edwin, girando solo lo sguardo in quella direzione, “prega, perché mai sarebbe stato meglio per il signor Drood conoscere alcune difficoltà?”
-
-“Ah sì,” dice Jasper con interesse; “dicci pure il motivo.”
-
-“Perché avrebbero potuto renderlo più ragionevole,” dice Neville, “una buona fortuna che non è affatto necessariamente il risultato dei suoi meriti personali.”
-
-Il signor Jasper guarda rapidamente suo nipote in attesa della sua risposta.
-
-“Avete mai conosciuto le difficoltà, posso chiedervelo?”, dice [[characters/edwin-drood|Edwin Drood]], seduto dritto.
-
-Il signor Jasper guarda rapidamente l’altro in attesa della sua replica.
-
-"#Ho, davvero."
 
 
 
@@ -4939,111 +3448,6 @@ imperceptibly, acquired the right to be hung up in his hall; hangs it
 up; and goes thoughtfully to bed.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“E di cosa vi hanno fatto rendere consapevoli?”
-
-Lo scambio di sguardi tra il signor Jasper e i due interlocutori continua per tutta la durata del dialogo, fino alla fine.
-
-“Te l’ho già detto una volta, di [[motifs/night|notte]].”
-
-“Non hai mai fatto nulla del genere.”
-
-“Te lo dico io, ne prendi troppa responsabilità sulle tue spalle.”
-
-“Hai aggiunto qualcos’altro, se ricordo bene, ”
-
-“Sì, ho detto anche qualcos’altro.”
-
-"Dillo di nuovo."
-
-“Ho detto che nel luogo da dove vengo, vi verrebbe chiesto conto di questo.”
-
-“Solo lì?” esclama [[characters/edwin-drood|Edwin Drood]] con una risata sprezzante. “Molto lontano, credo. Sì, capisco: quella parte del mondo si trova a distanza di sicurezza.”
-
-“Allora parla qui,” ribatte l’altro, alzandosi in preda alla furia. “Parla pure ovunque tu voglia! La tua [[concepts/vanity|vanità]] è intollerabile, la tua presunzione va oltre ogni limite; parli come se fossi qualche prezioso tesoro raro, invece di essere solo un comune vanesio. Sei soltanto un uomo comune, e un comune vanesio.”
-
-“Pff, pff,” disse [[characters/edwin-drood|Edwin Drood]], altrettanto furioso, ma più controllato;  
-“Come potresti saperlo? Forse riconosci un uomo di colore comune, o uno che si vanta di essere tale, quando lo vedi (e non c’è [[concepts/doubt|dubbio]] che tu abbia molte conoscenze in quel campo); ma tu non sei certo un giudice per quanto riguarda gli uomini bianchi.”
-
-Questo insulso riferimento alla sua pelle scura infuria Neville a tal punto che lancia i resti del suo vino contro [[characters/edwin-drood|Edwin Drood]]; mentre sta per lanciare anche il bicchiere, il suo braccio viene afferrato all’ultimo momento da [[motifs/time|>Jasper]].
-
-“Ned, mio caro amico!” grida ad alta voce; “Ti prego, ti ordino di stare fermo!” Tutti e tre si precipitano verso di lui, con il rumore di bicchieri che si rovesciano e sedie che cadono. “Signor Neville, per l’amor del cielo! Dammi questo bicchiere. Apri la mano, per favore. DEVO averlo!”
-
-Ma Neville lo colpisce, fa una pausa per un istante, con una passione furiosa, mentre il calice è ancora nella sua mano sollevata. Poi lo scaglia giù sotto la griglia con tale forza che i frammenti rotti volano di nuovo in tutte le direzioni; e poi [[motifs/leaves|lascia]] la casa.
-
-Quando emerge per la prima volta nell’aria notturna, nulla intorno a lui è fermo o stabile; nulla sembra essere ciò che appare; sa soltanto di trovarsi con la testa scoperta in mezzo a un vortice rosso [[motifs/blood|sangue]], in attesa di essere affrontato e di lottare fino alla [[motifs/death|morte]].
-
-Ma nulla accadeva, e la [[motifs/moon|luna]] lo guardava dall’alto come se fosse morto dopo un attacco di rabbia. Lui continuava a colpire la propria testa e il proprio cuore con il martello a vapore, barcollando via. Poi iniziò a rendersi conto che qualcuno lo aveva chiuso fuori, come se fosse un animale pericoloso. E allora pensò: “Cosa dovrei fare ora?”
-
-Alcune idee follemente appassionate riguardo al [[motifs/river|fiume]] si dissolvono sotto l’incantesimo della luce lunare che illumina la [[settings/cathedral|>Cattedrale]] e le tombe; ritorna anche il ricordo di sua sorella, nonché il pensiero di ciò che deve a quell’uomo buono che proprio quel giorno ha conquistato la sua fiducia e gli ha dato la sua promessa. Si reca quindi all’angolo del Canon Minore e bussa delicatamente alla porta.
-
-È abitudine del signor Crisparkle rimanere seduto per ultimo tra i membri della famiglia al mattino presto; tocca molto delicatamente il suo pianoforte e si esercita nelle parti che preferisce delle opere vocali. Il [[motifs/wind|vento]] del sud, che soffia dove vuole, attraverso l’angolo di Minor Canon in una [[motifs/night|notte]] tranquilla, non è certo meno rumoroso del signor Crisparkle in quei momenti, soprattutto per rispettare il sonno della “pastorella di porcellana”.
-
-Il suo bussare viene immediatamente risposto dal signor Crisparkle stesso. Quando apre la porta, con una candela in mano, il suo viso sorridente si rabbuia, e sul suo volto si legge un'espressione di delusione e sorpresa.
-
-“Signor Neville! In questo disordine. Dove siete stato?”
-
-“Sono stato da Mr. Jasper, signore. Insieme al suo nipote.”
-
-“Entra pure.”
-
-Il “Minor Canon” lo afferra per il gomito con una mano forte (in modo strettamente scientifico, degno delle sue sessioni di allenamento mattutine) e lo trasforma nella sua piccola biblioteca personale, poi chiude la porta.
-
-“Sto iniziando ad ammalarmi, signore. Sto molto male.”
-
-“Troppo vero. Non siete sobrio, signor Neville.”
-
-“Temo di no, signore, anche se posso assicurarvi in un altro momento che ho bevuto davvero molto poco, e che questo mi ha colpito in modo strano e improvviso.”
-
-“Signor Neville, signor Neville,” dice il canonico minore, scuotendo la testa con un sorriso triste; “L’ho già sentito dire prima.”
-
-“Credo, la mia mente è molto confusa, ma credo che valga allo stesso modo anche per il nipote del signor Jasper, signore.”
-
-“Molto probabile,” è la risposta secca.
-
-“Ci siamo scontrati, signore. Mi ha insultato in modo molto grave. Prima di allora, aveva già fatto scatenare quel [[motifs/blood|sangue]] furioso e violento di cui vi ho parlato oggi.”
-
-“Signor Neville,” ribatte il canonico minore in tono gentile ma deciso: “Le chiedo di non parlarmi con quella mano destra stretta a pugno. Per favore, apra la mano.”
-
-“Mi ha provocato, signore,” continua il giovane, obbedendo immediatamente, “oltre i limiti della mia [[concepts/endurance|resistenza]]. Non so se lo intendesse davvero all’inizio, ma poi sì. Di certo lo intendeva alla fine. In breve, signore,” con un impeto incontenibile, “nella furia con cui mi ha aggredito, avrei ucciso lui se ne avessi avuto la possibilità. E ho cercato di farlo.”
-
-“Hai stretto di nuovo quella mano,” è il commento silenzioso del signor Crisparkle.
-
-“Mi scusi, signore.”
-
-“Conosci la tua stanza, te l’ho mostrata prima di cena; ma ti accompagnerò ancora una volta. Prendimi il braccio, per favore. Con delicatezza, perché tutta la casa è già a letto.”
-
-Infilando la mano nello stesso sostegno scientifico di prima e appoggiandosi con la forza inerente del suo braccio, con l’abilità tipica di un esperto della polizia e con una tranquillità apparentemente [[concepts/unattainable|impossibile]] da raggiungere per i principianti, il signor Crisparkle conduce il suo allievo nella piacevole e ordinata vecchia stanza preparata per lui. Arrivati lì, il giovane si getta su una sedia, appoggia le braccia sul tavolo da lettura e vi posa la testa, con un’espressione di profondo [[concepts/self|autorimprovero]].
-
-Il gentile [[motifs/night|ragazzo]] aveva pensato di lasciare la stanza in silenzio, senza dire una parola. Ma guardando intorno alla porta e vedendo quella figura depressa, tornò indietro, le toccò dolcemente la mano e disse: “Buona [[motifs/night|notte]]!”. Un singhiozzo fu l’unica sua risposta. Avrebbe potuto avere molte cose peggiori; forse, anche alcune migliori.
-
-Un altro leggero bussare alla porta esterna attira la sua attenzione mentre scende le scale. Apre la porta e vede il signor Jasper, che tiene in mano il cappello dello studente.
-
-“Abbiamo avuto una scena terribile con lui,” dice Jasper, a bassa voce.
-
-“È davvero così grave?”
-
-“Feroce!”
-
-Mr. Crisparkle si lamenta: “No, no, no. Non usare parole così forti.”
-
-“Avrebbe potuto uccidere mio caro figlio ai miei piedi. Non è colpa sua se non l’ha fatto. Ma grazie alla [[concepts/mercy|miglia]] di Dio, sono stata rapida e forte al suo fianco; altrimenti lui lo avrebbe ucciso proprio sul mio focolare.”
-
-La frase colpisce dritto nel cuore. “Ah!”, pensa il signor Crisparkle, “sono proprio le sue stesse parole, ”
-
-“Visto ciò che ho visto stasera, e sentito ciò che ho udito,” aggiunge Jasper con grande sincerità, “non troverò mai pace nella mia mente finché esisterà il pericolo che quei due si incontrino di nuovo, senza che nessuno intervenga. È stato orribile. C’è qualcosa del tigre nel suo [[motifs/blood|sangue]] oscuro.”
-
-“Ah!”, pensa il signor Crisparkle, “quindi è stato lui a dirlo!”
-
-“Tu, mio caro signore,” continua Jasper, prendendogli la mano, “anche tu hai accettato una responsabilità pericolosa.”
-
-“Non devi avere alcuna [[concepts/fear|>paura]] per me, Jasper,” risponde il signor Crisparkle con un sorriso tranquillo. “Anch'io non ne ho alcuna per me stesso.”
-
-“Non ne ho nessuna per me,” risponde Jasper, mettendo l’accento sull’ultimo pronome, “perché non sono, e non sono nemmeno sul punto di diventare, l’oggetto della sua ostilità. Ma tu potresti esserlo. E mio caro ragazzo lo è stato. Buona [[motifs/night|notte]]!”
-
-Il signor Crisparkle entra, con quel cappello che, in modo così facile e quasi impercettibile, ha acquisito il diritto di essere appeso nel suo corridoio; lo appende e poi va a letto, pensieroso.
-
 
 
 <span class="atom-split" data-atom="chapter_10--part_01" data-title="The Mystery of Edwin Drood — Chapter 9 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,archetype/lover,archetype/orphan,motif/birds,motif/desire,motif/dust,motif/flowers,motif/home,motif/nature,motif/road,motif/summer,motif/well,concept/beauty,concept/despair,concept/nature,character/edwin_drood"></span>
@@ -5154,35 +3558,6 @@ Rosa direct, she brought a petition from her brother that she would
 forgive him; and, having delivered it with sisterly earnestness, made
 an end of the subject.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO IX.  
-[[motifs/birds|UCCELLI]] NELLA BOSCHAGlia
-
-Rosa, non avendo alcuna parentela conosciuta al mondo, fin dal settimo anno d’età non aveva conosciuto altro “casa” se non quella delle suore, e nessun’altra madre se non la signorina Twinkleton. Il suo ricordo della propria madre era quello di una creaturina carina, simile a lei (le sembrava persino più giovane), che era stata portata a casa tra le braccia del padre, e poi annegata. L’incidente fatale era avvenuto durante una festa. Ogni piega e ogni colore dell’elegante abito estivo, così come i lunghi capelli bagnati, ancora adornati di petali di fiori appassiti, e la figura della giovane morta, distesa sul letto con la sua triste bellezza, rimasero indelebili nella memoria di Rosa. Così come il terrore disperato del suo povero padre, che morì spezzato il cuore nel primo anniversario di quel giorno tragico.
-
-Il fidanzamento di Rosa nacque dal conforto che il suo caro amico e vecchio compagno di università, Drood – anch'egli diventato vedovo in giovane età – gli fornì durante quell’anno di difficoltà mentali. Ma anche lui intraprese quella silenziosa [[motifs/road|strada]] verso la quale tutti i pellegrinaggi terreni concludono il loro percorso, alcuni prima, altri dopo; ed è così che la giovane coppia è arrivata a essere ciò che è oggi.
-
-L’atmosfera di compassione che circondava la piccola [[archetypes/orphan|orfana]] quando arrivò per la prima volta a Cloisterham non si era mai dissipata. Con l’avanzare dell’età, diventando più felice e più bella, quell’atmosfera assunse tonalità sempre più luminose: a volte dorate, altre volte rosa, altre ancora azzurre; ma continuava comunque ad avvolgerla con una sorta di tenue luce propria. Il desiderio generale di consolarla e coccolarla aveva fatto sì che all’inizio venisse trattata come una [[archetypes/child|bambina]] molto più giovane dei suoi anni; lo stesso desiderio la fece continuare ad essere viziata anche quando ormai non era più una bambina. Chi doveva essere il suo preferito, chi doveva anticiparle questo o quel piccolo regalo, o compiere per lei questo o quell’atto di gentilezza; chi doveva portarla a [[motifs/home|casa]] durante le vacanze; chi doveva scrivere le lettere più frequentemente quando erano separate. E chi avrebbe provato la maggiore gioia nel rivederla quando si riunivano? Anche queste dolci rivalità non erano prive di piccoli momenti di amarezza all’interno del monastero delle suore. Beh, per le povere suore di quel tempo, se anche sotto i loro veli e i loro rosari nascondevano lotte più aspre!
-
-Così Rosa era diventata una creaturina amabile, vivace, capricciosa e affascinante; viziata, nel senso di poter contare sull’affetto di tutti intorno a lei; ma non nel senso di ricambiarlo con indifferenza. Possedendo in sé una fonte inesauribile di affetto, le sue emozioni avevano per anni rinfrescato e illuminato la >Casa delle suore; tuttavia le sue profondità non erano mai state toccate. Cosa sarebbe accaduto quando ciò fosse successo? Quali cambiamenti avrebbero potuto verificarsi in quella testa spensierata e in quel cuore leggero? Restava da vedere.
-
-Con quali mezzi la notizia che fosse scoppiata una lite tra i due giovani durante la notte, e che addirittura il signor Neville avesse aggredito [[characters/edwin-drood|Edwin Drood]], sia arrivata presso l’istituto di Miss Twinkleton prima della colazione, è impossibile dirlo. Forse è stata portata da qualche “uccello del cielo”, oppure è arrivata insieme all’aria stessa quando le finestre erano aperte; forse il panettiere l’ha messa nel pane che vendeva, o il lattivendolo l’ha introdotta insieme al latte. O forse le domestiche, battendo via la polvere dai tappeti contro i pilastri d’ingresso, l’hanno ricevuta come “offerta” lasciata dall’atmosfera della città sui loro tappeti. Di certo, prima ancora che Miss Twinkleton si alzasse, la notizia era già penetrata in ogni angolo di quell’antico edificio. E lei stessa l’ha appresa tramite la signora Tisher, mentre si stava ancora vestendo. O (come avrebbe potuto esprimersi davanti a un genitore o a un tutore, ) mentre “offriva sacrifici alle Grazie”.
-
-Il fratello di Miss Landless aveva lanciato una bottiglia contro il signor [[characters/edwin-drood|Edwin Drood]].
-
-Il fratello di Miss Landless aveva lanciato un coltello contro il signor [[characters/edwin-drood|Edwin Drood]].
-
-Un coltello assunse l’aspetto di una forchetta; e il fratello di Miss Landless aveva lanciato una forchetta contro il signor [[characters/edwin-drood|Edwin Drood]].
-
-Proprio come nel caso della precedenza attribuita a Peter Piper, che si diceva avesse raccolto quel pezzo di pepe in salamoia, si riteneva fisicamente desiderabile disporre di prove dell’esistenza di tale pepe; quindi, in questo caso, si ritenne psicologicamente importante capire perché il fratello di Miss Landless avesse gettato una bottiglia, un coltello o una forchetta, o meglio, una bottiglia, un coltello _e_ una forchetta, visto che al cuoco era stato fatto intendere che si trattasse dei tre oggetti insieme. Perché?
-
-[[motifs/well|Beh]], allora. Il fratello di Miss Landless aveva detto di ammirare Miss Bud. Il signor [[characters/edwin-drood|Edwin Drood]] aveva invece detto al fratello di Miss Landless che non aveva alcun diritto di ammirarla. A quel punto il fratello di Miss Landless, secondo quanto riferito esattamente dalla cuoca, aveva preso la bottiglia, il coltello, la forchetta e il decanter, e li aveva lanciati tutti contro il signor [[characters/edwin-drood|Edwin Drood]].
-
-Povera piccola Rosa: quando queste voci iniziarono a circolare, infilò un dito indice in ciascun orecchio e si ritirò in un angolo, pregando di non essere più informata; ma la signorina Landless, chiedendo il permesso alla signorina Twinkleton di andare a parlare con suo fratello, e dimostrando chiaramente che avrebbe agito comunque anche senza autorizzazione, decise di recarsi direttamente dal signor Crisparkle per ottenere informazioni precise.
-
-Quando tornò (dopo essere stata prima informata da Miss Twinkleton, affinché eventuali dettagli inappropriati delle notizie potessero essere filtrati da quella persona discreta), raccontò a Rosa soltanto ciò che era accaduto; si soffermò sulle provocazioni subite dal fratello, ma limitò il discorso quasi esclusivamente a quell’ultima offesa grave, presentandola come la conseguenza di “altre parole scambiate tra loro”. Per rispetto verso la sua nuova amica, tralasciò anche il fatto che quelle altre parole fossero nate dal modo in cui il suo [[archetypes/lover|innamorato]] interpretava facilmente le cose. Direttamente a Rosa, consegnò una petizione del fratello nel quale le chiedeva di perdonarlo; dopo averla espressa con sincera sincerità, chiuse definitivamente l’argomento.
 
 
 
@@ -5296,39 +3671,6 @@ Here Mr. Grewgious, left by the [[motifs/fire|fire]] with Rosa, said again: “M
 how do you do? I am glad to see you, my dear.” And having waited for
 her to sit down, sat down himself.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Spettava a Miss Twinkleton il compito di moderare l’opinione pubblica riguardo alla Casa delle Suore. Quella signora, pertanto, entrò in modo maestoso in ciò che i plebei avrebbero potuto chiamare aula scolastica, ma che, nel linguaggio aristocratico della direttrice della Casa delle Suore, veniva eufemisticamente – se non addirittura perifrasticamente – definito “l’ambiente destinato allo studio”. Con tono solenne esclamò: “Signore!” Tutte arrossirono. Nel frattempo, la signora Tisher si posizionò alle spalle della sua superiore, come a rappresentare la prima amica femminile storica della [[characters/queen|regina]] Elisabetta al forte di Tilbury. Miss Twinkleton proseguì quindi dicendo che “la Voce Pubblica”, signore, era stata rappresentata dal poeta di Avon. Non occorre certo menzionare l’immortale SHAKESPEARE, chiamato anche il Cigno del suo [[motifs/river|fiume]] natale. Forse con riferimento alla antica superstizione secondo cui quel uccello dalle piume eleganti cantasse dolcemente all’avvicinarsi della [[motifs/death|morte]]. Anche se non abbiamo alcuna autorità ornitologica a sostegno di questa credenza. La Voce Pubblica, signore, era stata rappresentata da quel poeta, ”
-
-“Chi ha disegnato il celebre Ebreo”
-
-
-Raffigurato come pieno di lingue. La voce del Pettegolezzo a Cloisterham (la signorina [[characters/ferdinand|Ferdinand]] mi onorerà della sua attenzione) non faceva eccezione al ritratto che il grande pittore aveva realizzato altrove del Pettegolezzo. Una piccola **scaramuccia** tra due giovani gentiluomini avvenuta la scorsa [[motifs/night|notte]] a meno di cento miglia da queste tranquille mura, (la signorina [[characters/ferdinand|Ferdinand]], essendo palesemente irremediabile, avrà la gentilezza di scrivere stasera, nella lingua originale, le prime quattro favole del nostro vivace vicino, Monsieur La Fontaine, ) era stata molto grossolanamente esagerata dalla voce del Pettegolezzo. Nella prima reazione di allarme e preoccupazione derivante dalla nostra simpatia per una dolce giovane amica, che non è affatto estranea a uno dei “gladiatori” di quell’arena senza sangue, (l’inappropriato gesto della signorina Reynolds, che sembra pungersi la mano con un ago, è troppo evidente e palesemente inadeguato per essere menzionato, ), siamo scesi dal nostro “piano elevato” per discutere di questo argomento sgradevole e inappropriato. Dopo aver verificato che si trattava soltanto di uno di quei “nulla di cui parlare” menzionati dal Poeta (il cui nome e data di nascita la signorina Giggles ci fornirà entro mezz’ora), ora abbandoneremo questo argomento e concentreremo la nostra attenzione sulle gratificanti attività della giornata.
-
-Ma il soggetto sopravvisse tutto il giorno, e comunque la signorina [[characters/ferdinand|Ferdinand]] si trovò nei guai quando, a cena, applicò di nascosto un baffo di carta e fece finta di puntare una bottiglia d’[[motifs/water|acqua]] contro la signorina Giggles, che per difendersi utilizzò un cucchiaio da tavola.
-
-Ora, Rosa pensava molto a questa sfortunata lite, e lo faceva con un senso di disagio, convinta di essere coinvolta in essa, in qualità di causa, conseguenza o altro, a causa della sua posizione assolutamente imbarazzante riguardo al suo fidanzamento. Non essendo mai libera da tale disagio quando era con il suo futuro marito, non era probabile che ne fosse liberata anche quando erano separati. Anche oggi si trovava sola, priva della possibilità di parlare liberamente con la sua nuova amica, poiché la lite riguardava il fratello di [[characters/helena|Helena]], e [[characters/helena|Helena]] evitava apertamente l’argomento, ritenendolo delicato e difficile da affrontare. In questo momento critico, proprio quando ne aveva più bisogno, fu annunciato l’arrivo del tutore di Rosa per vederla.
-
-Il signor Grewgious era stato davvero una scelta eccellente per ricoprire quella carica, in quanto uomo di integrità incorruttibile; ma certamente non per alcuna altra qualità particolare che si potesse notare superficialmente. Era un uomo magro e secco, dal viso privo di espressione; se fosse stato messo in una macina, sembrava che sarebbe subito stato ridotto in polvere. Aveva pochi capelli, di colore e consistenza simili a quella di un peluche giallo e logoro; erano così poco simili ai capelli normali da far pensare che fossero una parrucca, se non fosse stata l’assurdità stessa dell’idea che qualcuno potesse voler indossare una cosa del genere. Le poche linee del suo viso erano incise profondamente nella sua carne, formando curve dure e rigide; aveva anche alcune incisioni sulla fronte, come se la [[concepts/nature|>Natura]] si fosse proposta di dar loro un aspetto più sensibile o raffinato, ma poi avesse gettato via lo scalpello con impazienza, dicendo: “Non riesco proprio a completare questo lavoro; lasciatelo com’è.”
-
-Con la gola troppo lunga nella parte superiore del corpo, e con le caviglie e i talloni eccessivamente sviluppati nella parte inferiore; con un modo di muoversi goffo e incerto; con un passo zoppicante; e con quella che si potrebbe definire una vista poco acuta – forse proprio a causa di questo non si accorgeva di quanto cotone bianco mostrasse ai occhi del pubblico, in contrasto con il suo abito nero – il signor Grewgious possedeva comunque la strana capacità di suscitare, nel complesso, un’impressione piacevole.
-
-Il signor Grewgious fu scoperto dalla sua pupilla; si trovava in una situazione molto imbarazzante, poiché era nella compagnia di Miss Twinkleton, proprio nella sua stanza sacra. Oscuri presentimenti riguardo a un possibile esame e al fatto che ne potesse risultare male lo opprimevano profondamente quando fu trovato in quelle circostanze.
-
-“Mia cara, come stai? È un piacere rivederti. Mia cara, quanto sei migliorata. Lasciami offrirti una sedia, mia cara.”
-
-La signorina Twinkleton, davanti al suo piccolo tavolo da scrivere, disse con dolcezza, rivolta all’intero universo cortese: “Mi permetterete di ritirarmi?”
-
-“Assolutamente no, signora, per colpa mia. La prego, non si muova.”
-
-“Devo chiedervi il permesso di _spostarmi_,” rispose Miss Twinkleton, ripetendo la parola con una grazia incantevole; “ma non me ne andrò, visto che siete così gentili. Se sposto la mia scrivania in questo angolo vicino alla [[motifs/window|finestra]], disturberò qualcuno?”
-
-"Signora! Si faccia da parte!"
-
-“Sei davvero molto gentile. Rosa, mia cara, non sarai affatto limitata, ne sono sicura.”
-
-Ecco il signor Grewgious, lasciato dal [[motifs/fire|fuoco]] insieme a Rosa; disse di nuovo: “Mia cara, come stai? Sono felice di vederti, mia cara.” E dopo aver aspettato che lei si sedesse, si sedette anche lui.
 
 
 
@@ -5465,64 +3807,6 @@ man,” said Mr. Grewgious, as if he had made up his mind to screw it out
 at last: “and should only blunder.”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Le mie visite,” disse il signor Grewgious, “sono come quelle degli angeli, anche se non mi paragono certo a un angelo.”
-
-“No, signore,” disse Rosa.
-
-“Assolutamente no,” convenne il signor Grewgious. “Mi riferisco soltanto alle mie visite, che sono poche e distanziate nel tempo. Gli angeli, come sappiamo molto bene, si trovano al piano di sopra.”
-
-Miss Twinkleton guardò intorno con uno sguardo un po’ rigido.
-
-“Mi riferisco, cara mia,” disse il signor Grewgious, posando la sua mano su quella di Rosa, mentre l’idea che stava per pronunciare gli attraversava tutto il corpo; sembrava quasi prendersi la terribile libertà di chiamare la signorina Twinkleton “cara mia”; “mi riferisco alle altre giovani signore.”
-
-La signorina Twinkleton riprese a scrivere.
-
-Il signor Grewgious, sentendo di non aver affrontato il proprio punto iniziale con la precisione desiderata, si lisciò i capelli dalla parte posteriore a quella anteriore, come se avesse appena fatto un tuffo e stesse cercando di scacciare l’acqua. Questo gesto, per quanto superfluo, era diventato una sua abitudine. Poi prese una borsa da tasca dal suo cappotto e un mozzicone di matita nera dalla tasca del gilet.
-
-“L’ho fatto io,” disse, girando le [[motifs/leaves|pagine]]: “Ho preparato un promemoria guida, o qualcosa del genere, come faccio di solito, visto che non ho affatto capacità di conversazione. Al quale mi rivolgerò, con il tuo permesso, cara mia. ‘Benissimo e felice.’ Davvero. Sei davvero benissima e felice, cara? Sembri proprio così.”
-
-“Sì, certamente, signore,” rispose Rosa.
-
-“Per questo,” disse il signor Grewgious, inclinando la testa verso l’angolo della [[motifs/window|finestra]], “dobbiamo esprimere i nostri più calorosi ringraziamenti, e sono certo che vengano effettivamente resi, alla gentilezza materna e alle continue attenzioni e premure di quella signora che ora ho l’[[concepts/honour|onore]] di vedere davanti a me.”
-
-Ancora una volta, questo argomento rappresentava un debole tentativo di allontanarsi dal tema principale trattato da Mr. Grewgious, e non riuscì mai a raggiungere il suo obiettivo; infatti, Miss Twinkleton, sentendo che le convenzioni sociali richiedevano che lei si allontanasse dalla conversazione entro quella [[motifs/time|ora]], mordeva la punta della sua penna e guardava verso l’alto, in attesa che qualche membro dei “Nove Celesti” avesse qualcosa da aggiungere, anche se probabilmente non ne avevano affatto.
-
-Il signor Grewgious si lisciò di nuovo la testa liscia e poi fece un’altra allusione al suo portafoglio, scrivendo con cura le parole “[[motifs/well|>bene]] e felice”, come aveva deciso di fare.
-
-“‘Poundi, scellini e penny’, è il mio prossimo argomento. Un argomento poco interessante per una giovane signorina, ma comunque importante. La vita è fatta di poundi, scellini e penny. L’‘[[motifs/death|morte]]’ invece, ” All’improvviso gli tornò in mente la [[motifs/death|morte]] dei suoi genitori, e si interruppe; poi continuò con tono più dolce, aggiungendo evidentemente il negativo come riflessione successiva: “L’‘[[motifs/death|morte]]’ _non_ è fatta di poundi, scellini e penny.”
-
-La sua voce era altrettanto dura e secca quanto lui stesso; forse Fancy avrebbe potuto ridurla in polvere, proprio come lui, trasformandola in tabacco da fiuto essiccato. Eppure, attraverso quei limitati mezzi espressivi di cui disponeva, sembrava riuscire a trasmettere gentilezza. Se solo [[concepts/nature|Natura]] lo avesse completato. Forse in quel momento la gentilezza sarebbe stata visibile sul suo volto. Ma se le rughe sulla sua fronte non si fossero fuse insieme, e se il suo viso non fosse stato in grado di esprimere emozioni. Cosa avrebbe potuto fare, pover’uomo?
-
-“‘Poundi, scellini e penny, ’ Trovi sempre che la tua paghetta sia sufficiente alle tue esigenze, cara?”
-
-La rosa non desiderava nulla, ed è per questo che era abbondante.
-
-“E non sei indebitato?”
-
-Rosa rise all'idea di dover qualcosa in debito. Per la sua inesperienza, le sembrava una sciocca fantasia dell’[[concepts/imagination|immaginazione]]. Il signor Grewgious si avvicinò per essere sicuro che fosse davvero questo il suo punto di vista sulla situazione. “Ah!” disse, lanciando un’occhiata furtiva verso la signorina Twinkleton e contando i penny, i scellini e le sterline: “Ho detto di essere tra gli angeli. E infatti è vero!”
-
-Rosa intuiva già ciò che il suo prossimo memorandum avrebbe dimostrato; arrossiva e, con una mano imbarazzata, sistemava una piega nel suo vestito, molto prima che lui lo trovasse.
-
-“‘[[motifs/marriage|Matrimonio]].’ Ehm, ” Il signor Grewgious si portò la mano sulla fronte, sul naso e persino sul mento, poi avvicinò un po’ la sedia e parlò in tono più confidenziale: “Ora arrivo al punto che è la causa diretta per cui vi ho disturbato con questa visita. Altrimenti, essendo una persona particolarmente rigida e convenzionale, non mi sarei mai intromesso in una sfera che non mi appartiene affatto. Mi sento, in queste circostanze, come un orso con i crampi, in mezzo a danzatori giovani e agili.”
-
-La sua goffaggine gli conferiva proprio quell’aspetto tipico dei suoi simili, che fece ridere a crepapelle Rosa.
-
-“Vi colpisce sotto la stessa luce,” disse il signor Grewgious con perfetta calma. “Esattamente. Tornando al mio memorandum. Il signor Edwin è stato avanti e indietro qui, come era stato concordato. Ne avete parlato nelle vostre lettere trimestrali a me. E vi piace, e lui vi piace.”
-
-“Mi piace molto, signore,” rispose Rosa.
-
-“Quindi ho detto, mio caro,” rispose il suo tutore, per il quale quella timida enfasi era decisamente troppo sottile da percepire. “Bene. E vi scrivete anche.”
-
-“Ci scriviamo a vicenda,” disse Rosa, facendo il broncio, mentre ricordava le loro divergenze epistolari.
-
-“Ecco il significato che attribuisco alla parola ‘corrispondere’ in questo contesto, mio caro,” disse il signor Grewgious. “Bene. Tutto procede [[motifs/well|benissimo]], il tempo lavora a nostro favore, e la prossima Christmas sarà il momento giusto per comunicare, per pura formalità, alla gentile signora che si trova in quella finestra, a cui dobbiamo molto, della tua partenza entro i prossimi sei mesi. Le tue relazioni con lei sono certamente qualcosa di più di semplici rapporti d’affari, non c’è [[concepts/doubt|dubbio al riguardo]]; tuttavia rimane ancora un aspetto legato agli affari. E gli affari, dopotutto, sono sempre affari. Sono una persona particolarmente riservata,” proseguì il signor Grewgious, come se solo in quel momento gli fosse venuto in mente di menzionarlo, “e non sono abituato a rivelare nulla. Se, per questi due motivi, qualche intermediario competente dovesse ‘rivelare’ qualcosa su di te, lo considererei un gesto molto scortese da parte sua.”
-
-Rosa, con lo sguardo abbassato, lasciò intendere che, se necessario, si potesse trovare una sostituta.
-
-“Certo, certo,” disse il signor Grewgious. “Ad esempio, quel gentiluomo che insegna la danza qui. Lui saprebbe come farlo con grazia e decoro. Si muoverebbe avanti e indietro in modo tale da soddisfare i sentimenti del prete che officia la cerimonia, di voi, dello sposo e di tutte le parti coinvolte. Io, beh, io sono una persona particolarmente rigida,” disse il signor Grewgious, come se avesse finalmente deciso di chiarire la questione una volta per tutte: “E probabilmente commetterei solo degli errori.”
-
 
 
 <span class="atom-split" data-atom="chapter_10--part_04" data-title="The Mystery of Edwin Drood — Chapter 9 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/marriage,motif/tears,motif/time,motif/window,concept/doubt,concept/hope,concept/wonder,character/edwin_drood"></span>
@@ -5656,65 +3940,6 @@ business responsibilities towards the accomplished lady in the corner
 [[motifs/window|window]]. They will accrue at that season.” Blurring pencil once again.
 “Memorandum, ‘Leave.’ Yes. I will now, my dear, take my leave.”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Rosa rimase immobile e in silenzio. Forse la sua mente non aveva ancora raggiunto del tutto quel livello di consapevolezza legato alla cerimonia, ma stava cercando di farlo.
-
-“Memorandum, ‘Testamento.’ Ora, mio caro,” disse il signor Grewgious, riferendosi alle sue note, cancellando “[[motifs/marriage|Matrimonio]]” con la penna e prendendo un foglio di carta dalla tasca; “sebbene vi abbia già informato sui contenuti del testamento di vostro padre, ritengo opportuno, in questo momento, lasciarvi una copia certificata tra le mani. E anche se il signor Edwin conosce i suoi contenuti, penso sia giusto, allo stesso modo, fornire una copia certificata anche al signor Jasper, ”
-
-“Non può essere lui ad occuparsene personalmente?”, chiese Rosa alzando lo sguardo rapidamente. “Non potrebbe essere Eddy stesso a gestirlo?”
-
-“Sì, certo, mia cara, se proprio lo desideri; ma io parlavo di Mr. Jasper come del suo fiduciario.”
-
-“Lo desidero davvero molto, se vi è possibile,” disse Rosa, in fretta e con sincerità; “Non voglio che il signor Jasper si intrometta tra di noi, in alcun modo.”
-
-“È naturale, suppongo,” disse il signor Grewgious, “che vostro giovane marito debba avere la precedenza su tutto. Sì. Notate che dico ‘suppongo’. In realtà, io sono una persona particolarmente innaturale, e non lo so con certezza.”
-
-Rosa lo guardò con un certo [[concepts/wonder|stupore]].
-
-“Voglio dire,” spiegò, “che quel modo di comportarsi tipico dei giovani non è mai stato il mio. Ero l’unico figlio di genitori molto anziani, e quasi credo di essere nato anch’io già ‘avanzato’ nella vita. Nessuna personalità si sviluppa in base al nome che presto cambierai; anzi, sembra che io sia nato già come una sorta di ‘chip’, un elemento predefinito. Quando per la prima volta mi resi conto di me stesso, ero davvero molto ‘secco’. Rispettando l’altra copia ufficiale dei tuoi documenti, il tuo desiderio verrà esaudito. Per quanto riguarda la tua eredità, penso che tu sappia già tutto: si tratta di un rendiconto annuo di duecentocinquanta sterline. I risparmi accumulati su tale rendiconto, insieme ad altri elementi a tuo favore, una volta verificati e registrati con i relativi documenti, ti permetteranno di disporre di una somma complessiva che supera di molto le Settecento Cinquanta Sterline. Sono autorizzato a finanziare le tue spese per i preparativi del tuo [[motifs/marriage|matrimonio]] utilizzando proprio quel fondo. Ecco tutto.”
-
-“Per favore, mi dica,” disse Rosa, prendendo il foglio con la fronte leggermente corrugata, ma senza aprirlo: “se ho ragione in ciò che sto per dire. Riesco a capire molto meglio ciò che mi dice lei rispetto a quanto leggo nei documenti legali. Mio povero papà e il padre di Eddy hanno stretto questo accordo insieme, come amici molto cari e fedeli, affinché anche noi potessimo diventare amici molto cari e fedeli dopo di loro, ”
-
-“Giusto così.”
-
-“Per il bene duraturo di entrambi, e la felicità duratura di entrambi, ”
-
-“Giusto così.”
-
-“Per poter essere l’uno per l’altro molto di più di quanto loro lo siano stati tra loro, ”
-
-“Giusto così.”
-
-“Non era vincolato né a Eddy né a me da alcuna clausola che prevedesse conseguenze nel caso, ”
-
-“Non essere agitata, mia cara. Anche nel caso in cui immaginare solo la possibilità che ciò accada vi portasse alle [[motifs/tears|lacrime]], anche nel caso in cui non vi sposaste, no, nessuna perdita per nessuno dei due. In quel caso, saresti stata sotto la mia tutela fino a raggiungere l’età adulta. Non vi sarebbe successo nulla di peggio. Anzi, forse è già abbastanza grave!”
-
-“E Eddy?”
-
-“Avrebbe ereditato la partecipazione nell’impresa derivante da suo padre, nonché eventuali debiti rimanenti a suo carico, al raggiungimento della maggiore età, esattamente come avviene ora.”
-
-Rosa, con il suo viso perplesso e la fronte corrugata, mordeva l’angolo della sua copia autenticata; seduta di lato, fissava distrattamente il pavimento e lo lisciava con il piede.
-
-“In breve,” disse il signor Grewgious, “questo fidanzamento è un desiderio, un sentimento, un progetto amichevole, espresso con tenerezza da entrambe le parti. Che tale desiderio sia profondo e che ci sia una viva [[concepts/hope|>speranza]] che possa realizzarsi, non può esserci alcun [[concepts/doubt|>dubbio]]. Quando eravate ancora bambini, avete iniziato ad abituarvi all’idea di questo fidanzamento, e in effetti esso è andato avanti. Ma le circostanze cambiano; e io sono venuto qui oggi, in parte, anzi soprattutto, per adempiere al dovere di dirvi che due giovani possono essere fidanzati soltanto con il loro libero consenso, sulla base dell’affetto reciproco e della certezza che siano adatti l’uno all’altro e possano rendersi felici insieme. Si può forse pensare, ad esempio, che se uno dei vostri padri fosse ancora vivo oggi e avesse qualche dubbio al riguardo, il cambiamento delle circostanze legato all’avanzare dell’età potrebbe farlo cambiare idea? Assurdo, irragionevole, inconcludente, e assolutamente ridicolo!”
-
-Il signor Grewgious disse tutto questo come se lo stesse leggendo ad alta voce; o, ancora di più, come se stesse ripetendo una lezione. Il suo volto e il suo modo di comportarsi erano del tutto privi di qualsiasi traccia di spontaneità.
-
-“Ora ho adempiuto, mio caro,” aggiunse, cancellando con la matita la parola “Will”,  
-“a ciò che senza dubbio rappresenta un dovere formale in questo caso, ma comunque un dovere. Appunto: ‘Desideri’. Mio caro, c’è qualche desiderio tuo che possa realizzare per te?”
-
-Rosa scosse la testa, con un tono quasi lamentoso, esitante nel chiedere aiuto.
-
-“Esiste qualche consiglio che potete darmi riguardo alle vostre faccende?”
-
-“Vorrei sistemare prima le cose con Eddy, se per voi va bene,” disse Rosa, sistemando la piega del suo vestito.
-
-“Certo, certo,” rispose il signor Grewgious. “Voi due dovreste essere d’accordo su tutto. Il giovane gentiluomo arriverà presto?”
-
-“È partito solo stamattina. Tornerà a Natale.”
-
-“Non potrebbe andare meglio. Quando tornerà a Natale, tu sistemerai con lui tutti i dettagli; poi mi contatterai e io, in qualità di semplice conoscente d’affari, mi libererò delle mie responsabilità verso quella signora seduta nell’angolo della [[motifs/window|finestra]]. Tali responsabilità verranno riscosse in quel periodo.” Di nuovo, usa la matita sfocata, “Memorandum: ‘Andarmene.’ Sì. Ora, cara mia, devo andare.”
 
 
 
@@ -5890,76 +4115,6 @@ shoulder.
 “I said, save them,” returned the latter. “Is there any difference?”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Potrei chiedervelo, per favore?”, disse Rosa alzandosi, mentre lui si alzava goffamente dalla sedia: “Potreste venire da me a Natale, se avessi qualcosa di particolare da dirvi?”
-
-“Certamente, certamente,” rispose lui; evidentemente – se si può usare una parola del genere per descrivere qualcuno che non presentava alcun tratto distintivo evidente in sé – era lusingato da quella domanda. “Essendo una persona piuttosto, ‘angolare’, non mi adatto facilmente ai circoli sociali; pertanto, durante il Natale, non ho altri impegni se non quello di partecipare, il ventiquattresimo, a un pasto composto da tacchino bollito e salsa di sedano, con un impiegato particolarmente ‘angolare’ che ho la fortuna di avere; il padre di questo ragazzo, essendo un contadino del Norfolk, mi manda il tacchino in regalo dalla zona di Norwich. Sarei davvero orgoglioso se volessi vedermi, cara mia. Essendo un professionista incaricato della riscossione degli affitti, pochissime persone desiderano effettivamente incontrarmi; quindi questa tua richiesta rappresenterebbe davvero una novità piacevole.”
-
-Per la sua pronta disponibilità, la grata Rosa posò le mani sulle sue spalle, si alzò in punta di piedi e lo baciò all’istante.
-
-“Signore, beneditemi!” esclamò il signor Grewgious. “Grazie, mia cara! L’[[concepts/honour|onore]] che ho ricevuto è quasi paragonabile al piacere che ne ho tratto. Signorina Twinkleton, madama, ho avuto una conversazione molto soddisfacente con la mia pupilla, e ora vi libererò dall’onere della mia presenza.”
-
-“No, signore,” ribatté la signorina Twinkleton alzandosi con un atteggiamento gentile e condiscendente: “Non dica che si tratta di un onere. Assolutamente no. Non posso permetterle di dirlo.”
-
-“Grazie, signora. Ho letto sui giornali,” disse il signor Grewgious, balbettando un po’, “che quando un visitatore illustre (non che io lo sia: per niente) va in una scuola (non che questa sia una scuola: per niente), chiede di poter prendere una giornata di riposo o qualche favore. Poiché ora è pomeriggio nel. Collegio, del quale lei è la direttrice eminente, le giovani signorine probabilmente non guadagnerebbero nulla, se non in nome, se gli venisse concesso il resto della giornata libero. Ma se ci fosse qualche giovane signorina che si trovi in difficoltà, potrei chiedere, ”
-
-“Ah, signor Grewgious, signor Grewgious!” gridò Miss Twinkleton, puntando verso di lui un dito indice pieno di virtuosa indignazione. “Oh, signori, signori. Che vergogna che siate così crudeli con noi povere donne, costrette a seguire regole così severe per il vostro bene! Ma poiché la signorina [[characters/ferdinand|Ferdinand]] è attualmente oppressa da un ‘incubo’, ” – Miss Twinkleton avrebbe potuto anche dire che fosse oppressa da una quantità enorme di compiti scritti da Monsieur La Fontaine – “vai da lei, cara Rosa, e digli che la punizione è revocata, in segno di rispetto per l’intervento del suo tutore, il signor Grewgious.”
-
-La signorina Twinkleton eseguì un inchino che sembrava suggerire meraviglie che accadevano alle sue rispettabili gambe; uscì dalla posizione iniziale con grazia, distaccandosi di tre metri dal punto di partenza.
-
-Poiché riteneva suo dovere salutare il signor Jasper prima di lasciare Cloisterham, il signor Grewgious si recò alla guardiola e salì la scala posteriore. Tuttavia, poiché la porta del signor Jasper era chiusa, e vedendo su un biglietto scritto “[[settings/cathedral|Cattedrale]]”, capì che fosse l’ora delle funzioni religiose. Così scese di nuovo le scale, attraversò il cortile e si fermò davanti alla grande porta a battenti della [[settings/cathedral|Cattedrale]], che era aperta in quella bella e luminosa, sebbene breve, giornata pomeridiana, per far entrare aria nel luogo.
-
-“Mio Dio,” disse il signor Grewgious, spiando all’interno, “è come guardare giù nella gola dell’antico [[motifs/time|Tempo]].”
-
-Nell’antico [[motifs/time|tempo]], un sospiro umido e muffito usciva dalle tombe, dagli archi e dalle volte; ombre cupe iniziavano ad addensarsi negli angoli, mentre umidità si levava dalle aree di pietra verda. I gioielli, proiettati sul pavimento della navata dai vetri colorati al tramonto del sole, iniziavano a deteriorarsi. All’interno della grata dell’altare, lungo i gradini sovrastati dall’organo il cui suono si faceva sempre più cupo, si potevano intravedere vesti bianche; di tanto in tanto, una voce debole e monotona risuonava. All’esterno, il [[motifs/river|fiume]], i prati verdi e le terre coltivate, le colline e i valli rigogliosi erano illuminati dal tramonto; mentre le piccole finestre delle mulini a vento e delle case contadine brillavano come pezzi di oro luminoso. Nella [[settings/cathedral|cattedrale]], tutto diventava grigio, cupo e tenebroso; quel suono monotono e rotto continuava, simile alla voce morente di qualcuno. Finché l’organo e il coro non eruppero in un mare di musica che soffocò quel suono. Poi, quel “mare” di suoni si placò; la voce debole tentò ancora una volta di risuonare. Ma poi scomparve del tutto.
-
-A quel [[motifs/time|momento]], il signor Grewgious si era già recato ai gradini dell'altare, dove incontrò le acque che sgorgavano.
-
-“Niente di grave, vero?” Gli chiese Jasper, avvicinandosi piuttosto rapidamente. “Non ti hanno mandato a chiamare per qualche motivo?”
-
-“Assolutamente no, sono sceso di mia volontà. Sono stato da mia nipote e ora sto tornando a casa.”
-
-“L’hai vista prosperare?”
-
-“Davvero fiorente. Molto fiorente. Sono venuto soltanto per dirle, seriamente, quanto sia strano un fidanzamento concordato dai genitori defunti.”
-
-“E allora, secondo te, qual è?”
-
-Il signor Grewgious notò il pallore delle labbra che avevano posto quella domanda, e lo attribuì al racconto spaventoso della [[Cathedral|[Cattedrale]].
-
-“Sono venuto soltanto per dirle che tale accordo non può essere considerato vincolante, in caso di motivi validi per la sua risoluzione, come l’assenza di affetto o la mancanza di volontà da parte di una delle parti di attuarlo.”
-
-"Posso chiedere, avevi qualche motivo particolare per dirle quelle cose?"
-
-Il signor Grewgious rispose in modo piuttosto brusco: “Il motivo specifico per cui svolgo il mio dovere, signore. Proprio questo.” Poi aggiunse: “Dai, signor Jasper; so quanto tu tenga a tuo nipote e che sei sempre pronto a difenderlo. Ti assicuro che questo non implica la minima [[concepts/doubt|>dubbio]] o mancanza di rispetto nei suoi confronti.”
-
-“Non avresti potuto farlo,” rispose Jasper, stringendogli amichevolmente il braccio mentre camminavano fianco a fianco, “parlare in modo più gentile.”
-
-Il signor Grewgious si tolse il cappello per lisciarsi i capelli; dopo averli lisciati, annuì soddisfatto e se lo rimise in testa.
-
-“Scommetto,” disse Jasper sorridendo; le sue labbra erano ancora così pallide che se ne rendeva conto, e le morse e le umidificò mentre parlava: “Scommetto che non ha mai espresso il desiderio di essere liberata da Ned.”
-
-“E vincerete la vostra scommessa, se ci riuscite,” ribatté il signor Grewgious. “Dovremmo concedere qualche margine per le delicatezze tipiche di una giovane ragazza senza madre, in circostanze del genere. Non è certo compito mio; che ne pensate?”
-
-“Non può esserci alcun [[concepts/doubt|>dubbio]] al riguardo.”
-
-“Sono felice che tu dica così. Perché,” proseguì il signor Grewgious, che per tutto quel [[motifs/time|tempo]] aveva molto attentamente valutato le possibili azioni da intraprendere, basandosi sul ricordo di ciò che lei aveva detto su Jasper stesso: “perché sembra avere un’intuizione delicata secondo cui sia meglio che tutti gli accordi preliminari vengano presi direttamente tra il signor [[characters/edwin-drood|Edwin Drood]] e lei, capisci? Non vuole la nostra interferenza, non è vero?”
-
-“Jasper si toccò il petto e disse, in modo piuttosto indistinto: ‘Intendi me.’”
-
-Il signor Grewgious si toccò il petto e disse: “Intendo noi. Quindi, lasciamo che facciano le loro piccole discussioni e riunioni insieme, quando il signor [[characters/edwin-drood|Edwin Drood]] tornerà qui a Natale; poi tu ed io interverremo per dare gli ultimi tocchi alla questione.”
-
-“Quindi, hai deciso con lei di tornare a Natale?” osservò Jasper. “Capisco! Signor Grewgious, come avete detto giustamente poco fa, esiste un legame davvero eccezionale tra mio nipote e me; per questo sono più sensibile alle sue esigenze che alle mie. Ma è giusto, come avete sottolineato, prendere in considerazione anche i desideri della giovane signorina. Accetto il vostro suggerimento. So che a Natale completeranno tutti i preparativi per il [[motifs/marriage|matrimonio]], e che saranno loro stessi ad occuparsi di ogni dettaglio. A noi non resterà altro che prepararci anche noi, in modo che tutto sia pronto per la nostra ufficiale liberazione dai nostri incarichi, nel giorno del compleanno di Edwin.”
-
-“È proprio così che la interpreto,” concordò il signor Grewgious mentre si stringevano la mano per salutarsi. “Che Dio benedica entrambi!”
-
-“Dio li salvi entrambi!”, gridò Jasper.
-
-“Ho detto: ‘Benedeteli’”, osservò l’ex, guardando indietro con la coda dell’occhio.
-
-“Ho detto: ‘Salvateli’”, rispose l’altro. “C’è qualche differenza?”
-
 
 
 <span class="atom-split" data-atom="chapter_11--part_01" data-title="The Mystery of Edwin Drood — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/home,motif/river,motif/well,motif/wind,concept/hope,concept/self,form/fragment,character/edwin_drood,character/helena"></span>
@@ -6115,80 +4270,6 @@ things were yet but so many weeks old, and had become an integral part
 of his life?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-## CAPITOLO X.  
-Migliorare le condizioni.
-
-È stato spesso osservato che le donne possiedono una strana capacità di indovinare il carattere degli uomini, una capacità che sembra essere innata e istintiva; tuttavia, questa capacità non deriva da un processo razionale paziente, non offre spiegazioni soddisfacenti o sufficienti per il proprio funzionamento, e si esprime in modo estremamente sicuro anche di fronte alle osservazioni accumulate dall’altro sesso. Tuttavia, meno spesso si è notato che questa capacità (fallibile, come ogni altro attributo umano) è nella maggior parte dei casi completamente incapace di autocorrezione; e quando emette un giudizio negativo che in seguito si rivela errato, non si distingue affatto dal pregiudizio, nel suo rifiuto di essere corretto. Anzi, la sola possibilità di contraddizione o confutazione, per quanto remota, conferisce fin dall’inizio a questo giudizio femminile la stessa debolezza tipica del testimone interessato; in nove casi su dieci, la “giudice” si identifica completamente con il proprio pronostico.
-
-“Ora, non pensi anche tu, cara mamma,” disse un giorno il canonico minore alla madre mentre lei sedeva a lavorare a maglia nella sua piccola biblioteca, “che sei un po’ troppo dura con il signor Neville?”
-
-“No, non lo faccio, Sept,” rispose la vecchia signora.
-
-# Discutiamone insieme, mamma.
-
-“Non ho obiezioni ad discuterne, Sept. Credimi, cara, sono sempre aperta a qualsiasi discussione.” C'era una sorta di vibrazione nella cuffia della vecchia signora, come se lei stesse pensando tra sé: “E vorrei proprio vedere quale discussione potrebbe convincermi del contrario!”
-
-“Molto bene, mamma,” disse suo figlio in tono conciliante. “Non c’è nulla di meglio che essere aperti a un dialogo.”
-
-“Non lo spero affatto, mio caro,” rispose la vecchia signora, chiaramente ignara della cosa.
-
-“Beh! In quell’occasione sfortunata, il signor Neville ha agito su provocazione.”
-
-“E con del vino al rum,” aggiunse la vecchia signora.
-
-“Devo ammettere che il vino era davvero ottimo. Anche se credo che quei due giovani fossero molto simili anche in questo aspetto.”
-
-“Non lo faccio,” disse la vecchia signora.
-
-“Perché no, mamma?”
-
-“Perché io no”, disse la vecchia signora. “Comunque, sono più che disposta a discuterne”.
-
-“Ma cara mamma, non capisco proprio come possiamo discutere se tu segui quella linea di comportamento, ”
-
-“Dai la colpa a Mr. Neville, Sept, non a me,” disse la vecchia signora con solenne severità.
-
-“Mia cara mamma, perché il signor Neville?”
-
-“Perché,” disse la signora Crisparkle, attenendosi ai principi fondamentali, “tornò a [[motifs/home|>casa]] in stato di ebbrezza, causando grande disonore a questa casa e dimostrando un profondo disprezzo per questa famiglia.”
-
-“Non si può negare, mamma. Allora come ora, si dispiace molto per questo.”
-
-“Se non fosse stato per la gentilezza e la considerazione di Mr. Jasper, che il giorno dopo, dopo la funzione, è venuto da me direttamente nella navata della chiesa, ancora con addosso l’abito da cerimonia, esprimendo la sua speranza che io non fossi stata troppo spaventata o che il mio riposo non fosse stato disturbato in modo eccessivo, credo che probabilmente non avrei mai saputo nulla di quell’incidente vergognoso,” disse la vecchia signora.
-
-“A dire la verità, Ma, penso che avrei dovuto tenerlo nascosto a te se avessi potuto: anche se non avevo ancora preso una decisione definitiva. Stavo seguendo Jasper per parlare con lui dell’argomento e valutare l’opportunità di tenere tutto sotto silenzio, sia da parte sua che mia, quando lo ho trovato mentre parlava con te. A quel punto era già troppo tardi.”
-
-“Troppo tardi, davvero. Era ancora pallido come le ceneri di un gentiluomo, dopo ciò che era accaduto nelle sue stanze durante la notte.”
-
-“Se l’avessi tenuto nascosto da te, mamma, puoi essere certa che avrebbe servito alla tua tranquillità e al bene di quei giovani, e sarebbe stato il modo migliore per adempiere ai miei doveri nel miglior modo possibile.”
-
-La vecchia signora attraversò immediatamente la stanza e lo baciò, dicendo:  
-“Certo che sì, mio caro Sept, ne sono sicura.”
-
-“Tuttavia, è diventato un argomento di conversazione in tutta la città,” disse il signor Crisparkle, strofinandosi l’orecchio, mentre sua madre riprendeva a sedersi e a lavorare a maglia, “e ormai non è più sotto il mio controllo.”
-
-“E allora dissi, Sept,” rispose la vecchia signora, “che pensavo male di Mr. Neville. E ora dico ancora che penso male di Mr. Neville. Allora come ora, spero che Mr. Neville possa cambiare, ma non credo che lo farà.” A quel punto il cappello tremolò di nuovo in modo evidente.
-
-“Mi dispiace molto sentirti dire così, mamma, ”
-
-“Mi dispiace dirlo, caro mio,” intervenne la vecchia signora, continuando a lavorare a maglia con determinazione, “ma non posso farci nulla.”
-
-“—Perché,” continuò il canonico minore, “è innegabile che il signor Neville sia estremamente diligente e attento, che progredisca rapidamente, e che abbia, spero di poter dire, un certo affetto per me.”
-
-“Non c’è alcun merito nell’ultimo articolo, caro mio,” disse la vecchia signora rapidamente; “e se lui sostiene il contrario, penso che sia ancora peggio per lui, per quella vanteria.”
-
-“Ma, cara mamma, lui non ha mai detto che esistesse.”
-
-“Forse no,” rispose la vecchia signora; “comunque, non credo che abbia un grande significato.”
-
-Nell’atteggiamento piacevole con cui il signor Crisparkle osservava quel grazioso pezzo di porcellana mentre si riscaldava al fuoco, non c’era alcuna impazienza; tuttavia, era evidente un senso umoristico riguardo al fatto che quel pezzo di porcellana non fosse certo qualcosa con cui si potesse discutere seriamente.
-
-“Inoltre, Sept, chiediti cosa sarebbe lui senza sua sorella. Sai quanto grande sia l’influenza che lei ha su di lui; sai quali capacità possiede; sai che tutto ciò che legge con te, lo legge anche con lei. Dalle la sua giusta parte dei tuoi complimenti. Quanto ne rimane allora per lui?”
-
-A queste parole, il signor Crisparkle cadde in una leggera meditazione, durante la quale pensò a molte cose. Ricordò le volte in cui aveva visto i fratello e la sorella conversare a lungo insieme su uno dei suoi vecchi libri universitari; ricordò le mattine umide e nebbiose in cui si recava al Cloisterham Weir; ricordò le serate cupe, quando, salito sul suo preferito punto di osservazione tra le rovine del monastero, affrontava il vento al tramonto, mentre le luci della città rendevano il paesaggio ancora più desolato. Pensò a come gli fosse diventato chiaro che, insegnando a uno, in realtà stesse insegnando anche all’altro; pensò a come avesse quasi inconsciamente adattato le sue spiegazioni alle esigenze di entrambi: a quelle della persona con cui aveva quotidianamente a che fare, e a quelle di quella che poteva conoscere soltanto attraverso la prima. Pensò anche alle voci che gli erano giunte dal Convento delle Suore, secondo cui [[characters/helena|Helena]], che lui aveva ritenuto così orgogliosa e testarda, si era sottomessa alla “fata sposa” (così la chiamava) e aveva imparato da lei tutto ciò che sapeva. Pensò a quell’alleanza così strana, apparentemente così diversa in superficie. E pensò soprattutto: poteva davvero essere che tutte queste cose fossero accadute soltanto poche settimane prima, e che ormai facessero parte integrante della sua vita?
-
 
 
 <span class="atom-split" data-atom="chapter_11--part_02" data-title="The Mystery of Edwin Drood — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="topos/double,motif/bees,motif/home,motif/lamb,motif/leaves,motif/night,motif/river,motif/rose,motif/storm,motif/swallow,motif/time,motif/water,form/fragment,setting/cathedral,setting/court,character/edwin_drood,character/helena,character/macbeth,character/neville_landless"></span>
@@ -6287,20 +4368,6 @@ sea?”
 
 [[characters/helena|Helena]] thought not. It was their favourite walk. It was very retired.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Ogni volta che il Reverendo Septimus si perdeva nei suoi pensieri, sua madre, considerandolo un segno infallibile del fatto che “avesse bisogno di sostegno”, si affrettava subito verso l’armadio in sala da pranzo per prendere quel sostegno sotto forma di un bicchiere di vino Constantia e di alcuni biscotti fatti in casa. Quell’armadio era davvero meraviglioso, degno del Cloisterham e del Minor Canon Corner. Sopra di esso, un ritratto di Handel con una parrucca fluente guardava verso il basso, con l’aria di conoscere perfettamente il contenuto dell’armadio e con un’aria musicale, come se intendesse combinare tutte le sue “armonie” in una deliziosa fuga. Non era certo un armadio comune, con una porta ordinaria che si apriva all’improvviso, rivelando tutto in una volta. Questo straordinario armadio aveva invece una serratura situata a metà altezza: due slitte perpendicolari si incontravano lì; una scendeva e l’altra saliva. Tirando giù la slitta superiore (lasciando così la parte inferiore ancora più misteriosa), si rivelavano ripiani pieni di barattoli di sottaceti, vasetti di marmellata, lattine di conserve, scatole di spezie, e anche strani contenitori blu e bianchi, dove erano conservati tamarindi e zenzero. Ogni “abitante benevolo” di quell’angolo nascosto aveva il proprio nome inciso sul dorso. I sottaceti, vestiti con abiti marroni scuro e continuazioni gialle o scure, annunciavano la loro forma rotonda, stampati in caratteri grandi: Noci, Cipolle Ripiene, Cavoli, Cavolfiori, Misto. Le marmellate, essendo di temperamento meno “maschile” e avendo decorazioni a volantini, si presentavano con una grafia “femminile”, come se sussurrassero: Lamponi Rossi, More, Albicocche, Prugne, Damaschi, Mele, Pesche. Alla fine di questa scena incantevole, sollevando la slitta inferiore, si rivelavano delle arance, accompagnate da una grande scatola di zucchero giapponese, per attenuarne l’acidità se ancora acerbe. I biscotti fatti in casa aspettavano lì, insieme a un bel pezzo di torta di prugne e a diverse “dita sottili” di dolce, da intingere nel vino dolce e baciare. In fondo all’armadio, una piccola cassaforte di piombo custodiva il vino dolce e vari liquori: da lì provenivano sussurri di Arancia di Siviglia, Limone, Mandorla, Semi di Cumino. Quell’armadio aveva davvero un’aria speciale. Sembrava che da secoli fosse stato “cantato” dalle campane e dall’organo della cattedrale; quelle venerabili “api” avevano trasformato in miele tutto ciò che vi era conservato. Si notava sempre che ogni cucchiaio che veniva preso dagli scaffali (profondi, come già accennato, e capaci di contenere testa, spalle e gomiti, ) riemergeva poi con un aspetto più “mellato”, come se avesse subito una trasformazione dolce.
-
-Il Reverendo Septimus si arrese volontariamente come vittima di quel disgustoso armadio pieno di erbe medicinali, anch’esso sotto la supervisione della “pastorella di porcellana”, proprio come si era arreso a questo meraviglioso armadietto. A quali straordinarie infusioni di gentiana, menta, cavolfiore, salvia, prezzemolo, timo, ruta, rosmarino e tarassaco dovette sottomettersi il suo coraggioso stomaco! In quali meravigliosi involucri, fatti di strati di foglie secche, avrebbe avvolto il proprio viso rosso e soddisfatto, se sua madre avesse sospettato che gli dolesse i denti! Su quale parte del viso o della fronte avrebbe volentieri applicato quelle “macchie botaniche”, se la cara vecchia signora lo avesse accusato di avere un brufolo impercettibile. In quella prigione erbacea, situata al piano superiore delle scale: una cella bassa e stretta, imbiancata a calce, dove mazzi di foglie secche pendevano da ganci arrugginiti sul soffitto e erano disposti sugli scaffali insieme a bottiglie minacciose. Il Reverendo Septimus vi sarebbe stato condotto docilmente, proprio come quel molto amato [[motifs/lamb|agnello]] che da tempo viene portato al macello senza resistenza. Lì, a differenza di quell’[[motifs/lamb|agnello]], non avrebbe avuto nessuno con sé, tranne se stesso. Anche senza fare tutto questo, solo per tenere occupata e contenta la vecchia signora, avrebbe ingoiato in silenzio ciò che gli veniva dato, immergendo semplicemente le mani e il viso nella grande ciotola di foglie secche di rosa e lavanda. Poi sarebbe uscito, fiducioso nelle proprietà lenitive di Cloisterham Weir e di una mente sana. Proprio come Lady Macbeth era senza speranza riguardo alle proprietà lenitive di tutti i mari che si muovono.
-
-In questo caso, il bravo Minore Canon prese il suo bicchiere di Constantia con grande eleganza e, così sostenuto dalla soddisfazione di sua madre, si dedicò alle restanti attività della giornata. Queste attività, svolte in modo ordinato e puntuale, portarono alla conclusione dei riti serali e al calare del crepuscolo. Poiché la [[settings/cathedral|cattedrale]] era molto fredda, dopo i riti si mise a correre velocemente; quella corsa terminò con un’impetuosa corsa verso il suo frammento di rovine preferito, che avrebbe dovuto essere portato via dalla [[motifs/storm|tempesta]], senza mai fermarsi nemmeno per riprendere fiato.
-
-Lo portava con maestria; nemmeno allora respirò, rimanendo fermo a guardare il [[motifs/river|fiume]]. Il [[motifs/river|fiume]] di Cloisterham è abbastanza vicino al mare da rigettare spesso grandi quantità di alghe. Con l’ultima marea ne era arrivata una quantità insolita; questo, insieme all’agitazione dell’[[motifs/water|acqua]], al movimento incessante delle gabbiani e a quella luce minacciosa che si vedeva in lontananza oltre le barche a vela marrone che diventavano sempre più scure, presagiva una notte tempestosa. Nel suo pensiero, contrapponeva il mare selvaggio e rumoroso al tranquillo porto di Minor Canon Corner. Quando [[characters/helena|Helena]] e [[characters/neville-landless|Neville Landless]] passarono sotto di lui, li aveva già avuti entrambi in mente tutto il giorno; così scese subito per parlare con loro. Il terreno era accidentato e difficile da percorrere, tranne che per un buon scalatore. Ma il Minor Canon era un ottimo scalatore: arrivò accanto a loro molto prima che molti altri avessero potuto completare la discesa.
-
-“Una serata selvaggia, signorina Landless! Non ritiene che la sua solita passeggiata con suo fratello sia troppo esposta e fredda per questa stagione? O, comunque, quando il sole è già tramontato e il tempo diventa più freddo a causa del vento proveniente dal mare?”
-
-[[characters/helena|Helena]] non la pensava così. Era il loro passeggiato preferito, un posto molto tranquillo e isolato.
 
 
 
@@ -6434,59 +4501,6 @@ sister crossed to his side, and caught his arm, remonstrating,
 “Neville, Neville!”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“È un posto molto tranquillo,” convenne il signor Crisparkle, cogliendo immediatamente l’occasione per proseguire con loro. “È proprio in un luogo del genere che si può parlare senza interruzioni, come desidero fare io. Signor Neville, credo che lei racconti a sua sorella tutto ciò che accade tra di noi, vero?”
-
-“Tutto, signore.”
-
-“Pertanto,” disse il signor Crisparkle, “vostra sorella sa che ho più volte insistito affinché vi scusaste per quell’incidente sfortunato accaduto la [[motifs/night|notte]] del vostro arrivo qui.” Mentre lo diceva, guardava lei e non lui; quindi fu lei, e non lui, a rispondere:
-
-“Sì, davvero.”
-
-“Lo considero una sfortuna, signorina [[characters/helena|Helena]]”, continuò il signor Crisparkle, “poiché di certo questo ha generato pregiudizi contro Neville. C’è l’idea che sia un uomo pericolosamente appassionato, dal temperamento incontrollabile e furioso: infatti, viene effettivamente evitato proprio per questo.”
-
-“Non ho alcun [[concepts/doubt|>dubbio]] che lo sia, povero ragazzo,” disse [[characters/helena|Elena]], con uno sguardo di orgogliosa compassione verso suo fratello, esprimendo un profondo senso del fatto che venisse trattato ingiustamente. “Dovrei esserne certa, visto come lo dici tu; ma ciò che mi racconti viene confermato da indizi e allusioni che incontro ogni giorno.”
-
-“Ora,” riprese il signor Crisparkle con un tono dolce ma deciso, “non dovremmo forse rimpiangere questa situazione e cercare di correggerla? Sono solo i primi giorni in cui Neville si trova a Cloisterham, e non temo affatto che possa superare questo pregiudizio e dimostrare di essere stato frainteso. Ma non sarebbe molto più saggio agire subito, invece di affidarsi a un [[motifs/time|tempo]] incerto? Inoltre, oltre ad essere la cosa giusta da fare, è anche opportuno dal punto di vista politico. Non c’è dubbio che Neville abbia sbagliato.”
-
-“È stato provocato,” dichiarò [[characters/helena|Elena]].
-
-“Era lui l’assalitore,” dichiarò il signor Crisparkle.
-
-Camminarono in [[motifs/silence|silenzio]], fino a quando [[characters/helena|Helena]] alzò lo sguardo sul viso del Minor Canon e disse, quasi con rimprovero: “Oh, signor Crisparkle, vorreste davvero che Neville si gettasse ai piedi di quel giovane Drood, o di quel signor Jasper che lo diffama ogni giorno? Nel vostro cuore non potete davvero volerlo. Nel vostro cuore non lo fareste mai, se la sua situazione fosse la vostra.”
-
-“Ho spiegato a Mr. Crisparkle, [[characters/helena|Helena]],” disse Neville, con un tono di rispetto verso il proprio tutore, “che se potessi farlo davvero con tutto il cuore, lo farei. Ma non posso, e mi ribello a questa finzione. Tuttavia, dimenticate che presentare la situazione a Mr. Crisparkle come se fosse stata mia è equivalente ad assumere di aver fatto io stesso ciò che ho fatto.”
-
-“Chiedo il suo perdono,” disse [[characters/helena|Elena]].
-
-“Vedete,” osservò il signor Crisparkle, cogliendo di nuovo l’occasione, sebbene con un tono moderato e delicato, “entrambi riconoscete istintivamente che Neville ha fatto male. Allora perché fermarvi a questo punto, senza ammetterlo apertamente?”
-
-“Non esiste alcuna differenza,” chiese [[characters/helena|Elena]] con un leggero tremore nella voce; “tra sottomettersi a uno spirito nobile e sottomettersi a uno spregevole o meschino?”
-
-Prima che il degno Minore Canon potesse completare del tutto la sua argomentazione riguardo a questa distinzione così interessante, Neville intervenne:
-
-“Aiutami a chiarire la situazione con il signor Crisparkle, [[characters/helena|Helena]]. Aiutami a convincerlo che non posso essere io il primo ad fare concessioni senza subire derisioni e menzogne. La mia [[concepts/nature|>natura]] deve cambiare prima che io possa farlo, ma non è cambiata. Sento profondamente offesa, e anche un deliberato aggravamento di questa offesa. E sono arrabbiata. La semplice [[concepts/truth|verità]] è che sono ancora altrettanto arrabbiata quando ricordo quella [[motifs/night|notte]] come lo ero quella [[motifs/night|notte]].”
-
-“Neville,” suggerì il Minore Canon con un'espressione seria, “hai ripetuto quell'azione che non mi piace affatto.”
-
-“Mi dispiace molto, signore, ma è stato involontario. Ho ammesso di essere ancora arrabbiato.”
-
-“E devo ammettere,” disse il signor Crisparkle, “che speravo in cose migliori.”
-
-“Mi dispiace molto deluderla, signore, ma sarebbe ancora peggio ingannarla. E lo farei gravemente se fingessi che lei abbia avuto un ascendente positivo su di me in questo senso. Potrebbe arrivare il momento in cui la sua potente influenza riesca a farlo anche con quel difficile allievo le cui origini lei conosce; ma non è ancora arrivato. È vero, Helena. Nonostante i miei sforzi per resistere?”
-
-Lei, i cui occhi scuri osservavano l’effetto delle sue parole sul viso del signor Crisparkle, rispose, al signor Crisparkle, non a lui: “È proprio così.”  
-Dopo una breve pausa, rispose anche al più lieve cenno di domanda che il fratello potesse fare con un leggero movimento affermativo della testa; e lui continuò.
-
-“Non ho mai avuto il [[concepts/courage|coraggio]] di dirvi, signore, ciò che avrei dovuto dire apertamente fin dal momento in cui abbiamo iniziato a parlare di questo argomento. Non è facile confessarlo, e sono stato trattenuto da una [[concepts/fear|>paura]] che sembrasse ridicola. Una paura molto forte, che mi ostacola ancora anche in questo istante; se non fosse per mia sorella, probabilmente non vi avrei parlato con totale sincerità nemmeno ora. Ammiro davvero molto la signorina Bud, signore. Non potrei sopportare che venisse trattata con presunzione o indifferenza. E anche se non provassi personalmente rancore verso il giovane Drood, sentirei comunque di doverlo difendere a causa di lei.”
-
-Il signor Crisparkle, completamente sbalordito, guardò [[characters/helena|Helena]] in cerca di conferma; nel suo volto espressivo trovò non solo conferma, ma anche un appello per un consiglio.
-
-“La giovane signora di cui parlate, come sapete, signor Neville, sarà presto sposata,” disse seriamente il signor Crisparkle; “pertanto, il vostro interesse, se di quella [[concepts/nature|natura]] particolare che sembrate intendere, è assolutamente fuori luogo. Inoltre, è mostruoso che vi assumiate il ruolo di difensore della giovane signora contro il marito scelto da lei. Del resto, li avete visti soltanto una volta. La giovane signora è diventata amica di vostra sorella; e mi chiedo come mai vostra sorella, anche a suo favore, non vi abbia fermato in questa fantasia irrazionale e colpevole.”
-
-“Ha provato, signore, ma invano. Che abbia marito o no, quell’uomo è incapace di provare ciò che io provo per quella bella giovane creatura che tratta come una bambola. Dico che è altrettanto incapace quanto indegno di lei. Dico che viene sacrificata sposandolo. Dico che io la [[motifs/love|amo]], e lo disprezzo e lo odio!” Disse questo con il viso così arrossato e i gesti così violenti, che sua sorella si avvicinò e gli afferrò il braccio, esortandolo: “Neville, Neville, ”
-
 
 
 <span class="atom-split" data-atom="chapter_11--part_04" data-title="The Mystery of Edwin Drood — Chapter 10 (part 4)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/childhood,motif/fire,motif/home,motif/love,motif/night,motif/silence,motif/soul,motif/time,motif/well,concept/forgiveness,concept/honour,setting/cathedral,character/edwin_drood,character/helena"></span>
@@ -6610,54 +4624,6 @@ afterwards he had cause to remember how Jasper sprang from the couch in
 a delirious state between sleeping and waking, and crying out: “What is
 the matter? Who did it?”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Ricordandoselo all'improvviso, si rese subito conto di aver perso il controllo che aveva su quella sua tendenza passionale; coprì il viso con la mano, come un uomo pentito e sventurato.
-
-Il signor Crisparkle, osservandolo attentamente e allo stesso tempo riflettendo su come procedere, camminò per qualche passo in silenzio. Poi parlò.
-
-“Signor Neville, signor Neville. Mi addolora profondamente vedere in voi tracce di un carattere così cupo, irascibile e selvaggio, proprio come questa notte che sta per calare. Questi tratti sono troppo seri perché io possa ignorarli o trattare l’infatuazione che avete manifestato come qualcosa di insignificante. La prendo molto sul serio, e parlo con voi di conseguenza. Questo conflitto tra voi e il giovane Drood non può continuare. Non posso permetterlo, soprattutto ora che so ciò che so su di voi, e dato che vivete sotto il mio tetto. Qualunque pregiudizio o interpretazione errata derivi dalla vostra rabbia cieca ed invidia riguardo al suo carattere, lui è una persona onesta e gentile. Ne sono certa. Ora, per favore ascoltate ciò che sto per dire: dopo aver riflettuto e considerato anche il parere di vostra sorella, sono disposta ad ammettere che, nel fare la pace con il giovane Drood, abbiate diritto a ricevere un certo rispetto da parte sua. Vi prometto che vi sarà dato; anzi, sarà proprio lui ad essere il primo a compiere un passo avanti. Una volta soddisfatta questa condizione, mi darete l’onore di un gentiluomo cristiano, giurando che questo litigio sia per sempre concluso da parte vostra. Ciò che provate nel dargli la mano, solo Colui che conosce i cuori umani può saperlo; ma se ci fosse tradimento in voi, le conseguenze sarebbero terribili. Per quanto riguarda l’infatuazione di cui ho parlato, so che ne avete fatto parola soltanto a me, e che nessun altro ne è a conoscenza, tranne vostra sorella e voi stesso. Ho capito bene?”
-
-[[characters/helena|Elena]] rispose a bassa voce: “Lo sanno solo noi tre che siamo qui insieme.”
-
-“La giovane signora, tua amica, non ne ha la minima idea, vero?”
-
-“Per la mia [[motifs/soul|'anima]], no!”
-
-“Quindi vi chiedo, signor Neville, di darmi la vostra stessa solenne promessa: che questo segreto rimanga tale e che non intraprenderete alcuna altra azione al riguardo, se non quella di cercare (e con grande impegno) di cancellarlo dalla vostra mente. Non vi dirò che passerà presto; non vi dirò che si tratta solo di un capriccio momentaneo; non vi dirò che simili impulsi sono comuni tra i giovani e appassionati in ogni momento. Vi lascio nella convinzione che questo segreto abbia pochi, se nessun, paralleli, che rimarrà con voi per molto tempo e che sarà molto difficile sconfiggerlo. Per questo motivo attribuirò ancora maggiore importanza alla promessa che vi chiedo.”
-
-Il giovane tentò due o tre volte di parlare, ma fallì.
-
-“Lascio che rimani con tua sorella; è giunto il momento di portarla a casa,” disse il signor Crisparkle. “Tra poco mi troverete da solo nella mia stanza.”
-
-“Per favore, non lasciarci ancora,” lo implorò [[characters/helena|Elena]]. “Solo un minuto in più.”
-
-“Non avrei dovuto,” disse Neville, premendosi la mano sul viso, “aver bisogno di un altro minuto. Se solo voi foste stati meno pazienti con me, signor Crisparkle, se solo mi aveste considerato di meno e foste stati meno ipocritamente buoni e sinceri. Oh, se solo nella mia [[motifs/childhood|infanzia]] avessi conosciuto un tale guida, ”
-
-“Segui ora il tuo guida, Neville,” mormorò [[characters/helena|Helena]], “e seguilo fino al Cielo!”
-
-C'era qualcosa nel suo tono che spezzava la voce gentile di quel giovane canonico; altrimenti, quella sua esaltazione per lui sarebbe stata respinta. Così come stava le cose, lui si mise un dito sulle labbra e guardò verso suo fratello.
-
-“Dire che pongo entrambe le promesse con tutto il profondo del mio cuore, signor Crisparkle, e dire che non c’è alcuna slealtà in questo, significa semplicemente non dire nulla!” Così Neville, profondamente commosso. “Vi chiedo perdono per questa mia misera debolezza, dovuta a un impeto di passione.”
-
-“Non è mio, Neville, non è mio. Tu sai con chi si trovi la [[concepts/forgiveness|perdono]], come il più alto attributo che si possa immaginare. Signorina [[characters/helena|Helena]], tu e tuo fratello siete figli gemelli. Siete nati in questo mondo con le stesse inclinazioni, e avete trascorso i vostri primi anni insieme, circondati dalle stesse circostanze difficili. Quello che avete superato in voi stessi, non potreste forse superarlo anche in lui? Vedi quella roccia che si trova sul suo cammino. Chi, se non tu, potrebbe aiutarlo a evitarla?”
-
-“Chi altro se non voi, signore?” rispose [[characters/helena|Elena]]. “Qual è il mio potere, o la mia debole saggezza, rispetto al vostro!”
-
-“Hai la saggezza dell’[[motifs/love|Amore]]”, rispose il Minore Canonico, “e questa è stata senza dubbio la saggezza più alta mai conosciuta su questa terra. Per quanto riguarda la mia, beh, meno si parla di quella comune ‘merce’, meglio è. Buona [[motifs/night|notte]]!”
-
-Prese la mano che le porgeva e, con gratitudine e quasi con riverenza, la portò alle labbra.
-
-“Tut!” disse il canonico minore a bassa voce, “Mi pagano decisamente troppo!” e si allontanò.
-
-Illustrazione: Il signor Crisparkle è pagato troppo
-
-Tornando sui suoi passi verso il [[settings/cathedral|Cattedrale]] Close, cercò, camminando nel buio, di trovare il modo migliore per realizzare ciò che aveva promesso di fare e che doveva assolutamente essere fatto. “Probabilmente mi chiederanno di sposarle,” rifletté, “e sarebbe meglio se fossero già sposate e lontane. Ma questo è la cosa più urgente.”
-
-Si chiedeva principalmente se dovesse scrivere al giovane Drood o parlare con Jasper. Il fatto di essere popolare presso l’intera dirigenza della [[settings/cathedral|Cattedrale]] lo spingeva verso la seconda opzione, e l’occasione propizia di vedere il cancello illuminato lo convinse a decidere per questa strada. “Colpirò mentre il ferro è ancora caldo”, pensò, “e parlerò con lui ora stesso”.
-
-Jasper dormiva su un divano davanti al [[motifs/fire|focolare]], quando, dopo essere salito la scala posteriore e non aver ricevuto risposta ai suoi colpi alla porta, il signor Crisparkle girò delicatamente la maniglia ed entrò. Molto tempo dopo ebbe motivo di ricordare come Jasper si fosse alzato di scatto dal divano in uno stato delirante, tra sonno e veglia, gridando: “Che cosa è successo? Chi l’ha fatto?”
 
 
 
@@ -6804,83 +4770,6 @@ no more about it.
 “I count upon his coming,” said Mr. Jasper.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Sono solo io, Jasper. Mi dispiace di averti disturbato.”
-
-Lo sguardo intenso dei suoi occhi si trasformò in uno di riconoscimento; poi spostò una o due sedie per avvicinarsi al fuoco.
-
-“Stavo sognando molto intensamente. E sono felice che qualcosa mi abbia interrotto da quel [[motifs/sleep|sonno]] indigestivo dopo cena. Per non parlare del fatto che sei sempre il benvenuto.”
-
-“Grazie. Non ne sono molto sicuro,” rispose il signor Crisparkle, sedendosi nella poltrona che gli era stata preparata, “che la mia proposta sia subito accettata con lo stesso entusiasmo con cui è stata accettata da me; ma io sono un ministro della pace e perseguo i miei scopi nell’interesse della pace. In breve, Jasper, voglio stabilire la pace tra questi due giovani.”
-
-Un'espressione molto perplessa apparve sul volto del signor Jasper; un'espressione davvero enigmatica, poiché il signor Crisparkle non riusciva affatto a comprenderne il significato.
-
-“Come?” fu la domanda di Jasper, pronunciata con voce bassa e lenta, dopo un lungo [[motifs/silence|silenzio]].
-
-“Per quanto riguarda il ‘modo’ in cui vi sto rivolgendo. Vorrei chiedervi di fare questo grande favore e di intervenire presso vostro nipote (ho già contattato il signor Neville), affinché vi scriva una breve nota, nel suo modo vivace, dicendo che è disposto a stringervi la mano. So quanto sia una brava persona e quale influenza abbiate su di lui. E senza difendere minimamente il signor Neville, dobbiamo ammettere tutti che è stato profondamente ferito.”
-
-Jasper girò quel viso perplesso verso il [[motifs/fire|fuoco]]. Il signor Crisparkle, continuando a osservarlo, lo trovò ancora più enigmatico di prima, poiché sembrava indicare (il che era improbabile) qualche calcolo interno molto attento.
-
-“So che non sei particolarmente favorevole al signor Neville,” continuò il Minor Canon, quando Jasper lo interruppe:
-
-“Hai tutte le ragioni per dirlo. Ma io, invece, no.”
-
-“Senza dubbio; ammetto anche la sua deplorevole irascibilità, ma [[concepts/hope|>spero]] che io e lui riusciremo a superare questo problema. Gli ho però chiesto una promessa molto solenne riguardo al suo futuro comportamento verso vostro nipote, se voi vi interverrete gentilmente; sono sicura che la manterrà.”
-
-“È sempre responsabile e affidabile, il signor Crisparkle. È davvero sicuro di poter rispondere delle sue azioni con tanta fiducia?”
-
-“I do.”
-
-Quell'espressione confusa e enigmatica scomparve.
-
-“Allora mi liberi da un grande timore e da un peso opprimente,” disse Jasper; “lo farò.”
-
-Il signor Crisparkle, deliziato dalla rapidità e dalla completezza del proprio successo, lo riconobbe con le parole più lusinghiere.
-
-“Lo farò,” ripeté Jasper, “per il conforto di avere la tua garanzia contro le mie paure vaghe e infondate. Riderai, ma tieni un Diario?”
-
-“Una riga al giorno, e basta.”
-
-“Una pagina al giorno sarebbe sicuramente sufficiente per la mia vita monotona. Chissà,” disse Jasper prendendo un libro da uno scaffale, “ma in realtà il mio Diario racconta anche la vita di Ned. Riderete di questa annotazione. E indovinerete facilmente quando è stata fatta, ”
-
-“‘Dopo mezzanotte. Dopo ciò che ho appena visto, provo un terrore morboso all’idea di qualche orribile conseguenza che possa colpire mio caro ragazzo; un timore contro cui non riesco a razionare né a lottare in alcun modo. Tutti i miei sforzi sono vani. La passione demoniaca di questo [[characters/neville-landless|Neville Landless]], la sua forza nella furia, la sua selvaggia sete di distruggere ciò che rappresenta per lui un obiettivo, tutto questo mi spaventa a morte. L’impressione è così profonda che sono entrato due volte nella stanza di mio figlio per assicurarmi che stesse dormendo tranquillamente, e non giacesse morto nel suo [[motifs/blood|sangue]], ”
-
-
-“Ecco un altro appunto il giorno dopo, ”
-
-“‘Via, lontano da tutto. Spensierato e insospettoso come sempre. Rise quando glielo dissi e affermò di essere un uomo altrettanto onesto quanto [[characters/neville-landless|Neville Landless]]. Gli risposi che forse lo era, ma non certo altrettanto cattivo. Continuò a prendere la cosa alla leggera, ma lo accompagnai per tutto il tragitto possibile, lasciandolo solo con grande riluttanza. Non riesco a scacciare queste oscure e indescrivibili premonizioni di male. Se si possono definire così i sentimenti basati su fatti concreti.’”
-
-
-“Ancora e ancora,” disse Jasper alla fine, girando tra le [[motifs/leaves|pagine]] del libro prima di metterlo da parte, “sono ricaduto in questi stati d’animo, come dimostrano anche altre annotazioni. Ma ora ho la tua promessa al mio fianco; la scriverò nel mio libro e ne farò un antidoto ai miei cattivi umori.”
-
-“Un antidoto del genere, spero,” rispose il signor Crisparkle, “che vi induca presto a gettare via quei ‘umori neri’ nelle fiamme. Non dovrei essere l’ultimo ad avere rimproveri per voi stasera, visto che avete così liberamente soddisfatto i miei desideri; ma devo dire, Jasper, che la vostra dedizione al vostro nipote vi ha portato a esagerare in questo caso.”
-
-“Sei la mia testimone,” disse Jasper, alzando le spalle, “di quale fosse sinceramente il mio stato d’animo quella [[motifs/night|notte]], prima di sedermi a scrivere, e con quali parole l’ho espresso. Ricordi che hai obiettato a una parola che ho usato, dicendo che era troppo forte? Era una parola più intensa di qualsiasi altra nel mio Diario.”
-
-“Beh, provate l’antidoto,” riprese il signor Crisparkle; “e che vi aiuti a comprendere meglio la situazione! Non ne parleremo più adesso. Devo ringraziarvi sinceramente, per me stesso.”
-
-“Scoprirai,” disse Jasper mentre si stringevano la mano, “che non farò quella cosa che vuoi che faccia a metà. Farò in modo che Ned, se dovesse cedere, lo faccia completamente.”
-
-Al terzo giorno dopo questa conversazione, andò a trovare il signor Crisparkle con la seguente lettera:
-
-“Mio caro Jack,  
-Sono commosso dal tuo resoconto dell’incontro con il signor Crisparkle, che rispetto e stimo molto. Devo dire apertamente che in quell’occasione ho perso la testa tanto quanto il signor Landless; vorrei che tutto ciò fosse ormai dimenticato e che le cose tornassero alla normalità.  
-Ascolta: invita il signor Landless a cena la vigilia di Natale (più è presto, meglio è), e che siamo solo noi tre. Stringiamoci la mano tutti insieme in quel momento e lasciamo che tutto questo rimanga nel passato.”
-
-
-“Mio caro Jack,  
-“Sempre con tutto il mio affetto,  
-“[[characters/edwin-drood|EDWIN DROOD]].”
-
-
-“P.S. Un messaggio d’[[motifs/love|amore]] per la signorina Pussy alla prossima lezione di musica.”
-
-
-“Allora, vi aspettate il signor Neville?” disse il signor Crisparkle.
-
-“Conto sul suo arrivo”, disse il signor Jasper.
-
 
 
 <span class="atom-split" data-atom="chapter_12--part_01" data-title="The Mystery of Edwin Drood — Chapter 11 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/clock,motif/fire,motif/garden,motif/marriage,motif/wind,concept/ambition,concept/history,form/history,form/inscription,setting/london,character/bottom,character/edwin_drood,character/pistol"></span>
@@ -6993,36 +4882,6 @@ under the [[archetypes/shadow|shadow]] of that baleful tree of Java which has gi
 to more lies than the whole botanical kingdom, Mr. Grewgious,
 nevertheless, treated him with unaccountable consideration.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XI.  
-UNA RIFLETTAGINE E UN ANELLO
-
-
-Dietro la parte più antica di Holborn, a [[settings/london|Londra]], dove alcune case a timpano vecchie di secoli si ergono ancora lungo la strada pubblica, come se cercassero disperatamente il vecchio fiume Bourne ormai prosciugato da tempo, c’è un piccolo angolo formato da due quadrati irregolari chiamato Staple Inn. È uno di quegli angoli in cui, uscendo da una strada caotica, il viandante si sente come se avesse messo del cotone nelle orecchie e suole di velluto ai propri stivali. In quel luogo, alcuni passeri fumosi cinguettano tra gli alberi, come se si chiamassero a vicenda: “Andiamo a giocare in campagna, ”. Qualche metro di terra coltivata e qualche metro di ghiaia permettono loro di esprimere quella vitalità così caratteristica della loro piccola esistenza. Inoltre, è uno di quegli angoli “legali”: contiene una piccola sala, con una lanterna sul soffitto. A quali scopi utilizzata, e a spese di chi, la [[concepts/history|storia]] non lo sa.
-
-Nei tempi in cui Cloisterham si offendeva all’idea dell’esistenza di una ferrovia lontana, considerata una minaccia per quella sua sensibile natura, proprietà dei britannici che aveva la strana fortuna di essere oggetto di commenti alterni: temuti, lodati o criticati, indipendentemente da ciò che accadeva ovunque nel mondo, in quei tempi non era ancora sorta alcuna architettura vicina di grandi dimensioni in grado di oscurare Staple Inn. Il sole al tramonto gli riversava luci brillanti addosso, e il [[motifs/wind|vento]] sud-occidentale soffiava su di esso senza ostacoli.
-
-Né il [[motifs/wind|>vento]] né il sole furono favorevoli al Staple Inn quel pomeriggio di dicembre, verso le sei in [[motifs/clock|ora]], quando l’edificio era avvolto nella nebbia e le candele proiettavano raggi torbidi e sfocati attraverso le finestre di tutte le stanze allora occupate; in particolare da un gruppo di stanze situato in un angolo di una casa nel piccolo cortile interno, dove, su un portale brutto e squallido, era visibile una misteriosa [[forms/inscription|iscrizione]] in bianco e nero.
-
-P
-J
-T
-1747
-
-
-In quale stanza si trovava? Mai si era preoccupato di quella [[forms/inscription|iscrizione]], se non di tanto in tanto, quando la guardava per caso, chiedendosi se forse significasse “Forse John Thomas” o “Forse Joe Tyler”. Era lì che il signor Grewgious sedeva, scrivendo accanto al suo [[motifs/fire|focolare]].
-
-Chi avrebbe potuto dirlo, guardando il signor Grewgious, se avesse mai conosciuto l’[[concepts/ambition|ambizione]] o la delusione? Era stato educato per diventare avvocato e si era dedicato alla pratica legale; redigeva atti notarili, “per compiere ciò che il mestiere richiede”, come dice [[characters/pistol|Pistol]]. Ma la sua attività legale era diventata per lui qualcosa di del tutto indifferente; aveva intrapreso questo percorso con tale distacco che alla fine si erano separati di comune accordo, se si può davvero parlare di separazione quando non c’è mai stata vera unione.
-
-No. Coy Conveyancing non si avvicinò mai al signor Grewgious. Fu corteggiata, ma non conquistata, e ognuno andò per la propria strada. Tuttavia, un’arbitrazione fu portata verso di lui da qualche “[[motifs/wind|vento]] inspiegabile”, e grazie alla sua instancabile ricerca della giustizia e al suo impegno nel farla rispettare, ottenne grande credito in questo ambito. Poi, grazie a un altro “[[motifs/wind|vento]]” la cui origine era più facilmente rintracciabile, gli capitò tra le mani una discreta somma di denaro legata a un incarico di amministratore fallimentare. Così, per caso, trovò il proprio posto nel mondo. Ora, essendo diventato amministratore e rappresentante legale di due ricche proprietà, affidava gli affari legali relative a queste a uno studio di avvocati situato al piano di sotto. E così, aveva spento ogni sua [[concepts/ambition|ambizione]] (ammesso che mai ne fosse realmente stata posseduta) e si era sistemato per il resto della vita sotto l’ombra del signor P. J. T., che aveva piantato i suoi ulivi nel 1747.
-
-Molti documenti, libri contabili, fascicoli di corrispondenza e diverse scatole robuste riempivano la stanza del signor Grewgious. Era difficile anche solo immaginare che potessero renderla sovraffollata, data l’ordine meticoloso e preciso con cui erano disposti. L’idea di morire improvvisamente, lasciando qualche dettaglio incompleto o poco chiaro, avrebbe probabilmente spaventato a morte il signor Grewgious in qualsiasi momento. La massima fedeltà nei confronti dei propri doveri rappresentava, per lui, la vera essenza della vita stessa. Esistono modi di vivere più veloci, più gioiosi o più attraenti; ma nessuno è migliore di quello che si basa sulla lealtà assoluta verso gli altri.
-
-Nella sua stanza non c’era alcun lusso; persino le comodità erano limitate al fatto che fosse asciutta e calda, e che ci fosse un angolo accogliente vicino al camino, anche se un po’ logoro. Quello che si potrebbe definire il suo “spazio privato” era ristretto al caminetto, a una poltrona comoda e a un vecchio tavolino rotondo che veniva tirato fuori sul tappeto dopo l’orario di lavoro; altrimenti rimaneva nascosto in un angolo, come uno scudo lucido di mogano. Dietro di esso c’era un armadio, solitamente pieno di bevande deliziose. Una stanza esterna fungeva da ufficio del impiegato; la camera da letto di Mr. Grewgious si trovava dall’altra parte dello stesso scalone comune; inoltre possedeva anche un seminterrato, piuttosto ampio. Per almeno trecento giorni all’anno, andava a cena all’hotel Furnival’s Inn e poi tornava indietro per godersi quelle semplici cose quotidiane, fino a quando non arrivava di nuovo il giorno in cui iniziavano le normali attività lavorative, con la data 17 aprile 1747.
-
-Quel pomeriggio, mentre il signor Grewgious sedeva e scriveva accanto al suo [[motifs/fire|focolare]], lo stesso faceva anche il segretario del signor Grewgious, seduto anch’egli accanto al proprio [[motifs/fire|focolare]]. Un uomo pallido, con il viso gonfio e i capelli scuri, di trent’anni, con grandi occhi scuri che sembravano privi di lucentezza, e una pelle flaccida e insoddisfatta che pareva chiedere di essere inviata dal panettiere. Questo assistente era un essere misterioso, dotato di qualche strana influenza su il signor Grewgious. Come se fosse stato creato da una qualche magia e poi, quando era arrivato il momento di “disfarsene”, la magia non avesse funzionato. Quell’uomo rimaneva sempre accanto al signor Grewgious, anche se la sua presenza avrebbe chiaramente migliorato la comodità e l’agio del signor stesso. Un individuo cupo, con i capelli arruffati, che sembrava essere stato cresciuto all’[[archetypes/shadow|ombra]] di quel “pericoloso albero” della Giava, un albero che aveva dato rifugio a più bugie di quante ne esistano in tutto il regno botanico. Eppure il signor Grewgious lo trattava con una considerazione inspiegabile.
 
 
 
@@ -7209,108 +5068,6 @@ reward is mine, and that Nil is the claim of this slave,” and pushed
 the flying waiter before him out of the room.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Ora, Bazzard,” disse il signor Grewgious non appena il suo impiegato entrò, alzando lo sguardo dai documenti che stava sistemando per la [[motifs/night|notte]]: “di cosa si tratta, oltre alla nebbia?”
-
-“Signor Drood,” disse Bazzard.
-
-“E lui?”
-
-“Ha chiamato,” disse Bazzard.
-
-“Avresti potuto farglielo vedere, ”
-
-“Lo sto facendo,” disse Bazzard.
-
-Il visitatore entrò quindi.
-
-“Mio Dio!”, disse il signor Grewgious, guardandosi intorno nella stanza illuminata dalle sue due candele da ufficio. “Pensavo che aveste chiamato e poi semplicemente lasciato il vostro nome e ve ne foste andati. Come state, signor Edwin? Mio Dio, state soffocando!”
-
-“È questa nebbia,” rispose Edwin; “e mi fa bruciare gli occhi, come il pepe di Cayenna.”
-
-“È davvero così grave? Per favore, toglietevi quegli involucri. Sono fortunato ad avere un [[motifs/fire|fuoco]] così potente; ma il signor Bazzard si è preso cura di me.”
-
-“No, non l’ho fatto,” disse il signor Bazzard alla porta.
-
-“Ah! Allora significa che devo essermi preso cura di me stesso senza nemmeno accorgermene,” disse il signor Grewgious. “Per favore, si sieda sulla mia sedia. No, la prego! Dopo essere uscito da un ambiente del genere, deve sedersi _sulla mia_ sedia.”
-
-Edwin si sedette nella poltrona vicino all’angolo; la nebbia che aveva portato con sé, e quella che se n’andò insieme al suo cappotto e al colletto foderato, fu rapidamente assorbita dal fervente [[motifs/fire|fuoco]].
-
-“Sembro,” disse Edwin sorridendo, “come se fossi venuto apposta per fermarmi.”
-
-“—A proposito,” gridò il signor Grewgious; “scusate se vi interrompo; per favore, fermatevi. La nebbia potrebbe dissiparsi tra un’ora o due. Possiamo mangiare qualcosa proprio dall’altra parte di Holborn. È meglio che portiate con voi il pepe di Cayenna qui dentro, invece che fuori; vi prego, fermatevi e mangiate.”
-
-“Sei molto gentile,” disse Edwin, guardandosi intorno come se fosse attratto dall’idea di una nuova e divertente festa gitana.
-
-“Assolutamente no,” disse il signor Grewgious; “siete davvero molto gentili ad unirvi a un single e a condividere la cena con lui. E chiederò, ” disse il signor Grewgious, abbassando la voce e parlando con uno sguardo scintillante, come se gli fosse venuta in mente un’idea brillante: “Chiederò a Bazzard. Forse a lui non piacerebbe. Bazzard!”
-
-Bazzard ricomparve.
-
-"#Cena presto con il signor Drood e me."
-
-“Se mi viene ordinato di pranzare, naturalmente lo farò, signore,” fu la risposta cupa.
-
-“Salvate quell’uomo!”, gridò il signor Grewgious. “Non siete stati ordinati a farlo, siete stati invitati”.
-
-“Grazie, signore,” disse Bazzard; “in quel caso non mi importa se lo faccio o no.”
-
-“È tutto sistemato. E forse non vi dispiacerebbe,” disse il signor Grewgious, “andare all’hotel di Furnival’s e chiedere loro di mandare i materiali necessari per stendere la stoffa. Per cena mangeremo una zuppa calda e sostanziosa, il miglior piatto preparato che si possa trovare, un pezzo di carne come una coscia d’agnello, o un’anatra, o un tacchino, insomma, tutto ciò che è disponibile.”
-
-Queste direttive liberali, emesse dal signor Grewgious con il suo solito tono, come se stesse leggendo un elenco, ripetendo una lezione o facendo qualcos’altro meccanicamente. Bazzard, dopo aver preparato la tavola rotonda, si ritirò per metterle in atto.
-
-“Ero un po’ riluttante, capite,” disse il signor Grewgious, con voce più bassa, dopo che il suo impiegato se n'era andato, “all’idea di assumerlo nel reparto incaricato delle provviste o delle commesse. Perché forse non gli sarebbe piaciuto.”
-
-“Sembra che faccia sempre a modo suo, signore,” osservò Edwin.
-
-“A modo suo?” rispose il signor Grewgious. “Oh no, assolutamente no! Povero ragazzo, lo state fraintendendo completamente. Se potesse fare sempre a modo suo, non sarebbe qui.”
-
-“Mi chiedo dove possa essere!” pensò Edwin. Ma lo pensò solo, perché il signor Grewgious arrivò e si mise in piedi con la schiena rivolta verso l’altra estremità del [[motifs/fire|focolare]], le scapole appoggiate al camino, sistemando le sue gonne per poter parlare più comodamente.
-
-“Credo che, senza possedere il dono della profezia, mi abbiate fatto la gentilezza di menzionare che state andando laggiù, dove, come so, vi aspettano, e che siete disposti ad eseguire qualsiasi piccola commissione da parte mia per la mia adorabile protetta. E forse anche a darmi qualche consiglio su come procedere, vero, signor Edwin?”
-
-“Ho bussato, signore, prima di scendere, come segno di rispetto.”
-
-“Attenzione!” disse il signor Grewgious. “Ah, naturalmente, non per impazienza, vero?”
-
-“Impazienza, signore?”
-
-Il signor Grewgious aveva intenzione di mostrare un atteggiamento sarcastico, ma non certo nel senso letterale del termine; anzi, si era avvicinato così tanto al [[motifs/fire|fuoco]] che sembrava volesse “bruciarsi” dentro quella sua ironia, proprio come altre impressioni sottili vengono incise su metalli duri. Ma quando quel suo atteggiamento sarcastico apparve improvvisamente sul suo viso composto e nel suo comportamento, e non rimase altro che il [[motifs/fire|fuoco]], lui sobbalzò e iniziò a strofinarsi.
-
-“Di recente sono stato laggiù,” disse il signor Grewgious, sistemando di nuovo le sue gonne; “ed è a questo che mi riferivo quando ho detto che potevo dirvi che qualcuno vi aspetta.”
-
-"Certo, signore! Sì, sapevo che Pussy si prendeva cura di me."
-
-“Tenete un gatto laggiù sotto?” chiese il signor Grewgious.
-
-“Chiamo Rosa ‘Gattina’”, spiegò Edwin arrossendo leggermente.
-
-“Oh, davvero,” disse il signor Grewgious, lisciandosi i capelli; “è molto affabile da parte sua.”
-
-Edwin guardò il suo viso, incerto se si opponesse seriamente a quell’appellativo. Ma in realtà, per Edwin, sarebbe stato lo stesso come guardare il viso di un [[motifs/clock|orologio]].
-
-“Un soprannome, signore,” spiegò di nuovo.
-
-“Umps,” disse il signor Grewgious, annuendo. Ma con un compromesso così straordinario tra un assenso incondizionato e un dissenso condizionato, il suo visitatore rimase molto perplesso.
-
-“Ha fatto PRosa, ”, iniziò Edwin per riprendersi.
-
-“Rosa?”, ripeté il signor Grewgious.
-
-“Stavo per dire ‘Pussy’, ma poi ho cambiato idea. Ti ha detto qualcosa riguardo ai Landlesses?”
-
-“No”, disse il signor Grewgious. “Che cos’è la famiglia Landless? Una tenuta? Una villa? Una fattoria?”
-
-“Un fratello e una sorella. La sorella si trova nell’Casa delle Suore ed è diventata un’amica molto stretta di P—”
-
-“Di Rosa,” intervenne il signor Grewgious, con un'espressione immobile sul viso.
-
-“È una ragazza straordinariamente bella, signore. Pensavo che forse le fossero state fatte delle descrizioni su di lei, o che potesse essere stata presentata a voi, ”
-
-“Né l’uno né l’altro”, disse il signor Grewgious. “Ma ecco qui Bazzard.”
-
-Bazzard tornò indietro, accompagnato da due camerieri: uno immobile e l’altro che volava; i tre portarono con sé così tanto fumo da far ruggire ancora di più il [[motifs/fire|fuoco]]. Il cameriere che volava, avendo portato tutto sulle spalle, stese la tovaglia con incredibile rapidità e destrezza; mentre il cameriere immobile, non avendo portato nulla, iniziò a rimproverarlo. Poi il cameriere che volava lucidò accuratamente tutti i bicchieri che aveva portato, e il cameriere immobile li esaminò uno per uno. Successivamente il cameriere che volava andò a prendere la zuppa a Holborn, tornò indietro, poi prese di nuovo il cibo preparato, tornò ancora una volta, e infine fece altri viaggi per portare vari altri piatti; nel frattempo si scoprì che il cameriere immobile aveva dimenticato tutto. Ma per quanto il cameriere che volava potesse volare velocemente, al suo ritorno veniva sempre rimproverato dal cameriere immobile per aver portato con sé del fumo e per essere senza fiato. Alla fine del pasto, quando il cameriere che volava era ormai stremato, il cameriere immobile raccolse la tovaglia sotto il braccio con aria maestosa, guardò con severità (per non dire con indignazione) il cameriere che volava mentre sistemava i bicchieri puliti, lanciò un’ultima occhiata al signor Grewgious e disse: “Che sia chiaro tra noi: la ricompensa spetta a me, e questo ‘schiavo’ non ha diritto a nulla”, poi spinse il cameriere che volava fuori dalla stanza.
-
 
 
 <span class="atom-split" data-atom="chapter_12--part_03" data-title="The Mystery of Edwin Drood — Chapter 11 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/lover,motif/birds,motif/fire,motif/memory,motif/nature,motif/night,motif/silence,motif/time,motif/well,concept/charity,concept/faith,concept/imagination,concept/nature,concept/self,concept/wonder,character/duncan,character/edwin_drood,character/macbeth"></span>
@@ -7446,48 +5203,6 @@ reason that having no conversational powers, I cannot express what I
 mean, or that having no meaning, I do not mean what I fail to express.
 Which, to the best of my belief, is not the case.”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Era come un piccolo dipinto in miniatura di altissima qualità che raffigurava i miei Signori del Dipartimento delle Circonlocuzioni, i Comandanti in Capo di qualsiasi tipo, l’Governo. Era davvero un quadretto molto istruttivo da appendere alle pareti della National Gallery.
-
-Poiché la nebbia era stata la causa immediata di questo sontuoso banchetto, essa servì anche da “salsa” generale per tutto il pasto. Sentire i camerieri all’aperto starnutire, ansimare e battere i piedi sul ghiaietto era un piacere molto superiore a quello offerto dal Dottor Kitchener. E chiedere, con un brivido, al sfortunato cameriere di chiudere la porta prima ancora che l’avesse aperta rappresentava un “condimento” di gusto ancora più profondo di quello fornito da Harvey. E qui va notato, a margine, che la gamba di questo giovane, nell’utilizzarla per chiudere la porta, dimostrava davvero un ottimo senso del tatto: arrivava sempre qualche secondo prima di lui e del vassoio, e rimaneva sempre lì dopo che lui e il vassoio se n’erano andati, proprio come la gamba di [[characters/macbeth|Macbeth]] quando lo accompagnava fuori dal palco, riluttante ad abbandonarlo dopo l’assassinio di [[characters/duncan|Duncan]].
-
-Il padrone di casa era sceso in cantina e aveva portato su delle bottiglie di vini rossi, color paglia e dorati; vini che erano maturati molto tempo fa in terre dove non c’è nebbia, e da allora riposavano nell’ombra. Dopo un lungo “sonnellino”, questi vini sprigionarono scintille e una sensazione di freschezza; i loro tappi furono aperti con forza, come se prigionieri aiutassero dei rivoltosi a sfondare le porte. E poi i vini iniziarono a “ballare” gioiosamente all’interno delle bottiglie. Se P. J. T., nel 1747 o in qualsiasi altro anno del suo periodo, avesse bevuto vini del genere, allora, senza dubbio, anche lui era davvero molto felice.
-
-Esteriormente, il signor Grewgious non mostrava alcun segno di essersi addolcito a causa di queste “vite” invecchiate e profumate. Invece di berle, avrebbero potuto essere versate su di lui sotto forma di tabacco da fiuto essiccato, per poi andare sprecate, poiché gli effetti che producevano sul suo viso erano appena percettibili. Nemmeno il suo comportamento ne risentiva. Tuttavia, con quel suo modo rigido e monotono, aveva occhi attenti per Edwin; e quando, alla fine del pasto, fece segno a Edwin di tornare nella sua poltrona vicino al camino, Edwin vi si adagiò con piacere, dopo solo brevi proteste. Il signor Grewgious, intanto, girando la propria sedia verso il [[motifs/fire|fuoco]] e lisciandosi i capelli e il viso, sembrava osservare il proprio ospite attraverso le dita che lo accarezzavano.
-
-“Imbecille!” disse improvvisamente il signor Grewgious, rivolgendosi a lui.
-
-“Vi seguo, signore,” rispose Bazzard; che aveva consumato carne e bevande con metodo, sebbene per lo più in silenzio.
-
-“Bevo a tuo onore, Bazzard; signor Edwin, che il successo accompagni il signor Bazzard!”
-
-“Successo per il signor Bazzard!” esclamò Edwin, con un entusiasmo del tutto infondato, e aggiunse mentalmente: “Che cosa incredibile, ”
-
-“E May!” continuò il signor Grewgious. “Non ho il diritto di essere preciso. May! Le mie capacità conversazionali sono così limitate che so di non riuscire a esprimermi [[motifs/well|bene]] in questo modo. May! Dovrei cercare di farlo in modo più figurato, ma io non ho [[concepts/imagination|immaginazione]]. May! L’angoscia è quasi l’unica cosa che riesco a provare. Che tutto possa finalmente risolversi positivamente!”
-
-Il signor Bazzard, con un sorriso corrucciato davanti al [[motifs/fire|fuoco]], infilò una mano tra i suoi capelli arruffati, come se l’ago dell’ansia fosse lì; poi nella sua giacca, come se fosse lì; infine nelle tasche, come se fosse lì. In tutti questi movimenti, gli occhi di Edwin lo seguivano attentamente, come se quel giovane gentiluomo si aspettasse di vedere quell’“ago dell’ansia” agire davvero. Tuttavia, esso non comparve mai, e il signor Bazzard si limitò a dire: “Vi seguo, signore, e vi ringrazio.”
-
-“Vado,” disse il signor Grewgious, facendo tintinnare il suo bicchiere sul tavolo con una mano, e piegandosi di lato con l’altra per sussurrare a Edwin: “Vado a brindare al mio protetto. Ma metto Bazzard prima. Altrimenti potrebbe non piacergli.”
-
-Queste parole furono dette con un battito di ciglia misterioso; o meglio, ciò che avrebbe potuto essere un battito di ciglia, se nelle mani del signor Grewgious fosse stato possibile farlo abbastanza velocemente. Così Edwin batté le palpebre a sua volta, senza la minima idea di cosa intendesse fare così.
-
-“E ora,” disse il signor Grewgious, “dedico un intero paragrafo alla bella e affascinante signorina Rosa. Bazzard, la bella e affascinante signorina Rosa!”
-
-“Vi seguo, signore,” disse Bazzard, “e vi giuro fedeltà!”
-
-“Anch’io lo stesso!” disse Edwin.
-
-“Signore, beneditemi,” esclamò il signor Grewgious, rompendo il [[motifs/silence|silenzio]] che naturalmente seguì: anche se chi può sapere perché queste pause debbano verificarsi ogni volta che compiamo un piccolo rito sociale che non induce affatto a un’autoesame o a sentimenti di scoraggiamento? “Sono una persona particolarmente rigida e formale, eppure credo (se posso usare questa parola, non avendo affatto fantasia), di essere in grado di descrivere con precisione lo stato d’animo di un vero [[archetypes/lover|amante]], ”
-
-“Seguiamo lei, signore”, disse Bazzard, “e prendiamo quell’immagine”.
-
-“Il signor Edwin lo correggerà nei punti in cui è sbagliato,” continuò il signor Grewgious, “e aggiungerà anche alcune dettagli tratti dalla vita reale. Oserei dire che sia errato in molti aspetti e abbia bisogno di molte correzioni basate sulla realtà. Io stesso sono nato nella famiglia Chip, e quindi non possiedo né sentimenti delicati né esperienze profonde. Beh, oserei ipotizzare che la mente di un vero [[archetypes/lover|amante]] sia completamente permeata dall’oggetto del suo affetto; che il nome della sua amata sia per lui qualcosa di prezioso, che non possa essere pronunciato o ricordato senza emozione, e che venga considerato qualcosa di sacro. Se ha qualche nomignolo affettuoso per lei, lo riserva esclusivamente a lei, e non lo usa davanti ad altre persone. Un nome con cui chiamarla, un privilegio che dovrebbe essere riservato soltanto quando si è soli con la sua splendida [[concepts/self|personalità]], diventerebbe una mancanza di rispetto, quasi una violazione della buona [[concepts/faith|fede]] se usato in altri contesti.”
-
-Era meraviglioso vedere il signor Grewgious seduto dritto, con le mani sulle ginocchia, che continuava a recitare quel discorso come se lo stesse imparando a memoria: proprio come un ragazzo impegnato in attività di [[concepts/charity|carità]] e dotato di una buona [[motifs/memory|memoria]] potrebbe ripetere il suo catechismo; senza mostrare alcuna emozione evidente, tranne forse un leggero formicolio occasionale alla fine del naso.
-
-“La mia rappresentazione,” proseguì il signor Grewgious, “mostra (dopo le correzioni da voi apportate, signor Edwin) il vero [[archetypes/lover|amante]] come colui che è sempre impaziente di trovarsi nella presenza o nelle vicinanze dell’oggetto del suo affetto; come colui a cui importa molto poco la sua posizione in qualsiasi altro ambiente sociale; e come colui che cerca costantemente questo oggetto. Se dicessi che lo cerca come un [[motifs/birds|uccello]] cerca il proprio nido, farei la figura dello sciocco, perché ciò andrebbe contro quanto io intendo per poesia. E io sono così lontano dal violare i principi della poesia in qualsiasi momento, che, per quel che ne so, non mi sono mai avvicinato nemmeno di diecimila miglia a essa. Inoltre, non conosco affatto le abitudini degli [[motifs/birds|uccelli]], tranne quelle dei pennuti del Staple Inn, che costruiscono i loro nidi su cornicioni, in grondaie e camini, non creati certo dalla benevola mano dell’[[concepts/nature|>Natura]]. Pertanto, vi prego di capire che intendo riferirmi a qualcos’altro. Ma la mia rappresentazione mostra effettivamente il vero [[archetypes/lover|amante]] come colui il cui essere è indissolubilmente legato a quello dell’oggetto del suo affetto, e come colui che conduce una vita duplice. E se non riesco a esprimere chiaramente ciò che intendo, è perché o non ho le capacità necessarie per farlo, oppure perché in realtà non ho nulla da dire. Ma, per quel che ne so, questo non è affatto vero.”
 
 
 
@@ -7629,74 +5344,6 @@ are going to her, to make the last irrevocable preparations for your
 [[motifs/marriage|marriage]]. Take it with you.”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Edwin era diventato rosso e poi bianco, man mano che alcuni dettagli di questa situazione venivano alla luce. Ora sedeva davanti al [[motifs/fire|fuoco]], mordendosi il labbro.
-
-“Le speculazioni di un uomo rigido e freddo,” proseguì il signor Grewgious, ancora seduto e parlando esattamente come prima, “sono probabilmente errate su un argomento così delicato. Ma io ritengo (sottoposto, come sempre, alla correzione del signor Edwin) che in un vero [[archetypes/lover|amante]] non possa esserci freddezza, indifferenza, dubbi, né uno stato d’animo misto di passione e distacco. Vi prego, sono forse vicino alla verità nel mio ragionamento?”
-
-Altrettanto brusco nella sua conclusione quanto all’inizio e nel suo sviluppo, pose questa domanda a Edwin e si fermò proprio nel momento in cui ci si sarebbe aspettati che continuasse il suo discorso.
-
-“Devo dire, signore, ”, balbettò Edwin, “poiché mi avete rivolto questa domanda, ”
-
-“Sì”, disse il signor Grewgious, “ve lo affido a voi, in quanto autorità competente”.
-
-“Dovrei quindi dire, signore,” continuò Edwin, imbarazzato, “che l’immagine che avete delineato è in generale corretta; ma ritengo che forse siate un po’ troppo severi con quel sfortunato [[archetypes/lover|innamorato]].”
-
-“Probabilmente sì,” concordò il signor Grewgious. “Sono una persona molto rigida quando si tratta di questioni fondamentali.”
-
-“Forse non mostra tutto ciò che prova”, disse Edwin, “o forse semplicemente, non lo fa”.
-
-Si fermò così a lungo alla ricerca del resto della sua frase, che il signor Grewgious raddoppiò mille volte la sua difficoltà intervenendo inaspettatamente dicendo:
-
-"No, non è certo; potrebbe anche non essere così!"
-
-Dopo quel momento, tutti rimasero in silenzio; il [[motifs/silence|silenzio]] del signor Bazzard era dovuto al sonno.
-
-“Tuttavia, la sua responsabilità è molto grande,” disse finalmente il signor Grewgious, con lo sguardo fisso sul [[motifs/fire|fuoco]].
-
-Edwin annuì in segno di accordo, con gli occhi fissi sul [[motifs/fire|fuoco]].
-
-“E che sia ben chiaro che non sta scherzando con nessuno,” disse il signor Grewgious;  
-“né con se stesso, né con altri.”
-
-Edwin morse di nuovo il labbro e continuò a sedere fissando il [[motifs/fire|fuoco]].
-
-“Non deve trasformare un tesoro in un giocattolo. Sarebbe la sua rovina se lo facesse! Che tenga a cuore quel [[motifs/well|pozzo]],” disse il signor Grewgious.
-
-Anche se diceva queste cose in frasi brevi, proprio come quel presunto [[concepts/charity|bambino di carità]] che poco fa aveva recitato un paio di versetti dal Libro dei Proverbi, c'era qualcosa di sognante (per uno così letterale) nel modo in cui ora scuoteva il dito indice destro verso i carboni ardenti nel camino, per poi tornare nuovamente in silenzio.
-
-Ma non per molto. Mentre sedeva dritto e rigido sulla sedia, all'improvviso incrociò le gambe, come se l’immagine scolpita di qualche strano idolo fosse uscita dal suo torpore, e disse: “Dobbiamo finire questa bottiglia, signor Edwin. Lasciate che vi aiuti. Aiuterò anche Bazzard, anche se sta dormendo. Altrimenti potrebbe non piacergli.”
-
-Li aiutò entrambi, si aiutò anche lui stesso, bevve tutto il contenuto del suo bicchiere e lo posizionò sul tavolo con il fondo rivolto verso l’alto, come se avesse appena catturato una mosca blu al suo interno.
-
-“E ora, signor Edwin,” proseguì, asciugandosi la bocca e le mani con il fazzoletto, “parliamo di una piccola questione d’affari. Qualche giorno fa mi ha ricevuto una copia autenticata del testamento del padre di Miss Rosa. Conosceva già i suoi contenuti, ma l’ha ricevuta da me per motivi legati a un affare. Avrei dovuto inviarla a signor Jasper, ma Miss Rosa desiderava che arrivasse direttamente a lei. L’ha ricevuta?”
-
-“Assolutamente sicuro, signore.”
-
-“Avresti dovuto confermare di averla ricevuta,” disse il signor Grewgious;  
-“Dopotutto, gli affari sono uguali in tutto il mondo. Ma tu non l’hai fatto.”
-
-“Avrei dovuto ringraziarvi non appena sono entrato stasera, signore.”
-
-“Non si tratta di un ringraziamento formale e professionale,” rispose il signor Grewgious; “tuttavia, lasciamo perdere. Ora, in quel documento avete notato alcune parole che alludono gentilmente al fatto che mi è stato affidato un compito, una fiducia che mi è stata confidata durante una conversazione, e che potrò svolgere nel momento che riterrò più opportuno.”
-
-“Sì, signore.”
-
-“Signor Edwin, mi è venuto in mente proprio ora, mentre guardavo il [[motifs/fire|fuoco]], che potrei, a mio piacimento, liberarmi di quella responsabilità in nessun momento migliore del presente. Per favore, dedicatemi un minuto del vostro tempo.”
-
-Prese un mazzo di chiavi dalla tasca; alla luce della candela individuò quella che cercava, poi, tenendo la candela in mano, andò verso un comodino o uno scrittoio, lo aprì, toccò la [[motifs/spring|molla]] di un piccolo cassetto segreto e ne tirò fuori una semplice custodia per anelli, fatta apposta per un solo anello. Con essa in mano tornò alla sua sedia. Mentre la mostrava al giovane, la sua mano tremava.
-
-“Signor Edwin, questo anello di diamanti e rubini incastonati con delicatezza nell’oro apparteneva alla madre di Miss Rosa. Fu rimosso dalla sua mano morta, davanti ai miei occhi, in un dolore così profondo che spero non dovrò mai più assistervi. Per duro che io sia, non sono abbastanza indurito per sopportarlo. Guardate quanto brillino queste pietre!” disse aprendo la scatola. “Eppure quegli occhi, un tempo così luminosi e pieni di orgoglio quando guardavano queste gemme, ora sono diventati cenere. Cenere tra la polvere, da alcuni anni ormai! Se avessi anche solo un po’ di immaginazione (cosa che, ovviamente, non ho), potrei pensare che la bellezza eterna di queste pietre sia quasi crudele, ”
-
-Mentre parlava, chiuse nuovamente la scatola.
-
-“Questo anello fu dato alla giovane donna che annegò così prematuramente nella sua bella e felice vita dal suo marito, quando si scambiarono per la prima volta la loro [[concepts/faith|>fede]] reciproca. Fu lui a toglierlo dalla sua mano priva di sensi, ed è stato lui, quando la sua [[motifs/death|>morte]] stava per arrivare, a metterlo nella mia. La fiducia con cui l’ho ricevuto era questa: che, quando voi e Miss Rosa sareste cresciuti fino a diventare uomo e donna, e il vostro fidanzamento si fosse sviluppato e portato a termine, io lo avrei dato a voi per farlo indossare da lei. Nel caso in cui tali risultati non si realizzassero, esso sarebbe rimasto in mio possesso.”
-
-Sul volto del giovane si leggeva un certo imbarazzo, e nei movimenti della sua mano c'era evidente incertezza; mentre il signor Grewgious lo fissava attentamente, gli porse l'anello.
-
-“Metterlo sul suo dito,” disse il signor Grewgious, “sarà il segno solenne della tua assoluta fedeltà verso i vivi e i morti. Stai andando da lei per fare gli ultimi preparativi irrevocabili per il tuo [[motifs/marriage|matrimonio]]. Portalo con te.”
-
 
 
 <span class="atom-split" data-atom="chapter_12--part_05" data-title="The Mystery of Edwin Drood — Chapter 11 (part 5)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/orphan,motif/night,motif/sleep,motif/time,motif/well,concept/hope,concept/wonder,character/edwin_drood"></span>
@@ -7779,48 +5426,6 @@ unexplored romantic nooks in the unlikeliest men, that even old
 tinderous and touchwoody P. J. T. Possibly Jabbered Thus, at some odd
 times, in or about seventeen-forty-seven.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il giovane prese la piccola scatola e la posizionò sul petto.
-
-“Se dovesse accadere qualcosa di sbagliato, se anche solo per un attimo ci fossero problemi tra di voi; se aveste la minima sensazione di stare compiendo questo passo soltanto perché vi siete abituati da tempo ad aspettarlo, allora,” disse il signor Grewgious, “vi ordino ancora una volta, per l’amore dei vivi e dei morti, di riportarmi quell’anello!”
-
-Qui, Bazzard si svegliò da solo a causa del proprio russare; e, come è solito in questi casi, rimase seduto, sbalordito, fissando il vuoto, come se volesse sfidarlo a accusarlo di aver dormito.
-
-“Imbecille!” disse il signor Grewgious, con più durezza che mai.
-
-“Vi seguo, signore,” disse Bazzard, “e vi ho seguito fin da allora.”
-
-“Nell'esercizio di una fiducia, ho consegnato al signor [[characters/edwin-drood|Edwin Drood]] un anello di diamanti e rubini. Vedete?”
-
-Edwin riprodusse la piccola scatola e la aprì; Bazzard guardò all’interno.
-
-“Vi seguo entrambi, signore”, rispose Bazzard, “e assisto alla transazione”.
-
-Evidentemente ansioso di andarsene e stare da solo, [[characters/edwin-drood|Edwin Drood]] riprese a indossare i suoi vestiti, mormorando qualcosa riguardo al [[motifs/time|tempo]] e agli appuntamenti. Si diceva che la nebbia non si fosse schiarita (secondo il cameriere volante, che aveva effettuato un “volo speculativo” nell’interesse del caffè), ma lui ci entrò lo stesso; e Bazzard, come al solito, “lo seguì”.
-
-Il signor Grewgious, rimasto solo, camminava avanti e indietro in modo silenzioso e lento, per più di un’ora. Era irrequieto durante la [[motifs/night|notte]] e sembrava depresso.
-
-“Spero di aver fatto la cosa giusta,” disse. “Quell’appello sembrava necessario. Era difficile perdere quell’anello, eppure doveva essermi sfuggito molto presto.”
-
-Chiuse con un sospiro quel piccolo cassetto vuoto, richiuse e serrò l’armadietto da scrivere, poi tornò accanto al fuoco, solo.
-
-“Il suo anello,” continuò. “Tornerà da me? Non riesco a smettere di pensare al suo anello, soprattutto di [[motifs/night|notte]]. Ma è comprensibile. L’ho avuto per così tanto tempo e l’ho sempre considerato molto prezioso! Mi chiedo, ”
-
-Era in uno stato di perplessità, e allo stesso tempo irrequieto; perché, anche se si controllò in quel momento e fece un altro giro, riprese a riflettere non appena si sedette di nuovo.
-
-“Mi chiedo (per la decima millesima volta, e che debole [[archetypes/fool|stupido]] sono io, ) se abbia affidato a me la responsabilità di loro figlio orfano, perché sapeva. Oddio, quanto assomiglia ora a sua madre!”
-
-“Mi chiedo se abbia mai sospettato che qualcuno provasse per lei un affetto profondo, da una distanza irrimediabile e silenziosa, quando poi intervenne e la conquistò. Mi chiedo anche se gli sia mai passato per la mente chi fosse quella persona sfortunata, ”
-
-“Mi chiedo se riuscirò a dormire fino a [[motifs/night|notte]]. Comunque, chiuderò fuori il mondo con le coperte e proverò.”
-
-Il signor Grewgious attraversò la scala per raggiungere la sua stanza da letto, fredda e avvolta nella nebbia, e presto fu pronto per andare a letto. Intravedendo vagamente il proprio volto nello specchio appannato, tenne la candela vicino allo specchio per un momento.
-
-“Probabilmente qualcuno come te, che possa venire in mente a qualcuno in questo modo!” esclamò. “Dai, vai a letto, povero uomo, e smettila di blaterare!”
-
-Con questo, spense la luce, si avvolse nelle coperte e, con un altro sospiro, chiuse fuori il mondo. Eppure, negli uomini più inaspettati esistono angoli romantici ancora inesplorati. Forse anche P.J.T., quel vecchio eccentrico e sensibile, a volte parlava così, in momenti strani. Verso il 1747, probabilmente.
 
 
 
@@ -7945,50 +5550,6 @@ vaults, towers, and ruins,” returns Jasper. “You remember suggesting,
 when you brought us together, that, as a [[archetypes/lover|lover]] of the picturesque, it
 might be worth my while?”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XII.  
-Una [[motifs/night|notte]] con [[characters/durdles|Durdles]]
-
-
-Quando il signor Sapsea non ha nulla di meglio da fare, verso sera, e si rende conto che la contemplazione della propria profondità diventa un po’ monotona, nonostante l’immensità dell’argomento, spesso va a fare una passeggiata nel vicolo della [[settings/cathedral|Cattedrale]] e nelle zone circostanti. Gli piace attraversare il cimitero con un’aria di proprietario, e nutrire nel proprio cuore un sentimento simile a quello di un benevolo padrone di casa: dopo tutto, è stato generoso con quella “inquilina meritevole”, la signora Sapsea, e le ha persino assegnato pubblicamente un premio. Gli piace vedere qualche volto curioso che sbircia attraverso le sbarre del cancello, forse leggendo la sua [[forms/inscription|iscrizione]]. Se incontra uno sconosciuto che esce dal cimitero a passi veloci, è moralmente convinto che quell’uomo si stia “allontanando con il viso arrossato”, come se fosse stato chiaramente indirizzato a farlo.
-
-L’importanza di Mr. Sapsea è aumentata, poiché è diventato sindaco di Cloisterham. Senza sindaci – e ce ne sono molti – non si può negare che l’intero sistema sociale, di cui Mr. Sapsea è convinto di aver inventato le strutture fondamentali, andrebbe in pezzi. I sindaci sono stati insigniti di titoli nobiliari per i loro discorsi: macchine esplosive che sparano coraggiosamente proiettili e granate contro la “Grammatica inglese”. Anche Mr. Sapsea potrebbe “salire in alto” con un suo discorso. Alzatevi, Sir Thomas Sapsea! Ecco a cosa serve il sale della terra.
-
-Il signor Sapsea ha approfondito la conoscenza con il signor Jasper, sin dal loro primo incontro; insieme hanno condiviso porto, epitaffi, scacchi, manzo e insalata. Il signor Sapsea è stato accolto alla porta d’ingresso con grande ospitalità; in quell’occasione il signor Jasper si sedette al pianoforte e cantò per lui, deliziandolo, letteralmente. Quello che il signor Sapsea apprezza in quel giovane è che sia sempre disposto ad approfittare della saggezza degli anziani, e soprattutto che sia una persona onesta e integra. A dimostrazione di ciò, quella sera cantò al signor Sapsea non canzoni frivole o popolari tra i nemici del paese, ma brani autentici composti da re Giorgio III; inoltre lo esortò a distruggere tutte le altre isole, continenti, penisole e forme geografiche esistenti, insomma, a “spazzare via” ogni cosa tranne questa terra. In breve, fece capire chiaramente che la [[concepts/providence|Provvidenza]] aveva commesso un grave errore creando una nazione così piccola ma composta da persone coraggiose e oneste, mentre esistevano tante altre popolazioni meschine e pericolose.
-
-Il signor Sapsea, camminando lentamente in questa umida serata vicino al cimitero, con le mani dietro la schiena, alla ricerca di qualche estraneo imbarazzato e timido, gira l’angolo, e invece si trova di fronte al decano, che sta conversando con il custode del cimitero e il signor Jasper. Il signor Sapsea fa un inchino, e immediatamente si sente pervadere da un senso di reverenza molto più profondo di quello che proverebbe di fronte a qualsiasi arcivescovo di York o Canterbury.
-
-“Ovviamente intenderà scrivere un libro su di noi, signor Jasper,” disse il Decano; “scrivere un libro su di noi. Beh! Siamo molto antichi, e dovremmo davvero fare un buon libro. Non siamo così ricchi in possedimenti quanto lo siamo in anni; ma forse includerà anche questo nel suo libro, insieme ad altre cose, per attirare l’attenzione sui nostri torti.”
-
-Il signor Tope, per dovere, trova molto divertente questa situazione.
-
-“Onestamente, signore, non ho affatto l’intenzione di diventare autore o archeologo,” risponde Jasper. “È solo un capriccio mio. E anche per questo capriccio, il signor Sapsea è più responsabile di me.”
-
-“Come mai, signor Sindaco?” chiese il Decano, annuendo con un atteggiamento cordiale e riconoscitore nei confronti del suo interlocutore. “Che cosa intende dire, signor Sindaco?”
-
-“Non ne sono a conoscenza”, osserva il signor Sapsea, guardandosi intorno alla ricerca di informazioni, “di quale [[concepts/honour|onore]] il molto reverendo decano mi stia facendo menzionando”. Poi si dedica allo studio del suo documento originale, analizzandone ogni dettaglio con attenzione.
-
-“[[characters/durdles|Durdles]],” suggerisce il signor Tope.
-
-“Ahì!” echeggia il Decano; “[[characters/durdles|Durdles]], [[characters/durdles|Durdles]]!”
-
-“La [[concepts/truth|verità]] è, signore,” spiega Jasper, “che la mia curiosità verso quell’uomo fu davvero stimolata per la prima volta dal signor Sapsea. La conoscenza del signor Sapsea sull’umanità e la sua capacità di far emergere ciò che è nascosto o strano nelle persone intorno a lui, furono le cause principali per cui iniziai a prestargli maggiore attenzione: anche se, naturalmente, lo incontravo spesso. Non sareste sorpreso, signor Dean, se aveste visto il signor Sapsea interagire con lui nel suo stesso salotto, proprio come ho fatto io.”
-
-“O!” esclama Sapsea, raccogliendo la palla che gli è stata lanciata con un'ineffabile compiacenza e pompa; “sì, sì. Il Very Reverend Dean si riferisce proprio a questo? Esatto. Per caso ho fatto incontrare [[characters/durdles|Durdles]] e il signor Jasper. Considero [[characters/durdles|Durdles]] una vera personalità.”
-
-“Un personaggio, il signor Sapsea, che con pochi tocchi abili si può capovolgere completamente,” dice Jasper.
-
-“Nay, non proprio,” risponde l’uomo corpulento che gestisce l’asta. “Forse ho un po’ d’influenza su di lui; e forse conosco un po’ meglio il suo carattere. Il Very Reverend Dean dovrebbe tenere presente che io ho visto molto del mondo.” A questo punto, il signor Sapsea si allontana leggermente dal Dean per esaminare i suoi bottoni della giacca.
-
-“Beh!”, dice il Decano, guardandosi intorno per vedere cosa ne è stato del suo copista: “Spero, signor Sindaco, che utilizzerete la vostra erudizione e conoscenza su [[characters/durdles|Durdles]] al fine di esortarlo a non rompere il collo del nostro stimato e rispettato Maestro del Coro; non possiamo permettercelo: la sua testa e la sua voce sono troppo preziose per noi.”
-
-Il signor Tope è di nuovo molto divertito; dopo essersi lasciato travolgere da risate riverenti, si calma in un mormorio deferente, sottolineando che sicuramente qualsiasi gentiluomo considererebbe un piacere e un [[concepts/honour|onore]] farsi rompere il collo in cambio di un complimento proveniente da una persona del genere.
-
-“Me ne occuperò io stesso, signore,” dichiara Sapsea con aria sprezzante, “per garantire la sicurezza del collo di Mr. Jasper. Dirò a [[characters/durdles|Durdles]] di fare attenzione. Lui ascolterà ciò che _io_ dico. In che modo è attualmente in pericolo?” chiede, guardandosi intorno con aria di magnanimo protettore.
-
-“Solo intraprendendo un'escursione notturna con [[characters/durdles|Durdles]] tra tombe, caverne, torri e rovine,” risponde Jasper. “Ricordi che quando ci hai presentati, hai suggerito che, essendo io un appassionato di luoghi pittoreschi, potesse valerne la pena?”
 
 
 
@@ -8135,81 +5696,6 @@ sudden smile upon his face, lays the palm of his hand upon the breast
 of [[characters/durdles|Durdles]], stopping him where he stands.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Me lo ricordo!” risponde l’astaio. E quel ridicolo serio crede davvero di ricordarselo.
-
-“Avvalendomi del tuo suggerimento,” prosegue Jasper, “ho avuto alcune conversazioni con quel straordinario vecchio signore, e stasera andremo insieme a fare un’escursione notturna in giro per i dintorni.”
-
-“Eccolo qui,” dice il Decano.
-
-[[characters/durdles|Durdles]], con il suo pacchetto di cibo in mano, si avvicina a loro con passo strascicato. Avanzando ancora, quando vede il Decano, si toglie il cappello e se lo mette sotto il braccio per andarsene, ma il signor Sapsea lo ferma.
-
-“Assicurati di prenderti cura del mio amico”, è l’ordine che il signor Sapsea gli dà.
-
-“Qual è il tuo amico che è morto?” chiede [[characters/durdles|Durdles]]. “Non sono arrivati ordini riguardanti alcun tuo amico.”
-
-“Intendo quel mio caro amico lì.”
-
-“Ohimè?”, dice [[characters/durdles|Durdles]]. “Lui sa badare a se stesso, no, signor Jarsper?”
-
-“Ma tu te ne prendi anche cura lui, vero?” dice Sapsea.
-
-Chi viene squadrato con aria sprezzante da [[characters/durdles|Durdles]] dalla testa ai piedi, con un tono autoritario nel suo modo di parlare.
-
-“Con la sottomissione al Vostro Onore il Decano, se vi occuperete di ciò che vi riguarda, signor Sapsea, anche [[characters/durdles|Durdles]] si occuperà di ciò che lo riguarda.”
-
-“Sei di cattivo umore,” dice il signor Sapsea, facendo l’occhiolino al gruppo per mostrare quanto abilmente riuscirà a gestirlo. “Mi preoccupo per mio amico, e il signor Jasper è mio amico. E tu sei anche tuo amico.”
-
-“Non iniziare a prendere cattive abitudini di vantarti,” ribatte [[characters/durdles|Durdles]], facendo un serio cenno di avvertimento. “Ti farà male.”
-
-[Illustrazione: [[characters/durdles|Durdles]] avverte il signor Sapsea di non vantarsi.]
-
-“Sei di cattivo umore,” dice di nuovo Sapsea; arrossisce, ma poi si unisce di nuovo al gruppo.
-
-“Lo ammetto,” risponde [[characters/durdles|Durdles]]; “Non mi piacciono le libertà eccessive.”
-
-Il signor Sapsea fa un terzo cenno d’intesa alla compagnia, come per dire: “Credo che concorderete con me sul fatto che abbia risolto _il suo_ problema”; poi se ne va, lasciando la controversia alle spalle.
-
-[[characters/durdles|Durdles]] saluta quindi il preside con un buonasera e, mettendosi il cappello, aggiunge: “Mi troverà a [[motifs/home|casa]], signor Jarsper, come concordato; vado a [[motifs/home|casa]] a pulirmi”, per poi allontanarsi rapidamente dalla vista. Questo andare a casa per pulirsi rappresenta uno di quei compromessi incomprensibili di quell’uomo con i fatti ineluttabili: lui, il suo cappello, le sue scarpe e i suoi vestiti non mostrano mai traccia di pulizia, rimanendo sempre nella stessa condizione di [[motifs/dust|polvere]] e sporcizia.
-
-Il lampionaio, ora, illumina la tranquilla stradina con piccoli raggi di luce; sale e scende rapidamente lungo la sua piccola scala. Quella scala, sotto l’“sacra ombra” di qualcosa di cui le generazioni precedenti avevano fatto a meno senza problemi. Un intero quartiere come Cloisterham si sarebbe spaventato all’idea di abolirla. Il decano si ritira per cena, il signor Tope per il tè, e il signor Jasper al pianoforte. Lì, illuminato soltanto dal fuoco, lui siede e canta musica corale con una voce bassa e bellissima, per due o tre ore. Fino a quando non cala la notte e la luna inizia ad alzarsi.
-
-Poi chiude dolcemente il pianoforte, indossa un cappotto leggero al posto del suo abito normale; nella tasca più grande ha una bella bottiglia avvolta in paglia. Si mette anche un cappello a tesa bassa e usce silenziosamente. Perché si muove così in silenzio di notte? Non sembra esserci alcuna ragione evidente. Forse c’è qualche motivo nascosto, segreto, dentro di lui?
-
-Riparando la casa incompleta di [[characters/durdles|Durdles]] o il buco nel muro della città, e vedendo una luce all’interno, lui sceglie con cautela il percorso tra le lapidi, i monumenti e i blocchi di pietra del cortile, già sfiorati qua e là dal crescente [[motifs/moon|luna]]. I due lavoratori hanno lasciato le loro grandi seghe conficcate nei blocchi di pietra; e forse due “spettri” tra i lavoratori appartenenti alla “Danza della Morte” potrebbero sorridere nell’ombra delle loro capanne, pronti a iniziare il lavoro per tagliare le lapidi delle prossime due persone destinate a morire a Cloisterham. Probabilmente ora quei due non ci pensano più, essendo ancora vivi e forse anche felici. Curioso, proviamo a indovinare chi siano, o meglio, uno dei due!
-
-“Ho vinto! [[characters/durdles|Durdles]]!”
-
-La luce si muove, e lui appare insieme ad essa alla porta. Sembra che si sia “pulito” utilizzando una bottiglia, un giuggiole e un bicchiere; infatti non ci sono altri strumenti per la pulizia visibili nella stanza di mattoni nudi, con travi sul soffitto e senza soffitto intonacato, dove mostra il suo visitatore.
-
-Sei pronto?
-
-“Sono pronto, signor Jarsper. Lasciate che quegli vecchi vengano fuori se osano. Quando andremo tra le loro tombe, il mio spirito è pronto per affrontarli.”
-
-“Intendi gli spiriti animali, o quelli appassionati?”
-
-“Uno è l’altro,” risponde [[characters/durdles|Durdles]], “e intendo entrambi.”
-
-Prende una lanterna da un gancio e mette uno o due fiammiferi in tasca, per accenderla se necessario; poi escono insieme, con il pacchetto del cibo e tutto il resto.
-
-Certamente una spedizione del tutto insensata! Quel [[characters/durdles|Durdles]], che se ne va sempre in giro tra vecchie tombe e rovine, come un fantasma. Che si metta a scalare, tuffarsi e vagabondare senza alcun scopo preciso non è certo nulla di straordinario; ma che il direttore del coro o chiunque altro ritenga opportuno seguirlo e studiare gli effetti creati dalla luce della luna in sua compagnia, beh, quella sì che è una cosa davvero inspiegabile.
-
-“Attenzione a quel tumulo vicino al cancello del cortile, signor Jarsper.”
-
-“Lo vedo. Cos’è?”
-
-“Lime.”
-
-Il signor Jasper si ferma e aspetta che lo raggiunga, perché lui è indietro.  
-“Quello che tu chiami calce viva, ”
-
-“Ahia!” dice [[characters/durdles|Durdles]]; “abbastanza veloce da mangiarsi le proprie scarpe. Con un po’ di aiuto, addirittura abbastanza veloce da mangiarsi anche le ossa.”
-
-Proseguirono, superando presto le finestre rosse del “Travellers’ Twopenny” e uscendo nella chiara luce lunare del “Monks’ Vineyard”. Dopo aver attraversato questo luogo, arrivarono alla “Minor Canon Corner”: la maggior parte di essa rimaneva nell’[[archetypes/shadow|ombra]] fino a quando la [[motifs/moon|luna]] non si fosse alzata più in alto nel cielo.
-
-Il suono di una porta che si chiude raggiunge le loro orecchie, e due uomini escono. Sono il signor Crisparkle e Neville. Jasper, con un sorriso strano e improvviso sul viso, appoggia la palma della mano sul petto di [[characters/durdles|Durdles]], fermandolo dove si trova.
-
 
 
 <span class="atom-split" data-atom="chapter_13--part_03" data-title="The Mystery of Edwin Drood — Chapter 12 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/dust,motif/fire,motif/garden,motif/ghosts,motif/night,motif/noon,motif/time,form/fragment,setting/cathedral,character/durdles,character/dwarf,character/edwin_drood"></span>
@@ -8320,30 +5806,6 @@ been taken out; but this is not ascertainable through the sense of
 sight, since neither can descry the other. And yet, in talking, they
 turn to one another, as though their faces could commune together.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-In quel punto della rientranza del Minor Canon Corner, l’[[archetypes/shadow|ombra]] è molto densa, data la situazione attuale della luce; anche lì c’è un pezzo di vecchia muraglia bassa, alta all’altezza del petto, l’unica traccia rimasta di ciò che un tempo era un [[motifs/garden|giardino]], ma che ora funge da passaggio. Jasper e [[characters/durdles|Durdles]] avrebbero potuto demolire quella muraglia in un attimo; invece si sono fermati lì, fermandosi dietro di essa.
-
-“Quei due stanno solo passeggiando,” sussurra Jasper; “tra poco usciranno nella luce della luna. Diamo il silenzio qui dentro, altrimenti ci tratterranno, o vorranno unirsi a noi, o chissà cosa.”
-
-[[characters/durdles|Durdles]] annuisce in segno di assenso e si mette a masticare alcuni frammenti del suo pacchetto. Jasper incrocia le braccia sul bordo del muro e, appoggiandovi il mento, osserva la scena senza prestare alcuna attenzione al “Minor Canon”, ma fissando Neville come se avesse il dito sul grilletto di un fucile carico e stesse per sparare. Sul suo viso si legge una tale intensità di potere distruttivo che persino [[characters/durdles|Durdles]] smette di masticare e lo guarda, con qualcosa ancora non digerito in bocca.
-
-Nel frattempo, il signor Crisparkle e Neville camminano avanti e indietro, parlando sottovoce tra loro. Non si riesce a sentire ciò che dicono in modo continuo; tuttavia, il signor Jasper ha già menzionato il proprio nome più di una volta.
-
-“Questo è il primo giorno della settimana,” si può sentire chiaramente il signor Crisparkle osservare mentre tornano indietro; “e l’ultimo giorno della settimana è la vigilia di Natale.”
-
-“Può contare su di me, signore.”
-
-Gli echi in quei punti erano favorevoli, ma man mano che i due si avvicinavano, il suono delle loro voci diventava di nuovo confuso. La parola “fiducia”, frammentata dagli echi ma ancora possibile da ricomporre, fu pronunciata dal signor Crisparkle. Mentre si avvicinavano ulteriormente, si udì questo [[forms/fragment|frammento]] di risposta: “Non ancora meritato, ma lo sarà, signore.” Quando si allontanarono di nuovo, Jasper sentì nuovamente il proprio nome menzionato da Crisparkle: “Ricordate che ho detto di rispondere per voi con fiducia.” Poi il suono delle loro voci si confuse ancora; si fermarono per un momento, e successivamente Neville intervenne con azioni decise. Quando ripresero a muoversi, videro il signor Crisparkle alzare lo sguardo verso il cielo e indicare qualcosa davanti a sé. Poi scomparvero lentamente, dissolvendosi nella luce della luna all’altra estremità dell’angolo.
-
-Solo quando se ne sono andati, il signor Jasper si muove. Poi si gira verso [[characters/durdles|Durdles]] e scoppia a ridere. [[characters/durdles|Durdles]], che ha ancora quella cosa sospesa sulla guancia e non vede nulla di divertente, lo fissa fino a quando il signor Jasper non appoggia il viso sulle braccia per poter ridere liberamente. A quel punto, [[characters/durdles|Durdles]] chiude quella cosa, come se si arrendesse disperatamente all’indigestione.
-
-In quei luoghi isolati, dopo il calare della [[motifs/night|notte]] non c’è quasi alcun movimento o attività. Anche durante le ore di massimo traffico diurno non succede molto, ma di [[motifs/night|notte]] è praticamente nulla. Inoltre, la vivace High Street corre quasi parallela a quella zona (con l’antica [[settings/cathedral|Cattedrale]] che si erge tra le due), e rappresenta il principale percorso attraverso cui si svolge la vita quotidiana di Cloisterham. Tuttavia, dopo il buio, un silenzio inquietante avvolge quei luoghi antichi, i chiostri e il cimitero. Poche persone desiderano trovarsi lì. Se chiedeste a cento cittadini di Cloisterham, incontrati casualmente per strada a [[motifs/noon|mezzogiorno]], se credono negli [[motifs/ghosts|fantasmi]], vi risponderebbero di no; ma se li metteste di fronte alla scelta tra quei luoghi inquietanti e le vie affollate dai negozi, novantanove su cento preferirebbero il percorso più frequentato. La ragione di questo comportamento non deriva da alcuna superstizione locale. Anche se diverse persone hanno visto una donna misteriosa, con un [[archetypes/child|bambino]] in braccio e una corda che le pendeva dal collo, muoversi in quei dintorni. La vera spiegazione sta nel timore innato che proviamo di fronte a luoghi oscuri e solitari. E anche nella diffusa, ma quasi mai riconosciuta, convinzione che “se i morti diventassero visibili ai viventi, questi ambienti sarebbero perfetti per tale scopo, quindi io, come vivo, preferirei evitarli il più possibile”. Quindi, quando Mr. Jasper e [[characters/durdles|Durdles]] si fermano per guardarsi intorno prima di scendere nella cripta attraverso una piccola porta laterale che Durdles possiede la chiave di accesso, l’intera area illuminata dalla luna appare completamente deserta. Si potrebbe quasi pensare che il flusso della vita venga bloccato proprio da quella porta. Il mormorio delle onde si sente al di là, ma nessuna onda supera quell’arco, sopra cui la lampada di Mr. Jasper brilla di luce rossa dietro la tenda, come se quel luogo fosse una sorta di faro.
-
-Entrano, si chiudono a chiave dentro, scendono i ripidi gradini e si trovano nella Cripta. La lanterna non è necessaria, perché la luce della luna filtra attraverso le finestre prive di vetri; i telai rotti proiettano ombre sul pavimento. I pesanti pilastri che sostengono il soffitto creano zone d’oscurità, ma tra di essi ci sono strisce di luce. Su e giù per queste strisce camminano; [[characters/durdles|Durdles]] parla degli “antichi morti” su cui conta ancora di riuscire a scoprire la verità, e batte le mani contro i muri, come se quelle famiglie fossero sue amiche intime. La taciturnità di [[characters/durdles|Durdles]] viene, per il momento, superata dalla bottiglia di vino di Mr. Jasper, che circola liberamente tra loro. Intendo dire: i suoi contenuti finiscono nel corpo di Mr. [[characters/durdles|Durdles]], mentre lui si sciacqua la bocca una sola volta e butta via l’acqua.
-
-Devono salire la grande Torre. Sulle scale che li portano verso la [[settings/cathedral|Cattedrale]], [[characters/durdles|Durdles]] si ferma per riprendere fiato. Le scale sono molto buie, ma nell’oscurità riescono a vedere le strisce di luce che hanno già attraversato. [[characters/durdles|Durdles]] si siede su una scala; il signor Jasper si siede su un’altra. L’odore proveniente dalla bottiglia di vimini (che chissà come è finita nelle mani di [[characters/durdles|Durdles]]) fa capire che il tappo è stato rimosso. Ma questo non può essere verificato con la vista, poiché nessuno dei due riesce a vedere l’altro. Eppure, mentre parlano, si rivolgono l’uno all’altro, come se i loro volti potessero comunicare tra loro.
 
 
 
@@ -8467,52 +5929,6 @@ foot and speech, that he half drops, half throws himself down, by one
 of the heavy pillars, scarcely less heavy than itself, and indistinctly
 appeals to his companion for forty winks of a second each.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-“Roba davvero di qualità, signor Jarsper!”
-
-“È davvero materiale di ottima qualità, spero. L’ho comprato apposta.”
-
-“Non le mostrano, capisce? Gli anziani non le mostrano, signor Jarsper!”
-
-“Se potessero farlo, il mondo sarebbe ancora più confuso di quanto non lo sia già.”
-
-“Beh, sì, porterebbe sicuramente a un mescolarsi di cose,” convenne [[characters/durdles|Durdles]], soffermandosi su quella riflessione, come se l’idea degli [[motifs/ghosts|fantasmi]] non gli fosse mai venuta in mente prima, almeno non in termini così, “Ma pensi che possano esistere ‘[[motifs/ghosts|fantasmi]]’ di altre cose, anche se non di uomini e donne?”
-
-“Cosa, per esempio? Vasi da fiori e annaffiatoi? Cavalli e attrezzature da sella?”
-
-“No. Sounds.”
-
-“Che suona?”
-
-“Grida.”
-
-“Quali grida intendi? Sedie da riparare?”
-
-“No. Intendo dire urla. Ora vi spiego, signor Jarsper. Aspettate un attimo che sistemi bene la bottiglia.” A questo punto il tappo viene chiaramente rimosso e poi rimesso a posto. “Ecco! _Ora_ è tutto a posto! L’anno scorso, solo pochi giorni dopo, stavo facendo ciò che era giusto per quella stagione. Stavo dando alla bottiglia l’accoglienza che meritava. Quando quei ragazzi del paese mi assalirono nel loro peggior stato. Alla fine riuscii a sfuggirgli e mi rifugiai qui. E qui mi addormentai. E cosa mi svegliò? Un urlo spaventoso. Un grido terribile, seguito dal latrato di un cane. Un ululato lungo, cupo, disperato. Il tipo di suono che un cane emette quando una persona è morta. Quella fu la mia ultima vigilia di Natale.”
-
-“Cosa intendi dire?” è la risposta molto brusca, e si potrebbe dire anche aggressiva.
-
-“Voglio dire che ho fatto ricerche ovunque, e che nessun altro, se non io, ha sentito quel grido o quel ululato. Quindi dico che erano entrambi [[motifs/ghosts|fantasmi]]; anche se non so mai perché siano venuti da me.”
-
-“Pensavo che fossi un altro tipo di uomo,” dice Jasper con disprezzo.
-
-“Così ho pensato,” risponde [[characters/durdles|Durdles]] con la sua solita calma; “eppure sono stato scelto proprio per questo compito.”
-
-Jasper si era alzato all’improvviso; quando gli chiesi cosa intendesse, ora disse: “Andiamo, qui moriremo congelati; guidaci tu.”
-
-[[characters/durdles|Durdles]] obbedisce, sebbene non con grande agilità; apre la porta in cima alle scale con la chiave che ha già usato, e così emerge al livello della [[settings/cathedral|Cattedrale]], in un passaggio sul lato dell’altare. Qui, la luce lunare è così intensa che i colori delle vetrate più vicine si riflettono sui suoi volti. L’aspetto di [[characters/durdles|Durdles]], privo di sensi e con una mano viola che gli copre il viso e una macchia gialla sulla fronte, mentre tiene la porta aperta affinché il suo compagno possa seguirlo, è davvero spaventoso. Tuttavia, sopporta senza reagire lo sguardo attento del suo compagno, mentre quest’ultimo fruga nelle sue tasche alla ricerca della chiave necessaria per aprire un cancello di ferro e permetter loro di raggiungere la scala della grande torre.
-
-“Quello e la bottiglia sono abbastanza perché tu possa portarli,” dice, dando il tutto a [[characters/durdles|Durdles]]; “dammi il tuo fardello; sono più giovane e ho più fiato di te.” [[characters/durdles|Durdles]] esita per un momento tra il fardello e la bottiglia; ma dà la preferenza alla bottiglia, ritenendola di gran lunga una compagnia migliore, e lascia che il peso del fardello sia portato dal suo compagno di esplorazione.
-
-Poi salgono la tortuosa scala della grande torre, con fatica, girando e girando, abbassando la testa per evitare i gradini sovrastanti o il ruvido pilastro di pietra attorno al quale devono inerpicarsi. [[characters/durdles|Durdles]] ha acceso la sua lanterna, attirando una scintilla da quel misterioso [[motifs/fire|fuoco]] che si nasconde in tutto; guidati da questa luce, proseguono tra ragnatele e [[motifs/dust|polvere]]. Il loro cammino li conduce attraverso luoghi strani. Due o tre volte emergono in gallerie piatte e a bassa volta, da dove possono guardare giù nella navata illuminata dalla luna; e là, [[characters/durdles|Durdles]], agitando la sua lanterna, sembra far muovere le “teste” degli angeli sui travi del soffitto, come se li stesse osservando mentre avanzano. Poi entrano in scale ancora più strette e ripide; l’aria notturna inizia a soffiare su di loro, e il canto spaventato di qualche corvo precede il battito pesante delle ali in uno spazio ristretto. Infine, lasciando la loro lanterna indietro, guardano giù verso Cloisterham: un luogo incantevole alla luce della luna: le sue abitazioni in rovina e i santuari dei morti ai piedi della torre; i tetti di tegole rosse e le case di mattoni rossi dei vivi, raggruppate più in là; il [[motifs/river|fiume]] che serpeggia giù dalla nebbia all’orizzonte, come se fosse la sua sorgente. E già si percepisce, in quel fiume, una sorta di “conoscenza” inquieta del suo cammino verso il mare.
-
-Ancora una volta, un'impresa senza alcuna responsabilità. Jasper (che si muove sempre silenziosamente e senza motivo apparente) osserva la scena, soprattutto quella parte più tranquilla che è oscurata dalla [[settings/cathedral|Cattedrale]]. Ma osserva anche [[characters/durdles|Durdles]] con lo stesso interesse, e a volte [[characters/durdles|Durdles]] si rende conto dei suoi occhi attenti.
-
-Solo di tanto in tanto, perché [[characters/durdles|Durdles]] inizia a sentire sonnolenza. Proprio come gli aeronauti riducono il carico che portano quando desiderano salire, allo stesso modo [[characters/durdles|Durdles]] aumenta la quantità di liquido presente nella bottiglia di vimini per poter scendere più facilmente. Brevi sonnellini lo colgono all’improvviso, facendogli interrompere il suo discorso. A volte gli viene anche una leggera febbre; in quei momenti pensa che il terreno, così lontano sotto di lui, sia allo stesso livello della torre, e preferirebbe addirittura lasciare la torre per volare nel vuoto. Ecco in quale stato si trova quando iniziano a scendere. Proprio come gli aeronauti aumentano il proprio peso quando vogliono atterrare, anche [[characters/durdles|Durdles]] si riempie di liquido dalla bottiglia di vimini per poter scendere più agevolmente.
-
-Il cancello di ferro fu raggiunto e chiuso a chiave, ma non prima che [[characters/durdles|Durdles]] cadesse due volte e si tagliasse un sopracciglio una volta; poi scesero nuovamente nella cripta, con l’intenzione di uscire esattamente come erano entrati. Tuttavia, mentre tornavano tra quelle strisce di luce, [[characters/durdles|Durdles]] divenne così incerto nei movimenti e nel parlare che per poco non cadde; si appoggiò a uno dei pesanti pilastri, quasi altrettanto massicci di lui stesso, e chiamò il suo compagno in modo confuso, chiedendogli di aiutarlo, per soli quaranta secondi ciascuno.
 
 
 
@@ -8672,97 +6088,6 @@ Jasper goes to his gatehouse, brooding. And thus, as everything comes
 to an end, the unaccountable expedition comes to an end—for the [[motifs/time|time]].
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Se vuoi che sia così, o se devi che sia così,” risponde Jasper, “non ti lascerò qui. Prendile tu, mentre io vado avanti e indietro.”
-
-[[characters/durdles|Durdles]] si addormenta all’istante; e nel suo [[motifs/sleep|)sogno]] fa [[motifs/dreams|>sogni]] strani.
-
-Non è certo un >sogno ordinario, considerando l’immensità dei regni del mondo onirico e le meravigliose cose che vi avvengono; è soltanto straordinario per la sua insolita inquietudine e la sua incredibile realtà. [[motifs/dreams|>Sogna]] di essere sdraiato lì, addormentato, eppure di sentire i passi del suo compagno che va avanti e indietro. [[motifs/dreams|>Sogna]] che quei passi si perdano nella distanza dello [[motifs/time|tempo]] e dello [[motifs/dreams|spazio]], che qualcosa lo tocchi, che qualcosa gli cada di mano. Poi sente rumori confusi intorno a sé, e >sogna di essere completamente solo per un periodo così lungo che le strisce di luce prendono nuove direzioni mentre la [[motifs/time|luna]] prosegue nel suo corso. Dalla successiva incoscienza passa in un [[motifs/moon|>sogno]] di freddo e disagio. E si sveglia dolorosamente, rendendosi conto che le strisce di luce sono davvero cambiate, proprio come aveva sognato. E che Jasper è lì, tra di esse, battendo le mani e i piedi.
-
-“Ehi!” esclama [[characters/durdles|Durdles]], apparentemente allarmato senza motivo reale.
-
-“Finalmente sveglio?” dice Jasper avvicinandosi a lui. “Sai che i tuoi quarant’anni si sono trasformati in migliaia di anni?”
-
-“No.”
-
-“Lo pensano davvero.”
-
-“Che ore sono?”
-
-“Ascoltate! Le campane suonano nella Torre!”
-
-Suonano quattro rintocchi, e poi suona la grande campana.
-
-“Due!” gridò [[characters/durdles|Durdles]] mentre si arrampicava; “Perché non hai provato a svegliarmi, signor Jarsper?”
-
-“L’ho fatto. Avrei potuto anche provare a svegliare i morti, la tua stessa famiglia di morti, lì in un angolo.”
-
-"Mi hai toccato?"
-
-"Ti ho toccato. Sì, ti ho fatto tremare."
-
-Come ricorda [[characters/durdles|Durdles]], mentre nel sogno toccava qualcosa, guardò giù sul marciapiede e vide la chiave della porta della cripta proprio vicino al punto in cui lui stesso si trovava.
-
-“Ti ho lasciato cadere, vero?”, dice, raccogliendola e ricordando quella parte del suo sogno. Mentre si rialza in posizione eretta, o almeno il più eretto possibile, si rende conto di nuovo che il suo compagno lo sta osservando.
-
-“[[motifs/well|Beh]]?” disse Jasper sorridendo, “sei davvero pronto? Per favore, non affrettarti.”
-
-“Lasciate che mi sistemi il mio bagaglio correttamente, signor Jarsper, e poi vi seguirò.” Mentre lo rilega, si rende nuovamente conto di essere sotto osservazione attenta.
-
-“Di cosa mi sospettate, signor Jarsper?”, chiese lui con un tono di disprezzo dovuto all’alcol. “Se hanno qualche sospetto su [[characters/durdles|Durdles]], che lo dicano pure apertamente.”
-
-“Non ho alcun sospetto su di voi, mio buon signor [[characters/durdles|Durdles]]; ma sospetto che la mia bottiglia sia stata riempita con qualcosa di molto più solido di quanto entrambi pensassimo. E ho anche un altro sospetto,” aggiunge Jasper, prendendola dal marciapiede e girandola con il fondo rivolto verso l’alto, “che sia vuota.”
-
-[[characters/durdles|Durdles]] si degrada a ridere di questa situazione. Continua a sorridere anche dopo aver smesso di ridere, come se stesse rimproverando se stesso per la sua capacità di bere. Poi si avvicina alla porta e la apre. Entrambi perdono i sensi; [[characters/durdles|Durdles]] la richiude a chiave e si infila la chiave in tasca.
-
-“Mille grazie per una serata curiosa e interessante,” disse Jasper, porgendogli la mano; “puoi tornare a casa da solo?”
-
-“Certo che sì!”, risponde [[characters/durdles|Durdles]]. “Se gli offriste l’umiliazione di dover farsi mostrare la strada per tornare a [[motifs/home|casa]], lui non ci andrebbe mai.”
-
-[[characters/durdles|Durdles]] non tornava a [[motifs/home|casa]] fino al mattino;  
-E anche allora, [[characters/durdles|Durdles]] non tornava comunque a [[motifs/home|casa]].
-
-“[[characters/durdles|Durdles]] non lo farebbe mai,” disse con estrema sfida.
-
-“Allora, buona [[motifs/night|notte]].”
-
-“Buona [[motifs/night|notte]], signor Jarsper.”
-
-Ognuno va per la propria strada, quando un fischio acuto rompe il [[motifs/silence|silenzio]],  
-e si sente gridare quel gergo caratteristico.
-
-Widdy widdy wen!  
-Io, posso, uscire, adesso.  
-Widdy widdy wy!  
-Allora, non andartene, altrimenti, mi vergognerò.
-Widdy Widdy Wake-cock, un avvertimento!
-
-Subito dopo, una rapida pioggia di pietre colpisce le mura della [[settings/cathedral|Cattedrale]], e si vede quel terribile bambino danzare sotto la luce della luna.
-
-“Che cosa! Quel piccolo diavolo è lì di guardia!” grida Jasper furioso; così rapidamente svegliato e con tale violenza, sembra lui stesso un demone più anziano. “Farò scorrere il [[motifs/blood|sangue]] di quel maledetto! So che lo farò!” Noncurante del [[motifs/fire|fuoco]], che lo colpisce più volte, si lancia contro Deputy, lo afferra per il collo e cerca di trascinarlo dall’altra parte. Ma Deputy non è così facile da sconfiggere: con una intuizione demoniaca riguardo al punto più debole del suo avversario, appena afferrato per la gola, si contorce, costringendo il suo assalitore a “impiccarlo” di fatto, e inizia a soffocare, torcendosi e contorcendosi come se già stesse provando le prime agonie dell’asfissia. Non resta che lasciarlo andare. Lui si riprende immediatamente, si allontana da [[characters/durdles|Durdles]] e grida verso il suo aggressore, digrignando i denti per la rabbia e la malvagità.
-
-“Vi accecherò, per l’amor del cielo! Vi strapperò gli occhi, per l’amor del cielo! Se non avrò più la vista, picchiatemi pure!” Nel frattempo, si nascondeva dietro [[characters/durdles|Durdles]], ringhiando contro Jasper ora da questo lato, ora dall’altro: pronto, in caso venisse attaccato, a scappare in tutte le direzioni possibili; e se proprio fosse stato inseguito fino alla fine, si sarebbe prostrato nella [[motifs/dust|polvere]] gridando: “Ora, colpitemi mentre sono a terra! Fatelo!”
-
-“Non fate del male al ragazzo, signor Jarsper,” lo esorta [[characters/durdles|Durdles]] proteggendolo.  
-“Riacquistate la calma.”
-
-“Ci ha seguito fino a–[[motifs/night|notte]], quando siamo arrivati qui per la prima volta!”
-
-“Non è vero, non l’ho fatto!”, risponde il vice sceriffo, con la sua unica forma di cortese contraddizione.
-
-“Da allora, si aggira continuamente nei dintorni di noi, ”
-
-“Non è vero, non l’ho fatto,” risponde il vice sceriffo. “Sono uscito solo per prendere un po’ d’aria quando vi ho visti uscire dal Kin-freederel, ”
-
-“Non mi lasciate mai più!”
-
-(Con il solito ritmo e la [[motifs/dance|danza]], anche se schivando dietro a [[characters/durdles|Durdles]]), “non è certo colpa di nessuno, vero?”
-
-“Allora portatelo a casa,” ribatte Jasper con ferocia, sebbene si tratti di un grande sforzo da parte sua, “e lasciate che i miei occhi smettano di vedervi!”
-
-Il vice, con un altro fischio acuto che esprimeva immediatamente il suo sollievo, iniziò a lanciare pietre contro il rispettabile signor [[characters/durdles|Durdles]] con maggiore moderazione, come se si trattasse di un bue riluttante. Il signor Jasper tornò alla sua casa, immerso nei suoi pensieri. E così, quando tutto giunse al termine, anche quell’impresa insensata ebbe fine, per il momento, almeno.
-
 
 
 <span class="atom-split" data-atom="chapter_14--part_01" data-title="The Mystery of Edwin Drood — Chapter 13 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/clock,motif/dawn,motif/ghosts,motif/home,motif/love,motif/nature,motif/night,motif/silence,motif/sleep,motif/time,concept/friendship,concept/honour,concept/hope,concept/nature,concept/wonder,form/tragedy,character/edwin_drood,character/ferdinand,character/helena,character/helena_landless"></span>
@@ -8882,33 +6207,6 @@ spirit worthy of the occasion!” Then the staid street, so unwontedly
 sparkling, youthful, and fresh for a few rippling moments, ran dry, and
 Cloisterham was itself again.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XIII  
-AMBI NEI LORO MIGLIORI ASPITI
-
-
-L’istituto di Miss Twinkleton stava per immergersi in un tranquillo silenzio. Le vacanze natalizie erano imminenti. Quello che un tempo, nemmeno da parte della stessa erudita Miss Twinkleton, veniva chiamato “la metà”, ma che ora, considerato più elegante e più adatto a un ambiente scolastico, veniva definito “il termine”, sarebbe terminato il giorno dopo. Da alcuni giorni, una notevole allentamento della disciplina regnava nell’casa delle suore: i pasti venivano consumati nelle camere da letto; si tagliavano cibi con le forbici e li si passavano a vicenda con le pinze; pezzi di marmellata venivano distribuiti su piatti fatti di carta decorata; e si beveva vino di margherite da piccoli bicchieri, proprio quelli in cui la fragile Little Rickitts prendeva ogni giorno le sue gocce di medicina. Le cameriere erano state corrotte con pezzi di nastro e paia di scarpe più o meno consumate, affinché non menzionassero mai i briciole nei letti; in queste occasioni festive si indossavano gli abiti più eleganti. E la audace Miss [[characters/ferdinand|Ferdinand]] aveva persino sorpreso tutti con un vivace assolo su carta decorata, fino a quando non venne soffocata dal proprio cuscino da parte di due “giustizieri” dai capelli lunghi.
-
-Non erano questi gli unici segni di preparativi per la partenza. Iniziarono ad apparire scatole nelle camere da letto (dove normalmente non venivano utilizzate), e si verificò una quantità sorprendente di operazioni di imballaggio, decisamente sproporzionata rispetto al vero contenuto da trasportare. Regali, sotto forma di creme fredde, pomati e anche forcine, vennero distribuiti liberamente tra i presenti. Sotto il vincolo del segreto inviolabile, si scambiarono confidenze riguardo al giovane “dorato” d’Inghilterra che, si sperava, avrebbe fatto visita “a [[motifs/home|casa]]”, non appena ne avesse avuto l’occasione. La signorina Giggles (carente di sentimenti) affermò davvero di rispondere a tale omaggio facendo smorfie al giovane in questione; tuttavia, questa ragazza fu surclassata da una stragrande maggioranza di voto.
-
-L’ultima [[motifs/night|notte]] prima di una pausa, si faceva sempre attenzione a che nessuno andasse a [[motifs/sleep|>dormire]], e si cercava in tutti i modi possibili di incoraggiare l’apparizione degli [[motifs/ghosts|fantasmi]]. Tuttavia, questo accordo veniva inevitabilmente infranto: tutte le giovani signorine andavano a [[motifs/sleep|)dormire]] molto presto e si alzavano molto all’alba.
-
-La cerimonia di chiusura si tenne alle dodici in punto del giorno della partenza; quando Miss Twinkleton, sostenuta da Mrs. Tisher, organizzò una riunione nel suo appartamento (le sfere celesti erano già coperte con drappi marroni), dove sul tavolo furono trovati bicchieri di vino bianco e piatti di torta tagliata a fette sottili. Miss Twinkleton disse allora: “Signore, un altro anno è trascorso, portandoci nuovamente in questo periodo festivo in cui i primi sentimenti della nostra [[concepts/nature|natura]] iniziano a manifestarsi, ” Ogni anno Miss Twinkleton avrebbe voluto aggiungere “nel nostro petto”, ma ogni volta si fermava sulla soglia di quell’espressione, sostituendola con “nel nostro cuore”. Cuori, i nostri cuori. Ebbene, un altro anno è trascorso, signore; permetteteci di sperare che i nostri studi, ormai molto avanzati, possano portarci a nuove conquiste. E, come il marinaio sulla sua nave, il guerriero nella sua tenda, il prigioniero nella sua prigione e il viaggiatore nei suoi mezzi di trasporto, anche noi aneliamo al nostro “[[motifs/home|casa]]”. Non è forse questo ciò che diciamo, in occasioni del genere, ricordando le prime parole della commovente [[forms/tragedy|tragedia]] di Mr. Addison?
-
-“L’[[motifs/dawn|'alba]] è nuvolosa, la mattina si avvicina;
-Le nuvole dense accompagnano l’inizio della giornata,
-La grande giornata, l’importante giornata, ”
-
-
-Non proprio. Dall’orizzonte al zenit tutto era di un colore rosa; tutto profumava delle nostre relazioni e dei nostri amici. Chissà se _noi_ li troveremo prosperare come ci aspettavamo; chissà se _loro_ ci troveranno prosperare come si aspettavano! Signore, ora, con il nostro [[motifs/love|amore]] reciproco, vorremmo augurarci addio e buona fortuna fino al nostro prossimo incontro. E quando arriverà il momento di riprendere quelle attività, (in quel momento un senso generale di malinconia si diffuse tra tutti, ) beh, allora ricordiamo sempre ciò che disse quel generale spartano: parole troppo banali per essere ripetute, e a cui sarebbe superfluo fare riferimento in questo contesto.
-
-Le ancelle dell’establishment, con i loro cappelli più eleganti, portarono via i vassoi; le giovani signore sorseggiarono e masticarono delicatamente, mentre le carrozze ordinate iniziarono a intasare la strada. Poco dopo arrivò il momento degli addii: Miss Twinkleton, salutando ogni giovane signora sulla guancia, le consegnò una lettera estremamente ben scritta, indirizzata alla sua prossima amica legale, con i “più cordiali auguri di Miss Twinkleton” nell’angolo. Consegnò questa missiva con un’aria come se non avesse alcuna connessione con il conto da pagare, ma fosse piuttosto qualcosa di delicato e gioioso, una sorpresa, insomma.
-
-Rosa aveva già visto molte volte scene del genere, e sapeva così poco di qualsiasi altro [[motifs/home|luogo]] simile che si accontentava di rimanere lì dove era, anzi, era ancora più felice che mai, ora che aveva la sua ultima amica al suo fianco. Eppure, nella loro nuova [[concepts/friendship|amicizia]] c’era qualcosa di mancante, di cui Rosa non poteva fare a meno di rendersi conto. [[characters/helena-landless|Helena Landless]], essendo stata a conoscenza della rivelazione fatta dal fratello su Rosa e avendo stretto quel patto di [[motifs/silence|silenzio]] con il signor Crisparkle, evitava qualsiasi allusione al nome di [[characters/edwin-drood|Edwin Drood]]. Il motivo per cui lo faceva restava un mistero per Rosa, ma lei ne era perfettamente consapevole. Se solo avesse potuto confidarsi con [[characters/helena|Helena]], forse avrebbe potuto alleviare le proprie incertezze e dubbi. Invece, non aveva alcun modo per farlo; poteva soltanto riflettere sulle sue difficoltà e chiedersi ancora di più perché quell’evitamento del nome di Edwin continuasse, ora che sapeva – grazie a quanto le aveva detto [[characters/helena|Helena]] – che i due giovani avrebbero potuto ristabilire un buon rapporto non appena Edwin fosse tornato.
-
-Sarebbe stata una scena davvero bella: tante ragazze bellissime che baciavano Rosa nel freddo portico della Casa delle suore, e quella piccola creatura solare che spuntava fuori da lì (ignara dei volti maliziosi incisi sullo stipite e sulla grondaia che la osservavano), salutando con la mano le carrozze che si allontanavano, come se rappresentasse lo spirito della giovinezza radiosa che rimaneva in quel luogo per mantenerlo luminoso e caldo anche quando era abbandonato. La solita High Street diventava musicale con i gridi, in voci argentine: “Addio, cara Rosa!” E l’effigie del padre di Mr. Sapsea, dall’altra parte della porta, sembrava dire all’umanità: “Signori, rivolgiate la vostra attenzione a questa adorabile creatura rimasta indietro, e salutatela con un gesto degno dell’occasione!” Poi, quella strada solitamente cupa e desolata, per pochi momenti scintillava di vita, di giovinezza e di freschezza, ma poi tutto tornava alla normalità. E Cloisterham riprendeva il suo aspetto abituale.
 
 
 
@@ -9049,74 +6347,6 @@ instance of something radically amiss in the terms on which they had
 been gliding towards a life-long bondage?
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Illustrazione: “Addio, caro bocciolo di rosa”
-
-
-Se Rosebud, nella sua grotta, aspettava l’arrivo di [[characters/edwin-drood|Edwin Drood]] con un cuore pieno d’inquietudine, anche Edwin era inquieto. Nel suo caso, però, la determinazione non derivava da una forza di volontà altrettanto forte quanto quella della giovane e ingenua [[concepts/beauty|bellezza]], incoronata dalla fata che acclamava le “[[characters/queen|regine]]” dell’istituto di Miss Twinkleton. Lui aveva una [[concepts/conscience|coscienza]], e il signor Grewgious l’aveva messa in discussione. Le ferme convinzioni di quel gentiluomo riguardo a ciò che era giusto e ciò che era sbagliato in una situazione del genere non potevano essere ignorate né derise. Non avrebbero mai cambiato idea. Se non fosse stato per la cena a Staple Inn, e per l’anello che portava nella tasca del suo cappotto, sarebbe probabilmente andato al loro matrimonio senza riflettere davvero, fidandosi ciecamente che tutto sarebbe andato [[motifs/well|bene]], lasciando che le cose seguissero il loro corso. Ma quella seria riflessione su ciò che era giusto e ciò che era sbagliato lo aveva costretto a prendere una decisione. Doveva either dare l’anello a Rosa, o riprenderlo. Una volta intrapreso quel percorso, stranamente iniziò a considerare le richieste di Rosa con maggiore imparzialità di quanto avesse mai fatto prima. E si rese conto di non essere più così sicuro di sé come nei giorni precedenti.
-
-“Mi guiderò da ciò che dirà e dal modo in cui andremo d’accordo,” fu la sua decisione, mentre camminava dalla guardiola verso la Casa delle Suore. “Qualunque cosa accada, terrò a mente le sue parole e cercherò di essere fedele sia ai vivi che ai morti.”
-
-Rosa era vestita per una passeggiata; lo aspettava. Era una giornata luminosa e gelida, e la signorina Twinkleton aveva già concesso gentilmente il permesso di stare all’aperto. Così uscirono insieme, prima che fosse necessario né alla signorina Twinkleton né alla vice-sacerdotessa, la signora Tisher, offrire anche solo uno di quei soliti sacrifici al “santuario della Decenza”.
-
-“Mio caro Eddy,” disse Rosa quando uscirono dalla High Street e si trovarono tra i tranquilli sentieri nei dintorni della [[settings/cathedral|Cattedrale]] e del [[motifs/river|>fiume]]: “Devo dirti qualcosa di molto serio. Ci ho pensato per un lungo, lunghissimo [[motifs/time|tempo]].”
-
-“Voglio essere serio anche io con te, cara Rosa. Intendo davvero essere serio e sincero.”
-
-“Grazie, Eddy. Non penserai che io sia scortese se inizio ora, vero? Non penserai che parli solo a nome mio, perché parlo per primo. Non sarebbe generoso da parte mia, giusto? E so che tu sei una persona generosa!”
-
-Disse: “Spero di non essere ingiusto con te, Rosa”. Non la chiamò più “Pussy”. Mai più.
-
-“E non c’è alcuna [[concepts/fear|>paura]],” continuò Rosa, “del nostro litigio, vero?
-Perché, Eddy,” disse stringendogli il braccio, “abbiamo tante ragioni per essere molto tolleranti l’uno verso l’altro!”
-
-“Lo saremo, Rosa.”
-
-“Che bravo ragazzo! Eddy, diamo il via al cambiamento. Da oggi in poi saremo fratello e sorella.”
-
-Mai diventare marito e moglie?
-
-“Mai!”
-
-Nessuno dei due parlò più per un po’. Ma dopo quel silenzio, disse, con qualche sforzo:
-
-“Certo che so che entrambi lo abbiamo pensato, Rosa, e naturalmente sono nel dovere della [[concepts/honour|onestà]] di ammettere apertamente che l’idea non è nata da te.”
-
-“No, nemmeno con te, caro,” rispose lei, con un’onestà patetica.  
-“È qualcosa che è nato tra di noi. Tu non sei davvero felice in questo fidanzamento;  
-neanch’io lo sono. Oh, mi dispiace così tanto, ” E poi scoppiò in [[motifs/tears|lacrime]].
-
-“Mi dispiace davvero molto, Rosa. Mi dispiace profondamente per te.”
-
-“E io per te, povero ragazzo. E io per te!”
-
-Questo sentimento puro e giovane, questa gentilezza e tolleranza reciproca, portarono con sé una ricompensa: una luce dolce che sembrava illuminare la loro relazione. In quella luce, i loro rapporti non apparivano più volutti, capricciosi o falliti; diventavano qualcosa di più altruistico, onorevole, affettuoso e sincero.
-
-“Se solo lo avessimo saputo ieri,” disse Rosa asciugandosi gli occhi, “se davvero lo avessimo saputo ieri, e in molti altri giorni prima di ieri, che in quelle relazioni che non erano scelte da noi stessi ci trovavamo lontani dalla verità. Cosa potremmo fare oggi di meglio se non cercare di cambiarle? È naturale che proviamo rimorso, e vedete quanto ne proviamo entrambi; ma è molto meglio pentirsi ora che allora!”
-
-“Quando, Rosa?”
-
-“Quando sarà troppo tardi. E in quel momento saremo anche arrabbiati.”
-
-Un altro [[motifs/silence|silenzio]] calò su di loro.
-
-“E sai,” disse Rosa in modo innocente, “allora non potevi certo volermi bene; ma ora puoi sempre farlo, perché non sarò un peso per te, né una preoccupazione. Ora posso sempre amarti, e tua sorella non ti prenderà in giro o ti darà fastidio. Spesso lo facevo quando non ero tua sorella. E ti chiedo scusa per questo.”
-
-“Non lasciare che arriviamo a quel punto, Rosa. Altrimenti avrò bisogno di un perdono che non mi piace nemmeno pensare.”
-
-“No, davvero, Eddy; sei troppo duro con te stesso, mio generoso ragazzo. Siediamoci qui, fratello, su queste rovine, e lascia che ti racconti com’è andata per noi. Penso di saperlo, perché ci ho pensato molto da quando sei stato qui l’ultima [[motifs/time|volta]]. Ti piacevo, vero? Pensavi che fossi una persona carina, no?”
-
-“Tutti la pensano così, Rosa.”
-
-“Davvero lo fanno?” Increspò la fronte per un momento in pensiero, poi esclamò improvvisamente: “[[motifs/well|Beh]], ma supponiamo che lo facciano. Di certo non è stato sufficiente che tu mi considerassi solo come fanno gli altri, vero?”
-
-Il punto non era semplicemente superarlo; non era sufficiente.
-
-“Ed è proprio questo che intendo; è proprio così che sono andate le cose per noi,” disse Rosa. “Mi volevi molto [[motifs/well|bene]], eri abituato a me, e ti eri anche abituato all’idea che ci saremmo sposati. Hai accettato questa situazione come qualcosa di inevitabile, vero? Pensavi che fosse così, e quindi perché discuterne o contestarla?”
-
-Era qualcosa di nuovo e strano per lui rendersi conto così chiaramente di sé stesso, riflesso in quel bicchiere che lei teneva in mano. Aveva sempre trattato lei con superiorità, convinto della propria superiorità rispetto alla sua capacità intellettuale femminile. Ma non era forse questo un altro esempio di qualcosa di profondamente sbagliato nei termini su cui avevano iniziato a costruire una relazione destinata a durare per tutta la vita?
-
 
 
 <span class="atom-split" data-atom="chapter_14--part_03" data-title="The Mystery of Edwin Drood — Chapter 13 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/child,motif/dust,motif/flowers,motif/grave,motif/lightning,motif/nature,motif/river,motif/tears,motif/time,motif/well,concept/beauty,concept/doubt,concept/fear,concept/hope,concept/nature,form/satire,setting/london,character/edwin_drood"></span>
@@ -9254,58 +6484,6 @@ be disregarded, until, being valuable, they were sold into circulation
 again, to repeat their former round.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Tutto ciò che dico di te vale anche per me, Eddy. Se non fosse così, forse non avrei il coraggio di dirlo. La differenza tra noi è solo che, poco a poco, nella mia mente è nata l’abitudine di pensarci, invece di ignorarlo. La mia vita non è così impegnativa come la tua; non ho molte cose di cui preoccuparmi. Così ci ho pensato molto, e anche pianto molto (anche se non era colpa tua, povero ragazzo). Poi, all’improvviso, il mio tutore è venuto a prepararsi per la mia partenza dall’Casa delle suore. Ho cercato di fargli capire che non avevo ancora preso una decisione definitiva, ma ho esitato e non ci sono riuscita; lui non mi ha compresa. Ma è un uomo buono. Mi ha spiegato con grande gentilezza, ma anche con fermezza, quanto sia importante prendere in considerazione questa questione nelle nostre circostanze. Così ho deciso di parlartene non appena saremmo stati soli e [[motifs/grave|seri]]. E se ora sembro aver affrontato l’argomento con facilità, è perché l’ho fatto all’improvviso. Ma non credere che sia stato davvero facile, Eddy. Perché, oh, è stato molto, molto difficile. E mi dispiace tantissimo!”
-
-Il suo cuore si spezzò di nuovo in [[motifs/tears|lacrime]]. Lui le mise un braccio intorno alla vita e insieme camminarono lungo la riva del [[motifs/river|>fiume]].
-
-“Anche il tuo custode mi ha parlato, cara Rosa. L’ho visto prima di lasciare [[settings/london|Londra]].” La sua mano destra era posata sul petto, alla ricerca dell’anello; ma poi si fermò, pensando: “Se dovrò riprenderlo indietro, perché dovrei dirglielo?”
-
-“E questo ti ha fatto prendere la cosa più seriamente, vero, Eddy? E se non ti avessi parlato come ho fatto, tu mi avresti parlato lo stesso? Spero che tu possa dirmelo. Non mi piace che tutto dipenda da me, anche se in realtà è molto meglio per noi.”
-
-“Sì, avrei dovuto parlare; avrei dovuto raccontarti tutto; sono venuta con l’intenzione di farlo. Ma non sarei mai riuscita a parlarti come hai fatto tu con me, Rosa.”
-
-“Per favore, Eddy, non dire che lo fai in modo così freddo o scortese, se puoi evitarlo.”
-
-“Dico queste cose in modo così sensato e delicato, così saggio e affettuoso, ”
-
-“È mio caro fratello!” Gli baciò la mano con un po’ di estasi. “Le povere ragazze saranno terribilmente deluse,” aggiunse Rosa ridendo, con le gocce di rugiada che brillavano nei suoi occhi luminosi. “Se l’aspettavano così tanto, poverine!”
-
-“Ah, ma temo che sia una delusione ancora più grande per Jack,” disse Edwin Drood, sobbalzando. “Non ci avevo mai pensato a Jack, ”
-
-Il suo sguardo rapido e intenso mentre lui pronunciava quelle parole non poteva essere ricordato, proprio come un lampo di [[motifs/lightning|fulmine]] non può essere ricordato. Tuttavia sembrava che lei avrebbe potuto ricordarlo all’istante, se solo ne fosse stata in grado; infatti abbassò lo sguardo, confusa, e respirava affannosamente.
-
-“Non [[concepts/doubt|metti in dubbio]] che sia un duro colpo per Jack, vero, Rosa?”
-
-Lei rispose semplicemente, in modo evasivo e affrettato: “Perché dovrebbe farlo?” Non ci aveva pensato affatto. A suo parere, lui non aveva nulla a che fare con la questione.
-
-“Mio caro [[archetypes/child|>bambino]]! Puoi davvero pensare che qualcuno che sia così completamente assorbito da un’altra persona – per usare le parole della signora Tope, non le mie – come Jack lo è da me, possa non rimanere profondamente colpito da un cambiamento così improvviso e totale nella mia vita? Dico improvviso, perché per _lui_ sarà davvero improvviso, capisci?”
-
-Annuì due o tre volte; le sue labbra si aprirono come se stesse per dare il suo consenso. Ma non pronunciò una parola, e nemmeno il suo respiro rallentò.
-
-“Come posso dirlo a Jack?” si chiese Edwin, pensieroso. Se non fosse stato così preso da quel pensiero, avrebbe sicuramente notato la sua strana reazione. “Non avevo mai pensato a Jack. Devo dirglielo prima che lo venga a sapere chiunque. Domani e dopodomani ceniamo insieme. Vigilia di Natale e Natale stesso. Ma non potrei assolutamente rovinargli questi giorni felici. Si preoccupa sempre per me, anche per le cose più insignificanti. Questa notizia lo sconvolgerebbe sicuramente. Come posso dirglielo?”
-
-“Deve essere informato, immagino, ” disse Rosa.
-
-“Mia cara Rosa! Chi altro, se non Jack, dovrebbe essere al corrente delle nostre confidenze?”
-
-“Mio custode ha promesso di scendere, se glielo avessi chiesto per iscritto. Lo farò ora. Vuoi che gli lascio la cosa in mano?”
-
-“Un'idea geniale!” esclamò Edwin. “L’altro fiduciario. Niente di più naturale. Lui scenderà, andrà da Jack, gli racconterà ciò su cui abbiamo concordato e esporrà la nostra situazione meglio di quanto potremmo fare noi stessi. Gli ha già parlato con sincerità, sia con te che con me. E lo farà anche con Jack. È così! Non sono un codardo, Rosa. Ma a dirti la verità, ho un po’ paura di Jack.”
-
-“No, no! Non hai paura di lui!” gridò Rosa, impallidendo e stringendosi le mani.
-
-“Perché, sorella Rosa, cosa vedi dalla torre?”, le chiese Edwin, cercando di consolarla. “Mia cara ragazza, ”
-
-“Mi hai spaventato.”
-
-“Senza alcuna intenzione, ma mi dispiace tantissimo come se l’avessi fatto apposta. Potreste anche solo per un momento pensare, a causa di qualche mia frase casuale, che io abbia davvero paura di quel caro ragazzo? Intendo dire che lui soffre di certi attacchi improvvisi. L’ho visto una volta in uno di questi stati. E forse proprio una sorpresa così grande, proveniente da me, che per lui rappresento tanto, potrebbe scatenarli. Questo, ed è il segreto che volevo condividere con voi, è un altro motivo per cui il vostro tutore ha deciso di comunicarvi questa informazione. Lui è così affidabile, preciso e meticoloso che riesce sempre a far chiarezza sui pensieri di Jack in modo immediato; mentre io, invece, sono spesso impulsiva e affrettata. E, posso dire, quasi troppo femminile.”
-
-Rosa sembrava convinta. Forse, dal suo punto di vista molto diverso su “Jack”, si sentiva confortata e protetta dall’intervento del signor Grewgious tra lei e lui.
-
-E ora, la destra di [[characters/edwin-drood|Edwin Drood]] si chiuse nuovamente sul anello nella sua piccola custodia, ma ancora una volta fu trattenuta dal pensiero: “Ora è certo che dovrò restituirglielo; allora perché dovrei parlarne a lei?” Quella bella e compassionevole [[concepts/nature|>natura]] che poteva provare tanta compassione per lui, di fronte alla rovina delle loro infantili speranze di felicità insieme, e che poi, con tranquillità, si ritrovava da sola in un nuovo mondo dove poteva creare nuovi “girlandi” fatti di quelle [[motifs/flowers|>fioriture]] che quel nuovo mondo avesse da offrire, poiché le fioriture del vecchio mondo erano ormai appassite, quella natura sarebbe stata addolorata da quei gioielli pieni di tristezza; e a quale scopo? Perché dovrebbe farlo? Quei gioielli non erano altro che simboli di gioie infrante e progetti vani; nella loro stessa [[concepts/beauty|>bellezza]], rappresentavano (come avevano detto anche le persone più improbabili) quasi una crudele [[forms/satire|>satira]] delle passioni, delle speranze e dei piani dell’umanità, passioni, speranze e piani che non sono in grado di prevedere nulla, e che sono così fragili e effimeri. Lasciamo che siano. Li restituirà alla loro custode quando tornerà; a sua volta, li rimetterà nel cassetto da cui li aveva presi senza volerlo; e lì, come vecchie lettere, vecchi voti o altri ricordi di antiche aspirazioni ormai svanite, verranno ignorati, fino a quando, diventando di nuovo preziosi, non verranno nuovamente messi in vendita, per ripetere il loro stesso ciclo.
-
 
 
 <span class="atom-split" data-atom="chapter_14--part_04" data-title="The Mystery of Edwin Drood — Chapter 13 (part 4)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/chains,motif/city,motif/home,motif/night,motif/river,motif/time,motif/water,setting/cathedral,character/edwin_drood,character/helena"></span>
@@ -9393,50 +6571,6 @@ soon opened. Before going in, she gave him one last, wide, wondering
 look, as if she would have asked him with imploring emphasis: “O! don’t
 you understand?” And out of that look he vanished from her view.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Lasciali stare. Lasciate che rimangano inespressi nel suo cuore. Che sia chiaro o confuso nei suoi pensieri, giunse alla conclusione: lasciali stare. Tra l’immensa quantità di meravigliose “[[motifs/chains|catene]]” che vengono forgiate per sempre, giorno e [[motifs/night|notte]], nelle vaste officine del [[motifs/time|tempo]] e delle circostanze, c’è una catena che fu forgiata proprio in quell’istante; è fissata alle fondamenta del cielo e della terra e possiede una forza invincibile per tenere tutto insieme.
-
-Camminarono lungo il [[motifs/river|fiume]]. Iniziarono a parlare dei loro piani separati: lui avrebbe accelerato la sua partenza dall’Inghilterra, mentre lei sarebbe rimasta lì, almeno finché [[characters/helena|Helena]] fosse rimasta. A quelle povere ragazze bisognava comunicare con delicatezza la loro delusione; come primo passo preliminare, Rosa avrebbe dovuto confidarsi in Miss Twinkleton, anche prima del ritorno di Mr. Grewgious. Bisognava far capire a tutti che lei ed Edwin erano i migliori amici. Non c’era mai stata un’intesa così serena tra loro da quando erano stati promessi l’un l’altro. Eppure, da entrambe le parti esistevano delle riserve: da parte sua, il desiderio di interrompere immediatamente le lezioni con il suo maestro di musica; da parte sua, l’esistenza di vaghe speculazioni su eventuali futuri incontri con Miss Landless.
-
-La giornata luminosa e gelida si avviava verso la fine mentre camminavano e parlavano insieme. Il sole si tuffò nel [[motifs/river|fiume]] lontano dietro di loro; l’antica [[motifs/city|città]] appariva rossa davanti a loro, mentre il loro viaggio stava per concludersi. L’[[motifs/water|acqua]] mormorante gettava ombre scure sulle loro gambe quando si voltarono per lasciare le sue rive; i corvi volteggiavano sopra di loro con i loro richiami rauchi, disegnando macchie più scure nell’aria che si oscurava.
-
-“Preparerò Jack per la mia partenza imminente,” disse Edwin a bassa voce, “e aspetterò soltanto che arrivi il tuo tutore; poi me ne andrò prima che parlino insieme. Sarà meglio così, senza la mia presenza. Non pensi anche tu?”
-
-“Sì, davvero.”
-
-“Sappiamo di aver fatto la cosa giusta, vero, Rosa?”
-
-“Sì, davvero.”
-
-“Sappiamo di essere migliori, anche ora?”
-
-“E col tempo andrà molto, molto meglio.”
-
-Ancora c'era quella tenerezza persistente nei loro cuori verso le vecchie posizioni che stavano abbandonando; per questo prolungarono il loro addio. Quando arrivarono tra gli olmi vicino alla [[settings/cathedral|Cattedrale]], dove avevano seduto insieme l'ultima volta, si fermarono come se fosse stato un accordo tacito. Rosa alzò il viso verso di lui, come non aveva mai fatto in passato, perché ormai erano anziani.
-
-Addio e buona fortuna!
-
-Addio e buona fortuna!
-
-Si baciarono con passione.
-
-“Ora, per favore, portami a [[motifs/home|casa]], Eddy, e lasciami da sola.”
-
-“Non guardarti intorno, Rosa,” le disse, prendendola per il braccio e guidandola via. “Non l’hai visto, Jack?”
-
-"No! Dove?"
-
-“Sotto gli alberi. Ci ha visti mentre ci salutavamo a vicenda. Povero ragazzo. Non immagina affatto che ci siamo separati. Temo davvero che questo sia un colpo terribile per lui.”
-
-Proseguì di fretta, senza mai riposare, fino a quando non ebbero superato il cancello ed entrato in strada; una volta lì, chiese:
-
-“Ci sta seguendo? Puoi guardare senza che se ne accorga. È dietro di noi?”
-
-“No. Sì, è proprio lui! È appena svenuto sotto l’arco d’ingresso. Quel caro, premuroso vecchio signore vuole sempre tenerci d’occhio. Temo che rimarrà terribilmente deluso.”
-
-Strinse con fretta la maniglia di quella vecchia campana rauca, e il cancello si aprì subito. Prima di entrare, gli lanciò un’ultima occhiata lunga e piena di perplessità, come se volesse chiedergli con insistenza: “Oh! Non capisci davvero?” E in quell’occhiata, lui scomparve dalla sua vista.
 
 
 
@@ -9555,45 +6689,6 @@ when they have walked some distance and are turning; “you will
 understand in another moment that I cannot help referring to—what shall
 I say?—my infatuation.”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XIV.  
-Quando questi tre si rivedranno?
-
-
-La vigilia di Natale a Cloisterham. Qualche volto strano per le strade; altri volti, metà strani e metà familiari: un [[motifs/time|tempo]] erano i volti dei bambini di Cloisterham, ora sono i volti di uomini e donne che tornano dal mondo esterno a lunghi intervalli, trovando la [[motifs/city|città]] incredibilmente ridotta di dimensioni, come se non fosse stata pulita a dovere in tutto questo tempo. Per loro, il suono dell’[[motifs/clock|orologio]] della [[settings/cathedral|Cattedrale]] e il gracchiare dei corvi dalla torre della [[settings/cathedral|Cattedrale]] sembrano voci del loro passato infantile. A certuni di loro, nelle loro ultime ore lontane da casa, è capitato di immaginare che il pavimento della loro stanza fosse coperto dalle [[motifs/leaves|foglie]] autunnali cadute dagli olmi del cortile. Così i suoni fruscianti e gli odori freschi dei loro ricordi d’infanzia si risvegliano quando il percorso della loro vita è quasi giunto al termine, e l’inizio e la fine sembrano avvicinarsi sempre di più.
-
-I simboli tipici della stagione sono ovunque: bacche rosse brillano qua e là tra le strutture in legno del “Minor Canon Corner”; il signor e la signora Tope inseriscono con cura rametti di vischio nelle sculture e negli angoli delle bancarelle della [[settings/cathedral|Cattedrale]], come se li stessero infilando nei fori dei bottoni del cappotto del decano e del capitolo. Nei negozi c’è un’abbondanza di prodotti: uvetta, raisinetti, spezie, scorza candita e zucchero umido. Un’atmosfera insolita di galanteria e frivolezza pervade l’aria; si nota, ad esempio, un enorme mazzo di vischio appeso all’ingresso del negozio dell’ortolano, e anche una povera piccola “Tredicesima Torta”, decorata con la figura di un Arlecchino. Una torta così misera che si potrebbe quasi chiamarla una “Venticinquesima” o una “Quarantottesima Torta”; viene messa all’asta dal pasticcere, al prezzo di uno scellino a persona. Non mancano nemmeno le attrazioni pubbliche: l’opera in cera che aveva lasciato un profondo impatto sull’imperatore della Cina può essere ammirata, su richiesta speciale, solo durante la settimana di Natale, presso il negozio del proprietario fallito di una scuderia; inoltre, al teatro verrà rappresentata una nuova e grandiosa pantomima natalizia. Quest’ultima è annunciata dal ritratto del clown Signor Jacksonini, che reca la scritta “Come state domani?”, dipinto a dimensioni naturali, e quasi altrettanto malinconico. In breve, Cloisterham è in piena attività, anche se, da questa descrizione, si escludono ovviamente la scuola superiore e Miss Twinkleton. Gli studenti della prima sono tornati a [[motifs/home|casa]], ognuno di loro innamorato di una delle giovani signore di Miss Twinkleton (che però non ne sa nulla, ); mentre le ancelle di quest’ultima appaiono occasionalmente alle finestre del suo palazzo. Si nota, tra l’altro, che queste ragazze diventano, entro i limiti della decenza, un po’ più vivaci quando vengono incaricate di rappresentare concretamente il proprio sesso, rispetto a quando condividono questa responsabilità con le altre giovani signore di Miss Twinkleton.
-
-Tre persone devono incontrarsi alla guardiola di [[motifs/night|notte]]. Come fa ognuno di loro a superare la giornata fino a quel momento?
-
-[[characters/neville-landless|Neville Landless]], sebbene per il momento fosse stato assolto dai suoi doveri scolastici dal signor Crisparkle – la cui [[concepts/nature|natura]] fresca e vivace non era affatto insensibile ai piaceri delle vacanze – leggeva e scriveva nella sua stanza tranquilla, con grande concentrazione, fino alle due in punto del [[motifs/noon|pomeriggio]]. Poi si dedicava a sistemare la scrivania, mettere in ordine i libri e distruggere tutti i fogli sparsi. Eliminava ogni traccia di disordine, sistemava tutte le cassetti e non lasciava indietro alcuna nota o pezzo di carta, tranne quelli direttamente legati ai suoi studi. Una volta fatto ciò, si rivolgeva al suo armadio, sceglieva alcuni capi d’abbigliamento semplici – tra cui un cambio di scarpe e calze robuste per le escursioni – e li metteva in uno zaino nuovo, acquistato il giorno prima nella High Street. Nello stesso momento aveva comprato anche un bastone da passeggio pesante, con un manico robusto e tacchi di ferro. Lo provava, lo regolava per ottenere un equilibrio ottimale e lo posizionava insieme allo zaino su una sedia accanto alla [[motifs/window|finestra]]. A quel punto, tutti i suoi preparativi erano completati.
-
-Si è vestito per uscire e sta proprio per partire: ha infatti lasciato la sua stanza ed è incappato nel “Minor Canon” sulle scale, che stava uscendo dalla propria camera al piano di sopra. Quando torna indietro per prendere il suo bastone da passeggio, pensando di portarlo con sé questa volta, il signor Crisparkle, che si è fermato sulle scale, lo vede in mano a lui quando ricompare immediatamente. Glielo toglie e gli chiede sorridendo come abbia scelto proprio quel bastone.
-
-“Onestamente, non so se capisca davvero l’argomento,” risponde. “L’ho scelto per il suo valore intrinseco.”
-
-“Troppo pesante, Neville, davvero troppo pesante.”
-
-“Per riposarsi durante una lunga passeggiata, signore?”
-
-“Riposarsi su di esso?”, ripete il signor Crisparkle, assumendo la posizione di un pedone. “Non ti riposi su di esso; semplicemente rimani in equilibrio con esso.”
-
-“Con la pratica imparerò meglio, signore. Vede, non ho mai vissuto in una regione dove si cammina molto, sapete, ”
-
-“Vero,” dice il signor Crisparkle. “Fai un po’ di allenamento e poi correremo insieme per alcune decine di miglia. Non potrei lasciarti da nessuna parte in questo momento. Tornerai prima di cena?”
-
-“No, penso di no, mangiamo presto infatti.”
-
-Il signor Crisparkle gli fa un cenno di assenso deciso e lo saluta con allegria, esprimendo (non senza intenzione) totale fiducia e tranquillità.
-
-Neville ripara la >Casa delle suore e chiede che Miss Landless venga informata che suo fratello si trova lì, su appuntamento. Aspetta alla porta, senza nemmeno varcare la soglia; poiché è sotto parola di non intralciare Rosa.
-
-Sua sorella è almeno altrettanto consapevole dell’obbligo che hanno assunto da soli quanto lo sia lui, e non perde un attimo nel raggiungerlo. Si incontrano con affetto, evitano di trattenersi lì a lungo e proseguono verso le zone interne più alte del paese.
-
-“Non intendo calpestare terreni proibiti, [[characters/helena|Helena]],” dice Neville,
-dopo aver camminato per un po’ e mentre stanno voltando; “capirai tra poco che non posso fare a meno di parlare, come dovrei dire?, del mio amore non corrisposto.”
 
 
 
@@ -9731,62 +6826,6 @@ is a sharp heartache in all this, the [[concepts/vanity|vanity]] and caprice of 
 sustain that handsome figure of Miss Landless in the background of his
 mind.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-“Non sarebbe meglio che tu lo evitassi, Neville? Sai che non riesco a sentire nulla.”
-
-“Puoi sentire, mia cara, ciò che il signor Crisparkle ha ascoltato, e l’ha fatto con approvazione.”
-
-“Sì, riesco a sentire così tanto.”
-
-“Beh, è proprio così. Non solo io stesso sono turbato e infelice, ma sono anche consapevole di disturbare e interferire con le vite altrui. Come posso sapere che, se non fosse per la mia sfortunata presenza, tu e gli altri partecipanti a quella serata, tranne quel nostro gentile ospite, potreste stare tranquillamente a pranzo domani al Minor Canon Corner? Probabilmente è proprio così. Vedo anche molto chiaramente che non sono molto apprezzato da quella signora, e è facile capire quanto possa essere un ostacolo per le sue attività organizzative, soprattutto in questa stagione dell’anno, quando devo essere tenuto lontano da quella persona, e c’è una ragione precisa per cui non dovrei entrare in contatto con lei. Inoltre, ho già sollevato queste questioni molto delicatamente con il signor Crisparkle, conoscendo i suoi modi di auto-sacrificio. Ma le ho comunque sollevate. Quello su cui ho posto particolare enfasi è che sto attraversando una terribile lotta interiore, e che forse un piccolo cambiamento o una breve assenza potrebbero aiutarmi a superarla. Quindi, dato che il tempo è bello e freddo, domani mattina andrò a fare una passeggiata, e spero di evitare di intralciare chiunque, compreso me stesso.”
-
-Quando tornare?
-
-“Tra quindici giorni.”
-
-“E andare completamente da solo?”
-
-“Sto molto meglio senza compagnia; anche se ci fosse qualcun altro oltre a te ad accompagnarmi, mia cara [[characters/helena|Elena]], ”
-
-“Mr. Crisparkle è completamente d’accordo, dite?”
-
-“Del tutto. Non ne sono sicura, ma all’inizio lui era propenso a considerarlo un piano piuttosto capriccioso, uno che potesse nuocere a una mente turbata. Ma lunedì scorso di [[motifs/night|notte]] abbiamo fatto una passeggiata al chiaro di luna per parlarne con calma, e gli ho spiegato la situazione così com’è realmente. Gli ho mostrato che voglio davvero superare queste difficoltà, e che, dopo quanto è successo stasera, è sicuramente meglio che io me ne vada ora piuttosto che restare qui. Sarebbe stato difficile evitare di incontrare alcune persone mentre camminavo per le strade, il che non avrebbe portato a nulla e certamente non sarebbe stato un modo efficace per dimenticare tutto. Tra quindici giorni, quella situazione probabilmente sarà finita; e quando si ripresenterà per l’ultima volta, potrò andarmene di nuovo. Inoltre, sono davvero ottimista riguardo all’esercizio fisico regolare e alla fatica benefica. Sai che il signor Crisparkle attribuisce grande importanza a queste cose per mantenere la propria salute mentale e fisica, e che il suo giusto modo di pensare non gli permetterebbe mai di applicare regole diverse a se stesso e a me. Si è convinto della serietà delle mie intenzioni e, con il suo pieno consenso, partirò domani mattina. Partirò abbastanza presto da poter lasciare sia le strade che l’udire i campanelli quando la gente va in chiesa.”
-
-[[characters/helena|Helena]] ci pensa su e la trova una buona idea. Se il signor Crisparkle la facesse, lei lo farebbe anch'essa; ma in realtà, per conto suo, la ritiene davvero una buona iniziativa: un segno di sincera determinazione e di un attivo sforzo per migliorarsi. Le dispiace che quell’poveretto se ne vada da solo durante le grandi feste natalizie; tuttavia, ritiene che incoraggiarlo sia molto più utile. E infatti lo incoraggia.
-
-Le scriverà?
-
-Le scriverà ogni due giorni, raccontandole tutte le sue avventure.
-
-Gli manda i vestiti prima che arrivi lui?
-
-“Mia cara [[characters/helena|Elena]], no. Viaggia come una [[archetypes/pilgrim|pellegrina]], con portafoglio e bastone da viaggio. Il mio portafoglio, o meglio, il mio zaino, è già pronto; ecco qui anche il mio bastone!”
-
-Gliela porge; lei fa lo stesso commento del signor Crisparkle, che è molto pesante, e gliela restituisce chiedendogli di quale legno sia fatta. È legno di ferro.
-
-Fino a questo punto è stato estremamente allegro. Forse il dover portare con sé la sua “borsa” insieme a lei, e quindi presentarla nel suo aspetto più luminoso, gli ha sollevato lo spirito. Forse, dopo averlo fatto con successo, ora prova un senso di riluttanza. Man mano che il giorno volge al termine e le luci della [[motifs/city|>città]] iniziano ad accendersi davanti a loro, diventa sempre più depresso.
-
-“Vorrei non dover andare a questa cena, [[characters/helena|Helena]].”
-
-“Caro Neville, vale davvero la pena preoccuparsene così tanto? Pensa a quanto presto tutto sarà finito, ”
-
-“Quanto tempo mancherà ancora, ”, ripete con tristezza. “Sì. Ma non mi piace.”
-
-Potrebbe esserci un momento di imbarazzo, ma lei glielo spiega con entusiasmo, dicendogli che durerà solo per un attimo. Lui è molto sicuro di sé.
-
-“Vorrei essere altrettanto sicuro di tutto il resto quanto lo sono di me stesso,” le risponde.
-
-“Parli in modo così strano, caro. Cosa intendi dire?”
-
-“[[characters/helena|Helena]], non lo so. So solo che non mi piace. Che strana sensazione di oppressione nell’aria, ”
-
-Gli indica quelle nuvole color rame oltre il [[motifs/river|>fiume]] e dice che il [[motifs/wind|>vento]] sta aumentando di intensità. Lui quasi non parla più, fino a quando non si congeda da lei, alla porta della >Casa delle suore. Dopo essersi separati, lei non entra subito, ma rimane a guardarlo mentre si allontana lungo la strada. Due volte lui passa davanti al portone, riluttante ad entrare. Alla fine, quando l’[[settings/cathedral|>Cattedrale]] suona le dodici e un quarto, si affretta a entrare.
-
-E così _lui_ sale la scala posteriore.
-
-[[characters/edwin-drood|Edwin Drood]] trascorre una giornata solitaria. Qualcosa di molto più importante di quanto avesse pensato è scomparso dalla sua vita; e nella [[motifs/silence|silenzio]] della sua stanza, l’ultima [[motifs/night|notte]] ha pianto per questo. Sebbene l’immagine di Miss Landless continui a fluttuare nel fondo della sua mente – quella bella ragazza affettuosa, molto più forte e saggia di quanto avesse immaginato – è ancora lei ad occupare un posto preponderante nei suoi pensieri. Pensandoci, prova un certo rimorso per la propria inadeguatezza, si chiede cosa avrebbero potuto diventare l’uno per l’altro se solo in passato fosse stato più sincero, se le avesse attribuito maggiore importanza, se invece di accettare il proprio destino come qualcosa di scontato, avesse cercato il modo giusto per apprezzarlo e migliorarlo. Eppure, nonostante tutto ciò, nonostante il dolore profondo che provi, la [[concepts/vanity|vanità]] e i capricci della gioventù continuano a far sì che l’immagine di Miss Landless rimanga sempre presente nella sua mente.
 
 
 
@@ -9932,79 +6971,6 @@ She is moving away, with another “Bless ye, and thank’ee, deary!” when
 he adds: “You were to tell me something; you may as [[motifs/well|well]] do so.”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Quello sguardo di Rosa quando si separarono al cancello fu davvero curioso. Significava forse che riusciva a vedere oltre la superficie dei suoi pensieri, fino nelle loro profondità più oscure? Probabilmente no: era piuttosto uno sguardo pieno di sorpresa e di attenta curiosità. Decise che non riusciva a comprenderlo, anche se era davvero molto espressivo.
-
-Poiché ora aspetta soltanto il signor Grewgious e partirà immediatamente dopo averlo visto, si congeda lentamente dall’antica [[motifs/city|>città]] e dai suoi dintorni. Ricorda i [[motifs/time|tempi]] in cui lui e Rosa camminavano qui e lì, semplici bambini, ma già pieni della dignità di essere fidanzati. Poveri bambini! pensa, con un dolore compassionevole.
-
-Notando che il suo orologio si era fermato, entrò nella gioielleria per farlo caricare e sistemare. Il gioielliere conosceva bene un certo tipo di braccialetto e, in modo vago e senza uno scopo preciso, chiese il permesso di mostrarlo. Secondo lui, quel braccialetto sarebbe stato perfetto per una giovane sposa, soprattutto se di stile piuttosto delicato e grazioso. Tuttavia, dopo aver ricevuto un’occhiata fredda, il gioielliere attirò l’attenzione su un vassoio contenente anelli da uomo. Indicò uno specifico modello, definendolo “un sigillo molto casto”, che gli uomini amavano molto acquistare quando cambiavano condizione sociale. Un anello dall’aspetto molto serio e rispettabile, su cui era inciso anche la data del loro matrimonio; molti uomini lo preferivano a qualsiasi altro tipo di ricordo.
-
-Gli anelli vengono considerati con lo stesso distacco del braccialetto. Edwin dice al tentatore che non indossa alcun gioiello, se non l’orologio e la catena di suo padre, oltre alla spilla per la camicia.
-
-“Per quel che ne so io,” risponde il gioielliere, “poiché il signor Jasper è venuto l’altro giorno a prendere un vetro da orologio; anzi, gli ho mostrato questi oggetti, osservando che, se mai desiderasse fare un regalo a un gentiluomo suo parente in un’occasione particolare. Ma lui ha riso dicendo di avere in mente l’elenco di tutti i gioielli che quel suo parente aveva mai indossato: cioè il suo orologio e la sua catena, nonché il fermaglio per la cravatta.” Comunque (riflette il gioielliere), questo potrebbe non valere sempre, anche se al momento attuale sembra applicabile. “Alle due e venti minuti, ho regolato il vostro orologio, signor Drood. Vi consiglio di non lasciarlo scadere, per favore.”
-
-Edwin prende il suo orologio, se lo mette e esce, pensando: “Caro vecchio Jack. Se facessi un’altra piega nel mio fazzoletto da collo, lui penserebbe che sia degno di nota!”
-
-Vaga avanti e indietro, per passare il [[motifs/time|tempo]] fino all’ora di cena. Oggi, in qualche modo, Cloisterham sembra rimproverarlo; sembra trovare qualcosa da biasimare in lui, come se non l’avesse utilizzato [[motifs/well|bene]]; ma è molto più pensieroso che arrabbiato con lui. La sua solita disattenzione viene sostituita da uno sguardo malinconico e da una continua riflessione su tutti quei vecchi luoghi familiari. Presto sarà lontano, e forse non li rivedrà mai più, pensa. Povero giovane. Povero giovane!
-
-Con l’avvicinarsi del crepuscolo, cammina avanti e indietro nel vigneto dei [[characters/monks|Monaci]]. Ha percorso avanti e indietro per ben mezz’ora, mentre le campane della [[settings/cathedral|Cattedrale]] suonavano; ormai è calata la notte, quando finalmente si accorge di una donna accovacciata a terra vicino a un cancello in un angolo. Il cancello conduce a un sentiero secondario che attraversa il [[motifs/cross|crocicchio]], poco usato al buio; quella figura doveva essere lì tutto il [[motifs/time|tempo]], anche se lui se n’era reso conto solo gradualmente, negli ultimi momenti.
-
-Intraprende quel percorso e si avvicina al wicket. Alla luce di una lampada vicina, vede che la donna ha un aspetto emaciato; il suo mento incavato poggia sulle mani, e i suoi occhi fissano qualcosa davanti a lei con uno sguardo immobile, cieco, determinato.
-
-Sempre gentile, ma quella sera ancora più particolarmente premuroso, e dopo aver rivolto parole di incoraggiamento alla maggior parte dei bambini e delle persone anziane che aveva incontrato, si china immediatamente e parla con questa donna.
-
-“Sei malato?”
-
-“No, caro,” risponde lei, senza guardarlo, mantenendo quel suo strano sguardo vuoto e fisso.
-
-“Sei cieco?”
-
-"No, caro."
-
-“Sei perso, senza fissa dimora, stai male? Che cosa ti è successo, perché resti qui nel freddo per così tanto tempo, senza muoverti?”
-
-Con sforzi lenti e goffi, sembra riuscire a concentrare la sua vista su di lui; poi un velo strano le passa sul viso e inizia a tremare.
-
-Si raddrizza, fa un passo indietro e la guarda con orrore e meraviglia; sembra infatti conoscerla.
-
-“Mio Dio!”, pensò subito dopo. “Proprio come Jack quella [[motifs/night|notte]], ”
-
-Mentre lui la guarda giù, lei alza lo sguardo su di lui e singhiozza: “I miei polmoni sono deboli, sono davvero molto malati. Povera me, povera me, il mio rantolo è terribile!” E poi tossisce, per confermare quanto dice.
-
-"Dove vieni?"
-
-“Di [[settings/london|Londra]], caro.” (Il suo colpo di tosse continuava a tormentarla.)
-
-“Dove stai andando?”
-
-“Torna a [[settings/london|Londra]], caro mio. Sono venuto qui cercando un ago in un pagliaio, ma non l’ho trovato. Ascolta, dammi tre penny e sei centesimi, e non preoccuparti per me. Tornerò a [[settings/london|Londra]] e non darò fastidio a nessuno. Ho un lavoro. Ah, povero me! I tempi sono duri, molto duri, ma riesco comunque a tirare avanti.”
-
-Mangi l’oppio?
-
-“Fumala,” risponde con difficoltà, ancora tormentata dal suo accesso di tosse.  
-“Dammi tre scellini e mezzo, e te la preparerò [[motifs/well|bene]] e tornerò subito. Se non mi dai tre scellini e mezzo, allora nemmeno un soldo. Ma se me li dai, tesoro, ti dirò qualcosa.”
-
-Conta i soldi che ha in tasca e li mette nella sua mano. Lei li afferra immediatamente con forza e si alza in piedi, emettendo una risata rauca di soddisfazione.
-
-“Benedetti siate! Ascoltate, caro signore. Qual è il vostro nome di battesimo?”
-
-“Edwin.”
-
-“Edwin, Edwin, Edwin,” ripete lei, con una voce sempre più somnolenta; poi chiede all'improvviso: “Il nome abbreviato di quel nome è Eddy?”
-
-“A volte viene chiamato così,” risponde lui, mentre il colore inizia a comparire sul suo viso.
-
-“Non è così che voi ragazzi lo chiamate?”, chiede lei, riflettendoci.
-
-“Come potrei saperlo?”
-
-“Non hai forse un amore nel tuo [[motifs/soul|Cuore]]?”
-
-"Nessuno."
-
-Sta per andarsene, e mentre dice un altro “Che Dio vi benedica e vi ringrazi, cari!” lui aggiunge: “Avresti dovuto dirmi qualcosa. Puoi farlo anche ora.”
-
 
 
 <span class="atom-split" data-atom="chapter_15--part_04" data-title="The Mystery of Edwin Drood — Chapter 14 (part 4)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/decay,motif/night,motif/river,motif/time,motif/water,motif/well,motif/wind,concept/eternity,concept/hope,concept/self,setting/cathedral,character/edwin_drood,character/john_jasper"></span>
@@ -10148,82 +7114,6 @@ shall burn the evidence of my case, when the book is full, and begin
 the next volume with a clearer vision.”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Ero proprio così. Beh, allora. Sussurra. Dovresti essere grato che il tuo nome non sia Ned.”
-
-La guarda fissamente e le chiede: “Perché?”
-
-“Perché in questo momento è un nome davvero brutto da avere.”
-
-“Che cattiva reputazione, ”
-
-Un nome minacciato. Un nome pericoloso.
-
-“Il proverbio dice che gli uomini minacciati vivono a lungo,” le dice, con noncuranza.
-
-“Allora Ned, così minacciato com’è, ovunque si trovi in questo momento mentre parlo con te, caro, dovrebbe vivere per tutta l’[[concepts/eternity|eternità]]!” risponde la donna.
-
-Si è chinata in avanti per dirglielo all’orecchio; il suo dito indice tremava davanti ai suoi occhi. Ora si rannicchia e, dopo un altro “Beneditevi e ringraziate”, se ne va nella direzione della Casa degli Ostelli dei Viaggiatori.
-
-Non è certo un modo ispiratore per concludere una giornata noiosa. Da solo, in un luogo isolato, circondato dai resti di un’antica [[motifs/time|epoca]] e del [[motifs/decay|degrado]], queste circostanze tendono piuttosto a suscitare un brivido. Si dirige verso le strade più illuminate e, mentre cammina, decide di non parlare di tutto questo alla [[motifs/night|notte]], ma di menzionarlo domani a Jack (che lui, da solo, chiama Ned), come una semplice coincidenza. Ovviamente, soltanto come coincidenza, e non come qualcosa di davvero degno di essere ricordato.
-
-Tuttavia, quelle parole rimangono con lui, proprio come molte altre cose che meriterebbero davvero di essere ricordate non lo sono mai state. Gli resta ancora un po’ di tempo prima dell’ora di cena; e quando attraversa il ponte e passa accanto al [[motifs/river|fiume]], le parole di quella donna risuonano nel vento che si alza, nel cielo cupo, nelle acque turbolente, nelle luci tremolanti. C’è persino un eco solenne di esse nelle campane della [[settings/cathedral|Cattedrale]], che lo colpiscono con una sorpresa improvvisa quando entra sotto l’arco del portone.
-
-E così _lui_ sale la scala posteriore.
-
-[[characters/john-jasper|John Jasper]] trascorre una giornata più piacevole e allegra di entrambi i suoi ospiti. Non avendo lezioni di musica durante la stagione festiva, il suo [[motifs/time|tempo]] è completamente a sua disposizione, fatta eccezione per le funzioni in [[settings/cathedral|cattedrale]]. Si reca presto tra i negozianti, ordinando piccoli lussi da tavola che a suo nipote piacciono. Dice ai suoi fornitori che suo nipote non resterà con lui a lungo, quindi deve essere viziato e coccolato. Mentre si occupa delle sue preparazioni ospitalieri, va a fare un saluto al signor Sapsea e gli racconta che quel caro Ned, insieme a quel giovane impulsivo del signor Crisparkle, verranno a pranzo oggi alla porta di ingresso per chiarire le loro divergenze. Il signor Sapsea, invece, non nutre alcuna simpatia per quel giovane impulsivo; afferma che il suo aspetto sia “antinglese”. E una volta che il signor Sapsea dichiara qualcosa di “antinglese”, ritiene che quella cosa sia per sempre perduta nel baratro dell’ignoranza.
-
-[[characters/john-jasper|John Jasper]] è davvero dispiaciuto di sentire il signor Sapsea parlare in questo modo, perché sa molto bene che il signor Sapsea non parla mai senza un motivo preciso, e che ha l’abilità sottile di avere sempre ragione. Stranamente, anche il signor Sapsea la pensa esattamente allo stesso modo.
-
-Il signor Jasper ha una voce davvero meravigliosa oggi. Nella sua patetica supplica affinché il suo cuore si inclini a rispettare questa legge, stupisce tutti i suoi compagni con la potenza melodiosa della sua voce. Non ha mai cantato musica difficile con tale abilità e armonia come nell’inno di oggi. Il suo temperamento nervoso, però, a volte lo spinge ad affrontare queste composizioni un po’ troppo rapidamente; oggi, però, il suo tempo è perfetto.
-
-Questi risultati probabilmente vengono ottenuti grazie a una grande calma interiore. Il semplice meccanismo della sua gola è un po’ delicato, perché indossa sia durante le prove vocali che nel vestire quotidiano un grande fazzoletto nero di seta densamente tessuta, leggermente annodato intorno al collo. Ma la sua calma è così evidente che il signor Crisparkle ne parla ogni volta che escono dalle prove del coro.
-
-“Devo ringraziarti, Jasper, per il piacere che ho provato ascoltandoti oggi. Meraviglioso! Delizioso! Non avresti potuto superarti di più, spero, a meno che non fossi straordinariamente [[motifs/well|in forma]].”
-
-“Sto meravigliosamente bene.”
-
-“Niente di impari,” dice il Minore Canone, con un movimento fluido della mano: “niente di incerto, niente di forzato, niente che venga evitato; tutto eseguito in modo magistrale, con una perfetta [[concepts/self|autocontrollo]].”
-
-“Grazie. Lo [[concepts/hope|>spero]], se non è troppo chiedere.”
-
-“Si potrebbe pensare, Jasper, che tu stessi provando un nuovo farmaco per quella tua occasionale indisposizione, ”
-
-“Davvero? È un'osservazione davvero [[motifs/well|intelligente]]; infatti, anch’io la penso così.”
-
-“Allora continua così, caro amico,” disse il signor Crisparkle, dandogli una pacca sulla spalla con un incoraggiamento cordiale, “continua così.”
-
-“Lo farò.”
-
-“Vi congratulo,” continua il signor Crisparkle mentre escono dalla [[Cathedral|[Cattedrale]], “per tutto quanto.”
-
-“Grazie ancora. Se non vi dispiace, vi accompagnerò fino all’angolo; ho molto [[motifs/time|tempo]] prima che arrivi la mia compagnia, e voglio dirvi qualcosa che penso non vi dispiacerà ascoltare.”
-
-“Che cos’è?”
-
-“Beh. L’altra sera stavamo parlando dei miei umori neri.”
-
-Il viso del signor Crisparkle si rabbuia, e scuote la testa con disapprovazione.
-
-“Ho detto che avrei dovuto creare un antidoto a quei umori negativi; e tu hai risposto sperando che li mandassi alle fiamme.”
-
-“E io continuo a sperarlo, Jasper.”
-
-“Con la migliore ragione del mondo. Intendo bruciare il diario di quest’anno alla fine dell’anno.”
-
-“Perché tu,?” Il signor Crisparkle si illumina molto mentre inizia a dire così.
-
-“Mi precedi nei pensieri. Perché ho la sensazione di non stare bene: sono cupo, irritabile, come se qualcosa mi opprimesse nella mente. Hai detto che ero esagerato. E allora, forse lo sono davvero.”
-
-Il viso sorridente del signor Crisparkle si illumina ancora di più.
-
-“Allora non riuscivo a vederlo chiaramente, perché non mi sentivo bene; ma ora sto meglio e lo ammetto con vera gioia. Ho ottenuto molto da poco. Questo è il fatto.”
-
-“Mi fa bene”, esclama il signor Crisparkle, “sentirti dire queste parole!”
-
-“Un uomo che conduce una vita monotona,” prosegue Jasper, “e il cui sistema nervoso o il cui stomaco vanno in tilt, si sofferma su un’idea fino a quando questa perde le sue proporzioni. È stato proprio questo il mio caso riguardo all’idea in questione. Quindi, quando il libro sarà completo, brucerò tutte le prove relative a questa idea e inizierò il volume successivo con una visione più chiara.”
-
 
 
 <span class="atom-split" data-atom="chapter_15--part_05" data-title="The Mystery of Edwin Drood — Chapter 14 (part 5)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/monster,motif/clock,motif/dust,motif/night,motif/river,motif/stars,motif/storm,motif/time,motif/well,motif/wind,motif/window,motif/winter,concept/body,concept/hope,setting/cathedral,character/durdles,character/edwin_drood"></span>
@@ -10332,54 +7222,6 @@ There is no more looking up at the tower, now. All the assembled eyes
 are turned on Mr. Jasper, white, half-dressed, panting, and clinging to
 the rail before the Minor Canon’s house.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-“È molto meglio di quanto potessi sperare,” dice il signor Crisparkle, fermandosi ai gradini della sua porta per stringere la mano.
-
-“Perché, naturalmente,” risponde Jasper. “Avevi ben poche ragioni per [[concepts/hope|>sperare]] che io diventassi più simile a te. Tu ti addestri sempre a essere, sia nello spirito che nel [[concepts/body|-corpo]], chiaro e limpido come il cristallo; sei sempre così, e non cambierai mai; mentre io sono solo una pianta sporca, solitaria e malinconica. Comunque, ho superato questa malinconia. Devo aspettare mentre tu chiedi se il signor Neville sia già andato al mio posto? Se no, potremmo passeggiare insieme.”
-
-“Penso,” disse il signor Crisparkle, aprendo la porta d’ingresso con la sua chiave, “che se ne sia andato da un po’ di tempo; almeno so che se n’è andato, e credo che non sia tornato. Ma controllerò. Non vuole entrare?”
-
-“La mia compagnia aspetta,” disse Jasper, sorridendo.
-
-Il “Minor Canon” scompare, per poi riapparire dopo pochi momenti. Come pensava, il signor Neville non era ancora tornato; anzi, ora che se ne ricordava, il signor Neville aveva detto che probabilmente sarebbe andato direttamente alla guardiola d’ingresso.
-
-“Cattive maniere da parte di un ospite!” dice Jasper. “La mia compagnia arriverà prima di me! Scommettete quanto che non troverò la mia compagnia abbracciata a qualcun altro?”
-
-“Scommetterei – anzi, lo farei senz’altro se decidessi di scommettere – che stasera la vostra compagnia avrà un intrattenitore divertente,” risponde il signor Crisparkle.
-
-Jasper annuisce e ride felicemente di notte.
-
-Ripercorre i suoi passi fino alla porta della [[settings/cathedral|Cattedrale]] e prosegue oltre, verso il cancello d’ingresso. Cammina cantando, a bassa voce e con espressione delicata; sembra davvero che nessun errore nel canto sia in suo potere commettere. Di [[motifs/night|notte]], nulla può né accelerare né ritardare il suo passo. Arrivato così sotto l’arco d’ingresso della sua dimora, si ferma un attimo per togliersi quel grande sciarpo nero e avvolgerlo a mo’ di braccialetto intorno al braccio. Per quel breve [[motifs/time|momento]], il suo volto appare serio e grave. Ma subito dopo riprende a cantare, e prosegue per la sua strada.
-
-E così _lui_ sale la scala posteriore.
-
-La luce rossa brilla costantemente per tutta la sera nel faro, situato ai margini di quella vita frenetica. Suoni dolci e il rumore del traffico lo attraversano, diffondendosi in modo irregolare nelle zone solitarie circostanti; ma poco altro vi passa, se non violenti raffiche di [[motifs/wind|vento]] che soffiano con forza.
-
-I quartieri non sono mai particolarmente ben illuminati; ma i forti colpi di [[motifs/wind|>vento]] che spengono molte delle lampade (in alcuni casi rompendo anche gli armadietti e facendo cadere il vetro a terra) rendono l’oscurità ancora più intensa di notte. Questa oscurità viene ulteriormente aumentata e resa confusa dal polvere che si alza dalla terra, dai rami secchi degli alberi e dai grandi frammenti provenienti dai nidi dei corvi sulle torri. Gli stessi alberi, scossi violentemente da questo vortice di oscurità, sembrano essere in pericolo di essere strappati dalla terra; di tanto in tanto, un crepaccio o il rumore di un ramo che si spezza indicano che qualche grosso ramo ha ceduto sotto la forza della [[motifs/storm|tempesta]].
-
-Non c'era stata una tale forza del [[motifs/wind|vento]] da molti [[motifs/winter|inverni]], nelle molte [[motifs/night|notti]]. I comignoli crollavano per le strade, e la gente si aggrappava a colonne, angoli e l'uno all'altro per non cadere. Le raffiche violente non diminuivano, anzi aumentavano di frequenza e intensità fino a mezzanotte, quando le strade rimanevano deserte. La [[motifs/storm|tempesta]] si scatenava con tuoni e fulmini, strappando via tutte le serrature e gli scuri, come se volesse esortare la gente ad alzarsi e seguirla, piuttosto che lasciare che i tetti crollassero loro addosso.
-
-Tuttavia, il semaforo rosso continua a lampeggiare regolarmente. Niente è stabile, tranne il semaforo rosso.
-
-Per tutta la [[motifs/night|notte]] il [[motifs/wind|>vento]] soffia senza sosta. Ma all'alba, quando a est c’è appena abbastanza luce per offuscare le [[motifs/stars|stelle]], inizia a calmarsi. Da quel momento, con qualche ultima raffica violenta, come un [[archetypes/monster|mostro]] ferito che muore, il vento diminuisce gradualmente fino a cessare del tutto; al pieno giorno è completamente fermo.
-
-Si vede allora che le lancette dell’orologio della [[settings/cathedral|Cattedrale]] sono state strappate via; il cavo che partiva dal tetto è stato rimosso, arrotolato e portato dentro l’area chiusa attorno alla cattedrale; inoltre, alcune pietre presenti sulla sommità della grande torre si sono spostate. Nonostante sia mattina di Natale, è necessario inviare dei lavoratori per verificare l’entità dei danni causati. Questi, guidati da [[characters/durdles|Durdles]], salgono in alto; intanto, il signor Tope e un gruppo di persone oziose si radunano nel vicolo denominato Minor Canon Corner, proteggendosi gli occhi con le mani e osservando la loro azione dall’alto.
-
-Questo gruppo si disperde improvvisamente, messo da parte dalle mani del signor Jasper; tutti gli sguardi sono rivolti verso il basso quando lui, ad alta voce, interroga il signor Crisparkle, davanti a una finestra aperta.
-
-"Dove è mio nipote?"
-
-“Non è mai stato qui. Non è con te?”
-
-“No. È andato giù al [[motifs/river|>fiume]] la scorsa [[motifs/night|notte]], con il signor Neville, per osservare la [[motifs/storm|>tempesta]], e non è ancora tornato. Chiamate il signor Neville!”
-
-“Se n’è andato questa mattina, presto.”
-
-“Se ne è andato presto stamattina? Lasciami entrare! Lasciami entrare!”
-
-Ora non c’è più bisogno di guardare verso la torre; tutti gli sguardi sono rivolti a Mr. Jasper: pallido, semi-nudo, ansimante, che si aggrappa alla ringhiera davanti alla casa del Minor Canon.
 
 
 
@@ -10508,58 +7350,6 @@ were among the group; and its central figures were Mr. Jasper and Mr.
 Crisparkle. Neville’s conductors took him up to the Minor Canon, and
 there released him, as an act of deference to that gentleman.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XV.  
-IMPUTATO DI REATO
-
-
-[[characters/neville-landless|Neville Landless]] aveva iniziato così presto e camminava a un passo così veloce che, quando le [[motifs/bells|campane]] della chiesa di Cloisterham cominciarono a suonare per la funzione mattutina, lui si trovava già a otto miglia di distanza. Poiché voleva fare colazione entro quell’orario, e avendo partito con solo un pezzo di pane, si fermò alla prima taverna che incontrò lungo la strada per riposarsi e rifocillarsi.
-
-I visitatori che desideravano colazione – a meno che non fossero cavalli o mucche, per i quali c’era già abbastanza preparato in termini di mangimi e [[motifs/water|acqua]] – erano davvero molto rari presso il “The Tilted Wagon”, tanto che ci volle molto [[motifs/time|tempo]] prima che il carro potesse servire tè, toast e bacon. Nel frattempo, Neville, seduto in una sala rivestita di sabbia, si chiedeva quanto [[motifs/time|tempo]] sarebbe passato prima che il [[motifs/fire|fuoco]], alimentato da legna umida, iniziasse a riscaldare qualcun altro dopo la sua partenza.
-
-Infatti, The Tilted Wagon, essendo un locale piuttosto originale situato sulla cima di una [[motifs/hill|collina]], presentava molte caratteristiche particolari: il terreno davanti all’ingresso era coperto di pozzanghere lasciate dalle zampe umide e dall’erba calpestata; nella bar, la padrona di casa rimproverava un bambino con una calza rossa e l’altra ancora indossata; il formaggio veniva riposto su uno scaffale insieme a tovaglie muffite e coltelli dal manico verde, in un ambiente che ricordava una canoa di ferro; i pani, dall’aspetto pallido, lasciavano cadere briciole sul pavimento; la biancheria da letto, metà lavata e metà asciutta, sembrava “vivere” in modo pubblico, sparsa ovunque. Tutto ciò rendeva The Tilted Wagon ben lontano dall’adempire alla promessa di offrire intrattenimento di qualità sia agli uomini che agli animali. Tuttavia, in questo caso, gli uomini non erano troppo critici: accettavano qualsiasi tipo di divertimento fosse disponibile e poi se ne andavano, dopo aver riposato più a lungo del necessario.
-
-Si fermò a circa un quarto di miglio dalla >casa, esitando se seguire la [[motifs/road|strada]] o una strada sterrata tra due alte siepi, che attraversava il pendio di una brughiera soffiata dal vento; evidentemente, dopo un po' quella strada sterrata si immetteva nuovamente nella [[motifs/road|strada]] principale. Decise di seguire quest'ultima e proseguì con qualche difficoltà: il pendio era ripido e il sentiero era pieno di solchi profondi.
-
-Proseguiva il suo cammino quando si rese conto che c'erano altri pedoni dietro di lui. Poiché si avvicinavano più velocemente di lui, si fermò accanto a uno dei bordi alti del sentiero per lasciarli passare. Tuttavia il loro comportamento era molto strano: solo quattro di loro lo superarono; gli altri quattro rallentarono e sembravano intenzionati a seguirlo non appena avesse ripreso il cammino. Gli altri membri del gruppo (forse una mezza dozzina) invece si girarono e tornarono indietro a grande [[characters/speed|velocità]].
-
-Guardò i quattro dietro di sé, poi guardò i quattro davanti a sé. Tutti gli restituirono lo sguardo. Riprese il suo cammino: i quattro davanti continuavano ad avanzare, guardandosi indietro di tanto in tanto; i quattro dietro iniziavano a avvicinarsi.
-
-Quando tutti si dispersero lungo il sentiero stretto sul pendio aperto della brughiera, e questa formazione fu mantenuta, non c'era più alcun [[concepts/doubt|dubbio]] che fosse circondato da quei individui. Si fermò, come ultimo controllo; e loro si fermarono tutti.
-
-“Perché vi prendete cura di me in questo modo?”, chiese a tutto il suo [[concepts/body|corpo]]. “Siete forse una banda di ladri?”
-
-“Non rispondetegli,” disse uno di loro; non si ricordava chi fosse.  
-“È meglio stare in silenzio.”
-
-“Meglio stare zitti, vero?”, ripeté Neville. “Chi l’ha detto?”
-
-Nessuno rispose.
-
-“È un buon consiglio, qualunque di voi lo abbia dato,” continuò arrabbiato. “Non intendo sottomettermi a essere intrappolato tra quei quattro uomini lì. Voglio superarli, e intendo davvero farlo.”
-
-Erano tutti immobili; anche lui compreso.
-
-“Se otto uomini, o quattro uomini, o due uomini attaccano uno solo,” proseguì,
-diventando sempre più furioso, “quello non ha altra scelta se non quella di colpire qualcuno di loro. E, per il Signore, lo farò, anche se mi interrompono ancora una volta!”
-
-Portando sulle spalle il suo pesante bastone e accelerando il passo, si affrettò a superare i quattro che lo precedevano. L’uomo più grande e forte del gruppo cambiò rapidamente direzione e, con agilità, gli si avvicinò per combattere; ma non prima che il pesante bastone colpisse con forza.
-
-“Lasciatelo stare!” disse quest’uomo con voce soffocata, mentre lottavano insieme sull’erba. “Onesto combattimento! Lui ha la corporatura di una ragazza rispetto alla mia, e inoltre porta un peso sulle spalle. Lasciatelo da solo. Me ne occuperò io.”
-
-Dopo un po’ di lotta corpo a corpo, durante la quale i volti di entrambi si imbrattarono di [[motifs/blood|sangue]], l’uomo allontanò il ginocchio dal petto di Neville e disse: “Ecco! Ora prendetelo per le braccia, voi due!”
-
-Fu fatto immediatamente.
-
-“Per quanto riguarda il fatto che siamo un branco di ladri, signor Landless,” disse l’uomo, sputando del [[motifs/blood|sangue]] e pulendosi il viso; “lo sapete benissimo. Non vi avremmo mai toccato se non ci aveste costretti. Comunque, vi porteremo sulla [[motifs/road|strada]] principale: là troverete abbastanza aiuto contro i ladri, se lo desiderate. Qualcuno, pulisca il suo viso; vedete come il sangue gli sta scorrendo giù!”
-
-Quando il suo viso fu pulito, Neville riconobbe nella persona che gli parlava Joe, l’autista dell’omnibus di Cloisterham, che aveva visto solo una volta, e cioè il giorno del suo arrivo.
-
-“E quello che vi consiglio per il momento è: non parlate, signor Landless. Troverete un amico ad aspettarvi sulla [[motifs/road|strada]] principale, si è allontanato nella direzione opposta quando ci siamo divisi in due gruppi. È molto meglio che non diciate nulla fino a quando non lo incontrerete. Portate con voi quel bastone. Andiamo!”
-
-Completamente confuso, Neville guardò intorno a sé senza dire una parola. Camminando tra i due uomini che lo tenevano per le braccia, proseguì come in un >sogno, fino a quando non rientrarono sulla [[motifs/road|strada]] principale e si trovarono in mezzo a un piccolo gruppo di persone. Gli uomini che si erano girati indietro facevano parte di quel gruppo; le figure centrali erano il signor Jasper e il signor Crisparkle. I due uomini che lo accompagnavano lo portarono fino al “Minor Canon” e lì lo lasciarono andare, come segno di rispetto verso quel gentiluomo.
 
 
 
@@ -10695,68 +7485,6 @@ Jasper’s position forced him to be active, while Neville’s forced him
 to be passive, there would have been nothing to choose between them.
 Each was bowed down and broken.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-“Che cosa sta succedendo, signore? Che problema c’è? Mi sembra di aver perso i sensi!”, gridò Neville mentre il gruppo si riuniva intorno a lui.
-
-“Dove è mio nipote?” chiese il signor Jasper, in preda al panico.
-
-“Dove è tuo nipote?”, ripeté Neville. “Perché mi chiedi questo?”
-
-“Vi chiedo questo,” ribatté Jasper, “perché siete stata l’ultima persona ad essere con lui, e lui non si trova da nessuna parte.”
-
-“Non si trova!” esclamò Neville, inorridito.
-
-“Resta, resta,” disse il signor Crisparkle. “Lasciami fare, Jasper. Signor Neville, sei confuso; riprenditi; è di grande importanza che tu ti ricomponga; ascoltami attentamente.”
-
-Cercherò di farlo, signore, ma sembro pazzo.
-
-“Sei andato via con il signor Jasper la scorsa [[motifs/night|notte]] insieme a [[characters/edwin-drood|Edwin Drood]]?”
-
-“Sì, davvero.”
-
-“Alle quali ore?”
-
-“Era alle dodici in punto?” chiese Neville, portandosi una mano alla testa confusa e guardando verso Jasper per cercare aiuto.
-
-“Esattamente,” disse il signor Crisparkle; “l’ora che il signor Jasper mi ha già indicato. Siete andati insieme al [[motifs/river|>fiume]]?”
-
-“Senza dubbio. Per vedere l’effetto del [[motifs/wind|>vento]] laggiù.”
-
-“Cosa è successo dopo? Quanto tempo sei rimasto lì?”
-
-“Circa dieci minuti; non di più. Poi siamo andati insieme a casa tua, e lui si è congedato da me alla porta.”
-
-“Ha detto che sarebbe tornato di nuovo al [[motifs/river|fiume]]?”
-
-“No. Ha detto che sarebbe tornato subito indietro.”
-
-Gli spettatori si guardarono l’un l’altro, e poi guardarono il signor Crisparkle. A lui il signor Jasper, che aveva osservato attentamente Neville, disse con voce bassa, chiara e sospetta: “Che cos’sono quelle macchie sul suo abito?”
-
-Tutti gli sguardi si rivolsero verso il [[motifs/blood|sangue]] sui suoi vestiti.
-
-“Ecco le stesse macchie su questo bastone!” disse Jasper, prendendolo dalla mano dell’uomo che lo teneva. “So che è suo; l’ha portato la scorsa [[motifs/night|notte]]. Cosa significa tutto ciò?”
-
-“Nel nome di Dio, dimmi cosa significa, Neville!” insistette il signor Crisparkle.
-
-“Quell’uomo e io,” disse Neville, indicando il suo defunto avversario, “abbiamo appena avuto una colluttazione per quel bastone; potete vedere le stesse ferite anche su di lui, signore. Cosa dovevo pensare quando mi sono trovato assalito da otto persone? Come avrei potuto immaginare la vera ragione, se nessuno me la spiegava?”
-
-Ammisero che avevano ritenuto discreto rimanere in silenzio e che la lotta fosse effettivamente avvenuta. Eppure proprio quegli uomini che l’avevano vista guardavano con preoccupazione quelle macchie che l’aria fredda e gelida aveva già asciugato.
-
-“Dobbiamo tornare, Neville,” disse il signor Crisparkle; “certamente sarai felice di poter tornare per difenderti, vero?”
-
-"Certo, signore."
-
-“Il signor Landless camminerà al mio fianco”, continuò il Minore Canon, guardandosi intorno. “Vieni, Neville!”
-
-Partirono per il ritorno a piedi; gli altri, ad eccezione di uno, li seguirono a distanze diverse. Jasper camminava dall’altra parte di Neville e non lasciò mai quella posizione. Rimase in silenzio mentre il signor Crisparkle ripeteva più volte le sue domande precedenti, e mentre Neville rispondeva ancora una volta; inoltre, mentre entrambi avanzavano alcune congetture esplicative, lui rimase ostinatamente muto. Il modo di fare del signor Crisparkle lo spingeva direttamente a partecipare alla discussione, ma nessun tentativo riuscì a far muovere il suo volto immobile. Quando si avvicinarono alla [[motifs/city|città]] e il Minor Canon suggerì che potesse essere opportuno recarsi subito dal Sindaco, lui annuì con decisione; ma non pronunciò una parola fino a quando non entrarono nel salotto del signor Sapsea.
-
-Il signor Sapsea, venuto a conoscenza dal signor Crisparkle delle circostanze in base alle quali desideravano rilasciare una dichiarazione volontaria davanti a lui, romse il [[motifs/silence|silenzio]] dichiarando di affidarsi completamente, in termini umani, alla perspicacia del signor Sapsea. Non esisteva alcuna ragione plausibile per cui suo nipote avesse potuto improvvisamente fuggire, a meno che il signor Sapsea non ne fornisse una; in tal caso, lui stesso avrebbe atteso ulteriori spiegazioni. Non c’era alcuna probabilità che il ragazzo fosse tornato al [[motifs/river|fiume]] e vi fosse annegato per caso nell’oscurità, a meno che il signor Sapsea non ritenesse possibile tale ipotesi; anche in quel caso, avrebbe comunque atteso. Si dichiarava completamente innocente di ogni sospetto orribile, a meno che il signor Sapsea non considerasse tali sospetti inevitabili, data la natura delle ultime relazioni del ragazzo con il suo compagno prima della scomparsa (relazioni non molto cordiali), e anche in quel caso avrebbe atteso ulteriori chiarimenti. Il proprio stato mentale, turbato da dubbi e preoccupazioni angosciose, non era certo affidabile; ma quello del signor Sapsea sì.
-
-Il signor Sapsea espresse il suo parere secondo cui la situazione sembrava molto grave; in breve (e in quel momento i suoi occhi si posarono con attenzione sul volto di Neville), si trattava di una questione assolutamente “antinglese”. Dopo aver espresso questo concetto, si immerse in un labirinto ancora più complesso e privo di senso di sciocchezze, del tutto degno di un sindaco. E ne emerse con la “geniale” conclusione che uccidere un essere umano significava togliere qualcosa che non ci appartiene. Esitò persino se dovesse immediatamente emettere l’ordine di arrestare Neville Landless, sotto circostanze di sospetto “grave”; avrebbe potuto farlo, se non fosse stato per le indignate proteste del canonico minore, il quale si offrì di garantire che il giovane rimanesse nella propria [[motifs/home|casa]] e fosse sempre a disposizione su richiesta. A quel punto, il signor Sapsea intendeva chiaramente suggerire che il [[motifs/river|fiume]] dovesse essere dragato, che le sue rive dovessero essere ispezionate attentamente, che i dettagli sulla scomparsa del ragazzo venissero inviati in tutte le località circostanti e a [[settings/london|Londra]], e che venissero distribuiti manifesti e annunci per chiedere a [[characters/edwin-drood|Edwin Drood]], qualora si fosse allontanato dalla casa e dalla compagnia di suo zio per qualche motivo sconosciuto, di avere pietà della profonda sofferenza di quel caro parente e di fargli sapere che era ancora vivo. Il significato delle parole del signor Sapsea fu compreso perfettamente; immediatamente furono intraprese le necessarie misure in tutti questi sensi.
-
-Sarebbe difficile stabilire chi dei due fosse più oppresso dal terrore e dalla meraviglia: [[characters/neville-landless|Neville Landless]] o [[characters/john-jasper|John Jasper]]. Tuttavia, la posizione di Jasper lo costringeva ad agire, mentre quella di Neville lo obbligava a rimanere passivo; in realtà, non c'era nulla su cui scegliere tra loro. Entrambi erano schiacciati e distrutti.
 
 
 
@@ -10906,84 +7634,6 @@ Not changing his action even then, he opened and shut the palms of his
 hands as he warmed them, and looked down at it.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Con la prima luce dell'alba seguente, gli uomini iniziarono i lavori sul [[motifs/river|>fiume]], mentre altri – per lo più volontari – esaminavano le rive. La ricerca proseguì per tutta la giornata: sul [[motifs/river|>fiume]] si utilizzarono barche, pali, reti; sulla riva fangosa e piena di canne, scarponi da lavoro, accette, pale, corde, >cani e ogni altro mezzo possibile. Anche di [[motifs/night|notte]], il [[motifs/river|>fiume]] era illuminato dalle lanterne e dai fuochi; in piccoli corsi d’acqua lontani, dove la marea cambiava direzione, c’erano gruppi di osservatori che ascoltavano il rumore dell’acqua e cercavano eventuali tracce del [[characters/edwin-drood|Edwin Drood]]; anche in remote zone costiere rocciose o in punti isolati dove l’acqua scorreva velocemente, al sorgere del giorno si vedevano luci e figure vestite in modo semplice. Ma di [[characters/edwin-drood|Edwin Drood]] non si trovò alcuna traccia.
-
-Per tutto quel giorno, la ricerca continuò. Ora su barca e barchetta; ora a terra, tra i salici, o camminando nella fanghiola, tra pali, stecche e pietre taglienti in quelle zone basse dove soltanto impronte d’acqua e segnali di forme strane apparivano come spettri, [[characters/john-jasper|John Jasper]] lavorò sodo. Ma invano: ancora nessuna traccia di [[characters/edwin-drood|Edwin Drood]] che tornasse alla luce del sole.
-
-Ammettendo di nuovo le sue sveglie per quella [[motifs/night|notte]], affinché occhi attenti potessero osservare ogni cambiamento della marea, tornò a [[motifs/home|casa]] estenuato. In disordine, coperto di fango ormai asciutto e con gran parte dei suoi vestiti ridotti a stracci, appena si lasciò cadere nella poltrona, il signor Grewgious gli apparve davanti.
-
-“Queste sono notizie strane,” disse il signor Grewgious.
-
-“Notizie strane e inquietanti.”
-
-Jasper aveva semplicemente alzato i suoi pesanti occhi per dirlo, e ora li abbassò di nuovo mentre si abbandonava, stanco, su un lato della sua poltrona.
-
-Il signor Grewgious si sistemò i capelli e il viso, poi rimase in piedi a guardare il [[motifs/fire|fuoco]].
-
-“Come sta il tuo paziente?” chiese Jasper, dopo un po’, con una voce debole e stanca.
-
-Povera piccola. Si può solo immaginare in che condizioni si trovi.
-
-“Hai visto sua sorella?” chiese Jasper, come prima.
-
-“Di chi?”
-
-La brevità della domanda retorica, e il modo freddo e lento con cui, secondo le sue parole, il signor Grewgious spostava lo sguardo dalla [[motifs/fire|fiamma]] sul viso del suo compagno, in qualsiasi altro momento avrebbero potuto risultare esasperanti. Nella sua depressione ed estenuazione, Jasper aprì semplicemente gli occhi e disse: “Quelli del giovane sospettato.”
-
-“Lo sospettate?” chiese il signor Grewgious.
-
-Non so cosa pensare. Non riesco a prendere una decisione.
-
-“Nemmeno io,” disse il signor Grewgious. “Ma poiché lo avete definito il giovane sospettato, ho pensato che aveste già preso una decisione. Ho appena lasciato la signorina Landless.”
-
-Illustrazione: Il signor Grewgious ha i suoi sospetti
-
-"#Qual è la sua condizione?"
-
-“Una totale assenza di sospetti, e una fiducia illimitata nel proprio fratello.”
-
-"Povera creatura!"
-
-“Tuttavia,” proseguì il signor Grewgious, “non sono venuto per parlare di lei. Sono qui per parlare della mia pupilla. Ho qualcosa da dirvi che vi sorprenderà. Almeno, mi ha sorpreso.”
-
-Jasper, con un sospiro stanco, si girò pigramente sulla sedia.
-
-“Devo rimandarlo a domani?” disse il signor Grewgious. “State attento: vi avverto che penso che vi sorprenderà!”
-
-Nel vedere il signor Grewgious accarezzarsi di nuovo la testa e fissare ripetutamente il [[motifs/fire|fuoco]], gli occhi di [[characters/john-jasper|John Jasper]] mostrarono maggiore attenzione e concentrazione; ora, però, con un’espressione decisa e determinata.
-
-“Che cos’è?” chiese Jasper, alzandosi dritto sulla sedia.
-
-“Certo,” disse il signor Grewgious, con un tono provocatoriamente lento e pensieroso, mentre fissava il [[motifs/fire|fuoco]]: “Avrei potuto capirlo prima; lei mi aveva dato l’occasione. Ma sono davvero una persona troppo rigida e convenzionale; non me ne è mai venuta in mente l’idea; ho preso tutto per scontato.”
-
-“Che cos’è?” chiese nuovamente Jasper.
-
-Il signor Grewgious, aprendo e chiudendo alternativamente le palme delle mani per riscaldarle davanti al [[motifs/fire|fuoco]], lo fissava di sbieco senza mai cambiare né il proprio comportamento né lo sguardo, e continuò a rispondere.
-
-“Questo giovane coppia, il giovane che ha perso la strada e Miss Rosa, mia protetta. Nonostante siano da tempo fidanzati, nonostante riconoscano da tempo tale legame, e nonostante siano così vicini al matrimonio, ”
-
-Il signor Grewgious vide un volto bianco che lo fissava, due labbra bianche che tremavano, e due mani sporche che stringevano i bracci della poltrona; se non fosse stato per quelle mani, avrebbe potuto pensare di non aver mai visto quel volto prima.
-
-“—Questo giovane coppia arrivò gradualmente alla conclusione (raggiunta, credo, in modo piuttosto equilibrato da entrambi i lati) che sarebbero stati più felici e avrebbero vissuto una vita migliore, sia nel presente che nel futuro, se fossero rimasti amici affettuosi, o meglio ancora, fratello e sorella.”
-
-Il signor Grewgious vide un viso di colore piombo nella poltrona, e sulla sua superficie apparivano terribili gocce o bolle, come se fosse fatto di acciaio.
-
-“Questo giovane coppia giunse infine alla sana decisione di condividere le proprie scoperte in modo aperto, sensato e tenero. Si incontravano appositamente per questo scopo. Dopo alcune conversazioni [[archetypes/innocent|innocenti]] e generose, concordarono nel porre fine, per sempre, alle loro relazioni attuali e future.”
-
-Il signor Grewgious vide una figura orribile alzarsi dalla poltrona, con la bocca spalancata, e sollevare le mani aperte verso la testa.
-
-“Uno di questa giovane coppia, e cioè vostro nipote, temendo tuttavia che la vostra affettuosa attenzione verso di lui potesse essere amaramente delusa da una deviazione così marcata rispetto alla vita che aveva previsto per sé, si è trattenuto dal rivelarvi il segreto per alcuni giorni, lasciando che fossi io a farlo quando sarei venuto a parlarvi, e lui ormai se n’era andato.”
-
-Il signor Grewgious vide quella figura orribile alzare la testa, afferrarsi i capelli con le mani e allontanarsi da lui contorcendosi.
-
-“Ora ho detto tutto ciò che volevo dire: tranne che questa giovane coppia si è separata, con determinazione, sebbene non senza [[motifs/tears|lacrime]] e dolore, nella sera in cui li avete visti insieme per l’ultima volta.”
-
-Il signor Grewgious sentì un terribile strillo, ma non vide alcuna figura spaventosa, né seduta né in piedi; non vide nulla se non un mucchio di vestiti lacerati e bagnati sul pavimento.
-
-Anche in quel momento non cambiò la sua azione: aprì e chiuse le palme delle mani per riscaldarle, poi guardò ciò che vi era dentro.
-
 
 
 <span class="atom-split" data-atom="chapter_17--part_01" data-title="The Mystery of Edwin Drood — Chapter 16 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/marriage,motif/noon,motif/pain,motif/time,motif/well,concept/body,concept/fear,concept/hope,concept/wonder,character/edwin_drood,character/john_jasper"></span>
@@ -11124,69 +7774,6 @@ one acquainted with his projects and affairs; and the fact seemed to
 him to present the question in a new light.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XVI.  
-DEDICATO
-
-
-Quando [[characters/john-jasper|John Jasper]] si riprese dal suo attacco o svenimento, si trovò assistito da Mr. e Mrs. Tope, che il suo visitatore aveva chiamato apposta per questo scopo. Il visitatore, dall’aspetto rigido e impettoso, sedeva immobile su una sedia, con le mani sulle ginocchia, osservando la sua guarigione.
-
-“Ecco! Ora siete davvero in ottima forma, signore,” disse la signora Tope con le lacrime agli occhi;  
-“eravate completamente esausto, e non c’è da [[concepts/wonder|meravigliarsi]]!”
-
-“Un uomo,” disse il signor Grewgious, con quel suo solito tono da chi ripete una lezione a memoria, “non può permettersi che il proprio riposo venga interrotto, la propria mente venga crudelmente tormentata e il proprio [[concepts/body|corpo]] esaurito dalla fatica, senza rischiare di consumarsi completamente.”
-
-“La mia [[concepts/fear|>paura]] vi ha spaventati?” si scusò debolmente Jasper mentre lo aiutavano a sedersi nella sua poltrona comoda.
-
-“Assolutamente no, grazie,” rispose il signor Grewgious.
-
-“Sei troppo premuroso.”
-
-“Assolutamente no, grazie,” rispose di nuovo il signor Grewgious.
-
-“Dovete assolutamente bere un po’ di vino, signore,” disse la signora Tope, “e anche la marmellata che avevo preparato per voi. Non avete voluto nemmeno provarla a [[motifs/noon|mezzogiorno]], nonostante vi avessi avvertito delle conseguenze. E non avete nemmeno fatto colazione. Dovete assolutamente mangiare anche una ala di pollo arrosto. Anche se è stato riscaldato venti volte, significa che è stato riscaldato almeno una volta. Tutto sarà pronto in cinque minuti. E questo gentile signore probabilmente verrà a vedere se lo mangiate.”
-
-Questo gentiluomo rispose con un grugnito: poteva significare sì, o no, o qualsiasi cosa, o niente del tutto. La signora Tope avrebbe trovato questa risposta estremamente enigmatica, ma la sua attenzione era distratta dal servizio da tavola in corso.
-
-“Prenderai qualcosa con me?” chiese Jasper mentre il panno veniva steso.
-
-“Non riuscivo nemmeno a mandare giù un boccone, grazie,” rispose il signor Grewgious.
-
-Jasper mangiava e beveva quasi con voracità. Unito alla fretta con cui lo faceva, c'era un'evidente indifferenza verso il sapore di ciò che consumava; questo suggeriva che mangiasse e bevesse più per rafforzarsi in caso di ulteriori difficoltà, piuttosto che per soddisfare i propri desideri. Nel frattempo, il signor Grewgious sedeva dritto, con un'espressione impassibile sul viso, e mostrava una sorta di cortesia rigida e imperturbabile; come se, in risposta a qualche invito a parlare, avesse detto: “Non potrei mai formulare nemmeno la più banale osservazione su qualsiasi argomento. Grazie.”
-
-“Lo sai,” disse Jasper, dopo aver spinto via il piatto e il bicchiere e essersi seduto a riflettere per qualche minuto: “lo sai che trovo un po’ di conforto nella comunicazione con cui mi hai così sorpreso?”
-
-“Davvero?” rispose il signor Grewgious, aggiungendo praticamente in modo esplicito quella frase non detta: “Io no, grazie!”
-
-“Dopo essermi ripresa dallo shock causato da una notizia riguardante mio caro figlio, così completamente inaspettata e così distruttiva per tutti i ‘castelli’ che avevo costruito per lui. E dopo aver avuto il [[motifs/time|tempo]] di rifletterci sopra. Sì.”
-
-“Mi farà piacere raccogliere i vostri resti,” disse il signor Grewgious in tono asciutto.
-
-“Non esiste forse, o esiste davvero, se mi sto ingannando, ditemelo pure, per poter alleviare il mio [[motifs/pain|dolore]]. Non esiste forse, o esiste davvero, una [[concepts/hope|>speranza]] che, trovandosi in questa nuova situazione e diventando consapevole del peso imbarazzante delle spiegazioni necessarie, riesca a evitare tali difficoltà e a trovare una via d’uscita?”
-
-“Qualcosa del genere potrebbe essere possibile,” disse il signor Grewgious, riflettendo.
-
-“Una cosa del genere è già successa. Ho letto di casi in cui persone, invece di affrontare sette giorni di [[concepts/wonder|stupore]] e dover rispondere delle proprie azioni davanti a persone oziose e impertinenti, hanno semplicemente deciso di andarsene e da allora non si sono più sentite.”
-
-“Credo che cose del genere siano già accadute,” disse il signor Grewgious, continuando a riflettere.
-
-“Quando non avevo, e non potevo avere, alcun sospetto,” proseguì Jasper, seguendo con avidità questa nuova pista, “che quel caro ragazzo scomparso mi avesse nascosto qualcosa, soprattutto una cosa così importante come questa, quale luce poteva esserci in tutto questo buio? Quando pensavo che la sua futura moglie fosse qui e che il suo [[motifs/marriage|matrimonio]] fosse ormai imminente, come avrei potuto anche solo considerare la possibilità che lasciasse volontariamente questo posto in un modo così inspiegabile, capriccioso e crudele? Ma ora che so ciò che mi avete detto, non esiste forse qualche piccola speranza? Se ha sparito di sua spontanea volontà, la sua scomparsa non è forse più comprensibile e meno crudele? Il fatto che sia appena partito dalla vostra custodia rappresenta in sé una sorta di motivo per la sua decisione. Certo, questo non rende meno crudele la sua misteriosa sparizione per me; ma almeno la riduce un po’ della crudeltà verso di lei.”
-
-Il signor Grewgious non poté fare a meno di accordarsi con questo.
-
-“E anche per quanto riguarda me,” continuò Jasper, seguendo ancora con fervore quella nuova strada, “lui sapeva che saresti venuto da me; sapeva che ti era stato affidato il compito di dirmi ciò che mi hai detto; se il tuo intervento ha suscitato in me nuove riflessioni nel mio cervello confuso, è logico che, partendo dalle stesse premesse, avrebbe potuto prevedere le conclusioni a cui sarei giunto. Ammettiamo pure che le abbia previste. E anche quella crudeltà verso di me – e chi sono io, dopotutto! John Jasper, maestro di musica, svanisce!”
-
-Ancora una volta, il signor Grewgious non poté fare a meno di concordare.
-
-“Ho avuto le mie diffidenze, terribili diffidenze,” disse Jasper; “ma la tua rivelazione, per quanto sorprendente all’inizio, mi ha dimostrato che il mio stesso caro ragazzo aveva dei dubbi nei miei confronti, io che lo amavo così tanto. Questo riaccende in me una [[concepts/hope|>speranza]]. Non la spegni quando la esprimo, anzi ammetti che sia una [[concepts/hope|speranza]] ragionevole. Comincio a credere che possa essere vero: forse è scomparso di sua volontà tra di noi, e forse è ancora vivo e [[motifs/well|in salute]].”
-
-“In quel momento entrò il signor Crisparkle. A cui il signor Jasper ripeté, ”
-
-“Comincio a credere che sia possibile che sia scomparso di sua volontà e che forse sia ancora vivo e in buona salute.”
-
-Il signor Crisparkle si sedette e chiese: “Perché mai?” Il signor Jasper ripeté gli argomenti che aveva appena esposto. Se questi fossero stati meno plausibili di quanto in realtà erano, la mente del buon Minor Canon sarebbe stata già pronta ad accettarli come scuse per l’infortunato suo allievo. Ma anche lui attribuiva grande importanza al fatto che il giovane scomparso, poco prima della sua sparizione, fosse finito in una situazione nuova e imbarazzante rispetto a tutte le persone a conoscenza dei suoi piani e delle sue faccende; e questo aspetto gli sembrava presentare la questione sotto una luce diversa.
-
 
 
 <span class="atom-split" data-atom="chapter_17--part_02" data-title="The Mystery of Edwin Drood — Chapter 16 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/night,motif/rose,motif/storm,motif/time,motif/water,motif/well,concept/body,concept/hope,concept/jealousy,concept/truth,character/edwin_drood,character/neville_landless"></span>
@@ -11300,38 +7887,6 @@ the least unusual was remotely shadowed forth. But he resolved that he
 would come back early in the morning.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Ho detto al signor Sapsea, quando lo abbiamo ricevuto,” disse Jasper, poiché effettivamente l’aveva fatto: “che non c’era alcun litigio o dissidio tra i due giovani durante l’ultima loro riunione. Sappiamo tutti che il loro primo incontro è stato sfortunatamente molto poco amichevole; ma la volta successiva, quando si sono incontrati a casa mia, tutto è andato tranquillamente e senza problemi. Mio caro ragazzo non era nel suo solito umore; sembrava depresso, me ne sono accorto. E ora, dato che so che c’era una ragione particolare per la sua depressione, dovrò sicuramente rifletterci ancora di più.”
-
-“Prego il Cielo che tutto vada così!” esclamò il signor Crisparkle.
-
-“Prego il Cielo che le cose vadano così!” ripeté Jasper. “Voi sapete – e anche il signor Grewgious dovrebbe saperlo ormai – che ho sviluppato un profondo avversione per il signor [[characters/neville-landless|Neville Landless]] a causa del suo comportamento furioso in quella prima occasione. Voi sapete che sono venuto da voi, estremamente preoccupato per mio figlio, temendo che potesse commettere atti di violenza. Ho persino annotato tutto nel mio Diario e vi ho mostrato quelle pagine, perché avevo oscure premonizioni riguardo a lui. Il signor Grewgious dovrebbe conoscere tutta la verità. Non deve essere informato solo di una parte dei fatti, mentre dell’altra viene tenuto all’oscuro. Spero che sia abbastanza gentile da comprendere che le informazioni che mi ha fornito hanno influenzato in qualche modo la mia opinione, nonostante prima di questo strano evento io avessi già un’opinione molto negativa su quel giovane.”
-
-Questa equità turbava molto il Minor Canon. Sentiva di non essere altrettanto aperto e onesto nelle proprie azioni. Si rimproverava amaramente per aver fino ad allora soppresso due episodi di violenta ira da parte di Neville verso [[characters/edwin-drood|Edwin Drood]], nonché l’esplosione di gelosia che, ne era certo, si era scatenata nel cuore di Neville nei suoi confronti. Era convinto dell’innocenza di Neville riguardo a quella brutta scomparsa; eppure così tante piccole circostanze sembravano incriminarlo, che temeva che aggiungere altre due prove al loro insieme potesse rivelarsi fatale. Era tra le persone più oneste del mondo; ma nel suo cuore si dibatteva con angoscia se il fatto di decidere ora di rivelare questi due frammenti di [[concepts/truth|verità]] non equivalesse, in realtà, a costruire una menzogna al posto della verità.
-
-Tuttavia, davanti a lui c'era un esempio da seguire; non esitò più. Rivolgendosi a Mr. Grewgious – che, grazie alle informazioni che aveva fornito sul mistero, sembrava ora una figura autorevole (e Mr. Grewgious, di solito così rigido e severo, apparve ancora più imponente in quella situazione inaspettata) – Mr. Crisparkle testimoniò del rigoroso senso della giustizia di Mr. Jasper, esprimendo la propria totale fiducia nel fatto che il proprio allievo sarebbe stato completamente scagionato da qualsiasi sospetto. Ammise inoltre che la sua stima per quel giovane signore era nata nonostante sapesse che il suo temperamento era estremamente irascibile e che nutriva un profondo rancore verso il nipote di Mr. Jasper, proprio perché romanticamente si immaginava che quest’ultimo fosse innamorato della stessa giovane donna. La reazione violenta di Mr. Jasper dimostrò ancora una volta quanto quelle parole fossero inaspettate e scioccanti: impallidì, ma ribadì che avrebbe continuato a credere nella speranza offertagli da Mr. Grewgious; e che, se non si trovava traccia del suo caro ragazzo, il che avrebbe potuto significare che fosse stato rapito, avrebbe conservato fino all’ultimo istante l’idea che potesse essersi allontanato di sua spontanea volontà.
-
-Ora risultò che il signor Crisparkle, lasciando questa conferenza ancora molto preoccupato e profondamente angosciato per il giovane che considerava quasi un prigioniero nella sua stessa >casa, fece una memorabile passeggiata di [[motifs/night|notte]].
-
-Camminò fino a Cloisterham Weir.
-
-Lo faceva spesso, quindi non c’era nulla di insolito nei suoi passi che lo portassero in quella direzione. Ma la sua mente era così assorbita da impedirgli di pianificare qualsiasi passeggiata o di prestare attenzione agli oggetti che gli capitavano davanti; perciò, il suo primo segnale che si trovava vicino al dighe fu il suono dell’acqua che cadeva proprio lì vicino.
-
-“Come sono arrivato qui?” fu il suo primo pensiero quando si fermò.
-
-“Perché sono venuto qui?” fu la sua seconda domanda.
-
-Poi si fermò ad ascoltare attentamente il suono dell’[[motifs/water|acqua]]. Gli tornò in mente un passaggio che aveva letto, riguardante voci leggere che pronunciavano i nomi delle persone. Quel suono gli giunse all’orecchio così improvvisamente e inaspettatamente che lo scacciò via con la mano, come se fosse qualcosa di tangibile.
-
-Era la luce delle stelle. Il dighe era situato a due miglia di distanza dal punto in cui i giovani si erano recati per osservare la [[motifs/storm|tempesta]]. Nessuna ricerca era stata effettuata in quella zona, poiché a quell’[[motifs/time|ora]] della [[motifs/night|notte]] di vigilia di Natale la marea scorreva con forza verso il basso; i luoghi più probabili per trovare un [[concepts/body|corpo]], in caso fosse accaduto un incidente fatale in tali circostanze, si trovavano tutti – sia quando la marea si ritirava che quando tornava ad affluire – tra quel punto e il mare. L’[[motifs/water|acqua]] superava il dighe con il suo solito rumore, in una fredda notte illuminata dalle stelle; tuttavia, il signor Crisparkle aveva la strana sensazione che ci fosse qualcosa di insolito in quel luogo.
-
-Si chiese: Che cos'è? Dove si trova? Mettiamolo alla prova. A quale senso si riferisce?
-
-Non rilevò nulla di insolito. Ascoltò di nuovo, e il suo udito confermò che l’[[motifs/water|acqua]] scorreva sopra la diga, con quel suono tipico di una fredda notte sotto la luce delle stelle.
-
-Sapendo molto bene che il mistero che assillava la sua mente poteva di per sé conferire a quel luogo quell’atmosfera inquietante, strinse i suoi occhi acuti nel tentativo di vedere più chiaramente. Si avvicinò al cancello e osservò attentamente le sue colonne e i suoi tronchi ben noti. Non c’era nulla di insolito o sospetto. Ma decise che sarebbe tornato presto la mattina seguente.
-
 
 
 <span class="atom-split" data-atom="chapter_17--part_03" data-title="The Mystery of Edwin Drood — Chapter 16 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/death,motif/fire,motif/grave,motif/nature,motif/night,motif/river,motif/rose,motif/sleep,motif/water,motif/well,concept/body,concept/nature,setting/london,character/edwin_drood"></span>
@@ -11437,20 +7992,6 @@ Grewgious. And yet, be it observed, he disappeared before that
 gentleman appeared.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il Weir attraversava il suo sonno interrotto, per tutta la [[motifs/night|notte]], e al sorgere del sole lui era di nuovo lì. Era una mattina fredda e luminosa. L’intera scena davanti a lui, nel punto in cui si era trovato la [[motifs/night|notte precedente]], era chiaramente visibile nei suoi minimi dettagli. L’aveva osservata attentamente per alcuni minuti, quando improvvisamente i suoi occhi furono attratti da un particolare punto.
-
-Si girò le spalle al Weir e guardò lontano, verso il cielo e la terra; poi riportò lo sguardo su quel punto preciso. Subito lo riconobbe di nuovo e fissò intensamente quell’immagine. Non poteva perderlo di vista ora, anche se era solo un puntino nel paesaggio. Lo affascinava profondamente. Iniziò a togliersi il cappotto: gli sembrava che in quel punto, in un angolo del Weir, qualcosa brillasse. Qualcosa che non si muoveva, che non veniva portato via dalle gocce d’acqua scintillanti, ma rimaneva fermo lì.
-
-Si assicurò che fosse proprio così, si tolse i vestiti e si tuffò nell’acqua ghiacciata, nuotando verso quel punto. Arrampicandosi sui tronchi, trovò un orologio d’oro intrappolato tra le loro fessure, con la scritta “E. D.” incisa sul dorso.
-
-Portò l'orologio in banca, nuotò di nuovo verso il Weir, lo scalò e poi si tuffò. Conosceva ogni anfratto e ogni angolo di quelle profondità; continuò a tuffarsi, fino a quando non riuscì più a sopportare il freddo. Il suo obiettivo era trovare il [[concepts/body|corpo]]. Ma trovò soltanto un fermaglio da camicia impigliato nel fango e nella melma.
-
-Con queste scoperte tornò a Cloisterham e, portando con sé Neville Landless, andò direttamente dal Sindaco. Chiamarono il signor Jasper; l’orologio da tasca e il fermaglio furono identificati, Neville fu trattenuto in custodia, e iniziarono a diffondersi le voci più assurde e malvagie su di lui. Era di quella natura vendicativa e violenta; se non fosse stato per sua sorella minore, l’unica che aveva un ascendente su di lui e di cui non si poteva mai fidare quando non era sotto i suoi occhi, probabilmente avrebbe commesso omicidi ogni giorno. Prima di arrivare in Inghilterra aveva fatto frustare a morte diversi “Nativi”: persone nomadi che ora si trovavano in Asia, ora in Africa, ora nelle Indie Occidentali, ora al Polo Nord. A Cloisterham si pensava che fossero sempre neri, sempre di grande virtù, che si chiamassero sempre “Me” e tutti gli altri “Massa” o “Missie” (a seconda del sesso), e che leggessero opuscoli di significato oscuro in inglese stentato, ma in realtà li capivano perfettamente nella loro lingua madre. Aveva quasi fatto impazzire di dolore la signora Crisparkle, (Queste espressioni erano state usate dal signor Sapsea.) Aveva ripetutamente minacciato di uccidere il signor Crisparkle, e in realtà aveva minacciato di uccidere tutti, diventando di fatto l’ultimo uomo malvagio che esistesse. Era stato portato a Cloisterham da un eminente filantropo, ma perché? Perché quel filantropo aveva dichiarato apertamente: “Devo ai miei simili che quest’uomo venga, con le parole di Bentham, collocato dove rappresenta il maggiore pericolo per il numero più piccolo di persone.”
-
-Quei colpi sparati con le armi da fuoco di precisione potrebbero non averlo colpito in un punto vitale. Ma doveva affrontare anche il fuoco coordinato e ben diretto di armi da fuoco altrettanto precise. Era noto che aveva minacciato quel giovane sfortunato, e, secondo quanto affermava il suo fedele amico e tutore che si era impegnato molto per lui, esisteva un motivo profondo di ostilità nei suoi confronti. Un motivo creato da lui stesso. Si era armato di un’arma offensiva per quella notte fatale, e la mattina seguente, dopo aver fatto i preparativi per partire, era uscito presto. Fu trovato con tracce di sangue addosso; forse quelle tracce erano davvero dovute alle cause che lui stesso aveva descritto, ma non necessariamente. Quando fu emesso un mandato di perquisizione della sua stanza, dei suoi vestiti e di tutto ciò che possedeva, si scoprì che aveva distrutto tutti i suoi documenti e riorganizzato tutte le sue cose proprio nel pomeriggio del suo scomparire. L’orologio trovato presso il ponte fu identificato dal gioielliere come quello che lui stesso aveva caricato per [[characters/edwin-drood|Edwin Drood]] alle due e venti di quel pomeriggio; l’orologio si era fermato prima di essere gettato nell’[[motifs/water|fiume]], e il gioielliere era certo che non fosse mai stato ricaricato. Questo avrebbe potuto confermare l’ipotesi che l’orologio gli fosse stato rubato poco dopo che aveva lasciato la casa di Mr. Jasper a mezzanotte, insieme all’ultima persona che lo aveva visto. E che poi fosse stato gettato via dopo essere stato trattenuto per alcune ore. Perché gettarlo via? Se era stato assassinato e il suo corpo era stato così abilmente alterato o nascosto, sicuramente l’assassino avrebbe cercato di eliminare dall’[[concepts/body|corpo]] gli oggetti più duraturi, più noti e più facilmente riconoscibili. Quell’orologio e quel fermaglio da camicia, appunto. Per quanto riguarda le possibilità che avesse avuto di gettarli nel [[motifs/river|fiume]], se era davvero il sospettato, queste possibilità erano molte. Era stato visto da molte persone mentre vagava in quella zona della città, anzi, in tutte le zone della città, in modo disperato e apparentemente confuso. Per quanto riguarda la scelta del luogo dove gettare gli oggetti incriminanti, ovviamente era meglio che venissero trovati da chiunque, piuttosto che rimanere con lui o essere in suo possesso. Quanto all’incontro conciliatorio tra i due giovani, poco si poteva dire a favore di young Landless. L’incontro, infatti, era stato proposto non da lui, ma da Mr. Crisparkle, e questi lo aveva anche incoraggiato. Chi poteva sapere con quanta riluttanza, o in quale stato d’animo, il suo “pupillo costretto” vi fosse andato? Più si indagava sul suo caso, più diventava debole sotto ogni aspetto. Anche l’ipotesi che il giovane scomparso fosse fuggito sembrava improbabile, considerando le parole della ragazza con cui aveva appena parlato. Cosa aveva detto, con grande sincerità e tristezza, quando era stata interrogata? Che lui aveva pianificato con lei di aspettare l’arrivo del suo tutore, [[concepts/body|Mr. Grewgious]]. Eppure, era scomparso prima che quel gentiluomo arrivasse.
-
 
 
 <span class="atom-split" data-atom="chapter_17--part_04" data-title="The Mystery of Edwin Drood — Chapter 16 (part 4)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/death,motif/leaves,motif/night,motif/well,concept/doubt,concept/hope,character/edwin_drood,character/john_jasper,character/neville_landless"></span>
@@ -11541,46 +8082,6 @@ hand. That I never will relax in my secrecy or in my search. That I
 will fasten the crime of the murder of my dear dead boy upon the
 murderer. And, That I devote myself to his destruction.”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Sulla base di queste sospetti, Neville fu trattenuto e successivamente rilasciato; le ricerche continuarono in ogni direzione, e Jasper lavorò giorno e notte senza ottenere alcun risultato. Poiché non venne trovata alcuna prova che confermasse la morte dell’uomo scomparso, divenne inevitabile liberare la persona sospettata di esserne responsabile. Neville fu quindi rilasciato. Tuttavia, ne derivò una conseguenza che il signor Crisparkle aveva previsto con troppa chiarezza: Neville dovette lasciare quel luogo, poiché tutti lo evitavano e lo scacciavano. Anche se non fosse stato così, la cara vecchia pastorella di porcellana si sarebbe angosciata a morte per suo figlio, e l’intera comunità avrebbe vissuto nel terrore all’idea di avere un simile “inquilino”. In ogni caso, l’autorità a cui il Minor Canon si era rivolto ufficialmente avrebbe risolto la questione.
-
-“Signor Crisparkle,” disse il Decano, “la giustizia umana può sbagliare, ma deve agire secondo le sue conoscenze. I tempi in cui era possibile cercare rifugio sono finiti. Questo giovane non può più trovar rifugio presso di noi.”
-
-“Volete dire che deve lasciare la mia >casa, signore?”
-
-“Signor Crisparkle,” rispose il prudente Decano, “non rivendico alcuna autorità nella sua >casa. Mi limito a discutere con lei della dolorosa necessità alla quale si trova di privare questo giovane delle grandi opportunità offerte dai suoi consigli e dalla sua guida.”
-
-“È molto deplorevole, signore,” si espresse il signor Crisparkle.
-
-“Assolutamente sì,” concordò il Decano.
-
-“E se fosse necessario, ” Il signor Crisparkle esitò.
-
-“Come purtroppo tu ritieni,” rispose il Decano.
-
-Il signor Crisparkle si inchinò in segno di sottomissione: “È difficile giudicare in anticipo la sua situazione, signore, ma sono consapevole che, ”
-
-“Esattamente. Perfettamente. Come dite voi, signor Crisparkle,” intervenne il Decano, annuendo dolcemente, “non c’è nulla altro da fare. Nessun [[concepts/doubt|>dubbio]], nessun [[concepts/doubt|>dubbio]]. Non esiste altra alternativa, come ha già capito il vostro buon senso.”
-
-“Sono completamente soddisfatto della sua perfetta innocenza, signore, tuttavia, ”
-
-“N-no-no!” disse il Decano, con un tono più confidenziale, guardandosi intorno leggermente, “Di solito non lo direi. Non generalmente. Ci sono troppe sospetti che lo riguardano. No, penso che comunque non lo direi, in generale.”
-
-Il signor Crisparkle si inchinò di nuovo.
-
-“Forse non è nel nostro stile essere dei partigiani,” continuò il Decano, “non dei partigiani. Noi cleri manteniamo il cuore caldo e la mente fredda, e seguiamo una via di mezzo saggiamente.”
-
-“Spero che non vi opporrete, signore, se dichiaro pubblicamente e con fermezza che egli tornerà qui non appena possano sorgere nuove sospetti o venire alla luce nuovi elementi in questa questione straordinaria.”
-
-“Assolutamente no,” rispose il Decano. “Eppure, sa, non credo che lo farei,” disse, mettendo un'enfasi molto netta su quelle due parole: “Non credo che lo dichiarerei in modo deciso. Dirlo? Sì, ma in modo deciso? No. Non credo proprio. A dire il vero, signor Crisparkle, per mantenere i nostri cuori caldi e la nostra mente fredda, noi preti non dobbiamo fare nulla in modo deciso.”
-
-Sapevo che Minor Canon Row non conosceva più [[characters/neville-landless|Neville Landless]]; e lui andava dove voleva, o poteva, con una macchia sul suo nome e sulla sua reputazione.
-
-Fu solo allora che [[characters/john-jasper|John Jasper]] riprese in silenzio il suo posto nel coro. Pallido e con gli occhi rossi, era evidente che le sue speranze lo avevano abbandonato; il suo umore cupo era tornato, e tutti i suoi peggiori timori si erano riacquistati. Un giorno o due dopo, mentre si toglieva i vestiti, prese il proprio Diario da una tasca del cappotto, sfogliò le pagine e, con uno sguardo significativo e senza pronunciare una parola, consegnò quella pagina al signor Crisparkle perché la leggesse.
-
-“Mio caro ragazzo è stato assassinato. La scoperta dell’orologio e del fermaglio da cravatta mi convincono che sia stato ucciso quella [[motifs/night|notte]], e che i suoi gioielli siano stati presi per impedire che potessero essere utilizzati per identificarlo. Tutte le speranze ingannevoli che avevo fondato sulla sua separazione dalla sua futura moglie vanno ora spazzate via. Periscono di fronte a questa scoperta fatale. Ora giuro, e registro questo giuramento su questa pagina: non discuterò mai più di questo mistero con alcuna persona, finché non avrò in mano la vera soluzione. Non allenterò mai le mie ricerche né il mio riserbo. Farò sì che l’assassino del mio caro ragazzo morto venga punito. E mi dedicherò personalmente alla sua distruzione.”
 
 
 
@@ -11714,60 +8215,6 @@ have done on this cue, Mr. Crisparkle merely reversed the quiet
 crossing of his legs, and said mildly: “Don’t let me interrupt your
 explanation—when you begin it.”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XVII.  
-Filantropia, professionale e non professionale
-
-
-Mezzo anno era passato, e il signor Crisparkle sedeva in una sala d’attesa presso gli uffici principali di “Haven of Philanthropy” a [[settings/london|Londra]], in attesa di essere ricevuto dal signor Honeythunder.
-
-Nei suoi giorni universitari, durante gli allenamenti sportivi, il signor Crisparkle aveva conosciuto professori dell’Arte Nobile del Pugilato e aveva partecipato a due o tre delle loro riunioni. Ora aveva l’opportunità di osservare che, per quanto riguardava la conformazione cranica tipica dei pugili, questi “professori della filantropia” assomigliavano in modo insolito ai veri pugili. Nello sviluppo di tutti quegli organi che contribuiscono a una propensione a “assalire” i propri simili, questi “filantropi” erano particolarmente favoriti. C’erano diversi professori che andavano avanti e indietro, con quell’aria aggressiva tipica di chi fosse pronto a sfidare qualsiasi principiante si trovasse nei paraggi. Il signor Crisparkle ricordava [[motifs/well|bene]] questo comportamento dai tempi in cui frequentava quei circoli sportivi. Si stavano preparando eventi morali in alcune zone rurali, e altri professori sostenevano questo o quell’“atleta pesante”, presentandoli come ideali per determinati tipi di discorsi. Proprio come fanno i promotori sportivi. Le risoluzioni che si intendevano approvare sembravano davvero “round”. Tra questi organizzatori, il signor Crisparkle riconobbe (in un abito nero) l’equivalente di un defunto benefattore della sua specie: una figura pubblica eminente, un tempo conosciuto come “Frosty-faced Fogo”, che un tempo si occupava di allestire quei cerchi magici con corde e pali. C’erano però tre differenze fondamentali tra questi professori e quelli di un tempo: innanzitutto, i “filantropi” erano in cattiva forma fisica; avevano un aspetto troppo carnoso, e il loro viso e la loro figura riflettevano una quantità eccessiva di quella sostanza grassa tipica dei pugili. In secondo luogo, i “filantropi” non possedevano l’ottimo temperamento dei pugili e utilizzavano un linguaggio molto più volgare. Terzo, il loro codice di combattimento aveva bisogno di molte correzioni: permetteva loro non solo di portare avanti il proprio avversario fino alle corde, ma anche di farlo arrivare al limite della sopportazione; inoltre, consentiva loro di colpire l’avversario anche quando era a terra, ovunque e con qualsiasi mezzo. Di calciarlo, di schiacciarlo, di ferirlo. E persino di attaccarlo alle spalle senza alcuna [[concepts/mercy|pietà]]. In questi ultimi aspetti, i professori dell’Arte Nobile erano davvero molto più “nobili” dei professori della filantropia.
-
-Il signor Crisparkle era così completamente immerso nella riflessione su queste somiglianze e differenze, allo stesso [[motifs/time|tempo]] osservando la folla che andava avanti e indietro, sempre impegnata in attività ostili volte a strappare qualcosa a qualcuno senza mai dare nulla in cambio, che il suo nome fu chiamato prima ancora che lui se ne accorgesse. Quando finalmente rispose, un filantropo mal pagato e in condizioni di estrema povertà lo accompagnò nella stanza del signor Honeythunder.
-
-“Signore,” disse il signor Honeythunder con la sua voce tonante, come un insegnante che dà ordini a un ragazzo di cui non ha una buona opinione, “si sieda.”
-
-Il signor Crisparkle si sedette.
-
-Dopo aver firmato le ultime poche centinaia di migliaia di circolari, nei quali si chiedeva a un numero corrispondente di famiglie prive di mezzi economici di contribuire immediatamente e dimostrare di essere veri filantropi, oppure di andare all’inferno, un altro meschino filantropo stipendiato (molto presunto “imparziale”, se davvero lo era) raccolse tutti questi documenti in un cesto e se ne andò.
-
-“Ora, signor Crisparkle,” disse il signor Honeythunder, girando la sedia di mezzo verso di lui quando furono soli, incrociando le braccia con le mani sulle ginocchia e aggrottando la fronte, come se volesse aggiungere: “Ora, signor Crisparkle, lei e io abbiamo opinioni diverse riguardo alla sacralità della vita umana.”
-
-“Davvero lo dobbiamo fare?” rispose il Minore Canonico.
-
-“Sì, signore.”
-
-“Posso chiederle, ”, disse il Minore Canonico, “quali sono le sue opinioni su quell’argomento?”
-
-“La vita umana è qualcosa che deve essere considerato sacro, signore.”
-
-“Posso chiedervelo?” continuò il canonico minore come prima: “che cosa pensate che siano le mie opinioni su quell’argomento?”
-
-“Per Giove, signore!” rispose il Filantropo, incrociando ancora di più le braccia mentre fissava con sguardo severo il signor Crisparkle: “Sono persone che lei stesso conosce molto bene.”
-
-“Ammetto volentieri. Ma hai iniziato dicendo che avevamo punti di vista diversi, sai. Quindi, o forse non potevi dirlo apertamente, devi aver considerato alcuni dei miei punti di vista come tuoi stessi. Per favore, quali sono esattamente questi punti di vista che hai attribuito a te stesso?”
-
-“Ecco un uomo, e un giovane uomo,” disse il signor Honeythunder, come se questo rendesse la situazione ancora peggiore; avrebbe potuto facilmente sopportare la perdita di uno anziano, “spazzato via dalla faccia della terra a causa di un atto di violenza. Che ne dite?”
-
-“Omicidio”, disse il canonico minore.
-
-“Come chiamate colui che ha compiuto quell’atto, signore?”
-
-“Un assassino,” disse il canonico minore.
-
-“Sono felice di sentirla ammettere così tanto, signore,” ribatté il signor Honeythunder nel modo più offensivo possibile; “e le dico francamente che non me l’aspettavo.” Poi abbassò di nuovo lo sguardo verso il signor Crisparkle.
-
-“Per favore, spiegate cosa intendete con quelle espressioni del tutto ingiustificate.”
-
-“Non sto qui seduto, signore,” rispose il Filantropo, alzando la voce fino a farla diventare un ruggito, “per essere maltrattato.”
-
-“Essendo l’unica altra persona presente, nessuno può saperlo meglio di me,” rispose il Minore Canon molto tranquillamente. “Ma interrompo la tua spiegazione.”
-
-“Omicidio!” proseguì il signor Honeythunder, in una sorta di fervente riflessione, incrociando le braccia e scuotendo la testa con orrore dopo ogni breve frase che pronunciava. “Sangue versato. Abel! [[characters/cain|Cain]]! Non ho alcun rapporto con [[characters/cain|Cain]]. Con orrore rifiuto quella mano insanguinata quando mi viene offerta.”
-
-Invece di saltare immediatamente sulla sua sedia e esultare a squarciagola, come avrebbe sicuramente fatto la Fratellanza durante una riunione pubblica in questa situazione, il signor Crisparkle si limitò a cambiare posizione sulle gambe e disse con calma: “Non lasci che interrompa la sua spiegazione, quando finalmente inizierà.”
 
 
 
@@ -11911,50 +8358,6 @@ sufficiently bad school, even in public life; but hold that, carried
 into private life, it becomes an unendurable nuisance.”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Il Decalogo dice: ‘Non uccidere’. NO uccidere, signore!” continuò il signor Honeythunder, facendo una pausa come se stesse rimproverando il signor Crisparkle per aver affermato chiaramente che i comandamenti permettessero di commettere un piccolo omicidio e poi smettere.
-
-“E dicono anche che non si debba dare falsa testimonianza,” osservò il signor Crisparkle.
-
-“Basta!” gridò il signor Honeythunder con una solennità e severità tali da poter far crollare l’intera casa durante una riunione, “Basta! Poiché i miei defunti figli hanno ormai raggiunto l’età legale, e io sono stato liberato da un incarico che mi provoca orrore ogni volta che ci penso, ci sono quelle contabilità che avete promesso di gestire per loro, nonché una dichiarazione sul saldo che dovete ricevere. E vi dico una cosa: vorrei davvero che, come uomo e come Minor Canon, foste impegnato in qualcosa di più utile,” aggiunse con un altro cenno del capo. “Di qualcosa di molto più utile, ” ripeté ancora. “Davvero, molto più utile!” concluse per la terza volta, facendo così tre cenni consecutivi con la testa.
-
-Il signor Crisparkle sorrise; il suo viso era leggermente arrossito, ma manteneva un perfetto autocontrollo.
-
-“Signor Honeythunder,” disse, prendendo in mano i documenti menzionati, “il fatto che io sia meglio o peggio impiegato di quanto lo sia attualmente dipende da gusti e opinioni personali. Forse pensereste che fossi meglio impiegato se mi iscrivessi come membro della vostra Società.”
-
-“Ah sì, davvero, signore!” ribatté il signor Honeythunder scuotendo la testa in modo minaccioso. “Sarebbe stato meglio per voi se l'aveste fatto molto tempo fa!”
-
-“Penso il contrario.”
-
-“O forse,” disse il signor Honeythunder scuotendo di nuovo la testa, “si potrebbe pensare che una persona della vostra professione sia meglio adatta a dedicarsi alla scoperta e al castigo della [[concepts/guilt|colpa]] piuttosto che lasciare tale compito a un laico.”
-
-“Posso considerare la mia professione da un punto di vista che mi insegna che il suo primo dovere è nei confronti di coloro che si trovano in difficoltà e sofferenza, che sono soli e oppressi,” disse il signor Crisparkle. “Tuttavia, poiché ho chiarito a me stesso che non fa parte delle mie mansioni fare dichiarazioni pubbliche al riguardo, non dirò altro su questo argomento. Ma devo dire al signor Neville, e alla sorella del signor Neville (e, in misura molto minore, anche a me stesso), che so con certezza di aver pienamente compreso i pensieri e le intenzioni del signor Neville al momento di questo evento; e che, senza minimamente nascondere ciò che in lui c’era da deplorare o che doveva essere corretto, sono certo che la sua versione dei fatti sia vera. Avendo questa certezza, lo sostengo. Finché essa durerà, continuerò a sostenerlo. E se qualcosa potesse far vacillare questa mia decisione, mi vergognerei così profondamente della mia meschinità che nessuna stima altrui – né di un uomo, né di una donna – potrebbe mai compensarmi per la perdita della mia dignità.”
-
-Bravo ragazzo! Un vero uomo. E poi era anche così umile. Non c’era alcuna traccia di [[concepts/self|egoismo]] in lui, né nel suo comportamento quotidiano né nelle sue azioni più importanti. Era semplicemente e fedelmente devoto al proprio dovere, sia nelle piccole che nelle grandi cose. Così sono tutte le anime vere. Così è stata, è e sarà sempre ogni vera [[motifs/soul|anima]]. Nella persona davvero grande, non c’è nulla di “piccolo” o insignificante.
-
-“Allora, secondo te, chi è stato a farlo?” chiese improvvisamente il signor Honeythunder, girandosi verso di lui.
-
-“Dio non voglia,” disse il signor Crisparkle, “che nel mio [[motifs/desire|desiderio]] di scagionare una persona io possa involontariamente incolpare un'altra! Non accuso nessuno.”
-
-“Tcha!” esclamò il signor Honeythunder con grande disgusto; perché questo certamente non era il principio su cui la Fratellanza Filantropica solitamente agiva. “E, signore, lei non è certo un testimone imparziale. Dobbiamo tenerlo a mente.”
-
-“Come potrei essere interessato?”, chiese il signor Crisparkle, sorridendo innocentemente, senza riuscire a capirlo.
-
-“C'era una certa somma di denaro che le veniva pagata per il suo allievo, signore. Forse questo ha un po' influenzato la sua giudizio,” disse Mr. Honeythunder in tono brusco.
-
-“Forse mi aspetto ancora di poterla conservare?” rispose il signor Crisparkle, illuminato; “intendi anche tu dire questo?”
-
-“Beh, signore,” rispose il filantropo professionista alzandosi e infilando le mani nelle tasche dei pantaloni, “non mi occupo di misurare la gente per farle prendere cappelli. Se qualcuno trova che ho dei cappelli che gli vadano [[motifs/well|bene]], può metterseli se vuole. È compito loro, non mio.”
-
-Il signor Crisparkle lo guardò con profonda indignazione e lo rimproverò così:
-
-“Signor Honeythunder, speravo che entrando qui non avrei dovuto commentare l’introduzione di comportamenti o manovre inappropriati nelle norme della vita privata. Ma lei mi ha fornito un esempio così evidente di entrambi, che se rimanessi in silenzio su questi argomenti, sarei davvero degno di essere preso a modello. Sono davvero detestabili.”
-
-“Non vi stanno bene, oserei dire, signore.”
-
-“Sì,” ripeté il signor Crisparkle, senza accorgersi dell’interruzione, “sono detestabili. Violano allo stesso modo sia la giustizia che dovrebbe caratterizzare i cristiani, sia le regole di decenza che dovrebbero essere rispettate da un gentiluomo. Voi attribuite un crimine grave a qualcuno che io, conoscendo le circostanze e avendo numerosi motivi per crederci, ritengo assolutamente [[archetypes/innocent|innocente]]. Solo perché la mia opinione su questo punto fondamentale è diversa dalla vostra, voi vi rivolgete immediatamente contro di me, accusandomi di non comprendere l’enormità del crimine stesso, ma di esserne invece complice e promotore! Ancora una volta, considerandomi rappresentante dell’avversario in altre questioni, voi costruite su basi di credulità un’affermazione di [[concepts/faith|fede]] in qualche illusione ridicola o inganno malizioso. Io rifiuto di crederci, e voi vi rifugiate nell’accusa che io non creda affatto in nulla; che perché non mi inchino davanti a un falso dio creato da voi, neghi il vero Dio! Ancora una volta, dichiarate che la guerra è una calamità e proponete di abolirla con una serie di risoluzioni assurde. Io non riconosco affatto che tali idee siano vostre, e non ho la minima fiducia nella vostra soluzione. Ancora, mi presentate come qualcuno che si compiace nei orrori di un campo di battaglia, come un demone incarnato! In tutte queste occasioni, i vostri sostenitori attribuiscono a me i motivi più bassi e spregevoli, con estrema leggerezza. E citano dati che sanno essere completamente distorti. Pertanto, signor Honeythunder, ritengo che tali posizioni rappresentino un esempio pessimo, una scuola dannosa, sia nella vita pubblica che in quella privata; e che, se portate avanti nel contesto personale, diventino un vero fastidio insopportabile.”
-
 
 
 <span class="atom-split" data-atom="chapter_18--part_03" data-title="The Mystery of Edwin Drood — Chapter 17 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/innocent,archetype/shadow,motif/city,motif/leaves,motif/night,motif/silence,motif/time,motif/well,motif/window,concept/courage,concept/guilt,concept/hope,concept/solitude,concept/vanity,setting/cathedral,character/edwin_drood,character/neville_landless"></span>
@@ -12094,68 +8497,6 @@ duties made these visits of his difficult to accomplish, and only to be
 compassed at intervals of many weeks. But they were as serviceable as
 they were precious to [[characters/neville-landless|Neville Landless]].
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-“Sono parole forti, signore!” esclamò il Filantropo.
-
-“Spero proprio di sì,” disse il signor Crisparkle. “Buongiorno.”
-
-Uscì dal rifugio a passo svelto, ma presto riprese il suo solito ritmo regolare; sul suo viso comparve un sorriso mentre camminava, chiedendosi cosa avrebbe detto la pastorella di porcellana se lo avesse visto colpire con forza il signor Honeythunder in quella piccola e vivace situazione. Il signor Crisparkle, infatti, possedeva abbastanza innocua [[concepts/vanity|vanità]] da sperare di aver colpito davvero forte, e da essere convinto di aver inflitto un duro colpo a quel “Giubbotto Filantropico”.
-
-Si recò al Staple Inn, ma non da P. J. T. e il signor Grewgious. Salì molte scale scricchiolanti prima di raggiungere alcune stanze in soffitta, in un angolo; aprì la porta che non era chiusa a chiave e si trovò accanto al tavolo di [[characters/neville-landless|Neville Landless]].
-
-Un'atmosfera di ritiro e [[concepts/solitude|solitudine]] pervadeva le stanze e il loro abitante. Era molto stanco, così come loro. I soffitti inclinati, le chiavi e le sbarre arrugginite e ingombranti, nonché i pesanti mobili in legno che lentamente marcivano, davano alle stanze un aspetto prigioniero; anche il suo volto aveva l’aspetto emaciato di uno prigioniero. Tuttavia, la luce del sole filtrava attraverso la brutta finestra del sottotetto, che si affacciava su un piccolo spazio separato tra le tegole; sul parapetto crepato e annerito dal fumo, alcuni passeri saltellavano goffamente, come piccoli esseri zoppicanti che avevano lasciato le loro “stampelle” nei nidi. E lì, intorno a loro, c’erano foglie verdi che cambiavano costantemente l’atmosfera, creando una sorta di musica imperfetta, ma che in campagna sarebbe stata sicuramente considerata melodia.
-
-Le stanze erano arredate in modo semplice, ma contenevano una buona collezione di libri. Tutto indicava che si trattasse dell’abitazione di uno studente povero. Che il signor Crisparkle fosse stato colui che aveva selezionato, prestato o donato quei libri, oppure che avesse svolto tutte e tre queste funzioni, era facile intuire dallo sguardo affettuoso con cui li osservava non appena entrava.
-
-“Come va, Neville?”
-
-“Sono di buon umore, signor Crisparkle, e sto lavorando sodo.”
-
-“Vorrei che i tuoi occhi non fossero così grandi e così luminosi,” disse il canonico minore, liberando lentamente la mano che aveva tenuta nella sua.
-
-“Si illuminano solo alla tua vista,” rispose Neville. “Se tu dovessi allontanarti da me, presto diventerebbero davvero tristi, ”
-
-“Rallia, rallia!”, esortò l’altro con tono incoraggiante. “Lotta per questo, Neville!”
-
-“Se stessi morendo, sentirei che una tua parola potrebbe rianimarmi; se il mio battito cardiaco si fosse fermato, sentirei che il tuo tocco potrebbe farlo riprendere”, disse Neville. “Ma io sono già riuscito a riprendermi, e sto andando molto bene.”
-
-Il signor Crisparkle lo girò, facendogli voltare il viso un po’ di più verso la luce.
-
-“Vorrei che tu avessi un aspetto più rossastro, Neville,” disse, indicando con il proprio viso sano l’aspetto che desiderava per lui. “Voglio che il sole splenda di più su di te.”
-
-Neville si abbassò improvvisamente e rispose a voce bassa: “Non sono ancora abbastanza forte per farlo. Forse un giorno lo sarò, ma al momento non ce la faccio. Se aveste percorso quelle strade di Cloisterham come ho fatto io; se aveste visto, come ho visto io, quegli sguardi evitanti e le persone perbene che mi lasciavano spazio per passare senza che dovessi toccarle o avvicinarmi a loro, non pensereste che sia del tutto irragionevole il fatto che non possa muovermi alla luce del giorno.”
-
-“Povero ragazzo mio!”, disse il canonico minore con un tono così sinceramente compassionevole che il giovane gli prese la mano, “Non ho mai detto che fosse irragionevole; non l’ho mai pensato. Ma vorrei davvero che lo facessi.”
-
-“E questo mi darebbe il movente più forte per farlo. Ma non posso ancora. Non riesco a convincermi che gli sguardi di tutte quelle persone che incontro in questa vasta [[motifs/city|>città]] non siano pieni di sospetto nei miei confronti. Mi sento marchiato, contaminato. Anche quando esco, e lo faccio soltanto di [[motifs/night|notte]]. Ma allora l’oscurità mi avvolge, e è proprio da essa che trovo il [[concepts/courage|coraggio]] necessario.”
-
-Il signor Crisparkle gli mise una mano sulla spalla e rimase lì a guardarlo in basso.
-
-“Se avessi potuto cambiare il mio nome,” disse Neville, “l’avrei fatto. Ma come hai saggiamente sottolineato tu, non posso farlo, perché sembrerebbe un segno di [[concepts/guilt|colpa]]. Se avessi potuto andare in qualche luogo lontano, forse avrei trovato sollievo, ma per lo stesso motivo è impossibile. Nascondersi o fuggire significherebbe comunque ammettere la propria colpevolezza. Sembra davvero difficile essere così legati a qualcosa, eppure sono [[archetypes/innocent|innocente]]; ma non mi lamento.”
-
-“E non dovresti aspettarti alcun miracolo che ti aiuti, Neville,” disse il signor Crisparkle con compassione.
-
-“No, signore, lo so bene. L’unica cosa su cui posso contare è la normalità del [[motifs/time|tempo]] e delle circostanze attuali.”
-
-“Finalmente ti renderà giustizia, Neville.”
-
-“Quindi credo, e [[concepts/hope|>spero]] di vivere abbastanza a lungo per scoprirlo.”
-
-Ma rendendosi conto che quell'umore cupo in cui stava cadendo gettava un’ombra» sul Minor Canon, e forse sentendo che la mano che gli poggiava sulla spalla non era più così ferma come lo sarebbe stata se fosse stata guidata soltanto dalla sua forza naturale, si rianimò e disse:
-
-“Comunque, circostanze eccellenti per lo studio! E sa, signor Crisparkle, quale sia veramente il bisogno che ho di studiare. Per non parlare del fatto che lei stesso mi ha consigliato di dedicarmi alla difficile professione legale; naturalmente seguo i suoi suggerimenti, quelli di un amico e aiutante così prezioso.”
-
-Si tolse la mano che lo sosteneva sulle spalle e la baciò. Il signor Crisparkle fissava i libri con un sorriso, ma non così radioso come quando era entrato.
-
-“Dalla vostra [[motifs/silence|silenzio]] su questo argomento, deduco che il mio defunto tutore sia contrario, signor Crisparkle, ”
-
-Il Minore Canone rispose: “Il vostro defunto tutore è una persona davvero irragionevole; per chiunque abbia un minimo di buon senso, non ha alcuna importanza che sia contrario, perverso, o il contrario di tutto ciò.”
-
-“Beh, per me va bene così: ho abbastanza denaro per vivere,” sospirò Neville, metà stanco e metà felice. “Intanto aspetto di ricevere l’istruzione che mi spetta e di vedere giustizia fatta. Altrimenti avrei potuto dimostrare quel proverbio secondo cui, mentre l’erba cresce, il cavallo muore di fame!”
-
-Mentre lo diceva, aprì alcuni libri e presto si immerse nei loro passaggi intrecciati e annotati; intanto il signor Crisparkle sedeva accanto a lui, spiegando, correggendo e dando consigli. I doveri del Minor Canon nella [[settings/cathedral|cattedrale]] rendevano queste visite difficili da realizzare, e avvenivano soltanto a intervalli di molte settimane. Tuttavia, per [[characters/neville-landless|Neville Landless]] erano tanto utili quanto preziose.
 
 
 
@@ -12306,87 +8647,6 @@ entertain a sort of fancy for having _him_ under my eye to-[[motifs/night|night]
 you know?”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Dopo aver completato gli studi che avevano in programma, si misero in piedi appoggiati al davanzale delle finestre, guardando giù verso quel pezzo di [[motifs/garden|>jardino]].  
-“La prossima settimana,” disse il signor Crisparkle, “smetterete di essere soli e avrete un compagno devoto.”
-
-“Eppure,” rispose Neville, “sembra davvero un posto inadatto per portarci mia sorella.”
-
-“Non credo proprio”, disse il Minore Canonico. “Qui c’è un dovere da compiere; e ci sono bisogno di sentimenti femminili, di sensibilità e di [[concepts/courage|coraggio]]”.
-
-“Volevo dire,” spiegò Neville, “che l’ambiente circostante è così noioso e poco adatto a una donna, che [[characters/helena|Helena]] non potrebbe trovare qui nessuna amica o compagnia adeguata.”
-
-“Basta che ricordiate,” disse il signor Crisparkle, “che siete voi stesso qui, e che è lei ad aver bisogno di portarvi verso la luce del sole.”
-
-Rimasero in silenzio per un po’, poi il signor Crisparkle ricominciò a parlare.
-
-“Quando abbiamo parlato per la prima volta, Neville, mi hai detto che tua sorella, nonostante le difficoltà delle tue vite passate, era superiore a te, proprio come la cattedrale di Cloisterham è più alta delle ciminiere di Minor Canon Corner. Te lo ricordi?”
-
-“Esatto, proprio così!”
-
-“All’epoca ero incline a considerarlo un gesto di entusiasmo. Ma ormai non importa più ciò che penso. Quello che voglio sottolineare è che, sotto l’influenza del [[concepts/pride|Orgoglio]], tua sorella rappresenta per te un esempio straordinario e opportuno da seguire.”
-
-“Tra tutte le qualità che compongono un carattere nobile, lei ne possiede senz’altro alcune.”
-
-“Dillo pure; ma prendi questa. Tua sorella ha imparato a dominare ciò che è orgoglioso nella sua [[concepts/nature|>natura]]. Riesce a controllarlo anche quando è ferito, grazie alla sua simpatia per te. Non c’è [[concepts/doubt|>dubbio]] che abbia sofferto profondamente nelle stesse strade in cui hai sofferto tu. Non c’è [[concepts/doubt|>dubbio]] che la sua vita sia oscurata dalla stessa nuvola che offusca la tua. Ma piegando il suo [[concepts/pride|orgoglio]] in una grande compostezza, che non è né arrogante né aggressiva, ma rappresenta una fiducia costante in te e nella [[concepts/truth|verità]], è riuscita a superare tutte quelle difficoltà, fino a diventare oggetto di rispetto tanto quanto chiunque altro vi cammini. Ogni giorno, ogni ora della sua vita, da quando Edwin Drood è scomparso, ha affrontato malvagità e follia, per te, come solo una natura coraggiosa e ben guidata può fare. E così sarà fino alla fine. Un altro tipo di [[concepts/pride|orgoglio]], più debole, potrebbe spezzarsi nel dolore; ma mai un orgoglio come il suo: un orgoglio che non conosce timore e che non può essere domato.”
-
-La pallida guancia accanto a lui arrossì di fronte a quel confronto, e al suggerimento che esso implicava.
-
-“Farò tutto il possibile per imitarla”, disse Neville.
-
-“Fallo, e sii davvero un uomo coraggioso, così come lei è davvero una donna coraggiosa,” rispose con fermezza il signor Crisparkle. “Sta facendo buio. Verrai con me quando sarà completamente notte? Attenzione: non sono io ad aspettare che cali il buio.”
-
-Neville rispose che lo avrebbe accompagnato subito. Ma il signor Crisparkle disse di dover fare un saluto al signor Grewgious per cortesia, e che sarebbe andato nelle stanze di quel gentiluomo per poi raggiungere Neville davanti alla sua porta, se Neville fosse sceso ad aspettarlo lì.
-
-Il signor Grewgious, seduto dritto come al solito, beveva il suo vino al crepuscolo davanti alla sua finestra aperta; il bicchiere e la caraffa erano posizionati sul tavolino rotondo accanto a lui; lui stesso e le sue gambe occupavano lo “sedile” della finestra. Nel suo intero corpo c’era soltanto un’unica articolazione, proprio come in una suola di stivale.
-
-“Come state, reverendo signore?” disse il signor Grewgious, offrendo con generosità ospitalità, ma venendo cortesemente rifiutato. “E come procede la formazione del vostro allievo, quel ragazzo che ho avuto il piacere di raccomandarvi come idoneo e disponibile?”
-
-Il signor Crisparkle rispose in modo appropriato.
-
-“Sono felice che tu li approvi,” disse il signor Grewgious, “perché ho l’idea di tenerlo sotto la mia sorveglianza.”
-
-Poiché il signor Grewgious dovette alzare lo sguardo molto in alto per riuscire a vedere le stanze, questa espressione andava intesa in senso figurato e non letterale.
-
-“E come avete lasciato il signor Jasper, reverendo signore?” chiese il signor Grewgious.
-
-Il signor Crisparkle lo aveva lasciato in condizioni piuttosto buone.
-
-“E dove ha lasciato il signor Jasper, reverendo signore?” Il signor Crisparkle lo aveva lasciato a Cloisterham.
-
-“E quando ha lasciato il signor Jasper, reverendo signore?” Quella mattina.
-
-“Umps!”, disse il signor Grewgious. “Forse non ha detto che sarebbe venuto, vero?”
-
-“Arrivando dove?”
-
-“Qualsiasi posto, per esempio?” disse il signor Grewgious.
-
-“No.”
-
-“Perché eccolo qui,” disse il signor Grewgious, che aveva posto tutte queste domande, con lo sguardo assorto rivolto verso la [[motifs/window|finestra]]. “E non sembra affatto di buon umore, vero?”
-
-Il signor Crisparkle si sporgeva verso la [[motifs/window|finestra]] quando il signor Grewgious aggiunse:
-
-“Se voleste gentilmente spostarvi qui dietro di me, nell’oscurità della stanza, e guardare dalla finestra del secondo piano in quella casa laggiù, credo che non avrete difficoltà a notare una figura che si muove furtivamente. Una persona che riconoscerei come il nostro amico del posto.”
-
-“Hai ragione!”, esclamò il signor Crisparkle.
-
-“Umps!”, disse il signor Grewgious. Poi aggiunse, girando la testa così bruscamente che quasi si scontrò con quella del signor Crisparkle: “Cosa direste di ciò che ha fatto il nostro amico locale?”
-
-L’ultimo passaggio che gli era stato mostrato nel Diario tornò nella mente di Mr. Crisparkle con la forza di uno scoppio improvviso; chiese quindi a Mr. Grewgious se pensasse fosse possibile che Neville venisse disturbato dal fatto che qualcuno lo tenesse sotto osservazione.
-
-“Un orologio?”, ripeté il signor Grewgious, pensieroso. “Ah sì!”
-
-“Ciò non solo lo perseguiterebbe e lo tormenterebbe per tutta la vita,” disse con calore il signor Crisparkle, “ma lo esporrebbe anche al tormento di un sospetto che continuava a riemergere, indipendentemente da ciò che facesse o dove andasse.”
-
-“Ah, ” disse il signor Grewgious, ancora assorto nei suoi pensieri. “Lo vedo, aspettarti, vero?”
-
-“Non ho alcun [[concepts/doubt|>dubbio]] che tu lo faccia.”
-
-“Allora avreste la gentilezza di scusarmi se mi alzo per accompagnarvi fuori, per unirmi a lui e seguire la stessa strada che state percorrendo, senza prestare attenzione al nostro amico del posto?” disse il signor Grewgious. “Vede, ho una sorta di desiderio, di tenerlo sotto i miei occhi, di notte, capite?”
-
 
 
 <span class="atom-split" data-atom="chapter_18--part_05" data-title="The Mystery of Edwin Drood — Chapter 17 (part 5)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/garden,motif/home,motif/night,motif/ship,motif/stars,motif/time,motif/water,motif/well,motif/window,concept/charity,concept/hope,concept/identity,setting/ship,character/edwin_drood"></span>
@@ -12530,73 +8790,6 @@ much as know our letters in the [[motifs/stars|stars]] yet—or seem likely to d
 this state of existence—and few languages can be read until their
 alphabets are mastered.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Il signor Crisparkle, con un cenno deciso, acconsentì; poi, raggiungendo di nuovo Neville, se ne andò con lui. Mangiarono insieme e si separarono alla stazione ferroviaria ancora incompleta e in via di sviluppo: il signor Crisparkle per tornare a [[motifs/home|>casa]]; Neville invece per camminare per le strade, attraversare i ponti e fare un lungo giro attorno alla [[motifs/city|>città]] nella tranquilla oscurità della notte, fino a stancarsi del tutto.
-
-Era mezzanotte quando tornò dal suo solitario viaggio e salì le scale. La [[motifs/night|notte]] era calda, e tutte le finestre delle scale erano completamente aperte. Arrivato in cima, provò un leggero brivido di sorpresa (non essendoci altre stanze se non la sua) nel vedere un estraneo seduto sul davanzale della [[motifs/window|finestra]]; sembrava più un avventuroso vetraio che un dilettante solitamente attento alla propria sicurezza. Anzi, era così “fuori” dalla finestra che si poteva pensare fosse salito attraverso lo scarico dell’acqua, invece che per le scale.
-
-Lo sconosciuto non disse nulla finché Neville non inserì la chiave nella sua porta; poi, sembrando volersi assicurare della sua [[concepts/identity|identità]] attraverso quel gesto, parlò.
-
-“Mi scusi,” disse lui, avvicinandosi dalla [[motifs/window|finestra]] con un atteggiamento sincero e sorridente, e un modo di parlare molto affabile; “i fagioli, ”
-
-Neville era davvero senza sapere cosa fare.
-
-“Gli corridori,” disse il visitatore. “Scarlet, proprio accanto, dietro.”
-
-“O,” rispose Neville. “E la mignonette e il fiore da parete?”
-
-“Lo stesso,” disse il visitatore.
-
-“Entra pure, prego.”
-
-"Grazie."
-
-Neville accese le sue candele e il visitatore si sedette. Un gentiluomo attraente, con un viso giovane, ma una corporatura più matura, robusta e dalle spalle larghe; direi un uomo di ventotto anni, al massimo trenta; così abbronzato che il contrasto tra il suo volto scuro e la fronte bianca, in parte nascosta dal cappello all’aperto, e i frammenti di pelle bianca visibili sotto il colletto, sarebbe stato quasi ridicolo se non fosse stato per le sue tempie larghe, gli occhi azzurri brillanti, i capelli castani e i denti sorridenti.
-
-“Ho notato,” disse lui; “il mio nome è Tartar.”
-
-Neville inclinò la testa.
-
-“Ho notato (scusate) che vi tenete molto in disparte e che sembrate apprezzare il mio [[motifs/garden|giardino]] qui sopra. Se voleste ne avere di più, potrei appendere alcune piante tra le mie finestre e le vostre; i servitori le porterebbero direttamente lì. Inoltre, ho alcune cassette contenenti piante di mignonette e altre specie che potrei posizionare lungo il canale di scolo (con l’aiuto di un gancio che ho a disposizione) vicino alle vostre finestre; le potreste tirare indietro quando aveste bisogno di annaffiarle o curarle, e rimetterle a posto quando fossero pronte per essere nuovamente piantate. Non oserei prendermi questa libertà senza il vostro permesso, quindi vi chiedo gentilmente il consenso. Tartar, il set corrispondente è proprio accanto, ”
-
-“Sei davvero molto gentile.”
-
-“Assolutamente no. Dovrei scusarmi per essere venuto così tardi. Ma avendo notato che di solito esce di sera, ho pensato di non disturbarla aspettando il suo ritorno. Ho sempre paura di disturbare le persone impegnate, essendo io stesso un uomo inutile.”
-
-# Non avrei mai pensato una cosa del genere, guardandoti.
-
-“No? Lo interpreto come un complimento. In effetti, sono stato educato nella Royal Navy e sono diventato Primo Ufficiale prima di lasciarla. Ma un mio zio, deluso dal servizio militare, mi lasciò la sua proprietà a condizione che io abbandonassi la Marina; accettai quella fortuna e rassegnai le dimissioni.”
-
-“Ultimamente, immagino, ”
-
-“Beh, prima avevo passato dodici o quindici anni viaggiando da un posto all’altro. Sono arrivato qui circa nove mesi prima di te; avevo già raccolto una stagione di prodotti prima del tuo arrivo. Ho scelto questo posto perché, avendo servito l’ultima volta su una piccola corvetta, sapevo che mi sarei sentito più a mio agio in un ambiente dove avevo costantemente la possibilità, di ‘sbattere la testa contro il soffitto’, per così dire. Inoltre, non sarebbe stato affatto appropriato per un uomo che fin da ragazzo aveva trascorso la vita su una nave trasformarsi all’improvviso in uno spendaccione. E poi, essendo abituato a vivere in spazi molto ristretti per tutta la mia vita, pensavo che iniziando con qualcosa di semplice come delle scatole, avrei potuto gradualmente imparare a gestire una proprietà terriera.”
-
-Per quanto detta in modo capriccioso, c'era un pizzico di serietà gioiosa che la rendeva ancora più stravagante.
-
-“Tuttavia,” disse il Tenente, “ho parlato abbastanza di me stesso. Non è nel mio stile, spero; si è trattato soltanto di presentarmi a voi in modo naturale. Se mi permetterete di compiere l’azione che ho descritto, sarà una sorta di carità, poiché mi darà qualcosa di più da fare. E non dovete pensare che ciò possa causarvi alcuna interruzione o intrusione, perché questa è assolutamente lontana dalla mia intenzione.”
-
-Neville rispose che era molto grato e che accettava con gratitudine quell’offerta gentile.
-
-“Sono molto felice di poter occuparmi dei vostri finestrini,” disse il tenente.  
-“Da quanto ho visto di voi mentre lavoravo nel mio giardino e voi osservavate, ho pensato che foste, scusate, un po’ troppo studioso e delicato. Posso chiedervi se la vostra salute ne risenta in qualche modo?”
-
-“Ho attraversato alcuni periodi di difficoltà mentale,” disse Neville, confuso, “che, in un certo senso, hanno sostituito la malattia stessa.”
-
-“Perdonatemi,” disse il signor Tartar.
-
-Con la massima delicatezza, spostò di nuovo il proprio peso verso le finestre e chiese se potesse guardarne una. Non appena Neville le aprì, lui balzò immediatamente fuori, come se dovesse portare in salvo un intero orologio in caso di emergenza, dando così un esempio luminoso.
-
-“Per l’amor del cielo,” gridò Neville, “non fatelo! Dove state andando, signor Tartar? Vi schianterete in mille pezzi!”
-
-“Tutto a posto!”, disse il tenente, guardandosi intorno con calma sul tetto della casa. “Tutti i cavi sono tesi e in ordine; quei tiranti verranno sistemati prima che tu esca questa mattina. Posso prendere questo sentiero più breve per tornare a [[motifs/home|casa]] e augurarti la buona [[motifs/night|notte]]?”
-
-“Mr. Tartar!”, esclamò Neville. “Per favore. Vedervi mi fa girare la testa!”
-
-Ma il signor Tartar, con un gesto della mano e la destrezza di un gatto, era già passato attraverso i suoi corridoi foderati di velluto rosso senza rompere nemmeno una foglia, ed era “scomparso al piano di sotto”.
-
-Il signor Grewgious, con la tenda della finestra della sua camera da letto tenuta da parte con la mano, si trovava proprio in quel momento a guardare direttamente verso le stanze di Neville, per l’ultima volta quella [[motifs/night|notte]]. Fortunatamente il suo sguardo era rivolto verso la facciata della casa e non sul retro; altrimenti quell’incredibile apparizione e sparizione avrebbero potuto disturbare il suo sonno, considerandola un fenomeno strano. Ma poiché il signor Grewgious non vide nulla lì, nemmeno una luce alle finestre, il suo sguardo si spostò dalle finestre verso le [[motifs/stars|stelle]], come se volesse leggere in esse qualcosa che gli era nascosto. Molti di noi lo farebbero, se potessimo; ma nessuno di noi conosce ancora nemmeno le lettere presenti nelle [[motifs/stars|stelle]]. E poche lingue possono essere comprese prima che il loro alfabeto venga appreso.
 
 
 
@@ -12779,96 +8972,6 @@ occupying the gatehouse, of which on the other side of the gateway, the
 Verger’s hole-in-the-wall was an appanage or subsidiary part.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XVIII.  
-UN COLONO A CLOSTERHAM
-
-
-Intorno a questa [[motifs/time|ora]], un estraneo apparve a Cloisterham: una persona dai capelli bianchi e dalle sopracciglia nere. Indossava un abito blu stretto, con giacchetta giallastra e pantaloni grigi; aveva un aspetto piuttosto militare, ma si presentò all’hotel Crozier come un uomo senza impegni che viveva delle proprie risorse. Inoltre annunciò di voler prendere in affitto una stanza nella pittoresca vecchia [[motifs/city|città]] per un mese o due, con l’intenzione di stabilirsi lì definitivamente. Entrambe le dichiarazioni furono fatte nel salotto da caffè dell’hotel Crozier, davanti a chiunque potesse essere interessato o meno. L’estraneo, con le spalle rivolte al camino vuoto, aspettava il suo pesce fritto, la cotoletta di vitello e una pinta di sherry. Il cameriere (poiché gli affari all’hotel Crozier andavano sempre male) rappresentò tutti coloro che potessero essere interessati, e assorbì l’intera informazione.
-
-La testa bianca di questo signore era insolitamente grande, e la sua chioma bianca era particolarmente folta e abbondante. “Suppongo,” disse, scuotendo quella chioma bianca, proprio come un cane di Terranova potrebbe farlo prima di sedersi a cena, “che in queste zone si possa trovare un alloggio decente per un uomo solo, eh?”
-
-Il cameriere non ne aveva alcun [[concepts/doubt|>dubbio]].
-
-“Qualcosa di vecchio, ”, disse il gentiluomo. “Per favore, toglimi il cappello da quel gancio per un momento. No, non lo voglio più; guarda dentro. Cosa leggi scritto lì?”
-
-Il cameriere lesse: “Datchery”.
-
-“Ora conosci il mio nome,” disse il gentiluomo; “Dick Datchery. Riappendi il telefono, per favore. Stavo dicendo che preferirei qualcosa di vecchio, qualcosa di strano e insolito. Qualcosa di venerabile, di caratteristico dell’architettura, anche se forse un po’ scomodo da utilizzare.”
-
-“Credo che nella città ci siano diverse sistemazioni poco comode ma adatte alle nostre esigenze, signore,” rispose il cameriere, con una moderata fiducia nelle risorse a disposizione; “infatti, non ho alcun [[concepts/doubt|>dubbio]] che riusciremmo a trovare qualcosa che le soddisfi, per quanto particolari possano essere le sue esigenze. Ma una sistemazione ‘architettonica’, ” Quella frase sembrò mettere in difficoltà il cameriere, che scosse la testa.
-
-“Ora qualcosa di davvero grandioso, tipo una cattedrale,” suggerì il signor Datchery.
-
-“Signor Tope,” disse il cameriere, illuminandosi in volto mentre si strofinava il mento con la mano, “è probabilmente la persona più adatta per fornire informazioni in quel senso.”
-
-“Chi è il signor Tope?” chiese Dick Datchery.
-
-Il cameriere spiegò che era il custode del luogo e che la signora Tope aveva davvero, in un certo [[motifs/time|momento]], offerto di affittare le stanze o di permettere a qualcuno di farlo; ma poiché nessuno le aveva mai prese in affitto, l’insegna della signora Tope, che da tempo faceva parte dell’istituto Cloisterham, era scomparsa. Probabilmente era caduta un giorno e non era mai stata ripristinata.
-
-“Farò visita alla signora Tope dopo cena”, disse il signor Datchery.
-
-Quando ebbe finito di cenare, fu debitamente indirizzato verso il luogo indicato e si avviò verso di esso. Tuttavia, poiché l’hotel “Crozier” aveva una disposizione molto riservata e le istruzioni del cameriere erano estremamente precise, presto si trovò confuso e iniziò a girovagare intorno alla [[settings/cathedral|Cattedrale]], ogni volta che riusciva a intravederla. Aveva l’impressione generale che la casa della signora Tope fosse da qualche parte molto vicina, e che, proprio come nei giochi in cui i bambini cercano fagioli bolliti caldi o burro fresco, si sentisse “caldo” nella sua ricerca ogni volta che vedeva la Cattedrale, e “freddo” quando non la vedeva.
-
-Stava davvero congelando quando trovò un [[forms/fragment|frammento]] di cimitero dove una pecora sfortunata pascolava. Sfortunata perché un orribile ragazzino la stava lapidando attraverso le recinzioni; aveva già spezzato una delle sue zampe e, animato da un sadico spirito sportivo, era intenzionato a romperne altre tre per farla cadere.
-
-“Lo ha fatto di nuovo!”, gridò il ragazzo mentre quella povera creatura saltava, e lasciava un segno nel suo vello.
-
-“Lasciatelo in pace!”, disse il signor Datchery. “Non vedete che lo avete rovinato?”
-
-“Stai mentendo,” rispose lo sportivo. “È andato da solo e si è fatto male. Lo vedo farlo, quindi gli do un avvertimento per che non vada più a picchiare la pecora di suo padrone.”
-
-Vieni qui.
-
-“Non lo farò; verrò quando riuscirete a catturarmi.”
-
-“Resta lì allora, e dimmi quale è quella di Mr. Tope.”
-
-“Oh, posso restare qui e farti vedere quale è Topeseses, quando Topeseses si trova dall’altra parte del Kinfreederal, oltre tutti quei passaggi, e attorno a così tante strade? Idioti! Ahhh!”
-
-"Mostrami dove si trova, e ti darò qualcosa."
-
-“Allora, avanti.”
-
-Dopo questo rapido scambio di parole, il ragazzo prese la guida e, dopo un po’, si fermò a una certa distanza da un passaggio ad arco, indicandolo con il dito.
-
-“Guarda laggiù. Vedi quella porta e quella finestra?”
-
-“È di Toppe?”
-
-“Non è vero; appartiene a Jarsper.”
-
-“Davvero?” disse il signor Datchery, guardandola di nuovo con un certo interesse.
-
-“Sì, e non ho intenzione di avvicinarmi di un altro centimetro, ve lo dico chiaro.”
-
-Perché no?
-
-“Non ho intenzione di farmi togliere le gambe, rompere i denti fissi e essere soffocato. Non lo permetterò mai, né da parte sua. Aspetta solo che un giorno riesca a far volare una bella pietra focaia dritta nella schiena di quel vecchio bastardo! Ora guarda dall’altra parte del recinto. Non quella dove c’è la porta di Jarsper, ma l’altra.”
-
-“Capisco.”
-
-“Un po’ più avanti, da quel lato, c’è una porta bassa; bisogna scendere due gradini. Lì abita Topeseses, il cui nome è scritto su una targa di metallo rotonda.”
-
-“Bene, guardate qui,” disse il signor Datchery, tirando fuori una sterlina. “Mi dovete metà di questa somma.”
-
-“Mentite! Non vi devo nulla; non vi ho mai visto.”
-
-“Ti dico che mi devi metà di questa somma, perché non ho nemmeno sei pence in tasca. Quindi la prossima volta che ci incontriamo dovrai fare qualcos’altro per me, così da ripagarmi.”
-
-“Va bene, datemi quello vecchio.”
-
-Che nome hai e dove vivi?
-
-“Agente. Travellers’ Twopenny, attraversi il semaforo verde.”
-
-Il ragazzo si allontanò immediatamente con lo scellino, per evitare che il signor Datchery cambiasse idea, ma si fermò a una distanza di sicurezza, nella speranza che lui potesse iniziare a sentirsi a disagio al riguardo, e così lo provocò con una [[motifs/dance|danza]] demoniaca che esprimeva l’irrevocabilità della sua azione.
-
-Il signor Datchery, togliendosi il cappello per scuotere ancora una volta quella ciocca di capelli bianchi, sembrava del tutto rassegnato e si diresse verso la destinazione che gli era stata indicata.
-
-La residenza ufficiale del signor Tope, collegata da una scala interna con quella del signor Jasper (e quindi frequentata anche dalla signora Tope), era di dimensioni molto modeste e aveva l’aspetto di un freddo e umido sotterraneo. Le sue antiche mura erano massicce, e le stanze sembravano essere state scavate direttamente nella roccia, piuttosto che progettate con cura in precedenza. La porta principale dava accesso a una stanza di forma indescrivibile, con soffitto a crociera; da questa si entrava in un’altra stanza altrettanto irregolare. Le finestre erano piccole e situate nelle parti più spesse delle mura. Queste due stanze, caratterizzate da un’atmosfera cupa e da scarsa illuminazione naturale, erano quelle che la signora Tope aveva offerto per tanto tempo a un ospite poco apprezzativo. Il signor Datchery, invece, le trovò molto adatte alle sue esigenze. Se teneva la porta principale aperta, poteva godere della compagnia delle persone che passavano davanti all’ingresso e aveva abbastanza luce; inoltre, se il signor e la signora Tope utilizzavano una piccola scala laterale per entrare ed uscire, lui rimaneva praticamente solo, come se si trovasse in una residenza separata. Il canone di affitto gli sembrava moderato, e tutto era così caratteristico e “scomodo” proprio come desiderava. Così accettò subito l’offerta, pagando un acconto e prendendo possesso dell’appartamento la sera seguente, a condizione che potesse fare riferimento al signor Jasper, che abitava nella casa di guardia situata dall’altra parte dell’ingresso. La stanzetta del custode, annessa a quella residenza, ne rappresentava in qualche modo una parte integrante.
-
 
 
 <span class="atom-split" data-atom="chapter_19--part_02" data-title="The Mystery of Edwin Drood — Chapter 18 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/city,motif/desire,motif/home,motif/nature,motif/prison,motif/secrets,motif/time,motif/well,motif/winter,concept/doubt,concept/honour,concept/nature,setting/cathedral,character/edwin_drood,character/john_jasper"></span>
@@ -13012,78 +9115,6 @@ long arm will reach, and the strong arm will strike.—This is our
 among our townsmen own to being a little vain of it.”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Quel povero gentiluomo era molto solo e molto triste, disse la signora Tope, ma non aveva alcun [[concepts/doubt|>dubbio]] che avrebbe “parlato per lei”. Forse il signor Datchery aveva sentito qualcosa di ciò che era accaduto lì l’ultima [[motifs/winter|inverno]]?
-
-Il signor Datchery aveva una conoscenza estremamente confusa dell’evento in questione; nel tentativo di ricordarlo, non riusciva affatto a farlo chiaramente. Quando la signora Tope si sentì in dovere di correggerlo su ogni dettaglio della sua descrizione dei fatti, lui le chiese scusa, sostenendo di essere soltanto un uomo che cercava di cavarsela nella vita nel modo più tranquillo possibile. Aggiunse inoltre che molte persone continuavano a ingannare altre, rendendo difficile per qualcuno con un carattere mite mantenere chiara nella propria mente la sequenza degli eventi.
-
-Il signor Jasper si dimostrò disposto a parlare a nome della signora Tope; il signor Datchery, che aveva inviato la sua carta di presentazione, fu invitato ad salire la scala posteriore. C'era anche il sindaco, disse la signora Tope; ma non doveva essere considerato come un ospite ufficiale, poiché lui e il signor Jasper erano grandi amici.
-
-“Perdonatemi,” disse il signor Datchery, sistemando il cappello sotto il braccio mentre si rivolgeva a entrambi i gentiluomini; “si tratta di una precauzione egoistica da parte mia, che non interessa personalmente nessuno se non me stesso. Ma essendo una persona che vive delle proprie risorse e desiderando godermi questi bei luoghi in pace e tranquillità per il resto della mia vita, vorrei chiedere se la famiglia Tope sia davvero rispettabile.”
-
-Il signor Jasper avrebbe potuto rispondere a quella domanda senza il minimo esitazione.
-
-“Basta così, signore,” disse il signor Datchery.
-
-“Mio caro amico il Sindaco,” aggiunse il signor Jasper, presentando il signor Datchery con un gesto cortese della mano verso quel potente; “la cui raccomandazione è, in realtà, molto più importante per uno straniero rispetto a quella di una persona insignificante come me. Sarà sicuramente dalla loro parte, ne sono certo.”
-
-“Il rispettabile Sindaco,” disse il signor Datchery inchinandosi profondamente, “mi impegna in un debito infinito.”
-
-“Persone molto perbene, signore: il signor e la signora Tope,” disse il signor Sapsea con condiscendenza. “Opinioni molto positive. Molto ben comportati. Molto rispettosi. Ampiamente approvati dal decano e dal capitolo.”
-
-“Il rispettabile Sindaco conferisce loro un certo prestigio,” disse il signor Datchery, “di cui possono davvero andare fieri. Vorrei chiedere a Sua [[concepts/honour|Onore]] (se mi è permesso) se non esistano molti oggetti di grande interesse nella [[motifs/city|città]] che si trova sotto la sua benevola guida.”
-
-“Sì, signore,” rispose il signor Sapsea, “siamo una antica [[motifs/city|>città]], e anche una città ecclesiastica. Siamo una [[motifs/city|>città]] costituzionale, poiché tale è la natura di una simile istituzione, e difendiamo e manteniamo i nostri gloriosi privilegi.”
-
-“La sua [[concepts/honour|Onore]]”, disse il signor Datchery inchinandosi, “mi ispira il desiderio di conoscere meglio questa città e rafforza la mia intenzione di trascorrervi gli ultimi anni della mia vita.”
-
-“Si è congedato dall’esercito, signore?”, suggerì il signor Sapsea.
-
-“La sua [[concepts/honour|onore]] nei confronti del sindaco mi dà troppo credito,” rispose il signor Datchery.
-
-“La Marina, signore?”, suggerì il signor Sapsea.
-
-“Di nuovo,” ripeté il signor Datchery, “il suo [[concepts/honour|Onore]], il sindaco mi attribuisce troppi meriti.”
-
-“La diplomazia è una bella professione,” disse il signor Sapsea, come osservazione generale.
-
-“Ebbene, devo ammetterlo: l’onore del Sindaco è davvero troppo grande per me,” disse il signor Datchery con un sorriso astuto e un inchino; “anche un uccello diplomatico dovrebbe cadere sotto il tiro di una tale arma.”
-
-Questo era davvero molto rassicurante. Si trattava di un gentiluomo dal modo di parlare molto dignitoso, abituato al rango e alla dignità; rappresentava davvero un ottimo esempio di come comportarsi con un sindaco. C’era qualcosa nel modo di rivolgersi a lui in terza persona che, secondo il signor Sapsea, rispecchiava particolarmente i suoi meriti e la sua posizione sociale.
-
-“Ma desidero ardentemente il perdono,” disse il signor Datchery. “La sua [[concepts/honour|Onorevolezza]], il sindaco, mi perdonerà se, per un momento, sono stato indotto ad occupare il suo [[motifs/time|tempo]], dimenticando le mie umili esigenze legate al mio hotel, il ‘Crozier’.”
-
-“Assolutamente no, signore,” disse il signor Sapsea. “Sto tornando a [[motifs/home|>casa]], e se desiderate vedere l’esterno della nostra [[settings/cathedral|>Cattedrale]] lungo la strada, sarò felice di indicarvela.”
-
-“La sua [[concepts/honour|Onorevolezza]] verso il Sindaco,” disse il signor Datchery, “è davvero più che gentile e magnanima.”
-
-Come il signor Datchery, che, dopo aver ringraziato il signor Jasper, non volle assolutamente lasciare la stanza finché il magistrato non se ne fu andato; così il magistrato prese l’iniziativa di scendere le scale; il signor Datchery lo seguì, con il cappello sotto il braccio e i suoi capelli bianchi che sventolavano nella brezza serale.
-
-“Posso chiedere al suo [[concepts/honour|Onore]],” disse il signor Datchery, “se quel gentiluomo che abbiamo appena lasciato sia lo stesso di cui ho sentito parlare nel quartiere, colpito dal dolore per la perdita di un nipote e dedicato interamente alla ricerca della vendetta?”
-
-“Ecco il gentiluomo: [[characters/john-jasper|John Jasper]], signore.”
-
-“La sua [[concepts/honour|Onorabilità]] mi permetterebbe di chiedere se ci siano forti sospetti riguardo a qualcuno in particolare?”
-
-“Più che semplici sospetti, signore”, rispose il signor Sapsea; “quasi certezze”.
-
-“Pensate solo ora!” gridò il signor Datchery.
-
-“Ma le prove, signore, devono essere accumulate pietra dopo pietra,” disse il Sindaco. “Come dico sempre, la fine è ciò che dà significato al lavoro svolto. Non basta che la giustizia sia moralmente certa; deve anche esserlo legalmente.”
-
-“La sua [[concepts/honour|Onore]]”, disse il signor Datchery, “mi ricorda la vera natura della legge. Immorale. Che verità!”
-
-“Come dico sempre, signore,” proseguì pomposamente il sindaco, “il braccio della legge è un braccio forte, e lungo. È proprio così che lo definisco: un braccio forte e lungo.”
-
-“Che efficacia. Eppure, ancora una volta, che veridicità!” mormorò il signor Datchery.
-
-“E senza tradire, ciò che io chiamo i ‘segreti’ di questa prigione,” disse il signor Sapsea; “i segreti di questa casa-prigione, è così che li ho definiti in tribunale.”
-
-“E quale altro termine, se non quello della Sua [[concepts/honour|Onore]], potrebbe esprimerlo?” disse il signor Datchery.
-
-“Senza tradirli, vi predico che, conoscendo la ferrea volontà di quel gentiluomo che abbiamo appena lasciato (oso definirla ‘ferrea’ per la sua forza), in questo caso il braccio lungo raggiungerà e il braccio forte colpirà. Questa è la nostra [[settings/cathedral|Cattedrale]], signore: anche i migliori giudici sono felici di ammirarla, e i migliori tra i nostri cittadini ne sono un po’ orgogliosi.”
-
 
 
 <span class="atom-split" data-atom="chapter_19--part_03" data-title="The Mystery of Edwin Drood — Chapter 18 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/night,motif/time,concept/beauty,concept/honour,setting/cathedral,character/apollo,character/durdles,character/edwin_drood"></span>
@@ -13181,54 +9212,6 @@ in the gas-lighted looking-glass over the coffee-room chimneypiece at
 the Crozier, and shook it out: “For a single buffer, of an easy temper,
 living idly on his means, I have had a rather busy afternoon!”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-In tutto questo [[motifs/time|tempo]], il signor Datchery camminava con il cappello sotto il braccio, i suoi capelli bianchi che gli sventolavano sulle spalle. Per un attimo sembrò aver dimenticato di avere il cappello, quando il signor Sapsea glielo toccò; allora si portò la mano sulla testa, come se si aspettasse di trovarvi un altro cappello.
-
-“Per favore, si copra, signore,” pregò il signor Sapsea, utilizzando un tono molto persuasivo: “Le assicuro che non mi dispiacerà affatto.”
-
-“La sua [[concepts/honour|Onore]] è davvero grande, ma lo faccio solo per divertimento,” disse il signor Datchery.
-
-Allora il signor Datchery ammirò la [[settings/cathedral|Cattedrale]], e il signor Sapsea la indicò come se fosse stato lui stesso a inventarla e costruirla: c'erano infatti alcuni dettagli che non gli piacevano, ma li ignorò, come se i lavoratori avessero commesso errori in sua assenza. La [[settings/cathedral|Cattedrale]] si estendeva. Lo guidò attraverso il cimitero e si fermò per esaltare la [[concepts/beauty|bellezza]] della sera. Proprio nel luogo vicino all’epitaffio della signora Sapsea.
-
-“E a proposito,” disse il signor Sapsea, come se solo in quel momento se ne fosse ricordato all’improvviso; proprio come [[characters/apollo|Apollo]] che scende dall’Olimpo per riprendere la sua lira dimenticata; “quello è uno dei nostri piccoli ‘leoni’. È stata la preferenza del nostro popolo a renderlo così, e di tanto in tanto si sono visti estranei prendere copie di esso. Io stesso non ne sono un esperto, poiché si tratta di un mio piccolo lavoro. Ma è stato davvero complicato realizzarlo, posso dire persino difficile farlo con eleganza.”
-
-Il signor Datchery fu così estasiato dalla composizione del signor Sapsea che, nonostante avesse intenzione di trascorrere il resto dei suoi giorni a Cloisterham e quindi avesse probabilmente molte opportunità per copiarla, avrebbe voluto trascriverla immediatamente nel suo taccuino, se non fosse stato per l’arrivo del suo autore e “perpetuatore” materiale: il signor [[characters/durdles|Durdles]], che il signor Sapsea accolse con piacere, felice di potergli mostrare un esempio eccellente di comportamento verso i superiori.
-
-“Ah, [[characters/durdles|Durdles]]! Questo è il muratore, signore; uno dei nostri personaggi importanti di Cloisterham; tutti qui conoscono [[characters/durdles|Durdles]]. Signor Datchery, [[characters/durdles|Durdles]] è un gentiluomo che si stabilirà qui.”
-
-“Non lo farei se fossi al suo posto,” ringhiò [[characters/durdles|Durdles]]. “Siamo persone piuttosto pesanti, ”
-
-“Certamente non parlate a nome vostro, signor [[characters/durdles|Durdles]],” ribatté il signor Datchery, “né tantomeno a nome di Sua [[concepts/honour|Onore]].”
-
-“Chi è la sua [[concepts/honour|onore]]?” chiese [[characters/durdles|Durdles]].
-
-“Il suo [[concepts/honour|Onore]] appartiene al Sindaco.”
-
-“Non sono mai stato portato davanti a lui,” disse [[characters/durdles|Durdles]], con un'espressione tutt'altro che quella di un fedele sottoposto del sindaco, “e ci sarà tutto il [[motifs/time|tempo]] necessario per onorarlo quando lo sarò. Fino ad allora, ”
-
-“Il suo nome è Mister Sapsea,  
-la sua nazione è l’Inghilterra;  
-il suo luogo di residenza è Cloisterham,  
-e la sua occupazione, beh, quella è Aukshneer.”
-
-
-Ecco che il vice-sceriffo (preceduto da una conchiglia volante) apparve sulla scena e chiese che la somma di tre penny gli venisse immediatamente data dal signor [[characters/durdles|Durdles]], che aveva inutilmente cercato dappertutto, ritenendola un salario legittimo non ancora pagato. Mentre quel gentiluomo, con il suo fagotto sotto il braccio, contava lentamente i soldi, il signor Sapsea informò il nuovo arrivato sui costumi, sulle abitudini, sull’abitazione e sulla reputazione di [[characters/durdles|Durdles]]. “Suppongo che qualche curioso straniero possa venire a vedervi, voi e le vostre opere, signor [[characters/durdles|Durdles]], in qualsiasi momento imprevisto, ” disse il signor Datchery.
-
-“Qualsiasi gentiluomo è il benvenuto a venire da me ogni sera, purché porti con sé del liquore per due persone,” rispose [[characters/durdles|Durdles]], con un penny tra i denti e alcune monete di mezzo penny in mano; “o, se preferisce, può portarne anche di più. In quel caso sarà ancora più il benvenuto.”
-
-“Arriverò. Vice Capo, quanto mi dovete?”
-
-Un lavoro.
-
-“Assicurati di pagarmi onestamente per il lavoro di accompagnarmi a visitare la casa del signor [[characters/durdles|Durdles]] quando vorrò andarci.”
-
-Il vice, con un fischio acuto che uscì dalla larga apertura della sua bocca, come segno di pagamento completo di tutti i debiti, scomparve.
-
-Il Venerabile e il Devoto continuarono insieme fino a quando si separarono, con molte cerimonie, alla porta del Venerabile; anche allora il Devoto tenne il cappello sotto il braccio e lasciò che i suoi lunghi capelli bianchi venissero sollevati dalla brezza.
-
-Il signor Datchery pensò tra sé che quella [[motifs/night|notte]], mentre si guardava i capelli bianchi nello specchio illuminato dal gas sopra la caminiera della sala da caffè al Crozier, e li scuoteva: “Per un solo individuo indolente, di carattere mite, che vive alle spalle dei propri genitori senza lavorare. Che pomeriggio impegnativo ho avuto!”
 
 
 
@@ -13358,66 +9341,6 @@ the piano.
 “I will not question you any more, since you object to it so much; I
 will confess—”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XIX.  
-[[archetypes/shadow|>Ombra]] sul quadrante solare
-
-
-Ancora una volta, la signorina Twinkleton ha tenuto il suo discorso di addio, accompagnata da vino bianco e torta di farina d’avena; ancora una volta, le giovani signore se ne sono andate ognuna per la propria strada. [[characters/helena-landless|Helena Landless]] ha lasciato il Convento delle suore per seguire le sorti di suo fratello, e la bella Rosa è rimasta da sola.
-
-In questi giorni d’[[motifs/summer|estate]], Cloisterham è così luminosa e soleggiata che la [[settings/cathedral|cattedrale]] e le rovine del monastero sembrano avere mura trasparenti; una luce tenue pare emanare dall’interno di esse, piuttosto che provenire dall’esterno. I giardini di Cloisterham sono pieni di frutti maturi. Un [[motifs/time|tempo]], pellegrini stanchi dal viaggio attraversavano le ombre accoglienti della [[motifs/city|città]]; oggi, viaggiatori che conducono una vita nomade, tra il periodo del raccolto del fieno e quello del raccolto stesso, sembrano fatti interamente di [[motifs/dust|polvere]]. Si sdraiano sui gradini freschi, cercando di riparare le loro scarpe irreparabili, o le lasciano alle officine della [[motifs/city|città]] come lavoro senza speranza. Tra i loro bagagli, insieme a falci ancora inutilizzate avvolte in strisce di paglia, si trovano anche oggetti utilizzati per bere. Alle fontane pubbliche, molti si rinfrescano i piedi nudi, mentre questi “beduini” bevono rumorosamente dall’imboccatura delle fontanelle. Nel frattempo, la polizia di Cloisterham li osserva con sospetto, impaziente che questi intrusi lascino i confini della città e tornino sulle strade ardenti.
-
-Nel pomeriggio di un giorno del genere, quando l’ultima cerimonia nella [[settings/cathedral|Cattedrale]] è terminata e il lato della High Street dove si trova la Casa delle suore è immerso nell’ombra fresca degli alberi, tranne nel punto in cui il loro antico e caratteristico [[motifs/garden|giardino]] si apre verso ovest tra i rami degli alberi, un servitore informa Rosa, con suo grande terrore, che il signor Jasper desidera vederla.
-
-Se avesse scelto il momento più opportuno per trovarla in una situazione svantaggiosa, non avrebbe potuto fare di meglio. Forse proprio così l’ha voluto. [[characters/helena-landless|Helena Landless]] se n’è andata, la signora Tisher è assente in congedo, e Miss Twinkleton (nella sua condizione “amatoriale”) ha contribuito con sé stessa e una torta di vitello a un picnic.
-
-“Perché, perché, perché hai detto che ero a [[motifs/home|>casa]]?” gridò Rosa, disperata.
-
-La cameriera risponde che il signor Jasper non ha mai posto quella domanda.
-
-Disse di sapere che lei era a [[motifs/home|>casa]] e pregò che gli venisse detto che voleva vederla.
-
-“Cosa devo fare! Cosa devo fare!” pensava Rosa, stringendo le mani.
-
-Possedda da una sorta di disperazione, aggiunge subito dopo che andrà dal signor Jasper nel [[motifs/garden|>jardino]]. Rabbrividisce all'idea di trovarsi chiusa con lui nella >casa; ma molte delle sue finestre danno sul [[motifs/garden|>jardino]], quindi può essere vista e sentita facilmente, e può urlare liberamente e scappare. È questa l'idea folle che le passa per la mente.
-
-Da quella fatale [[motifs/night|notte]], non l'ha mai più visto, tranne quando è stata interrogata davanti al Sindaco: lui era presente, con un'espressione cupa e attenta, rappresentando il suo nipote scomparso e desideroso di vendicarlo. Si mette il cappello da [[motifs/garden|giardino]] sul braccio e esce. Non appena lo vede dal portico, appoggiato all’orologio solare, quella vecchia sensazione orribile di essere costretta ad agire per suo volere si impadronisce di lei. Sente che in quel momento potrebbe ancora tornare indietro, ma lui sembra trascinarla verso di sé. Non riesce a resistere e si siede, con la testa china, sulla panchina del [[motifs/garden|giardino]] accanto all’orologio solare. Non osa alzare lo sguardo su di lui per l’orrore, ma nota che è vestito a lutto. Anche lei lo è. All’inizio non era così; ma il nipote scomparso era da tempo considerato morto e pianto come tale.
-
-Iniziava toccandole la mano. Lei percepiva l’intenzione dietro quel gesto e ritraeva immediatamente la sua. I suoi occhi erano fissi su di lei; lo sapeva, anche se i suoi non vedevano altro che l’erba intorno.
-
-“Ho aspettato,” inizia a dire, “da un po’ di [[motifs/time|tempo]], che mi venisse chiesto di tornare al mio dovere al tuo fianco.”
-
-Dopo aver più volte formato le labbra – sa che lui la sta osservando attentamente – nella forma di altre risposte esitanti, e poi aver smesso del tutto, lei risponde: “Dovere, signore?”
-
-“Il dovere di insegnarvi, di servirvi come vostro fedele maestro di musica.”
-
-Ho abbandonato quell’ studio.
-
-“Non è stato abbandonato, credo. È stato semplicemente interrotto. Il tuo tutore mi ha detto che hai deciso di smettere a causa dello shock che abbiamo tutti provato in modo così intenso. Quando riprenderai?”
-
-“Mai, signore.”
-
-“Mai? Non avresti potuto fare di più, se avessi amato mio caro ragazzo, ”
-
-“Lo amavo davvero!” gridò Rosa, con un lampo di rabbia.
-
-“Sì; ma non del tutto. Non esattamente nel modo giusto, per così dire. Non nel modo previsto e desiderato. Per quanto mio caro ragazzo fosse, purtroppo, troppo [[concepts/self|ego]]-consapevole e troppo soddisfatto di sé (non vorrei fare paragoni tra lui e te in questo senso), non è riuscito ad amare come avrebbe dovuto, o come chiunque al suo posto avrebbe amato. Avrebbe sicuramente dovuto amare!”
-
-Rimane seduta nella stessa posizione immobile, ma ora si ritrae ancora di più.
-
-“Allora, essere informati che hai interrotto i tuoi studi con me significa, in modo gentile, che li hai completamente abbandonati?” suggerì lui.
-
-“Sì,” disse Rosa, con improvviso vigore, “Quella gentilezza apparteneva al mio tutore, non a me. Gli ho detto che ero decisa a smettere e che intendevo attenermi fermamente alla mia decisione.”
-
-“E ancora lo sei?”
-
-“Lo sono ancora, signore. E prego di non essere più interrogato al riguardo. In ogni caso, non risponderò più; ho il potere di farlo.”
-
-È così consapevole del modo in cui lui la guarda, con un'ammirazione maliziosa, e di quel tocco di rabbia che c’è nei suoi occhi, nonché della passione e dell’energia che tutto ciò le suscita, che anche quando il suo spirito sembra sollevarsi, finisce per abbassarsi di nuovo. Lotta contro un senso di vergogna, umiliazione e [[concepts/fear|paura]], proprio come quella volta, quella [[motifs/night|notte]], davanti al pianoforte.
-
-“Non vi interrogherò più, visto che vi dispiace così tanto; confesserò, ”
 
 
 
@@ -13552,66 +9475,6 @@ He puts that from him with a slighting action of his hand and a curled
 lip.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Non desidero ascoltarvi, signore”, grida Rosa alzandosi in piedi.
-
-Questa volta lui la tocca davvero con la sua mano tesa. Mentre lei si allontana da lui, si rintanica di nuovo nel suo posto.
-
-“A volte dobbiamo agire contro i nostri desideri”, le dice sottovoce. “Adesso devi farlo, altrimenti causerai agli altri più danni di quanti possa mai rimediare”.
-
-“Che danno può fare?”
-
-“Subito, subito. Tu mi stai ponendo una domanda, capisci. E sicuramente non è giusto che tu mi vieti di farti delle domande a mia volta. Comunque, risponderò alla tua domanda tra un attimo. Cara Rosa! Incantevole Rosa!”
-
-Si avvia di nuovo.
-
-Questa [[motifs/time|volta]] non la tocca. Ma il suo viso ha un'espressione così malvagia e minacciosa. Mentre sta appoggiato a quell'orologio solare, quella sua macchia nera sembra quasi far parte del giorno stesso. Il terrore la paralizza non appena lo guarda.
-
-“Non dimentico quante finestre ci osservano,” dice,
-guardandole. “Non ti toccherò più; non mi avvicinerò a te di più di quanto non lo faccia già. Siediti. Non c’è nulla di straordinario nel fatto che il tuo maestro di musica si appoggi pigramente a un piedistallo e parli con te, ricordando tutto ciò che è accaduto e il nostro ruolo in esso. Siediti, mio caro.”
-
-Avrebbe voluto andare ancora una volta. Era quasi pronta a farlo. Ma di nuovo il suo viso, con un’espressione minacciosa, le ha impedito di procedere. Guardandolo con quell’immagine bloccata nel suo sguardo, si è seduta di nuovo sul posto.
-
-“Rosa, anche quando mio caro figlio fu promesso a te, ti amai follemente; anche quando pensavo che la sua felicità nell’averti come moglie fosse certa, ti amai follemente; anche quando cercavo di farlo diventare ancora più devoto a te, ti amai follemente; anche quando mi diede quel ritratto del tuo bellissimo viso, così malamente alterato da lui stesso, che fingevo di tenere sempre davanti ai miei occhi per il suo bene, ma che in realtà veneravo con dolore per anni interi, ti amai follemente. Nel lavoro noioso della giornata, nella sofferenza insonne della notte, circondata da realtà squallide, o vagando attraverso paradisi e inferni creati dalla mia immaginazione, tenendo sempre il tuo volto tra le braccia, ti amai follemente.”
-
-Se c'era qualcosa che poteva rendere le sue parole ancora più orribili per lei di quanto già non fossero, era il contrasto tra la violenza del suo sguardo e del modo in cui le pronunciava, e la compostezza dell’atteggiamento che ostentava.
-
-“L’ho sopportato tutto in [[motifs/silence|silenzio]]. Finché eri sua, o almeno finché pensavo che fossi sua, ho nascosto fedelmente il mio segreto. Non è vero?”
-
-Questa menzogna, così orribile, eppure le parole con cui viene detta sono così vere. È qualcosa che Rosa non riesce proprio a sopportare. Risponde con indignazione: “Siete stato falso in tutto, signore, proprio come lo siete adesso. Siete stato falso con lui, giorno dopo giorno, ora dopo ora. Sapete bene che la vostra insistenza nei miei confronti ha reso la mia vita infelice. Sapete che mi avete costretta, per il suo bene, per la sua fiducia e la sua bontà, a nascondergli la [[concepts/truth|verità]]. Siete davvero un uomo malvagio!”
-
-Il fatto che mantenga quell’atteggiamento rilassato rende i suoi movimenti lavorativi e le sue mani, che sembrano subire convulsioni, davvero “demoniacali”; eppure tutti lo ammirano profondamente per questo.
-
-“Quanto sei bella! Sei ancora più bella quando sei arrabbiata che quando sei tranquilla. Non ti chiedo il tuo [[motifs/love|amore]]; dammi te stessa, insieme al tuo odio, a quella bellissima rabbia, a quel disprezzo affascinante. Sarà sufficiente per me.”
-
-Impazienti [[motifs/tears|lacrime]] salirono agli occhi della tremante e piccola [[concepts/beauty|>bellezza]]; il suo viso ardeva di rabbia. Ma mentre lei si alzava di nuovo, indignata, per cercare rifugio all’interno della casa, lui tese la mano verso il portico, come se l’invitasse ad entrare.
-
-“Te l’avevo detto, tu raro incantatore, tu dolce [[characters/witch|_strega]], devi restare e ascoltarmi, altrimenti causerai più danni di quanti possano mai essere rimediati. Mi hai chiesto quali danni. Resta, e te lo dirò. Vai via, e li causerò io!”
-
-Di nuovo, Rosa trema di fronte al suo volto minaccioso, anche se non comprende il significato delle sue parole, e rimane lì. Il suo respiro affannoso va e viene, come se potesse soffocarla; ma con una mano che le preme il petto, lei rimane comunque.
-
-“Ho confessato che il mio [[motifs/love|amore]] è pazzo. È così pazzo, che se i legami tra me e mio caro ragazzo perduto fossero stati anche solo un po’ meno forti, avrei potuto portarlo via da te, quando lo hai favorito.”
-
-Un film le passa davanti agli occhi per un istante, come se l’avesse fatta svenire.
-
-“Anche lui,” ripete. “Sì, anche lui! Rosa, tu mi vedi e mi senti. Giudica tu stessa se esista qualche altro ammiratore che possa [[motifs/love|amarti]] e vivere, il cui destino è nelle mie mani.”
-
-“Cosa intende dire, signore?”
-
-“Voglio mostrarvi quanto sia furiosa la mia [[motifs/love|amore]]. Grazie alle indagini approfondite del signor Crisparkle, è venuto fuori che quel giovane Landless gli ha confessato di essere un rivale di mio figlio scomparso. A mie occhi, questo è un crimine imperdonabile. Lo stesso signor Crisparkle sa che mi sono dedicata alla scoperta e all’eliminazione dell’assassino, qualunque esso sia, e che ho deciso di non discutere il mistero con nessuno finché non avrò trovato la prova decisiva per incastrarlo. Da allora ho lavorato pazientemente per [[motifs/wind|intrecciare]] questa prova intorno a lui. E in questo momento, mentre parlo, quel filo si sta lentamente avvolgendo intorno a lui.”
-
-Illustrazioni: Le sacrifici di Jasper
-
-“La tua convinzione, se credi nella colpevolezza del signor Landless, non è la stessa di quel signor Crisparkle, che è una brava persona,” ribatte Rosa.
-
-“La mia fede appartiene solo a me; la riservo per il culto della mia [[motifs/soul|'anima]]!
-Le circostanze possono accumularsi con tale forza _anche contro un uomo [[archetypes/innocent|innocente]]_, che, se dirette, affilate e puntate verso di lui, possono ucciderlo. Un solo indizio scoperto con perseveranza contro un colpevole basta a provare la sua [[concepts/guilt|colpevolezza]], per quanto deboli possano essere inizialmente le prove, e allora quell’uomo muore. Il giovane Landless si trova comunque in grave pericolo in entrambi i casi.”
-
-“Se davvero pensi,” lo supplica Rosa, impallidendo, “che io abbia una preferenza per il signor Landless, o che il signor Landless si sia mai rivolto a me in qualche modo, ti sbagli.”
-
-Lo esprime con un gesto sprezzante della mano e un labbro arricciato.
-
 
 
 <span class="atom-split" data-atom="chapter_20--part_03" data-title="The Mystery of Edwin Drood — Chapter 19 (part 3)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/dust,motif/love,motif/night,motif/soul,concept/despair,concept/hope,concept/self,concept/truth,concept/wonder,character/edwin_drood"></span>
@@ -13701,52 +9564,6 @@ her room and laid down on her bed. A thunderstorm is coming on, the
 maids say, and the hot and stifling air has overset the pretty dear: no
 [[concepts/wonder|wonder]]; they have felt their own knees all of a tremble all day long.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-“Volevo farti vedere quanto ti [[motifs/love|amo]] follemente. Ora ancora di più che mai, perché sono disposto a rinunciare al secondo amore che è entrato nella mia vita, per condividerlo soltanto con te; da questo momento in poi, non esisterà altro nell’universo se non tu. La signorina Landless è diventata tua amica intima. Ti preoccupi della sua serenità?”
-
-“La amo profondamente.”
-
-“Ti interessa la sua reputazione?”
-
-“Ho detto, signore, che la [[motifs/love|amo]] molto.”
-
-“Senza rendermene conto,” osserva sorridendo, mentre incrocia le mani sul quadrante solare e appoggia il mento su di esse, in modo che ciò che dice, visto dalle finestre (dove di tanto in tanto qualcuno passa), possa sembrare il più leggero e giocoso possibile, “Senza rendermene conto, sto offendendo di nuovo. Quindi dirò semplicemente delle cose, senza porre domande. Vi interessa davvero la buona reputazione della vostra cara amica, non è vero? E vi interessa anche la sua serenità d’animo. Allora eliminate da lei l’ombra della forca, carissima!”
-
-“Osi propormi di, ”
-
-“Amore mio, oso farti questa proposta. Ma basta così. Se idolatrarti fosse un errore, sarei il peggiore degli uomini; se invece fosse giusto, sarei il migliore. Il mio [[motifs/love|amore]] per te è superiore a qualsiasi altro [[motifs/love|amore]], e la mia [[concepts/truth|verità]] verso di te è più importante di qualsiasi altra [[concepts/truth|verità]]. Dammi speranza e il tuo favore. Per te, sarei disposto a rinunciare a tutto.”
-
-Rosa si porta le mani alle tempie, si scosta i capelli e lo guarda con uno sguardo selvaggio e disgustoso, come se stesse cercando di comprendere quale sia il vero scopo nascosto che lui ha nel mostrarle solo frammenti della verità.
-
-“Non pensare a nulla in questo momento, angelo. Solo ai sacrifici che offro ai suoi cari piedi; sarei disposto a cadere tra le ceneri più vili pur di baciarli e metterli sulla mia testa, come potrebbe fare un povero selvaggio. Questa è la mia fedeltà verso il mio caro ragazzo anche dopo la [[motifs/death|morte]]. Calpesta questa fedeltà!”
-
-Con un gesto delle sue mani, come se stesse gettando via qualcosa di prezioso.
-
-“Esiste un crimine imperdonabile contro il mio amore per te. Rifiutalo!”
-
-Con un'azione simile.
-
-“Ecco i risultati dei miei sforzi per ottenere una giusta vendetta dopo sei mesi di duro lavoro, distruggeteli!”
-
-Con un'altra ripetizione dell'azione.
-
-“Ecco il mio passato, ecco la mia vita sprecata nel presente. Ecco la desolazione del mio cuore e della mia [[motifs/soul|'anima]]. Ecco la mia pace, ed ecco anche la mia [[concepts/despair|-disperazione]]. Imprimiteli nella [[motifs/dust|polvere]]; così che tu possa prendermi, anche se mi odiasse mortalmente!”
-
-L’orribile violenza di quell’uomo, ora al suo apice massimo, la spaventa a tal punto da spezzare l’incantesimo che la teneva fissa sul posto. Si muove rapidamente verso il portico; ma in un istante lui è al suo fianco e le sussurra all’orecchio.
-
-“Rosa, sono di nuovo in preda alla repressione di me stesso. Cammino tranquillamente al tuo fianco verso la casa. Aspetterò un po’ di incoraggiamento e speranza. Non agirò troppo presto. Dammi un segno che tu mi stai prendendo in considerazione.”
-
-Muove la mano in modo leggero e controllato.
-
-“Nessuna parola di tutto questo con nessuno, altrimenti l’attacco avverrà, proprio come la [[motifs/night|notte]] segue il giorno. Un altro segno che mi stai ascoltando.”
-
-Muove la mano ancora una volta.
-
-“Ti [[motifs/love|amo]], ti [[motifs/love|amo]], ti [[motifs/love|amo]]! Anche se ora mi rifiutassi, ma non lo farai, non potresti mai liberarti di me. Nessuno dovrebbe mettersi tra noi. Ti seguirei fino alla [[motifs/death|morte]].”
-
-La serva uscì ad aprire il cancello per lui; lui si tolse silenziosamente il cappello in segno di saluto e se ne andò, senza mostrare alcuna agitazione maggiore di quella visibile nell’effigie del padre del signor Sapsea, situata di fronte. Rosa svenne mentre saliva le scale; fu delicatamente portata nella sua stanza e adagiata sul letto. Stava per scoppiare un temporale; le cameriere dissero che l’aria calda e soffocante aveva colpito la povera ragazza. Non c’era da meravigliarsi: anche loro avevano sentito le ginocchia tremare tutto il giorno.
 
 
 
@@ -13858,32 +9675,6 @@ into the railway carriage, and handed in the very little bag after her,
 as though it were some enormous trunk, hundredweights heavy, which she
 must on no account endeavour to lift.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XX.  
-UN VOLO
-
-
-Non appena Rosa riprese i sensi, l’intera conversazione avvenuta poco prima le tornò alla mente. Sembrava quasi che quella conversazione l’avesse seguita anche durante il suo stato di incoscienza, e lei non aveva mai trascorso un istante senza ricordarla. Non sapeva cosa fare; l’unica idea chiara che le venne in mente fu che doveva fuggire da quell’uomo terribile.
-
-Ma dove poteva cercare rifugio e come poteva andarci? Non aveva mai confidato a nessuno, se non a [[characters/helena|Elena]], la propria paura per lui. Se fosse andata da [[characters/helena|Elena]] e le avesse raccontato ciò che era accaduto, quel semplice atto avrebbe potuto evitare il danno irreparabile che lui minacciava di causare, e lei sapeva che ne aveva la capacità e la volontà. Più lui le sembrava pericoloso, più i suoi ricordi e la sua [[concepts/imagination|immaginazione]] si scatenavano; più diventava angosciante la responsabilità che portava con sé, perché un piccolo errore da parte sua, sia nell’agire che nel ritardare, avrebbe potuto far scatenare la sua malvagità contro il fratello di [[characters/helena|Elena]].
-
-Nel corso degli ultimi sei mesi, la mente di Rosa era stata in preda a un caos totale. Un sospetto vago e mai espresso continuava ad agitarsi dentro di lei: a volte emergeva chiaramente, altre volte scompariva nel nulla. L’assoluta dedizione di Jasper al suo nipote quando questi era ancora vivo, nonché la sua incessante ricerca delle cause della sua [[motifs/death|morte]] – qualora fosse davvero deceduto – rendevano così evidenti le sue azioni che nessuno sembrava considerare possibile che avesse commesso un crimine. Lei stessa si era posta questa domanda: “Sono forse così malvagia nei miei pensieri da concepire qualcosa di così orribile che gli altri non riescono nemmeno a immaginare?” Poi aveva riflettuto: “Forse questo sospetto deriva dal mio rifiuto precedente nei suoi confronti. Ma se è così, non dimostra forse la sua infondatezza?” Infine si era chiesta: “Qual potrebbe essere il suo movente, secondo le mie accuse?” Le venne vergogna di ammettere nella sua mente che quel movente poteva essere soltanto quello di conquistare lei. E così si coprì il viso, come se anche solo l’idea di basare un omicidio su una [[concepts/vanity|vanità]] così futile fosse un crimine altrettanto grave.
-
-Tutti quei discorsi che aveva fatto vicino all’orologio solare nel [[motifs/garden|giardino]] le tornarono in mente ancora una volta. Aveva insistito nel considerare quella scomparsa come un omicidio, in linea con tutto il suo comportamento pubblico da quando erano stati trovati l’orologio e la spilla per camicia. Se avesse temuto che il crimine venisse scoperto, non avrebbe forse preferito incoraggiare l’idea di una scomparsa volontaria? Aveva persino dichiarato che, se i legami tra lui e suo nipote fossero stati meno stretti, avrebbe potuto “portarlo via” anche lui da lei. Ma significava davvero che lo aveva fatto? Aveva detto di voler offrire i sei mesi di lavoro dedicati a una vendetta giusta ai suoi piedi. Avrebbe davvero agito con tale passione se tutto fosse stato solo una finzione? Avrebbe messo in gioco il proprio cuore desolato, la propria [[motifs/soul|anima]] spezzata, la propria vita distrutta, la propria pace e la propria [[concepts/despair|disperazione]] per un simile scopo? Il primo sacrificio che aveva menzionato come fatto per lei era stata la sua fedeltà al suo caro ragazzo dopo la [[motifs/death|morte]]. Di certo questi fatti erano più che sufficienti per confutare qualsiasi ipotesi osasse anche solo prendere in considerazione. Eppure, che uomo terribile era! In breve, quella povera ragazza (che cosa avrebbe potuto sapere dell’intelligenza criminale, spesso fraintesa dai suoi stessi studiosi, che cercano sempre di farla coincidere con l’intelligenza media delle persone comuni, invece di riconoscerla come una mostruosità unica e distinta?) non poteva giungere a nessun’altra conclusione se non che quell’uomo era davvero terribile, e doveva essere evitato a tutti i costi.
-
-Durante tutto quel [[motifs/time|tempo]], lei era stata la compagnia e il conforto per [[characters/helena|Helena]]. Le aveva sempre assicurato di credere fermamente nell’innocenza di suo fratello, e di condividere la sua sofferenza. Tuttavia non lo aveva mai più visto dopo la scomparsa, né [[characters/helena|Helena]] aveva mai menzionato una parola riguardo alla confessione che lui aveva fatto a Mr. Crisparkle riguardo a Rosa, sebbene questa informazione fosse ben nota in tutto il circondario, essendo parte fondamentale della vicenda. Per lei, lui non era altro che il fratello sfortunato di [[characters/helena|Helena]]. La promessa fatta al suo odioso corteggiatore era assolutamente vera, anche se ora lei avrebbe preferito trattenersi dal farla. Spaventata da lui, com’era quella fragile e delicata creatura, il pensiero che lui potesse saperlo direttamente dalle sue stesse labbra la riempiva di orgoglio.
-
-Ma dove poteva andare? Ovunque fosse al di là della sua portata, non esisteva risposta a quella domanda. Doveva pur esserci un posto. Decise di recarsi dal suo tutore, e subito. Il sentimento che aveva provato verso [[characters/helena|Helena]] nella [[motifs/night|notte]] in cui avevano condiviso per la prima volta i loro segreti era ancora così forte in lei: il timore di non essere al sicuro da lui, e l’idea che nemmeno le solide mura dell’antico convento potessero impedire alla sua ombra di seguirla. Nessun ragionamento riusciva a placare la sua paura. Quella sorta di fascino misto a repulsione aveva dominato la sua vita per troppo tempo, e ora raggiungeva il suo apice più oscuro. Le sembrava quasi che lui avesse il potere di legarla con un incantesimo. Guardando fuori dalla [[motifs/window|finestra]], anche in quel momento, mentre si alzava per vestirsi, la vista dell’orologio solare su cui si era appoggiato quando le aveva rivelato i suoi segreti la faceva rabbrividire. Come se quell’oggetto avesse assorbito una sorta di qualità terribile, trasmessa direttamente dalla sua stessa [[concepts/nature|natura]].
-
-Scrisse in fretta una nota alla signorina Twinkleton, dicendo di avere un motivo improvviso per voler vedere il proprio tutore al più presto e che era andata da lui; inoltre, le chiedeva di non preoccuparsi, perché stava [[motifs/well|bene]]. Raccolse rapidamente alcuni oggetti del tutto inutili in una piccola borsa, lasciò la nota in un posto visibile e uscì, chiudendo silenziosamente la porta dietro di sé.
-
-Era la prima volta che si trovava da sola in Cloisterham High Street. Ma essendo molto familiare con i suoi vicoli e le sue strade tortuose, si affrettò direttamente verso l’angolo da cui partiva l’omnibus. Proprio in quel momento, stava per partire.
-
-“Fermati e portami con te, per favore, Joe. Devo assolutamente andare a [[settings/london|Londra]].”
-
-In meno di un minuto era già sulla sua [[motifs/road|strada]] verso la stazione ferroviaria, sotto la protezione di Joe. Quando arrivò, Joe l’aspettò, la aiutò a salire con sicurezza nel vagone ferroviario e le consegnò anche quella piccolissima borsa, come se fosse un enorme baule pesantissimo che lei non dovesse assolutamente provare a sollevare.
 
 
 
@@ -14026,72 +9817,6 @@ admitted to be not quite equal to their intention. Which is the case
 with so many of us! You didn’t say what meal, my dear. Have a nice
 jumble of all meals.”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-“Puoi passare da lei quando torni e dirle che mi hai visto partire sano e salvo, Joe?”
-
-“Si farà, signorina.”
-
-“Con il mio [[motifs/love|amore]], per favore, Joe.”
-
-“Sì, signorina. E a me non dispiacerebbe tenerla per me stesso!” Ma Joe non pronunciò l’ultima frase ad alta voce; la pensò soltanto dentro di sé.
-
-Ora che stava davvero partendo per [[settings/london|Londra]], Rosa aveva il tempo di riprendere in considerazione i pensieri che la sua fretta precedente le aveva impedito di esaminare. Il pensiero indignato che la sua dichiarazione d’[[motifs/love|amore]] l’avesse contaminata; che potesse essere purificata da quella macchia d’impurità solo rivolgendosi a persone oneste e sincere; le diede forza per un po’ contro i suoi timori e rafforzò la sua decisione affrettata. Ma man mano che la sera si faceva più scura e la grande [[motifs/city|città]] sembrava avvicinarsi sempre di più, iniziarono ad emergere i soliti dubbi: se non fosse stato un comportamento troppo avventato; come il signor Grewgious avrebbe potuto considerarlo; se lo avrebbe trovato alla fine del [[motifs/journey|viaggio]]; cosa avrebbe fatto se lui non ci fosse stato; cosa le sarebbe accaduto, da sola, in un posto così strano e affollato; se solo avesse aspettato e consultato qualcuno prima. Una miriade di queste preoccupazioni inquietanti iniziarono a tormentarla, man mano che si accumulavano. Alla fine, il treno arrivò a [[settings/london|Londra]], sopra i tetti delle case; e laggiù, sotto di lei, si estendevano le strade polverose, con le loro luci ancora accese, in una calda, chiara [[motifs/summer|sera]] d’estate.
-
-“Hiram Grewgious, Esquire, Staple Inn, [[settings/london|Londra]].” Questo era tutto ciò che Rosa sapeva riguardo alla sua destinazione; ma era sufficiente per farla partire di nuovo in una cabina, attraverso deserti di strade polverose, dove molte persone si affollavano agli angoli delle corti e dei vicoli per respirare un po’ d’aria fresca, mentre altre camminavano producendo un suono monotono e sgradevole causato dallo sfregamento dei piedi sui ciottoli caldi; in un ambiente così squallido e deprimente.
-
-C'era musica che suonava qua e là, ma non riusciva a rendere l'atmosfera più vivace. Nessun organo a canne riusciva a migliorare la situazione, né il suono di un grande tamburo a dissipare quella tristezza opprimente. Proprio come le campane della cappella che risuonavano anch'esse in modo disordinato, sembravano soltanto suscitare echi sulle superfici di mattoni e sollevare nuvole di [[motifs/dust|polvere]] su tutto intorno. Quanto agli strumenti a fiato, sembrava che avessero spezzato il cuore e l'anima nel loro desiderio di tornare in campagna.
-
-Il suo veicolo tintinnante si fermò finalmente davanti a un cancello ben chiuso, che sembrava appartenere a qualcuno che si era addormentato molto presto e temeva molto i ladri; Rosa, dopo aver sceso dal veicolo, bussò timidamente al cancello ed fu fatta entrare da un custode, insieme alla sua piccola borsa.
-
-“Il signor Grewgious vive qui?”
-
-“Il signor Grewgious vive lì, signorina,” disse il custode, indicando più avanti.
-
-So Rosa proseguì oltre, e quando le campane batterono le dieci, si fermò davanti alla porta di P. J. T., chiedendosi cosa avesse fatto P. J. T. con la sua porta d’ingresso.
-
-Guidata dal nome dipinto di Mr. Grewgious, salì le scale e bussò delicatamente più volte. Ma nessuno rispose; quindi, poiché la maniglia della porta di Mr. Grewgious si aprì al suo tocco, entrò e vide il proprio tutore seduto su una poltrona accanto a una finestra aperta, con una lampada schermata posizionata lontano da lui su un tavolo nell’angolo della stanza.
-
-Rosa si avvicinò a lui nella penombra della stanza. La vide e disse, a bassa voce: “Mio Dio!”
-
-Rosa le cadde sul collo, tra le [[motifs/tears|lacrime]], e poi lui, ricambiando il suo abbraccio, disse.
-
-“Mio [[archetypes/child|>bambino]], mio [[archetypes/child|>bambino]]. Pensavo fossi con tua madre! Ma cosa, cosa è successo? Caro, cosa ti ha portato qui? Chi ti ha portato qui?” aggiunse, cercando di calmarlo.
-
-“Nessuno. Sono venuto da solo.”
-
-“Signore, beneditemi!” esclamò il signor Grewgious. “È arrivato da solo! Perché non mi avete scritto per chiedermi di venire a prendervi?”
-
-“Non avevo tempo. Presi una decisione improvvisa. Povero, povero Eddy!”
-
-“Ah, povero ragazzo, povero ragazzo!”
-
-“Mio zio ha provato per me sentimenti d’[[motifs/love|amore]]. Non riesco a sopportarlo,” disse Rosa, scoppiando in lacrime e battendo il piedino; “Mi sento terrorizzata da lui. Sono venuta da te per chiederti di proteggermi e di proteggere tutti noi da lui, se vuoi.”
-
-“Lo farò,” gridò il signor Grewgious, con un improvviso slancio di energia incredibile.  
-“Maledetto lui!”
-
-“Confonda la sua politica!  
-Fallisca nei suoi trucchi malvagi!  
-Sulle Tue spera si affida.
-Maledettelo ancora!”
-
-Dopo questo straordinario scoppio d’emozioni, il signor Grewgious, completamente fuori di sé, iniziò a girovagare per la stanza, apparentemente incerto se si trovasse in preda a un sincero entusiasmo o a una furiosa denuncia.
-
-Si fermò e disse, asciugandosi il viso: “Mi scusi, cara, ma sarà contenta di sapere che mi sento meglio. Non dirmi nient’altro per ora, altrimenti potrei farlo di nuovo. Devi riposarti e rilassarti. Cosa hai mangiato l’ultima volta? Colazione, pranzo, cena, tè o cena? E cosa mangerai adesso? Di nuovo colazione, pranzo, cena, tè o cena?”
-
-La delicata e rispettosa premura con cui, in ginocchio davanti a lei, le aiutò a togliersi il cappello e a districcare i suoi bei capelli da esso era davvero un esempio di cavalleria. Eppure, chi lo conoscesse solo superficialmente avrebbe mai potuto aspettarsi una tale comportamento da parte del signor Grewgious? E per di più, un tipo di cavalleria autentica, non quella simulata.
-
-“Anche il tuo riposo deve essere garantito,” continuò; “avrai la stanza più bella di tutto Furnival’s. Deve essere provveduto anche al tuo necessario quotidiano, e avrai tutto ciò che una cameriera personale senza limiti finanziari – con questa espressione intendo proprio una cameriera il cui budget non è vincolato da alcuna restrizione – possa procurarti. È questa una borsa?” la guardò attentamente; a dire il vero, in una stanza scarsamente illuminata era quasi impossibile notarla: “E appartiene davvero a te, cara mia?”
-
-“Sì, signore. L’ho portato con me.”
-
-“Non è una borsa molto capiente,” disse onestamente il signor Grewgious, “anche se è davvero ben progettata per contenere le provviste necessarie a un canarino per un intero giorno. Forse avete portato con voi un canarino?”
-
-Rosa sorrise e scosse la testa.
-
-“Se l'aveste fatto, avrebbe dovuto essere accolto con piacere,” disse il signor Grewgious. “E penso che gli sarebbe piaciuto essere appeso a un chiodo fuori dalla porta e sfidare i nostri passeri comuni. La loro esecuzione, devo ammetterlo, non è stata proprio all'altezza delle loro intenzioni. Ed è lo stesso per molti di noi! Non avete detto quale pasto desiderate. Godetevi una miscela di tutti i pasti possibili.”
 
 
 
@@ -14244,89 +9969,6 @@ that;’ and so we get on very [[motifs/well|well]]. Indeed, better than I could
 expected.”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Rosa gli ringraziò, ma disse che poteva accettare solo una tazza di tè. Il signor Grewgious, dopo essere corso più volte avanti e indietro per menzionare oggetti aggiuntivi come marmellata, uova, crescione, pesce salato e prosciutto croccante, si precipitò da Furnival senza cappello per dare le sue varie istruzioni. Poco dopo, tutto ciò venne messo in pratica e la tavola fu imbandita.
-
-“Che il Signore benedica la mia [[motifs/soul|'anima]]”, esclamò il signor Grewgious, posando la lampada accanto a sé e sedendosi di fronte a Rosa; “Che nuova emozione per un povero vecchio scapolo rigido e solitario, davvero!”
-
-Illustrazione: Il signor Grewgious sperimenta una nuova sensazione
-
-Le espressive sopracciglia di Rosa gli chiedevano cosa intendesse.
-
-“La sensazione di avere una giovane presenza dolce in quel luogo, che lo rende più bello, lo dipinge, lo decora con ornamenti dorati e lo rende davvero splendido!” disse il signor Grewgious. “Ahimè, ”
-
-Poiché nel suo sospiro c'era qualcosa di malinconico, Rosa, toccandolo con la sua tazza di tè, osò anche lei toccarlo con la sua piccola mano.
-
-“Grazie mille, mia cara,” disse il signor Grewgious. “Ahem! Parliamo ora.”
-
-“Vive sempre qui, signore?”, chiese Rosa.
-
-“Sì, mio caro.”
-
-“E sempre da solo?”
-
-“Sempre solo; tranne che ogni giorno ho la compagnia di un gentiluomo di nome Bazzard, il mio segretario.”
-
-“Lui non vive qui?”
-
-“No, lui va per la sua strada, dopo orario di lavoro. In realtà, in questo momento non è di servizio qui; e un’azienda al piano di sotto, con cui ho rapporti commerciali, mi presta qualcuno che possa sostituirlo. Ma sarebbe estremamente difficile trovare qualcuno all’altezza del signor Bazzard.”
-
-“Deve tenerti molto a cuore,” disse Rosa.
-
-“Se lo è davvero, affronta la situazione con una fortitudine lodevole,” rispose il signor Grewgious dopo averci pensato su. “Ma io [[concepts/doubt|>dubito]] che lo sia. Non particolarmente, almeno. Vede, è insoddisfatto, povero ragazzo.”
-
-“Perché non è soddisfatto?” era la domanda naturale.
-
-“Messo nel posto sbagliato,” disse il signor Grewgious, con grande mistero.
-
-Le sopracciglia di Rosa ripresero quell’espressione curiosa e perplessa.
-
-“Sono così fuori posto, ”, continuò il signor Grewgious, “che mi sento costantemente in colpa nei suoi confronti. E lui pensa – anche se non lo dice esplicitamente – che io abbia davvero motivi per esserlo.”
-
-A quel punto, il signor Grewgious era diventato così misterioso che Rosa non sapeva più come comportarsi. Mentre ci pensava, il signor Grewgious improvvisamente tornò in sé per la seconda volta.
-
-“Parliamo. Stavamo parlando del signor Bazzard. È un segreto, e inoltre è il segreto del signor Bazzard stesso; ma la sua dolce presenza al mio tavolo mi rende così particolarmente loquace, che sento di doverlo condividere in assoluta confidenza. Cosa pensi che abbia fatto il signor Bazzard?”
-
-“Oh mio Dio!” esclamò Rosa, avvicinando un po’ la sedia e ripensando a Jasper, “niente di terribile, spero, ”
-
-“Ha scritto un’opera teatrale,” disse il signor Grewgious, sussurrando solennemente. “Una [[forms/tragedy|tragedia]].”
-
-Sembrava che Rosa fosse molto sollevata.
-
-“E nessuno,” continuò il signor Grewgious nello stesso tono, “deve assolutamente sapere nulla riguardo al fatto che verrà pubblicato.”
-
-Rosa sembrava pensierosa e annuì lentamente, come se volesse dire:  
-“Queste cose esistono. E perché esistono?”
-
-“Ora, sapete,” disse il signor Grewgious, “io non sarei mai in grado di scrivere un’opera teatrale.”
-
-“Niente male, vero signore?”, disse Rosa, innocentemente, con le sopracciglia che si muovevano di nuovo.
-
-“No. Se fossi condannato alla decapitazione e stessi per essere giustiziato all’istante, e arrivasse un decreto di grazia per il condannato Grewgious purché scrivesse una commedia, sarei costretto a riprendere il lavoro al blocco da macellaio e a chiedere all’esecutore di procedere con l’esecuzione, cioè,” disse il signor Grewgious passandosi la mano sotto il mento, “di eseguire la pena.”
-
-Rosa sembrava riflettere su ciò che avrebbe fatto se quella situazione imbarazzante e ipotetica fosse capitata a lei.
-
-“Di conseguenza,” disse il signor Grewgious, “il signor Bazzard avrebbe sempre la sensazione della mia inferiorità rispetto a lui in qualsiasi circostanza; ma quando io sono il suo padrone, beh, la situazione diventa ancora più grave.”
-
-Il signor Grewgious scosse la testa seriamente, come se ritenesse che l’offesa fosse un po’ troppo grave, anche se era stata lui stesso a commetterla.
-
-“Come mai siete diventato il suo maestro, signore?” chiese Rosa.
-
-“Una domanda che sorge naturalmente,” disse il signor Grewgious. “Parliamo pure. Il padre del signor Bazzard, essendo un contadino del Norfolk, avrebbe aggredito furiosamente suo figlio con una mazza, una forchetta da giardinaggio e ogni altro strumento agricolo disponibile, al minimo sospetto che avesse scritto una commedia. Così il figlio, portandomi l’affitto che ricevevo dal padre, mi rivelò il suo segreto e spiegò che era determinato a perseguire il proprio talento, anche se questo lo avrebbe messo in pericolo di morire di fame, e che, dopotutto, non era fatto per quel genere di vita.”
-
-“Per aver perseguito il proprio genio, signore?”
-
-“No, mio caro,” disse il signor Grewgious, “perché di fame. Era impossibile negare che il signor Bazzard non fosse fatto per morire di fame. Allora il signor Bazzard sottolineò che sarebbe stato desiderabile se io fossi intervenuto tra lui e una sorte così del tutto inadatta alle sue caratteristiche. In questo modo, il signor Bazzard divenne mio impiegato. E ne è molto grato.”
-
-“Sono felice che sia grato,” disse Rosa.
-
-“Non intendevo davvero dire quello, caro mio. Intendo dire che lui percepisce questa degradazione. Ci sono altri geni con cui il signor Bazzard ha avuto contatti, anch'essi autori di tragedie, le quali, allo stesso modo, nessuno avrebbe mai l’idea di far pubblicare. E questi talenti eccezionali dedicano le loro opere gli uni agli altri in modi estremamente lusinghieri. Il signor Bazzard è stato oggetto di una di queste dediche. Ora, sai bene. Nessuno ha mai dedicato un’opera a _me_!”
-
-Rosa lo guardò come se desiderasse che fosse lui il destinatario di mille dediche.
-
-“Il che, naturalmente, va contro i desideri del signor Bazzard,” disse il signor Grewgious. “A volte si comporta molto scortesamente con me, e allora penso che stia pensando: ‘Questo idiota è il mio padrone! Un uomo che non sarebbe in grado di scrivere nemmeno una [[forms/tragedy|tragedia]] sulla [[motifs/pain|dolore]] della [[motifs/death|>morte]], e che mai riceverà una tragedia dedicata a lui, con i più lusinghieri complimenti per la posizione elevata che ha conquistato agli occhi delle generazioni future!’ È davvero molto frustrante. Tuttavia, prima di dargli istruzioni, rifletto sempre: ‘Forse non gli piacerà’, o ‘Potrebbe offendersi se glielo chiedessi’; e così andiamo molto bene. Anzi, meglio di quanto mi aspettassi.”
-
 
 
 <span class="atom-split" data-atom="chapter_21--part_04" data-title="The Mystery of Edwin Drood — Chapter 20 (part 4)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/clock,motif/crown,motif/fire,motif/grave,motif/night,motif/road,motif/sleep,motif/time,motif/window,concept/history,concept/hope,form/history,form/tragedy,character/edwin_drood,character/helena"></span>
@@ -14406,38 +10048,6 @@ best part of an hour, with some solicitude; occasionally looking in
 between the bars, as if he had laid a dove in a high roost in a cage of
 lions, and had it on his mind that she might tumble out.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-“Il nome della [[forms/tragedy|tragedia]] è già stato deciso, signore?” chiese Rosa.
-
-“Strettamente tra noi,” rispose il signor Grewgious, “ha un nome terribilmente appropriato: si chiama ‘Il Prunello dell’Ansia’. Ma il signor Bazzard spera – e anch’io [[concepts/hope|>spero]] – che alla fine venga pubblicato.”
-
-Non era difficile intuire che il signor Grewgious avesse raccontato tutta quella [[concepts/history|storia]] del Bazzard, almeno per lo stesso motivo per cui voleva distrarre la mente della sua protetta da quell’argomento che l’aveva portata a quel punto, così come per soddisfare la propria tendenza a essere socievole e comunicativo.
-
-“E ora, mia cara,” disse a questo punto, “se non sei troppo stanca per raccontarmi di più su ciò che è accaduto oggi, ma solo se ti senti davvero in grado, mi farebbe molto piacere ascoltarti. Forse riuscirò a comprendere meglio tutto se ci dormo sopra, fino a [[motifs/night|notte]].”
-
-Rosa, una volta che ebbe finito di raccontare, gli fornì un resoconto fedele dell’incontro. Durante il racconto, il signor Grewgious si accarezzava spesso la testa e chiedeva di ascoltare nuovamente quelle parti del racconto che riguardavano [[characters/helena|Helena]] e Neville. Quando Rosa ebbe terminato, lui rimase seduto, serio, in silenzio, immerso nei suoi pensieri per un po’.
-
-“Raccontato in modo chiaro,” fu la sua unica osservazione alla fine, “e, spero, anche ben archiviato qui,” aggiunse accarezzandosi di nuovo i capelli. “Vedi, mia cara,” disse portandola davanti alla [[motifs/window|finestra]] aperta, “lì dove vivono, quelle finestre scure laggiù.”
-
-“Posso andare da [[characters/helena|Helena]] domani?” chiese Rosa.
-
-“Vorrei riflettere su quella questione fino a [[motifs/night|notte]],” rispose lui con esitazione. “Ma lasciate che vi accompagni al vostro riposo, perché ne avete sicuramente bisogno.”
-
-Con questo, il signor Grewgious l'aiutò a rimettersi il cappello e le fece prendere il suo piccolissimo borsellino, del tutto inutile, poi la prese per mano (con una certa goffaggine ma dignitosa, come se stesse per ballare un minuetto) e la guidò attraverso Holborn fino all’albergo Furnival’s Inn. Alla porta dell’hotel, le affidò la responsabilità della cameriera caposervizio e le disse che mentre lei andava a vedere la sua stanza, lui sarebbe rimasto al piano di sotto, nel caso desiderasse cambiarla o se le fosse servito qualcosa.
-
-La stanza di Rosa era ariosa, pulita, confortevole, quasi allegra. L’Unlimited aveva fornito tutto ciò che mancava nella piccolissima borsa che lei aveva con sé (in altre parole, tutto ciò di cui potesse aver bisogno), e così Rosa scese di nuovo le numerose scale per ringraziare il suo tutore per la sua attenzione premurosa e affettuosa.
-
-“Assolutamente no, mia cara,” disse il signor Grewgious, estremamente compiaciuto; “sono io a ringraziarvi per la vostra deliziosa fiducia e per la vostra compagnia così piacevole. Il vostro colazione vi sarà servita in una piccola sala da pranzo ordinata, accogliente e graziosa (adatta alla vostra figura), e verrò da voi alle dieci di questa mattina. Spero che non vi sentiate davvero troppo strane in questo luogo così insolito.”
-
-“No, mi sento così al sicuro, ”
-
-“Sì, potete essere certi che le scale sono resistenti al [[motifs/fire|fuoco]],” disse il signor Grewgious, “e che qualsiasi focolaio di questo elemento distruttivo verrebbe immediatamente rilevato e spento dai guardiani.”
-
-“Non volevo dire quello,” rispose Rosa. “Voglio dire, mi sento così al sicuro con lui.”
-
-“C'è una solida porta di sbarre di ferro per tenerlo fuori,” disse il signor Grewgious sorridendo; “e la casa di Furnival è resistente al [[motifs/fire|fuoco]], inoltre è costantemente sorvegliata e illuminata. E _io_ abito proprio di fronte!” Nella sua ingenua fiducia, sembrava ritenere che tale protezione fosse più che sufficiente. Con lo stesso spirito, disse al portiere uscendo: “Se qualcuno che soggiorna in hotel desiderasse mandarmi un messaggio di [[motifs/night|notte]], una [[motifs/crown|corona]] sarà pronta per il messaggero.” Con lo stesso atteggiamento, camminò avanti e indietro davanti alla porta di ferro per quasi un’ora, con evidente preoccupazione; di tanto in tanto guardava attraverso le sbarre, come se avesse lasciato una colomba in cattività tra dei leoni, temendo che potesse cadere fuori.
 
 
 
@@ -14710,149 +10320,6 @@ sudden bloom like the country on the summit of the magic bean-stalk.
 May it flourish for ever!
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XXI.  
-UN RICONOSCIMENTO
-
-
-Nella [[motifs/night|notte]] non accadde nulla che potesse turbare la tranquilla colomba; e la colomba si alzò riposata. Con il signor Grewgious, quando l’[[motifs/clock|orologio]] suonò le dieci del mattino, arrivò anche il signor Crisparkle, che era emerso all’improvviso dal [[motifs/river|fiume]] a Cloisterham.
-
-“Miss Twinkleton era così agitata, Miss Rosa,” le spiegò, “e è venuta da noi con la sua lettera, in uno stato di [[concepts/wonder|stupore]] tale che, per calmarla, mi sono offerto volontario per questo compito, prendendo il primo treno disponibile la mattina seguente. Avrei voluto che veniste da me all’[[motifs/time|momento]] giusto; ma ora penso che sia stato meglio che abbiate fatto ciò che avete fatto, cioè rivolgervi al vostro tutore.”
-
-“Ci ho pensato davvero a te”, gli disse Rosa; “ma Minor Canon Corner era così vicino a lui, ”
-
-“Capisco. Era del tutto naturale.”
-
-“Gli ho raccontato tutto ciò che mi hai detto la scorsa [[motifs/night|notte]], caro mio,” disse il signor Grewgious. “Certo avrei dovuto scrivergli subito; ma il suo arrivo è stato davvero tempestivo. E è stato particolarmente gentile da parte sua venire, visto che era appena partito.”
-
-“Avete già deciso,” chiese Rosa, rivolgendosi a entrambi, “cosa fare per [[characters/helena|Elena]] e suo fratello?”
-
-“Davvero,” disse il signor Crisparkle, “sono nel più grande imbarazzo. Se persino il signor Grewgious, la cui testa è molto più lunga della mia e che riflette per intere [[motifs/night|notti]] prima di me, non riesce a prendere una decisione, cosa dovrei fare io!”
-
-La donna chiamata “Unlimited” bussò alla porta; dopo essere stata autorizzata ad entrare, annunciò che un gentiluomo desiderava parlare con un altro gentiluomo di nome Crisparkle, nel caso ce ne fosse uno. Se non ci fosse stato alcun signor Crisparkle, chiese scusa per l’errore.
-
-“Un gentiluomo del genere è qui,” disse il signor Crisparkle, “ma al momento è impegnato.”
-
-“È un gentiluomo scuro?” intervenne Rosa, ritirandosi accanto al suo tutore.
-
-"No, signorina, più un gentiluomo di colore."
-
-“Sei sicura che non abbia i capelli neri?”, chiese Rosa, prendendo [[concepts/courage|coraggio]].
-
-“Ne sono assolutamente certa, signorina. Capelli biondi e occhi blu.”
-
-“Forse,” suggerì il signor Grewgious con la sua solita cautela, “sarebbe [[motifs/well|utile]] incontrarlo, reverendo signore, se non avete obiezioni. Quando si trova in difficoltà o si è persi, non si sa mai in quale direzione possa aprirsi una via d’uscita. Nel mio modo di procedere, in casi del genere, non mi limito a escludere alcuna possibilità, ma tengo d’occhio ogni direzione che possa presentarsi. Potrei raccontarvi un aneddoto a questo proposito, ma sarebbe prematuro.”
-
-“Se la signorina Rosa me lo permetterà. Allora lasciate che il gentiluomo entri,” disse il signor Crisparkle.
-
-Il gentiluomo entrò, si scusò con franchezza ma modestia per non aver trovato il signor Crisparkle da solo; poi si rivolse al signor Crisparkle e, sorridendo, pose quella domanda inaspettata: “Chi sono io?”
-
-“Sei il gentiluomo che ho visto fumare sotto gli alberi di Staple Inn, poco fa, ”
-
-“Vero. Lì ti ho visto. Chi altro potrei essere?”
-
-Il signor Crisparkle concentrò la sua attenzione su un volto attraente, molto abbronzato dal sole; e l’[[archetypes/ghost|fantasma]] di qualche ragazzo scomparso sembrò risorgere, gradualmente e in modo vago, nella stanza.
-
-Il gentiluomo vide un ricordo lontano illuminare i tratti del giovane canonico; sorridendo di nuovo, disse: “Cosa vorrai per colazione stamattina? Non abbiamo più marmellata, ”
-
-“Aspettate un attimo!” gridò il signor Crisparkle, alzando la mano destra. “Datemi ancora un momento. Tartar!”
-
-I due si strinsero la mano con grande cordialità, e poi fecero quella cosa meravigliosa che gli inglesi sono soliti fare: posarono entrambi le mani sulle spalle dell’altro e si guardarono felicemente negli occhi.
-
-“Mio vecchio braccio destro!” disse il signor Crisparkle.
-
-“Mio vecchio padrone!” disse il signor Tartar.
-
-“Mi hai salvato dal annegare!” disse il signor Crisparkle.
-
-“Dopo di che hai iniziato a nuotare, vero!” disse il signor Tartar.
-
-“Dio benedica la mia [[motifs/soul|'anima]]!” disse il signor Crisparkle.
-
-“Amén!”, disse il signor Tartar.
-
-E poi si strinsero la mano ancora una volta, con grande affetto.
-
-“Immaginate,” esclamò il signor Crisparkle con gli occhi che brillavano: “La signorina Rosa Bud e il signor Grewgious. Immaginate il signor Tartar, quando era ancora uno dei più giovani studenti, che si tuffa per prendermi in braccio, me, un grande e pesante studente anziano, per i capelli, e poi mi trascina verso la riva come un vero [[motifs/water|gigante]] dell’acqua!”
-
-“Immaginate se non lo avessi salvato, visto che ero il suo ‘compagno di sventure’!” disse il signor Tartar.  
-“Ma la [[concepts/truth|verità]] è che lui era il mio miglior protettore e amico; mi ha fatto più bene di tutti gli altri insegnanti messi insieme. Un impulso irrazionale mi spinse a salvarlo, o, forse, ad affondare con lui.”
-
-“Ehm! Permettetemi, signore, di avere l’[[concepts/honour|onore]], ” disse il signor Grewgious, avvicinandosi con la mano tesa, “poiché si tratta di un [[concepts/honour|onore]] che apprezzo davvero molto. Sono orgoglioso di conoscervi. Spero non vi siate raffreddati. E spero anche che non abbiate avuto problemi a causa dell’ingestione eccessiva d’[[motifs/water|acqua]]. Come state da allora?”
-
-Non era affatto evidente che il signor Grewgious sapesse ciò che stava dicendo, anche se era molto chiaro che volesse esprimere qualcosa di estremamente cordiale e apprezzativo.
-
-Se solo il Cielo avesse inviato a sua povera madre tanta [[concepts/courage|coraggio]] e abilità, pensò Rosa. E se lui fosse stato così leggero e giovane all’epoca.
-
-“Non desidero essere lodato per questo, vi ringrazio; ma penso di avere un’idea,” annunciò il signor Grewgious, dopo essersi mosso avanti e indietro nella stanza in modo così improvviso e inspiegabile che tutti lo fissarono, chiedendosi se stesse soffocando o avesse avuto un crampo, “Penso di avere un’idea. Credo di aver avuto il piacere di vedere il nome del signor Tartar indicato come inquilino dell’appartamento più alto nella casa accanto a quello situato nell’angolo, giusto?”
-
-“Sì, signore”, rispose il signor Tartar. “Per ora ha ragione”.
-
-“Finora ho ragione,” disse il signor Grewgious. “Segna questo punto;” e lo fece, usando il pollice destro per indicare il lato sinistro. “Potresti per caso conoscere il nome del tuo vicino che abita nell’appartamento sopra, dall’altra parte della parete divisoria?” Si avvicinò molto al signor Tartar, per non perdere nulla di ciò che vedeva a causa della sua miopia.
-
-“Senza terra.”
-
-“Segna quella voce,” disse il signor Grewgious, riprendendo a camminare velocemente per poi tornare indietro. “Nessuna conoscenza personale, immagino, signore, ”
-
-“Appena percettibile, ma c’è.”
-
-“Segna quella voce,” disse il signor Grewgious, ripartendo di corsa e tornando subito dopo. “Qual è la ‘[[concepts/nature|natura]]’ della conoscenza, signor Tartar?”
-
-“Pensavo che fosse un giovane in difficoltà, quindi gli chiesi il permesso – solo per un giorno o due – di condividere le mie [[motifs/flowers|>fioriture]] lassù con lui; in altre parole, di estendere il mio [[motifs/garden|giardino fiorito]] fino alle sue finestre.”
-
-“Le dispiacerebbe prendere posto, per favore?”, disse il signor Grewgious. “Ho un’idea!”
-
-Obbedirono; il signor Tartar, tuttavia, senza alcuna esitazione, poiché si trovava all’estero; e il signor Grewgious, seduto al centro con le mani sulle ginocchia, espresse la sua idea nel solito modo, cioè dopo averla imparata a memoria.
-
-“Non riesco ancora a decidere se sia prudente mantenere un contatto aperto, nelle circostanze attuali, da parte del rispettabile membro di questa compagnia, con il signor Neville o la signorina [[characters/helena|Helena]]. Ho motivo di sapere che un nostro amico locale (a cui invio, con l’amichevole permesso del mio reverendo amico, una maledizione veloce ma sentita) si muove furtivamente avanti e indietro. Se non lo fa personalmente, probabilmente ha qualche informatore che gli fa da scagnozzo, sotto le sembianze di un custode, di un portiere o di qualcun altro legato a Staple. D’altra parte, la signorina Rosa desidera naturalmente rivedere la sua amica, la signorina [[characters/helena|Helena]], e sembrerebbe importante che almeno lei (se non anche suo fratello, attraverso di lei) sappia in privato, dalle parole della stessa signorina Rosa, ciò che è accaduto e quali minacce sono state fatte. Sono d’accordo con le opinioni generalmente condivise?”
-
-“Concordo completamente con loro”, disse il signor Crisparkle, che aveva prestato molta attenzione.
-
-“Poiché non ho alcun [[concepts/doubt|>dubbio]] che dovrei farlo,” aggiunse il signor Tartar sorridendo, “se solo riuscissi a comprenderli.”
-
-“Con gentilezza e discrezione, signore,” disse il signor Grewgious; “vi confideremo completamente tutto, se ci concedete il vostro permesso. Ora, se il nostro amico locale avesse qualche informatore sul posto, è abbastanza evidente che tale informatore possa soltanto sorvegliare le stanze occupate dal signor Neville. Se quest’ultimo dovesse fare rapporto al nostro amico locale, che va e viene lì, il nostro amico potrebbe, grazie alle sue precedenti informazioni, identificare le persone coinvolte. Nessuno potrebbe sorvegliare tutte le stanze di Staple, né occuparsi degli andirivieni nelle altre stanze, a meno che non si tratti delle mie.”
-
-“Comincio a capire verso cosa ti stai dirigendo,” disse il signor Crisparkle, “e approvo molto la tua prudenza.”
-
-“Non c’è bisogno che ripeta che per ora non so nulla riguardo al ‘perché’ e al ‘dove’,” disse il signor Tartar; “ma capisco anche a cosa mirate, quindi vi dico subito che le mie stanze sono a vostra disposizione.”
-
-“Ecco!” esclamò il signor Grewgious, lisciandosi la testa con aria trionfale, “adesso tutti abbiamo capito. L’hai capito anche tu, caro mio?”
-
-“Credo di sì,” disse Rosa, arrossendo leggermente quando il signor Tartar le lanciò uno sguardo rapido.
-
-“Vedi,” disse il signor Grewgious, “tu vai da Staple insieme al signor Crisparkle e al signor Tartar; io entrerò e uscirò da solo, come al solito; tu sali con quei signori nelle stanze del signor Tartar, dà un’occhiata al suo [[motifs/garden|giardino]] dei fiori, aspetti l’arrivo della signorina Helena o le fai sapere che sei nelle vicinanze; e poi parla liberamente con lei. Nessun spia potrà scoprirlo.”
-
-“Temo davvero di dover essere, ”
-
-“Che cosa dovrei essere, mia cara?”, chiese il signor Grewgious mentre lei esitava. “Non hai paura?”
-
-“No, non quello,” disse Rosa, imbarazzata; “intendo nel modo in cui il signor Tartar si comporta. Sembra che stiamo prendendoci molto tranquillamente la sua residenza.”
-
-“Vi protesto,” rispose quel gentiluomo, “che considererò questa cosa sempre la migliore, anche solo se la vostra voce vi risuona una volta sola.”
-
-Rosa, non sapendo bene cosa dire al riguardo, abbassò lo sguardo e, rivolgendosi a Mr. Grewgious, chiese con diligenza se dovesse mettersi il cappello. Poiché Mr. Grewgious riteneva che non potesse fare di meglio, lei si allontanò per farlo. Mr. Crisparkle approfittò dell’occasione per riassumere a Mr. Tartar le difficoltà di Neville e sua sorella; l’occasione fu più che sufficiente, poiché il cappello richiedeva infatti qualche aggiustamento.
-
-Il signor Tartar offrì il proprio braccio a Rosa, mentre il signor Crisparkle camminava da solo, davanti a loro.
-
-“Povero, povero Eddy!” pensò Rosa mentre camminavano.
-
-Il signor Tartar agitò la sua mano destra mentre chinava la testa verso Rosa, parlando in modo animato.
-
-“Non era così potente né così abbronzata dal sole quando salvò il signor Crisparkle,” pensò Rosa, guardandola; “ma deve essere stata comunque molto ferma e decisa anche allora.”
-
-Il signor Tartar le disse di essere stato un marinaio, che aveva viaggiato in giro per anni e anni.
-
-“Quando ripartirai per il mare?” chiese Rosa.
-
-“Mai!”
-
-Rosa si chiese cosa avrebbero detto le ragazze se l’avessero vista attraversare quella larga strada sostenuta dal braccio di un marinaio. Immaginava che i passanti la considerassero insignificante e completamente indifesa, a confronto con quella figura forte che avrebbe potuto prenderla in braccio e portarla in salvo, per chilometri e chilometri senza mai fermarsi.
-
-Pensava ancora che i suoi occhi azzurri e perspicaci sembravano abituati a osservare il pericolo da lontano, a vederlo avvicinarsi senza mai tremare. Quando alzò lo sguardo anch'ella, si rese conto che lui sembrava stesse pensando proprio a _lei_.
-
-Questa situazione lasciò Rosebud un po’ confusa, e forse spiega perché in seguito non riuscì mai a ricordare esattamente come fosse salita (con il suo aiuto) nel suo [[motifs/garden|giardino]] sospeso tra le nuvole, e come fosse entrata in quel meraviglioso regno che sembrava fiorire all’improvviso, proprio come il paesaggio sulla cima del gambo di fagiolo magico. Che possa prosperare per sempre!
-
 
 
 <span class="atom-split" data-atom="chapter_23" data-title="The Mystery of Edwin Drood — Chapter 22" data-chapter="Chapter 23" data-kind="chapter" data-tags="motif/birds,motif/flowers,motif/garden,motif/home,motif/leaves,motif/love,motif/mirror,motif/moon,motif/nature,motif/ship,motif/silence,motif/stars,motif/summer,motif/time,motif/window,concept/beauty,concept/nature,setting/london,setting/ship,character/edwin_drood,character/helena,character/helena_landless,character/john_jasper,character/queen"></span>
@@ -15060,90 +10527,6 @@ appearance.
 that has restricted us to this interview for the present, and will
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Capitolo XXII: Si apre una fase difficile
-
-Le stanze di Mr. Tartar erano le più ordinate, pulite e ben sistemate che si potessero mai vedere sotto il sole, la luna e le stelle. I pavimenti erano lavati così accuratamente che si sarebbe potuto pensare che tutti i domestici di [[settings/london|Londra]] fossero stati liberati per sempre e se ne fossero andati via dalla città. Ogni pezzo di bronzo posseduto da Mr. Tartar era lucidato fino a brillare come uno specchio di bronzo. Nessuna macchia, né traccia di sporco rovinava la pulizia dei suoi oggetti domestici, grandi, piccoli o di medie dimensioni. Il suo salotto assomigliava alla cabina di un ammiraglio; il bagno a una latteria; la sua camera da letto, piena di armadietti e cassetti, a un negozio di semi; e il suo lettino, ben bilanciato, sembrava muoversi dolcemente al centro della stanza, come se respirasse. Ogni oggetto appartenente a Mr. Tartar aveva il proprio posto preciso: le sue mappe e i suoi grafici avevano il loro spazio; i suoi libri, le sue penne, i suoi stivali, i suoi vestiti, le sue bottiglie, tutto era sistemato in modo ordinato. Tutto era facilmente accessibile: mensole, scaffali, armadietti, erano tutti disposti in modo da non sprecare spazio e offrire un posto sicuro per ogni oggetto che altrimenti non avrebbe trovato posto. I suoi piatti lucidi erano disposti sul tavolo in modo tale che anche il minimo errore nella loro disposizione sarebbe stato immediatamente notato; gli oggetti da toeletta, sul comodino, erano così sistemati che qualsiasi trascuratezza sarebbe stata subito evidente. Lo stesso valeva per le curiosità che aveva portato a casa dopo varie spedizioni: uccelli, pesci, rettili, armi, abiti, conchiglie, alghe, ognuno era esposto nel suo posto giusto, e non avrebbe potuto essere messo in nessun altro luogo migliore. Sembrava che vernice e lacca venissero sempre tenute nascoste, pronte a cancellare qualsiasi traccia di sporco potesse apparire nelle stanze di Mr. Tartar. Nessuna nave da guerra sarebbe mai stata mantenuta in condizioni più ordinate rispetto a quelle della sua casa. In quel luminoso giorno d’estate, sopra il suo giardino fiorito era stato montato un tendone, sistemato esattamente come avrebbe potuto farlo solo un marinaio; l’insieme aveva un aspetto davvero delizioso e completo. Il giardino fiorito sembrava appartenere a una nave in viaggio. Se solo Mr. Tartar avesse suonato il corno che teneva in un angolo, dando l’ordine di alzare l’ancora e salpare immediatamente.
-
-Il signor Tartar, che si occupava di questa nobile impresa, era proprio come gli altri. Quando un uomo coltiva un hobby piacevole, che non esita davanti a nulla e non offende nessuno, è davvero gradevole vederlo praticarlo con un senso umoristico della comicità delle cose. E quando quest’uomo è per natura cordiale e sincero, e inoltre del tutto genuino e autentico, si può dubitare che esista momento migliore di questo per apprezzarlo appieno. Così Rosa avrebbe pensato naturalmente (anche se non fosse stata accompagnata a bordo della nave con tutti gli onori dovuti alla “Prima Signora dell’Ammiragliato” o alla “Prima Fata del Mare”), che era davvero incantevole vedere e ascoltare il signor Tartar ridere e gioire delle sue varie invenzioni. Comunque sia, Rosa avrebbe pensato naturalmente che quel marinaio abbronzato si mostrasse al meglio quando, terminata l’ispezione, uscì con delicatezza dalla cabina dell’ammiraglio, chiedendole di considerarsi la sua “Regina” e salutandola con la mano che aveva salvato la vita del signor Crisparkle.
-
-“[[characters/helena|Elena]]! [[characters/helena-landless|Elena Senza Terra]]! Sei lì?”
-
-“Chi parla con me? Non è Rosa?” Poi apparve un secondo volto attraente.
-
-“Sì, mio caro!”
-
-“Ma come sei arrivata qui, cara?”
-
-“Non lo so proprio, ”, disse Rosa arrossendo, “a meno che non stia sognando, ”
-
-Perché arrossire? Poiché i loro due volti erano gli unici ad essere circondati dalle altre [[motifs/flowers|>fioriture]]. Gli arrossimenti fanno forse parte dei frutti del regno della magia?
-
-“Non sto sognando,” disse [[characters/helena|Elena]] sorridendo. “Se lo fossi, dovrei considerare tutto più normale. Come è possibile che ci incontriamo, o che ci avviciniamo così tanto, in modo così inaspettato?”
-
-Inaspettatamente, tra i tettoie e i comignoli scuri della casa di P. J. T., e le [[motifs/flowers|>fiori]] che erano spuntate dal mare salato. Ma Rosa, svegliandosi, raccontò in fretta come fossero finiti insieme, e tutti i motivi e le ragioni di quella situazione.
-
-“E il signor Crisparkle è qui,” disse Rosa, concludendo rapidamente; “e, potreste crederci?, molto tempo fa lui gli salvò la vita!”
-
-“Potrei credere qualsiasi cosa su Mr. Crisparkle,” rispose [[characters/helena|Helena]], con il viso nascosto dietro un velo.
-
-(Ancora più rossori nel paese dei gambi di fagiolo, )
-
-“Sì, ma non era Crisparkle,” disse Rosa, correggendo rapidamente.
-
-“Non capisco, [[motifs/love|amore]].”
-
-“È stato molto gentile da parte del signor Crisparkle essere salvato,” disse Rosa, “e non avrebbe potuto esprimere più chiaramente la sua alta stima per il signor Tartar. Ma è stato proprio il signor Tartar a salvarlo.”
-
-Gli occhi scuri di [[characters/helena|Elena]] fissarono con grande serietà il viso luminoso tra le [[motifs/leaves|foglie]], e chiese, con un tono più lento e pensieroso:
-
-“Il signor Tartar è con te adesso, carina?”
-
-“No; perché ci ha ceduto le sue stanze. Voglio dire, a noi. È un posto davvero meraviglioso!”
-
-“Is it?”
-
-“È come l’interno della più raffinata [[motifs/ship|nave]] che sia mai salpata. È proprio come, ”
-
-“Come in un >sogno?” suggerì [[characters/helena|Elena]].
-
-Rosa rispose con un piccolo cenno del capo e annusò i [[motifs/flowers|>fiori]].
-
-[[characters/helena|Helena]] riprese, dopo una breve pausa di [[motifs/silence|silenzio]], durante la quale sembrava (o forse era solo un'idea di Rosa) che provasse compassione per qualcuno: “Povero Neville, sta leggendo nella sua stanza; il sole è proprio molto forte da questa parte in questo momento. Penso sia meglio che non sappia che sei così vicina.”
-
-“Oh, anch’io lo penso!” esclamò Rosa senza esitazione.
-
-“Suppongo,” proseguì [[characters/helena|Helena]] con esitazione, “che prima o poi debba venire a sapere tutto ciò che mi hai raccontato; ma non ne sono sicura. Chiedi consiglio al signor Crisparkle, carina mia. Chiedigli se posso dire a Neville tanto o quanto meno di quello che mi hai detto, secondo quanto ritengo meglio.”
-
-Rosa tornò nella sua cabina ufficiale e pose la domanda: il Canone Minore sosteneva l’esercizio libero del giudizio di [[characters/helena|Elena]].
-
-“Gli sono molto grata,” disse [[characters/helena|Helena]] quando Rosa ricomparve con il suo rapporto. “Chiedigli se sia meglio aspettare che quest’infame continui a diffamare e perseguitare Neville, oppure cercare di prevenire tutto ciò: intendo dire, scoprire se qualcosa del genere stia accadendo in segreto intorno a noi.”
-
-Il Minor Canon trovò questo argomento così difficile da analizzare con certezza, che, dopo due o tre tentativi falliti, suggerì di consultare il signor Grewgious. [[characters/helena|Helena]] acconsentì, e lui si recò (con un’aria di indifferenza del tutto simulata) nel cortile adiacente per parlare con P.J.T. Il signor Grewgious era fermamente convinto del principio generale secondo cui, se si poteva anticipare un brigante o una bestia selvaggia, era meglio farlo; e credeva anche con certezza che [[characters/john-jasper|John Jasper]] rappresentasse esattamente questo tipo di individuo pericoloso.
-
-Avendo ricevuto questo consiglio, il signor Crisparkle tornò e riferì a Rosa, la quale a sua volta ne informò [[characters/helena|Helena]]. Ora, continuando con determinazione nel seguire il filo dei suoi pensieri davanti alla sua [[motifs/window|finestra]], lei rifletté su ciò.
-
-“Possiamo contare sulla disponibilità del signor Tartar ad aiutarci, Rosa?” chiese lei.
-
-O sì! Rosa lo pensava timidamente. O sì, Rosa credeva timidamente di poter rispondere al posto giusto. Ma doveva chiederlo a Mr. Crisparkle? “Penso che la tua autorità in questa materia sia altrettanta della sua, cara,” disse [[characters/helena|Helena]] con calma, “e non c’è bisogno che tu scompaia di nuovo per questo.” Che strana persona [[characters/helena|Helena]].
-
-“Vedi, Neville,” continuò [[characters/helena|Helena]] dopo ulteriori riflessioni, “qui non conosce nessun altro: non ha nemmeno scambiato una parola con nessuno. Se il signor Tartar lo chiamasse spesso e apertamente; se dedicasse anche solo un minuto per farlo, di frequente; anzi, quasi ogni giorno, forse potrebbe succedere qualcosa.”
-
-“Forse potrebbe funzionare, cara, ” ripeté Rosa, osservando la [[concepts/beauty|bellezza]] della sua amica con un’espressione molto perplessa. “Forse potrebbe davvero funzionare?”
-
-“Se i movimenti di Neville sono davvero sotto osservazione, e se lo scopo è davvero quello di isolarlo da tutti gli amici e conoscenti, logorando gradualmente la sua vita quotidiana (cosa che sembrerebbe rappresentare una vera minaccia per lui), non vi pare probabile,” disse [[characters/helena|Helena]], “che il suo nemico possa in qualche modo mettersi in contatto con il signor Tartar per avvertirlo di stare lontano da Neville? In tal caso, potremmo non solo conoscere questo fatto, ma anche sapere dal signor Tartar quali siano stati i termini di quel contatto.”
-
-“Capisco!” esclamò Rosa. E immediatamente tornò nella sua cabina di comando.
-
-In quel momento il suo bel viso riapparve, con un colore molto più intenso; lei disse di aver informato il signor Crisparkle, che a sua volta aveva fatto venire il signor Tartar. Il signor Tartar – “che adesso sta aspettando, nel caso tu lo voglia”, aggiunse Rosa, guardandosi indietro con un certo imbarazzo, non essendo del tutto sicura della situazione all’interno della cabina di stato – aveva dichiarato di essere pronto a agire secondo i suoi suggerimenti e di iniziare il proprio compito quel stesso giorno.
-
-“Gli sono davvero grata dal profondo del cuore,” disse [[characters/helena|Elena]]. “Per favore, diglielo.”
-
-Ancora una volta, c'era un po' di confusione tra il [[motifs/garden|giardino]] fiorito e la capanna. Rosa vi immerse il messaggio, ne uscì poi con altre promesse da parte del signor Tartar, e rimase indecisa tra [[characters/helena|Helena]] e lui. Il che dimostra che la confusione non è sempre sgradevole, ma a volte può presentare un aspetto davvero piacevole.
-
-“E ora, caro,” disse [[characters/helena|Elena]], “rispetteremo le cautele che ci hanno costretti a limitare questo incontro per il momento, e, ”
-
 
 
 <span class="atom-split" data-atom="chapter_24_hear_neville_moving_too_are_yo--part_01" data-title="The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 1)" data-chapter="hear Neville moving too Are yo" data-kind="excerpt" data-tags="topos/quest,motif/flowers,motif/home,motif/leaves,motif/love,motif/nature,motif/spring,motif/time,motif/well,motif/window,concept/doubt,concept/hope,concept/nature,setting/london,character/edwin_drood,character/helena"></span>
@@ -15289,79 +10672,6 @@ yearly tenant so to do. The piping is carried above your jistes, and it
 is best that it should be made known to you.”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-“Parte. Ho sentito Neville muoversi anche lui. Stai tornando indietro?”
-
-“Per la signorina Twinkleton?” chiese Rosa.
-
-“Sì, davvero.”
-
-“Oh, non potrei mai più andarci. Davvero non potrei, dopo quell’orribile colloquio!” disse Rosa.
-
-“Allora, dove stai andando, bella mia?”
-
-“Ora che ci penso, non lo so proprio,” disse Rosa. “Non ho ancora deciso nulla, ma il mio tutore si occuperà di me. Non preoccuparti, caro. Sicuramente finirò da qualche parte.”
-
-(Sembra davvero probabile.)
-
-“E allora sentirò parlare della mia ‘Rosebud’ dal signor Tartar?”, chiese [[characters/helena|Elena]].
-
-“Sì, suppongo di sì. Da, ” Rosa guardò indietro ancora una volta, esitante, senza però pronunciare il nome. “Ma dimmi una cosa prima che ci separiamo, cara [[characters/helena|Elena]]. Dimmi che sei sicura, davvero sicura.”
-
-“Aiutalo, [[motifs/love|amore]], ”
-
-“Aiutami a renderlo malvagio e vendicativo. Non riuscivo proprio a mantenere rapporti con lui, vero?”
-
-“Tu sai quanto ti [[motifs/love|amo]], caro,” rispose [[characters/helena|Elena]] con indignazione;  
-“ma preferirei vederti morto ai suoi piedi malvagi.”
-
-“Questo è un grande conforto per me! E tu dirai così a tuo povero fratello, vero? Gli porterai i miei saluti e la mia solidarietà. E gli chiederai di non odiarmi, giusto?”
-
-Con un movimento di testa pieno di tristezza, come se quel gesto fosse del tutto superfluo, [[characters/helena|Elena]] baciò con affetto le mani della sua amica; a sua volta, anche le mani dell’amica furono baciate. Poi vide apparire una terza mano (di colore marrone) tra i [[motifs/flowers|>fiori]] e le [[motifs/leaves|> foglie]], che aiutò la sua amica a scomparire dalla vista.
-
-La cena che il signor Tartar preparò nella cabina dell’ammiraglio semplicemente toccando la maniglia di una cassettiera e l’impugnatura di un cassetto, fu un banchetto incantato e straordinario. Meravigliosi macaroon, liquori scintillanti, spezie tropicali conservate magicamente, e gelatine di frutti tropicali celestiali apparvero in abbondanza in un istante. Ma il signor Tartar non riusciva a far fermare il [[motifs/time|tempo]]; e questo, con la sua implacabile rapidità, proseguiva così velocemente che Rosa fu costretta a scendere dal “paese delle steli di fagiolo” per tornare sulla terra, nelle stanze del suo custode.
-
-“E ora, mio caro,” disse il signor Grewgious, “cosa dobbiamo fare adesso? Per esprimere lo stesso concetto in un altro modo, cosa dobbiamo fare con te?”
-
-Rosa poteva solo guardare con un'espressione di scusa, rendendosi conto di essere molto diversa sia da se stessa che dagli altri. L'unica idea che le venne in mente come possibile piano per il resto della sua vita era quella di vivere, in modo sicuro e stabile, al secondo piano dell’Furnival’s Inn.
-
-“Mi è venuto in mente,” disse il signor Grewgious, “che poiché la rispettabile signorina Twinkleton occasionalmente si reca a [[settings/london|Londra]] durante le vacanze, al fine di ampliare i suoi contatti e essere disponibile per eventuali colloqui con genitori della capitale, forse potremmo invitare la signorina Twinkleton a trascorrere un mese da voi, finché non avremo il [[motifs/time|tempo]] di organizzarci.”
-
-“Resti lì, signore?”
-
-“Che sia possibile,” spiegò il signor Grewgious, “prendere in affitto un appartamento arredato in città per un mese e invitare la signorina Twinkleton a prendersi cura di voi durante quel periodo?”
-
-“E poi?” chiese insinuante Rosa.
-
-“E dopo”, disse il signor Grewgious, “non saremmo in una situazione peggiore di quella attuale”.
-
-“Penso che questo possa facilitare le cose,” concordò Rosa.
-
-“Allora andiamo,” disse il signor Grewgious alzandosi, “a cercare un alloggio ammobiliato. Niente potrebbe essere più gradito per me della dolce compagnia di ieri sera, per tutte le sere che mi restano da vivere; ma questi non sono ambienti adatti a una giovane signorina. Partiamo dunque in questa avventura e cerchiamo un alloggio ammobiliato. Nel frattempo, il signor Crisparkle, che sta per tornare a [[motifs/home|casa]] immediatamente, vedrà sicuramente la signorina Twinkleton e le chiederà di collaborare con noi nel nostro piano.”
-
-Il signor Crisparkle, accettando volentieri l’incarico, se ne andò; il signor Grewgious e la sua protetta partirono per la loro spedizione.
-
-Per il signor Grewgious, osservare una casa affittuata significava recarsi dall’altra parte della strada di fronte a un edificio la cui [[motifs/window|finestra]] mostrasse un annuncio adatto, poi aggirarne lentamente l’angolo posteriore per osservarlo anch’esso; senza mai entrare, proseguiva con lo stesso procedimento in altre case, ottenendo sempre lo stesso risultato. Il suo progresso era davvero lento. Alla fine gli venne in mente una cugina vedova, di lontana discendenza, appartenente alla famiglia Bazzard; questa donna aveva un tempo cercato il suo aiuto nel settore degli affitti immobiliari e viveva in Southampton Street, Bloomsbury Square. Il nome di questa signora, scritto in caratteri dorati di notevoli dimensioni su una targhetta di bronzo, non forniva però informazioni chiare riguardo al suo sesso o alla sua condizione sociale. Il suo nome era BILLICKIN.
-
-La debolezza fisica e una schiettezza estrema erano le caratteristiche distintive dell’organizzazione di Mrs. Billickin. Usciva dalla sua stanza privata con l’aria di essere stata portata lì apposta, dopo aver subito diverse svenute.
-
-“Spero di vedervi in buona salute, signore,” disse la signora Billickin, riconoscendo il suo visitatore con un inchino.
-
-“Grazie, molto [[motifs/well|bene]]. E lei, signora?” rispose il signor Grewgious.
-
-“Sono nella stessa buona salute,” disse la signora Billickin, con un tono di ambizione eccessiva che nascondeva una certa debolezza, “come quando ero giovane.”
-
-“La mia protetta e una signora anziana”, disse il signor Grewgious, “desiderano trovare un alloggio elegante per circa un mese. Avete qualche appartamento disponibile, signora?”
-
-“Signor Grewgious,” rispose la signora Billickin, “non vi ingannerò affatto; anzi, ho effettivamente degli appartamenti disponibili.”
-
-Questo, con l’aria di aggiungere: “Portatemi alla fiamma del rogo, se volete; ma finché sarò in vita, rimarrò sincero.”
-
-“E ora, quali appartamenti, signora?” chiese gentilmente il signor Grewgious, nel tentativo di mitigare la certa severità che si percepiva nella signora Billickin.
-
-“C'è questa sala da pranzo, chiamatela come volete, ma è comunque la stanza principale, signorina,” disse la signora Billickin, coinvolgendo Rosa nella conversazione: “la stanza posteriore, invece, è quella a cui tengo molto e di cui non mi separerei mai; in cima alla casa ci sono due camere da letto dotate di impianto a gas. Non vi dico che i pavimenti delle vostre camere siano solidi, infatti non lo sono. Lo stesso tecnico del gas ha ammesso che, per rendere il lavoro efficace, avrebbe dovuto lavorare proprio sotto le vostre assi del pavimento, ma non ne varrebbe la pena, considerando che si tratterebbe di un inquilino annuale. I tubi passano sopra le vostre assi, quindi è meglio che lo sappiate.”
-
 
 
 <span class="atom-split" data-atom="chapter_24_hear_neville_moving_too_are_yo--part_02" data-title="The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 2)" data-chapter="hear Neville moving too Are yo" data-kind="excerpt" data-tags="motif/fire,motif/time,motif/well,motif/window,concept/deception,concept/doubt,character/edwin_drood"></span>
@@ -15491,60 +10801,6 @@ one, when Miss Twinkleton might be reasonably expected; and Rosa went
 back to Furnival’s Inn on her guardian’s arm.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Il signor Grewgious e Rosa si scambiarono sguardi di preoccupazione, anche se non avevano la minima idea di quali orrori nascosti potesse comportare quel carro pieno di tubi. La signora Billickin si portò una mano al cuore, come se vi avesse appena sollevato un peso.
-
-“Benissimo! Il tetto è a posto, senza alcun [[concepts/doubt|dubbio]],” disse il signor Grewgious, sollevandolo leggermente.
-
-“Signor Grewgious,” rispose la signora Billickin, “se vi dicessi che non avere nulla al di sopra di sé significa avere un pavimento sopra la testa, vi ingannerei, e questo non lo farò. No, signore. Le vostre tegole si staccheranno sicuramente in quella posizione, soprattutto quando soffia il vento, che ci proviate pure quanto volete! Vi sfido, signore, a mantenere le vostre tegole ben fissate, per quanto vi sia difficile.” Dopo aver parlato con fervore, la signora Billickin si calmò un po’, per non abusare del potere morale che aveva su di lui. “Di conseguenza,” proseguì in tono più mite ma ancora deciso, nella sua onestà incallita, “sarebbe peggio che nulla se io vi accompagnassi fino in cima alla casa e voi diceste: ‘Signora Billickin, noto una macchia sul soffitto, ’ e io rispondessi: ‘Non capisco cosa intendiate, signore.’ No, signore. Non sarò così subdola. Io _capisco_ già cosa intendete, prima ancora che lo esprimiate a parole. È l’umidità, signore. Entra dentro, e poi sembra non entrare. Potreste lasciare tutto asciugare lì per metà della vostra vita. Ma arriverà il momento in cui nemmeno una goccia d’acqua potrà esservi di alcun aiuto.”
-
-Il signor Grewgious sembrava molto imbarazzato dal fatto di essere stato rappresentato in questa situazione spiacevole.
-
-“Ha altri appartamenti, signora?”, chiese lui.
-
-“Signor Grewgious,” rispose la signora Billickin con grande solennità, “sì, l’ho fatto. Mi chiedete se l’abbia fatto. E la mia risposta onesta e sincera è sì: il primo e il secondo piano sono vuoti, e le stanze sono molto belle.”
-
-“Ma no, ma no! Non c’è nulla contro di loro,” disse il signor Grewgious, consolandosi da solo.
-
-“Signor Grewgious,” rispose la signora Billickin, “mi perdoni, ma ci sono le scale. A meno che non siate preparati ad affrontarle, ciò porterà inevitabilmente a delusioni. Non potete, signorina,” disse la signora Billickin, rivolgendosi a Rosa con rimprovero, “collocare il primo piano, figuriamoci il secondo, allo stesso livello di un salotto. No, non è possibile; va al di là delle vostre possibilità. Perché allora provare?”
-
-La signora Billickin lo espresse con grande emozione, come se Rosa avesse dimostrato una testarda determinazione a mantenere una posizione insostenibile.
-
-“Possiamo vedere queste stanze, signora?” chiese il suo tutore.
-
-“Signor Grewgious,” rispose la signora Billickin, “può farlo. Non glielo nasconderò, signore; può farlo.”
-
-La signora Billickin allora andò nel suo salotto posteriore a prendere il suo scialle (poiché si trattava di una convenzione letteraria che risaliva a tempi immemorabili, secondo cui lei non poteva mai andare da nessuna parte senza essere avvolta in qualcosa), e dopo essere stata accompagnata dalla sua cameriera, prese la strada. Salì le scale facendo varie pause per riprendere fiato, e in salotto si afferrò il cuore come se fosse quasi sfuggito via.
-
-“E il secondo piano?” chiese il signor Grewgious, dopo aver trovato il primo soddisfacente.
-
-“Signor Grewgious,” rispose la signora Billickin, voltandosi verso di lui con solennità, come se fosse giunto il momento in cui fosse necessario raggiungere un chiarimento su una questione difficile e stabilire una fiducia reciproca, “il secondo piano si trova proprio qui.”
-
-“Possiamo vederlo anche noi, signora?”
-
-“Sì, signore,” rispose la signora Billickin, “è completamente aperto, proprio come al sole.”
-
-Essendo anche questo risultato soddisfacente, il signor Grewgious si ritirò accanto alla [[motifs/window|finestra]] con Rosa per scambiare alcune parole di consultazione; successivamente, chiese penna e inchiostro e tracciò una o due righe che rappresentavano l’accordo raggiunto. Nel frattempo, la signora Billickin si sedette e fornì una sorta di indice o riassunto della questione generale in discussione.
-
-“Cinquantaquattro scellini a settimana, pagati regolarmente ogni mese, alla [[motifs/time|data]] stabilita dell’anno,” disse la signora Billickin, “è un accordo equo per entrambe le parti. Non si tratta certo di Bond Street né del Palazzo di San Giacomo, ma non si cerca nemmeno di far credere il contrario. E non si tenta affatto di negare che quel vicolo conduce a dei cortili privati: i cortili privati devono pur esistere. Per quanto riguarda la presenza delle persone, ne sono state assunte due, con salari generosi. Sono sorti alcuni commenti riguardo ai commercianti che vi lavorano lì, ma si può attribuire tutto questo semplicemente al fatto che indossano scarpe sporche mentre puliscono i pavimenti di pietra, e non c’è alcun desiderio da parte nostra di ricevere una commissione sulle vostre ordinazioni. Il carbone viene consegnato sia vicino alla [[motifs/fire|fiamma]] del camino, che attraverso la finestra.” Sottolineò con forza le preposizioni, evidenziando così una differenza sottile ma fondamentale. “Gli cani, invece, non sono molto apprezzati. Oltre a sporcare dappertutto, vengono anche rubati, e nascono facilmente sospetti reciproci, con conseguenti problemi.”
-
-A quell’[[motifs/time|ora]], il signor Grewgious aveva già preparato le clausole dell’accordo e l’importo della cauzione richiesta. “L’ho firmato per le signore, signora,” disse, “e ora lei potrebbe gentilmente firmarlo anche per sé, indicando nome e cognome.”
-
-“Signor Grewgious,” disse la signora Billickin con un nuovo slancio di sincerità, “no, signore! Deve scusarmi per questo nome cristiano, ”
-
-Il signor Grewgious la fissò.
-
-“La targa della porta serve da protezione,” disse la signora Billickin, “e funziona proprio come tale; non intendo assolutamente cambiarla.”
-
-Il signor Grewgious fissava Rosa.
-
-“No, signor Grewgious, deve scusarmi. Finché questa casa è conosciuta come quella di Billickin, e finché rimane un luogo sospetto dove Billickin potrebbe nascondersi, vicino alla porta d’ingresso o giù per quel corridoio, finché tutto questo esiste, mi sento al sicuro. Ma affidarmi alle dichiarazioni di una donna sola, no, signorina! Nemmeno voi vorreste, per un momento, approfittare del vostro sesso in questa situazione, se non foste state influenzate da esempi imprudenti,” disse la signora Billickin, con profondo senso di offesa.
-
-La rosa si arrossì, come se avesse tentato qualcosa di estremamente vergognoso per superare la buona signora; allora pregò il signor Grewgious di accontentarsi di qualsiasi firma. E così, in modo nobile e dignitoso, il nome BILLICKIN fu aggiunto al documento.
-
-I dettagli riguardanti la presa in possesso furono definiti il giorno seguente, ma, quando si poteva ragionevolmente aspettare l’arrivo di Miss Twinkleton, Rosa tornò all’Furnival’s Inn sostenuta dal braccio del suo tutore.
-
 
 
 <span class="atom-split" data-atom="chapter_24_hear_neville_moving_too_are_yo--part_03" data-title="The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 3)" data-chapter="hear Neville moving too Are yo" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/death,motif/garden,motif/river,motif/tears,motif/time,motif/well,concept/identity,concept/slavery,concept/wonder,character/edwin_drood"></span>
@@ -15655,37 +10911,6 @@ that Miss Twinkleton set herself to teach _her_ something, was easy.
 “But you don’t do it,” soliloquised the Billickin; “I am not your
 pupil, whatever she,” meaning Rosa, “may be, poor thing!”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Ecco il signor Tartar che cammina avanti e indietro presso la locanda di Furnival’s Inn; non appena li vede arrivare, si ferma per controllarsi e poi si avvicina a loro!
-
-“Mi è venuto in mente,” suggerì il signor Tartar, “che potremmo salire lungo l’[[motifs/river|>fiume]], dato che il tempo è così piacevole e la marea è favorevole. Ho una barca tutta mia alle Temple Stairs.”
-
-“Non sono salito sul [[motifs/river|>fiume]] da molti giorni,” disse il signor Grewgious, tentato.
-
-“Non sono mai stata sul [[motifs/river|fiume]],” aggiunse Rosa.
-
-In mezz’ora riuscirono a risolvere la questione navigando lungo il [[motifs/river|fiume]]. La marea li aiutava, e la giornata pomeridiana era incantevole. La barca di Mr. Tartar era perfetta: lui e Lobley (il suo assistente) remavano insieme. Sembrava che Mr. Tartar possedesse una yacht da qualche parte vicino a Greenhithe, e Lobley ne aveva la responsabilità in quel momento. Era un uomo dall’aspetto allegro, con i capelli e le basette di colore castano e un viso rosso; assomigliava perfettamente al sole nelle vecchie incisioni su legno: i suoi capelli e le sue basette sembravano raggi solari intorno a lui. Seduto a prua della barca, era davvero uno spettacolo piacevole, indossava una camicia da marinaio, o forse no, a seconda di come si guardava. Le sue braccia e il suo petto erano coperti di tatuaggi. Sia Lobley che Mr. Tartar sembravano prendersela con calma; tuttavia, i remi si piegavano sotto il loro impulso, e la barca avanzava velocemente. Mr. Tartar chiacchierava come se nulla stesse succedendo, mentre Rosa, in realtà, non faceva assolutamente nulla. E poi c’era Mr. Grewgious, che cercava disperatamente di guidare la barca, ma senza successo. Che importanza aveva? Bastava un movimento abile del polso di Mr. Tartar o un sorriso di Lobley a sistemare tutto! La marea li portava avanti in modo incantevole, fino a quando non si fermarono per pranzare in un [[motifs/garden|giardino]] sempreverde. Lì non avevano bisogno di alcuna identificazione. Poi la marea cambiò direzione, fedele soltanto a loro quel giorno. Mentre galleggiavano tranquillamente tra i cespugli di salice, Rosa provò a remare, e riuscì molto bene, con l’aiuto degli altri. Mr. Grewgious invece cercò di remare anche lui, ma finì per cadere all’indietro, con un remo sotto il mento, senza alcun aiuto. Poi ci fu un momento di riposo all’[[archetypes/shadow|ombra]] degli alberi. In quel lasso di [[motifs/time|tempo]] Lobley pulì la barca e sistemò cuscini e sdraio, poi danzò lungo tutto il bordo della barca, come se le scarpe fossero una superstizione per lui. E infine tornarono indietro, tra profumi di lime in fiore e suoni melodiosi prodotti dalle onde. Ma troppo presto, la grande [[motifs/city|città]] nera gettò la sua ombra sull’acqua, i suoi ponti scuri si estendevano sopra di essa, come se la [[motifs/death|morte]] dominasse la vita. E il [[motifs/garden|giardino]] sempreverde sembrava destinato a rimanere per sempre, irraggiungibile e lontano.
-
-[Illustrazione: Lungo il [[motifs/river|>fiume]])
-
-
-“Non possono forse le persone vivere la vita senza queste fasi difficili e dure? Me lo [[concepts/wonder|chiedo]]”, pensò Rosa il giorno dopo, quando la città era di nuovo immersa nella sua atmosfera cupa e ostile, e tutto aveva un aspetto strano e sgradevole, come se stesse aspettando qualcosa che non sarebbe mai arrivato. NO. Iniziò a convincersi che, ora che i giorni trascorsi alla scuola di Cloisterham erano ormai passati, quelle fasi difficili avrebbero iniziato a presentarsi di nuovo, con regolarità, rendendo la vita ancora più ardua.
-
-Ma cosa si aspettava Rosa? Si aspettava la signorina Twinkleton? E infatti la signorina Twinkleton arrivò puntualmente. Dalla sua stanza sul retro uscì il signor Billickin per accoglierla, e negli occhi del signor Billickin scese la guerra da quel momento stesso.
-
-Miss Twinkleton portò con sé una grande quantità di bagagli; aveva tutti i bagagli di Rosa, così come i propri. Il signor Billickin si arrabbiò molto perché, a causa di tutta quella roba, la mente di Miss Twinkleton era troppo distratta per riconoscere chiaramente la propria [[concepts/identity|identità]]. Di conseguenza, sul suo volto apparve un’espressione ancora più cupa. E quando Miss Twinkleton, in preda all’agitazione, iniziò a contare i suoi bauli e pacchi – ne aveva diciassette – e ne contò uno in particolare come il numero undici, il signor Billickin ritenne necessario negarlo.
-
-“È necessario che le cose vengano sistemate il prima possibile,” disse lei, con una schiettezza così evidente da sembrare quasi invadente, “affinché la persona che vive in questa casa non venga considerata una scatola, né un mucchio di roba, né ancora un borsone. No. Non sono affatto in debito con voi, signorina Twinkleton, anzi, non sono nemmeno una mendicante.”
-
-Quest’ultima dichiarazione di esclusione si riferiva al fatto che la signorina Twinkleton, distratta, aveva dato due scellini al tassista invece che a quello giusto.
-
-Essendo stata così rifiutata, la signorina Twinkleton chiese disperatamente: “Quale gentiluomo” doveva essere pagato? Poiché c'erano due gentiluomini in quella situazione (la signorina Twinkleton era arrivata con due taxi), ognuno di loro, dopo essere stato pagato, mostrò i suoi due scellini apertamente nella mano; con uno sguardo attonito e la bocca spalancata, rivelò così il proprio errore davanti al cielo e alla terra. Spaventata da questa scena allarmante, la signorina Twinkleton mise un altro scellino in ciascuna mano; nel frattempo, con toni agitati, chiamava in aiuto la legge e descriveva di nuovo il proprio bagaglio, ma questa volta con i due gentiluomini presenti, il che rendeva il conto ancora più complicato. Nel frattempo, i due gentiluomini, ognuno fissando con scontento l’ultimo scellino come se potesse trasformarsi in diciotto se continuavano a guardarlo, scesero i gradini, salirono sui loro carri e se ne andarono, lasciando la signorina Twinkleton su una cassetta da lettere, in [[motifs/tears|lacrime]].
-
-Il signor Billickin osservò questa manifestazione di debolezza senza provare alcuna simpatia, e diede l’ordine di “far entrare un giovane” per che si battesse con i bagagli. Quando quel “gladiatore” scomparve dall’arena, tornò la pace, e i nuovi inquilini cenarono.
-
-Ma il Billickin aveva in qualche modo scoperto che la signorina Twinkleton teneva una scuola. Fu facile passare da questa informazione alla conclusione che la signorina Twinkleton si dedicasse ad insegnare _a lui_ qualcosa, “Ma tu non lo fai,” mormorò il Billickin tra sé; “Io non sono tuo allievo, per quanto lei, ” intendendo Rosa, “possa essere, povera creatura!”
 
 
 
@@ -15813,59 +11038,6 @@ whether she can procure us a [[motifs/lamb|lamb]]’s fry; or, failing that, a r
 fowl.”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-D'altra parte, la signorina Twinkleton, dopo essersi cambiata d’abito e ripresa il proprio spirito, era animata dal desiderio di rendere l’occasione il più piacevole possibile e di essere un esempio di serenità. In un felice compromesso tra i due stati in cui si trovava, con il suo cestino da lavoro davanti a sé, era ormai diventata una compagna vivace e piacevole da conversare, arricchita appena appena da qualche informazione interessante, quando arrivò la signorina Billickin.
-
-“Non mi nasconderò da voi, signore,” disse la B., avvolta nel mantello ufficiale, “poiché non è nel mio carattere nascondere né i miei motivi né le mie azioni. Mi permetto quindi di venire da voi per esprimervi il desiderio che la vostra cena sia stata di vostro gradimento. Anche se semplice e senza fronzoli, comunque il suo compenso dovrebbe essere sufficiente a spingerla a cercare qualcosa di meglio di semplici piatti arrostiti o bolliti.”
-
-“Abbiamo davvero mangiato molto bene,” disse Rosa, “grazie.”
-
-“Abituata,” disse Miss Twinkleton con un tono gentile, che alle orecchie gelose dei Billickin sembrava aggiungere “mia cara signora”, “Abituata a una dieta abbondante e nutriente, ma semplice e salutare, non abbiamo trovato motivo di lamentarci della nostra assenza dall’antica [[motifs/city|città]] e dalla vita regolare e ordinata che vi conducevamo fino ad ora.”
-
-“Ho davvero ritenuto fosse una buona idea parlarne con la mia cuoca,” osservò il Billickin con sincera onestà, “e spero che lei sia d’accordo, signorina Twinkleton. È stata una precauzione necessaria: dato che la giovane signora era abituata a ciò che qui considereremmo una dieta povera, è stato meglio avviare gradualmente un cambiamento nel suo regime alimentare. Infatti, passare da una nutrizione scarsa a una abbondante, e da uno stile di vita disordinato a uno più regolare, richiede una costituzione particolarmente robusta, qualcosa che spesso non si trova nei giovani, soprattutto quando la loro salute è già compromessa dagli anni trascorsi in collegio!”
-
-Si vedrà che ora Billickin si schiera apertamente contro Miss Twinkleton, riconoscendola chiaramente come la sua nemica naturale.
-
-“Il vostro commento,” rispose Miss Twinkleton, da una posizione morale distaccata e superiore,  
-“è certamente ben intenzionato, non ne ho alcun [[concepts/doubt|>dubbio]]; ma permettetemi di osservare che esso sviluppa un'errata concezione sull’argomento, il che può essere attribuito soltanto alla vostra estrema mancanza di informazioni accurate.”
-
-“Le mie informazioni,” ribatté il Billickin, aggiungendo un’ulteriore sillaba per sottolineare l’enfasi in modo al contempo educato e deciso, “le mie informazioni, signorina Twinkleton, derivano dalla mia esperienza personale, che di solito si ritiene possa costituire una valida guida. Ma sia come sia, da giovane sono stato mandato in un istituto molto rispettabile; la direttrice era una signora tanto nobile quanto voi, più o meno della vostra età, o forse qualche anno più giovane. E da quella famiglia proveniva il sangue che ha attraversato tutta la mia vita.”
-
-“Molto probabilmente,” disse la signorina Twinkleton, sempre dalla sua posizione elevata e distante;  
-“e è davvero molto da deplorare. Rosa, cara, come procedi con il tuo lavoro?”
-
-“Signorina Twinkleton,” riprese il Billickin con modi cortesi, “prima di ritirarmi, come è appropriato per una signora, vorrei chiedervi, in qualità di signora, se devo considerare che le mie parole siano state messe in dubbio.”
-
-“Non so su quale base facciate una tale supposizione,” iniziò Miss Twinkleton, quando il signor Billickin la interruppe gentilmente.
-
-“Per favore, non inserite supposizioni nelle mie parole se io stesso non le ho espresse. Il vostro eloquio è notevole, signorina Twinkleton, e i vostri alunni non si aspettano certo che voi esprimiate dubbi. E nessun dubbio, in realtà, merita davvero il denaro che vi viene pagato. _Nessun_ dubbio, ne sono sicuro. Ma poiché non pago per ascoltare discorsi prolissi, né desidero riceverli qui, vorrei ripetere la mia domanda.”
-
-“Se vi riferite alla ‘povertà’ della vostra circolazione, ” iniziò la signorina Twinkleton, ma di nuovo il signor Billickin la interruppe con garbo.
-
-“Non ho mai usato espressioni del genere.”
-
-“Se allora ti riferisci alla povertà del tuo [[motifs/blood|sangue]], ”
-
-“Mi è accaduto durante il periodo trascorso in una scuola preparatoria“, precisò esplicitamente il Billickin.
-
-“Allora,” proseguì la signorina Twinkleton, “tutto ciò che posso dire è che sono costretta a credere, sulla base delle tue affermazioni, che si tratti davvero di una situazione molto difficile. Non posso fare a meno di aggiungere che, se questa sfortunata circostanza influisce sul tuo modo di parlare, è davvero deplorevole; inoltre, sarebbe assolutamente auspicabile che il tuo [[motifs/blood|sangue]] fosse più “ricco”. Rosa, mia cara, come procede il tuo lavoro?”
-
-“Ehm! Prima di ritirarmi, signorina,” dichiarò Billickin con aria solenne, ignorando completamente Miss Twinkleton, “vorrei che fosse chiaro tra noi che in futuro le mie transazioni avverranno esclusivamente con voi. Non conosco alcuna signora anziana qui, signorina, nessuna più vecchia di voi.”
-
-“Un accordo davvero desiderabile, cara Rosa,” osservò la signorina Twinkleton.
-
-“Non è proprio così, signorina,” disse Billickin con un sorriso sarcastico, “non è che io possieda quella fabbrica di cui ho sentito parlare, nella quale le vecchie signore single potrebbero, macinare i giovani (che dono sarebbe per alcuni di noi!), ma semplicemente mi limito a voi completamente.”
-
-“Quando avrò qualche [[motifs/desire|desiderio]] di comunicare una richiesta alla persona che vive in quella casa, cara Rosa,” osservò la signorina Twinkleton con un’aria maestosa e allegra, “te lo farò sapere, e sono sicura che tu ti occuperai gentilmente di farla arrivare dove deve.”
-
-“Buonasera, signorina,” disse Billickin, con un tono al tempo stesso affettuoso e distaccato. “Essendo solo ai miei occhi, le auguro buonasera con i migliori desideri. E devo dire che non mi sento costretto a esprimere il mio disprezzo per una persona che, purtroppo per lei, appartiene a lei.”
-
-Il signor Billickin si congedò con eleganza pronunciando queste parole d’addio; da quel [[motifs/time|momento]] in poi, Rosa assunse il ruolo di “pallina da tennis” tra questi due avversari. Non si poteva fare nulla senza che venisse disputata una battaglia intelligente e astuta. Così, ogni volta che sorgeva la questione del pasto serale, la signorina Twinkleton, quando i tre erano presenti insieme, diceva.
-
-“Forse, mio [[motifs/love|amore]], potresti parlare con la persona che vive in quella casa,
-per vedere se può procurarci delle costolette di agnello; o, in caso contrario, un pollo arrosto.”
-
 
 
 <span class="atom-split" data-atom="chapter_24_hear_neville_moving_too_are_yo--part_05" data-title="The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 5)" data-chapter="hear Neville moving too Are yo" data-kind="excerpt" data-tags="motif/dawn,motif/lamb,motif/love,motif/well,setting/london,character/edwin_drood"></span>
@@ -15940,23 +11112,6 @@ less improving because they expressed nothing whatever to her); while
 Rosa, listening intently, made the most of what was nearest to her
 heart. So they both did better than before.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-A cui il Billickin ribatteva (poiché Rosa non aveva detto una parola):  
-“Se foste più abituata alla carne di maiale, signorina, non vi verrebbe mai in mente l’idea di preparare delle costolette di [[motifs/lamb|agnello]]. Primo perché gli agnellini sono semplicemente pecore. E secondo, perché ci sono giorni dedicati al macellamento, e altri no. Per quanto riguarda le galline arrosto, signorina, dovete esserne sicuramente sazia; lasciate che siano gli altri a comprare per voi quelle galline più vecchie e con le zampe più ruvide, come se foste abituata a scegliere solo quelle più economiche. Provate ad essere un po’ più creativa, signorina. Imparate a occuparvi della casa. Pensateci bene: provate a inventare qualcos’altro.”
-
-Di fronte a questo incoraggiamento, offerto con la tolleranza indulgente di un esperto saggio e liberale, Miss Twinkleton rispondeva arrossendo:
-
-“O, mio caro, potresti proporre alla persona che vive in quella >casa un’anatra, ”
-
-“Beh, signorina!” esclamava sempre il Billickin (mentre Rosa non pronunciava ancora una parola), “mi sorprende davvero quando parlate di anatre! Per non parlare del fatto che ormai non è la stagione giusta e che sono molto costose. Mi dispiace davvero vedere che mangiate solo anatra; il petto, che è l’unica parte delicata dell’anatra, finisce sempre in un posto che non riesco nemmeno a immaginare. E poi il vostro piatto arriva sempre pieno solo di pelle e ossa! Provate ancora, signorina. Pensate di più a voi stessa, e meno agli altri. Ora potreste mangiare dei fegatini dolci, o un po’ di carne d’agnello. Qualcosa che abbiate maggiori possibilità di gustare [[motifs/well|bene]].”
-
-A volte la partita diventava davvero molto intensa e veniva giocata con tale abilità da rendere incontri del genere quasi banali. Ma Billickin otteneva quasi sempre il punteggio più alto; riusciva anche a colpire in modi del tutto inaspettati e straordinari, quando sembrava non avere alcuna possibilità.
-
-Tutto ciò non migliorò affatto la difficile situazione di [[settings/london|Londra]], né l’immagine negativa che [[settings/london|Londra]] aveva agli occhi di Rosa, che rappresentava una città in attesa di qualcosa che mai sarebbe arrivato. Stufa di lavorare e di conversare con la signorina Twinkleton, Rosa suggerì di dedicarsi sia al lavoro che alla lettura; la signorina Twinkleton acconsentì volentieri, essendo una lettrice apprezzata e dotata di notevoli capacità. Tuttavia, Rosa presto scoprì che la signorina Twinkleton non leggeva con sincerità: ometteva le scene d’[[motifs/love|amore]], inseriva passaggi in lode del celibato femminile e commetteva altre evidenti frodi religiose. Per esempio, il seguente passaggio, descritto con grande entusiasmo, veniva manipolato dalla signorina Twinkleton in questo modo: “Sempre più cara e amata, ”, diceva Edward, stringendo la testa della sua amata al petto e accarezzandone i capelli setosi. La versione fraudolenta fornita dalla signorina Twinkleton, invece, suonava così: “Essendo entrambi legati da un impegno conosciuto dai nostri genitori e approvato dal reverendo preside della zona, ”, diceva Edward, sollevando rispettosamente le dita sottili e abili nelle arti femminili.
-
-Man mano che i giorni passavano e nulla accadeva, i vicini iniziarono a dire che la bella ragazza di Billickin’s, che sembrava così malinconica e spesso si affacciava dai vetri sporchi del salotto, pareva perdere le forze. Forse avrebbe perso davvero il morale se non fosse stato per l’incidente fortuito di scoprire alcuni libri sui viaggi e sulle avventure marine. Come compensazione per quella sorta di “romanzo” che non avevano modo di vivere, la signorina Twinkleton, leggendo ad alta voce, approfittava al massimo di tutte quelle informazioni su latitudini, longitudini, direzioni dei venti, correnti marine e altre statistiche (che lei riteneva comunque molto istruttive, anche se in realtà non le dicevano assolutamente nulla); mentre Rosa, ascoltando attentamente, si immergeva nel contenuto di ciò che riguardava più da vicino il suo cuore. Così entrambe se la cavavano meglio di prima.
 
 
 
@@ -16078,43 +11233,6 @@ secret of mixing, though he charges as much as me that has, and more if
 he can get it. Here’s a match, and now where’s the candle? If my cough
 takes me, I shall cough out twenty matches afore I gets a light.”
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO XXIII.  
-Di nuovo l’[[motifs/dawn|_alba]].
-
-Sebbene il signor Crisparkle e [[characters/john-jasper|John Jasper]] si incontrassero ogni giorno sotto il tetto della [[settings/cathedral|Cattedrale]], in nessun momento ebbero mai conversazioni riguardanti Edwin Drood, dopo quel periodo di oltre sei mesi in cui Jasper mostrò al canonico minore le conclusioni e le decisioni che aveva annotato nel suo diario. È improbabile che si incontrassero spesso senza che entrambi pensassero a quell’argomento; è altrettanto improbabile che non provassero sempre la sensazione che l’uno rappresentasse per l’altro un mistero enigmatico e incomprensibile. Jasper, in quanto denunciante e inseguitore di [[characters/neville-landless|Neville Landless]], e il signor Crisparkle, come suo costante sostenitore e protettore, dovevano necessariamente trovarsi in posizioni opposte, quindi avrebbero dovuto prestare grande attenzione alle intenzioni e ai progetti dell’altro. Tuttavia, nessuno dei due mai affrontò quell’argomento.
-
-Le false pretese non facevano parte della [[concepts/nature|>natura]] del Canone Minore; senza dubbio, egli mostrava apertamente che avrebbe ripreso in qualsiasi momento l’argomento e addirittura desiderava discuterne. Tuttavia, la risolutezza di Jasper non poteva essere superata con simili approcci. Impassibile, malinconico, solitario, deciso, completamente concentrato su un’unica idea e sullo scopo fisso ad essa legato, egli rifiutava di condividerla con qualsiasi altra creatura; viveva quindi separato dalla vita umana. Esercitando costantemente un’arte che lo metteva in armonia meccanica con gli altri – un’arte che non avrebbe potuto essere praticata se lui e loro non fossero stati in rapporti perfetti di sincronizzazione – è curioso considerare come lo spirito di quell’uomo non rispecchiasse affatto nulla di ciò che lo circondava. Infatti, queste cose le aveva confidate al proprio nipote perduto, prima che sorgesse l’occasione che lo portò alla sua attuale intransigenza.
-
-Era indubbiabile che dovesse essere a conoscenza della partenza improvvisa di Rosa e che dovesse intuire la sua causa. Forse pensava di averla spaventata al punto da farla tacere, oppure riteneva che lei avesse rivelato a qualcuno – ad esempio, allo stesso signor Crisparkle – i dettagli dell’ultima loro conversazione? Il signor Crisparkle non riusciva a stabilirlo con certezza. Tuttavia, doveva ammettere, come uomo giusto, che innamorarsi di Rosa di per sé non costituiva un crimine, proprio come non lo era proporre di mettere l’amore al di sopra della vendetta.
-
-Il terribile sospetto riguardo a Jasper, che Rosa aveva ricevuto con tale shock nella sua [[concepts/imagination|immaginazione]], sembrava non trovare alcun fondamento nelle idee del signor Crisparkle. Anche se quel sospetto potesse aver turbato i pensieri di [[characters/helena|Helena]] o di Neville, nessuno dei due ne fece mai parola. Il signor Grewgious non si curava affatto di nascondere il suo profondo disprezzo per Jasper, ma non lo collegò mai, nemmeno in modo indiretto, a quella fonte. Tuttavia, era un uomo riservato ed eccentrico; non menzionò mai una certa sera in cui si scaldò le mani davanti al fuoco della guardiola e fissò attentamente un mucchio di vestiti strappati e bagnati sul pavimento.
-
-Il sonnolento Cloisterham, ogni volta che si risvegliava e ripensava a quella storia vecchia di oltre sei mesi e ormai archiviata dai magistrati, era del tutto diviso nelle sue opinioni: se il caro nipote di [[characters/john-jasper|John Jasper]] fosse stato ucciso dal suo rivale traditore e appassionato, o in uno scontro diretto; oppure se fosse fuggito per motivi personali. Poi sollevava la testa, per notare che il dolente Jasper era ancora determinato a scoprire la verità e a vendicarsi, e poi si riaddormentava. Questa era dunque la situazione generale al momento in cui questa [[concepts/history|storia]] arriva ora a concludersi.
-
-Le porte della [[settings/cathedral|Cattedrale]] sono chiuse per la [[motifs/night|notte]]; il maestro del coro, con un breve permesso di assenza per due o tre servizi, si dirige verso [[settings/london|Londra]]. Viaggia con gli stessi mezzi utilizzati da Rosa e arriva, proprio come lei, in una calda e polverosa serata.
-
-Il suo bagaglio da viaggio può essere facilmente trasportato a mano; con esso si sposta a piedi fino a un hotel ibrido situato in una piccola piazza dietro Aldersgate Street, vicino all’Ufficio Postale Generale. Si tratta di un hotel, di una pensione o semplicemente di una sistemazione provvisoria, a scelta del cliente. Nei nuovi annunci pubblicitari ferroviari, viene presentato come un’impresa [[forms/novel|nuova]] e timida, che sta appena iniziando a prendere piede. In modo quasi imbarazzato e scusandosi, si suggerisce al viaggiatore che non ci si aspetta che ordini una pinta di lucido da scarpe per berla e poi buttarla via, ma si insinua che possa invece farsi lucidare le scarpe, e magari anche avere vitto, colazione, servizio personale e un portiere disponibile per tutta la [[motifs/night|notte]], a un certo prezzo fisso. Da queste e altre indicazioni, molti veri britannici, nel loro stato d’animo più cupo, deducono che i tempi siano tempi di uguaglianza, tranne per quanto riguarda le strade, delle quali presto in Inghilterra non ne rimarrà nemmeno una.
-
-Mangia senza appetito e poi se ne va subito. Verso est, sempre verso est, percorre quelle strade desolate fino a raggiungere la sua destinazione: un misero [[settings/court|palazzo]], tra i più miserabili di tutti.
-
-Salisce una scala rotta, apre una porta, guarda dentro una stanza buia e soffocante, e dice: “Sei sicuro di essere qui da solo?”
-
-“Da solo, caro. Sfortuna per me, fortuna per te,” risponde una voce rauca. “Entra pure, chiunque tu sia: non riesco a vederti finché non accendo un fiammifero, ma sembra che riconosca la tua voce. Ti conosco, vero?”
-
-“Accendi la tua candela e provaci.”
-
-“Sì, caro mio, lo farò; ma la mia mano trema così tanto che non riesco nemmeno ad accendere una candela subito. E tossisco così forte che, per quanto metta le candele dove posso, non riesco mai a trovarle lì. Sembrano muoversi da sole, come se fossero esseri viventi. Sei partito per un viaggio, caro mio?”
-
-“No.”
-
-"Nessuna esperienza in mare?"
-
-“No.”
-
-“Beh, ci sono clienti che acquistano terra e clienti che acquistano [[motifs/water|acqua]]. Io sono la madre di entrambi. A differenza di Jack Chinaman, dall’altra parte della [[settings/court|>corte]]: lui non è il padre di nessuno. Non ne ha la capacità, e non conosce nemmeno il vero segreto per mescolare bene le sostanze. Anche se chiede lo stesso prezzo di me, che invece lo conosco. E anche di più, se riesce a ottenerlo. Ecco una candela. Ma dove è la fiammella? Se il mio attacco di tosse dovesse peggiorare, finirò per consumare venti candele prima di riuscire ad accenderne una, ”
 
 
 
@@ -16283,118 +11401,6 @@ warrant you made the [[motifs/journey|journey]] in a many ways, when you made it
 often?”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Ma trova la candela e la accende, prima che iniziata la tosse. Questa la colpisce nel momento del successo; si siede quindi dondolando avanti e indietro, ansimando di tanto in tanto: “Oh, i miei polmoni sono terribilmente malati. I miei polmoni sono ridotti a brandelli!” Fino a quando l’attacco non finisce. Durante tutto questo tempo non è stata in grado di vedere nulla, né di utilizzare alcuna altra funzione del corpo che non fosse impegnata nella lotta contro la tosse; ma non appena questa si placa, inizia a strizzare gli occhi. E non appena riesce a parlare, grida, fissando davanti a sé con lo sguardo vuoto.
-
-“Ma sei tu!”
-
-“Sei davvero sorpreso di vedermi?”
-
-“Pensavo che non avrei mai dovuto rivederti di nuovo, caro. Pensavo che fossi morto e andato in Paradiso.”
-
-“Perché?”
-
-“Non avrei mai pensato che tu potessi essere riuscito a tenerti lontano, vivo, per tutto questo tempo, da quella povera vecchia [[motifs/soul|'anima]] che possedeva la vera ricetta per prepararlo. E inoltre stai anche piangendo! Perché non sei venuto a fumare una o due pipe per consolarti? Forse ti hanno lasciato del denaro, e quindi non volevi conforto?”
-
-“No.”
-
-“Chi erano quando morirono, caro?”
-
-“Un parente.”
-
-“Morto per cosa, tesoro?”
-
-“Probabilmente, la [[motifs/death|Morte]].”
-
-“Siamo a corto di, ” grida la donna, con una risata supplichevole.  
-“A corto e irritabili. Ma siamo fuori fase per mancanza di una sigaretta.  
-Abbiamo tutti questi problemi, vero? Ma questo è il posto giusto per risolverli. Questo è il luogo dove possiamo fumare fino a far sparire tutti i mali.”
-
-“Allora potete prepararvi quando volete,” risponde il visitatore.
-
-Si toglie le scarpe, allenta la cravatta e si sdraia ai piedi di quel letto squallido, con la testa appoggiata sulla mano sinistra.
-
-“Ora inizi davvero a sembrare te stessa,” dice la donna con approvazione. “Ora riconosco davvero la mia vecchia cliente. Cerchi di preparare queste cose da sola da così tanto tempo, vero?”
-
-“Lo prendo di tanto in tanto, a mio modo.”
-
-“Mai prendere le cose come vuoi tu. Non è buono per gli affari, e non è nemmeno buono per te. Dov’è la mia bottiglia d’inchiostro, dov’è il mio polpastrello protettivo, e dove è quella piccola cucchiaiata? Ora lo prenderà in una forma, artistica, cara mia!”
-
-Iniziando il suo rituale, cominciò a soffiare e a creare piccole bolle sulla debole scintilla racchiusa nel palmo delle sue mani; parlava da [[motifs/time|tempo]] a [[motifs/time|tempo]], con un tono di soddisfazione, senza mai smettere. Quando lui parlava, non la guardava nemmeno, come se i suoi pensieri fossero già lontani, anticipati dal desiderio.
-
-“Ho preparato un bel po’ di sigarette per te, non è vero, amico mio?”
-
-"Molti."
-
-“Quando sei arrivato per la prima volta, eri davvero alle prime armi, vero?”
-
-“Sì, allora sono stato facilmente eliminato.”
-
-“Ma tu sei riuscito a farti strada nel mondo e, col tempo, hai potuto usare la tua pipa insieme ai migliori di loro, vero?”
-
-“Ah, e il peggio di tutto.”
-
-“È proprio pronto per te. Che bella cantante eri quando sei arrivata per la prima volta. Mettevi sempre la testa giù e cantavi come un uccellino! Ora è davvero pronto per te, tesoro.”
-
-La prende con grande cura e posiziona la bocca della pipa sulle sue labbra. Lei si siede accanto a lui, pronta a riempirla di nuovo.
-
-Dopo aver inspirato alcune boccate di silenzio, le si avvicinò con esitazione e disse:
-
-“È ancora efficace come una volta?”
-
-“Di cosa stai parlando, caro?”
-
-Di cosa dovrei parlare, se non di ciò che ho in bocca?
-
-“È sempre la stessa cosa. Sempre esattamente uguale.”
-
-“Non ha quel sapore. E procede più lentamente.”
-
-“Ormai ci sei abituato, vedi.”
-
-“Quella potrebbe essere la causa, sicuramente. Guarda qui.” Si ferma, diventa sognante e sembra dimenticare di aver attirato la sua attenzione. Lei si china su di lui e gli parla all’orecchio.
-
-“Sto prendendomi cura di te. Hai detto proprio ora: ‘Guarda qui’. Ora dici che sto prendendomi cura di te. Poco fa stavamo parlando proprio di questo, del fatto che tu debba abituartici.”
-
-“Lo so tutto. Stavo solo pensando. Guarda qui: supponiamo che tu avessi qualcosa in mente, qualcosa che avevi intenzione di fare.”
-
-“Sì, caro, qualcosa che avevo intenzione di fare, giusto?”
-
-“Ma non avevo ancora deciso di farlo.”
-
-“Sì, caro.”
-
-“Potrei farlo o potrei anche non farlo, capisci?”
-
-“Sì.” Con la punta di un ago mescola il contenuto della ciotola.
-
-“Dovresti davvero farlo mentre sei sdraiato qui a fare queste cose?”
-
-“Continuamente,” dice lei annuendo.
-
-“Esattamente come me! L’ho fatto ancora e ancora. L’ho fatto centinaia di migliaia di volte in questa stanza.”
-
-“Si spera che sia stato piacevole farlo, caro.”
-
-“È stato davvero piacevole farlo!”
-
-Lo dice con un tono selvaggio e, all'improvviso, si avvicina a lei con un movimento rapido. Lei, completamente indifferente, continua a sistemare e rifornire il contenuto della ciotola con la sua piccola spatola. Vedendola concentrata nel suo compito, lui riprende la sua solita posizione distaccata.
-
-“È stata una [[motifs/journey|viaggio]], un viaggio difficile e pericoloso. Questo era l’argomento che avevo in mente: un viaggio rischioso e pericoloso, attraverso abissi dove anche il minimo errore avrebbe significato distruzione. Guardate giù. Vedete cosa c’è in fondo?”
-
-Si è precipitato avanti per dirlo, indicando il terreno come se ci fosse qualche oggetto immaginario lì sotto. La donna lo guarda mentre il suo viso spasmodico si avvicina al suo; non guarda verso dove lui sta indicando. Sembra sapere quale effetto avrebbe la sua perfetta tranquillità. E, se è così, non ha sbagliato i calcoli, perché lui si calma di nuovo.
-
-“Beh. Vi ho detto che l’ho fatto centinaia di migliaia di volte. Cosa posso dire? L’ho fatto milioni e miliardi di volte. L’ho fatto così spesso, e nel corso di tali lunghi periodi di [[motifs/time|tempo]], che quando finalmente è successo davvero, sembrava persino non valerne la pena. È stato fatto così in fretta.”
-
-“Quella è la [[motifs/journey|viaggio]] che hai intrapreso”, osserva lei in silenzio.
-
-La fissa mentre fuma; poi, con lo sguardo velato, risponde: “Quella è la [[motifs/journey|viaggio]].”
-
-[[motifs/silence|Silenzio]] cala intorno a lui. A volte chiude gli occhi, altre volte li apre. La donna seduta accanto a lui è molto attenta alla pipa, che rimane costantemente alle sue labbra.
-
-“Ne sono certa,” osserva lei quando lui la fissa intensamente da alcuni momenti consecutivi, con uno sguardo che sembra vederla lontana, invece di così vicina a lui: “Sono certa che tu abbia intrapreso quel [[motifs/journey|viaggio]] in molti modi diversi, visto che lo hai fatto così spesso, ”
-
 
 
 <span class="atom-split" data-atom="chapter_25--part_03" data-title="The Mystery of Edwin Drood — Chapter 23 (part 3)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/journey,motif/leaves,motif/road,motif/silence,motif/sleep,motif/time,concept/beauty,concept/body,setting/court,character/edwin_drood"></span>
@@ -16541,85 +11547,6 @@ look back before disappearing, with a wavering step. She follows him,
 peeps from the [[settings/court|court]], sees him still faltering on without looking back,
 and holds him in view.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-"No, sempre in un modo."
-
-Sempre nello stesso modo?
-
-“Ay.”
-
-“Nel modo in cui è stato davvero realizzato alla fine?”
-
-“Ay.”
-
-“E provavi sempre lo stesso piacere nel ripetere continuamente quella stessa cosa?”
-
-“Ay.”
-
-Per la prima volta, sembra incapace di fornire una risposta diversa da questo pigro e monosillabico assenso. Probabilmente, per assicurarsi che non si tratti dell’assenso di un semplice automato, cambia la struttura della sua frase successiva.
-
-“Non ti sei mai stancata di questo, carina… Non hai mai provato a cercare qualcos’altro, per cambiare un po’?”
-
-Si sforza di assumere una posizione seduta e le risponde: “Cosa intendi? Cosa volevo? Perché sono venuto?”
-
-Lo adagia dolcemente a terra e, prima di restituirgli lo strumento che aveva fatto cadere, ravviva la [[motifs/fire|fiamma]] al suo interno con il proprio respiro; poi gli dice, in tono affettuoso:
-
-“Certo, certo, certo! Sì, sì, sì! Ora vengo con te. Eri troppo veloce per me. Ora capisco: hai un motivo preciso per intraprendere questo [[motifs/journey|viaggio]]. Beh, avrei dovuto indovinarlo, visto che ti teneva così vicino, ”
-
-Risponde prima ridendo, poi digrignando i denti con passione: “Sì, sono venuto apposta. Quando non riuscivo più a sopportare la mia vita, sono venuto a cercare sollievo. E l’ho trovato. È stato davvero un momento speciale! Davvero!” Questa ripetizione, pronunciata con una veemenza straordinaria, assomiglia al ringhio di un lupo.
-
-Lo osserva con molta cautela, come se stesse valutando attentamente cosa dire dopo. E infatti dice: “C’era un altro viaggiatore con noi, caro.”
-
-“Ahahah!” Scoppia in una risata sonora, o meglio, in un urlo.
-
-“Pensarci, ”, esclama, “quante volte è stato un compagno di viaggio eppure non se ne è reso conto! Quante volte ha percorso lo stesso [[motifs/journey|viaggio]] senza mai vedere la vera [[motifs/road|strada]], ”
-
-La donna si inginocchia sul pavimento, con le braccia incrociate sulla coperta del letto, vicino a lui, e il mento appoggiato su di esse. In questa posizione accovacciata lo osserva. Il cannello gli è caduto dalla bocca; lei lo rimette a posto e, posando una mano sul suo petto, lo sposta leggermente da un lato all’altro. Allora lui parla, come se fosse stata lei a parlare.
-
-“Sì! Sempre facevo prima quel [[motifs/journey|Viaggio]], prima che iniziassero i cambiamenti di colore, i grandi paesaggi e le splendide processioni. Non potevano cominciare finché non lo avessi dimenticato. Fino ad allora, non avevo spazio per nulla altro.”
-
-Ancora una volta cade nel [[motifs/silence|silenzio]]. Ancora una volta lei posa la sua mano sul suo petto e lo muove leggermente avanti e indietro, come un gatto che stimola un topo mezzo morto. Ancora una volta lui parla, come se fosse stata lei a parlare.
-
-Illustrazione: Dormire fino a guarire
-
-
-“Cosa? Te l’avevo detto. Quando finalmente diventa reale, è così breve che la prima volta sembra persino irreale. Ascolta!”
-
-“Sì, caro… Sto ascoltando.”
-
-“Il [[motifs/time|tempo]] e il luogo sono entrambi a disposizione.”
-
-È in piedi, parla sottovoce, come se fosse al buio.
-
-“[[motifs/time|Tempo]], luogo e compagni di viaggio”, suggerisce lei, imitando il suo tono, e tenendolo dolcemente per il braccio.
-
-“Come potrebbe essere già arrivato il [[motifs/time|tempo]] se colui che viaggia con me non è ancora qui? Zitta! Il [[motifs/journey|Viaggio]] è finito. È concluso.”
-
-“Così presto?”
-
-“Ecco quello che ti avevo detto. Così in fretta. Aspetta un attimo. Questa è solo una visione. Devo [[motifs/sleep|)dormirci sopra]]. È stata troppo breve e troppo facile. Deve esserci una visione migliore di questa; questa è davvero la più banale di tutte. Nessuna lotta, nessuna consapevolezza del pericolo, nessun appello. Eppure non l’avevo mai vista prima.” Con un sussulto.
-
-“Hai visto cosa, tesoro?”
-
-“Guardate! Guardate che cosa povera, cattiva, misera sia. Quello deve essere reale. È finita.”
-
-Ha accompagnato questa incoerenza con alcuni gesti selvaggi e privi di senso; ma questi gesti si trasformano gradualmente in un’inerzia totale, simile allo stordimento, e lui giace immobile sul letto come un tronco.
-
-Tuttavia, la donna è ancora curiosa. Ripetendo il suo movimento aggraziato come quello di un gatto, solleva leggermente il suo [[concepts/body|-corpo]] e ascolta; lo solleva di nuovo e ascolta; gli sussurra qualcosa e ascolta ancora. Ritenendolo ormai del tutto inerte per quella [[motifs/time|ora]], si alza lentamente, con un’aria di delusione, e si scosta da lui dando una pacca sul viso con il dorso della mano.
-
-Ma non si allontana mai di più da essa di quanto faccia quella sedia accanto al camino. Si siede lì, appoggiando un gomito allo schienale e il mento sulla mano, fissandolo attentamente. “Ho sentito te dire una volta, ”, mormora a bassa voce, “quando ero sdraiata nel posto in cui sei tu ora, mentre facevi le tue congetture su di me, ‘Incomprensibile!’ Ho sentito che l’hai detto anche di altre due persone, oltre a me. Ma non essere sempre troppo sicura. Non esserlo, [[concepts/beauty|bellezza]], ”
-
-Senza battere ciglio, con movimenti agili e decisi, aggiunse: “Non più potente come una volta? Ah. Forse all’inizio no. Potresti avere ragione tu. La pratica rende perfetti. Forse ho imparato il segreto per farvi parlare, caro.”
-
-Non parla più, che sia sì o no. Tremola in modo orribile da [[motifs/time|un momento]] all’altro, sia il viso che le membra; giace immobile e silenzioso. La misera candela si spegne; la donna prende il suo mozzicone tra le dita, ne accende un’altra al suo posto, infila nel candelabro quel pezzo di stoppino ormai consumato, e lo spinge a fondo con la nuova candela, come se stesse caricando un’arma magica disgustosa e indecente. Anche la nuova candela si spegne; e lui continua a giacere privo di sensi. Alla fine, anche l’ultima candela si estingue, e la luce del giorno entra nella stanza.
-
-Non è trascorso molto tempo quando si alza in piedi, freddo e tremante; lentamente recupera la coscienza di dove si trova e si prepara ad andarsene. La donna accetta i soldi che le dà con un ringraziamento: “Benedetto tu, caro!” e, sembrando stanca, inizia a prepararsi per dormire mentre lui lascia la stanza.
-
-Ma ciò che sembra potrebbe essere falso o vero. In questo caso è falso; perché non appena le scale smettono di scricchiolare sotto i suoi passi, lei lo segue silenziosamente, mormorando con decisione: “Non ti perderò più!”
-
-Non esiste alcuna uscita dal [[settings/court|courtyard]] se non dall’ingresso stesso. Con uno sguardo furtivo attraverso la porta, lei osserva se lui si girerà indietro. Lui però non lo fa prima di scomparire, con passi incerti. Lei lo segue, spia dal [[settings/court|courtyard]] e lo vede ancora barcollare senza voltarsi indietro; così riesce a tenerlo sempre sotto vista.
 
 
 
@@ -16777,97 +11704,6 @@ same sum in the same way now; and if you’ll give it me, I’ll lay it out
 honest to the last brass farden again, upon my [[motifs/soul|soul]]!”
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Si reca nella parte posteriore di Aldersgate Street; non appena bussa, una porta si apre immediatamente. Lei si accovaccia in un’altra porta, osservando quella scena e capendo facilmente che lui si ferma temporaneamente in quella casa. La sua pazienza non si esaurisce nemmeno dopo ore di attesa; per nutrirsi, può – e infatti lo fa – comprare del pane a meno di cento metri di distanza, e il latte quando viene portato davanti a lei.
-
-Riemerge di nuovo alle [[motifs/noon|mezzogiorni]], dopo essersi cambiato d’abito; non porta nulla in mano e nessuno lo accompagna. Quindi, per il momento, non intende tornare in campagna. Lei lo segue per un po’, esita, poi si gira con decisione e entra direttamente nella casa che lui ha appena lasciato.
-
-“Il signore di Cloisterham è dentro casa?”
-
-“Appena uscito.”
-
-“Sfortunato. Quando tornerà il signore a Cloisterham?”
-
-“Alle sei di questa sera.”
-
-“Beneditevi e ringraziate il Signore. Possa il Signore rendere prospero quell’affare in cui una domanda civile, anche proveniente da un povero [[motifs/soul|'anima]], viene risposta con tanta cortesia!”
-
-“Non vi perderò più una seconda volta!” ripete quella povera [[motifs/soul|'anima]] per strada, e non in modo molto gentile, “Vi ho perso l’ultima volta, quando quell’omnibus su cui siete saliti, verso la fine del vostro [[motifs/journey|viaggio]], si muoveva avanti e indietro tra la stazione e quel luogo. Non ero nemmeno sicuro che foste davvero arrivati a destinazione. Ora so che ci siete riusciti. Mio signore di Cloisterham, sarò lì prima di voi ad aspettarvi. Ho giurato che non vi perderò più una seconda volta!”
-
-Pertanto, quella stessa sera, la povera [[motifs/soul|'anima]] si trova in Cloisterham High Street, a guardare le numerose guglie caratteristiche della >Casa delle Suore, e passa il [[motifs/time|tempo]] nel modo migliore che può fino alle nove di [[motifs/clock|ora]]; in quel momento ha motivo di pensare che i passeggeri dell’omnibus in arrivo possano essere interessati a lei. L’oscurità, a quell’ora, le permette facilmente di capirlo; e infatti è così: il passeggero, che non viene perso due volte, arriva tra gli altri.
-
-"Ora vediamo cosa ne sarà di te. Vai avanti!"
-
-Un'osservazione rivolta all'aria, eppure potrebbe essere rivolta anche al passeggero; tanto docilmente egli prosegue lungo la High Street, fino a quando non arriva davanti a un arco di ingresso, dove improvvisamente scompare. La povera [[motifs/soul|'anima]] accelera il passo; è veloce e lo raggiunge proprio mentre entra sotto l’arco. Ma vede soltanto una scala posteriore su un lato, e dall’altro lato una vecchia stanza a volta, nella quale un signore dai capelli grigi e dalla testa grande sta scrivendo. In circostanze davvero strane: seduto in modo che tutti possano vederlo mentre passano, come se fosse il custode di quell’ingresso, anche se il cammino è libero.
-
-“Halloa!” esclama a voce bassa, vedendola immobilizzarsi:  
-“Chi stai cercando?”
-
-“Un gentiluomo è appena passato di qui, signore.”
-
-"Certo che c'era. Cosa vuoi da lui?"
-
-“Dove vive, tesoro?”
-
-"#Vivi? Sali quella scala."
-
-“Beneditevi! Sussurra. Come si chiama, carina?”
-
-Cognome Jasper, nome di battesimo John. Il signor [[characters/john-jasper|John Jasper]].
-
-“Ha davvero una vocazione, caro signore?”
-
-"#Canta nel coro."
-
-"Nella guglia?"
-
-“Coro.”
-
-“Che cos’è?”
-
-Il signor Datchery si alza dai suoi documenti e si avvicina alla porta di casa. “Sai cos’è una [[settings/cathedral|>cattedrale]]?”, chiede in tono scherzoso.
-
-La donna annuisce.
-
-“Che cos’è?”
-
-Sembra perplessa, cercando nella sua mente una definizione, quando le viene in mente che è più semplice indicare l’oggetto stesso in questione: massiccio contro il cielo blu scuro e le prime [[motifs/stars|stelle]] della notte.
-
-“Ecco la risposta: vai lì domani mattina alle sette, e potrai vedere il signor [[characters/john-jasper|John Jasper]] e anche ascoltarlo.”
-
-“Grazie! Grazie!”
-
-L’esplosione di trionfo con cui lei lo ringrazia non sfugge all’attenzione di quel single dal temperamento mite che vive alle spalle dei suoi genitori. Lui la guarda, incrocia le mani dietro la schiena, come è consuetudine per persone del genere, e si aggira pigramente al suo fianco lungo i viali silenziosi.
-
-“O,” suggerisce lui, inclinando leggermente la testa all’indietro, “potete andare subito nelle stanze del signor Jasper là sopra.”
-
-La donna lo guarda con un sorriso astuto e scuote la testa.
-
-“O, non vuoi parlare con lui?”
-
-“Ripete sempre la stessa risposta stupida, e con le labbra forma un silenzioso ‘No’.”
-
-“Puoi ammirarlo da lontano tre volte al giorno, ogni volta che vuoi. Tuttavia, per farlo è servita una lunga strada da percorrere.”
-
-La donna alza lo sguardo rapidamente. Se il signor Datchery pensa davvero di poterla indurre a rivelare da dove viene, allora ha un carattere molto più mite del suo. Ma lei scarta immediatamente l’idea che possa avere un simile intento; lui, intanto, se ne sta lì in piedi, come il tipico noioso abitante di quella [[motifs/city|città]], con i capelli grigi scompigliati al vento e le mani che frusciano senza scopo tra i soldi nelle tasche dei suoi pantaloni.
-
-Il suono dei soldi esercita un'attrazione particolare sulle sue orecchie avide. “Non mi aiuterebbe, caro signore, a pagare la mia stanza d’albergo e il mio viaggio? Sono una povera [[motifs/soul|'anima]], davvero, e inoltre soffro di un terribile attacco di tosse.”
-
-“Immagino che conosca bene quella locanda per viaggiatori, e stia dirigendosi direttamente lì,” osserva gentilmente il signor Datchery, continuando a far tintinnare le monete che aveva in tasca. “È stata qui spesso, mia cara?”
-
-“Una volta nella mia vita, ”
-
-“Ay, ay?”
-
-Sono arrivati all’ingresso della vigna dei [[characters/monks|Monaci]]. Un ricordo appropriato, che rappresenta un modello esemplare da imitare, riaffiora nella mente della donna alla vista di quel luogo. Si ferma al cancello e dice con energia:
-
-“Con questo pegno, anche se non ci credete, un giovane gentiluomo mi ha dato tre penny e sei centesimi proprio mentre stavo tossendo disperatamente su questa stessa erba. Gliel’ho chiesti e me li ha dati.”
-
-“Non è stato un po’ troppo audace dare un nome preciso a quella somma?” insinua il signor Datchery, ancora nervoso. “Non è forse consuetudine lasciare l’importo inespresso? Non potrebbe essere sembrato al giovane gentiluomo, solo sembrato, che qualcuno gli avesse imposto quella cifra?”
-
-“Guarda qui, caro,” risponde lei con un tono confidenziale e persuasivo, “volevo quel denaro per comprarne una medicina che mi fa bene, proprio quella di cui mi occupo io. Gliel’ho detto, e lui me l’ha dato; l’ho usato onestamente, fino all’ultimo centesimo. Ora voglio utilizzare la stessa somma nello stesso modo. E se me la darai, la spenderò di nuovo onestamente, giuro sulla mia [[motifs/soul|'anima]]!”
-
 
 
 <span class="atom-split" data-atom="chapter_25--part_05" data-title="The Mystery of Edwin Drood — Chapter 23 (part 5)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/clock,motif/dance,motif/home,motif/night,motif/sleep,motif/well,concept/honour,setting/cathedral,setting/london,character/durdles,character/edwin_drood,character/john_jasper"></span>
@@ -17018,88 +11854,6 @@ corner cupboard, and refers to a few uncouth chalked strokes on its
 inner side.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-Qual è la medicina?
-
-“Onestamente, ve lo dico sia prima che dopo: si tratta di oppio.”
-
-Il signor Datchery, con un improvviso cambiamento di espressione, la guarda all’improvviso.
-
-“È oppio, caro. Né di più né di meno. E, per certi versi, è simile agli esseri umani: si sentono sempre le cose negative che si possono dire su di esso, ma raramente quelle positive.”
-
-Il signor Datchery inizia molto lentamente a contare la somma che gli viene richiesta. Lei, osservando con avidità le sue mani, continua a sottolineare l’esempio straordinario che lui stesso ha dato.
-
-“Fu la vigilia di Natale scorsa, appena dopo il tramonto. Quella volta che ero già stato qui prima, quando quel giovane signore mi diede quei tre scellini e sei pence.” Il signor Datchery si ferma nel suo conteggio, si rende conto di aver sbagliato, mescola di nuovo le monete e ricomincia.
-
-“E il nome del giovane gentiluomo,” aggiunge, “era Edwin.”
-
-Il signor Datchery lascia cadere del denaro, si china per raccoglierlo e, arrossendo per lo sforzo, chiede:
-
-“Come fai a sapere il nome di quel giovane signore?”
-
-Gliel’ho chiesto e mi l’ha detto. Gli ho fatto solo due domande: qual era il suo vero nome e se aveva una fidanzata. Lui ha risposto “Edwin” e no, non ne aveva.
-
-Il signor Datchery si ferma, con le monete scelte in mano, come se stesse riflettendo profondamente sul loro valore e non riuscisse a separarsene. La donna lo guarda con sospetto, il suo risentimento cresce nel caso decidesse di cambiare idea riguardo al regalo; ma lui glielo consegna come se stesse distaccando la propria mente da quel gesto di sacrificio. Lei accetta con molte ringraziamenti servili e se ne va.
-
-La lampada di [[characters/john-jasper|John Jasper]] è accesa, e il suo faro splende quando il signor Datchery ritorna da solo verso di esso. Proprio come i marinai in un viaggio pericoloso, che si avvicinano a una costa rocciosa e insidiosa, possono guardare lungo i raggi della luce di segnalazione verso il rifugio che si trova al di là, anche se forse non lo raggiungeranno mai, così pure lo sguardo malinconico del signor Datchery è rivolto verso questo faro, e oltre.
-
-Lo scopo della sua visita nuovamente al suo alloggio è semplicemente quello di indossare quel cappello che sembra un oggetto del tutto superfluo nel suo armadio. Sono le dieci e mezza, secondo l’[[motifs/clock|orologio]] della [[settings/cathedral|Cattedrale]], quando esce nuovamente nei dintorni; si sofferma e guarda intorno a sé, come se, all’arrivo dell’ora magica in cui il signor [[characters/durdles|Durdles]] verrà lapidato fino alla morte, avesse qualche speranza di vedere quell’Essere Maligno incaricato della missione di ucciderlo.
-
-In effetti, quel Potere del Male è in giro. Non avendo nulla di vivo da lapidare al momento, viene scoperto dal signor Datchery nell’ufficio sacrilego dedicato alla lapidazione dei morti, attraverso le recinzioni del cimitero. Il Demone trova questa attività particolarmente divertente e stimolante: innanzitutto, perché il luogo di riposo delle vittime è considerato sacro; in secondo luogo, perché le alte lapidi assomigliano abbastanza a lui stesso, tanto da fargli credere, mentre le colpisce al buio, che esse provino davvero dolore.
-
-Mr. Datchery lo chiama: “Ehi, Winks!”
-
-Risponde al saluto con: “Salve, Dick!” Il loro rapporto sembra essere basato su una familiarità reciproca.
-
-“Ma, dico io,” protesta, “non fatemi diventare pubblico il mio nome. Non ho mai intenzione di rivelarlo, capite? Quando nella prigione mi chiedono ‘Qual è il tuo nome?’ rispondo: ‘Scopritelo voi.’ E allo stesso modo, quando mi chiedono ‘Qual è la tua religione?’ rispondo: ‘Scopritela voi.’”
-
-Si può osservare, a margine, che sarebbe estremamente difficile per lo Stato, per quanto possa essere dotato di strumenti statistici, compiere tale compito.
-
-“Oltre a questo,” aggiunge il ragazzo, “non esiste nessuna famiglia chiamata Winks.”
-
-“Credo che debba esserci.”
-
-“Non c’è nessuna verità in quello che dici. Gli viaggiatori mi chiamano così perché non riesco a dormire tranquillamente e resto sveglio per tutta la [[motifs/night|notte]]; a causa di questo, uno dei miei occhi si apre prima ancora che l’altro si chiuda. Ecco cosa significa ‘Winks’. ‘Deputy’ è un altro nome che potrebbero usare per accusarmi. Ma non mi vedreste mai ammetterlo.”
-
-“Sempre vicepresidente, allora. Siamo buoni amici, vero, vicepresidente?”
-
-“Molto bene.”
-
-“Ti ho perdonato il debito che mi dovevi quando ci siamo conosciuti per la prima volta, e da allora molti dei miei soldi sono finiti nelle tue mani. Eh, Vice?”
-
-“Ah! E poi, non sei nemmeno un amico di Jarsper. Perché mai si è preso la briga di aiutarmi?”
-
-“Davvero! Ma ora lasciamolo perdere. Questa [[motifs/night|notte]], un scellino mio andrà a tuo favore, ispettore. Hai appena accolto una pensionante di cui parlavo: una donna malata che soffre di tosse.”
-
-“Puffer,” concorda l’assistente, con un astuto sorriso di riconoscimento, mentre fuma una pipa immaginaria, inclinando molto la testa da un lato e con gli occhi che sembrano uscire dalle orbite: “Hopeum Puffer.”
-
-Che nome ha?
-
-“Sua Altezza Reale la Principessa Puffo”.
-
-Qual è il suo vero nome? Dove vive?
-
-“A [[settings/london|Londra]]. Tra i Jacks.”
-
-“I marinai?”
-
-“Lo dicevo io. Gli uomini di Jacks e di Chayner. E anche gli altri.”
-
-“Vorrei sapere, attraverso di te, esattamente dove vive.”
-
-“Va bene, datemi quello vecchio.”
-
-Un scellino viene pagato; e con quell’atteggiamento di fiducia che dovrebbe caratterizzare tutte le transazioni commerciali tra persone d’[[concepts/honour|onore]], questa operazione viene considerata conclusa.
-
-“Ma guardate un po’ questa!”, esclama il vice sceriffo. “Dove pensavate che Sua Altezza Reale sarebbe andata domani mattina? Non c’è dubbio che stia andando al KIN-FREE-DER-EL!” Prolunga enormemente quella parola per l’eccitazione, si dà una pacca sulla gamba e scoppia in una risata stridula.
-
-“Come fai a saperlo, vice ispettore?”
-
-“Proprio così mi ha detto poco fa. Ha detto che deve prepararsi con cura. Ha detto: ‘Vice-sceriffo, devo lavarmi presto e mettermi il più in ordine possibile, perché devo partecipare al KIN-FREE-DER-EL!’” Pronuncia le sillabe con lo stesso entusiasmo di prima, e, non riuscendo a liberarsi abbastanza dell’impressione ridicola che tutto ciò gli suscitava, inizia a ballare un movimento lento e solenne, forse immaginando che fosse il modo in cui il Decano avrebbe dovuto esibirsi.
-
-Il signor Datchery riceve la comunicazione con un'espressione di evidente soddisfazione, ma dopo averla riflettuta per un po' interrompe la riunione. Tornato nella sua modesta dimora, si siede a tavola per la cena: pane, formaggio, insalata e birra, che la signora Tope gli aveva preparato in anticipo. Anche dopo aver finito di mangiare, rimane seduto. Alla fine si alza, apre con forza lo sportello di un armadio angolare e guarda alcuni rozzi segni tracciati con la gesso sul suo lato interno.
-
 
 
 <span class="atom-split" data-atom="chapter_25--part_06" data-title="The Mystery of Edwin Drood — Chapter 23 (part 6)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/birds,motif/chalk,motif/city,motif/clock,motif/dust,motif/garden,motif/leaves,motif/night,motif/time,motif/well,concept/poverty,concept/resurrection,form/biography,form/fragment,setting/cathedral,character/bottom,character/edwin_drood,character/john_jasper"></span>
@@ -17225,49 +11979,6 @@ A somewhat popular member of the Eight Club, was a member by the name
 of Kimber. By profession, a dancing-master. A commonplace, hopeful sort
 of man, wholly destitute of dignity or knowledge of the world.
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-“A me piace,” dice il signor Datchery, “quel vecchio sistema di tenere i conti delle taverne: illeggibile, tranne che per chi li tiene. Se chi li tiene non commette errori, allora la persona contro cui vengono registrati debiti viene effettivamente addebitata di quella somma. Hmm. Un conto molto semplice, davvero povero!”
-
-Sospira di fronte alla vista della sua [[concepts/poverty|povertà]], prende un po' di [[motifs/chalk|>Gesso]] da uno degli scaffali dell'armadio e si ferma, tenendolo in mano, incerto su quale aggiunta fare al conto.
-
-“Credo che un ictus lieve sia tutto ciò che ho il diritto di attribuirmi,” conclude; quindi, facendo corrispondere le azioni alle parole, chiude l’armadio e va a letto.
-
-Una splendida mattina illumina l’antica [[motifs/city|>città]]. Le sue antichità e rovine sono di una bellezza straordinaria: il rampicante vieto brilla al sole, mentre gli alberi rigogliosi ondeggiano nell’aria fresca. I cambiamenti di luce prodotti dalle fronde in movimento, i [[motifs/birds|>canti]] degli uccelli, i profumi dei giardini, dei boschi e dei campi – o meglio, di quel grande “giardino” che rappresenta l’intera isola coltivata nel suo periodo più rigoglioso – penetrano nella [[settings/cathedral|>Cattedrale]], sovrapponendosi al suo odore terroso e proclamando la [[concepts/resurrection|>Risurrezione]] e la Vita. Le fredde tombe di secoli fa sembrano riscaldarsi; scintille di luce si insinuano anche negli angoli più cupi del edificio, tremolando come ali.
-
-Arriva il signor Tope con le sue grandi chiavi; apre la porta con un grande sbadiglio e la lascia spalancata. Arrivano anche la signora Tope e gli assistenti, che spazzano via la polvere. In due momenti distinti arrivano l’organista e il ragazzo incaricato di soffiare nei mantici dell’organo; sbirciano giù dalle tende rosse del soppalco, spazzando senza paura la polvere dai libri situati in quella remota posizione, e togliendola anche dagli stoppini e dai pedali dell’organo. Arrivano inoltre diverse gazze, provenienti da varie parti del cielo, che ritornano verso la grande torre; si può presumere che godano di queste vibrazioni e sappiano che l’organo e la campana le stanno producendo. Arriva poi una piccolissima e sparuta congregazione, principalmente proveniente da zone limitrofe. Arriva il signor Crisparkle, fresco e vivace; e i suoi colleghi, meno freschi e vivaci di lui. Arriva anche il coro, sempre di fretta, cercando disperatamente di infilarsi nei loro pigiami all’ultimo momento, come bambini che evitano di andare a letto. E arriva [[characters/john-jasper|John Jasper]] a guidare la fila del coro. Infine arriva il signor Datchery in una cabina riservata, tra quelle disponibili e vuote; si guarda intorno alla ricerca della Sua Altezza Reale, la Principessa Puffer.
-
-Il servizio è già abbastanza [[motifs/well|avanzato]] quando il signor Datchery riesce a riconoscere Sua Altezza Reale. Ma ormai l’ha individuata: si trova dietro una colonna, ben nascosta alla vista del direttore del coro, ma lo osserva con estrema attenzione. Lui, ignaro della sua presenza, continua a cantare e intonare le melodie. Lei sorride quando lui è più appassionato nella sua esibizione. E sì, il signor Datchery la vede farlo! Gli fa anche il gesto di minaccia dietro l’ombra protettiva della colonna.
-
-Il signor Datchery guarda di nuovo, per convincersi. Sì, ancora una volta! Altrettanto brutto e appassito quanto uno di quegli strani scolpiti presenti sui braccioli dei sedili delle bancarelle, altrettanto malvagio come il Male Assoluto, altrettanto duro come l’immensa aquila di bronzo che tiene i libri sacri sulle ali (e, a giudicare dalla rappresentazione scultorea dei suoi attributi feroci, affatto non convertita da tutto ciò, ), lei si abbraccia con le sue magre braccia e poi scuote entrambi i pugni verso il capo del coro.
-
-E in quel momento, fuori dalla porta a grate del Coro, essendo riuscito a eludere la vigilanza del signor Tope grazie a stratagemmi che lui stesso conosceva bene, i vice-guardiani, occhiuti com'erano, spiavano attraverso le sbarre, fissando con stupore sia il minacciatore che la vittima della minaccia.
-
-Il servizio termina e i domestici si dispersero per andare a colazione. Il signor Datchery si avvicinò alla sua ultima nuova conoscenza fuori; intanto il coro, altrettanto ansioso di togliersi le camicie da notte quanto lo era stato poco prima di indossarle, se n’era già andato in fretta.
-
-“Beh, signora. Buongiorno. L’avete visto?”
-
-“L’ho visto, caro; l’ho davvero visto!”
-
-“E tu lo conosci?”
-
-Conoscerlo. Meglio di quanto possano conoscerlo tutti i reverendi Parsons messi insieme.
-
-Le cure di Mrs. Tope avevano preparato una colazione molto ordinata e pulita per il suo inquilino. Prima di sedersi a mangiare, aprì la porta del suo armadietto angolare; prese il suo pezzo di [[motifs/chalk|gesso]] dallo scaffale; tracciò una linea spessa sulla lista, che andava dall’alto della porta dell’armadietto fino alla [[characters/bottom|base]]; poi si mise a mangiare con grande appetito.
-
-Appendice: [[forms/fragment|frammento]] di “Il mistero di [[characters/edwin-drood|Edwin Drood]]”
-
-Quando Forster stava appena terminando la sua [[forms/biography|biografia]] di Dickens, trovò, tra le [[motifs/leaves|pagine]] di uno degli altri manoscritti del romanziere, alcuni foglietti separati nei quali erano scritte alcune idee per un nuovo capitolo di _Edwin Drood_. In quei foglietti, il personaggio dell’astaio Sapsea emergeva come figura principale, circondato da altri personaggi nuovi per la storia. Poiché quel capitolo rientrava tra gli ultimi scritti di Dickens, sembrava contenere così tanti elementi interessanti che sarebbe stato senz’altro opportuno riprodurlo qui.—ED.
-
-Come il signor Sapsea smise di essere membro dell’Otto Club  
-Raccontato da lui stesso
-
-Desiderando prendere un po’ d’aria, seguii una strada tortuosa per raggiungere il Club: era la nostra serata settimanale di riunione. Notai che eravamo tutti presenti. Eravamo denominati “L’Otto Club”: eravamo in otto; ci incontravamo alle otto in punto, per otto mesi all’anno; giocavamo otto partite di cribbage a quattro persone, a otto pence a partita; la nostra cena frugale consisteva in otto rotoli di pane, otto costine di manzo, otto salsicce di maiale, otto patate arrosto, otto ossa di midollo, accompagnate da otto brindisi e otto bottiglie di birra. Forse c’era, o forse no, una certa armonia di colori nell’idea principale che guidava questa riunione. Per usare le parole dei nostri vivaci vicini. Era un’idea mia, in realtà.
-
-[Illustrazione: Facsimile di una pagina del manoscritto de “Il mistero di [[characters/edwin-drood|Edwin Drood]]”.]
-
-Un membro abbastanza popolare dell’Eight Club; il suo nome era Kimber. Per professione, insegnante di danza. Un uomo comune, pieno di speranze, ma completamente privo di dignità e conoscenza del mondo.
 
 
 
@@ -17437,73 +12148,3 @@ somewhere else. If I was to deny it, what would it avail me?’
 ‘Or,’ pursued Poker, in a kind of despondent rapture, ‘or if I was to
 deny that I came to this town to see and hear you, sir, what would it
 avail me? Or if I was to deny—’
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Non appena entrai nella sala del club, Kimber stava dicendo: “E lui continua a credere, anche solo in parte, che sia una persona di alto rango nella Chiesa.”
-
-Mentre appoggiavo il mio cappello all’ottava gruccia vicino alla porta, incrociai lo sguardo di Kimber. Lui abbassò il suo e fece un commento riguardo al prossimo cambiamento della [[motifs/moon|luna]]. In quel momento non ci prestai molta attenzione, perché spesso il mondo tendeva a evitare argomenti ecclesiastici in mia presenza. Sentivo infatti di essere stato scelto – anche se forse solo per coincidenza – per rappresentare, in un certo senso, quella che chiamo la nostra “gloriosa costituzione” tra Chiesa e Stato. Alcuni potrebbero obiettare a questa espressione; ma io la considero mia. L’ho usata in una discussione qualche tempo fa, dicendo: “NOstra GLORIOSA COSTITUZIONE tra CHIESA e STATO”.
-
-Un altro membro dell’Eight Club era Peartree; anch’egli faceva parte del Royal College of Surgeons. Il signor Peartree non è tenuto a rendere conto delle sue opinioni a me, e non dirò di più su di esse se non che assiste gratuitamente i poveri ogni volta che ne hanno bisogno, e non è il medico parrocchiale. Il signor Peartree potrà giustificare questa sua azione secondo la logica del suo modo di pensare, nel tentativo di contribuire al disprezzo verso un funzionario nominato. Ma a me, tale comportamento non sembra mai giustificabile.
-
-Tra Peartree e Kimber esisteva un'alleanza di tipo debolmente patologico. Mi resi particolarmente conto di essa quando vendetti Kimber all’asta, (Beni sequestrati in esecuzione.) Lui era un vedovo che indossava una camicia bianca sotto la giacca, scarpe sottili con lacci a fiocco, e aveva due figlie non del tutto sgradevoli a vedersi. Anzi, il contrario. Entrambe le figlie insegnavano danza in istituti per giovani signorine: avevano insegnato presso la signora Sapsea, e persino presso Twinkleton. E entrambe, durante le lezioni, presentavano lo spettacolo indecoroso di tenere piccole violini sotto il mento. Nonostante ciò, se ho capito bene, posso dire di saperlo con certezza, la più giovane avrebbe potuto uscire da questa condizione degradante, ma aveva quel tipo di mentalità tipico della gente comune. E mancava completamente di rispetto per gli altri, al punto di risultare ridicola.
-
-Quando vendetti Kimber senza riserve, Peartree – povero com’era – ricevette in mano diversi terreni residenziali di ottima qualità. Non devo essere cieco: era ovvio cosa avesse intenzione di farne; dopotutto era un individuo rozzo e grossolano, un tipo di rivoluzionario che aveva prestato servizio in India con gli soldati. E, per il bene della società, avrebbe dovuto essere impiccato. Poco dopo vidi quei terreni nell’appartamento di Kimber, attraverso la [[motifs/window|finestra]]; capii subito che si trattava soltanto di una scusa per prenderli in prestito fino a tempi migliori. Una persona meno informata di me avrebbe potuto sospettare che Kimber avesse trattenuto del denaro dai suoi creditori e acquistato quei beni in modo fraudolento. Ma io sapevo con certezza che non aveva soldi; inoltre, capivo che una simile azione richiedeva una sorta di premeditazione che non poteva essere compatibile con la leggerezza e l’irresponsabilità di un individuo che viveva di furti e truffe.
-
-Poiché era la prima [[motifs/time|volta]] che vedevo entrambi da quando avevano venduto le loro proprietà, mi astenni dal fare commenti. Quando li avevo aiutati a vendere, avevo fatto alcune osservazioni – potrei dire anche una piccola omelia? – riguardo a Kimber, che il mondo considerava davvero degne di attenzione. Si diceva che fossi salito sul mio “pulpito” in modo insolitamente solenne. E prima ancora di iniziare a parlare, si era levato un mormorio di riconoscimento riguardo al suo nome (non lo dirò). Avevo poi detto che tutti presenti avrebbero trovato, sulla prima pagina del catalogo davanti a loro, nell’ultimo paragrafo prima della prima merce in vendita, le seguenti parole: “Venduta in esecuzione di un ordine di esecuzione emesso da un creditore”. Avevo quindi ricordato ai miei amici che, per quanto frivola o addirittura spregevole potesse essere l’attività attraverso la quale una persona raccoglieva le proprie merci, queste merci erano comunque preziose per lei e, se vendute senza riserve, anche vantaggiose per la società, come se le sue attività avessero un valore davvero significativo. Avevo poi diviso il mio discorso in tre parti: innanzitutto, “Venduta”; in secondo luogo, “In esecuzione di un ordine di esecuzione”; in terzo luogo, “Emesso da un creditore”. A ciascuna parte avevo aggiunto alcune riflessioni morali, e avevo concluso dicendo: “Ora passiamo alla prima merce in vendita, ”, il che fu accolto con apprezzamento quando mi misi tra il pubblico dopo il discorso.
-
-Sapendo di non essere certo riguardo ai termini con cui io e Kimber ci trovavamo in quella situazione, ero molto [[motifs/grave|preoccupato]], mi sentivo a disagio. Tuttavia, quando Kimber si avvicinò a me, anch'io mi avvicinai a lei. (Io ero il creditore che aveva emesso l’ingiunzione. Ma non ha importanza.)
-
-“Stavo alludendo, signor Sapsea,” disse Kimber, “a uno sconosciuto che aveva iniziato a parlarmi per strada mentre mi recavo al Club. Sembrava che avesse appena parlato con voi vicino al cimitero; e anche se gli avevate detto chi eravate, fui quasi incapace di convincerlo del contrario, ”
-
-“Idiota?”, disse Peartree.
-
-“Accidenti!” disse Kimber.
-
-“Idiota e stupido!” dissero gli altri cinque membri.
-
-“Idiota e imbecille, signori,” obiettai, guardandomi intorno, “sono espressioni troppo dure da usare per un giovane di bell’aspetto e buone maniere.” La mia generosità venne messa alla prova. Lo ammetto.
-
-“Dovrai ammettere che deve essere un [[archetypes/fool|idiota]]”, disse Peartree.
-
-“Non si può negare che debba essere un idiota,” disse Kimber.
-
-Il loro tono di disgusto era quasi offensivo. Perché quel giovane doveva essere diffamato in quel modo? Cosa aveva fatto? Aveva commesso soltanto un errore [[archetypes/innocent|innocente]] e naturale. Controllai la mia indignazione e lo dissi apertamente.
-
-“Naturale?”, ripeté Kimber. “Lui è davvero un talento naturale!”
-
-I sei membri rimanenti del Club degli Otto risero all’unanimità. Quel riso mi ferì profondamente. Era un riso pieno di disprezzo. La mia rabbia si scatenò a difesa di uno sconosciuto lontano, senza amici. Mi alzai in piedi (poiché ero seduto).
-
-‘Signori,’ dissi con dignità, ‘non intendo rimanere membro di questo Club, permettendo che una persona innocente venga diffamata in sua assenza. Non violerò mai ciò che considero i sacri riti dell’ospitalità. Signori, finché non imparerete a comportarvi meglio, vi lascio. Fino ad allora, mi ritiro da questo luogo di riunione, indipendentemente dalle qualità personali che possa aver portato con me. Signori, fino ad allora, smettetela di essere l’“Otto Club” e fate del vostro meglio per diventare il “Sette Club”.’
-
-Misi il cappello e me ne andai. Mentre scendevo le scale, sentii chiaramente che avevano emesso un grido soffocato di gioia. Ecco il potere dell’atteggiamento e della conoscenza umana. Io stesso li avevo costretti a reagire in quel modo.
-
-II
-
-Chi avrei dovuto incontrare in strada, a pochi metri dalla porta dell’osteria dove si teneva il Club, se non lo stesso giovane per il cui caso avevo ritenuto mio dovere intervenire con tanto calore, e aggiungo, con totale imparzialità.
-
-“È il signor Sapsea, ”, disse dubbiosamente, “o forse è, ”
-
-“È il signor Sapsea,” risposi.
-
-“Scusi, signor Sapsea, sembra che lei abbia caldo, signore.”
-
-“Sono stato molto gentile,” dissi, “e tutto per te.” Dopo aver descritto in dettaglio le circostanze (la mia generosità sembrava quasi sopraffarlo), gli chiesi il nome.
-
-“Signor Sapsea,” rispose lui, guardando verso il basso, “la sua perspicacia è così acuta, la sua capacità di scrutare nell’anima degli altri così profonda, che anche se fossi appena sufficiente a negare di chiamarmi Poker, a cosa mi servirebbe?”
-
-Non so se fossi riuscito a capire con esattezza che il suo nome era _Poker_, ma credo di essere stato abbastanza vicino a scoprirlo.
-
-“Beh, beh, ”, dissi, cercando di rassicurarlo annuendo dolcemente. “Il tuo nome è Poker, e non c’è nulla di male nel chiamarsi Poker.”
-
-“Oh, signor Sapsea!” esclamò il giovane, con un modo molto [[motifs/well|corretto]].  
-“Grazie per queste parole!” rispose lui, come se si vergognasse di aver lasciato trapelare i propri sentimenti, e poi abbassò di nuovo lo sguardo.
-
-“Come il Poker,” dissi, “raccontami di più su di te. Dimmi: dove stai andando, Poker? E da dove vieni?”
-
-“Ah, signor Sapsea!” esclamò il giovane. “È impossibile nascondere la verità con voi. Voi sapete già che vengo da qualche parte e sto andando verso un’altra destinazione. Se lo negassi, a cosa mi servirebbe?”
-
-“Allora non negarlo,” fu la mia osservazione.
-
-“O,” continuò Poker, con una sorta di rassegnata esaltazione, “o se negassi di essere venuto in questa città per vedervi e ascoltarvi, signore, a che mi servirebbe? O se negassi, ”

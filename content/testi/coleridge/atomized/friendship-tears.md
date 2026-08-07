@@ -32,25 +32,6 @@ And flutters in the fost’ring dew.
 ? 1790.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-IMITAZIONE DAL LATINO DI NICOLAUS ARCHIUS  
-Amabili gemme di mite fulgore  
-tremanti giù per la guancia della mia Laura,  
-come i ruscelletti scivolano silenti  
-per lo smaltato [[concepts/pride|orgoglio]] del Prato,  
-dolci pegni di pio dolore,    5  
-[[motifs/tears|lacrime]] che l'[[concepts/friendship|Amicizia]] insegnò a sgorgare,  
-scintillando in quell'umida luce  
-l'[[motifs/love|Amore]] bagna le sue ali lucenti:  
-là, in mezzo alla pioggia luccicante,  
-sorridendo siede l'insidioso Potere;   10  
-come spesso qualche alato Canterino,  
-quando le nubi di [[motifs/spring|primavera]] versano i loro dolci tesori,  
-gioioso si riassetta le penne,  
-e svolazza nella rugiada che lo nutre.  
-? 1790.
-
 
 
 <span class="atom-split" data-atom="079_to_a_friend" data-title="TO A FRIEND" data-chapter="" data-kind="intro" data-tags="motif/memory,concept/friendship,concept/grief_and_loss,concept/melancholy,form/blank_verse,cluster/friendship,cluster/tears"></span>
@@ -76,28 +57,6 @@ To her I pour’d forth all my puny sorrows
 And of the heart those hidden maladies  
 That e’en from [[concepts/friendship|Friendship]]’s eye will shrink asham’d.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-CHARLES [[motifs/lamb|LAMB]]  
-INSIEME A UNA POESIA INCOMPIUTA  
-Fin qui il mio scarso cervello ha costruito la rima  
-elaborata e gonfia: eppure il cuore  
-non la riconosce. Alle tue facoltà che spirano spirito  
-non chiedo ora, amico mio, il verso d'aiuto,  
-tedioso per te, e dal tuo pensiero ansioso   5  
-d'umore dissonante. Con la fantasia ([[motifs/well|bene]] lo so)  
-lontano vagando dagli affari e dalle cure di casa,  
-tu ti aggiri intorno al letto d'una Sorella diletta  
-con passo silenzioso, e ne spii lo sguardo fioco,  
-lenendo ogni fitta con tenera sollecitudine,   10  
-e con toni tenerissimi, medicina d'[[motifs/love|amore]].  
-Anch'io ebbi una Sorella, un'unica Sorella —  
-mi amava teneramente, e io stravedevo per lei!  
-A lei versavo tutti i miei piccoli dolori  
-(come un Malato tra le braccia d'una [[characters/nurse|Infermiera]])   15  
-e quelle malattie nascoste del cuore  
-che pur dall'occhio dell'[[concepts/friendship|Amicizia]] si ritraggono vergognose.
 
 
 
@@ -144,48 +103,6 @@ Knit in nice intertexture, so to twine,
 The illustrious brow of Scotch Nobility!  
 1796.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Caro Charles! quando eri ancora bambino, credo  
-che il Genio ti immergesse in quella fonte magica  
-detta Castalia: e (garanti della tua [[concepts/faith|fede]])  
-che la Pietà e la Semplicità stessero accanto,  
-e promettessero per te che avresti rinunciato   5  
-alle basse cure del mondo e alle vanità menzognere,  
-saldo e radicato nella Musa celeste,  
-e lavato e consacrato alla Poesia.  
-Sì — fosti immerso, ma con mano immemore  
-tenuto, come un tempo Teti il suo figlio guerriero:   10  
-e con quei codardi talloni non battezzati  
-tu fuggi dai tuoi doverosi ministeri —  
-tanto arduo e gravoso ti pare il compito  
-di tessere [[motifs/flowers|fiori]] che non appassiscono! Ma bada:  
-ché tu sei vulnerabile, ragazzo dall'occhio selvaggio,   15  
-e io ho frecce misticamente intinte  
-tali da fermare la tua [[characters/speed|corsa]]. È morto il tuo Burns?  
-E morrà non pianto, e sprofonderà in terra  
-‘senza il premio d'una lacrima melodiosa’?  
-Il tuo Burns, il bardo prediletto della [[concepts/nature|Natura]],   20  
-che agli ‘Illustri della sua Terra natia  
-così a ragione guardò per patrocinio.’  
-[[archetypes/ghost|Ombra]] di Mecenate! nascondi il volto arrossito!  
-Lo strapparono alla falce e all'aratro —  
-per misurare barilotti di birra.  
-Oh! per vergogna, torna!   25  
-Su una rupe spoglia, a mezza costa del monte Aonio,  
-sta un albero solitario e [[concepts/melancholy|malinconico]],  
-i cui rami annosi alla raffica di mezzanotte  
-fanno solenne musica: cogli il suo ramo più scuro,  
-prima che l'insalubre rugiada [[motifs/night|notturna]] sia esalata,   30  
-e piangendo intrecciane ghirlanda alla tomba del tuo Poeta.  
-Poi ai margini, dove crescono le sozzure,  
-cogli il giusquiamo fetido e i foschi [[motifs/flowers|fiori]]  
-della [[motifs/night|notturna]] belladonna, o il suo frutto rosso e tentatore,  
-questi, con narice turata e mano protetta dal guanto,   35  
-intreccia in delicata trama, così da cingerne  
-l'illustre fronte della Nobiltà di Scozia!  
-1796.
 
 
 
@@ -270,85 +187,6 @@ Do go, dear Rain! do go away.
 1802.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-COMPOSTA PRIMA DELL'ALBA, NEL MATTINO FISSATO PER LA PARTENZA DI UN OSPITE ASSAI DEGNO, MA NON MOLTO PIACEVOLE, CHE SI TEMEVA LA PIOGGIA POTESSE TRATTENERE  
-I  
-So che è buio; e benché io sia stato disteso,  
-sveglio, credo, un'ora o due,  
-non ho aperto una sola volta le palpebre,  
-ma giaccio nel buio, come giace un cieco.  
-O Pioggia! che sto qui ad ascoltare,   5  
-sei nel migliore dei casi un suono lamentoso:  
-ti devo pochi ringraziamenti, è vero,  
-per aver rotto così il mio riposo necessario!  
-Pure se, appena farà luce,  
-o Pioggia, vorrai prendere il volo,   10  
-non t'inveirò contro, né serberò rancore,  
-benché malato e dolente per mancanza di [[motifs/sleep|sonno]].  
-Ma solo ora, per questo unico giorno,  
-vattene, cara Pioggia! vattene via!  
-II  
-O Pioggia! col tuo cupo suono duplice,   15  
-lo scroscio qui accanto, e il mormorio tutt'intorno!  
-Tu sai, se sai qualcosa, che noi,  
-di [[motifs/night|notte]] e di giorno, andiamo poco d'accordo:  
-ché giorni e mesi, e quasi anni,  
-sono zoppicati per questa valle di [[motifs/tears|lacrime]],   20  
-da quando questo mio [[concepts/body|corpo]] e il tempo piovoso  
-hanno vissuto insieme in buoni rapporti.  
-Pure se, appena farà luce,  
-o Pioggia, vorrai prendere il volo,  
-anche se tornassi domani,   25  
-e portassi con te [[motifs/pain|dolore]] e affanno;  
-anche se lo stomaco s'ammalasse e le ginocchia gonfiassero —  
-di te non dirò che [[motifs/well|bene]].  
-Ma solo ora, per questo unico giorno,  
-vattene, cara Pioggia! vattene via!   30  
-III  
-Cara Pioggia! non ho mai rifiutato di dire  
-che sei una buona creatura a tuo modo;  
-anzi, potrei scrivere io stesso un libro  
-degno dello scaffale basso d'un parroco,  
-a mostrare quanto tu sia buona. — 35  
-E allora? qualche volta dev'esserci bel tempo,  
-e se qualche volta, perché non oggi?  
-Vattene, cara Pioggia! vattene via!  
-IV  
-Cara Pioggia! se sono stato freddo e schivo,  
-non t'offendere! Ti dirò perché.    40  
-Un caro vecchio Amico è qui proprio ora,  
-e con lui è venuta la mia cara sorella;  
-dopo lunga assenza incontrati ora per la prima volta,  
-lunghi mesi assediati dal [[motifs/pain|dolore]] e dalla pena —  
-noi tre cari amici! in [[concepts/truth|verità]], gemiamo   45  
-impazienti d'essere soli.  
-Noi tre, bada bene! e non uno di più!  
-Il forte desiderio mi fa dolere lo spirito.  
-Abbiamo tanto di cui parlare,  
-tante cose tristi da sfogare;   50  
-tante [[motifs/tears|lacrime]] negli angoli degli occhi,  
-sedute come piccoli Jacky Horner —  
-insomma, appena sarà giorno,  
-vattene, cara Pioggia! vattene via.  
-V  
-E questo ti giuro, cara Pioggia!   55  
-ogni volta che tornerai,  
-per quanto cupa tu possa essere  
-(e a proposito, s'intende  
-che non sei tanto piacevole quanto sei buona),  
-pure, conoscendo [[motifs/well|bene]] il tuo valore e il tuo posto,   60  
-ti accoglierò con volto lieto;  
-e anche se restassi una settimana o più,  
-e fossi dieci volte più cupa di prima;  
-pure con cuore gentile e assai buona volontà  
-resterò seduto ad ascoltarti ancora;   65  
-né dovrai andartene, cara Pioggia,  
-senza essere invitata a restare.  
-Ma solo ora, per questo unico giorno,  
-vattene, cara Pioggia! vattene via.  
-1802.
-
 
 
 <span class="atom-split" data-atom="274_duty_surviving_self-love_the_only_sure_friend_of_declining_life" data-title="DUTY SURVIVING SELF-LOVE THE ONLY SURE FRIEND OF DECLINING LIFE" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,concept/friendship,concept/transience,concept/humility,concept/melancholy,form/lyric,cluster/friendship,cluster/tears"></span>
@@ -372,25 +210,6 @@ Because to thee they are not what they were.
 1826.  
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-UN SOLILOQUIO  
-Immutati dentro, vedere tutto mutato fuori  
-è sorte vuota e dura da portare, senza [[concepts/doubt|dubbio]].  
-Pure, perché dovresti crucciarti del declinare altrui?  
-Solo allora potresti sentire un giusto rimpianto,  
-se avessi negato il tuo [[motifs/love|amore]] o nascosto la tua luce   5  
-in egoistica previsione d'incuria e di sgarbo.  
-Oh più saggiamente allora, libero da fiacche brame,  
-finché, e su chi, tu possa — risplendi! e non badare  
-se l'oggetto, per luce riflessa,  
-ti renda il tuo fulgore o l'assorba del tutto:   10  
-e benché tu noti dal tuo sicuro ritiro  
-i vecchi Amici ardere fiochi, come lampade in aria mefitica,  
-[[motifs/love|amali]] per quel che sono; né [[motifs/love|amarli]] meno  
-perché per te non sono quel che erano.  
-1826.
-
 
 
 <span class="atom-split" data-atom="335_pondere_non_numero" data-title="PONDERE NON NUMERO" data-chapter="" data-kind="intro" data-tags="concept/friendship,concept/paradox,form/epigram,histref/classical_antiquity,cluster/friendship,cluster/tears"></span>
@@ -405,17 +224,6 @@ Logan’s Sinngedicht (Lessing’s edition, Bk. II, No. 65).
 Nur nach Wägen, nicht nach Zählen.’  
 Cf. also Logan, Book II, No. 30.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-Gli amici si devono pesare, non contare; chi si vanta d'aver conquistato  
-una moltitudine d'amici, non ne ebbe mai uno.  
-Pubblicato per la prima volta in Morning Post, 26 dic. 1801. Incluso in Essays,  
-&c., iii. 978. Prima raccolta nel 1893. Adattato dal Sinngedicht di Friedrich  
-von Logan (edizione di Lessing, Lib. II, n. 65).  
-‘Freunde muss man sich erwählen  
-Nur nach Wägen, nicht nach Zählen.’  
-Cfr. anche Logan, Libro II, n. 30.
 
 
 
@@ -444,29 +252,6 @@ With my own laughter stifled my own wit.
 1796. First published in 1893.
 
 
-<span class="qlang-split" data-lang="it"></span>
-
-[Citato in una lettera di Coleridge a John Thelwall, datata  
-17 dic. 1796.]  
-. . . . Scherzi a parte, volesse Dio che potessimo sedere accanto a un [[motifs/fire|fuoco]] e  
-scherzare vivâ voce, faccia a faccia — Stella [la sig.ra Thelwall] e Sara [la sig.ra S.  
-T. Coleridge], Jack Thelwall e io! — come una volta scrissi al mio caro amico  
-T. Poole, —  
-Ripetendo  
-quel verso che Bowles, Poeta [[concepts/honour|onorato]] di cuore, cantò,  
-che desta la Lacrima, e pure ruba via la Fitta,  
-poi, con Berkeley o con Hobbes, fantasticarne,  
-sezionando la [[concepts/truth|Verità]] con lancetta metafisica.  
-O, tratti su da questi pozzi oscuri e insondati,  
-in più saggia follia far tintinnare il Berretto e i [[motifs/bells|Sonagli]].  
-Quanti racconti facemmo! che scherzi inventammo,  
-indovinello, Crambo, Rebus o Sciarada;  
-Enigmi che avrebbero fatto impazzire il Tebano,  
-e Bisticci, tanto migliori quanto squisitamente pessimi;  
-e io, se coglievo qualche vena più maliziosa,  
-col mio stesso riso soffocavo il mio stesso spirito.  
-1796. Pubblicato per la prima volta nel 1893.
-
 
 
 <span class="atom-split" data-atom="394_profuse_kindness" data-title="PROFUSE KINDNESS" data-chapter="" data-kind="intro" data-tags="concept/friendship,concept/unrequited_love,concept/grief_and_loss,concept/alienation,form/epigram,histref/ancient_greece,cluster/friendship,cluster/tears"></span>
@@ -490,26 +275,6 @@ Her loss is to my Heart, like the Heart’s [[motifs/blood|blood]].
 inscribed on a fly-leaf of Tom. II of Benedetto Menzini’s Poesie,  
 1782.  
 
-
-<span class="qlang-split" data-lang="it"></span>
-
-uÀ¹¿¹ ¿P´r 4Ã±Ã¹½ EÃó À»s¿½ À»s¿½ %¼¹ÃÅ Àq½Ä¿Â.  
-ESIODO. [Le opere e i giorni, v. 40.]  
-Che marea di [[motifs/spring|primavera]] d'[[motifs/love|Amore]] per cari amici in frotta!  
-La metà a uno solo varrebbe il [[topoi/double|doppio]] del tutto!  
-Senza data. Pubblicato per la prima volta in P. W., 1834.  
-Sto solo, né, dovesse spezzarmisi il cuore,  
-ho alcuno a cui lagnarmi o parlare.  
-Qui sto, uomo senza speranza e triste,  
-che sperava di vedere il mio [[motifs/love|Amore]], la mia Vita.  
-E strano sarebbe davvero, se potessi esser lieto  
-ricordando lei, sposa promessa della mia [[motifs/soul|anima]].  
-Ché in questo mondo nessuna creatura che abbia vita  
-mi fu mai così graziosa e così buona.  
-La sua perdita è per il mio Cuore come il [[motifs/blood|sangue]] del Cuore.  
-? S. T. C. Senza data. Pubblicato per la prima volta da un ms. nel 1893. Questi versi sono  
-vergati su un risguardo del Tom. II delle Poesie di Benedetto Menzini,  
-1782.
 
 
 
@@ -549,40 +314,3 @@ There is a [[concepts/beauty|beauty]] that resides within; —
 A fine and delicate spirit of womanhood  
 Of inward birth? —  
 Now first published from an MS.  
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Benché le amicizie differiscano all'infinito di grado,  
-le specie, mi pare, si possono ridurre a tre.  
-Conoscenze molte, e Comnoscenze poche;  
-ma di Innoscenze ne conosco solo due —  
-l'amico con cui ho pianto, e la fanciulla che corteggio!  
-MIO CARO GILLMAN — Il  
-fondamento  
-e  
-il matériel  
-di  
-questa  
-divisione  
-dei  
-propri  
-amici in ac-, con- e in-noscenze, fu dato da Hartley  
-Coleridge quando aveva appena cinque anni . Avendogli qualcuno chiesto  
-se Anny Sealy (una bambina con cui andava a scuola) fosse una sua  
-conoscenza, egli rispose, premendosi con gran fervore la mano destra  
-sul cuore: ‘No, è un'innoscenza!’ ‘[[motifs/well|Bene]]! è il racconto d'un  
-padre’; e il ricordo consola il vostro vecchio amico e innoscenza,  
-S. T. COLERIDGE.  
-Senza data. Pubblicato per la prima volta in Fraser’s Magazine del gen. 1835, art.  
-Coleridgeiana, p. 54. Prima raccolta nel 1893.  
-Se bella per [[concepts/nature|Natura]]  
-ella onora il bel Dono con bell'ornamento,  
-e con grazie che rivelano graziosa educazione,  
-può la graziosa [[concepts/nature|Natura]] scemare le Grazie della [[concepts/nature|Natura]]?  
-Se, istruita da entrambe, migliora entrambe e onora  
-i bei doni con bell'ornamento, non sapete  
-che v'è una [[concepts/beauty|bellezza]] che dimora dentro; —  
-un fine e delicato spirito di femminilità  
-di nascita interiore? —  
-Ora pubblicato per la prima volta da un ms.

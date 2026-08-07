@@ -128,6 +128,7 @@ tags:
 - [[testi/eliot/atomized/self-knowledge-immortality-self-reliance#075_a_note_on_war_poetry|A Note on War Poetry (Eliot)]]
 - [[works/also-by-t.-s.-eliot-(eliot)|Also by T. S. Eliot (Eliot)]]
 - [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#066_ix_son_of_man_behold_with_thine_eyes_and_hear_with_thine_ears|IX Son of Man, behold with thine eyes, and hear with thine ears (Eliot)]]
+- [[testi/eliot/atomized/satire-of-society-epigram-satire#020_mélange_adultère_de_tout|Mélange Adultère de Tout (Eliot)]]
 - [[works/the-confidential-clerk-(eliot)|THE CONFIDENTIAL CLERK (Eliot)]]
 - [[testi/eliot/atomized/satire-of-society-epigram-satire#124_y_z|Y, Z (Eliot)]]
 - [[testi/keats/atomized/satire-of-society-epigram-satire#024_addressed_to_haydon|ADDRESSED TO HAYDON (Keats)]]
