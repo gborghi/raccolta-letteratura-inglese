@@ -58,40 +58,76 @@ const rows = [...counts.entries()]
 fs.writeFileSync(path.join(OUT, "static", "tags.json"), JSON.stringify(rows))
 console.log(`gen-tags-table: wrote static/tags.json (${rows.length} tags)`)
 
-// ---- 2. slim tags/index.html: swap the huge listing for the table placeholder ----
-if (!fs.existsSync(tagsHtml)) {
-  console.error("gen-tags-table: missing", tagsHtml, "(skipped html rewrite)")
-  process.exit(0)
-}
-let h = fs.readFileSync(tagsHtml, "utf8")
-const before = h.length
+// ---- 2. slim the tag index pages: swap the huge listing for the table placeholder ----
+// Quartz emits the SAME page twice — tags/index.html and tags.html — and both carry the
+// full listing. Slimming only the first left a 25.3 MB tags.html, which Cloudflare Pages
+// refuses outright (25 MiB per-file cap), failing the whole deploy.
+// The asset paths are relative because the GitHub Pages copy is served from a subpath
+// (/raccolta-letteratura-inglese/), where an absolute /static would 404 — so each copy
+// gets the prefix its own depth requires.
+function slim(file, assetPrefix) {
+  if (!fs.existsSync(file)) {
+    console.error("gen-tags-table: missing", file, "(skipped)")
+    return false
+  }
+  let h = fs.readFileSync(file, "utf8")
+  const before = h.length
 
-// content starts right after the page-header (…Tag Index</h1></div></div>) and ends at
-// the afterBody stacked-pages container — replace that whole span with one placeholder.
-const hdr = h.indexOf("Tag Index</h1>")
-const start = hdr >= 0 ? h.indexOf("</div></div>", hdr) + "</div></div>".length : -1
-const end = h.indexOf('<div class="page-footer"')
-if (start > 0 && end > start) {
+  // Content starts at the first popover-hint that actually wraps an <article> and ends at
+  // the afterBody stacked-pages container — replace that whole span with one placeholder.
+  // Anchoring on the header text instead ("Tag Index</h1>") only works for tags/index.html:
+  // the flat tags.html twin carries an EMPTY page-header — no title, no h1 — so it kept its
+  // full 25 MB listing. The page-header's own popover-hint is empty, hence the <article>.
+  const start = h.indexOf('<div class="popover-hint"><article')
+  const end = h.indexOf('<div class="page-footer"')
+  if (!(start > 0 && end > start)) {
+    console.error(
+      `gen-tags-table: anchors not found in ${file} (start,end)=`,
+      start,
+      end,
+      "— NOT rewritten",
+    )
+    return false
+  }
   const placeholder =
     '<div class="popover-hint"><article class=""><div id="tags-table"></div></article></div>'
   h = h.slice(0, start) + placeholder + h.slice(end)
-} else {
-  console.error("gen-tags-table: anchors not found (start,end)=", start, end, "— html NOT rewritten")
+
+  if (!h.includes("tags-table.css")) {
+    h = h.replace("</head>", `<link rel="stylesheet" href="${assetPrefix}tags-table.css"></head>`)
+  }
+  if (!h.includes("tags-table.js")) {
+    h = h.replace("</body>", `<script src="${assetPrefix}tags-table.js" defer></script></body>`)
+  }
+
+  fs.writeFileSync(file, h)
+  console.log(
+    `gen-tags-table: rewrote ${path.relative(OUT, file)} ${(before / 1e6).toFixed(1)}MB -> ${(h.length / 1e3).toFixed(1)}KB`,
+  )
+  return true
+}
+
+const okNested = slim(tagsHtml, "../static/")
+const okFlat = slim(path.join(OUT, "tags.html"), "static/")
+if (!okNested && !okFlat) process.exit(1)
+
+// ---- 3. guard the Cloudflare Pages per-file cap ----
+// A single oversized file rejects the whole deploy, and the build itself gives no hint:
+// the 25.3 MB tags.html surfaced only when wrangler refused the upload.
+const CAP = 25 * 1024 * 1024
+const oversized = []
+const walk = (dir) => {
+  for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
+    const p = path.join(dir, e.name)
+    if (e.isDirectory()) walk(p)
+    else if (fs.statSync(p).size > CAP) oversized.push([path.relative(OUT, p), fs.statSync(p).size])
+  }
+}
+walk(OUT)
+if (oversized.length) {
+  for (const [f, s] of oversized) {
+    console.error(`gen-tags-table: ${f} is ${(s / 1024 / 1024).toFixed(1)} MiB — over the 25 MiB`)
+  }
+  console.error("gen-tags-table: Cloudflare Pages will refuse this deploy")
   process.exit(1)
 }
-
-// inject css in <head> and js before </body> (absolute /static paths; site served from root)
-// Relative ../static paths: eng-lit is served from a subpath
-// (/raccolta-letteratura-inglese/), so absolute /static would 404. From /tags/,
-// ../static resolves to the subpath's static dir on any host.
-if (!h.includes("tags-table.css")) {
-  h = h.replace("</head>", '<link rel="stylesheet" href="../static/tags-table.css"></head>')
-}
-if (!h.includes("tags-table.js")) {
-  h = h.replace("</body>", '<script src="../static/tags-table.js" defer></script></body>')
-}
-
-fs.writeFileSync(tagsHtml, h)
-console.log(
-  `gen-tags-table: rewrote tags/index.html ${(before / 1e6).toFixed(1)}MB -> ${(h.length / 1e3).toFixed(1)}KB`,
-)
